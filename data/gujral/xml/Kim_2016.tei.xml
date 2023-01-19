@@ -1,0 +1,1318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Association of prediabetes, defined by fasting glucose, HbA1c only, or combined criteria, with the risk of cardiovascular disease in Koreans</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Hong-Kyu</forename><surname>Kim</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Health Screening and Promotion Center</orgName>
+								<orgName type="institution">Asan Medical Center</orgName>
+								<address>
+									<addrLine>2 Biostatistics</addrLine>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jung</forename><forename type="middle">Bok</forename><surname>Lee</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Seon</forename><forename type="middle">Ha</forename><surname>Kim</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Preventive Medicine</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Min-Woo</forename><surname>Jo</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Preventive Medicine</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Eun</forename><forename type="middle">Hee</forename><surname>Kim</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Health Screening and Promotion Center</orgName>
+								<orgName type="institution">Asan Medical Center</orgName>
+								<address>
+									<addrLine>2 Biostatistics</addrLine>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jenie</forename><forename type="middle">Yoonoo</forename><surname>Hwang</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Health Screening and Promotion Center</orgName>
+								<orgName type="institution">Asan Medical Center</orgName>
+								<address>
+									<addrLine>2 Biostatistics</addrLine>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Sung</forename><forename type="middle">Jin</forename><surname>Bae</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Health Screening and Promotion Center</orgName>
+								<orgName type="institution">Asan Medical Center</orgName>
+								<address>
+									<addrLine>2 Biostatistics</addrLine>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Chang</forename><forename type="middle">Hee</forename><surname>Jung</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Division of Endocrinology and Metabolism</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Woo</forename><forename type="middle">Je</forename><surname>Lee</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Division of Endocrinology and Metabolism</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Joong-Yeol</forename><surname>Park</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Division of Endocrinology and Metabolism</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Gyung-Min</forename><surname>Park</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department" key="dep1">Division of Cardiology</orgName>
+								<orgName type="department" key="dep2">Department of Internal Medicine</orgName>
+								<orgName type="institution">University of Ulsan College of Medicine</orgName>
+								<address>
+									<settlement>Seoul</settlement>
+									<country key="KR">Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Young-Hak</forename><surname>Kim</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department" key="dep1">Division of Cardiology</orgName>
+								<orgName type="department" key="dep2">Department of Internal Medicine</orgName>
+								<orgName type="institution">University of Ulsan College of Medicine</orgName>
+								<address>
+									<settlement>Seoul</settlement>
+									<country key="KR">Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jaewon</forename><surname>Choe</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Health Screening and Promotion Center</orgName>
+								<orgName type="institution">Asan Medical Center</orgName>
+								<address>
+									<addrLine>2 Biostatistics</addrLine>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff4">
+								<orgName type="department">Asan Medical Center</orgName>
+								<orgName type="institution">Health Screening &amp; Promotion Center</orgName>
+								<address>
+									<addrLine>88 Olympic-ro 43-gil, Songpa-ku</addrLine>
+									<postCode>138-736</postCode>
+									<settlement>Seoul</settlement>
+									<country key="KR">South Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff5">
+								<orgName type="institution">Shanghai Jiaotong University School of Medicine and John Wiley &amp; Sons Australia, Ltd</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff6">
+								<orgName type="institution">Shanghai Jiaotong University School of Medicine and John Wiley &amp; Sons Australia, Ltd</orgName>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Association of prediabetes, defined by fasting glucose, HbA1c only, or combined criteria, with the risk of cardiovascular disease in Koreans</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">8E47A0BCD9FE57EDBFE34E953BE3123E</idno>
+					<idno type="DOI">10.1111/1753-0407.12343</idno>
+					<note type="submission">Received 27 February 2015; revised 2 July 2015; accepted 6 September 2015.</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.1" ident="GROBID" when="2022-07-19T22:45+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>cardiovascular disease</term>
+					<term>fasting glucose</term>
+					<term>HbA1c</term>
+					<term>Koreans</term>
+					<term>prediabetes</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Background:</head><p>The aim of the present study was to compare the association between cardiovascular diseases (CVD) and prediabetes defined by either fasting plasma glucose (FPG), HbA1c, or their combination in a Korean population. Methods: In all, 76 434 South Koreans who voluntarily underwent a general health examination in the Health Screening &amp; Promotion Center (Asan Medical Center) were analyzed after excluding patients with a previous history of CVD. Cardiovascular events and death due to CVD during a median follow-up period of 3.1 years (interquartile range 1.9-4.3 years) were identified from the Nationwide Health Insurance Claims Database and death certificates using ICD-10 codes. Results: Age-and sex-adjusted hazard ratios (HRs) for overall CVD events were significantly greater for subjects with prediabetes defined by FPG only (HR 1.19; 95% confidence interval [CI] 1.08-1.31), HbA1c only (HR 1.28; 95% CI 1.16-1.42), and combined criteria (HR 1.20; 95% CI 1.09-1.32) compared with the normoglycemic group. After adjusting for multiple conventional risk factors (e.g. hypertension, low-density lipoprotein cholesterol, high-density lipoprotein cholesterol, smoking status, family history of CVD, and BMI), the HRs for overall CVD were significantly increased only for participants with prediabetes defined by HbA1c. Age-and sex-adjusted HRs for major ischemic heart disease events were significantly increased for subjects with prediabetes defined either by HbA1c or combined criteria. Similarly, age-and sex-adjusted HRs for percutaneous coronary intervention were significantly higher for subjects with prediabetes defined by HbA1c only. For diabetes, the multivariateadjusted HRs for all outcomes were significantly increased by all three criteria. Conclusions: Adding an HbA1c criterion when defining prediabetes in Koreans can help identify individuals with an increased risk of CVD.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>It is well established that type 2 diabetes is associated with a marked increase in the risk of cardiovascular disease (CVD) and ischemic heart disease (IHD). <ref type="bibr" target="#b0">[1]</ref><ref type="bibr" target="#b1">[2]</ref><ref type="bibr" target="#b2">[3]</ref> For non-diabetic dysglycemia, impaired fasting glucose (IFG) defined by fasting plasma glucose (FPG) alone has been reported to have only slightly increased hazard ratios (HRs) for CVD, <ref type="bibr" target="#b3">[4]</ref><ref type="bibr" target="#b4">[5]</ref><ref type="bibr" target="#b5">[6]</ref><ref type="bibr" target="#b6">[7]</ref><ref type="bibr" target="#b7">[8]</ref><ref type="bibr" target="#b8">[9]</ref><ref type="bibr" target="#b9">[10]</ref><ref type="bibr" target="#b10">[11]</ref><ref type="bibr" target="#b11">[12]</ref> and some controversies remain. <ref type="bibr" target="#b12">13,</ref><ref type="bibr" target="#b13">14</ref> In contrast, many studies have more consistently reported that impaired glucose tolerance (IGT) is associated with increased cardiovascular morbidity and mortality. <ref type="bibr" target="#b14">[15]</ref><ref type="bibr" target="#b15">[16]</ref><ref type="bibr" target="#b16">[17]</ref> This discrepancy could result from the fact that a single glucose measurement used to define IFG has high intra-individual variation. In addition, IFG defined by FPG criteria only may include some patients with diabetes who have non-diabetic fasting but diabetic post-challenge glucose levels, and could exclude some individuals with prediabetes who have normal fasting but prediabetic post-challenge glucose levels (i.e. isolated IGT). <ref type="bibr" target="#b17">18</ref> However, the definition of prediabetes using IGT is complicated because it is not easy to apply the oral glucose tolerance test in clinical practice or in epidemiological studies. <ref type="bibr" target="#b18">19</ref> A time-integrated marker of average blood glucose concentrations, HbA1c is easy to measure and has low intra-individual variation. <ref type="bibr" target="#b19">20</ref> Therefore, in 2010, the American Diabetes Association (ADA) recommended the use of HbA1c as an alternative diagnostic criterion for diabetes (HbA1c ≥6.5% [48 mmol/mol]) and prediabetes (HbA1c 5.7%-6.4% [39 to 47 mmol/mol]). <ref type="bibr" target="#b20">21</ref> Recently, several studies <ref type="bibr">[22]</ref><ref type="bibr">[23]</ref><ref type="bibr" target="#b23">[24]</ref><ref type="bibr" target="#b24">[25]</ref><ref type="bibr" target="#b25">[26]</ref><ref type="bibr" target="#b26">[27]</ref><ref type="bibr" target="#b27">[28]</ref> have examined whether HbA1c is associated with CVD, including IHD, or mortality in apparently healthy, non-diabetic individuals. Of these, the EPIC-Norfolk (European Prospective Investigation into Cancer in Norfolk, United Kingdom) study, <ref type="bibr">23</ref> Hoorn Study (Caucasians in The Netherlands), <ref type="bibr">22</ref> ARIC (Atherosclerosis Risk in Communities; blacks and whites in the US) study, <ref type="bibr" target="#b23">24</ref> the Nurses' Health Study and the Health Professionals Follow-up Study (mainly Caucasians in the US), <ref type="bibr" target="#b24">25</ref> and a Japanese Study <ref type="bibr" target="#b25">26</ref> have shown that HbA1c is independently and more strongly associated with CVD. However, the Finnish study <ref type="bibr" target="#b26">27</ref> and Strong Heart Study (in American Indians) <ref type="bibr" target="#b27">28</ref> did not show an additional role for HbA1c in predicting CVD risk in individuals with prediabetes. These studies were all performed in different populations and used various categories of HbA1c to examine the association between HbA1c and CVD risk. Therefore, the present study was designed to compare the association between CVD risk and prediabetes defined by FPG only, HbA1c only, or their combination in Koreans.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data sources</head><p>In all, 114 698 consecutive South Korean individuals who had undergone a general health examination in the Health Screening and Promotion Center at Asan Medical Center between January 2007 and June 2011 were screened. Of these, 86 476 (75%) consented to participate in the study. Participants were excluded if the Health Insurance Review &amp; Assessment Service (HIRA) database indicated that they had a history of CVD (codes I00-99 in the International Classification of Diseases, 10th Revision [ICD-10]; http://www.who.int/ classifications/icd/en/, accessed on 5 January 2015) before the index day or if their data were not available in the HIRA database. The HIRA is a quasi-governmental organization that systematically reviews medical fees to minimize the risk of redundant and unnecessary medical services. South Korea has a National Health Insurance (NHI) system and it is mandatory that all healthcare providers join this system on a fee-for-service basis. <ref type="bibr" target="#b28">29</ref> Consequently, all NHI claims are reviewed by the HIRA. <ref type="bibr" target="#b29">30</ref> For the present study, the HIRA database was assessed up until December 2011. Patients with angina, myocardial infarction (MI), stroke, or structural heart disease; those who had undergone percutaneous coronary intervention (PCI), cardiac procedure, or open heart surgery before the index day; those who had a past medical history of angina, MI, stroke, or malignancy as determined by questionnaire; or those who &lt;20 years of age were excluded from the study. Some subjects met more than two exclusion criteria. Thus, 76 434 participants were finally included in the analyses (Fig. <ref type="figure" target="#fig_0">1</ref>).</p><p>This study was approved by the National Strategic Coordinating Center of Clinical Research and HIRA in Korea and the Institutional Review Board of Asan Medical Center, Seoul, Korea. It conforms to the provisions of the Declaration of Helsinki (as revised in Seoul, 2008). All participants enrolled in the study provided written informed consent.</p><p>Baseline demographic data of the participants were acquired from a database that is maintained by the Health Screening and Promotion Center at Asan Medical Center. The following data were collected via a systemized questionnaire prior to the general health examination: any medical history of angina, MI, stroke, structural heart disease, coronary revascularization, hypertension, diabetes mellitus, hyperlipidemia, or malignancy; family history of IHD; smoking status; physical activity; and education status. A family history of IHD was defined as IHD occurring in a first-degree relative of any age. Smoking habits were categorized as never, previous, or current smoker; drinking habits were simply categorized according to frequency per week (≤3 times/ week or ≥4 times/week); and physical activity was classified according to exercise frequency (≤2 days/week or ≥3 days/week).</p><p>Height and weight were measured with participants wearing light clothing without shoes. Blood pressure was measured with an electric sphygmomanometer on the right arm with participants in a sitting position after a 5-min rest. Body mass index (BMI) was calculated as weight in kilograms divided by height (in meters) squared. Blood samples were obtained in the morning after an overnight fast. Plasma glucose was measured by the hexokinase method using an autoanalyzer (Toshiba, Tokyo, Japan). Standard liver function testing and total cholesterol, high-density lipoprotein cholesterol (HDL-C), and triglyceride levels were also measured using an autoanalyzer (Toshiba). Ion-exchange HPLC using an automated analyzer (Variant II; Bio-Rad Laboratories, Hercules, CA, USA) was used to determine HbA1c.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disease definitions</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Obesity and hypertension</head><p>Obesity was defined by the World Health Organization (WHO) Asian reference as BMI &gt;25 kg/m 2 . <ref type="bibr" target="#b30">31</ref> Hypertension was defined as systolic blood pressure (SBP) ≥140 mmHg, diastolic blood pressure (DBP) ≥90 mmHg, or the use of antihypertensive medications.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Definitions of dysglycemia</head><p>Prediabetes was defined by FPG only (100-125 mg/dL), HbA1c only (5.7%-6.4% [39-47 mmol/mol]), or a combination of FPG and HbA1c (FPG 100-125 mg/dL or HbA1c 5.7%-6.4% [39-47 mmol/mol]). Similarly, diabetes was defined by FPG only (≥126 mg/dL), HbA1c only (≥6.5% [48 mmol/mol]), or their combination (FPG ≥126 mg/dL or HbA1c ≥6.5% [48 mmol/mol]).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Outcome definitions</head><p>Three major outcomes were assessed. The overall CVD event was defined as a composite of cardiovascular death, MI, stroke (hemorrhagic and ischemic), coronary revascularization, hospitalization or out-patient visit with IHD, other vascular disease, or congestive heart failure. Cardiovascular death, MI, revascularization, and hospitalization with IHD were classified as major IHD events. Major CVD events were also defined as a composite of cardiovascular death, MI, stroke (hemorrhagic and ischemic), coronary revascularization, and hospitalization with IHD. In participants with multiple events, the first event was considered to be the component of the composite outcome. Deaths up to 31 December 2011 were confirmed by matching the information to the death records. To this end, death certificates in the National Statistical Office were identified by using personal identification numbers that were assigned to the participants at birth. The abstractors coded the recorded underlying causes of death according to the ICD-10. The causes of death were classified as cardiovascular if ICD-10 codes I00-99 and R96 were recorded. Myocardial infarction and stroke were ascertained by the hospital discharge databases of the HIRA (ICD-10 codes I21-22 and I60-69). Coronary revascularizations in the HIRA database were identified using the procedure codes of PCI (M6551, M6552, M6561-4, M6571, and M6572) and coronary artery bypass surgery (O1641, O1642, O1647, OA641, OA642, and OA647). Hospitalizations with IHD other than MI (ICD-10 codes I20, 23-25), other vascular disease (ICD-10 code I70), or congestive heart failure (ICD-10 code I50) were defined by the hospital discharge databases of the HIRA. Out-patient visits with IHD, other vascular disease, or congestive heart failure were also identified using the HIRA database.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analyses</head><p>Baseline characteristics of participants by sex and each of the three different criteria for prediabetes were compared by analysis of variance or Chi-squared tests. To estimate incidence rates of CVD according to prediabetes and diabetes, we calculated the person-years at risk of all the participants included in the study. For participants who had events related to outcomes, the affected time was time to events, and for participants who had no events, the individual time at risk was the follow-up time. The incidence rate was estimated by the total number of events divided by 100 000 person-years at risk. In addition, to evaluate the association of CVD according to different prediabetes criteria, we constructed multivariate logistic regression models weighted with the person-year data of the participants. <ref type="bibr" target="#b31">32</ref> Based on the model, we estimated the odds ratios (ORs) for developing CVD of the prediabetes and diabetes groups compared with participants with normal glucose regulation. Models were initially adjusted for age and sex, and then adjusted for multiple covariates for each endpoint. Statistical analyses were conducted using SAS version 9.13 (SAS Institute, Cary, NC, USA). All tests were twosided and P &lt; 0.05 was considered significant.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Table 1 lists the baseline characteristics of participants.</head><p>Figure <ref type="figure" target="#fig_1">2</ref> shows the prevalence of prediabetes and diabetes by different criteria at baseline. The prevalence of prediabetes by FPG only, HbA1c only, and combined criteria was 26.4%, 19.3%, and 35.2%, respectively. The prevalence of diabetes using these criteria was 8.3%, 8.3%, and 9.2%, respectively.</p><p>During a median follow-up of 3.1 (interquartile range [IQR] 1.9-4.3) years, 5800 overall CVD events were recorded, including 782 major CVD events and 430 major IHD events. Incidence rates of overall CVD (per 100 000 person-years) in prediabetes were estimated to be 3460 by FPG only, 3684 by HbA1c only, and 3434 using combined criteria (Table <ref type="table" target="#tab_1">2</ref>). Age-and sex-adjusted HRs for the overall CVD events were significantly higher for participants with IFG (HR 1.19; 95% confidence interval [CI] 1.08-1.31) and diabetes (HR 2.11; 95% CI 1.88-2.37) by FPG only, prediabetes (HR 1.28; 95% CI 1.16-1.42) and diabetes (HR 2.12; 95% CI 1.89-2.37) by HbA1c only, and prediabetes (HR 1.20; 95% CI 1.09-1.32) and diabetes (HR 2.15; 95% CI 1.91-2.41) using combined criteria. After adjusting for multiple conventional risk factors, such as hypertension, lowdensity lipoprotein cholesterol (LDL-C) and HDL-C levels, smoking status, and family history of CVD, the HRs for overall CVD were significantly higher for participants with prediabetes defined only by HbA1c (HR 1.12; 95% CI 1.01-1.24).</p><p>Age-and sex-adjusted HRs for major IHD events were significantly higher for participants with prediabetes defined by HbA1c only (HR 1.54; 95% CI 1.20-1.98) and combined criteria (HR 1.28; 95% CI 1.01-1.62). For PCI, age-and sex-adjusted HRs were significantly higher for participants with prediabetes defined by HbA1c only (HR 1.57; 95% CI 1.12-2.20). Age-and sex-adjusted and multivariate-adjusted HRs for out-patient visits with IHD were significantly higher for prediabetes defined by HbA1c only and combined criteria (data not shown).</p><p>For diabetes, age-and sex-adjusted and multivariateadjusted HRs for overall CVD major IHD events, major CVD events, stroke, and all-cause mortality were significantly higher using all three criteria (Table <ref type="table" target="#tab_1">2</ref>). When we analyzed men and women separately to see whether there is a gender difference in risk, no significant differences were observed for HRs for overall CVD, major IHD, and major CVD events between men and women by each criterion (Table <ref type="table" target="#tab_3">3</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>The results of the present study show that prediabetes and diabetes are associated with an increased overall risk of CVD. Following adjustment for age and sex, overall CVD risk was increased by 19%, 28%, and 20% for prediabetes defined by IFG only, HbA1c only, and combined criteria, respectively. After further adjustments for other conventional risk factors, participants with prediabetes defined by HbA1c only had a 12% increased overall risk of CVD events. For major IHD events, prediabetes defined by either HbA1c only or combined criteria had increased risks of 54% and 28%, respectively, after adjustment for age and sex. These results suggest that prediabetes defined by HbA1c seems to be more strongly and independently associated with the overall risk of CVD. These results are consistent with those of previous studies <ref type="bibr">[22]</ref><ref type="bibr">[23]</ref><ref type="bibr" target="#b23">[24]</ref> showing that HbA1c is more strongly associated with CVD risk than FPG.</p><p>Because previous studies <ref type="bibr" target="#b32">33,</ref><ref type="bibr" target="#b33">34</ref> suggested that atherosclerosis develops before the onset of clinical diabetes, we wanted to know whether non-diabetic dysglycemia could initiate an atherosclerotic process and to determine which criteria would be more useful for early recognition of the risk in clinical practice. Therefore, we compared the three criteria of prediabetes that were already defined (IFG, prediabetes by HbA1c, and combined criteria), instead of the quartile or quintile categories of HbA1c used in other studies. <ref type="bibr" target="#b5">6,</ref><ref type="bibr">[22]</ref><ref type="bibr">[23]</ref><ref type="bibr" target="#b23">[24]</ref><ref type="bibr" target="#b24">[25]</ref> We could not compare prediabetes by post-challenge plasma glucose (IGT) because oral glucose tolerance tests are not usually performed in general health check-ups or in routine clinical practice, although post-challenge hyperglycemia has been reported to be a better predictor of CVD. <ref type="bibr" target="#b14">[15]</ref><ref type="bibr" target="#b15">[16]</ref><ref type="bibr" target="#b16">[17]</ref> Therefore, adding HbA1c criteria when defining prediabetes could more reasonably detect people at high risk of CVD than the previously used IFG, which is based only on the FPG level. Our results suggest that physicians should try to identify other CVD risk factors and to actively control those factors when prediabetes has been diagnosed, especially when it has been diagnosed in accordance with HbA1c criteria. When people are diagnosed with prediabetes, they are usually recommended to start lifestyle modifications, including diet and exercise. Therefore, detecting prediabetes with proper criteria may be helpful in reducing the risk of not only diabetes, but also CVD as a result of lifestyle improvements. Recently, a 5-year follow-up cohort study <ref type="bibr" target="#b34">35</ref> showed that both overall level of daily ambulatory activity and change in ambulatory activity over 12 months exhibited a graded inverse association with the risk of CVD in individuals with IGT at baseline.  However, other studies <ref type="bibr" target="#b26">27,</ref><ref type="bibr" target="#b27">28</ref> did not show an additional role of HbA1c to conventional CVD risk factors for predicting CVD risk in people with prediabetes. Although the reasons for these discrepancies are currently unclear, different ethnicities of the study participants could be one of the reasons, because disparities in HbA1c levels among different ethnicities have been reported <ref type="bibr" target="#b35">36,</ref><ref type="bibr" target="#b36">37</ref> and the association between non-diabetic HbA1c levels and all-cause and CVD mortality were reported to vary according to race and/or ethnicity. <ref type="bibr" target="#b38">39</ref> Other possible explanations for these discrepancies include different methodologies, such as outcome definitions and/or duration of follow-up. In the present study, the risks for prediabetes defined by HbA1c were higher for the composite endpoints, such as overall CVD or major IHD and CVD events. However, the risks for prediabetes defined by HbA1c were not higher than those defined by FPG for individual endpoints, such as stroke or mortality. In the case of mortality, its incidence may be too low to reach statistical significance during the relatively short follow-up period. Among individual endpoints, the superiority of HbA1c seems to come primarily from the difference in PCI. However, in addition to cardiovascular death and MI, composite endpoints, including revascularization and hospitalization with IHD, have also been used as major outcomes in several studies. <ref type="bibr" target="#b38">39,</ref><ref type="bibr" target="#b39">40</ref> Although the causal relationship between HbA1c and atherosclerosis is unclear and the mechanism by which HbA1c is associated with increased risk for CVD is not simple, HbA1c as a precursor of advanced glycation end-products (AGEs) could be related to a low degree of inflammation and future atherosclerosis. <ref type="bibr" target="#b40">41,</ref><ref type="bibr" target="#b41">42</ref> We did not observe any significant differences in HRs for overall CVD, major IHD, and major CVD events between men and women. The HRs for the IHD events seemed to be higher in women than in men, but the difference did not reach statistical significance, probably because the numbers of events were small. In general, it has been thought that CVD or IHD events occur more often among men than women. However, there have been several reports that women show increased risk for IHD and related mortality. <ref type="bibr" target="#b42">[43]</ref><ref type="bibr" target="#b43">[44]</ref><ref type="bibr" target="#b44">[45]</ref><ref type="bibr" target="#b45">[46]</ref> The present study has several limitations. First, the study participants were not a random sample of the general population. Therefore, the results may not be generalizable to the entire Korean population. Second, we could not exclude participants who developed incident diabetes before CVD events because we only assessed baseline FPG or HbA1c levels. However, most other studies also used only baseline measures of glycemia. Third, the follow-up period may be too short to obtain sufficient outcomes. This could have led to an underestimation of outcomes, although the confounding effects from incident diabetes would be minimized. Finally, including data from out-patient visits may have led to an overestimation of the outcomes. However, any possible underestimation of outcomes because of the short duration of follow-up could be partly balanced through this analysis.</p><p>Despite these limitations, our results suggest that HbA1c can be used during health screenings to help identify individuals who will need more follow-up for potential CVD development in the future. In South Korea, health screenings are widely practiced and may be more successful in identifying individuals with prediabetes than more traditional physician-patient office visits. However, in other countries there may be cultural or social system differences in seeing a healthcare provider and screening large numbers of the population with HbA1c may not be applicable.</p><p>In conclusion, the present study showed that prediabetes defined by HbA1c only was associated with increased overall risk of CVD and major IHD events, and adding HbA1c in defining prediabetes has a certain role in detecting individuals at high risk of CVD in Korea. Further long-term follow-up studies should be performed to confirm this association and to determine whether intensive control of risk factors at an early stage can reduce the actual risk of CVD events in individuals with prediabetes identified by HbA1c criteria. </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1</head><label>1</label><figDesc>Figure 1 Overview of the study population with inclusion and exclusion criteria. CVD, cardiovascular disease; HIRA, the Health Insurance Review &amp; Assessment Service; MI, myocardial infarction.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2</head><label>2</label><figDesc>Figure 2 Prevalence of prediabetes and diabetes according to fasting plasma glucose (FPG) only, HbA1c only, or combined criteria at baseline.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Baseline characteristics of the study participants</figDesc><table><row><cell cols="2">No. subjects</cell><cell></cell><cell>76 434</cell></row><row><cell>No. men</cell><cell></cell><cell></cell><cell>43 749 (57.2%)</cell></row><row><cell cols="2">Age (years)</cell><cell></cell><cell>47.5 ± 10.5</cell></row><row><cell>BMI (kg/m</cell><cell>2 )</cell><cell></cell><cell>23.7 ± 2.9</cell></row><row><cell cols="2">Obesity (BMI ≥ 25 kg/m</cell><cell>2 )</cell><cell>31.5%</cell></row><row><cell cols="3">Waist circumference (cm)</cell></row><row><cell>Men</cell><cell></cell><cell></cell><cell>85.8 ± 7.6</cell></row><row><cell>Women</cell><cell></cell><cell></cell><cell>76.4 ± 8.0</cell></row><row><cell cols="2">Smoking status</cell><cell></cell></row><row><cell cols="2">Current smoker</cell><cell></cell><cell>24.1%</cell></row><row><cell cols="2">Ex-smoker</cell><cell></cell><cell>30.6%</cell></row><row><cell cols="2">Alcohol use</cell><cell></cell><cell>40.6%</cell></row><row><cell>Exercise</cell><cell></cell><cell></cell><cell>37.0%</cell></row><row><cell cols="2">Hypertension</cell><cell></cell><cell>20.2%</cell></row><row><cell cols="2">SBP (mmHg)</cell><cell></cell><cell>121.4 ± 13.4</cell></row><row><cell cols="2">DBP (mmHg)</cell><cell></cell><cell>73.6 ± 9.9</cell></row><row><cell cols="3">Total cholesterol (mmol/L)</cell><cell>4.97 ± 0.89</cell></row><row><cell cols="2">HDL-C (mmol/L)</cell><cell></cell><cell>1.45 ± 0.36</cell></row><row><cell cols="2">LDL-C (mmol/L)</cell><cell></cell><cell>3.11 ± 0.77</cell></row><row><cell cols="2">Triglycerides (mmol/L)</cell><cell></cell><cell>1.40 ± 0.81</cell></row><row><cell cols="2">FPG (mmol/L)</cell><cell></cell><cell>5.48 ± 1.07</cell></row><row><cell>HbA1c</cell><cell></cell><cell></cell></row><row><cell>%</cell><cell></cell><cell></cell><cell>5.5 ± 0.7</cell></row><row><cell cols="2">mmol/mol</cell><cell></cell><cell>37 ± 6</cell></row><row><cell cols="2">Family history of CVD</cell><cell></cell><cell>5.5%</cell></row></table><note>Unless indicated otherwise, data are given as the mean ± SD. SBP, systolic blood pressure; DBP, diastolic blood pressure; HDL-C, high-density lipoprotein cholesterol; LDL-C, low-density lipoprotein cholesterol; FPG, fasting plasma glucose; CVD, cardiovascular disease.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2</head><label>2</label><figDesc>Incidence rates and hazard ratios (95% confidence intervals) of cardiovascular disease according to degree of dysglycemia by different definitions</figDesc><table><row><cell cols="6">Prediabetes and risk of CVD</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="3">H.-K. KIM et al.</cell></row><row><cell>Combined criteria</cell><cell>Prediabetes Diabetes</cell><cell>26 966 6930</cell><cell></cell><cell>67 394 15 834</cell><cell>2314 1403</cell><cell>3434 8861</cell><cell>1.67 (1.52-1.82) 3.82 (3.42-4.27)</cell><cell>1.20 (1.09-1.32) 2.15 (1.91-2.41)</cell><cell>1.05 (0.95-1.15) 1.70 (1.51-1.92)</cell><cell></cell><cell>72 879 19 082</cell><cell>168 119</cell><cell>231 624</cell><cell>2.08 (1.64-2.63) 5.18 (3.98-6.74)</cell><cell>1.28 (1.01-1.62) 2.15 (1.64-2.82))</cell><cell>1.08 (0.85-1.38) 1.67 (1.26-2.20)</cell><cell></cell><cell>72 482 18 803</cell><cell>303 195</cell><cell>418 1037</cell><cell>1.75 (1.44-2.12) 3.89 (3.10-4.89)</cell><cell>1.14 (0.94-1.39) 1.80 (1.42-2.28)</cell><cell>0.99 (0.81-1.22) 1.46 (1.14-1.86)</cell><cell></cell><cell>72 768 19 010</cell><cell>141 91</cell><cell>194 479</cell><cell>1.66 (1.29-2.15) 3.01 (2.01-5.26)</cell><cell>1.12 (0.86-1.45) 1.92 (1.41-2.62)</cell><cell>1.00 (0.77-1.30) 1.58 (1.15-2.17)</cell><cell></cell><cell>72 850 19 047</cell><cell>70 55</cell><cell>96 289</cell><cell>1.68 (1.18-2.39) 4.18 (2.80-6.24)</cell><cell>1.10 (0.77-1.57) 1.94 (1.28-2.96)</cell><cell>0.96 (0.67-1.39) 1.56 (1.01-2.39)</cell><cell></cell><cell>72 695 18 947</cell><cell>139 95</cell><cell>191 501</cell></row><row><cell></cell><cell>Normal</cell><cell>42 538</cell><cell></cell><cell>121 173</cell><cell>2083</cell><cell>1719</cell><cell>1</cell><cell>1</cell><cell>1</cell><cell></cell><cell>126 242</cell><cell>143</cell><cell>113</cell><cell>1</cell><cell>1</cell><cell>1</cell><cell></cell><cell>125 821</cell><cell>284</cell><cell>226</cell><cell>1</cell><cell>1</cell><cell>1</cell><cell></cell><cell>126 080</cell><cell>147</cell><cell>117</cell><cell>1</cell><cell>1</cell><cell>1</cell><cell></cell><cell>126 199</cell><cell>67</cell><cell>53</cell><cell>1</cell><cell>1</cell><cell>1</cell><cell></cell><cell>126 051</cell><cell>123</cell><cell>98</cell></row><row><cell></cell><cell>Diabetes</cell><cell>6 352</cell><cell></cell><cell>14 293</cell><cell>1328</cell><cell>7671</cell><cell>3.56 (3.19-3.97)</cell><cell>2.12 (1.89-2.37)</cell><cell>1.75 (1.55-1.96)</cell><cell></cell><cell>17 377</cell><cell>112</cell><cell>645</cell><cell>4.72 (3.68-6.05)</cell><cell>2.20 (1.70-2.85)</cell><cell>1.76 (1.35-2.29)</cell><cell></cell><cell>17 107</cell><cell>183</cell><cell>1070</cell><cell>3.55 (2.85-4.42)</cell><cell>1.79 (1.42-2.25)</cell><cell>1.49 (1.18-1.88)</cell><cell></cell><cell>17 305</cell><cell>85</cell><cell>491</cell><cell>3.46 (2.59-4.61)</cell><cell>1.80 (1.33-2.43)</cell><cell>1.51 (1.11-2.06)</cell><cell></cell><cell>17 340</cell><cell>50</cell><cell>288</cell><cell>3.40 (2.28-5.06)</cell><cell>1.70 (1.12-2.57)</cell><cell>1.41 (0.92-2.14)</cell><cell></cell><cell>17 249</cell><cell>90</cell><cell>522</cell></row><row><cell>By HbA1c only</cell><cell>Prediabetes</cell><cell>14 821</cell><cell></cell><cell>33 755</cell><cell>1355</cell><cell>3684</cell><cell>1.79 (1.61-1.98)</cell><cell>1.28 (1.16-1.42)</cell><cell>1.12 (1.01-1.24)</cell><cell></cell><cell>36 895</cell><cell>112</cell><cell>304</cell><cell>2.33 (1.83-2.98)</cell><cell>1.54 (1.20-1.98)</cell><cell>1.24 (0.97-1.60)</cell><cell></cell><cell>36 648</cell><cell>191</cell><cell>521</cell><cell>1.86 (1.51-2.30)</cell><cell>1.23 (0.99-1.53)</cell><cell>1.05 (0.84-1.30)</cell><cell></cell><cell>36 831</cell><cell>85</cell><cell>231</cell><cell>1.72 (1.30-2.29)</cell><cell>1.12 (0.84-1.49)</cell><cell>1.00 (0.74-1.33)</cell><cell></cell><cell>36 887</cell><cell>40</cell><cell>108</cell><cell>1.74 (1.18-2.56)</cell><cell>1.14 (0.77-1.68)</cell><cell>1.00 (0.67-1.49)</cell><cell></cell><cell>36 772</cell><cell>95</cell><cell>258</cell></row><row><cell></cell><cell>Normal</cell><cell>55 261</cell><cell></cell><cell>156 352</cell><cell>3117</cell><cell>1906</cell><cell>1</cell><cell>1</cell><cell>1</cell><cell></cell><cell>163 931</cell><cell>206</cell><cell>126</cell><cell>1</cell><cell>1</cell><cell>1</cell><cell></cell><cell>163 350</cell><cell>408</cell><cell>250</cell><cell>1</cell><cell>1</cell><cell>1</cell><cell></cell><cell>163 722</cell><cell>209</cell><cell>128</cell><cell>1</cell><cell>1</cell><cell>1</cell><cell></cell><cell>163 869</cell><cell>102</cell><cell>62</cell><cell>1</cell><cell>1</cell><cell>1</cell><cell></cell><cell>163 672</cell><cell>172</cell><cell>105</cell></row><row><cell></cell><cell>Diabetes</cell><cell>6399</cell><cell></cell><cell>14 671</cell><cell>1332</cell><cell>9079</cell><cell>3.61 (3.23-4.03)</cell><cell>2.11 (1.88-2.37)</cell><cell>1.72 (1.52-1.93)</cell><cell></cell><cell>17 776</cell><cell>112</cell><cell>630</cell><cell>4.33 (3.36-5.57)</cell><cell>1.87 (1.44-2.42)</cell><cell>1.52 (1.16-1.98)</cell><cell></cell><cell>17 513</cell><cell>187</cell><cell>1068</cell><cell>3.61 (2.89-4.50)</cell><cell>1.76 (1.40-2.21)</cell><cell>1.48 (1.17-1.87)</cell><cell></cell><cell>17 708</cell><cell>89</cell><cell>503</cell><cell>3.83 (2.87-5.11)</cell><cell>2.01 (1.49-2.72)</cell><cell>1.70 (1.25-2.32)</cell><cell></cell><cell>17 742</cell><cell>54</cell><cell>304</cell><cell>4.22 (2.85-6.24)</cell><cell>2.09 (1.39-3.15)</cell><cell>1.73 (1.34-2.62)</cell><cell></cell><cell>17 651</cell><cell>90</cell><cell>510</cell></row><row><cell>By FPG only</cell><cell>Prediabetes (IFG)</cell><cell>20 256</cell><cell></cell><cell>52 769</cell><cell>1826</cell><cell>3460</cell><cell>1.60 (1.46-1.75)</cell><cell>1.19 (1.08-1.31)</cell><cell>1.05 (0.95-1.15)</cell><cell></cell><cell>57 052</cell><cell>120</cell><cell>210</cell><cell>1.60 (1.26-2.04)</cell><cell>1.00 (0.79-1.27)</cell><cell>0.88 (0.69-1.12)</cell><cell></cell><cell>56 777</cell><cell>222</cell><cell>391</cell><cell>1.54 (1.26-1.88)</cell><cell>1.05 (0.86-1.28)</cell><cell>0.94 (077-1.15)</cell><cell></cell><cell>56 980</cell><cell>105</cell><cell>184</cell><cell>1.60 (1.22-2.07)</cell><cell>1.15 (0.88-1.50)</cell><cell>1.05 (0.80-1.37)</cell><cell></cell><cell>67 029</cell><cell>58</cell><cell>87</cell><cell>1.72 (1.20-2.47)</cell><cell>1.19 (0.83-1.72)</cell><cell>1.06 (0.73-1.54)</cell><cell></cell><cell>56 941</cell><cell>98</cell><cell>172</cell></row><row><cell></cell><cell>Normal</cell><cell>49 779</cell><cell></cell><cell>136 961</cell><cell>2642</cell><cell>1929</cell><cell>1</cell><cell>1</cell><cell>1</cell><cell></cell><cell>143 356</cell><cell>198</cell><cell>138</cell><cell>1</cell><cell>1</cell><cell>1</cell><cell></cell><cell>142 816</cell><cell>373</cell><cell>261</cell><cell>1</cell><cell>1</cell><cell>1</cell><cell></cell><cell>143 170</cell><cell>185</cell><cell>129</cell><cell>1</cell><cell>1</cell><cell>1</cell><cell></cell><cell>143 324</cell><cell>80</cell><cell>56</cell><cell>1</cell><cell>1</cell><cell>1</cell><cell></cell><cell>143 102</cell><cell>169</cell><cell>118</cell></row><row><cell></cell><cell></cell><cell>Total no. subjects</cell><cell>Overall CVD events</cell><cell>Person-years</cell><cell>No. cases</cell><cell>Incidence rate</cell><cell>Unadjusted HR</cell><cell>Age-and sex-adjusted HR</cell><cell>MV-adjusted HR *</cell><cell>Major IHD events</cell><cell>Person-years</cell><cell>No. cases</cell><cell>Incidence rate</cell><cell>Unadjusted HR</cell><cell>Age-and sex-adjusted HR</cell><cell>MV-adjusted HR*</cell><cell>Major CVD events</cell><cell>Person-years</cell><cell>No. cases</cell><cell>Incidence rate</cell><cell>Unadjusted HR</cell><cell>Age-and sex-adjusted HR</cell><cell>MV-adjusted HR*</cell><cell>Stroke</cell><cell>Person-years</cell><cell>No. cases</cell><cell>Incidence rate</cell><cell>Unadjusted HR</cell><cell>Age-and sex-adjusted HR</cell><cell>MV-adjusted HR*</cell><cell>NH stroke</cell><cell>Person-years</cell><cell>No. cases</cell><cell>Incidence rate</cell><cell>Unadjusted HR</cell><cell>Age-and sex-adjusted HR</cell><cell>MV-adjusted HR*</cell><cell>PCI</cell><cell>Person-years</cell><cell>No. cases</cell><cell>Incidence rate</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 2 (</head><label>2</label><figDesc>Continued) Note, MV-adjusted HRs were adjusted for age, sex, hypertension, low-density lipoprotein cholesterol, high-density lipoprotein cholesterol, smoking, a family history of CVD, and body mass Prediabetes and risk of CVD H.-K. KIM et al.</figDesc><table><row><cell>By FPG only By HbA1c only Combined criteria</cell><cell>Normal Prediabetes (IFG) Diabetes Normal Prediabetes Diabetes Normal Prediabetes Diabetes</cell><cell>Unadjusted HR 1 1.40 (1.00-1.94) 3.86 (2.73-5.47) 1 1.74 (1.18-2.56) 3.40 (2.28-5.06) 1 1.85 (1.35-2.55) 4.57 (3.19-6.55)</cell><cell>Age-and sex-adjusted HR 1 0.88 (0.63-1.22) 1.72 (1.20-2.46) 1 1.57 (1.12-2.20) 2.21 (1.55-3.16) 1 1.16 (0.84-1.61) 1.97 (1.36-2.87)</cell><cell>MV-adjusted HR* 1 0.74 (0.53-1.04) 1.37 (0.95-1.97) 1 1.20 (0.85-1.69) 1.72 (1.20-2.48) 1 0.94 (0.67-1.30) 1.48 (1.01-2.16)</cell><cell>All-cause mortality</cell><cell>Person-years 143 058 56 893 17 709 163 566 36 781 17 313 125 990 72 664 19 005</cell><cell>No. cases 140 88 54 166 65 51 110 113 59</cell><cell>Incidence rate 98 155 305 101 177 295 87 156 310</cell><cell>Unadjusted HR 1 1.87 (1.18-2.96) 4.51 (2.74-7.44) 1 1.90 (1.16-3.09) 3.85 (2.35-6.33) 1 1.99 (1.26-3.15) 5.08 (3.05-8.46)</cell><cell>Age-and sex-adjusted HR 1 1.29 (0.81-2.05) 2.19 (1.30-3.68) 1 1.21 (0.74-1.99) 1.87 (1.12-3.13) 1 1.29 (0.81-2.06) 2.32 (1.36-3.96)</cell><cell>MV-adjusted HR* 1 1.37 (0.85-2.18) 2.10 (1.23-3.60) 1 1.21 (0.73-2.00) 1.73 (1.02-2.95) 1 1.35 (0.84-2.17) 2.25 (1.30-3.91)</cell><cell>FPG, fasting plasma glucose; IFG, impaired fasting glucose; CVD, cardiovascular disease; HR, hazard ratio; IHD, ischemic heart disease; NH, non-hemorrhagic; PCI, percutaneous coronary inter-</cell><cell>vention; MV, multivariate.</cell></row></table><note>*</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 3</head><label>3</label><figDesc>Hazard ratios (95% confidence intervals) of cardiovascular disease according to degree of dysglycemia by different definitions in men and women FPG, fasting plasma glucose; IFG, impaired fasting glucose; CVD, cardiovascular disease.Prediabetes and risk of CVD H.-K. KIM et al.</figDesc><table><row><cell>By combined criteria</cell><cell></cell><cell>Prediabetes Diabetes</cell><cell>1.11 (0.99-1.25) 2.24 (1.96-2.57)</cell><cell>1.314 (1.12-1.54) 1.75 (1.38-2.21)</cell><cell></cell><cell>1.17 (0.89-1.52) 2.00 (1.49-2.70)</cell><cell>3.01 (1.36-6.68) 4.17 (1.59-10.91)</cell><cell></cell><cell>1.99 (0.78-1.26) 1.87 (1.42-2.46)</cell><cell>1.48 (1.02-2.16) 1.09 (0.58-2.02)</cell></row><row><cell></cell><cell></cell><cell>Normal</cell><cell>1</cell><cell>1</cell><cell></cell><cell>1</cell><cell>1</cell><cell></cell><cell>1</cell><cell>1</cell></row><row><cell>By HbA1c-only criteria</cell><cell></cell><cell>Prediabetes Diabetes</cell><cell>1.34 (1.17-1.52) 2.31 (2.03-2.64)</cell><cell>1.14 (0.95-1.36) 1.58 (1.25-2.00)</cell><cell></cell><cell>1.54 (1.17-2.03) 2.12 (1.59-2.82)</cell><cell>2.27 (1.10-4.70) 3.21 (1.375-7.48)</cell><cell></cell><cell>1.22 (0.94-1.59) 1.95 (1.50-2.54)</cell><cell>1.18 (0.79-1.77) 0.93 (0.50-1.71)</cell></row><row><cell></cell><cell></cell><cell>Normal</cell><cell>1</cell><cell>1</cell><cell></cell><cell>1</cell><cell>1</cell><cell></cell><cell>1</cell><cell>1</cell></row><row><cell>By FPG only criteria</cell><cell>Prediabetes</cell><cell>(IFG) Diabetes</cell><cell>1.09 (0.96-1.26) 2.21 (1.93-2.53)</cell><cell>1.40 (1.19-1.64) 1.72 (1.36-2.18)</cell><cell></cell><cell>0.92 (0.71-1.21) 1.80 (1.35-2.39)</cell><cell>1.97 (0.97-3.99) 2.62 (1.11-6.17)</cell><cell></cell><cell>0.95 (0.75-1.22) 1.87 (1.43-2.43)</cell><cell>1.39 (0.95-2.04) 1.11 (0.61-2.02)</cell></row><row><cell></cell><cell></cell><cell>Normal</cell><cell>1</cell><cell>1</cell><cell></cell><cell>1</cell><cell>1</cell><cell></cell><cell>1</cell><cell>1</cell></row><row><cell></cell><cell></cell><cell>Overall CVD events</cell><cell>Men</cell><cell>Women</cell><cell>Major IHD events</cell><cell>Men</cell><cell>Women</cell><cell>Major CVD events</cell><cell>Men</cell><cell>Women</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">© 2016 Ruijin Hospital, Shanghai Jiaotong University School of Medicine and John Wiley &amp; Sons Australia, Ltd</note>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosure</head><p>There are no potential conflicts of interest relevant to this article for any of the authors.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Mortality from coronary heart disease in subjects with type 2 diabetes and in nondiabetic subjects with and without prior myocardial infarction</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Haffner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lehto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Ronnemaa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Pyorala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Laakso</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">339</biblScope>
+			<biblScope unit="page" from="229" to="234" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Diabetes and atherosclerosis: Epidemiology, pathophysiology, and management</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Beckman Creager</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Libby</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">287</biblScope>
+			<biblScope unit="page" from="2570" to="2581" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Cardiovascular disease risk in type 2 diabetes mellitus: Insights from mechanistic studies</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Mazzone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Chait</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Plutzky</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">371</biblScope>
+			<biblScope unit="page" from="1800" to="1809" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">The DECODE (Diabetes Epidemiology: Collaborative analysis Of Diagnostic criteria in Europe) study group, European Diabetes Epidemiology Group. Glucose tolerance and mortality: Comparison of WHO and American Diabetes Association diagnostic criteria</title>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">354</biblScope>
+			<biblScope unit="page" from="617" to="621" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Impaired fasting glycaemia resembles impaired glucose tolerance with regard to cardiovascular risk factors: Population-based, cross-sectional study of risk factors for cardiovascular disease</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">E</forename><surname>Heldgaard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Olivarius</forename><surname>Nde</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Hindsberger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Henriksen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabet Med</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="363" to="370" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Impaired fasting glucose and cardiovascular outcomes in postmenopausal women with coronary artery disease</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Kanaya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Herrington</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Vittinghoff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">142</biblScope>
+			<biblScope unit="page" from="813" to="820" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Ten-year risk of cardiovascular incidence related to diabetes, prediabetes, and the metabolic syndrome</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Grundy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am Heart J</title>
+		<imprint>
+			<biblScope unit="volume">153</biblScope>
+			<biblScope unit="page" from="552" to="558" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Fasting but not postprandial (postmeal) glycemia predicts the risk of death in subjects with coronary artery disease</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Nigam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Bourassa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Fortier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Guertin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Tardif</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Can J Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="873" to="878" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Cardiometabolic risk in impaired fasting glucose and impaired glucose tolerance: The Atherosclerosis Risk in Communities Study</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Pankow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">K</forename><surname>Kwan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">B</forename><surname>Duncan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="325" to="331" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Impact of impaired fasting glucose on cardiovascular disease: The Framingham Heart Study</title>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">S</forename><surname>Levitzky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Pencina</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Agostino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Coll Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="page" from="264" to="270" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Blood glucose and risk of cardiovascular disease in the Asia Pacific region</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Lawes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Parag</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Bennett</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="2836" to="2842" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Impaired fasting glucose and risk of cardiovascular disease in Korean men and women: The Korean Heart Study</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">K</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">H</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">H</forename><surname>Kim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="328" to="335" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Impaired fasting glucose and the risk of incident diabetes mellitus and cardiovascular events in an adult population: The Multi-Ethinic Study of Atherosclerosis</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Yeboah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">G</forename><surname>Bertoni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Herrington</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Coll Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="page" from="140" to="146" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Increased mortality risks of pre-diabetes (impaired fasting glucose) in Taiwan</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Wen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">Y</forename><surname>Cheng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Tsai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">L</forename><surname>Hsu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="2756" to="2761" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Glucose tolerance and cardiovascular mortality: Comparison of fasting and 2-hour diagnostic criteria</title>
+		<author>
+			<persName><surname>The Decode Study</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Group</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">161</biblScope>
+			<biblScope unit="page" from="397" to="405" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Impaired glucose tolerance is a risk factor for cardiovascular disease, but not impaired fasting glucose. The Funagata Diabetes Study</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tominaga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Eguchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Manaka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Igarashi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Kato</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sekikawa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="920" to="924" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Abnormal glucose tolerance and increased risk for cardiovascular disease in Japanese-Americans with normal fasting glucose</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Liao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Shofer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Boyko</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="39" to="44" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Impact of HbA1c criterion on the detection of subjects with increased risk for diabetes among health check-up recipients in Korea</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">K</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Bae</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Choe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Metab J</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="151" to="156" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Fasting versus postload glucose levels: Why the controversy?</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Gerstein</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="1855" to="1857" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Intraindividual variation of glycohemoglobin: Implications for interpretation and analytical goals</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Phillipou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Phillips</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Chem</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page" from="2305" to="2308" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Diagnosis and classification of diabetes mellitus</title>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="S62" to="69" />
+			<date type="published" when="2010">2010</date>
+			<publisher>American Diabetes Association</publisher>
+		</imprint>
+	</monogr>
+	<note>Suppl. 1</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">HbA1c is an independent predictor of non-fatal cardiovascular disease in a Caucasian population without diabetes: A 10-year follow-up of the Hoorn Study</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Van't Riet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Rijkelijkhuizen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Alssema</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Prev Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="23" to="31" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Association of hemoglobin A1c with cardiovascular disease and mortality in adults: The European prospective investigation into cancer in Norfolk</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">T</forename><surname>Khaw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Wareham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bingham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Luben</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Welch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Day</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">141</biblScope>
+			<biblScope unit="page" from="413" to="420" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Glycated hemoglobin, diabetes, and cardiovascular risk in nondiabetic adults</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Selvin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">W</forename><surname>Steffes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Zhu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">362</biblScope>
+			<biblScope unit="page" from="800" to="811" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Hemoglobin A1c is associated with increased risk of incident coronary heart disease among apparently healthy, nondiabetic men and women</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Pai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">E</forename><surname>Cahill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">B</forename><surname>Hu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Rexrode</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Manson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">B</forename><surname>Rimm</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Heart Assoc</title>
+		<imprint>
+			<biblScope unit="page" from="2" to="e77" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Haemoglobin A1c even within non-diabetic level is a predictor of cardiovascular disease in a general Japanese population: The Hisayama Study</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Ikeda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Doi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Ninomiya</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cardiovasc Diabetol</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page">164</biblScope>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Postchallenge glucose, A1C, and fasting glucose as predictors of type 2 diabetes and cardiovascular disease: A 10-year prospective cohort study</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Cederberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Saukkonen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Laakso</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="2077" to="2083" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Hemoglobin A1c, fasting glucose, and cardiovascular risk in a population with high prevalence of diabetes: The Strong Heart Study</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">M</forename><surname>Shara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">T</forename><surname>Lee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="1952" to="1958" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Payment system reform for health care providers in Korea</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kwon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Health Policy Plan</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="84" to="92" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title level="m" type="main">Effects of the DRG-based prospective payment system operated by the voluntarily participating providers on the cesarean section rates in Korea. Health Policy</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lee</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<biblScope unit="volume">81</biblScope>
+			<biblScope unit="page" from="300" to="308" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">World Health Organization (WHO) Expert Consultation. Appropriate body-mass index for Asian populations and its implications for policy and intervention strategies</title>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">363</biblScope>
+			<biblScope unit="page" from="157" to="163" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Relation of pooled logistic regression to time dependent Cox regression analysis: The Framingham Heart Study</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>D'agostino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Belanger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Cupples</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">B</forename><surname>Kannel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stat Med</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="1501" to="1515" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Cardiovascular risk factors in confirmed prediabetic individuals. Does the clock for coronary heart disease start ticking before the onset of clinical diabetes?</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Haffner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Stern</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">P</forename><surname>Hazuda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">D</forename><surname>Mitchell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Patterson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">263</biblScope>
+			<biblScope unit="page" from="2893" to="2898" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Elevated risk of cardiovascular disease prior to clinical diagnosis of type 2 diabetes</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">B</forename><surname>Hu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Stampfer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Haffner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">G</forename><surname>Solomon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">C</forename><surname>Willett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Manson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="1129" to="1134" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Association between change in daily ambulatory activity and cardiovascular events in people with impaired glucose tolerance (NAVIGATOR trial): A cohort analysis</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Yates</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Haffner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Schulte</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">383</biblScope>
+			<biblScope unit="page" from="1059" to="1066" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Disparities in HbA1c levels between African-American and non-Hispanic white adults with diabetes: A meta-analysis</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Kirk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>'agostino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Bell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="2130" to="2136" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Disparities in A1C levels between Hispanic and non-Hispanic white adults with diabetes: A meta-analysis</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Kirk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">V</forename><surname>Passmore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Bell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="240" to="246" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Race-ethnicity as an effect modifier of the association between HbAlc and mortality in U.S. adults without diagnosed diabetes</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">G</forename><surname>Kehl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">M</forename><surname>Findeisen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Fardo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Bruemmer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Mannino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">T</forename><surname>Sanderson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Endocrinol</title>
+		<imprint>
+			<biblScope unit="volume">165</biblScope>
+			<biblScope unit="page" from="275" to="281" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Rosuvastatin to prevent vascular events in men and women with elevated C-reactive protein</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Ridker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Danielson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">A</forename><surname>Fonseca</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">359</biblScope>
+			<biblScope unit="page" from="2195" to="2207" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Effect of nateglinide on the incidence of diabetes and cardiovascular events</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Holman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Haffner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Mcmurray</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">362</biblScope>
+			<biblScope unit="page" from="1463" to="1476" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Hemoglobin-AGE: A circulating marker of advanced glycosylation</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Makita</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Vlassara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Rayfield</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">258</biblScope>
+			<biblScope unit="page" from="651" to="653" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">The role of advanced glycation end products in progression and complications of diabetes</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">Y</forename><surname>Goh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Cooper</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Endocrinol Metab</title>
+		<imprint>
+			<biblScope unit="volume">93</biblScope>
+			<biblScope unit="page" from="1143" to="1152" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Women and ischemic heart disease: Evolving knowledge</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">J</forename><surname>Shaw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Bugiardini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">N</forename><surname>Merz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Coll Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page" from="1561" to="1575" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Gender differences in coronary artery disease: Review of diagnostic challenges and current treatment</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Gopalakrishnan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Ragland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Tak</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Postgrad Med</title>
+		<imprint>
+			<biblScope unit="volume">121</biblScope>
+			<biblScope unit="page" from="60" to="68" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Sex differences in short-term and long-term all-cause mortality among patients with ST-segment elevation myocardial infarction treated by primary percutaneous intervention: A meta-analysis</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">B</forename><surname>Pancholy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">P</forename><surname>Shantha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Patel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">J</forename><surname>Cheskin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">174</biblScope>
+			<biblScope unit="page" from="1822" to="1830" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Sex differences in longterm mortality after myocardial infarction: A systematic review</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Bucholz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">M</forename><surname>Butala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Rathore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Dreyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Lansky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">M</forename><surname>Krumholz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">130</biblScope>
+			<biblScope unit="page" from="757" to="767" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

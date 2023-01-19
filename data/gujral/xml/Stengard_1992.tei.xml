@@ -1,0 +1,891 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Diabetes mellitus, impaired glucose tolerance and mortality among elderly men: The Finnish cohorts of The Seven Countries Study</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><roleName>Dr</roleName><forename type="first">J</forename><forename type="middle">H</forename><surname>Stengard</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Epidemiology</orgName>
+								<orgName type="institution">National Public Health Institute</orgName>
+								<address>
+									<settlement>Helsinki</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">J</forename><surname>Tuomilehto</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Epidemiology</orgName>
+								<orgName type="institution">National Public Health Institute</orgName>
+								<address>
+									<settlement>Helsinki</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">J</forename><surname>Pekkanen</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Epidemiology</orgName>
+								<orgName type="institution">National Public Health Institute</orgName>
+								<address>
+									<settlement>Helsinki</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">P</forename><surname>Kivinen</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Community Medicine and General Practice</orgName>
+								<orgName type="institution">University of Kuopio</orgName>
+								<address>
+									<settlement>Kuopio</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">E</forename><surname>Kaarsalo</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="institution">Loimaa District Hospital</orgName>
+								<address>
+									<settlement>Loimaa</settlement>
+									<country key="FI">Finland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">A</forename><surname>Nissinen</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Community Medicine and General Practice</orgName>
+								<orgName type="institution">University of Kuopio</orgName>
+								<address>
+									<settlement>Kuopio</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Karvonen</surname></persName>
+							<affiliation key="aff3">
+								<address>
+									<settlement>Pioppi</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff4">
+								<orgName type="department">Department of Epidemiology and health promotion Elimaenkatu</orgName>
+								<orgName type="institution">National Public Health Institute</orgName>
+								<address>
+									<addrLine>25 A, 6th floor</addrLine>
+									<postCode>SF-00510</postCode>
+									<settlement>Helsinki</settlement>
+									<country key="FI">Finland</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Diabetes mellitus, impaired glucose tolerance and mortality among elderly men: The Finnish cohorts of The Seven Countries Study</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">28C99826D2BBE90C25968AF6C56BF483</idno>
+					<note type="submission">Received: 24 January 1992 and in revised form: 9 April 1992</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.1" ident="GROBID" when="2022-07-19T22:45+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>We studied the association of glucose intolerance with total and cause-specific mortality during a 5-year follow up of 637 elderly Finnish men aged 65 to 84 years. Total mor tality was 276 per 1000 for men aged 65 to 74 years and 537 per 1000 for men aged 75 to 84 years. Five-year total mor tality adjusted for age was 364 per 1000 in diabetic men, 234 per 1000 in men with impaired glucose tolerance and 209 per 1000 in men with normal glucose tolerance. The relative risk of death among diabetic men was 2.10 (95 % confidence in terval 1.26 to 3.49) and among men with impaired glucose tolerance 1.17 (95 % confidence interval 0.71 to 1.94) times higher compared with men with normal glucose tolerance. Cardiovascular disease was the most common cause of death</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>People with diabetes mellitus have an increased risk for dying prematurely <ref type="bibr" target="#b0">[1]</ref><ref type="bibr" target="#b1">[2]</ref><ref type="bibr" target="#b2">[3]</ref><ref type="bibr" target="#b3">[4]</ref>. This risk varies considerably however, between different populations <ref type="bibr" target="#b4">[5]</ref> and between different age groups within a population <ref type="bibr" target="#b3">[4]</ref>. In middle aged diabetic subjects relative risk of death has been found to range from two to four, compared to non-diabetic subjects <ref type="bibr" target="#b0">[1]</ref><ref type="bibr" target="#b1">[2]</ref><ref type="bibr" target="#b2">[3]</ref><ref type="bibr" target="#b3">[4]</ref>. In elderly diabetic patients the reported relative risk has usually been below two <ref type="bibr" target="#b1">[2,</ref><ref type="bibr" target="#b3">4,</ref><ref type="bibr" target="#b5">[6]</ref><ref type="bibr" target="#b6">[7]</ref><ref type="bibr" target="#b7">[8]</ref>. In diabetic patients aged 75 years and over, excess mortality has disappeared in some <ref type="bibr" target="#b1">[2,</ref><ref type="bibr" target="#b5">6]</ref>, but not all <ref type="bibr" target="#b8">[9,</ref><ref type="bibr" target="#b9">10]</ref> studies. Few studies of mortality among elderly diabetic subjects have been made and more information is needed to assess the impact of diabetes on the prognosis of these patients <ref type="bibr" target="#b3">[4]</ref>. Accordingly, few data exist concerning mortality among elderly subjects with impaired glucose tolerance.</p><p>Cardiovascular disease is the major cause of excess mortality in diabetic patients, particularly in western countries where atherosclerosis is a very common compli cation of diabetes <ref type="bibr" target="#b1">[2,</ref><ref type="bibr" target="#b3">4,</ref><ref type="bibr" target="#b4">5,</ref><ref type="bibr" target="#b7">8,</ref><ref type="bibr" target="#b9">[10]</ref><ref type="bibr" target="#b10">[11]</ref><ref type="bibr" target="#b11">[12]</ref><ref type="bibr" target="#b12">[13]</ref><ref type="bibr" target="#b13">[14]</ref>. Accelerated develop ment of atherosclerosis in diabetes is associated with ad verse levels and composition of plasma lipids and lipoproteins and increased occurrence of hypertension in diabetic patients <ref type="bibr" target="#b12">[13,</ref><ref type="bibr" target="#b14">15,</ref><ref type="bibr" target="#b15">16]</ref>. Most of these abnormalities also occur in subjects with impaired glucose tolerance in every glucose tolerance group. The multivariate adjusted relative risk of cardiovascular death was increased (1.55) in diabetic patients, albeit non-significantly (95 % confidence interval 0.84 to 2.85). Diabetes resulted in an increased risk of cardiovascular mortality among men aged 65-74 years but not among the 75-84-year-old men. Relative risk of death from non-cardiovascular causes was slightly increased among diabetic subjects. In conclusion, diabetes mellitus is a significant determinant of mortality among elderly Finnish men.</p><p>Key words: Diabetes mellitus, elderly, mortality, cardiovas cular disease. <ref type="bibr" target="#b15">[16]</ref>. The excess risk of death from cardiovascular disease in diabetic patients cannot, however, be completely ex plained by an unfavourable risk factor profile and diabetes per se also is considered to be an independent risk factor <ref type="bibr" target="#b12">[13]</ref>. The present paper examines the associ ation of diabetes and impaired glucose tolerance with cause-specific and all-cause mortality during a 5-year fol low-up of 637 Finnish men aged 65 to 84 years, the Finnish cohorts of The Seven Countries Study.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Subjects, materials and methods</head><p>The Seven Countries Study was started in the late 1950's to study car diovascular disease mortality and morbidity and risk factor levels in different countries, including Finland <ref type="bibr" target="#b16">[17]</ref>. The original Finnish co horts consisted of all men born between 1900 and 1919 in two geo graphically defined rural areas, one in eastern and the other in south western Finland, totalling 1711 men. At the time of the 25-year follow-up survey in 1984, men were 65-84 years old and 766 men were still alive. Of these men 716 (93 % ) at least participated in the medical examination.</p><p>In 1984, all men were requested to fast for at least 4 h before the examination (mean fasting time 13 h, SD 5 h). At the clinic blood samples were drawn from an ante-cubital vein for laboratory anal ysis of total and HD L cholesterol levels. Body weight was measured  <ref type="bibr">(7.8)</ref> "Differences between glucose tolerance groups significant at p&lt; 0.05 b Difference between groups significant at p &lt; 0.01 'Subject was defined as obese, if body mass index was 27 kg/m 2 or more d Definition of hypertension according to the recommendation of World Health Organization <ref type="bibr" target="#b23">(25)</ref> ' High sum score indicates good functional capacity in light clothing and recorded to the nearest 100 g. Blood pressure was measured twice on the right arm by a specially trained nurse after 5 min rest with subjects in the supine position. The mean value of the two measurements was used in the analyses. Smoking status was assessed using a standard questionnaire <ref type="bibr" target="#b17">[18]</ref>. Subjects were divided into the following three categories: never smokers, ex-smok ers and current smokers. Those who had stopped smoking less than 1 year before the examination were considered as current smokers. Functional capacity of the men was assessed by using a sum index of 13 questions about self-care and daily living activities. The men were asked whether they are able to move outdoors, to walk at least 400 m, to wash and bath themselves, or perform light or heavy house work or both, for instance <ref type="bibr" target="#b18">[19]</ref>. The detailed study protocol of the 1984 survey has been described elsewhere <ref type="bibr" target="#b19">[20]</ref>.</p><p>Total and HDL cholesterol concentrations were analysed using an enzymatic method (Monotest, new; Boehringer Mannheim, GmbH, Mannheim, FRG) and Olli C 3000 photometer (Kone, Oy, Finland). To tal cholesterol was determined from fresh serum sam ples <ref type="bibr" target="#b20">[21]</ref>. HDL cholesterol was measured after precipitation of VLDL and LDL with dextran-magnesium-chloride <ref type="bibr" target="#b20">[21]</ref>.</p><p>Glucose tolerance was tested by using a 75 g oral glucose load. Blood glucose levels were measured at fasting and 2 h after a glucose load from capillary blood using a refractometric method (Glu cometer refractometer; Miles Laboratories, Ames Division, Elkhart, Ind. USA). The test took place between 08.00 and 16.30 hours <ref type="bibr" target="#b21">[22]</ref>.</p><p>The men were classified hierarchically according to the current criteria of World Health Organization for diabetes and impaired glu cose tolerance <ref type="bibr" target="#b22">[23]</ref>. Subjects whose post-load blood glucose was 11.1 mmol/1 or more were considered as diabetic. Impaired glucose tolerance was defined as 2 h post-load blood glucose between 7.8 mmol/1 and 11.1 mmol/1. Men who were treated with insulin or oral anti-diabetic drugs, or whose fasting blood glucose was over 10.0 mmol/1 were excluded from the glucose tolerance test and directly classified as having diabetes. Altogether 637 men could be suecessfully classified according to these criteria. Of these, 187 had diabetes, 234 impaired glucose tolerance and 216 normal glucose tolerance. Nine of the diabetic subjects received insulin and 36 were on oral anti-diabetic drugs. Seventy-nine men could not be classified because 49 participated only in the assessment of fasting blood glucose, and 30 underwent no blood glucose determinations at all. Most of these unclassified subjects were hospitalized or they were examined at home. There were 50 non-participants in 1984. Reasons for non-participation included long travel distance, recent myocardial infarction, severe rheumatic arthritis and refusal to participate. Of these 50 non-participating and 79 participating men whose glucose tolerance remained unclassified, a total of 71 (55 % ) men died between 1984 and 1989.</p><p>At the time of 30-year follow-up in 1989, 524 men were still alive and 242 had died between 1984 and 1989. The vital status of 513 men was ascertained through personal contacts and 11 through the Finnish Population Registry. Death certificates and hospital records were obtained for all the deceased men and coded by one of the authors (J.P.) according to fixed priority rules <ref type="bibr" target="#b17">[18]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analysis</head><p>The statistical analyses were performed with SAS statistical soft ware <ref type="bibr">[24]</ref>. Differences between distinct glucose tolerance groups in continuous variables were tested using analysis of variance and for categorical variables using Cochran-Mantel-Haenzel test. Odds ra tios were estimated using multiple logistic regression analysis. Multi variate analysis always included age, body mass index, hypertension, smoking history, total and HDL cholesterol and sum index of func tional capacity. Hypertension was defined according to recommen dations of the World Health Organization (systolic blood pressure 160 mm Hg or more or diastolic blood pressure 95 mm Hg or more or both, or current antihypertensive drug treatment) <ref type="bibr" target="#b23">[25]</ref>. Since there were no significant interactions between area of residence and glu cose tolerance group in any of the mortality analyses, all the results are presented together for eastern and south-western Finland.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>Baseline characteristics of the subjects are presented in Table <ref type="table" target="#tab_0">1</ref>. Both diabetic men and subjects with impaired glucose tolerance were older than those with normal glu cose tolerance. Of the known cardiovascular risk factors, both the mean value of systolic blood pressure and occur rence of hypertension were higher in men with diabetes or impaired glucose tolerance, and serum HDL cholesterol level was lower compared to subjects with normal glucose tolerance. The mean level of diastolic blood pressure was similar among the three glucose tolerance groups. Similar ly, neither the mean body mass index nor the prevalence of obesity in subjects with diabetes or impaired glucose tolerance differed from that found in men with normal glucose tolerance. The proportion of current smokers was lower and ex-smokers higher in diabetic patients and in subjects with impaired glucose tolerance compared to subjects with normal glucose tolerance. The mean level of serum total cholesterol and the degree of functional ca pacity were lower in diabetic men than in the others.</p><p>During the 5-year follow-up, a total of 171 deaths were recorded among men whose glucose tolerance status was determined at baseline. Of these, 73 had been diabetic, 56 had impaired glucose tolerance and 42 normal glucose tolerance. Comparison of the 5-year survival probability curve for diabetic men with those for impaired or normal glucose tolerance shows the highest mortality for diabetic patients (Fig. <ref type="figure">1</ref> ). Age-adjusted total mortality in the diabetic group was 364 per 1000 men (Table <ref type="table" target="#tab_1">2</ref>). Relative risk of death in diabetic men was two times greater than that found in subjects with normal glucose tolerance after adjusting for age, body mass index, smoking history, serum total and HD L cholesterol, hypertension, and func tional capacity (Table <ref type="table" target="#tab_2">3</ref>). Among diabetic patients age specific total mortality was 276 per 1000 men for those aged 65 to 74 years and537per 1000 men for those aged 75 to 84 years (Table <ref type="table" target="#tab_3">4</ref>). The relative risk of dying in the younger diabetic group was twice that obtained for sub jects of the respective age group with normal glucose tolerance. In the older diabetic group the mortality risk was not changed significantly.</p><p>The risk of dying was the highest in diabetic patients treated with anti-diabetic drugs (Tables <ref type="table" target="#tab_2">2 and 3</ref>), particu larly if insulin was used. Multivariate-adjusted relative risk for diabetic subjects treated with oral agents was 2.82 (95 % confidence interval (CI) 1.22 to 17.09) and in in sulin-treated patients 9.56 (95 % CI 1.58 to 57.88) com pared with subjects with normal glucose tolerance. There were, however, only nine insulin-treated subjects and seven deaths among them.</p><p>In subjects with impaired glucose tolerance both all cause and cause-specific mortality was between that of diabetic and non-diabetic patients, but the change was not statistically significant compared with non-diabetic men (Tables <ref type="table" target="#tab_2">2 and 3</ref>).</p><p>Cardiovascular disease was the most common cause of death in every glucose tolerance group. During the fol low-up a total of 91 cardiovascular deaths were recorded, of which 36 occurred among diabetic subjects. Age-ad justed cardiovascular disease mortality in the diabetic group was 184 per 1000 men (Table <ref type="table" target="#tab_1">2</ref>). After adjustment for age and several major risk factors for chronic diseases the risk estimate for cardiovascular death in the diabetes group varied within the same range that was obtained for subjects with impaired or normal glucose tolerance (Ta bles 2 and 3). Among diabetic patients age-specific car diovascular disease mortality was 152 per 1000 men in those aged 65 to 7 4 years and 244 per 1000 men in those aged 75 to 84 years (Table <ref type="table" target="#tab_3">4</ref>). Relative risk for cardiovas cular death was significantly increased in the younger diabetic group but not in the older one. In insulin-treated diabetic patients the relative risk was 4.19 (95 % CI 0.92 to 18.92).</p><p>Cancer was the most common non-cardiovascular cause of death. During the follow-up 42 men died from cancer, of whom 19 had diabetes. Multivariate-adjusted relative risk for death from cancer was not significantly different among the three glucose tolerance groups al though the diabetic patients tended to have a higher risk (Tables <ref type="table" target="#tab_2">2 and 3</ref>).</p><p>The age-adjusted rate for non-cardiovascular/non cancer cause of death varied from 2.8 % in subjects with normal glucose tolerance to 8.6 % in diabetic men (Table <ref type="table" target="#tab_1">2</ref>). Multivariate-adjusted relative risk of non-car diovascular/non-cancer death in diabetic patients was statistically significant only among those treated with hy poglycaemic agents (Table <ref type="table" target="#tab_2">3</ref>). Of the 38 deaths that were due to reasons other than cardiovascular disease or cancer, 19 were due to infection. Of these, eight occurred among diabetic patients and nine among subjects with im paired glucose tolerance, and only two in men with normal glucose tolerance (Table <ref type="table" target="#tab_4">5</ref>). </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>The impairment of glucose tolerance with advancing age is a well-known phenomenon first reported by Spence in 1920 <ref type="bibr" target="#b24">[26]</ref>. According to recent studies a large proportion of elderly subjects aged 65 years and over have either im paired glucose tolerance or overt diabetes <ref type="bibr" target="#b21">[22,</ref><ref type="bibr" target="#b25">27]</ref>. How ever, prognostic importance of diabetes in the elderly is not very well established. There is some evidence that the excess mortality risk in diabetic patients diminishes with advancing age and may even disappear at about 75 years of age <ref type="bibr" target="#b1">[2,</ref><ref type="bibr" target="#b5">6]</ref>. A similar age-specific trend was also seen in this study. However, in agreement with some other earlier findings <ref type="bibr" target="#b8">[9,</ref><ref type="bibr" target="#b9">10]</ref>, our results showed that diabetes is an im portant predictor of death among elderly men. We followed a cohort of elderly Finnish men aged 65 to 84 years for 5 years. Both diabetes and impaired glucose tolerance were common among these men at baseline <ref type="bibr" target="#b21">[22]</ref>. Approximately one-third of the diabetic patients died during the follow-up. The overall mortality risk of these men was twice as high as in men with normal glucose tolerance after the adjustment for age and several major risk factors for chronic diseases. This estimate is relatively high compared with the results of previous studies from other populations where mortality risks have been re ported to range usually from 1.0 to 1.4 <ref type="bibr" target="#b1">[2,</ref><ref type="bibr" target="#b3">4,</ref><ref type="bibr" target="#b5">[6]</ref><ref type="bibr" target="#b6">[7]</ref><ref type="bibr" target="#b7">[8]</ref> among diabetic subjects of the same age. In one earlier study of el derly Finnish men no association between self-reported diabetes and increased mortality was found <ref type="bibr" target="#b26">[28]</ref>. There are, however, some methodological differences between previous surveys and our study. Definition of diabetes in many previous studies was based on self-reported history of diabetes in a question naire survey <ref type="bibr" target="#b18">[19,</ref><ref type="bibr" target="#b26">28]</ref>, or they were drawn from a hospital series <ref type="bibr" target="#b1">[2,</ref><ref type="bibr" target="#b7">8,</ref><ref type="bibr" target="#b8">9]</ref> or from a special diabetes registry <ref type="bibr" target="#b5">[6]</ref><ref type="bibr" target="#b6">[7]</ref><ref type="bibr" target="#b7">[8]</ref>. Self-reported diabetes is, however, subject to several mis classification biases. Madow <ref type="bibr" target="#b27">[29]</ref> found that approximate ly 15 % of the people who had diabetes according to their medical record did not report their disease. On the other hand, approximately 14 % of the self-reported diabetic patients in the Second National and Nutrition Examin ation Survey in the United States were not diabetic but were misdiagnosed or incorrectly reported themselves as diabetic patients <ref type="bibr" target="#b28">[30)</ref>. Furthermore, a section of elderly diabetic subjects are not aware of their disease because it is often asymptomatic. The former biases can be avoided if the diagnosis of diabetes is based on an oral glucose tolerance test, which has been used in many studies where diabetic subjects were drawn from a registry. The use of registries, however, often brings in such other biases as a selection bias or a referral bias <ref type="bibr" target="#b3">[ 4,</ref><ref type="bibr" target="#b29">31]</ref>. For instance, many diabetic patients included in diabetes registries have a relatively severe disease which requires treatment with either oral anti-diabetic drugs or insulin. Risk estimates derived from such a patient material will be likely to be higher than those obtained in diabetic patients treated with diet only. On the other hand, relative risk estimates for mortality in these kinds of studies are often calculated either in comparison with the general population or re cruiting the referent subjects from other hospital clinics. Such reference groups can also include diabetic subjects, which may lower the estimated relative risks.</p><p>In some earlier studies mortality estimates among diabetic subjects were based on a review of routine death certification data <ref type="bibr" target="#b0">[1,</ref><ref type="bibr" target="#b3">4]</ref>. Lack of reliability and validity of death certificates serves as a major source of bias in such studies <ref type="bibr" target="#b3">[ 4,</ref><ref type="bibr" target="#b30">32]</ref>. For instance, Fuller and co-workers <ref type="bibr" target="#b30">[32]</ref> re ported that diabetes was not mentioned in 33 % of death certificates of known diabetic patients. These kinds of biases are less common in well-designed prospective co hort studies, where both death certificates and hospital records are systematically collected. On the other hand, large prospective cohort studies may face problems in mortality follow-up since among the "survivors" there may be subjects whose vital status is not exactly known.</p><p>We tried to avoid known biases by testing glucose toler ance of all responders at baseline, except subjects receiv ing anti-diabetic medication and those whose fasting blood glucose exceeded 10 mmol/1. Thus, normal glucose tolerance status was also ascertained with the glucose tolerance test. Furthermore, mortality follow-up in our study was complete. On the other hand, there were 129 men who we could not classify according to their glucose tolerance status at baseline. Most of them were chroni cally ill and 55 % of them died between 1984 and 1989. The contribution of diabetes to their mortality is not known.</p><p>The relative risk of dying among patients using anti diabetic drugs was twice as high as that in diabetic patients treated with diet alone. The risk was particularly in creased in insulin-treated subjects. It is most likely that el derly individuals whose glycaernic control required in sulin treatment had more severe disease than those who were satisfactorily treated with oral anti-diabetic drugs or diet alone. Thus, our results support earlier findings that the severity of diabetes predicts mortality among diabetic patients <ref type="bibr" target="#b0">[1,</ref><ref type="bibr" target="#b8">9]</ref>.</p><p>Cardiovascular disease is the most common underlying cause of death among Caucasoid diabetic patients as has been previously shown in several studies <ref type="bibr" target="#b1">[2,</ref><ref type="bibr" target="#b3">4,</ref><ref type="bibr" target="#b4">5,</ref><ref type="bibr" target="#b7">8,</ref><ref type="bibr" target="#b9">[10]</ref><ref type="bibr" target="#b10">[11]</ref><ref type="bibr" target="#b11">[12]</ref><ref type="bibr" target="#b12">[13]</ref><ref type="bibr" target="#b13">[14]</ref>.</p><p>In our study approximately one-half of the deaths in diabetic men were from cardiovascular diseases. Diabetes doubled the age-specific risk of cardiovascular death among men aged below 75 years, but it was not associated J. H. Stengard et al.: Mortality in elderly diabetic men with excess risk among older men. Overall, in the diabetes group the risk of death from cardiovascular disease was 50 % higher compared with men with normal glucose tolerance. Due to the relatively small study population the 95 % CI was wide and the risk estimate did not reach sta tistical significance . However, the excess in absolute mor tality from cardiovascular disease in diabetic men was 66 deaths per 1000 men during the 5-year period compared with men with normal glucose tolerance. This indicates that diabetes is a significant determinant for cardiovascu lar death among elderly men. On the other hand, diabetes alone may not be sufficient for the increased risk of coro nary heart disease, because in Pima Indians coronary mor tality is not particularly high despite the extremely high prevalence of diabetes <ref type="bibr" target="#b31">[33]</ref>.</p><p>Relative risks of death from other, non-cardiovascular causes tended also to be increased among diabetic subjects. Particularly, mortality from infectious diseases seemed to be greater among subjects with diabetes or impaired glucose tolerance suggesting that abnormal glucose tolerance may increase susceptibility to infec tions.</p><p>Both overall mortality rate and mortality rate from cardiovascular disease in subjects with impaired glucose tolerance have been found to be between that of diabetic patients and non-diabetic patients <ref type="bibr" target="#b15">[16]</ref>. Also in our study mortality rates from cardiovascular disease and from all causes were intermediate among men with impaired glu cose tolerance. However, the mortality risk estimates did not differ significantly from those obtained in subjects with normal glucose tolerance. This may partly reflect the heterogeneity of the impaired glucose tolerance cat egory. Furthermore, several environmental and host fac tors may cause misclassification by the glucose tolerance test. Among subjects with impaired glucose tolerance the result of the glucose tolerance test has been found to be normal in 10 % to 60% in a repeated test <ref type="bibr" target="#b32">[34]</ref>. In our study the definition of impaired glucose tolerance was based on a single glucose tolerance test, many of which were performed in the afternoon. Thus, some subjects with normal glucose tolerance may have been falsely in cluded in the impaired glucose tolerance category in our study, underestimating the importance of impaired glu cose tolerance.</p><p>In conclusion, our study shows that diabetes is a signifi cant determinant of mortality among elderly men in Fin land. Every third diabetic man but only every fifth man with normal glucose tolerance in our cohort died during the 5-year follow up. Most of the deaths were from cardio vascular disease. These findings suggest that diabetes is an important public health problem among elderly subjects, and likely to increase in importance in all populations where the proportion of elderly people is now rapidly in creasing.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head></head><label></label><figDesc>,-----,----�--�---�--� Crude Kaplan-Meier survival probabilities over 5-year fol low-up for subjects with diabetes mellitus (----), impaired glucose tolerance ( --)or normal glucose tolerance (-)</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>J</head><label></label><figDesc>. H. Stengard et al.: Mortality in elderly diabetic men</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 .</head><label>1</label><figDesc>Mean age of the men and age-adjusted baseline characteristics in 1984 by glucose tolerance status.</figDesc><table><row><cell>Variable</cell><cell cols="4">Glucose tolerance status in 1984</cell><cell></cell><cell></cell></row><row><cell></cell><cell cols="2">Normal (n = 216)</cell><cell cols="2">Impaired (n =234)</cell><cell cols="2">Diabetes mellitus (n = 187)</cell></row><row><cell>Age"</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Mean(SD)</cell><cell cols="2">71.4 (4.8)</cell><cell cols="2">72.5 (5.2)</cell><cell cols="2">73.3 (5.2)</cell></row><row><cell>Anthropometry</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Body mass index Mean(SD)</cell><cell cols="2">25.5 (3.9)</cell><cell cols="2">25.9 (4.0)</cell><cell cols="2">26.0 (4.2)</cell></row><row><cell>Obese'(%)</cell><cell>34.2</cell><cell></cell><cell>40.7</cell><cell></cell><cell>40.6</cell><cell></cell></row><row><cell>Blood pressure</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Systolic a (mm Hg) Mean(SD)</cell><cell>151</cell><cell>(22)</cell><cell>156</cell><cell>(22)</cell><cell cols="2">157 (24)</cell></row><row><cell>Diastolic (mm Hg) Mean (SD)</cell><cell>87</cell><cell>(11)</cell><cell>88</cell><cell>(11)</cell><cell>87</cell><cell>(11)</cell></row><row><cell>Hypertensive a . d (%)</cell><cell>56.8</cell><cell></cell><cell>60.2</cell><cell></cell><cell>65.8</cell><cell></cell></row><row><cell>Serum cholesterol</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Total a (mmol/1) Mean (SD)</cell><cell cols="2">6.2 (1.1)</cell><cell cols="2">6.3 (1.3)</cell><cell cols="2">6.0 (1.3)</cell></row><row><cell>HDL" (mmol/1) Mean(SD)</cell><cell cols="2">1.3 (0.3)</cell><cell cols="2">1.2 (0.3)</cell><cell cols="2">1.2 (0.3)</cell></row><row><cell>Smoking habits b</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">Current smokers (%) 27 .8</cell><cell></cell><cell>19.2</cell><cell></cell><cell>13.4</cell><cell></cell></row><row><cell>Ex-smokers(%)</cell><cell>50.9</cell><cell></cell><cell>54.4</cell><cell></cell><cell>61.3</cell><cell></cell></row><row><cell>Functional capacity</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Mean of sum score (SD)"• e</cell><cell cols="2">47.9 (6.2)</cell><cell cols="2">47.9 (6.8)</cell><cell>45.8</cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 .</head><label>2</label><figDesc>Age-adjusted 5-year mortality rates by glucose tolerance status in 1984</figDesc><table><row><cell>Glucose tolerance status</cell><cell></cell><cell cols="4">Cardiovascular deaths Cancer deaths</cell><cell cols="2">Other deaths</cell><cell>All deaths</cell><cell></cell></row><row><cell></cell><cell>Number</cell><cell>Number</cell><cell>Rate per</cell><cell>Number</cell><cell>Rate per</cell><cell>Number</cell><cell>Rate per</cell><cell>Number</cell><cell>Rate per</cell></row><row><cell></cell><cell>of men</cell><cell cols="7">of deaths lO00men of deaths lO00men of deaths lO00men of deaths</cell><cell>lO00men</cell></row><row><cell>Normal</cell><cell>216</cell><cell>23</cell><cell>118</cell><cell>13</cell><cell>62</cell><cell>6</cell><cell>28</cell><cell>42</cell><cell>209</cell></row><row><cell>Impaired</cell><cell>234</cell><cell>32</cell><cell>134</cell><cell>10</cell><cell>43</cell><cell>14</cell><cell>58</cell><cell>56</cell><cell>234</cell></row><row><cell>Diabetes</cell><cell>187</cell><cell>36</cell><cell>184</cell><cell>19</cell><cell>94</cell><cell>18</cell><cell>86</cell><cell>73</cell><cell>364</cell></row><row><cell>Diabetes by treatment</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>-diet alone or none" -hypoglycaemic agents</cell><cell>142 45</cell><cell>24 12</cell><cell>169 267</cell><cell>13 6</cell><cell>92 133</cell><cell>10 8</cell><cell>70 178</cell><cell>47 26</cell><cell>331 578</cell></row></table><note>' Includes both newly-diagnosed diabetic patients and known diabetic patients treated with diet alone</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3 .</head><label>3</label><figDesc>Multivariate-adjusted" odds ratios for cause-specific and all-cause mortality by glucose tolerance status in 1984 Adjusted for age, body mass index, hypertension, smoking history, total and HDL cholesterol and functional capacity b Includes both newly-diagnosed diabetic patients and known diabetic patients treated with diet alone. 95 % CI, 95 % confidence interval</figDesc><table><row><cell>Glucose tolerance status</cell><cell cols="2">Cardiovascular deaths</cell><cell cols="2">Cancer deaths</cell><cell cols="2">Other deaths</cell><cell>All deaths</cell><cell></cell></row><row><cell></cell><cell cols="2">Odds ratio" (95% CI)</cell><cell cols="2">Odds ratio" (95% CI)</cell><cell cols="2">Odds ratio" (95% CI)</cell><cell cols="2">Odds ratio" (95% CI)</cell></row><row><cell>Normal</cell><cell>1</cell><cell></cell><cell>1</cell><cell></cell><cell>1</cell><cell></cell><cell>1</cell><cell></cell></row><row><cell>Impaired</cell><cell>1.13</cell><cell>(0.62, 2.08)</cell><cell>0.69</cell><cell>(0.29, 1.54)</cell><cell>2.02</cell><cell>(0.71, 5.74)</cell><cell>1.17</cell><cell>(0.71, 1.94)</cell></row><row><cell>Diabetes</cell><cell>1.55</cell><cell>(0.84, 2.85)</cell><cell>1.52</cell><cell>(0.68, 3.39)</cell><cell>2.48</cell><cell>(0.88, 6.98)</cell><cell>2.10</cell><cell>(1.26, 3.49)</cell></row><row><cell>Diabetes by treatment</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>-diet alone b</cell><cell>1.43</cell><cell>(0.74, 2.75)</cell><cell>1.52</cell><cell>(0.64, 3.58)</cell><cell>2.06</cell><cell>(0.67, 6.29)</cell><cell>1.80</cell><cell>(1.05, 3.10)</cell></row><row><cell>-hypoglycaemic agents</cell><cell>1.93</cell><cell>(0.81, 4.61)</cell><cell>1.55</cell><cell>(0.48,5.01)</cell><cell>3.71</cell><cell cols="2">(1.03, 13.40) 3.46</cell><cell>(1.58, 7 .57)</cell></row><row><cell>"</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 4 .</head><label>4</label><figDesc>Age-specific 5-year cardiovascular and total mortality rates and odds ratios by glucose tolerance status at baseline</figDesc><table><row><cell>Age group and glucose</cell><cell></cell><cell cols="2">Cardiovascular deaths</cell><cell></cell><cell></cell><cell>All deaths</cell><cell></cell><cell></cell><cell></cell></row><row><cell>tolerance status</cell><cell>Number</cell><cell cols="2">Number Rate per</cell><cell cols="2">Odds" (95% CI)</cell><cell cols="2">Number Rate per</cell><cell cols="2">Odds" (95% CI)</cell></row><row><cell></cell><cell>of men</cell><cell cols="2">of deaths lO00 men</cell><cell>ratio</cell><cell></cell><cell cols="2">of deaths l000 men</cell><cell>ratio</cell><cell></cell></row><row><cell>Age 65 to 7 4 years</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Normal</cell><cell>168</cell><cell>12</cell><cell>71</cell><cell>1</cell><cell></cell><cell>25</cell><cell>149</cell><cell>1</cell><cell></cell></row><row><cell>Impaired</cell><cell>155</cell><cell>18</cell><cell>116</cell><cell>1.56</cell><cell>(0.70, 3.48)</cell><cell>28</cell><cell>181</cell><cell>1.29</cell><cell>(0.68, 2.44)</cell></row><row><cell>Diabetes</cell><cell>105</cell><cell>16</cell><cell>152</cell><cell>2.35</cell><cell>(1.01, 5.46)</cell><cell>29</cell><cell>276</cell><cell>2.33</cell><cell>(1.19, 4.54)</cell></row><row><cell>Age 75 to 84 years</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Normal</cell><cell>48</cell><cell>11</cell><cell>229</cell><cell>1</cell><cell></cell><cell>17</cell><cell>354</cell><cell>1</cell><cell></cell></row><row><cell>Impaired</cell><cell>79</cell><cell>14</cell><cell>177</cell><cell>0.67</cell><cell>(0.24, 1.58)</cell><cell>28</cell><cell>354</cell><cell>1.00</cell><cell>(0.44, 2.67)</cell></row><row><cell>Diabetes</cell><cell>82</cell><cell>20</cell><cell>244</cell><cell>1.24</cell><cell>(0.32, 2.02)</cell><cell>44</cell><cell>537</cell><cell>1.84</cell><cell>(0.81, 4.17)</cell></row></table><note>"Adjusted for age within age group and for body mass index, hypertension, smoking history, total-and HDL cholesterol and functional capac ity. 95 % CI, 95 % confidence interval</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Table 5 .</head><label>5</label><figDesc>Number of deaths, due to causes other than cardiovascular disease or cancer</figDesc><table><row><cell>Causes of death</cell><cell cols="2">Glucose tolerance status</cell><cell></cell></row><row><cell></cell><cell>Diabetes</cell><cell>Impaired</cell><cell>Normal</cell></row><row><cell></cell><cell>(n = 187)</cell><cell>(n=234)</cell><cell>(n = 216)</cell></row><row><cell>Infection</cell><cell>8</cell><cell>9</cell><cell>2</cell></row><row><cell>-pneumonia</cell><cell>5</cell><cell>8</cell><cell>2</cell></row><row><cell>-pyelonephritis</cell><cell>1</cell><cell>1</cell><cell>0</cell></row><row><cell>-septicaemia</cell><cell>1</cell><cell>0</cell><cell>0</cell></row><row><cell>-pleuritis</cell><cell>1</cell><cell>0</cell><cell>0</cell></row><row><cell>Accident</cell><cell>3</cell><cell>1</cell><cell>2</cell></row><row><cell>Embolia pulmonum Oedema pulmonum</cell><cell>1 0</cell><cell>2 1</cell><cell>0 0</cell></row><row><cell>Volvulus sigmae</cell><cell>0</cell><cell>1</cell><cell>0</cell></row><row><cell>Diabetes mellitus</cell><cell>1</cell><cell></cell><cell></cell></row><row><cell>Unclassifiable</cell><cell>5</cell><cell>0</cell><cell>2</cell></row><row><cell>Total</cell><cell>18</cell><cell>14</cell><cell>6</cell></row></table></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Acknowled gements: This study was supported by grants from Yrjo Jahnsson's Foundation and the Academy of Finland, Medical Re search Council, the Sandoz Foundation for Gerontological Re search and the National Institutes of Health (EDC-1, 1 ROl AG08762-01Al).</p></div>
+			</div>
+
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Diabetic mortality in Edinburgh</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Shenfield</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Elton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">P</forename><surname>Bhalla</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ljp</forename><surname>Duncan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Metab</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="149" to="158" />
+			<date type="published" when="1979">1979</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Prognosis of diabetes mellitus in a geographically defined population</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Panzram</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Zabel-Langhennig</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Dia be to logia</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="587" to="591" />
+			<date type="published" when="1981">1981</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Mortality in type 2 diabetes</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Reunanen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Clin Res</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">37</biblScope>
+			<biblScope unit="page" from="26" to="28" />
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+	<note>Suppl</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Mortality and survival in type 2 (non-insulin dependent) diabetes mellitus</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Panzram</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="123" to="131" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">International variations in mortality among diabetic patients: the WHO multinational study of vascu lar disease in diabetics</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Head</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Fuller</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="477" to="481" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">A long term follow-up study of Japanese diabetic patients: mortality and causes of death</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sasaki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Uehara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Horiuchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Hasagawa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="309" to="312" />
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">A cohort study of mortality in two clinic populations of patients with diabetes mellitus</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Van Der Zwaag</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Runyan</surname><genName>Jr</genName></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Davidson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">K</forename><surname>Delcher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Mainzer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">W</forename><surname>Baggett</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="341" to="346" />
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Mortality in a cohort of diabetic patients. Causes and relative risks</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">R</forename><surname>Waugh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Dallas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">T</forename><surname>Jung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Newton</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabeto logia</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="103" to="104" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Mortality factors in diabetes</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Goodkin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Occup Med</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="716" to="721" />
+			<date type="published" when="1975">1975</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Mortality among diabetics in a national sample</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Kleinman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Donahue</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">I</forename><surname>Harris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">F</forename><surname>Finucane</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Madans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Brock</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">128</biblScope>
+			<biblScope unit="page" from="389" to="401" />
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Sex differential in ischemic heart disease mortality in diabetics: a prospective popu lation-based study</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Barrett-Connor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Wingard</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">118</biblScope>
+			<biblScope unit="page" from="489" to="496" />
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Coronary heart disease mor tality risk: plasma insulin level is a more sensitive marker than hypertension or abnormal glucose tolerance in overweight males. The Paris prospective study</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Fontbonne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Tchobroutsky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Eschwege</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Richards</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Claude</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Rosselin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Obesity</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="557" to="565" />
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Diabetes and athero sclerosis: an epidemiologic view</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Pyorala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Laakso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Uusitupa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Me tab Rev</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="463" to="524" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Epidemiology and public health aspects ofnon insulin-dependent diabetes mellitus</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Jarrett</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Epidemiol Rev</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="151" to="171" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Atherosclerotic vascular disease and its risk factors in non-insulin-dependent diabetic and nondiabetic subjects in Fin land</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Laakso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Ronnemaa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Pyorala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Kallio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Puukka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Penttila</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="449" to="463" />
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">The Bedford survey: ten year mortality rates in newly diagnosed diabetics, borderline diabetics and normoglycaemic controls and risk indices for coronary heart disease in borderline diabetics</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Jarrett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Mccartney</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Keen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="79" to="84" />
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Epidemiological studies related to coronary heart disease: characteristics of men aged 40-59 in seven countries</title>
+		<author>
+			<persName><forename type="first">� A</forename><surname>Key</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Aravanis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Blackburn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Med Scand</title>
+		<imprint>
+			<biblScope unit="page">392</biblScope>
+			<date type="published" when="1967">1967</date>
+		</imprint>
+	</monogr>
+	<note>Suppl 1</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Coronary heart disease in seven countries</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Keys</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Circu lation</title>
+				<imprint>
+			<date type="published" when="1970">1970</date>
+			<biblScope unit="page" from="1" to="211" />
+		</imprint>
+	</monogr>
+	<note>Suppl 1</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Predictors of disability in elderly Finnish mena longitudinal study</title>
+		<author>
+			<persName><forename type="first">U-K</forename><surname>Lammi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S-L</forename><surname>Kivela</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Nissinen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Punsar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Puska</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kar Vonen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="1215" to="1225" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Levels of some biological risk indicators among elderly men in Finland</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Nissinen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S-L</forename><surname>Kivela</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Pekkanen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Age Aging</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="203" to="211" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Enzymatic determination of cholesterol in HDL fractions prepared by polyanion precipitation</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Kastner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Chem</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page">695</biblScope>
+			<date type="published" when="1976">1976</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Prevalence of diabetes mellitus in elderly men aged 65 to 84 years in eastern and western Finland</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tuomilehto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Nissinen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S-L</forename><surname>Kivela</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="611" to="615" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">SAS Institute (1985) SAS User&apos;s guide: statistics</title>
+	</analytic>
+	<monogr>
+		<title level="j">World Health Organization</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">727</biblScope>
+			<date type="published" when="1985">1985</date>
+			<publisher>SAS Institute Inc</publisher>
+		</imprint>
+	</monogr>
+	<note type="report_type">Technical Reports Series</note>
+	<note>Diabetes mellitus, report of a WHO study group</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main">World Health Organization (1978) Arterial hypertension</title>
+		<imprint>
+			<pubPlace>Geneva</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="report_type">Tech nical Report Series</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Some observations on sugar tolerance with a special reference to variations found at different ages</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Spence</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Quart J Med</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="314" to="326" />
+			<date type="published" when="1921">1921</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Community-based study of prevalence of NIDDM in older adults</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Wingard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Sinsheimer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">L</forename><surname>Barrett-Connor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Mcphillips</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="3" to="8" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+	<note>Suppl</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">The general health questionnaire (GHQ) as a predictor of hospital care and mortality in the non-institution alized elderly</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Antilla</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Aging</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="165" to="170" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title level="m" type="main">Net differences in interview data on chronic conditions and information derived from medical records. Na tional Center for Health Statistics (Vital and Health Statistics Ser 2</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">G</forename><surname>Madow</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1973">1973</date>
+			<pubPlace>Washington DC</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Pre valence of diabetes and impaired glucose tolerance and plasma glucose levels in U.S. population aged 20-74 yr</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">I</forename><surname>Harris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">C</forename><surname>Hadden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">C</forename><surname>Knowler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">H</forename><surname>Bennett</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="523" to="534" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">ChuCP(1984) Referral bias in diabetes research</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">J</forename><surname>Melton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Ochi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Palumbo</forename><surname>Pl</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="13" to="18" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Diabetes mortality: new light on an underestimated public health prob lem</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Fuller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Elford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Goldblatt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Adelstein</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="336" to="341" />
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Low in cidence of fatal coronary heart disease in Pima Indians despite high prevalence of non-insulin-dependent diabetes</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">G</forename><surname>� Elson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Sievers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">C</forename><surname>Knowler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">81</biblScope>
+			<biblScope unit="page" from="987" to="995" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Study in Tanzania of impaired glucose tolerance</title>
+		<author>
+			<persName><forename type="first">Abm</forename><surname>Swai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">G</forename><surname>Mclarty</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">M</forename><surname>Kitange</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="516" to="520" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

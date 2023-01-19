@@ -1,0 +1,705 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main"></title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Martin</forename><forename type="middle">R</forename><surname>Salazar</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Hospital Universitario General San Martín</orgName>
+								<address>
+									<addrLine>La Plata</addrLine>
+									<settlement>Buenos Aires</settlement>
+									<country key="AR">Argentina</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Facultad de Ciencias Médicas</orgName>
+								<orgName type="institution">Universidad Nacional de La Plata</orgName>
+								<address>
+									<addrLine>La Plata</addrLine>
+									<settlement>Buenos Aires</settlement>
+									<country key="AR">Argentina</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Horacio</forename><forename type="middle">A</forename><surname>Carbajal</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Facultad de Ciencias Médicas</orgName>
+								<orgName type="institution">Universidad Nacional de La Plata</orgName>
+								<address>
+									<addrLine>La Plata</addrLine>
+									<settlement>Buenos Aires</settlement>
+									<country key="AR">Argentina</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Walter</forename><forename type="middle">G</forename><surname>Espeche</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Hospital Universitario General San Martín</orgName>
+								<address>
+									<addrLine>La Plata</addrLine>
+									<settlement>Buenos Aires</settlement>
+									<country key="AR">Argentina</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Facultad de Ciencias Médicas</orgName>
+								<orgName type="institution">Universidad Nacional de La Plata</orgName>
+								<address>
+									<addrLine>La Plata</addrLine>
+									<settlement>Buenos Aires</settlement>
+									<country key="AR">Argentina</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Marcelo</forename><surname>Aizpurúa</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="institution">Hospital Municipal de Rauch</orgName>
+								<address>
+									<settlement>Rauch, Buenos Aires</settlement>
+									<country key="AR">Argentina</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Carlos</forename><forename type="middle">E</forename><surname>Leiva Sisnieguez</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Hospital Universitario General San Martín</orgName>
+								<address>
+									<addrLine>La Plata</addrLine>
+									<settlement>Buenos Aires</settlement>
+									<country key="AR">Argentina</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Facultad de Ciencias Médicas</orgName>
+								<orgName type="institution">Universidad Nacional de La Plata</orgName>
+								<address>
+									<addrLine>La Plata</addrLine>
+									<settlement>Buenos Aires</settlement>
+									<country key="AR">Argentina</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Betty</forename><forename type="middle">C</forename><surname>Leiva Sisnieguez</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Rodolfo</forename><forename type="middle">N</forename><surname>Stavile</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Hospital Universitario General San Martín</orgName>
+								<address>
+									<addrLine>La Plata</addrLine>
+									<settlement>Buenos Aires</settlement>
+									<country key="AR">Argentina</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Facultad de Ciencias Médicas</orgName>
+								<orgName type="institution">Universidad Nacional de La Plata</orgName>
+								<address>
+									<addrLine>La Plata</addrLine>
+									<settlement>Buenos Aires</settlement>
+									<country key="AR">Argentina</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Carlos</forename><forename type="middle">E</forename><surname>March</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Hospital Universitario General San Martín</orgName>
+								<address>
+									<addrLine>La Plata</addrLine>
+									<settlement>Buenos Aires</settlement>
+									<country key="AR">Argentina</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Facultad de Ciencias Médicas</orgName>
+								<orgName type="institution">Universidad Nacional de La Plata</orgName>
+								<address>
+									<addrLine>La Plata</addrLine>
+									<settlement>Buenos Aires</settlement>
+									<country key="AR">Argentina</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Gerald</forename><forename type="middle">M</forename><surname>Reaven</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Hospital Universitario General San Martín</orgName>
+								<address>
+									<addrLine>La Plata</addrLine>
+									<settlement>Buenos Aires</settlement>
+									<country key="AR">Argentina</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Facultad de Ciencias Médicas</orgName>
+								<orgName type="institution">Universidad Nacional de La Plata</orgName>
+								<address>
+									<addrLine>La Plata</addrLine>
+									<settlement>Buenos Aires</settlement>
+									<country key="AR">Argentina</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">School of Medicine</orgName>
+								<orgName type="institution">Stanford University</orgName>
+								<address>
+									<settlement>Stanford</settlement>
+									<region>CA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff4">
+								<orgName type="institution">Hospital Universitario General San Martín</orgName>
+								<address>
+									<addrLine>14 n 320, La Plata 1900</addrLine>
+									<settlement>Buenos Aires</settlement>
+									<country key="AR">Argentina</country>
+								</address>
+							</affiliation>
+						</author>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">6674F6FA814E9D0C916836D622047C1B</idno>
+					<idno type="DOI">10.1177/1479164115610057</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.1" ident="GROBID" when="2022-07-19T22:49+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Prediabetes</term>
+					<term>cardiovascular disease</term>
+					<term>insulin resistance</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The aim of this study was to test the hypothesis that cardiovascular disease occurs to the greatest extent in persons with prediabetes mellitus who are also insulin resistant. In 2003, 664 non-diabetic women (n = 457) and men (n = 207), aged 52 ± 16 and 53 ± 15 years, were surveyed during a programme for cardiovascular disease prevention. Fasting plasma glucose concentrations defined participants as having normal fasting plasma glucose (fasting plasma glucose &lt;5.6 mmol/L) or prediabetes mellitus (fasting plasma glucose ⩾5.6 and &lt;7.0 mmol/L). The tertile of prediabetes mellitus subjects with the highest fasting plasma insulin concentration was classified as insulin resistant. Baseline cardiovascular disease risk factors were accentuated in prediabetes mellitus versus normal fasting glucose, particularly in prediabetes mellitus/ insulin resistant. In 2012, 86% of the sample were surveyed again, and the crude incidence for cardiovascular disease was higher in subjects with prediabetes mellitus versus normal fasting glucose (13.7 vs 6.0/100 persons/10 years; ageand sex-adjusted hazard ratio = 1.88, p = 0.052). In prediabetes mellitus, the crude incidences were 22.9 versus 9.6/100 persons/10 years in insulin resistant versus non-insulin resistant persons (age-and sex-adjusted hazard ratio = 2.36, p = 0.040). In conclusion, cardiovascular disease risk was accentuated in prediabetes mellitus/insulin resistant individuals, with a relative risk approximately twice as high compared to prediabetes mellitus/non-insulin resistant subjects.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>Uncertainty exists concerning the role of prediabetes mellitus (PreDM) as a risk factor for cardiovascular disease (CVD). Authors of the United States Preventive Services Task Force 1 concluded that prior to the development of diabetes, 'no study consistently found that elevated fasting glucose level could predict coronary heart disease (CHD) events'. Similarly, results of a population-based prospective study <ref type="bibr" target="#b1">2</ref> found that hazard ratios (HRs) for CHD risk 'were generally modest and non-significant across tenths of glucose values below 7.0 mmol/L'. Consistent with these observations were the findings of Steele et al. <ref type="bibr" target="#b2">3</ref> that the prevalence of macrovascular disease in individuals with 'glucokinase mutations and prolonged hyperglycemia' was no different than in a control population and lower when compared to 'young-onset patients with type 2 diabetes'. In addition, patients with glucokinase mutations had lower blood pressure (BP) and triglyceride (TG) concentrations and higher concentrations of high-density lipoprotein cholesterol (HDL-C) as compared to patients with diabetes, leading to the conclusion 'that isolated hyperglycemia is rarely associated with macrovascular disease'. In contrast, results of the Emerging Risk Factors Collaboration <ref type="bibr" target="#b3">4</ref> analysis of published studies indicated that vascular disease was increased when fasting plasma glucose (FPG) concentration was ⩾5.6 mmol/L. However, they concluded that in people 'without history of diabetes, information about fasting blood glucose concentration or Insulin resistance: The linchpin between prediabetes and cardiovascular disease impaired fasting glucose did not significantly improve metrics of vascular disease prediction when added to information about several conventional risk factors'. In this context, Faerch et al. <ref type="bibr" target="#b5">5</ref> indicated that insulin resistance as quantified by the hyperinsulinemic, euglycemic clamp was independently related to Framingham risk score in non-diabetic individuals, whereas this was not true of either fasting or post-oral glucose challenge glucose concentrations. These findings led them to conclude, 'the association between plasma glucose levels and CVD risk is mainly explained by insulin resistance'. The 'several conventional risk factors' referred to by the Emerging Risk Factors Collaboration 4 include the metabolic abnormalities associated with insulin resistance. <ref type="bibr" target="#b6">6</ref> Thus, the observations by Steele et al., <ref type="bibr" target="#b2">3</ref> the Emerging Risk Factors Collaboration <ref type="bibr" target="#b3">4</ref> and those of Faerch et al. <ref type="bibr" target="#b5">5</ref> can be subsumed under one pathophysiological umbrella. Specifically, a mild elevation of FPG, per se, has relatively little adverse effect on macrovascular disease, but the combination of glucose intolerance, insulin resistance and the abnormalities associated with this defect in insulin action <ref type="bibr" target="#b6">6</ref> will lead to increased CVD. Our analysis was initiated to test this formulation and involved a prospective study comparing CVD risk and outcome in subjects with normal fasting glucose (NFG) concentrations versus individuals with PreDM, with a subsequent comparison of persons with PreDM, subdivided into insulin resistant (IR) and non-IR subgroups.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head><p>A prospective epidemiological study of cardio-metabolic risk factors was conducted between October 2003 and February 2012 in Rauch City, province of Buenos Aires. This city lies in the center-southeast region of the province of Buenos Aires, with an annual average temperature of 13.8°C, and has an economy based on agriculture and livestock production. The region had a substantial influx of immigrants primarily from Spain and Italy throughout the 19th and 20th centuries. Consequently, the vast majority of its inhabitants are of European ancestry, with individuals of African and Asian ethnicity comprising a small minority of the population. There is undoubtedly some genetic admixture between subjects of European ancestry and Amerindian. Although there are no quantitative data concerning the genetic admixture in Rauch, we can assume that it is comparable to that observed in the city of Buenos Aires. In a study performed in Buenos Aires in the year 2006, using eight erythrocyte genetic systems and GM/ KM allotypes, the contributions to the genetic admixture were European, 79.9%; Amerindian, 15.8%; and African, 4.3%. <ref type="bibr" target="#b7">7</ref> According to the National Census available at the moment of the survey, there were 13,909 inhabitants in the urban area of Rauch City, 8246 of whom were aged ⩾15 years (4166 men and 4080 women) in 2003 when the survey was initiated. Permission to perform these studies was provided by the relevant health authorities who approved the programme, all participants gave written informed consent and data anonymity was guaranteed; 1308 individuals (855 women, aged 51 ± 17 years and 453 men, aged 52 ± 16 years) aged between 15 and 80 years were randomly selected to take part in the survey. A total of 76% were homeowners; 1.2% of the population was illiterate, while the percentages with a level of education of incomplete primary, complete primary, incomplete secondary, complete secondary, tertiary or incomplete university and complete university level were 16.5%, 37.4%, 17.5%, 9.4%, 5.2% and 12.7%, respectively. Thus, ~17% of the sample had less than 7 years of formal education. The average alcohol intake was 163 ± 10 and 25 ± 42 g/ week for men and women, respectively. The sample had a high prevalence of hypertension (43.20% in men and 28.50% in women) and obesity-overweight status (54.81% in men and 44.65% in women). <ref type="bibr" target="#b8">8</ref> Methods used to measure experimental variables have been previously published. <ref type="bibr" target="#b8">8,</ref><ref type="bibr" target="#b9">9</ref> In brief, BP was measured sitting, after a minimum resting period of 5 min, using a mercury sphygmomanometer. Phase I and V Korotkoff sounds were used to identify systolic BP (SBP) and diastolic BP (DBP), respectively; SBP and DBP values were an average of three different measurements separated by 2 min from one another. Weight was determined with individuals wearing light clothes and no shoes, height was measured without shoes using a metallic metric tape and waist circumference (WC) was measured with a relaxed abdomen using a metallic metric tape on a horizontal plane above the iliac crest. Body mass index (BMI) was calculated using the formula weight (kg)/height 2 (m). Concentrations of FPG, fasting plasma insulin (FPI), TG, total cholesterol and HDL-C were determined after an overnight (12 h) fast. Low-density lipoprotein cholesterol (LDL-C) levels were estimated by the Friedewald formula. <ref type="bibr" target="#b10">10</ref> FPI concentrations were determined using an immunoradiometric assay, with two monoclonal antibodies against two different epitopes of the insulin molecule. The inter-and intra-assay coefficients of variation were 8.0% and 3.8%, respectively, with the lowest detectable level being 1.4 pmol/L. The homeostasis model assessment of insulin resistance (HOMA-IR) was calculated with the formula [(insulin (µU/mL) × glucose (mmol/L))/22.5]. <ref type="bibr" target="#b11">11</ref> Personal information and self-reported medicine intakes were included in the epidemiological chart.</p><p>A total of 756 individuals had both FPG and FPI measurements (505 women, aged 53 ± 16 years and 251 men, aged 54 ± 15 years, p = 0.495). Individuals whose FPG concentrations were ⩾7.0 mmol/L, or receiving treatment with antidiabetic drugs (n = 61), were excluded from the analysis.</p><p>FPG concentrations were used to classify participants as having NFG (FPG &lt;5.6 mmol/L) or PreDM (FPG ⩾5.6 and &lt;7.0 mmol/L). At baseline, 425 individuals were classified as having NFG, whereas 270 individuals were classified as PreDM; 31 individuals were excluded because they did not have a complete lipid profile. The remaining 664 (457 women, aged 52 ± 16 years and 207 men, aged 53 ± 15 years, p = 0.516, 413 NFG and 251 PreDM) were included in the current analysis.</p><p>FPI concentrations were used to further subdivide subjects into IR and non-IR subgroups, with insulin resistance defined as being in the highest tertile of FPI concentrations in the PreDM group. The decision to identify the tertile with the highest FPI concentration as IR was based on the results of two prospective studies showing that the third of a non-diabetic population with the highest insulin concentration developed significantly more CVD. <ref type="bibr" target="#b12">12,</ref><ref type="bibr" target="#b13">13</ref> Although the homeostasis model of insulin resistance (HOMA-IR) was also calculated and presented, it was not used to classify individuals as IR or non-IR. FPG concentration is one of the two variables used to calculate HOMA-IR, and since FPG was the cut-point separating NFG from PreDM its use to also define IR status seemed inappropriate. Second, Abbasi et al. <ref type="bibr" target="#b14">14</ref> have shown that values of HOMA-IR and FPI are almost perfectly correlated in non-diabetic individuals (r = 0.98), and we found this to be the case in our population (r = 0.93). The cut-point of FPI resulting from this approach was 62 pmol/L; it is almost identical to one that we used in a previously published study to define IR for Rauch's entire population. <ref type="bibr" target="#b16">15</ref> In consequence, we considered appropriate to apply this cut-point in NFG individuals.</p><p>The cohort was surveyed again in 2012 to obtain information concerning incident CVD events. The first CVD event, including angina pectoris, fatal or non-fatal myocardial infarction, myocardial revascularization and fatal or non-fatal stroke, was defined as the primary end point. A structured interview was conducted with each participant, or their relatives in case of death, by trained nurses and social workers, and the collected data were then evaluated by a qualified internist (blinded with respect to the subject's baseline CVD risk factors) to assign a specific outcome for every event. When necessary, available medical records were reviewed.</p><p>Continuous variables were expressed as mean and standard deviation (SD) and proportions as percentage (%). Differences in baseline characteristics between groups were compared using Student's t test for independent samples for continuous variables and Chi-square test for categorical variables. Crude incidences for CVD were expressed by 100 persons/10 years of follow-up; the relative risks for CVD events between individuals of each risk group were estimated using Cox proportional hazard models and plotted as event-free survival. The Cox model-building process takes place in three blocks. In the first block, groups (NFG vs PreDM or PreDM/IR vs PreDM/non-IR) were included as categorical variables; in the second block, age and sex were added; finally, FPG, LDL-C, BMI and WC were included in the equation as covariates. The risk was expressed as HR and its 95% confidence interval (95% CI).</p><p>All the significant tests were two-tailed, and p values &lt;0.05 were considered to be statistically significant. Statistical analyses were performed using SPSS software (SPSS Inc., Chicago, IL, USA).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>A comparison of the cardio-metabolic risk profile of the two main experimental groups in 2003 is shown in Table <ref type="table" target="#tab_0">1</ref>. Subjects with PreDM were somewhat older and contained relatively more men. Furthermore, subjects with PreDM were more obese, with significantly higher values for both overall (BMI) and abdominal (WC) obesity -differences that possibly contributed to their generally more adverse cardio-metabolic risk profile. By selection, FPG concentrations were higher in those with PreDM, associated with higher FPI and TG concentrations and elevated SBP and DBP values.</p><p>In 2012, 568 individuals, 355 with NFG and 213 with PreDM (86% of the baseline sample), or their relatives in case of death, could be surveyed again in order to obtain information concerning incident CVD events. During the follow-up period (4523 person-years, mean = 8 ± 1 years), there were 40 CVD events, 9 fatal and non-fatal strokes and 31 fatal and non-fatal coronary events (crude incidence of combined CVD outcomes = 8.8/100 persons/10 years). In addition, there were 23 non-cardiovascular deaths. There were 17 CVD events in individuals with NFG (crude incidence = 6.0/100 persons/10 years) and 23 in those with PreDM (crude incidence = 13.7/100 persons/10 year). Table <ref type="table" target="#tab_1">2</ref> compares unadjusted and adjusted HRs between the two groups and indicates that the risk of developing CVD was somewhat increased in subjects with PreDM, but the age-and sex-adjusted difference is of borderline statistical significance.</p><p>Table <ref type="table" target="#tab_2">3</ref> begins our effort to address the metabolic heterogeneity in the NFG and PreDM groups, subdividing them into non-IR and IR groups on the basis of their FPI concentrations as outlined in the 'Methods' section. By selection, FPI concentrations and HOMA-IR values are significantly greater in the IR subgroups of those with either NFG or PreDM. The two IR subgroups were also more obese (higher values for BMI and WC). In general, they also had a more adverse cardio-metabolic risk profile, but it is important to note that there was no significant difference in FPG concentrations in either IR subgroup.</p><p>There were 23 CVD events in the PreDM population, 11 in non-IR and 12 in IR subjects, resulting in crude incidences of 9.6 and 22.9/100 persons/10 years, respectively. The event-free survival decreased significantly in the IR group, as illustrated in Figure <ref type="figure" target="#fig_0">1</ref>(a) (unadjusted) and Figure <ref type="figure" target="#fig_0">1</ref>(b) (age and sex adjusted). Relative risk was more than twice as high in the IR subgroup, as shown in the detailed HR calculations of Table <ref type="table" target="#tab_3">4</ref>. Thus, the unadjusted HR was 2.42 (p = 0.035), the sex-and age-adjusted HR was 2.36 (p = 0.040) and these values did not change significantly after further adjustment for FPG, LDL-C, BMI and WC. However, in the NFG group, IR individuals did not show a significant increase in the risk of CVD event compared with non-IR ones (crude incidence is 7.6 vs 5.4/100 persons/10 years for IR and non-IR, respectively; unadjusted HR = 1.29, 95% CI = 0.46-3.61, p = 0.632; sex-and age-adjusted HR = 1.17, 95% CI = 0.41-3.30, p = 0.769).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>The results of this study again demonstrate that individuals with PreDM, as a group, are more IR than those with NFG, associated with a more adverse overall cardio-metabolic risk profile, as well as pointing out that this risk is significantly accentuated in the IR subset of those with PreDM. <ref type="bibr" target="#b17">16,</ref><ref type="bibr" target="#b18">17</ref> Although it is not a large study, and relatively few CVD events occurred, the findings are both consistent with previous studies, while at the same time possibly adding new pathophysiological insight to the relationship between PreDM and CVD.</p><p>Although incident CVD events occurred somewhat more commonly in subjects with PreDM as compared to NFG (Table <ref type="table" target="#tab_1">2</ref>), the difference did not reach conventional statistical significance. As such, these findings are consistent with the results of large epidemiological studies as analysed by the United States Preventive Services Task Force, 1 as well as the population-based findings of Sarwar et al. <ref type="bibr" target="#b1">2</ref> that differences in plasma glucose concentration within the non-diabetic range do not predict CVD. Furthermore,  substituting the phrase 'insulin resistance' for 'several conventional risk factors' also renders our results congruent with the findings of the Emerging Risk Factors Collaboration 4 that within a non-diabetic population, information about differences in glucose concentrations, per se, 'did not significantly improve metrics of vascular disease prediction when added to information about several conventional risk factors'. More simply said, FPI concentration was more than twofold higher in the PreDM/IR subgroup (Table <ref type="table" target="#tab_1">2</ref>), and these individuals had significantly more CVD, despite having FPG concentrations that were essentially identical to those in the PreDM/non-IR group. Moreover, in the Cox models an adjustment for FPG levels did not change the risk estimation. Interestingly, despite the differences in BMI between IR and non-IR PreDM individuals (Table <ref type="table" target="#tab_2">3</ref>), an adjustment for this variable did not modify substantially the HR value (Table <ref type="table" target="#tab_3">4</ref>). Our finding of the important role that differences in insulin sensitivity play in modulation of CVD risk in nondiabetic subjects is seemingly closest to the conclusion of Faerch et al. <ref type="bibr" target="#b5">5</ref> that 'the association between plasma glucose levels and CVD risk is mainly explained by insulin resistance'. We also show that CVD is increased in the IR subset of patients with PreDM despite FPG concentrations that are not different from the non-IR patients. Further support for the view that increase in incident CVD in PreDM is unlikely to be a simple function of enhanced glycaemia is evidence that patients with glucokinase deficiencies and many years of mild hyperglycaemia had essentially no increase in CVD when compared to a group of young patients with relatively mild type-2 diabetes mellitus (T2DM). <ref type="bibr" target="#b2">3</ref> The patients with glucokinase deficiencies also had lower BP levels, and lower TG and higher HDL-C concentrations, than the young patients with T2DM, similar to the differences in CVD risk factors between the PreDM/non-IR and PreDM/IR groups in this study. Compared with NFG/non-IR, NFG/IR individuals showed an unfavourable risk profile characterized for high TG and low HDL-C levels but, given the scanty number of NFG subjects defined as IR and the relatively few CVD events, the results of the analysis did not identify a significant increase in CVD events. If insulin resistance is associated with increased CVD in persons with NFG, not just a more adverse risk profile, demonstration that such a relationship exists will likely require a study with larger sample size and a longer period of observation.</p><p>The findings in this prospective, population-based study of a South American population replicate results of somewhat smaller cross-sectional studies in apparently healthy populations from California that cardio-metabolic risk profile is significantly more adverse in individuals with PreDM as compared to those with NFG, and that there is considerable phenotypic heterogeneity in degree of cardio-metabolic risk in subjects with PreDM. <ref type="bibr" target="#b17">[16]</ref><ref type="bibr" target="#b18">[17]</ref><ref type="bibr" target="#b19">[18]</ref> More importantly, this study demonstrates that not only is cardio-metabolic risk increased in the IR subset of subjects with PreDM, but this subset also developed significantly more CVD.</p><p>There are several limitations of this study that must be acknowledged. First, although larger than earlier reports, <ref type="bibr" target="#b17">[16]</ref><ref type="bibr" target="#b18">[17]</ref><ref type="bibr" target="#b19">[18]</ref> the study population was relatively modest in size, numbering in the hundreds, not thousands, and relatively few CVD events occurred. Furthermore, the study population was almost entirely of European ancestry and contained significantly more women than men. Another possible confounder is that oral glucose tolerance tests (OGTTs) were not performed. For example, it is possible that subjects with a normal FPG might have had an elevated 2-h glucose value (⩾140 &lt; 200 or ⩾200 mg/dL) and had an OGTT been performed, and thus would have been 'mis-classified' as having NFG rather than isolated impaired glucose tolerance (IGT) or T2DM, respectively. Isolated IGT is relatively uncommon, comprising &lt;10% in populations of non-diabetic individuals of similar demographic characteristics as in this study. <ref type="bibr" target="#b20">19</ref> Consequently, 'mis-classification' of subjects with isolated IGT as NFG would be quantitatively modest, and, if anything, make our finding that CVD events were increased in the PreDM subjects as compared to those with NFG less likely. Furthermore, data from a study in which two successive OGTTs were performed in non-diabetic individuals 48 h apart suggest that the 'false' classification of subjects with diabetes mellitus as having PreDM is less likely to occur if the decision is based on FPG concentration as compared to values 120 min after the glucose load. <ref type="bibr" target="#b21">20</ref> Finally, differentiation of IR from non-IR was somewhat arbitrary, using values of FPI, rather than HOMA-IR, as the surrogate estimate of insulin action. As pointed out before, this was done because results in our sample, and those of a study of 758 apparently healthy, non-diabetic individuals, <ref type="bibr" target="#b14">14</ref> demonstrated that FPI and HOMA-IR are highly correlated (r &gt; 0.90), with, in the latter study, the  same relationship (r ~ 0.6) to a direct measure of insulinmediated glucose uptake. Second, FPG concentration is used in calculation of HOMA-IR, and the goal of this study was to focus on the impact of insulin resistance, independent of glycaemic status. Although the concerns outlined above cannot be easily dismissed, the results provide evidence that differences in insulin resistance play a central role in determining the subset of subjects with PreDM most at risk of developing CVD. Perhaps, our findings are best viewed as a pilot study that will encourage investigators with large data bases, containing ample numbers of CVD events, to see whether the findings of this study can be replicated. If further studies support our findings, fundamental pathophysiological and clinical issues need to be addressed. There are multiple CVD risk factors linked to insulin resistance, <ref type="bibr" target="#b6">6</ref> and the relative importance of each of them in the increased CVD needs exploration. Finally, improved ways to identify and improve insulin sensitivity in IR individuals with PreDM would seem to deserve increased attention. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Key Messages</head></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. (a) Unadjusted and (b) adjusted by sex and age event-free survival of combined cardiovascular events (fatal and nonfatal strokes and fatal and non-fatal coronary events) in insulin-resistant (IR) and non-insulin resistant (non-IR) individuals with prediabetes mellitus (PreDM).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 .</head><label>1</label><figDesc>Baseline cardio-metabolic risk profile in individuals with normal fasting glucose and individuals with prediabetes mellitus.</figDesc><table><row><cell></cell><cell cols="2">Normal fasting glucose (n = 413) Prediabetes mellitus (n = 251)</cell><cell>p</cell></row><row><cell>Age (years)</cell><cell>51 (16)</cell><cell>55 (14)</cell><cell>0.001*</cell></row><row><cell>Women (%)</cell><cell>73</cell><cell>63</cell><cell>0.006 #</cell></row><row><cell>BMI (kg/m 2 )</cell><cell>25.2 (4.3)</cell><cell>27.0 (4.4)</cell><cell>&lt;0.001*</cell></row><row><cell>WC (cm)</cell><cell>91 (11)</cell><cell>96 (14)</cell><cell>&lt;0.001*</cell></row><row><cell>FPI (pmol/L)</cell><cell>49 (26)</cell><cell>59 (38)</cell><cell>&lt;0.001*</cell></row><row><cell>Systolic BP (mmHg)</cell><cell>130 (18)</cell><cell>136 (19)</cell><cell>&lt;0.001*</cell></row><row><cell>Diastolic BP (mmHg)</cell><cell>81 (11)</cell><cell>84 (12)</cell><cell>&lt;0.001*</cell></row><row><cell>Antihypertensive drugs (%)</cell><cell>17.4</cell><cell>23.1</cell><cell>0.074 #</cell></row><row><cell>FPG (mmol/L)</cell><cell>4.9 (0.5)</cell><cell>6.0 (0.3)</cell><cell></cell></row><row><cell>Total cholesterol (mmol/L)</cell><cell>5.9 (1.2)</cell><cell>6.1 (1.3)</cell><cell>0.046*</cell></row><row><cell>LDL-C (mmol/L)</cell><cell>3.7 (1.2)</cell><cell>3.8 (1.2)</cell><cell>0.250*</cell></row><row><cell>HDL-C (mmol/L)</cell><cell>1.6 (0.7)</cell><cell>1.5 (0.3)</cell><cell>0.315*</cell></row><row><cell>TG (mmol/L)</cell><cell>1.4 (0.7)</cell><cell>1.7 (1.0)</cell><cell>&lt;0.001*</cell></row><row><cell>Lipid-lowering drugs (%)</cell><cell>3.6</cell><cell>6.4</cell><cell>0.104 #</cell></row><row><cell>FPI (pmol/L)</cell><cell>49 (26)</cell><cell>59 (38)</cell><cell>&lt;0.001*</cell></row><row><cell>HOMA-IR</cell><cell>1.5 (1.2)</cell><cell>2.0 (1.4)</cell><cell>&lt;0.001*</cell></row></table><note>SD: standard deviation; BMI: body mass index; BP: blood pressure; FPI: fasting plasma insulin; FPG: fasting plasma glucose; HDL-C: high-density lipoprotein cholesterol; HOMA-IR: homeostasis model assessment of insulin resistance; LDL-C: low-density lipoprotein cholesterol; TG: triglycerides; WC: waist circumference. Continuous variables were expressed as mean and SD and proportions as percentage (%). *Student's t test for independent samples. # Chi-square test.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 .</head><label>2</label><figDesc>Unadjusted and adjusted hazard ratio for cardiovascular disease incidence in individuals with normal fasting glucose (NFG) versus individuals with prediabetes mellitus (PreDM).</figDesc><table><row><cell></cell><cell>Follow-up</cell><cell>Crude incidence (100</cell><cell cols="2">Unadjusted</cell><cell></cell><cell cols="3">Age and sex adjusted</cell><cell cols="2">Age, sex, BMI and LDL-C</cell></row><row><cell></cell><cell>(person-</cell><cell>persons/10 years)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">adjusted</cell></row><row><cell></cell><cell>years)</cell><cell></cell><cell>HR</cell><cell>95% CI</cell><cell>p</cell><cell>HR</cell><cell>95% CI</cell><cell>p</cell><cell>HR</cell><cell>95% CI</cell><cell>p</cell></row><row><cell>NFG</cell><cell>2850</cell><cell>6.0</cell><cell>1</cell><cell></cell><cell></cell><cell>1</cell><cell></cell><cell></cell><cell></cell></row><row><cell>PreDM</cell><cell>1673</cell><cell>13.7</cell><cell cols="8">2.30 1.23-4.32 0.009 1.88 1.00-3.55 0.052 1.77 0.92-3.40 0.086</cell></row><row><cell>Total</cell><cell>4523</cell><cell>8.8</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table><note>BMI: body mass index; LDL-C: low-density lipoprotein cholesterol; HR: hazard ratio; CI: confidence interval; NFG: normal fasting plasma glucose; PreDM: prediabetes mellitus.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3 .</head><label>3</label><figDesc>Baseline cardio-metabolic risk profile in individuals with normal fasting plasma glucose and prediabetes mellitus according to their insulin resistance status.</figDesc><table><row><cell></cell><cell cols="2">Normal fasting glucose</cell><cell>p</cell><cell>Prediabetes mellitus</cell><cell></cell><cell>p</cell></row><row><cell></cell><cell>Non-IR (n = 316)</cell><cell>IR (n = 97)</cell><cell></cell><cell>Non-IR (n = 171)</cell><cell>IR (n = 80)</cell><cell></cell></row><row><cell>FPI (pmol/L)</cell><cell>37 (12)</cell><cell>87 (24)</cell><cell></cell><cell>40 (14)</cell><cell>97 (46)</cell><cell></cell></row><row><cell>Age (years)</cell><cell>51 (16)</cell><cell>50 (17)</cell><cell>0.685*</cell><cell>55 (14)</cell><cell>55 (15)</cell><cell>0.884*</cell></row><row><cell>Women (%)</cell><cell>72</cell><cell>74</cell><cell>0.688 #</cell><cell>61</cell><cell>65</cell><cell>0.583 #</cell></row><row><cell>BMI (kg/m 2 )</cell><cell>24.5 (4.0)</cell><cell>26.8 (4.3)</cell><cell>&lt;0.001*</cell><cell>26.0 (4.4)</cell><cell>29.3 (4.7)</cell><cell>&lt;0.001*</cell></row><row><cell>WC (cm)</cell><cell>91 (12)</cell><cell>94 (10)</cell><cell>0.026*</cell><cell>94 (11)</cell><cell>107 (17)</cell><cell>&lt;0.001*</cell></row><row><cell>Systolic BP (mmHg)</cell><cell>129 (18)</cell><cell>132 (20)</cell><cell>0.132*</cell><cell>134 (18)</cell><cell>141 (18)</cell><cell>0.003*</cell></row><row><cell>Diastolic BP (mmHg)</cell><cell>80 (10)</cell><cell>82 (12)</cell><cell>0.228*</cell><cell>82 (11)</cell><cell>87 (11)</cell><cell>0.001*</cell></row><row><cell>Antihypertensive drugs (%)</cell><cell>15.2</cell><cell>24.7</cell><cell>0.010 #</cell><cell>19.9</cell><cell>30.0</cell><cell>0.076 #</cell></row><row><cell>FPG (mmol/L)</cell><cell>4.9 (0.5)</cell><cell>4.9 (0.5)</cell><cell>0.648*</cell><cell>5.9 (0.3)</cell><cell>6.0 (0.4)</cell><cell>0.400*</cell></row><row><cell>Total cholesterol (mmol/L)</cell><cell>5.9 (1.2)</cell><cell>5.9 (1.1)</cell><cell>0.735*</cell><cell>6.0 (1.2)</cell><cell>6.2 (1.4)</cell><cell>0.479*</cell></row><row><cell>LDL-C (mmol/L)</cell><cell>3.7 (1.2)</cell><cell>3.7 (0.9)</cell><cell>0.618*</cell><cell>3.8 (1.1)</cell><cell>3.8 (1.3)</cell><cell>0.728*</cell></row><row><cell>HDL-C (mmol/L)</cell><cell>1.6 (0.8)</cell><cell>1.5 (0.3)</cell><cell>0.052*</cell><cell>1.5 (0.4)</cell><cell>1.5 (0.3)</cell><cell>0.255*</cell></row><row><cell>TG (mmol/L)</cell><cell>1.3 (0.7)</cell><cell>1.6 (0.8)</cell><cell>&lt;0.001*</cell><cell>1.6 (0.8)</cell><cell>1.9 (1.4)</cell><cell>0.059*</cell></row><row><cell>Lipid-lowering drugs (%)</cell><cell>3.7</cell><cell>4.1</cell><cell>0.767 #</cell><cell>7.0</cell><cell>5.0</cell><cell>0.381 #</cell></row><row><cell>HOMA-IR</cell><cell>1.1 (0.4)</cell><cell>2.9 (1.8)</cell><cell>&lt;0.001*</cell><cell>1.4 (0.6)</cell><cell>3.4 (1.7)</cell><cell>&lt;0.001*</cell></row><row><cell cols="7">SD: standard deviation; BMI: body mass index; BP: blood pressure; FPI: fasting plasma insulin; FPG: fasting plasma glucose; HDL-C: high-density lipo-</cell></row><row><cell cols="7">protein cholesterol; HOMA-IR: homeostasis model assessment of insulin resistance; LDL-C: low-density lipoprotein cholesterol; TG: triglycerides;</cell></row><row><cell cols="2">WC: waist circumference; IR: insulin resistant.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="4">Continuous variables were expressed as mean and SD and proportions as percentage (%).</cell><cell></cell><cell></cell><cell></cell></row></table><note>*Student's t test for independent samples. # Chi-square test.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 4 .</head><label>4</label><figDesc>Unadjusted and adjusted hazard ratio for cardiovascular disease incidence in insulin-resistant (IR) versus non-IR individuals with prediabetes mellitus.</figDesc><table><row><cell></cell><cell>Follow-up</cell><cell>Crude incidence</cell><cell cols="2">Unadjusted</cell><cell></cell><cell cols="2">Age and sex adjusted</cell><cell>Age, sex, BMI, FPG and</cell></row><row><cell></cell><cell>(person-years)</cell><cell>(100 persons/</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>LDL-C adjusted</cell></row><row><cell></cell><cell></cell><cell>10 years)</cell><cell>HR</cell><cell>95% CI</cell><cell>p</cell><cell>HR 95% CI</cell><cell>p</cell><cell>HR 95% CI</cell><cell>p</cell></row><row><cell>Non-IR</cell><cell>1148</cell><cell>9.6</cell><cell>1</cell><cell></cell><cell></cell><cell>1</cell><cell></cell></row><row><cell>IR</cell><cell>525</cell><cell>22.9</cell><cell cols="6">2.42 1.07-5.47 0.035 2.36 1.04-5.37 0.040 2.39 1.01-5.67 0.048</cell></row><row><cell cols="2">Total PreDM 1673</cell><cell>13.7</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table><note>BMI: body mass index; FPG: fasting plasma glucose; LDL-C: low-density lipoprotein cholesterol; HR: hazard ratio; CI: confidence interval; PreDM: prediabetes mellitus; IR: insulin resistant.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head></head><label></label><figDesc>Cardiovascular disease (CVD) risk varies with glycaemic status in non-diabetic persons. • • CVD risk factor profiles vary with insulin sensitivity in prediabetes mellitus (PreDM). • • Incident CVD in non-diabetics tends to be increased in general in PreDM. • • Incident CVD in PreDM is accentuated in those with insulin resistance.</figDesc><table /><note>• •</note></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgements</head><p>This study could not have been conducted without the help of the nurses from the 'Hospital Municipal of Rauch'.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Declaration of conflicting interests</head><p>The author(s) declared no potential conflicts of interest with respect to the research, authorship and/or publication of this article.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Funding</head><p>The author(s) received no financial support for the research, authorship and/or publication of this article.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Emerging risk factors for coronary heart disease: a summary of systematic reviews conducted for the U.S. Preventive Services Task Force</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Helfand</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">I</forename><surname>Buckley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Freeman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">151</biblScope>
+			<biblScope unit="page" from="496" to="507" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Markers of dysglycaemia and risk of coronary heart disease in people without diabetes: Reykjavik prospective study and systematic review</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Sarwar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Aspelund</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Eiriksdottir</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS Med</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">e1000278</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Prevalence of vascular complications among patients with glucokinase mutations and prolonged mild hyperglycemia</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Steele</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">M</forename><surname>Shields</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename><surname>Wensley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">311</biblScope>
+			<biblScope unit="page" from="278" to="286" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Emerging Risk Factors Collaboration</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Diabetes mellitus, fasting blood glucose concentration, and risk of vascular disease: a collaborative meta-analysis of 102 prospective studies</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Sarwar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Gao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Seshasai</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">375</biblScope>
+			<biblScope unit="page" from="2215" to="2222" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Does insulin resistance drive the association between hyperglycemia and cardiovascular risk</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Faerch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Bergman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Perreault</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS ONE</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">e39260</biblScope>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">The insulin resistance syndrome</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Reaven</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Curr Atheroscler Rep</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="364" to="371" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Gene mixture in a population sample from Buenos Aires City</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Avena</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Goicoechea</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Rey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Medicina (B Aires)</title>
+		<imprint>
+			<biblScope unit="volume">66</biblScope>
+			<biblScope unit="page" from="113" to="118" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Decrease of blood pressure by community-based strategies</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Salazar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">A</forename><surname>Carbajal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Aizpurúa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Medicina (B Aires)</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="page" from="507" to="512" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Alanineaminotransferase: an early marker for insulin resistance?</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Salazar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">A</forename><surname>Carbajal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">O</forename><surname>Curciarello</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Medicina (B Aires)</title>
+		<imprint>
+			<biblScope unit="volume">67</biblScope>
+			<biblScope unit="page" from="125" to="130" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Estimation of the concentration of low-density lipoprotein cholesterol in plasma, without use of the preparative ultracentrifuge</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">T</forename><surname>Friedewald</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">I</forename><surname>Levy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Fredrickson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Chem</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="499" to="502" />
+			<date type="published" when="1972">1972</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Homeostasis model assessment: insulin resistance and b-cell function from fasting plasma glucose and insulin concentrations in man</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Matthews</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Hosker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Rudenski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="412" to="419" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Resistance to insulinmediated glucose disposal as a predictor of cardiovascular disease</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Yip</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">S</forename><surname>Facchini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Reaven</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Endocrinol Metab</title>
+		<imprint>
+			<biblScope unit="volume">83</biblScope>
+			<biblScope unit="page" from="2773" to="2776" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Insulin resistance as a predictor of age-related diseases</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">S</forename><surname>Facchini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Hua</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Abbasi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Endocrinol Metab</title>
+		<imprint>
+			<biblScope unit="volume">86</biblScope>
+			<biblScope unit="page" from="3574" to="3578" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">Evaluation of fasting plasma insulin concentration as an estimate of insulin action in nondiabetic individuals: comparison with the homeostasis model assessment of insulin resistance</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Abbasi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Okeke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Reaven</surname></persName>
+		</author>
+		<imprint>
+			<publisher>HOMA-IR</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Diabetol</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="page" from="193" to="197" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Relationships among insulin resistance, obesity, diagnosis of the metabolic syndrome and cardio-metabolic risk</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Salazar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">A</forename><surname>Carbajal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">G</forename><surname>Espeche</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diab Vasc Dis Res</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="109" to="116" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Isolated impaired fasting glucose and peripheral insulin sensitivity: not a simple relationship</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Reaven</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="347" to="352" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Beyond fasting plasma glucose: the association between coronary heart disease risk and postprandial glucose, postprandial insulin, and insulin resistance in healthy, nondiabetic adults</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Bhat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">A</forename><surname>Abbasi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Blasey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Metabolism</title>
+		<imprint>
+			<biblScope unit="volume">62</biblScope>
+			<biblScope unit="page" from="1223" to="1226" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Modulation of heart disease risk by insulin resistance in subjects with normal glucose tolerance or prediabetes</title>
+		<author>
+			<persName><forename type="first">Ariel</forename><forename type="middle">D</forename><surname>Reaven</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Diabetol</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="page" from="1033" to="1039" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Differences in cardiovascular risk factors, insulin resistance, and insulin secretion in individuals with normal glucose tolerance and in subjects with impaired glucose regulation: the Telde Study</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">J</forename><surname>Nóvoa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Boronat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Saavedra</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="2388" to="2393" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Insulin and glucose responses to identical oral glucose tolerance tests performed fortyeight hours apart</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Olefsky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Reaven</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="449" to="453" />
+			<date type="published" when="1974">1974</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

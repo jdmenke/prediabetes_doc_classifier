@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Plasma Glucose Regulation and Mortality in Pima Indians</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2007-12-10">10 December 2007</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><roleName>MD</roleName><forename type="first">Nan-Hee</forename><forename type="middle">Hee</forename><surname>Kim</surname></persName>
+							<email>kimnanhee@niddk.nih.gov.</email>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Diabetes Epidemiology and Clinical Research Section</orgName>
+								<orgName type="department" key="dep2">National Institute of Diabetes and Digestive and Kidney Diseases</orgName>
+								<orgName type="institution">National Institutes of Health</orgName>
+								<address>
+									<settlement>Phoenix</settlement>
+									<region>Arizona</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Meda</forename><forename type="middle">E</forename><surname>Pavkov</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Diabetes Epidemiology and Clinical Research Section</orgName>
+								<orgName type="department" key="dep2">National Institute of Diabetes and Digestive and Kidney Diseases</orgName>
+								<orgName type="institution">National Institutes of Health</orgName>
+								<address>
+									<settlement>Phoenix</settlement>
+									<region>Arizona</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MBBS</roleName><forename type="first">Helen</forename><forename type="middle">C</forename><surname>Looker</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Division of Endocrinology</orgName>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Mount Sinai School of Medicine</orgName>
+								<address>
+									<settlement>New York</settlement>
+									<region>New York</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Robert</forename><forename type="middle">G</forename><surname>Nelson</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Diabetes Epidemiology and Clinical Research Section</orgName>
+								<orgName type="department" key="dep2">National Institute of Diabetes and Digestive and Kidney Diseases</orgName>
+								<orgName type="institution">National Institutes of Health</orgName>
+								<address>
+									<settlement>Phoenix</settlement>
+									<region>Arizona</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MB</roleName><forename type="first">Peter</forename><forename type="middle">H</forename><surname>Bennett</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Diabetes Epidemiology and Clinical Research Section</orgName>
+								<orgName type="department" key="dep2">National Institute of Diabetes and Digestive and Kidney Diseases</orgName>
+								<orgName type="institution">National Institutes of Health</orgName>
+								<address>
+									<settlement>Phoenix</settlement>
+									<region>Arizona</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MD, MPH</roleName><forename type="first">Robert</forename><forename type="middle">L</forename><surname>Hanson</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Diabetes Epidemiology and Clinical Research Section</orgName>
+								<orgName type="department" key="dep2">National Institute of Diabetes and Digestive and Kidney Diseases</orgName>
+								<orgName type="institution">National Institutes of Health</orgName>
+								<address>
+									<settlement>Phoenix</settlement>
+									<region>Arizona</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MD, MPH</roleName><forename type="first">Jeffrey</forename><forename type="middle">M</forename><surname>Curtis</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Diabetes Epidemiology and Clinical Research Section</orgName>
+								<orgName type="department" key="dep2">National Institute of Diabetes and Digestive and Kidney Diseases</orgName>
+								<orgName type="institution">National Institutes of Health</orgName>
+								<address>
+									<settlement>Phoenix</settlement>
+									<region>Arizona</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Maurice</forename><forename type="middle">L</forename><surname>Sievers</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Diabetes Epidemiology and Clinical Research Section</orgName>
+								<orgName type="department" key="dep2">National Institute of Diabetes and Digestive and Kidney Diseases</orgName>
+								<orgName type="institution">National Institutes of Health</orgName>
+								<address>
+									<settlement>Phoenix</settlement>
+									<region>Arizona</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MD, DRPH</roleName><forename type="first">William</forename><forename type="middle">C</forename><surname>Knowler</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Diabetes Epidemiology and Clinical Research Section</orgName>
+								<orgName type="department" key="dep2">National Institute of Diabetes and Digestive and Kidney Diseases</orgName>
+								<orgName type="institution">National Institutes of Health</orgName>
+								<address>
+									<settlement>Phoenix</settlement>
+									<region>Arizona</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">•</forename><surname>• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<orgName type="institution">National Institutes of Health</orgName>
+								<address>
+									<addrLine>1550 East Indian School Rd</addrLine>
+									<postCode>85014-4972</postCode>
+									<settlement>Phoenix</settlement>
+									<region>AZ</region>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Plasma Glucose Regulation and Mortality in Pima Indians</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2007-12-10">10 December 2007</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">848F64EBFAEC65B13B809F66ED19924B</idno>
+					<idno type="DOI">10.2337/dc07-1850</idno>
+					<note type="submission">Received for publication 20 September 2007 and accepted in revised form 30 November 2007.</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.1" ident="GROBID" when="2022-07-19T22:49+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>2hPG, 2-h plasma glucose</term>
+					<term>CVD, cardiovascular disease</term>
+					<term>DRR, death rate ratio</term>
+					<term>ECG, electrocardiogram</term>
+					<term>FPG, fasting plasma glucose</term>
+					<term>IFG, impaired fasting glucose</term>
+					<term>IGT, impaired glucose tolerance</term>
+					<term>IHD, ischemic heart disease</term>
+					<term>MC, Minnesota Code</term>
+					<term>NGR, normal glucose regulation</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>OBJECTIVE -To evaluate whether impaired fasting glucose (IFG) and/or impaired glucose tolerance (IGT) are associated with increased risk of mortality and prevalent ischemic heart disease (IHD) and to analyze if the increased risk of death is dependent on subsequent development of diabetes in Pima Indians.</p><p>RESEARCH DESIGN AND METHODS -A total of 2,993 Pima Indians aged Ն35 years were included. Prevalent IHD, defined by major ischemic electrocardiogram changes, was evaluated according to the following glucose/diabetes categories: normal glucose regulation (NGR), IFG and/or IGT, and diabetic groups by duration. During a median follow-up of 10.4 years, 780 subjects died from natural causes and 156 of these died from IHD. Mortality was analyzed according to the same glucose/diabetes categories at baseline and then as timedependent variables.</p><p>RESULTS -Only subjects with diabetes Ն15 years of duration have a higher prevalence of IHD (odds ratio 1.9 [95% CI 1.4 -2.5]) relative to NGR. In baseline and time-dependent models, age-and sex-adjusted death rates from natural causes and from IHD were similar among the nondiabetic groups. Among diabetic subjects, natural mortality was higher in those with Ն15 years diabetes duration (death rate ratio [DRR] relative to NGR ϭ 2.6 [95% CI 2.1-3.3]). IHD mortality was higher in subjects with long diabetes duration (DRR for diabetes 10 -15 years ϭ 3.8 [1.5-9.5]; DRR for diabetes Ն15 years ϭ 8. 6 [3.8 -19.4]) in the time-dependent model. CONCLUSIONS -Natural and IHD mortality are not increased in Pima Indians with IFG and/or IGT. Only after the onset of diabetes do the rates of these events increase relative to NGR.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>C</head><p>onsiderable evidence indicates that chronic hyperglycemia is a risk factor for natural-cause and ischemic heart disease (IHD) mortality and for incident IHD <ref type="bibr" target="#b0">(1)</ref><ref type="bibr" target="#b1">(2)</ref><ref type="bibr" target="#b2">(3)</ref><ref type="bibr" target="#b3">(4)</ref>. Low glucose concentration has also been implicated as a risk factor for increased overall mortality and cardiovascular disease (CVD) mortality, including IHD <ref type="bibr" target="#b2">(3)</ref>. There is some controversy, however, concerning the relative pathophysiological roles of fasting and postload hyperglycemia in nondiabetic individuals. Some epidemiologic studies support the importance of one or the other <ref type="bibr" target="#b0">(1,</ref><ref type="bibr" target="#b1">2)</ref>, and a few indicate that neither impaired fasting glucose (IFG) nor impaired glucose tolerance (IGT) confer increased risk for mortality or incident IHD <ref type="bibr" target="#b4">(5)</ref> or do not confer increased risk after accounting for associated cardiovascular risk factors <ref type="bibr" target="#b5">(6,</ref><ref type="bibr" target="#b6">7)</ref>. However, most previous studies consider only the baseline glucose levels and do not account for the change of glucose tolerance status and the development of diabetes during followup, so that the risk of IFG or IGT on mor-tality might be overestimated in these studies. Development of diabetes is reported to confound the relationship between baseline IFG and mortality <ref type="bibr" target="#b7">(8)</ref> but not the relationship between baseline IGT and mortality <ref type="bibr" target="#b8">(9)</ref>.</p><p>In Pima Indians, diabetes has a major impact on mortality and causes of death, and the death rate from IHD has increased in recent years in those with diabetes <ref type="bibr" target="#b9">(10)</ref>. Sufficient numbers of follow-up examinations permit us to account precisely for the future development of diabetes. The specific purposes of this study are to assess the association between prevalent IHD based on major ischemic electrocardiogram (ECG) changes and plasma glucose and diabetes duration categories, to compare death rates from natural causes and from IHD among these plasma glucose and diabetes duration categories, and to determine whether risk of mortality in IFG and/or IGT groups is dependent on development of diabetes during follow-up.  and ICD-9 codes were used to classify the underlying cause of death as due to natural causes (ICD-9 codes 001.0 -799.9) and IHD (ICD-9 codes 410.0 -414.9). Death rates and causes of death were computed according to glucose/diabetes categories.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESEARCH DESIGN AND METHODS</head><p>Diabetes and nondiabetes categories of glucose regulation were defined by the 2003 American Diabetes Association criteria (11) (i.e., a person was classified as diabetic based on FPG Ն7.0 mmol/l, 2hPG Ն11.1 mmol/l, or a previous clinical diagnosis). In the absence of diabetes, they were classified as having normal glucose regulation (NGR), isolated IFG, isolated IGT, or combined IFG and IGT (IFG ϩ IGT), using glucose limits specified in Table <ref type="table" target="#tab_2">1</ref>. In addition, diabetes was classified as Ͻ5 years duration, 5-10 years duration, 10 -15 years duration, and Ն15 years duration. Nondiabetic subjects were also classified by only FPG criteria as NFG (FPG Ͻ5.6 mmol/l) or IFG (5.6 Յ FPG Ͻ 7.0 mmol/l) with or without IGT and, similarly, by only 2hPG criteria, NGT (2hPG Ͻ7.8 mmol/l), or IGT (7.8 Յ 2hPG Ͻ 11.1 mmol/l) with or without IFG to make groups comparable with previous publications <ref type="bibr" target="#b0">(1,</ref><ref type="bibr" target="#b2">3,</ref><ref type="bibr" target="#b5">6)</ref>. To determine the association between low FPG and mortality, subjects with normal FPG were also categorized into two groups according to their FPG (FPG Ͻ4.5 mmol/l [n ϭ 59], 4.5 Յ FPG Ͻ 5.6 mmol/l [n ϭ 928]).</p><p>A standard 12-lead ECG was obtained at each examination, after the carbohydrate load, with the subject resting in the supine position. ECGs performed before 1992 were coded by a cardiologist who had no knowledge of the clinical data. After 1992, ECGs were coded at the EPICARE Center at Wake Forest University by readers trained in standard ECG measurement techniques who were also blinded to the clinical data and previous tracings. All ECGs were graded using Minnesota Code (MC) classifications. Major ischemic ECG changes such as MC I 1-2 (major Q wave abnormalities), MC I 3 with IV 1-2 or V 1-2 (minor Q, QS waves with ST or T abnormalities), IV 1-2 (significant ST segment depression), V 1-2 (deep or moderate T wave inversion), or VII 1,2,4,8 (left bundle branch block, right bundle branch block, and intraventricular block) were considered to reflect IHD, as described previously <ref type="bibr" target="#b11">(12)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analysis</head><p>Generalized estimating equations were used to calculate the odds ratio for prevalent IHD according to glucose/diabetes categories using all examinations after controlling for age and sex and accounting for the dependence among multiple examinations in the same individual. CIs were computed from SEs, which were calculated with the empirical (or robust) estimator <ref type="bibr" target="#b12">(13)</ref>.</p><p>Death rates were calculated as the number of subjects who died per 1,000 person-years of follow-up. For the mortality analysis, the period at risk extended from the first research examination after the age of 35 years to death or the end of 2003, whichever came earlier. Mortality was analyzed according to glucose/ diabetes categories at baseline and as time-dependent variables. Although the former analysis ignored changes in glucose tolerance status during follow-up, including development of diabetes, it was intended to replicate most reports in the literature. In the time-dependent analysis, person-time accumulated in the corre-sponding glucose tolerance categories, thereby accounting for changes over time. Deaths were counted in the most recent glucose category rather than by status at baseline. Nondiabetic glucose categories could change at each subsequent examination, whereas categories of duration of diabetes changed only according to years since diagnosis of diabetes. Age-and sex-adjusted death rates and death rate ratios (DRRs) relative to NGR were calculated with direct standardization to the 1980 Pima Indian population. CIs were computed from the logarithms of the death rates and rate ratios <ref type="bibr" target="#b13">(14)</ref>. Tests for general association were computed by the Mantel-Haenszel test <ref type="bibr" target="#b14">(15)</ref> and for linear association by the Mantel extension test (16) modified for person-time denominators <ref type="bibr" target="#b16">(17)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head><p>-Baseline characteristics of the study population are presented in Table 1. Controlled for age and sex, prevalent IHD was significantly higher relative to NGR in subjects with Ն15 years duration of diabetes only (odds ratio 1.9 [95% CI 1.4 -2.5]) (Fig. <ref type="figure" target="#fig_0">1A</ref>).</p><p>During a median follow-up of 10.4 years (range 0.04 -29.0), 780 deaths from natural causes occurred among the 2,993 subjects (1,268 men and 1,725 women), 156 of these deaths being attributed to IHD. The age-and sex-adjusted death rates from natural causes were similar within the nondiabetic groups (NGR, isolated IFG, isolated IGT, and IFG ϩ IGT) in both the baseline and time-dependent models. When only baseline glucose/ diabetes categories were analyzed, death rates were higher in people with diabetes and were associated with diabetes duration. However, in the time-dependent analysis, natural mortality did not increase significantly until the duration of diabetes reached 15 years (Table <ref type="table" target="#tab_3">2</ref>) (Fig. <ref type="figure" target="#fig_0">1B</ref>).</p><p>Diabetes at baseline was associated with higher IHD mortality, which increased with baseline duration of diabetes. In the time-dependent model, IHD death rates were lower than those in the corresponding baseline categories, but the associations did not change (Table <ref type="table" target="#tab_3">2</ref>) (Fig. <ref type="figure" target="#fig_0">1C</ref>). IFG with or without IGT was not associated with higher natural or IHD mortality compared with NFG in both baseline and time-dependent models. The same was found for IGT with or without IFG (Fig. <ref type="figure" target="#fig_1">2</ref>). The major finding that only longer duration of diabetes was associated with increased natural cause and IHD mortality was consistent in both men and women. The associations of diabetes and duration of diabetes with mortality were not changed after adjusting for BMI, total cholesterol, mean arterial pressure, and smoking.</p><p>Subjects in the lowest FPG group (FPG Ͻ4.5 mmol/l) had a slightly higher death rate than those in the normal FPG group (4.5 Յ FPG Ͻ 5.6 mmol/l) after adjustment for age and sex (DRRs compared with normal FPG group ϭ 1.5 [95% CI 0.6 -3.4]). The small number of people in this group, however, leads to a wide CI, making this finding inconclusive.</p><p>CONCLUSIONS -Previously, we reported that natural and CVD mortality were not higher in Pima Indians with IFG or IGT than in those with NGR <ref type="bibr" target="#b17">(18)</ref>. That study, however, had a relatively short follow-up time so that there were only 285 deaths among 1,370 study subjects. Therefore, death rates within the subcategories of impaired glucose regulation could not be examined. This study extends previous observations in Pima Indians on the relationship between glucose concentration and mortality <ref type="bibr" target="#b17">(18)</ref>, to encompass a 29-year period.</p><p>Although diabetes has a major impact on IHD and mortality in Pima Indians, the prevalence of IHD was not higher in the categories of IFG and/or IGT but only in those with Ͼ15 years of diabetes. The associations of incident IHD with glucose/ diabetes categories (data not shown) were similar to those of prevalent IHD, but the CIs for prevalent IHD were narrower because multiple examinations could be included in the generalized estimating equations and increased the power of the prevalent IHD analysis. Furthermore, mortality from natural causes or from IHD was not higher in individuals with IFG and/or IGT than in those with NGR in this study. IHD and diabetic nephropathy share many risk factors and are the leading causes of death among diabetic Pima Indians. Moreover, people who develop diabetic nephropathy die primarily of IHD <ref type="bibr" target="#b9">(10)</ref>. When death rates from diabetic nephropathy and IHD were computed as a composite end point, the associations with glucose/diabetes categories were similar as with IHD alone (data not shown). These findings are consistent with the Atherosclerosis Risk in Communities Study <ref type="bibr" target="#b4">(5)</ref>, which included 6,888 white and black nondiabetic subjects and showed that neither IFG nor IGT increased the risk for all-cause mortality or incident IHD. Similarly in the Hoorn Study <ref type="bibr" target="#b5">(6)</ref>, increased risk associated with IFG or IGT was mostly, but not completely, attributable to cardiovascular risk factors in a population cohort of 2,363 subjects without known diabetes. By contrast, in the DECODE (Diabetes Epidemiology: Collaborative analysis Of Diagnostic criteria in Europe) study <ref type="bibr" target="#b0">(1)</ref>, which included 22,514 subjects from a number of European population-based studies, IGT but not IFG was associated with increased mortality from all causes and from CVD, defined as IHD and stroke. This relationship was present even after accounting for conventional cardio- vascular risk factors, whereas in our study, IFG and/or IGT did not increase the risk of death after controlling for age, sex, BMI, total cholesterol, mean blood pressure, and smoking. We computed mortality in subjects with IFG (with or without IGT) relative to NFG and in subjects with IGT (with or without IFG) relative to NGT, categories that facilitated comparison with the Hoorn (6) and DECODE (1) studies. Although neither of these categories were associated with statistically significantly higher natural-cause or IHD mortality rates, the point estimates of effects were consistent with these previous studies. For example, in the current study, the DRR for IHD mortality in IGT was 1.5 (95% CI 0.6 -3.5) compared with 1.3 (1.0 -1.6) in DECODE. By contrast, neither the Hoorn Study nor the present study provided evidence for an effect of IFG on mortality, although the two studies used different definitions of IFG and classification of causes of death.</p><p>Compared with analyses using only baseline glucose categories to predict deaths, in the time-dependent models the effect of diabetes on mortality was attenuated. Indeed, in the time-dependent models, only subjects with diabetes of longer duration had significantly higher mortality than those with NGR. Considering this difference, reports of higher death rates from natural causes or IHD in subjects with IFG and/or IGT that are based solely on baseline glucose overestimate the effect of glucose in the nondiabetic range, since some subjects in these groups could have developed diabetes after the baseline examination and yet remained in the nondiabetic group in the analysis. Two studies examining the im-pact of development of diabetes on the increased risk for IHD morbidity and mortality in subjects with IFG or IGT reported conflicting results. In the Finnish study <ref type="bibr" target="#b8">(9)</ref>, IGT remained an important risk factor even when controlled for the subsequent development of diabetes. Subjects with IGT who did not develop diabetes after 10 years of follow-up had a 49% higher risk of incident IHD and a 65% higher risk of all-cause mortality compared with NGT. Conversely, in the Hoorn Study, the excess mortality associated with IFG was present only in those who developed diabetes during follow-up <ref type="bibr" target="#b7">(8)</ref>. The Hoorn Study included follow-up glucose measurements, whereas the Finnish study relied on the registered drug  data or ICD codes provided by the national Hospital Discharge Register for identifying new cases of diabetes. Therefore, the Finnish study was more likely to include undiagnosed diabetic subjects in the IGT group. Thus, failure to account for progression to diabetes may result in incorrect conclusions about the pathogenetic importance of IFG and IGT in relation to IHD and mortality. Several studies <ref type="bibr" target="#b2">(3,</ref><ref type="bibr" target="#b18">19)</ref> have indicated a lower glycemic threshold for macrovascular than for microvascular disease. This was not evident in the Pima Indians (18,20) (i.e., the risk of these complications was increased in subjects with diabetes but not in those with lesser degrees of glucose abnormality). This finding may be due to the much lower rate of IHD in nondiabetic Pimas than in many other populations <ref type="bibr" target="#b19">(20)</ref>. Low serum concentrations of total and LDL cholesterol, and a low rate of heavy smoking <ref type="bibr" target="#b19">(20)</ref>, may be responsible, in part, for these differences. Indeed, only 22 nondiabetic IHD deaths occurred in Ͼ17,000 person-years of follow-up during the 29-year study period. With low rates of traditional risk factors for macrovascular disease, diabetes, especially when accompanied by renal complications, may represent the predominant risk factor for IHD. This impact of diabetic nephropathy enhances the association of diabetes duration with the incidence of IHD.</p><p>Lower glucose concentration has also been previously associated with CVD and natural mortality (3). Although not statistically significant, there was 50% higher natural-cause mortality in those with FPG Ͻ4.5 mmol/l than those with FPG 4.5-5.5 mmol/l. The pathogenesis of this association remains to be defined. Nevertheless, poor general health and ECG changes, such as increased ectopic activity, flattening of the T waves, ST depression, ventricular tachycardia, and atrial fibrillation, may play a role <ref type="bibr" target="#b20">(21,</ref><ref type="bibr" target="#b21">22)</ref>. The small number of subjects who had or died of IHD in the nondiabetic and the short-duration diabetes groups may limit the power of the analysis to reveal potential differences in IHD risk among IFG, IGT, and shortduration diabetes.</p><p>In conclusion, the present findings are consistent with the hypothesis that any association of IHD with impaired glucose regulation is due primarily to factors other than hyperglycemia per se. Although impaired glucose regulation is associated with abnormal insulin secretion and action and predicts diabetes, it is not an independent predictor of mortality except in those who subsequently develop diabetes.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 -</head><label>1</label><figDesc>Figure 1-Age-and sex-adjusted odds ratios (ORs) for IHD defined by ischemic ECG changes (A), age-and sex-adjusted DRRs from natural causes (B), and IHD (C) compared with NGR according to glucose/diabetes categories. Dashed lines, error bars representing 95% CI for each OR for prevalent IHD (A) and for DRR (B,C); Ⅺ, baseline; o, time dependent. IFG, isolated IFG; IGT, isolated IGT.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2 -</head><label>2</label><figDesc>Figure 2-Age-and sex-adjusted death rates according to FPG regardless of 2hPG and 2hPG regardless of FPG from natural causes (A) and IHD (B) in the baseline model. The error bars represent 95% CI for each DRR. DRRs for 5.6 Յ FPG Ͻ7.0 mmol/l compared with FPG Ͻ5.6 and for 7.8 Յ 2hPG Ͻ11.1 mmol/l compared with 2hPG Ͻ7.8 mmol/l are presented. 95% CIs of each DRR are presented in the parentheses.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 1 -Baseline characteristics of the study population according to glucose/diabetes categories.</head><label>1</label><figDesc></figDesc><table><row><cell></cell><cell>NGR</cell><cell>Isolated IFG</cell><cell>Isolated IGT</cell><cell>IFG ϩ IGT</cell><cell>Diabetes</cell></row><row><cell>FPG (mmol/l)</cell><cell>Ͻ5.6</cell><cell>5.6-6.9</cell><cell>Ͻ5.6</cell><cell>5.6-6.9</cell><cell>*</cell></row><row><cell>2hPG (mmol/l)</cell><cell>Ͻ7.8</cell><cell>Ͻ7.8</cell><cell>7.8-11.0</cell><cell>7.8-11.0</cell><cell>*</cell></row><row><cell>n</cell><cell>823</cell><cell>299</cell><cell>164</cell><cell>231</cell><cell>1476</cell></row><row><cell>Age (years)</cell><cell>42.1 Ϯ 9.4</cell><cell>43.8 Ϯ 10.2</cell><cell>43.0 Ϯ 9.9</cell><cell>45.6 Ϯ 11.6</cell><cell>47.0 Ϯ 11.2</cell></row><row><cell>Sex (% male)</cell><cell>42.7</cell><cell>46.5</cell><cell>33.5</cell><cell>43.3</cell><cell>42.2</cell></row><row><cell>FPG (mmol/l)</cell><cell>5.0 Ϯ 0.3</cell><cell>5.9 Ϯ 0.3</cell><cell>5.1 Ϯ 0.3</cell><cell>6.0 Ϯ 0.4</cell><cell>11.2 Ϯ 4.4</cell></row><row><cell>2hPG (mmol/l)</cell><cell>5.7 Ϯ 1.2</cell><cell>6.3 Ϯ 1.1</cell><cell>8.7 Ϯ 0.8</cell><cell>9.2 Ϯ 0.9</cell><cell>18.6 Ϯ 6.6</cell></row><row><cell>BMI (kg/m 2 )</cell><cell>32.7 Ϯ 7.4</cell><cell>35.5 Ϯ 7.8</cell><cell>33.6 Ϯ 6.6</cell><cell>36.6 Ϯ 7.7</cell><cell>33.3 Ϯ 7.8</cell></row><row><cell>Waist (cm)</cell><cell>107.6 Ϯ 17.6</cell><cell>114.7 Ϯ 19.2</cell><cell>107.5 Ϯ 14.6</cell><cell>118.0 Ϯ 16.9</cell><cell>113.2 Ϯ 18.9</cell></row><row><cell>Systolic blood pressure (mmHg)</cell><cell>118.7 Ϯ 16.7</cell><cell>123.0 Ϯ 17.7</cell><cell>121.8 Ϯ 18.8</cell><cell>125.6 Ϯ 18.9</cell><cell>130.4 Ϯ 22.4</cell></row><row><cell>Diastolic blood pressure (mmHg)</cell><cell>73.8 Ϯ 11.7</cell><cell>76.2 Ϯ 11.7</cell><cell>75.1 Ϯ 11.7</cell><cell>77.4 Ϯ 13.4</cell><cell>79.6 Ϯ 12.3</cell></row><row><cell>Total cholesterol (mmol/l)</cell><cell>4.6 Ϯ 0.9</cell><cell>4.6 Ϯ 0.8</cell><cell>4.6 Ϯ 0.9</cell><cell>4.6 Ϯ 0.9</cell><cell>4.8 Ϯ 1.3</cell></row><row><cell>Triglycerides (mmol/l)</cell><cell>1.2 (0.8-1.7)</cell><cell>1.3 (1.1-2.0)</cell><cell>1.4 (1.0-2.2)</cell><cell>1.5 (1.0-2.1)</cell><cell>1.5 (1.1-2.5)</cell></row><row><cell>HDL cholesterol (mmol/l)</cell><cell>1.3 Ϯ 0.4</cell><cell>1.1 Ϯ 0.4</cell><cell>1.2 Ϯ 0.4</cell><cell>1.1 Ϯ 0.3</cell><cell>1.1 Ϯ 0.3</cell></row><row><cell>Current smokers (%)</cell><cell>34.8</cell><cell>24.2</cell><cell>27.4</cell><cell>23.4</cell><cell>23.5</cell></row></table><note>Data are means Ϯ SD or median (25th-75th quartile). *Diagnosis based on FPG Ն7.0 mmol/l, 2hPG Ն11.1 mmol/l, or previous clinical diagnosis.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 2 -Person-years, number of deaths, age-and sex-adjusted death rates and their 95% CI for death from natural cause and IHD according to glucose/diabetes categories at baseline and as time-dependent variables</head><label>2</label><figDesc>Person-years are shown only for natural mortality, as they are the same for IHD mortality. †Age-and sex-adjusted and reported as deaths per 1,000 person-years at risk.</figDesc><table><row><cell></cell><cell></cell><cell></cell><cell cols="2">Natural mortality</cell><cell></cell><cell></cell><cell></cell><cell cols="2">IHD mortality</cell><cell></cell></row><row><cell></cell><cell></cell><cell cols="2">Baseline</cell><cell></cell><cell cols="2">Time-dependent</cell><cell></cell><cell>Baseline</cell><cell cols="2">Time-dependent</cell></row><row><cell></cell><cell>Person-</cell><cell>Deaths</cell><cell>Death rate</cell><cell>Person-</cell><cell>Deaths</cell><cell>Death rate</cell><cell>Deaths</cell><cell>Death rate</cell><cell>Deaths</cell><cell>Death rate</cell></row><row><cell>Group</cell><cell>years*</cell><cell>(n)</cell><cell>(95% CI) †</cell><cell>years*</cell><cell>(n)</cell><cell>(95% CI) †</cell><cell>(n)</cell><cell>(95% CI) †</cell><cell>(n)</cell><cell>(95% CI) †</cell></row><row><cell>NGR</cell><cell cols="4">8726.1 104 13.7 (11.0-16.3) 7100.1</cell><cell cols="2">91 15.4 (12.2-18.6)</cell><cell>10</cell><cell>1.3 (0.5-2.2)</cell><cell>6</cell><cell>1.1 (0.2-2.1)</cell></row><row><cell>Isolated IFG</cell><cell>3976.7</cell><cell cols="3">44 12.9 (9.0-16.7) 3026.2</cell><cell cols="2">33 12.7 (8.4-17.1)</cell><cell>3</cell><cell>0.8 (0.0-1.6)</cell><cell>3</cell><cell>1.2 (0.0-2.5)</cell></row><row><cell>Isolated IGT</cell><cell>1687.1</cell><cell cols="3">24 17.0 (10.0-24.1) 1427.2</cell><cell cols="2">19 16.2 (8.7-23.7)</cell><cell>2</cell><cell>1.4 (0.0-3.3)</cell><cell>1</cell><cell>0.8 (0.0-2.4)</cell></row><row><cell>IFG ϩ IGT</cell><cell>2962.2</cell><cell cols="3">51 16.0 (11.5-20.6) 1912.9</cell><cell cols="2">28 14.5 (9.0-20.0)</cell><cell>7</cell><cell>2.0 (0.0-3.4)</cell><cell>2</cell><cell>1.0 (0.0-2.3)</cell></row><row><cell>Diabetes Ͻ5</cell><cell cols="4">8639.2 165 19.3 (16.3-22.4) 3838.7</cell><cell>28</cell><cell>9.6 (5.9-13.4)</cell><cell>34</cell><cell>4.1 (2.7-5.5)</cell><cell>3</cell><cell>1.2 (0.0-2.6)</cell></row><row><cell cols="5">5 Յ diabetes Ͻ 10 3930.9 115 28.1 (22.8-33.4) 4256.2</cell><cell cols="2">52 14.6 (10.6-18.7)</cell><cell>33</cell><cell>7.8 (5.0-10.5)</cell><cell>8</cell><cell>2.2 (0.6-3.7)</cell></row><row><cell cols="5">10 Յ diabetes Ͻ 15 3555.9 163 37.1 (30.8-43.4) 4441.3</cell><cell cols="2">78 18.3 (14.2-22.5)</cell><cell>39</cell><cell>9.4 (6.1-12.6)</cell><cell>17</cell><cell>4.3 (2.2-6.4)</cell></row><row><cell>Diabetes Ն15</cell><cell cols="6">1700.4 114 57.0 (45.9-68.2) 9175.9 451 40.2 (35.6-44.7)</cell><cell cols="3">28 13.4 (8.3-18.5) 116</cell><cell>9.8 (7.6-11.9)</cell></row><row><cell>Total</cell><cell cols="2">35178.6 780</cell><cell></cell><cell cols="2">35178.6 780</cell><cell></cell><cell>156</cell><cell></cell><cell>156</cell><cell></cell></row></table><note>*</note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">DIABETES CARE, VOLUME 31, NUMBER 3, MARCH 2008</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Acknowledgments -This research was supported by the Intramural Research Program of the National Institute of Diabetes and Digestive and Kidney Diseases and the American Diabetes Association.</p><p>We are indebted to the members of the Gila River Indian Community for participating in this investigation and to the staff of the Diabetes Epidemiology and Clinical Research Section for conducting the examinations.</p><p>This study was presented in abstract form in Diabetes 56 (Suppl. 1):A170, 2007.</p></div>
+			</div>
+
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">DECODE Study group: Glucose tolerance and cardiovascular mortality: comparison of fasting and 2-hour diagnostic criteria</title>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">161</biblScope>
+			<biblScope unit="page" from="397" to="405" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">High blood glucose concentration is a risk factor for mortality in middle-aged nondiabetic men: 20-year follow-up in the Whitehall Study, the Paris Prospective Study, and the Helsinki Policemen Study</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Balkau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Shipley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Jarrett</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="360" to="367" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Is there a glycemic threshold for mortality risk?</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Balkau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bertrais</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Ducimetiere</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="696" to="699" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Twohour glucose is a better risk predictor for incident coronary heart disease and cardiovascular mortality than fasting glucose</title>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Qiao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Pyorala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Pyorala</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur Heart J</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="1267" to="1275" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Cardiometabolic risk in impaired fasting glucose and impaired glucose tolerance: the Atherosclerosis Risk in Communities Study</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Pankow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">K</forename><surname>Kwan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">B</forename><surname>Duncan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="325" to="331" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Hyperglycemia is associated with allcause and cardiovascular mortality in the Hoorn population: the Hoorn Study</title>
+		<author>
+			<persName><forename type="first">De</forename><surname>Vegt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Dekker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Ruhe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">G</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="926" to="931" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Predicting future cardiovascular disease: do we need the oral glucose tolerance test?</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Stern</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Fatehi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Williams</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="1851" to="1856" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">High risk of cardiovascular mortality in individuals with impaired fasting glucose is explained by conversion to diabetes: the Hoorn Study</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Rijkelijkhuizen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Nijpels</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Heine</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="332" to="336" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Predictive properties of impaired glucose tolerance for cardiovascular risk are not explained by the development of overt diabetes during follow-up</title>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Qiao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Jousilahti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Eriksson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="2910" to="2914" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">An explanation for the increase in heart disease mortality rates in diabetic Pima Indians: effect of renal replacement therapy</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Pavkov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Sievers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">C</forename><surname>Knowler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="1132" to="1136" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Follow-up report on the diagnosis of diabetes mellitus</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Genuth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">G</forename><surname>Alberti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Bennett</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="3160" to="3167" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Electrocardiographic abnormalities predict deaths from cardiovascular disease and ischemic heart disease in Pima Indians with type 2 diabetes</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Jimenez-Corona</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">G</forename><surname>Nelson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Sievers</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am Heart J</title>
+		<imprint>
+			<biblScope unit="volume">151</biblScope>
+			<biblScope unit="page" from="1080" to="1086" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Generalized models for longitudinal data</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Diggle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">Y</forename><surname>Liang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Zeger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Analysis of Longitudinal Data</title>
+				<editor>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Diggle</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">K</forename><forename type="middle">Y</forename><surname>Liang</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Zeger</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="1994">1994</date>
+			<biblScope unit="page" from="131" to="145" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Diabetes incidence and prevalence in Pima Indians: a 19-fold greater incidence than in Rochester, Minnesota</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">C</forename><surname>Knowler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">H</forename><surname>Bennett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">F</forename><surname>Hamman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">108</biblScope>
+			<biblScope unit="page" from="497" to="505" />
+			<date type="published" when="1978">1978</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Statistical aspects of the analysis of data from retrospective studies of disease</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Mantel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Haenszel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Natl Cancer Inst</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="419" to="448" />
+			<date type="published" when="1959">1959</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Chi-square tests with one degree of freedom: extension of the Mantel-Haenszel procedure</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Mantel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Stat Assoc</title>
+		<imprint>
+			<biblScope unit="volume">59</biblScope>
+			<biblScope unit="page" from="690" to="700" />
+			<date type="published" when="1963">1963</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Epidemiologic Analysis With a Programmable Calculator: National Institutes of Health</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename><surname>Rothman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Boice</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Govt. Printing Office</title>
+		<imprint>
+			<biblScope unit="page">1979</biblScope>
+		</imprint>
+	</monogr>
+	<note>NIH publ. no. NIH 79-1949</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Plasma glucose and prediction of microvascular disease and mortality: evaluation of 1997 American Diabetes Association and 1999 World Health Organization criteria for diagnosis of diabetes</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Gabir</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Hanson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Dabelea</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="1113" to="1118" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Is nondiabetic hyperglycemia a risk factor for cardiovascular disease? A meta-analysis of prospective studies</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">B</forename><surname>Levitan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Song</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Ford</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">164</biblScope>
+			<biblScope unit="page" from="2147" to="2155" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Low incidence of fatal coronary heart disease in Pima Indians despite high prevalence of non-insulin-dependent diabetes</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">G</forename><surname>Nelson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Sievers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">C</forename><surname>Knowler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">81</biblScope>
+			<biblScope unit="page" from="987" to="995" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Transient atrial fibrillation precipitated by hypoglycaemia: two case reports</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Collier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Matthews</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Young</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Post-gradMed J</title>
+		<imprint>
+			<biblScope unit="volume">63</biblScope>
+			<biblScope unit="page" from="895" to="897" />
+			<date type="published" when="1978">1978</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Hypoglycemia-induced angina pectoris in a patient with diabetes mellitus</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Duh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Feinglos</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">121</biblScope>
+			<biblScope unit="page" from="945" to="946" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

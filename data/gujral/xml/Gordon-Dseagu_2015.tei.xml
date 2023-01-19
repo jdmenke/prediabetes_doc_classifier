@@ -1,0 +1,1344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Impaired Glucose Metabolism among Those with and without Diagnosed Diabetes and Mortality: A Cohort Study Using Health Survey for England Data</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2015-03-18">March 18, 2015</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Vanessa</forename><forename type="middle">L Z</forename><surname>Gordon-Dseagu</surname></persName>
+							<email>vanessa.gordon-dseagu@ucl.ac.uk</email>
+						</author>
+						<author>
+							<persName><forename type="first">Jennifer</forename><forename type="middle">S</forename><surname>Mindell</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Andrew</forename><surname>Steptoe</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Alison</forename><surname>Moody</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Jane</forename><surname>Wardle</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Panayotes</forename><surname>Demakakos</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Nicola</forename><forename type="middle">J</forename><surname>Shelton</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Epidemiology and Public Health</orgName>
+								<orgName type="institution">UCL (University College London)</orgName>
+								<address>
+									<addrLine>1-19</addrLine>
+									<postCode>WC1E 6BT</postCode>
+									<settlement>Torrington Place, London</settlement>
+									<country key="GB">United Kingdom</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="institution" key="instit1">Indiana University School of Medicine</orgName>
+								<orgName type="institution" key="instit2">UNITED STATES</orgName>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Impaired Glucose Metabolism among Those with and without Diagnosed Diabetes and Mortality: A Cohort Study Using Health Survey for England Data</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2015-03-18">March 18, 2015</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">7AA7BEEEB1A74446DFD980678913CF3B</idno>
+					<idno type="DOI">10.1371/journal.pone.0119882</idno>
+					<note type="submission">Received: November 27, 2014 Accepted: February 3, 2015</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.1" ident="GROBID" when="2022-07-19T22:44+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Background</head><p>The extent that controlled diabetes impacts upon mortality, compared with uncontrolled diabetes, and how pre-diabetes alters mortality risk remain issues requiring clarification.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head><p>We carried out a cohort study of 22,106 Health Survey for England participants with a HbA1 C measurement linked with UK mortality records. We estimated hazard ratios (HRs) of all-cause, cancer and cardiovascular disease (CVD) mortality and 95% confidence intervals (CI) using Cox regression.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>Average follow-up time was seven years and there were 1,509 deaths within the sample. Compared with the non-diabetic and normoglycaemic group (HbA1 C &lt;5.7% [&lt;39mmol/ mol] and did not indicate diabetes), undiagnosed diabetes (HbA1 C 6.5% [48mmol/mol] and did not indicate diabetes) inferred an increased risk of mortality for all-causes (HR 1.40, 1.09-1.80) and CVD (1.99, 1.35-2.94), as did uncontrolled diabetes (diagnosed diabetes and HbA1 C 6.5% [48mmol/mol]) and diabetes with moderately raised HbA1 C (diagnosed diabetes and HbA1 C 5.7-&lt;6.5% [39-&lt;48mmol/mol]). Those with controlled diabetes (diagnosed diabetes and HbA&lt;5.7% [&lt;39mmol/mol]) had an increased HR in relation to mortality from CVD only. Pre-diabetes (those who did not indicate diagnosed diabetes and HbA1 C 5.7-&lt;6.5% [39-&lt;48mmol/mol]) was not associated with increased mortality, and raised HbA1 C did not appear to have a statistically significant impact upon cancer mortality. Adjustment for BMI and socioeconomic status had a limited impact upon our results. We also found women had a higher all-cause and CVD mortality risk compared with men.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>The World Health Organization estimates that annually 3.4 million deaths are due to high levels of glucose in the blood. <ref type="bibr" target="#b0">[1]</ref> The prevalence of diabetes, the disease most closely associated with chronic hyperglycaemia, currently totals 366 million worldwide and this figure is expected to rise to over 550 million by 2030. <ref type="bibr" target="#b1">[2]</ref> In England, around 3.1 million adults over the age of 16 are estimated to be living with diabetes, equating to 7.4% of the population, and the Association of Public Health Observatories projected that this will increase to 4.6 million (9.5%) by 2030. <ref type="bibr" target="#b2">[3]</ref> Glycated haemoglobin (HbA1 C ) is a reliable biomarker of long term blood glucose levels. The International Expert Committee recommended in 2009 that HbA1 C is appropriate for the clinical diagnosis of diabetes: with HbA1 C levels 6.5% (48 mmol/mol) being indicative of diabetes, and HbA1 C between 5.7-&lt;6.5% (39 and &lt;48mmol/mol) indicating a pre-diabetic state within which an individual is at a high risk of developing diabetes. <ref type="bibr" target="#b3">[4]</ref> There is heterogeneity within the results of studies which have sought to explore the associations between raised HbA1 C and all-cause mortality; with some finding an increased risk of mortality when compared with those who are normoglycaemic, while others demonstrate no difference <ref type="bibr" target="#b4">[5]</ref><ref type="bibr" target="#b5">[6]</ref><ref type="bibr" target="#b6">[7]</ref><ref type="bibr" target="#b7">[8]</ref><ref type="bibr" target="#b8">[9]</ref>. The evidence is suggestive of a continuous association between HbA1 C and cardiovascular disease (CVD), including for myocardial infarction and stroke. <ref type="bibr" target="#b9">[10,</ref><ref type="bibr" target="#b10">11]</ref> Khaw et al. found that the association between HbA1 C and mortality from all-causes and cardiovascular disease was not only continuous but occurred at measurements lower than the diabetic threshold. <ref type="bibr" target="#b11">[12]</ref> A small number of published epidemiological studies have focussed upon HbA1 C and cancer mortality, with the majority demonstrating a positive association between the two, <ref type="bibr" target="#b12">[13]</ref><ref type="bibr" target="#b13">[14]</ref><ref type="bibr" target="#b15">[15]</ref> although some did not. <ref type="bibr" target="#b16">[16]</ref> Joshu et al. found that women with raised HbA1 C were at an increased risk of both cancer incidence and mortality, but this association was not present for men. <ref type="bibr" target="#b13">[14]</ref> There is also inconsistency in current research in a number of areas related to HbA1C and mortality, including whether there are differences in excess mortality related to HbA1 C between the sexes, <ref type="bibr" target="#b17">[17]</ref><ref type="bibr" target="#b19">[18]</ref><ref type="bibr" target="#b20">[19]</ref><ref type="bibr" target="#b21">[20]</ref> whether HbA1 C begins to impact upon mortality within the normoglycaemic range, <ref type="bibr" target="#b17">[17,</ref><ref type="bibr" target="#b22">21,</ref><ref type="bibr" target="#b23">22]</ref> how raised HbA1 C impacts upon mortality among those with and without diagnosed diabetes-the latter being an indicator of how well an individual is controlling their diabetes, <ref type="bibr" target="#b23">[22]</ref> and how it might impact upon mortality from site-specific cancers. <ref type="bibr" target="#b17">[17,</ref><ref type="bibr" target="#b20">19,</ref><ref type="bibr" target="#b22">21]</ref> The impact that socioeconomic status has upon the excess mortality experienced by those with raised HbA1 C /diagnosed diabetes has also yet to be fully assessed. <ref type="bibr" target="#b24">[23]</ref> We explored the associations between raised HbA1 C (within both the pre-diabetic and diabetic ranges) and mortality from all-causes, cancer and CVD. The impact of confounding factors, such as BMI and socioeconomic status, upon the associations were also assessed. Finally, in order to evaluate whether raised HbA1 C and diabetes impart mortality risks that differ between men and women, we performed sex-stratified analyses. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Materials and Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Participants and data</head><p>We linked data from 22,106 participants of the Health Survey for England (HSE) (survey years <ref type="bibr">2003, 2004, 2005, 2006 and 2008)</ref> with a valid HbA1 C measurement with UK national mortality data up to March 2013. Detailed descriptions of the HSE have been published previously. <ref type="bibr" target="#b25">[24,</ref><ref type="bibr" target="#b26">25]</ref> Each year the HSE surveys a new, nationally-representative, random sample of the population utilising a multistage stratified design. Stage one of the HSE involves an interview within which information is sought about the participant's health and lifestyle, and objective measurements of weight and height are taken. This is then followed by a visit from a nurse who collects information about medication use and takes further measurements and samplesincluding blood from which HbA1 C was measured. Analysis of the HbA1 C samples took place using the Tosoh G7 analyser calibrated to Diabetes Control and Complications Trial (DCCT) standards. <ref type="bibr" target="#b27">[26]</ref> In total, 72% of men and 67% of women who took part in the nurse survey gave a valid non-fasting blood sample. <ref type="bibr" target="#b28">[27]</ref> Within the current study, an HbA1 C measurement of 6.5% (48mmol/mol) was considered indicative of the presence of diabetes, while a measurement of 5.7 to &lt;6.5% (39 to &lt;48mmol/ mol) indicated pre-diabetes. These cut-off points are those recommended by the World Health Organization for the clinical diagnosis of diabetes, although in some instances a secondary measurement may also be required. <ref type="bibr" target="#b29">[28]</ref> Diagnosed diabetes was ascertained using self-reported doctor diagnosed diabetes and/or recorded use of diabetic medicine during the nurse visit. We used this information, combined with the International Expert Committee's diabetes and prediabetes categories, to create the following categorisation for those without diagnosed diabetes:</p><p>-Normoglycaemic/no diabetes: those who neither indicated diabetes nor had a raised HbA1 C measurement (&lt;5.7% (&lt;39mmol/mol))</p><p>-Pre-diabetes: those without diabetes but an HbA1 C measurement within the pre-diabetic range (5.7-&lt;6.5% (39-&lt;48mmol/mol))</p><p>-Undiagnosed diabetes: those with raised HbA1 C (6.5% (48mmol/mol)) without diagnosed diabetes.</p><p>The following categories were produced for individuals who indicated diagnosed diabetes:</p><p>-Controlled diabetes: those with diabetes and an HbA1 C &lt;5.7% (&lt;39mmol/mol).</p><p>-Diabetes and moderately raised HbA1 C : those with diagnosed diabetes and an HbA1 C 5.7-&lt;6.5% (39-&lt;48mmol/mol).</p><p>-Uncontrolled diabetes: those with diagnosed diabetes and raised (6.5% (48mmol/ mol)) HbA1 C .</p><p>Smoking was categorised into non-regular-smokers, current and ex-smokers. The socioeconomic status (SES) variable used the Registrar-General's Social Class categories based on occupation (I: Professional occupations, II: Managerial and technical, IIINM: Skilled non-manual, IIIM: Skilled manual, IV: Partly-skilled, V: Unskilled and other) were used. BMI (body mass index, based on measured height and weight) was included within the regression model as a continuous variable.</p><p>Variables were created for mortality from all-causes, as well as cancer (ICD9 codes 140-208; ICD10 codes C00-C97) and cardiovascular disease (390-459; I00-I99). Mortality data were categorised and linked to the HSE data by NatCen Social Research. Date of death was provided by quarter of a year and date of participation within the survey by month.</p><p>To be eligible for inclusion within this study, survey participants had to be 16 years or older and have given written consent for their participation within the HSE and for their data to be linked within national mortality records -80 to 95% of participants gave consent for this linkage. No children were included within the study, so consent was not required for their participation. Mortality records were available only for deaths that occurred within the UK. Ethical approval was obtained from the National Research Ethics Services.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analysis</head><p>We used Cox regression to estimate models of the associations between glucose metabolism status and mortality. We adjusted our models for age, sex and smoking status. To assess the impact of socioeconomic status and overweight and obesity on the examined associations we progressively adjusted our models for socioeconomic status and BMI (as detailed above). Primary outcome measures were mortality from all-causes, cancer and CVD. All analyses were undertaken using SPSS V. 20 (SPSS Inc.). Follow-up time was defined as the period of time from the date of interview to either the end of the study period (March, 2013) or mortality as recorded within the data.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Characteristic of the study sample</head><p>In total, 22,106 individuals aged 16 years within the HSE had a valid measurement for HbA1 C . The average number of follow-up years was 7 (±SD 2.2). 54% of the sample were women. The sample was evenly split between never regular cigarette smokers and ex or current smokers. 15,476 (70) had neither a raised HbA1 C measurement nor diagnosed diabetes (see Table <ref type="table" target="#tab_1">1</ref>). Among those who reported diagnosed diabetes, 732 were in the uncontrolled diabetes category (HbA1 C 48mmol/mol (6.5)), 53 had controlled diabetes (HbA1 C &lt;5.7% (&lt;39mmol/mol)), and 234 had diabetes and moderately raised HbA1 C 5.7-&lt;6.5% (39-&lt;48mmol/mol). Of those without diagnosed diabetes, 15,476 had an HbA1 C within the normoglycaemic range 5.7% (&lt;39mmol/mol). This category was used as our reference group. 413 had undiagnosed diabetes (HbA1 C 6.5% (48mmol/mol) but no diagnosis of diabetes) and 5,198 had pre-diabetes (HbA1 C 5.7-&lt;6.5% (39mmol/mol-&lt;48mmol/mol) and no diagnosis of diabetes). Those with raised HbA1 C tended to be older than those with a lower measurement; for example the mean age of those within the normoglycaemic range, and who did not report diabetes, was 47 years (±SD 0.14), while among those with uncontrolled diabetes the mean age was 64 (0.50). BMI was raised among those in either the diabetic or pre-diabetic groups when compared with those who were normoglycaemic.</p><p>1,509 participants (6.8% of the sample) had died by the end of the follow-up period; 506 participants had died of CVD and 466 from cancer.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>All-cause mortality</head><p>Compared with those without diabetes, participants with undiagnosed, uncontrolled, or diabetes with moderately raised HbA1 C had an increased HR in relation to all-cause mortality; although those with pre-diabetes or controlled diabetes did not (see Table <ref type="table" target="#tab_2">2</ref>). When the analyses were stratified by sex, women who had either undiagnosed or uncontrolled diabetes were at an increased risk of all-cause mortality 1.61 (1.12-2.30) and 2.27 (1.72-3.01), respectively) while only men with uncontrolled diabetes were found to have an increased HR (1.62, 1.27-2.05) (Table <ref type="table" target="#tab_3">3</ref>). Results were not significantly altered by adjustment for SES and BMI.  </p><p>1 Normoglycaemic/no diabetes: those who neither indicated diabetes nor had a raised HbA1 C measurement (&lt;39mmol/mol (&lt;5.7%)) 2 Pre-diabetes: those without diabetes but an HbA1 C measurement within the pre-diabetic range (39-&lt;48mmol/mol (5.7-&lt;6.5%)). 3 Undiagnosed diabetes: those with raised HbA1 C (48mmol/mol (6.5%)) without diagnosed diabetes 4 Controlled diabetes: those with diabetes and an HbA1 C &lt;39mmol/mol (5.7%). 5 Diabetes and moderately raised HbA1 C : those with diagnosed diabetes and an HbA1 C 39-&lt;48mmol/mol (5.7-6.49%). 6 Uncontrolled diabetes: those with diagnosed diabetes and raised (48mmol/mol (6.5%)) HbA1 C .</p><p>doi:10.1371/journal.pone.0119882.t001</p><p>demonstrates the fully adjusted (age, sex, smoking status, SES and BMI) survival curves for cancer mortality HbA1 C and diabetes category.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Cancer and cardiovascular disease mortality</head><p>Raised HbA1 C and/or diabetes did not confer an increased risk of cancer mortality when compared with those without diabetes; this result also found within the sex-stratified analyses (Table <ref type="table" target="#tab_2">2</ref>). Fig. <ref type="figure">2</ref> details the survival curves for cancer mortality by HbA1 C /diabetes category. The situation was different for cardiovascular mortality (Table <ref type="table" target="#tab_2">2</ref>). Compared with those without diabetes, each group categorised as having abnormal HbA1 C or diabetes had a statistically significant excess in mortality from CVD apart from those with pre-diabetes. For each group (undiagnosed, controlled diabetes, uncontrolled, and those with diabetes and moderately raised HbA1 C ) the HRs were substantially increased (1.99 (1.35-2.94), 3.22 (1.32-7.84), 2.63 (1.97-3.51), and 1.89 (1.20-2.97), respectively). The elevation in risk survived adjustment for SES and BMI. Fig. <ref type="figure" target="#fig_1">3</ref> details the survival curves for CVD mortality by HbA1 C /diabetes category. When the analyses were sex-stratified, we observed a mixed pattern. Women with undiagnosed or uncontrolled diabetes had an increased risk of mortality from CVD, while for men, controlled diabetes, diabetes with moderately raised HbA1 C and uncontrolled diabetes were 1 Normoglycaemic/no diabetes: those who neither indicated diabetes nor had a raised HbA1 C measurement (&lt;39mmol/mol (&lt;5.7%))</p><p>2 Pre-diabetes: those without diabetes but an HbA1 C measurement within the pre-diabetic range (39-&lt;48mmol/mol (5.7-&lt;6.5%)). 3 Undiagnosed diabetes: those with raised HbA1 C (48mmol/mol (6.5%)) without diagnosed diabetes 4 Controlled diabetes: those with diabetes and an HbA1 C &lt;39mmol/mol (5.7%). 5 Diabetes and moderately raised HbA1 C : those with diagnosed diabetes and an HbA1 C 39-&lt;48mmol/mol (5.7-6.49%). 6 Uncontrolled diabetes: those with diagnosed diabetes and raised (48mmol/mol (6.5%)) HbA1 C .</p><p>doi:10.1371/journal.pone.0119882.t002 associated with excess CVD mortality. The elevated mortality risk for men with controlled diabetes was particularly striking. None of these results were materially altered by adjustment for SES or BMI.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>Our study demonstrated an excess in mortality from all-causes among those with raised HbA1 C , including within the pre-diabetes range among those with diagnosed diabetes. Raised HbA1 C among people with diabetes was also strongly associated with mortality from CVD, but not cancer. BMI and socioeconomic status did not affect the associations. These results support those of Skriver et al. who found increased all-cause mortality among those with an HbA1 C measurement 7% (53 mmol/mol) (HR 1.26 (95% CI 1.15, 1.39)) and a U-shaped relationship between increasing HbA1 C all-cause mortality. <ref type="bibr" target="#b7">[8]</ref> A 2013 study also found an increased HR in relation to HbA1 C and all-cause mortality that was marginally non-significant (HR 1.21, 95% CI 0.99-1.47). <ref type="bibr" target="#b4">[5]</ref> Within the current study, among those with diabetes only those with raised HbA1 C had an increased risk of all-cause mortality, while for mortality from CVD all diabetes/raised HbA1 C categorieshad an increased risk. The only The first number relates to the total number of women included in the analyses, while the second relates to the number of men.</p><p>doi:10.1371/journal.pone.0119882.t003</p><p>exception to this was pre-diabetes, which was not associated with any of the causes of mortality under investigation; this result contradicts those of a recent meta-analysis, which found associations between pre-diabetes and mortality from all-causes and CVD, suggesting the need for further analyses in this area. <ref type="bibr" target="#b30">[29]</ref> Fig The results of our current study support those of previous research in finding HbA1 C to be more strongly associated with mortality from all-causes and CVD rather than cancer. <ref type="bibr" target="#b4">[5,</ref><ref type="bibr" target="#b9">10,</ref><ref type="bibr" target="#b15">15]</ref> Compared with normoglycaemic participants, those with raised HbA1 C and/or diabetes (uncontrolled, undiagnosed or with a moderately raised HbA1 C ) had an increased risk of mortality from all-causes and CVD; those with controlled diabetes had an increased risk of CVD mortality only. Earlier studies found that impaired glucose metabolism impacts upon CVD mortality for women to a greater extent than for men <ref type="bibr" target="#b31">[30]</ref>; our results indicate differences in risk by sex dependent upon HbA1 C /diabetes category analysed.</p><p>We found HbA1 C and diabetes were not significantly associated with cancer mortality, although an earlier cohort study found a 1mmol/l increment in glucose increased the risk of fatal cancer for both men (1.15, 1.07-1.22) and women <ref type="bibr">(1.21, 1.11-1.33</ref>). <ref type="bibr" target="#b19">[18]</ref> Joshu et al. also found that raised HbA1 C was not associated with increased cancer mortality among men, but was among women. <ref type="bibr" target="#b32">[31]</ref> Research able to utilise larger datasets with a greater number of cancer mortality endpoints is needed to further assess the association between HbA1 C and cancer mortality. One reason for the lack of association between HbA1 C and cancer mortality within our results, but found in those of earlier studies, may be the differing rates of site-specific cancers within the all-cancers outcome variable used within each study. Although limited in number, previous studies have suggested that increased blood glucose is associated with increased mortality from a number of site-specific cancers, but is not associated with Therefore results related to a grouped, all-cancers variable may be concealing differences in site-specific cancer mortality risk. Further research is required which explores the associations between HbA1 C and site-specific cancer mortality and incidence. The larger sample size utilised by Stocks et al., <ref type="bibr" target="#b19">[18]</ref> and the longer follow-up time and corresponding greater number of cancer deaths in the research undertaken by Joshu et al., <ref type="bibr" target="#b32">[31]</ref> compared with our study may also have given these studies the power needed to find a small, statistically significant difference. Although a power calculation undertaken before commencement of this current study suggested that our analyses were not underpowered, future studies which are able to utilise larger samples and investigate the sex differences within the associations between impaired glucose metabolism and mortality are required.</p><p>A number of plausible pathways have been proposed for the relationship between HbA1 C , diabetes and cause-specific mortality. Increased rates of atherosclerosis appear to explain much of the association between diabetes and cardiovascular disease; raised HbA1 C has been found to be strongly associated with carotid intima-media thickness, a marker of atherosclerosis. <ref type="bibr" target="#b34">[33,</ref><ref type="bibr" target="#b35">34]</ref>. Although the epidemiological evidence related to HbA1 C and cancer is limited, the key biological causal factors relate to the anti-apoptotic, proliferative and nature of insulin and insulin-like growth factor (IGF) and the impact that hyperglycaemia has upon mortality risk. <ref type="bibr" target="#b36">[35]</ref><ref type="bibr" target="#b37">[36]</ref><ref type="bibr" target="#b38">[37]</ref> If a causal association were to be found between raised HbA1 C and mortality from CVD and other causes then some of the differences found in mortality between those with and without diabetes could be overcome through stricter glycaemic control. At the same time the potential deleterious impact of tighter control-for example the increased mortality found within the strict glucose control group of the Action to Control Cardiovascular Risk in Diabetes (ACCORD) study and the risk of hypoglycaemia <ref type="bibr" target="#b8">[9,</ref><ref type="bibr" target="#b39">[38]</ref><ref type="bibr" target="#b40">[39]</ref><ref type="bibr" target="#b41">[40]</ref>-would have to be balanced against any such reductions in mortality and take into account the specific characteristics of each individual with raised blood glucose. <ref type="bibr" target="#b8">[9,</ref><ref type="bibr" target="#b42">41]</ref> A strength of this study was its utilisation of a nationally-representative, general population sample of over 22,000 participants with a recorded HbA1 C measurement and comprehensive linked mortality data. The use of HSE data enabled the inclusion of a detailed HbA1 C and selfreported diabetes variable and a range of confounding factors within the analyses. Further, unlike a number of studies which have utilised only self-reported diabetes as an indicator of the presence of the disease, this study used a valid measure of HbA1 C to explore the association between diabetes, blood glucose and mortality. The recording of the use of diabetes-related medications, within the nurse visit, also enabled the further verification of diagnosed diabetes information.</p><p>The majority of the study sample self-identified as white-around 85%-a similar percentage to the general, free-living population of England. <ref type="bibr" target="#b43">[42]</ref> Although the results of earlier analyses (not shown) were suggestive of ethnicity not having a significant impact upon the excess mortality found among those with raised HbA1 C /diabetes, the small number of deaths among those from Black and Minority Ethnic populations and the corresponding lack of power made interpretation of the results difficult. Studies utilising larger datasets, with a corresponding larger number of mortality endpoints, could further explore the impact of ethnicity.</p><p>The current study did not assess the impact that the use of different types of diabetes-related medications may have upon the excess risk experienced by those with diabetes. Those with diabetes may change drug regimens regularly and may switch from oral medications to insulin as their disease progresses. Because of this, research in this area favours the use of randomised controlled trials to explore this issue further.</p><p>Our results demonstrate that diabetes/raised HbA1 C are associated with mortality from CVD and all-causes. This result was found among those with and without diagnosed diabetes and, if confirmed, suggests that the monitoring of impaired blood glucose could be an important tool in relation to reducing mortality from these causes. The results also support the introduction of clinical practices which aim to prevent and detect pre-diabetes, diagnose previously undiagnosed diabetes, and optimise HbA1 C levels among people with diagnosed diabetes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>This study-utilising data from a nationally representative sample-demonstrates an association between HbA1 C and all-cause and cardiovascular disease mortality among those with and without diagnosed diabetes that remains after adjustment for a range of confounding factors including adiposity. If these result were to be replicated within further studies, the lowering of HbA1 C within populations could become an important public health goal.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head></head><label></label><figDesc>Fig.1</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig 3 .</head><label>3</label><figDesc>Fig 3. Fully adjusted survival curves for CVD mortality by HbA1 C and diabetes category (whole sample). doi:10.1371/journal.pone.0119882.g003</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 1 .</head><label>1</label><figDesc>Characteristics of the study sample.</figDesc><table><row><cell>Total sample</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 2 .</head><label>2</label><figDesc>HRs for all-cause and cause-specific mortality by glycated haemoglobin and self-reported diabetes category.</figDesc><table><row><cell>n</cell><cell>All-cause</cell><cell>Cancer</cell><cell>CVD</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 3 .</head><label>3</label><figDesc>HRs for all-cause and cause-specific mortality by glycated haemoglobin and diagnosed diabetes category, stratified by sex.</figDesc><table><row><cell></cell><cell>n 1</cell><cell>All-cause</cell><cell></cell><cell>Cancer</cell><cell></cell><cell>CVD</cell></row><row><cell>Age, sex &amp; smoking</cell><cell>11,89210,181 Women</cell><cell>Men</cell><cell>Women</cell><cell>Men</cell><cell>Women</cell><cell>Men</cell></row><row><cell>No diabetes</cell><cell>1</cell><cell>1</cell><cell>1</cell><cell>1</cell><cell>1</cell><cell>1</cell></row><row><cell>Pre-diabetes</cell><cell cols="6">0.97(0.82-1.14) 0.90(0.77-1.06) 1.13(0.83-1.54) 0.71(0.53-0.94) 1.09(0.81-1.47) 1.08(0.82-1.43)</cell></row><row><cell>Undiagnosed diabetes</cell><cell cols="6">1.61(1.12-2.30) 1.25(0.88-1.78) 1.13(0.49-2.59) 1.64(0.98-2.76) 2.78(1.65-4.69) 1.41(0.78-2.57)</cell></row><row><cell>Controlled diabetes</cell><cell cols="3">1.61(0.66-3.91) 1.76(0.66-4.72) 1.47(0.20-</cell><cell>N/A</cell><cell cols="2">1.90(0.46-7.77) 4.55(1.44-14.32)</cell></row><row><cell></cell><cell></cell><cell></cell><cell>10.61)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Diabetes and moderately</cell><cell cols="6">1.38(0.90-2.14) 1.45(0.99-2.12) 1.37(0.55-3.39) 0.85(0.37-1.92) 1.39(0.64-3.01) 2.28(1.30-3.98)</cell></row><row><cell>raised HbA1 C</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Uncontrolled diabetes</cell><cell cols="6">2.27(1.72-3.01) 1.62(1.27-2.05) 1.57(0.84-2.94) 1.08(0.68-1.73) 3.51(2.26-5.45) 2.24 (1.53-3.28)</cell></row><row><cell>+SES</cell><cell>11,88110,166</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>No diabetes</cell><cell>1</cell><cell>1</cell><cell>1</cell><cell>1</cell><cell>1</cell><cell>1</cell></row><row><cell>Pre-diabetes</cell><cell cols="6">0.95(0.80-1.11) 0.89(0.75-1.04) 1.10(0.81-1.50) 0.69(0.52-0.92) 1.08(0.80-1.46) 1.08(0.81-1.42)</cell></row><row><cell>Undiagnosed diabetes</cell><cell cols="6">1.54(1.07-2.20) 1.26(0.88-1.79) 1.06(0.46-2.43) 1.69(1.01-2.84) 2.71(1.60-4.58) 1.42(0.78-2.58)</cell></row><row><cell>Controlled diabetes</cell><cell cols="3">1.60(0.66-3.90) 1.67(0.62-4.48) 1.49(0.21-</cell><cell>N/A</cell><cell cols="2">1.80(0.44-7.38) 4.41(1.40-13.90)</cell></row><row><cell></cell><cell></cell><cell></cell><cell>10.76)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Diabetes and moderately</cell><cell cols="6">1.32(0.85-2.03) 1.46(1.00-2.13) 1.28(0.52-3.16) 0.87(0.38-1.97) 1.34(0.62-2.92) 2.25(1.29-3.94)</cell></row><row><cell>raised HbA1 C</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Uncontrolled diabetes</cell><cell cols="6">2.19(1.66-2.90) 1.57(1.23-1.99) 1.48(0.79-2.77) 1.04(0.65-1.67) 3.42(2.22-5.32) 2.19(1.50-3.21)</cell></row><row><cell>+ BMI</cell><cell>11,1969,698</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>No diabetes</cell><cell>1</cell><cell>1</cell><cell>1</cell><cell>1</cell><cell>1</cell><cell>1</cell></row><row><cell>Pre-diabetes</cell><cell cols="6">0.99(0.83-1.18) 0.92(0.77-1.09) 1.11(0.80-1.53) 0.71(0.53-0.97) 1.06(0.76-1.46) 1.08(0.81-1.45)</cell></row><row><cell>Undiagnosed diabetes</cell><cell cols="6">1.71(1.16-2.51) 1.35(0.93-1.97) 1.16(0.50-2.70) 1.60(0.90-2.84) 2.67(1.51-4.72) 1.58(0.85-2.97)</cell></row><row><cell>Controlled diabetes</cell><cell cols="3">1.87(0.76-4.56) 1.87(0.70-5.01) 1.66(0.23-</cell><cell>N/A</cell><cell cols="2">2.04(0.49-8.45) 4.90(1.55-15.50)</cell></row><row><cell></cell><cell></cell><cell></cell><cell>11.98)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Diabetes and moderately</cell><cell cols="6">1.46(0.90-2.37) 1.37(0.90-2.10) 1.53(0.61-3.81) 0.50(0.16-1.57) 1.23(0.49-3.06) 2.27(1.24-4.16)</cell></row><row><cell>raised HbA1 C</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Uncontrolled diabetes</cell><cell cols="6">2.25(1.65-3.09) 1.52(1.16-1.98) 1.38(0.69-2.78) 1.06(0.64-1.75) 3.40(2.08-5.52) 1.90(1.23-2.95)</cell></row><row><cell>1</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head></head><label></label><figDesc>1. Fully adjusted (age, sex, smoking, SES and BMI) all-cause mortality survival curves by HbA1 C and diabetes category (whole sample).</figDesc><table /><note>doi:10.1371/journal.pone.0119882.g001 Fig 2. Fully adjusted survival curves for cancer mortality by HbA1 C and diabetes category (whole sample). doi:10.1371/journal.pone.0119882.g002</note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">PLOS ONE | DOI:10.1371/journal.pone.0119882March 18, 2015  </note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgments</head><p>Vanessa Gordon-Dseagu is the acting corresponding author of this article.</p><p>All authors are located in the Department of Epidemiology and Public Health, UCL (University College London), 1-19 Torrington Place, London, WC1E 6BT, UK.</p><p>We thank colleagues at UCL, NatCen Social Research and the field-staff for collecting and processing the data, and participants in the HSE. The HSE was funded in 2003 by the Department of Health and since 2004 by the Health and Social Care Information Centre. The funders played no part in this study nor the decision to publish the findings and there are no relevant conflicts of interest to disclose.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Author Contributions</head><p>Conceived and designed the experiments: JM NS VGD JW AS PD AM. Performed the experiments: VGD AM. Analyzed the data: VGD JM AS. Contributed reagents/materials/analysis tools: JM NS VGD JW AS PD AM. Wrote the paper: JM NS VGD JW AS PD AM.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">World Health Organization. Diabetes Factsheet No.312</title>
+		<ptr target="http://www.who.int/mediacentre/factsheets/fs312/en/" />
+		<imprint>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">IDF diabetes atlas: global estimates of the prevalence of diabetes for 2011 and 2030</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Whiting</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Guariguata</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Weil</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Shaw</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.diabres.2011.10.029</idno>
+		<idno type="PMID">22079683</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Res Clin Pract</title>
+		<imprint>
+			<biblScope unit="volume">94</biblScope>
+			<biblScope unit="page" from="311" to="321" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">The Association of Public Health Observatories (APHO) Diabetes Prevalence Model: estimates of total diabetes prevalence for England, 2010-2030</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Holman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">G</forename><surname>Forouhi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Goyder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Wild</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1464-5491.2010.03216.x</idno>
+		<idno type="PMID">21480968</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Diabet Med J Br Diabet Assoc</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="575" to="582" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">International Expert Committee Report on the Role of the A1C Assay in the Diagnosis of Diabetes</title>
+		<idno type="DOI">10.2337/dc09-9033</idno>
+		<idno type="PMID">19502545</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="1327" to="1334" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note>The International Expert Committee</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Glycated haemoglobin and the risk of cardiovascular disease, diabetes and all-cause mortality in the Copenhagen City Heart Study</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Eskesen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>Jensen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Galatius</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Vestergaard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Hildebrandt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Marott</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1365-2796.2012.02594.x</idno>
+		<idno type="PMID">23009556</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">273</biblScope>
+			<biblScope unit="page" from="94" to="101" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Association between HbA1c and cardiovascular disease mortality in older Hong Kong Chinese with diabetes</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">M</forename><surname>Chan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">F</forename><surname>Hui</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">H</forename><surname>Lam</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1464-5491.2011.03456.x</idno>
+		<idno type="PMID">21916977</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Diabet Med J Br Diabet Assoc</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="393" to="398" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Relationship between HbA1c levels and risk of cardiovascular adverse outcomes and all-cause mortality in overweight and obese cardiovascular high-risk women and men with type 2 diabetes</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Andersson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Van Gaal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">D</forename><surname>Caterson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Weeke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Wpt</forename><surname>James</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Coutinho</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s00125-012-2584-3</idno>
+		<idno type="PMID">22638548</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="2348" to="2355" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Short-term impact of HbA1c on morbidity and all-cause mortality in people with type 2 diabetes: a Danish population-based observational study</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">V</forename><surname>Skriver</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Støvring</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Kristensen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Charles</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sandbaek</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s00125-012-2614-1</idno>
+		<idno type="PMID">22736395</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="2361" to="2370" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">HbA1c levels and all-cause mortality in type 2 diabetic patients: epidemiological evidence of the need for personalised therapeutic targets</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Monami</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Vitale</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lamanna</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Bartoli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Martelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Zannoni</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.numecd.2012.01.003</idno>
+		<idno type="PMID">22633797</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nutr Metab Cardiovasc Dis NMCD</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="300" to="306" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Glycated haemoglobin and cardiovascular outcomes in people with Type 2 diabetes: a large prospective cohort study</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Elley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Kenealy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Robinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">L</forename><surname>Drury</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1464-5491.2008.02581.x</idno>
+		<idno type="PMID">19046219</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Diabet Med J Br Diabet Assoc</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="1295" to="1301" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">HbA1c and the risks for allcause and cardiovascular mortality in the general Japanese population: NIPPON DATA90</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sakurai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Saitoh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Miura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Nakagawa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ohnishi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Akasaka</surname></persName>
+		</author>
+		<idno type="DOI">10.2337/dc12-2412</idno>
+		<idno type="PMID">23877989</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="3759" to="3765" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Association of hemoglobin A1c with cardiovascular disease and mortality in adults: the European prospective investigation into cancer in Norfolk</title>
+		<author>
+			<persName><forename type="first">K-T</forename><surname>Khaw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Wareham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bingham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Luben</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Welch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Day</surname></persName>
+		</author>
+		<idno type="PMID">15381514</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">141</biblScope>
+			<biblScope unit="page" from="413" to="420" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Glycated hemoglobin, diabetes treatment and cancer risk in type 2 diabetes. A casecontrol study</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Dąbrowski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Agric Environ Med AAEM</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="116" to="121" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Glycated hemoglobin and cancer incidence and mortality in the</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Joshu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Prizment</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Dluzniewski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Menke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Folsom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Coresh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Atherosclerosis in Communities (ARIC) Study</title>
+		<imprint>
+			<biblScope unit="page" from="1990" to="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title/>
+		<idno type="DOI">10.1002/ijc.27394</idno>
+		<idno type="PMID">22161730</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Cancer J Int Cancer</title>
+		<imprint>
+			<biblScope unit="volume">131</biblScope>
+			<biblScope unit="page" from="1667" to="1677" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">HbA1c measured in stored erythrocytes is positively linearly associated with mortality in individuals with diabetes mellitus</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Sluik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Boeing</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Montonen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kaaks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Lukanova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sandbaek</surname></persName>
+		</author>
+		<idno type="DOI">10.1371/journal.pone.0038877</idno>
+		<idno type="PMID">22719972</idno>
+	</analytic>
+	<monogr>
+		<title level="j">PloS One</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">e38877</biblScope>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">HbA1C and Cancer Risk in Patients with Type 2 Diabetes-A Nationwide Population-Based Prospective Cohort Study</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Miao Jonasson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cederholm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Eliasson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Zethelius</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Eeg-Olofsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Gudbjörnsdottir</surname></persName>
+		</author>
+		<idno type="DOI">10.1371/journal.pone.0038784</idno>
+		<idno type="PMID">22719946</idno>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS ONE</title>
+		<editor>Sweden. Barengo NC</editor>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">e38784</biblScope>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Glycated hemoglobin and cancer incidence and mortality in the</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Joshu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Prizment</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Dluzniewski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Menke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Folsom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Coresh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Atherosclerosis in Communities (ARIC) Study</title>
+		<imprint>
+			<biblScope unit="page" from="1990" to="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title/>
+		<idno type="DOI">10.1002/ijc.27394</idno>
+		<idno type="PMID">22161730</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Cancer J Int Cancer</title>
+		<imprint>
+			<biblScope unit="volume">131</biblScope>
+			<biblScope unit="page" from="1667" to="1677" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Blood glucose and risk of incident and fatal cancer in the metabolic syndrome and cancer project (me-can): analysis of six prospective cohorts</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Stocks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Rapp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Bjørge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Manjer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ulmer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Selmer</surname></persName>
+		</author>
+		<idno type="DOI">10.1371/journal.pmed.1000201</idno>
+		<idno type="PMID">20027213</idno>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS Med</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page">e1000201</biblScope>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Fasting serum glucose level and cancer risk in Korean men and women</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Jee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ohrr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Sull</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Yun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ji</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Samet</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA J Am Med Assoc</title>
+		<imprint>
+			<biblScope unit="volume">293</biblScope>
+			<biblScope unit="page" from="194" to="202" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Abnormal Glucose Tolerance and the Risk of Cancer Death in the United States</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Saydah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Loria</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Eberhardt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">L</forename><surname>Brancati</surname></persName>
+		</author>
+		<idno type="PMID">12796045</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">157</biblScope>
+			<biblScope unit="page" from="1092" to="1100" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Does cancer risk increase with HbA1c, independent of diabetes?</title>
+		<author>
+			<persName><forename type="first">De</forename><surname>Beer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Liebenberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Cancer</title>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Diabetes mellitus, fasting glucose, and risk of cause-specific death</title>
+		<author>
+			<persName><forename type="first">Srk</forename><surname>Seshasai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kaptoge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Thompson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Di</forename><surname>Angelantonio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Gao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Sarwar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename></persName>
+		</author>
+		<idno type="DOI">10.1056/NEJMoa1008862</idno>
+		<idno type="PMID">21366474</idno>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">364</biblScope>
+			<biblScope unit="page" from="829" to="841" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title level="m" type="main">Socioeconomic status and risk of diabetes-related mortality in the U.S. Public Health Rep Wash DC</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Saydah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Lochner</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1974">1974. 2010</date>
+			<biblScope unit="volume">125</biblScope>
+			<biblScope unit="page" from="377" to="388" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Cohort Profile: The Health Survey for England</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mindell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Biddulph</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Hirani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Stamatakis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Craig</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Nunn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Epidemiol</title>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Cohort profile: the Scottish health surveys cohort: linkage of study participants to routinely collected records for mortality, hospital discharge, cancer and offspring birth characteristics in three nationwide studies</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Gray</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">D</forename><surname>Batty</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Craig</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Stewart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Whyte</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Finlayson</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/ije/dyp155</idno>
+		<idno type="PMID">19349480</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page" from="345" to="350" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title level="m" type="main">Methods and documentation. London: The Health and Social Care Information Centre</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Craig</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mindell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Hirani</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Health</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Survey</surname></persName>
+		</author>
+		<author>
+			<persName><surname>England</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008">2008. 2009</date>
+			<biblScope unit="volume">2</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">The Health and Social Care Information Centre</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Craig</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mindell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Hirani</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Health</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Survey</surname></persName>
+		</author>
+		<author>
+			<persName><surname>England</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Physical activity and fitness</title>
+				<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2008">2008. 2009</date>
+			<biblScope unit="volume">1</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Use of HbA1c in the diagnosis of diabetes</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Farmer</surname></persName>
+		</author>
+		<idno type="DOI">10.1136/bmj.e7293</idno>
+		<idno type="PMID">23118305</idno>
+	</analytic>
+	<monogr>
+		<title level="j">BMJ</title>
+		<imprint>
+			<biblScope unit="volume">345</biblScope>
+			<biblScope unit="page" from="e7293" to="e7293" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Associations of prediabetes with all-cause and cardiovascular mortality: A meta-analysis</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Cai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Mai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Tang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Huang</surname></persName>
+		</author>
+		<idno type="DOI">10.3109/07853890.2014.969766</idno>
+		<idno type="PMID">25356772</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Med</title>
+		<imprint>
+			<biblScope unit="page" from="1" to="9" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<title level="m" type="main">Sex Differences in All-Cause and Cardiovascular Mortality, Hospitalization for Individuals With and Without Diabetes, and Patients With Diabetes Diagnosed Early and Late. Diabetes Care</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Roche</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">P</forename><surname>Wang</surname></persName>
+		</author>
+		<idno type="DOI">10.2337/dc12-1272</idno>
+		<idno type="PMID">23564923</idno>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="2582" to="2590" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Glycated hemoglobin and cancer incidence and mortality in the</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Joshu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Prizment</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Dluzniewski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Menke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Folsom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Coresh</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/ijc.27394</idno>
+		<idno type="PMID">22161730</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Atherosclerosis in Communities (ARIC) Study</title>
+		<imprint>
+			<biblScope unit="volume">131</biblScope>
+			<biblScope unit="page" from="1667" to="1677" />
+			<date type="published" when="1990">1990-2006. 2012</date>
+		</imprint>
+	</monogr>
+	<note>Int J Cancer</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Postload plasma glucose concentration and 27-year prostate cancer mortality (United States)</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Gapstur</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">H</forename><surname>Gann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Colangelo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Barron-Simpson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Kopp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Dyer</surname></persName>
+		</author>
+		<idno type="PMID">11562117</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Causes Control CCC</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="763" to="772" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Glycemic control, atherosclerosis, and risk factors for cardiovascular disease in individuals with diabetes: the atherosclerosis risk in communities study</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Selvin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Coresh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Golden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">L</forename><surname>Boland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">L</forename><surname>Brancati</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">W</forename><surname>Steffes</surname></persName>
+		</author>
+		<idno type="PMID">16043740</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="1965" to="1973" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Diabetes mellitus and incidence and mortality of kidney cancer: A meta-analysis</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Bao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Luo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Su</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jdiacomp.2013.01.004</idno>
+		<idno type="PMID">23433629</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J Diabetes Complications</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="357" to="364" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Plasma levels of insulin-like growth factor-I and lung cancer risk: a case-control analysis</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Yu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Spitz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mistry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Gu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">K</forename><surname>Hong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Wu</surname></persName>
+		</author>
+		<idno type="PMID">9923856</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J Natl Cancer Inst</title>
+		<imprint>
+			<biblScope unit="volume">91</biblScope>
+			<biblScope unit="page" from="151" to="156" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Minireview: IGF, Insulin, and Cancer</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Gallagher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Leroith</surname></persName>
+		</author>
+		<idno type="DOI">10.1210/en.2011-0231</idno>
+		<idno type="PMID">21540285</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Endocrinology</title>
+		<imprint>
+			<biblScope unit="volume">152</biblScope>
+			<biblScope unit="page" from="2546" to="2551" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Nutrition, insulin, IGF-1 metabolism and cancer risk: a summary of epidemiological evidence</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kaaks</surname></persName>
+		</author>
+		<idno type="PMID">15562834</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Novartis Found Symp</title>
+		<imprint>
+			<biblScope unit="volume">262</biblScope>
+			<biblScope unit="page" from="260" to="268" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Associations of HbA1c and educational level with risk of cardiovascular events in 32,871 drug-treated patients with Type 2 diabetes: a cohort study in primary care</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Östgren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Sundström</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Svennblad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Lohm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Nilsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Johansson</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/dme.12145</idno>
+		<idno type="PMID">23350893</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Diabet Med J Br Diabet Assoc</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="e170" to="177" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Intensive blood-glucose control with sulphonylureas or insulin compared with conventional treatment and risk of complications in patients with type 2 diabetes (UKPDS 33). UK Prospective Diabetes Study (UKPDS) Group</title>
+		<idno type="PMID">9742976</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">352</biblScope>
+			<biblScope unit="page" from="837" to="853" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+	<note>UKPDS</note>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Effects of intensive glucose lowering in type 2 diabetes</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Gerstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Byington</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Goff</surname><genName>Jr</genName></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Bigger</surname></persName>
+		</author>
+		<idno type="DOI">10.1056/NEJMoa0802743</idno>
+		<idno type="PMID">18539917</idno>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">358</biblScope>
+			<biblScope unit="page" from="2545" to="2559" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+		<respStmt>
+			<orgName>Action to Control Cardiovascular Risk in Diabetes Study Group</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Intensive glucose control versus conventional glucose control for type 1 diabetes mellitus</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Fullerton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Jeitler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Seitz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Horvath</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Berghold</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Siebenhofer</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/14651858.CD009122.pub2</idno>
+		<idno type="PMID">24526393</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Cochrane Database Syst Rev</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page">D009122</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Population Estimates by Ethnic Group</title>
+	</analytic>
+	<monogr>
+		<title level="j">ONS</title>
+		<imprint>
+			<date type="published" when="2002">2002. 2009. 2011 May</date>
+		</imprint>
+		<respStmt>
+			<orgName>ONS</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

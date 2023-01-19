@@ -1,0 +1,1261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Components of the metabolic syndrome as predictors of cardiovascular disease and type 2 diabetes in middle-aged Japanese men</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Noriyuki</forename><surname>Nakanishi</surname></persName>
+							<email>noriyuki@pbhel.med.osaka-u.ac.jp</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Social and Environmental Medicine, Course of Social Medicine</orgName>
+								<orgName type="institution">Osaka University Graduate School of Medicine F2</orgName>
+								<address>
+									<addrLine>2-2 Yamada-oka, Suita-shi</addrLine>
+									<postCode>565-0871</postCode>
+									<settlement>Osaka</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Toshio</forename><surname>Takatorige</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Social and Environmental Medicine, Course of Social Medicine</orgName>
+								<orgName type="institution">Osaka University Graduate School of Medicine F2</orgName>
+								<address>
+									<addrLine>2-2 Yamada-oka, Suita-shi</addrLine>
+									<postCode>565-0871</postCode>
+									<settlement>Osaka</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Hideki</forename><surname>Fukuda</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Social and Environmental Medicine, Course of Social Medicine</orgName>
+								<orgName type="institution">Osaka University Graduate School of Medicine F2</orgName>
+								<address>
+									<addrLine>2-2 Yamada-oka, Suita-shi</addrLine>
+									<postCode>565-0871</postCode>
+									<settlement>Osaka</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Kokoro</forename><surname>Shirai</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Social and Environmental Medicine, Course of Social Medicine</orgName>
+								<orgName type="institution">Osaka University Graduate School of Medicine F2</orgName>
+								<address>
+									<addrLine>2-2 Yamada-oka, Suita-shi</addrLine>
+									<postCode>565-0871</postCode>
+									<settlement>Osaka</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Wenjuan</forename><surname>Li</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Social and Environmental Medicine, Course of Social Medicine</orgName>
+								<orgName type="institution">Osaka University Graduate School of Medicine F2</orgName>
+								<address>
+									<addrLine>2-2 Yamada-oka, Suita-shi</addrLine>
+									<postCode>565-0871</postCode>
+									<settlement>Osaka</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Mitsuharu</forename><surname>Okamoto</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Social and Environmental Medicine, Course of Social Medicine</orgName>
+								<orgName type="institution">Osaka University Graduate School of Medicine F2</orgName>
+								<address>
+									<addrLine>2-2 Yamada-oka, Suita-shi</addrLine>
+									<postCode>565-0871</postCode>
+									<settlement>Osaka</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Hiroshi</forename><surname>Yoshida</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Social and Environmental Medicine, Course of Social Medicine</orgName>
+								<orgName type="institution">Osaka University Graduate School of Medicine F2</orgName>
+								<address>
+									<addrLine>2-2 Yamada-oka, Suita-shi</addrLine>
+									<postCode>565-0871</postCode>
+									<settlement>Osaka</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Yoshio</forename><surname>Matsuo</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Social and Environmental Medicine, Course of Social Medicine</orgName>
+								<orgName type="institution">Osaka University Graduate School of Medicine F2</orgName>
+								<address>
+									<addrLine>2-2 Yamada-oka, Suita-shi</addrLine>
+									<postCode>565-0871</postCode>
+									<settlement>Osaka</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Kenji</forename><surname>Suzuki</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="laboratory">Japan Labor and Welfare Association</orgName>
+								<address>
+									<addrLine>1-24-4 Ebisu, Shibuya-Ku</addrLine>
+									<postCode>150-0013</postCode>
+									<settlement>Tokyo</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Kozo</forename><surname>Tatara</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Social and Environmental Medicine, Course of Social Medicine</orgName>
+								<orgName type="institution">Osaka University Graduate School of Medicine F2</orgName>
+								<address>
+									<addrLine>2-2 Yamada-oka, Suita-shi</addrLine>
+									<postCode>565-0871</postCode>
+									<settlement>Osaka</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Components of the metabolic syndrome as predictors of cardiovascular disease and type 2 diabetes in middle-aged Japanese men</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">1E0E3E2C8C8B7DCC07918645616B0B86</idno>
+					<idno type="DOI">10.1016/j.diabres.2003.10.001</idno>
+					<note type="submission">Received 17 April 2003; received in revised form 25 July 2003; accepted 9 October 2003</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.1" ident="GROBID" when="2022-07-19T22:45+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Cardiovascular disease</term>
+					<term>Type 2 diabetes</term>
+					<term>Incidence</term>
+					<term>Metabolic syndrome</term>
+					<term>Japanese men</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>To determine whether the clustered features of the metabolic syndrome precede the 7 year incidence of cardiovascular disease (CVD) and type 2 diabetes, we examined 6182 Japanese male office workers aged 35-59 years without any history of CVD. The 5588 subjects without type 2 diabetes also constituted the nondiabetic cohort, and were re-examined over seven successive years. Components of the metabolic syndrome included glycemic disorder (type 2 diabetes for the risk of CVD and impaired fasting glucose for the risk of type 2 diabetes), systemic obesity, hypertension, dyslipidemia, proteinuria, and elevated white blood cell (WBC) count. After controlling for age, family history of diabetes, alcohol intake, and cigarette smoking, the multivariate-adjusted relative risk of incidence of CVD compared with absence of components was 3.18, 3.48, 12.55, and 14.15 (P for trend &lt;0.001), for the presence of 1,2,3, and ≥4 components, respectively. The corresponding relative risks of incidence of type 2 diabetes were 1. 92, 4.36, 6.44, and 15.08 (P for trend &lt;0.001). In both non-smokers and current smokers, the multivariate-adjusted relative risks of incidence of CVD and type 2 diabetes increased as the number of components increased (P for trend &lt;0.001 for all). Our findings indicate that clustered features of the metabolic syndrome are closely associated with development of CVD and type 2 diabetes in middle-aged Japanese.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Introduction</head><p>Because of the epidemic of overweight and sedentary lifestyle worldwide <ref type="bibr" target="#b0">[1]</ref>, the metabolic syndrome, defined by a cluster of risk factors including central obesity, hypertension, and dyslipidemia with or with-out glycemic disorder, has been found in many ethnic groups and is becoming increasingly common <ref type="bibr" target="#b1">[2]</ref>. The metabolic syndrome is most important because of its association with subsequent development of type 2 diabetes and cardiovascular disease (CVD) <ref type="bibr" target="#b2">[3,</ref><ref type="bibr" target="#b3">4]</ref>. Although this syndrome is characterized by insulin resistance and is also known as the insulin resistance syndrome, the World Health Organization (WHO) proposed to call it the metabolic syndrome rather than the insulin resistance syndrome in 1998, because it has not yet been established whether insulin resistance is the cause of all the metabolic disorders or vice versa <ref type="bibr" target="#b4">[5]</ref>.</p><p>The features of the metabolic syndrome have been reported to precede the detection of type 2 diabetes by as much as 10 years, at which time the known increased risk of CVD has been documented <ref type="bibr" target="#b5">[6,</ref><ref type="bibr" target="#b6">7]</ref>. Therefore, the importance of the metabolic syndrome from both a clinical and public health perspective may be greatest in its earlier stages, before development of CVD or diabetes. The aim of our longitudinal population study, based on the results of serial annual health examinations at the workplace, was to examine whether by focusing on the components of the metabolic syndrome an increased risk of development of CVD and type 2 diabetes might be detected during the following 7 years in middle-aged Japanese men.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Research design and methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1.">Study cohort</head><p>The study was conducted among employees of Company A, one of the largest building contractors in Japan. Participants were recruited from a network of 10 company offices located in major cities around Japan with baseline assessments made in May and June 1994. Subjects for this study were 6182 Japanese men aged 35-59 years with no prior history of coronary heart disease (CHD) or stroke. All the participants were white-collar workers, most were professionals, and none were acutely ill. Employees are required by the Industrial Safety and Health Law of Japan to participate in annual health examinations, and the employee data, which are anonymous, are available for research with the approval of the em-ployer. We interpreted the return of a self-administered questionnaire signed by the subjects as their consent to participate in the study.</p><p>Of the 6182 potential participants, 436 (7.1%) were identified as having type 2 diabetes at the initial examination. The remaining 5746 men constituted the nondiabetic cohort, and were re-examined over seven successive years until 2001. We excluded 158 men who did not participate in all the consecutive annual health examinations. The final study population for analysis of incidence of type 2 diabetes therefore, consisted of 5588 men. Men in whom type 2 diabetes was found during any of the examinations through 2001 were classified as having type 2 diabetes. Altogether, 104 participants who started taking medication for diabetes during the observation period were considered to have type 2 diabetes. Owing to the age range of the study population, all cases of type 2 diabetes were diagnosed when they were older than 35.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.">Study design</head><p>Surveillance for CHD and stroke was conducted annually from 1994 through 2001. Endpoints of CVD were ascertained from reported absenteeism owing to sickness, health insurance claims, and a health questionnaire distributed at the annual health examinations. The criteria for CHD were modified from those of the WHO expert committee <ref type="bibr" target="#b7">[8]</ref>. Indications of myocardial infarction were typical severe chest pain (lasting at least 30 min and with no definite nonischemic cause) accompanied by new abnormal and persistent Q or QS waves, consistent changes in cardiac enzyme levels, or both. We also regarded myocardial infarction without typical chest pain as infarction if it was accompanied by the development of new Q waves (Minnesota code: 1-1 or 1-2) <ref type="bibr" target="#b8">[9]</ref> on the annual electrocardiogram (ECG), and confirmed on at least three sequential ECGs. Angina pectoris was defined as repeated episodes of chest pain during effort, usually disappearing rapidly after the cessation of effort or upon use of sublingual nitroglycerine. Those who had undergone intervention in the form of coronary artery bypass grafting or percutaneous transluminal coronary angioplasty were regarded as having CHD. Stroke (including both ischemic and hemorrhagic stroke) was defined as a constellation of neurological deficits that were sudden or rapid in onset, and lasted at least 24 h <ref type="bibr" target="#b9">[10,</ref><ref type="bibr" target="#b10">11]</ref>. This information was verified from medical records at the company clinic and local hospitals.</p><p>Fasting plasma glucose levels were measured at the annual health examinations from 1994 to 2001.</p><p>The participants were asked to fast for at least 8 h and to avoid smoking and heavy physical activity for more than 2 h before the examinations. Blood samples were drawn from an antecubital vein, and glucose was measured with the hexokinase-glucose dehydrogenase method <ref type="bibr" target="#b11">[12,</ref><ref type="bibr" target="#b12">13]</ref>. Quality control of the laboratory was internal, and the coefficients of variation between and within assays for plasma glucose were no more than 3% from 1994 to 2001. Normal fasting glucose, impaired fasting glucose (IFG), and type 2 diabetes were defined with the criteria of the American Diabetes Association <ref type="bibr" target="#b13">[14]</ref>. Normal fasting glucose was defined as a fasting plasma glucose level of &lt;6.1 mmol/l, IFG as a fasting plasma glucose level of 6.1-6.9 mmol/l, and type 2 diabetes as a fasting plasma glucose level of ≥7.0 mmol/l or receipt of hypoglycemic medications, because not every subject underwent an oral glucose tolerance test.</p><p>Items included in the annual health examinations at study entry were medical history, physical examination, anthropometric measurements, urine test, biochemical measurements, and a questionnaire on health-related behaviors, such as alcohol consumption and smoking. Medical history and history of prescription drug use were assessed by the examining physicians. A family history of diabetes was defined as the presence of a mother, father, sister or brother with diagnosed diabetes. Body mass index (BMI) was used as a measure of overall obesity and calculated as body weight/height 2 (kg/m 2 ). After a 5 min rest in a quiet room, systolic and diastolic blood pressures were measured in the right arm with a standard mercury sphygmomanometer. Presence of proteinuria was determined with a dipstick in a urine specimen, and the levels of serum triglyceride and high-density lipoprotein (HDL) cholesterol and white blood cell (WBC) count were determined according to standard laboratory procedures <ref type="bibr" target="#b11">[12,</ref><ref type="bibr" target="#b12">13]</ref>. The questions about alcohol intake included items about the frequency of alcohol consumption per week, the type of alcoholic beverage, and the average daily amount consumed in units of "go" (a traditional Japanese unit of volume measurement, corresponding to 23 g of ethanol). Weekly alcohol intake was calculated and then converted to daily alcohol consumption. The questionnaire also asked about smoking habits (never, past, or current smoker), and past or current smokers were asked about the number of cigarettes smoked per day and the duration of smoking in years.</p><p>Our definitions of the components of the metabolic syndrome were adapted from the criteria recently proposed by the WHO for the classification of diabetes and its complications <ref type="bibr" target="#b4">[5]</ref>. The metabolic syndrome was defined (without assumptions of causality) as insulin resistance or the presence of impaired glucose tolerance or type 2 diabetes and the presence of at least two of several items including elevated arterial pressure, elevated triglyceride and/or low HDL cholesterol levels, central obesity or high BMI, and microalbuminuria. Although these core components are mostly suitable for general definitions, the demonstration of associations between WBC count and both insulin resistance and hyperinsulinemia <ref type="bibr" target="#b14">[15]</ref><ref type="bibr" target="#b15">[16]</ref><ref type="bibr" target="#b16">[17]</ref> argue for including the WBC count in the metabolic syndrome. The components of the metabolic syndrome we included were thus, glycemic disorder, systemic obesity defined by BMI, hypertension, dyslipidemia, proteinuria, and elevated WBC count. The components of the metabolic syndrome were defined as follows: glycemic disorder, IFG and type 2 diabetes for the risk of CVD and IFG for the risk of type 2 diabetes; systemic obesity, BMI ≥25; hypertension, systolic blood pressure ≥140 mmHg or diastolic blood pressure ≥90 mmHg, or both; dyslipidemia, HDL cholesterol level &lt;1.03 mmol/l; hypertriglyceridemia or triglyceride level ≥1.69 mmol/l; proteinuria, protein ≥30 mg/dl; and increased WBC count, WBC count ≥ 8.0 × 10 9 cells/l.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.3.">Statistical analysis</head><p>The χ 2 test and one-way ANOVA were used to analyze the statistical differences among characteristics of the study participants at enrollment categorized according to fasting plasma glucose level. For each participant, person-years of follow-up were calculated from the date of enrollment to the date of the first incidence of CVD and type 2 diabetes or the date of the follow-up where either was diagnosed, whichever came first. The Cox proportional hazards model was used to evaluate the association of each component and the clustering of components of the metabolic syndrome with development of CVD and type 2 diabetes. Potential confounding factors were treated as categorical variables: age, graded from 1 through 5 (first through fifth quintiles); family history of diabetes (no or yes); alcohol consumption, graded as 1 (none) or as quartile 1 (grade 2) to quartile 4 (grade 5) for drinkers; and cigarette smoking, graded as 1 (never), 2 (past), or tertile 1 (grade 3) to tertile 3 (grade 5) for current smokers.</p><p>Data were analyzed by using the SPSS/PC statistical package (SPSS Inc., Chicago, IL, USA). All reported P-values are two-tailed, and those less than 0.05 were considered statistically significant.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Results</head><p>The baseline characteristics of the study sample according to fasting plasma glucose level are shown in Table <ref type="table" target="#tab_0">1</ref>. The mean age, BMI, systolic and diastolic blood pressures, HDL cholesterol level, triglyceride level, and WBC count and the percentages of the subjects with a family history of diabetes, habits of current smoking and current drinking, systemic obesity, dyslipidemia, proteinuria, and elevated WBC count differed significantly among three groups of fasting plasma glucose level. Age, family history of diabetes, current smoking, hypertension, dyslipidemia, proteinuria, and elevated WBC count increased with an increase in fasting plasma glucose level.</p><p>Results of stratified analyses for the risk of incidence of CVD and type 2 diabetes according to the presence or absence of each component of the metabolic syndrome are shown in Table <ref type="table" target="#tab_1">2</ref>. During the 7 years of follow-up representing 38,161 person-years, 70 men developed CVD (CHD in 62 and stroke in eight). After adjustment for age, all the components of the metabolic syndrome, except for IFG, were significantly associated with the risk of incidence of CVD. With the additional adjustment for potential risk factors-family history of diabetes, alcohol consumption, cigarette smoking, and all other components of the metabolic syndrome, type 2 diabetes, hypertension, and elevated WBC count remained significant. As for the risk of incidence of type 2 diabetes, 417 men developed type 2 diabetes during the 7 years of follow-up representing 34,492 person-years. After adjustment for age, each component of the metabolic syndrome was significantly associated with the risk of incidence of type 2 diabetes. With the additional adjustment for potential risk factors, all the components of the metabolic syndrome, except for hypertension, remained significant.  a Type 2 diabetes and impaired fasting glucose were included as the component of the metabolic syndtrome for the risk of incidence of cardiovascular disease type 2 diabetes, respectively.</p><p>b Controlled for age, family history of diabetes, alcohol consumption, and cigarette smoking at study entry.</p><p>Table <ref type="table" target="#tab_2">3</ref> shows the risk of incidence of CVD and type 2 diabetes according to the number of components of the metabolic syndrome, including glycemic disorder (type 2 diabetes for the risk of CVD and IFG for the risk of type 2 diabetes), systemic obesity, hypertension, and dyslipidemia as the components of the metabolic syndrome. In the analyses of the risk of incidence of CVD, normal glycemia and IFG were combined, because the risk of incidence of CVD did not differ significantly between those with normal glycemia and those with IFG. After adjustment for age, family history of diabetes, alcohol consumption, and cigarette smoking, the relative risk of incidence of CVD compared with the presence of no components was 4.82, 5.80, and 9.84 for the presence of 1, 2, and ≥3 components, respectively (P for trend &lt;0.001). The corresponding results for the risk of incidence of type 2 diabetes were 2.59, 4.61, and 10.29 (P for trend &lt;0.001).</p><p>Table <ref type="table" target="#tab_3">4</ref> shows the risk of incidence of CVD and type 2 diabetes according to the number of components of the metabolic syndrome, including proteinuria and elevated WBC count as well as glycemic disorder, systemic obesity, hypertension, and dyslipidemia as the components of the metabolic syndrome. After adjustment for potential risk factors, the relative risk of incidence of CVD compared with the presence of no components was 3.18, 3.48, 12.55, and 14.15 for the presence of 1,2,3, and ≥4 components, respectively (P for trend &lt;0.001). The corresponding results for the risk of incidence of type 2 diabetes were 1.92, 4.36, 6.44, and 15.08 (P for trend &lt;0.001).</p><p>To examine whether cigarette smoking affected the association between the clustering of components of the metabolic syndrome and the risk of incidence of CVD and type 2 diabetes, we stratified subjects according to smoking status (Fig. <ref type="figure">1</ref>). In both non-smokers and current smokers, the multivariate-adjusted relative risk of incidence of CVD and type 2 diabetes increased progressively with an increase in the number of components of the metabolic syndrome (P for trend &lt;0.001 for all). a Type 2 diabetes and impaired fasting glucose were included as the component of the metabolic syndrome for the risk of incidence of cardiovascular disease and type 2 diabetes, respectively.</p><p>b Controlled for age, family history of diabetes, alcohol consumption, and cigarette smoking at study entry.</p><p>Fig. <ref type="figure">1</ref>. Risk of incidence of cardiovascular disease and type 2 diabetes by smoking status and number of components of the metabolic syndrome among 6182 Japanese men and 5588 nondiabetic Japanese men during 7 years of follow-up, respectively. Glycemic disorder, systemic obesity, hypertension, dyslipidemia, proteinuria, and elevated white blood cell count were included as the component of the metabolic syndrome. Type 2 diabetes and impaired fasting glucose were included as the component of the metabolic syndrome for the risk of incidence of cardiovascular disease and type 2 diabetes, respectively. ( a ) Relative risks were controlled for age, family history of diabetes, alcohol consumption, and smoking history (never and past) at study entry. ( b ) Relative risks were controlled for age, family history of diabetes, alcohol consumption, and cigarettes smoked per day at study entry.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Discussion</head><p>We found that the presence of each component of the metabolic syndrome, defined by us, posed an increased risk of incidence of CVD and type 2 diabetes during the 7-year period. While individual components of the metabolic syndrome may not contribute equally to such risk, they became much more powerful when occurring in combination and the increased risk related to clustered features of the metabolic syndrome was more pronounced when proteinuria and elevated WBC count were included. Risk analyses according to smoking status also revealed that in both non-smokers and current smokers the risk for development of CVD and type 2 diabetes increased in proportion to the increase in the number of components. These results indicate that the clustering of the components of the metabolic syndrome increases the risk for development of CVD and type 2 diabetes independently of cigarette smoking.</p><p>The metabolic syndrome, originally described in 1923 by Kylin <ref type="bibr" target="#b17">[18]</ref>, is reported to precede the risk of incidence of CVD and type 2 diabetes by as much as 10 years <ref type="bibr" target="#b5">[6,</ref><ref type="bibr" target="#b6">7]</ref>. Our results for middle-aged Japanese men support this hypothesis that the features of the metabolic syndrome actually precede the incidence of CVD and type 2 diabetes. In this population, except for the relationships of an elevated WBC count with systemic obesity and hypertension, all the pairwise relationships of components of the metabolic syndrome (type 2 diabetes, systemic obesity, hypertension, dyslipidemia, proteinuria, and elevated WBC count) showed significant correlations (P &lt; 0.001). Since the components of the metabolic syndrome are closely interrelated, intervention with one of a pair of components may also affect the other. In addition, studies such as the United Kingdom Prospective Diabetes study and the Scandinavian Simvastatin Survival study have clearly shown that factors other than glycemic control play vital roles in macrovascular disease <ref type="bibr" target="#b18">[19,</ref><ref type="bibr" target="#b19">20]</ref>. The Diabetes Prevention Trial <ref type="bibr" target="#b20">[21]</ref> attests to the efficacy of lifestyle intervention in order to alter risk factors for the prevention of diabetes. The management of individuals with hyperglycemia and other features of the metabolic syndrome should focus not only on blood glucose control but also include strate-gies for reduction of the other CVD risk factors <ref type="bibr" target="#b21">[22]</ref>.</p><p>Insulin resistance, including impaired glucose tolerance (IGT) or type 2 diabetes, high blood pressure, dyslipidemia, and central obesity are established components of the metabolic syndrome <ref type="bibr" target="#b4">[5,</ref><ref type="bibr" target="#b22">23,</ref><ref type="bibr" target="#b23">24]</ref>. The typical lipoprotein profile in this condition includes low HDL cholesterol and high triglyceride levels. Although microalbuminuria or proteinuria is reported to be a strong predictor of type 2 diabetes and CVD <ref type="bibr" target="#b24">[25]</ref><ref type="bibr" target="#b25">[26]</ref><ref type="bibr" target="#b26">[27]</ref>, the inclusion of microalbuminuria as part of the metabolic syndrome has been questioned <ref type="bibr" target="#b27">[28]</ref> because of its rarity and lack of association with insulin resistance in some studies <ref type="bibr" target="#b28">[29,</ref><ref type="bibr" target="#b29">30]</ref>. However, whether insulin resistance is involved in the pathogenesis of proteinuria may be less important than the fact that proteinuria is closely associated with an increased risk of CVD and type 2 diabetes. Furthermore, concentrations of inflammatory markers and mediators of inflammation-cytokines such as tumor necrosis factor (TNF)-␣ and interleukin (IL)-6-are higher in patients with type 2 diabetes, particularly in those with features of insulin resistance <ref type="bibr" target="#b30">[31]</ref><ref type="bibr" target="#b31">[32]</ref><ref type="bibr" target="#b32">[33]</ref>. WBC, a major component of the inflammatory process, and C-reactive protein (CRP), an exquisitely sensitive acute-phase reactant, are increased by cytokines, especially IL-6 <ref type="bibr" target="#b33">[34]</ref><ref type="bibr" target="#b34">[35]</ref><ref type="bibr" target="#b35">[36]</ref>. The lipid pattern of high triglycerides and low HDL cholesterol is a feature of inflammation and, more specifically, of TNF-␣ action <ref type="bibr" target="#b34">[35]</ref>. Elevated WBC count and CRP have been shown to be positively associated with both insulin resistance and hyperinsulinemia <ref type="bibr" target="#b14">[15]</ref><ref type="bibr" target="#b15">[16]</ref><ref type="bibr" target="#b16">[17]</ref><ref type="bibr" target="#b36">[37]</ref><ref type="bibr" target="#b37">[38]</ref><ref type="bibr" target="#b38">[39]</ref> and to predict the occurrence of type 2 diabetes <ref type="bibr" target="#b11">[12,</ref><ref type="bibr" target="#b39">40,</ref><ref type="bibr" target="#b40">41]</ref>. Because some features of low-graded inflammation such as glucose intolerance and dyslipidemia are identical to the components of the metabolic syndrome <ref type="bibr" target="#b2">[3]</ref>, an increase in WBC count could represent an insulin-resistant state or involvement in the metabolic syndrome.</p><p>Our study has several limitations. Although both IFG and IGT are similarly associated with an increased risk of diabetes, IGT is more strongly associated with CVD outcomes and an independent relationship with fasting plasma glucose is only found above 7.0 mmol/l <ref type="bibr" target="#b41">[42]</ref>. Consistent with the findings of earlier studies, a fasting plasma glucose level of ≥7.0 mmol/l was significantly associated with development of CVD but IFG was not in this study. Because IFG and IGT differ in their prevalence, population distribution, phenotype, and risk of CVD, research is needed to clarify the significance of isolated IFG, isolated IGT, and combined IFG and IGT for development of CVD. Among 62 men who developed CHD, 18 were diagnosed as having myocardial infarction. Among the remaining 44 men, 30 had undergone intervention in the form of coronary artery bypass or percutaneous transluminal coronary angioplasty without typically repeated episodes of chest pain during the effort. The inclusion of these cases might have underestimated the association between the components of the metabolic syndrome and development of CVD. The presence of protein in the urine ≥30 mg/dl (≥1 + reading of the dipstick) was considered potential abnormal. The routine urinalysis dipstick is insensitive to albuminuria, being positive only when urinary albumin concentration reaches 30 mg/dl or greater <ref type="bibr" target="#b42">[43]</ref>. As microalbuminuria is a strong predictor of CVD and type 2 diabetes <ref type="bibr" target="#b24">[25]</ref><ref type="bibr" target="#b25">[26]</ref><ref type="bibr" target="#b26">[27]</ref>, it is critical to determine the presence and amount of albumin in the urine. Furthermore, several components of the metabolic syndrome, such as visceral adiposity (waist-to-hip ratio) and fasting insulin level could not be included in this study. The central pattern of distribution, with its increased waist-to-hip ratio, is associated with more insulin resistance than is the peripheral pattern of distribution <ref type="bibr" target="#b43">[44,</ref><ref type="bibr" target="#b44">45]</ref>, and individuals with the central pattern are more likely to have glucose intolerance and hyperinsulinemia resulting from insulin resistance <ref type="bibr" target="#b45">[46,</ref><ref type="bibr" target="#b46">47]</ref>. Therefore, visceral adiposity (waist-to-hip ratio) and fasting insulin level should be included in future studies. Although our study is not highly relevant for evaluating the impact of components of the metabolic syndrome proposed by the WHO <ref type="bibr" target="#b4">[5]</ref> or National Cholesterol Education Program <ref type="bibr" target="#b23">[24]</ref> on the risk of incidence of CVD and type 2 diabetes, we believe that our findings complement such studies.</p><p>In conclusion, the presence of components of the metabolic syndrome, both singly and in combination, actually precede the development of CVD and type 2 diabetes over a 7-year period among middle-aged Japanese men. This heightens the importance of determining ways to intervene on some or all of the components of the components and implementing such interventions promptly.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Baseline characteristics of 6182 Japanese male office workers, according to fasting plasma glucose level</figDesc><table><row><cell>Characteristic</cell><cell>Normal glycemia</cell><cell>Impaired fasting glucose</cell><cell>Type 2 diabetes</cell><cell>P-value</cell></row><row><cell></cell><cell>(n = 5500)</cell><cell>(n = 246)</cell><cell>(n = 436)</cell><cell></cell></row><row><cell>Age (years)</cell><cell>47.1 ± 6.1</cell><cell>49.0 ± 5.8</cell><cell>51.1 ± 5.5</cell><cell>&lt;0.001</cell></row><row><cell>Family history of diabetes (%)</cell><cell>7.2</cell><cell>15.9</cell><cell>22.5</cell><cell>&lt;0.001</cell></row><row><cell>Current drinkers (%)</cell><cell>83.5</cell><cell>78.5</cell><cell>80.3</cell><cell>0.033</cell></row><row><cell>Current smokers (%)</cell><cell>49.4</cell><cell>52.8</cell><cell>58.3</cell><cell>&lt;0.001</cell></row><row><cell>Fasting plasma glucose (mmol/l)</cell><cell>4.99 ± 0.37</cell><cell>6.42 ± 0.24</cell><cell>8.07 ± 1.85</cell><cell>&lt;0.001</cell></row><row><cell>BMI (kg/m 2 )</cell><cell>23.5 ± 2.6</cell><cell>24.6 ± 3.0</cell><cell>24.4 ± 3.2</cell><cell>&lt;0.001</cell></row><row><cell>Systemic obesity (%)</cell><cell>26.3</cell><cell>37.8</cell><cell>36.7</cell><cell>&lt;0.001</cell></row><row><cell>Systolic blood pressure (mmHg)</cell><cell>127.4 ± 14.5</cell><cell>133.2 ± 16.1</cell><cell>132.8 ± 17.8</cell><cell>&lt;0.001</cell></row><row><cell>Diastolic blood pressure (mmHg)</cell><cell>78.3 ± 10.9</cell><cell>80.6 ± 11.1</cell><cell>81.3 ± 11.7</cell><cell>&lt;0.001</cell></row><row><cell>Hypertension (%)</cell><cell>23.9</cell><cell>35.4</cell><cell>37.6</cell><cell>&lt;0.001</cell></row><row><cell>HDL cholesterol (mmol/l)</cell><cell>1.40 ± 0.34</cell><cell>1.36 ± 0.33</cell><cell>1.35 ± 0.38</cell><cell>&lt;0.001</cell></row><row><cell>Triglyceride (mmol/l)</cell><cell>1.48 ± 1.08</cell><cell>1.65 ± 1.17</cell><cell>2.02 ± 1.78</cell><cell>&lt;0.001</cell></row><row><cell>Dyslipidemia (%)</cell><cell>31.0</cell><cell>40.2</cell><cell>50.2</cell><cell>&lt;0.001</cell></row><row><cell>Proteinuria (%)</cell><cell>3.7</cell><cell>5.3</cell><cell>14.2</cell><cell>&lt;0.001</cell></row><row><cell>White blood cell count (10 9 cells/l)</cell><cell>6.42 ± 1.70</cell><cell>6.87 ± 1.63</cell><cell>6.96 ± 1.90</cell><cell>&lt;0.001</cell></row><row><cell>Elevated white blood cell count (%)</cell><cell>16.9</cell><cell>24.0</cell><cell>26.4</cell><cell>&lt;0.001</cell></row></table><note>Figures show mean ±S.D. unless indicated otherwise.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2</head><label>2</label><figDesc>Risk of incidence of cardiovascular disease and type 2 diabetes by components of the metabolic syndrome among 6182 Japanese men and 5588 nondiabetic Japanese men during 7 years of follow-up, respectively</figDesc><table><row><cell>Component</cell><cell></cell><cell cols="3">Participants, n Cases, n Total</cell><cell>Rate per 1000</cell><cell>Age-adjusted relative</cell><cell cols="2">P-value Multivariate-adjusted</cell><cell>P-value</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>person-years</cell><cell>person-years</cell><cell>risk (95% CI)</cell><cell></cell><cell>relative risk a (95% CI)</cell><cell></cell></row><row><cell>Cardiovascular disease</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Fasting plasma</cell><cell cols="2">Normal glycemia 5500</cell><cell>51</cell><cell>34308</cell><cell>1.5</cell><cell>1.0 (referent)</cell><cell></cell><cell>1.0 (referent)</cell><cell></cell></row><row><cell>glucose level</cell><cell>Impaired fasting</cell><cell>246</cell><cell>5</cell><cell>1506</cell><cell>3.3</cell><cell>1.88 (0.75, 4.72)</cell><cell>0.180</cell><cell>1.31 (0.51, 3.34)</cell><cell>0.571</cell></row><row><cell></cell><cell>glucose</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>Type 2 diabetes</cell><cell>436</cell><cell>14</cell><cell>2347</cell><cell>6.0</cell><cell>3.12 (1.71, 5.68)</cell><cell>&lt;0.001</cell><cell>1.97 (1.03, 3.76)</cell><cell>0.039</cell></row><row><cell>Systemic obesity</cell><cell>No</cell><cell>4482</cell><cell>42</cell><cell>27859</cell><cell>1.5</cell><cell>1.0 (referent)</cell><cell></cell><cell>1.0 (referent)</cell><cell></cell></row><row><cell></cell><cell>Yes</cell><cell>1700</cell><cell>28</cell><cell>10302</cell><cell>2.7</cell><cell>1.76 (1.09, 2.84)</cell><cell>0.020</cell><cell>1.40 (0.86, 2.30)</cell><cell>0.180</cell></row><row><cell>Hypertension</cell><cell>No</cell><cell>4618</cell><cell>33</cell><cell>28884</cell><cell>1.1</cell><cell>1.0 (referent)</cell><cell></cell><cell>1.0 (referent)</cell><cell></cell></row><row><cell></cell><cell>Yes</cell><cell>1564</cell><cell>37</cell><cell>9277</cell><cell>4.0</cell><cell>3.04 (1.89, 4.88)</cell><cell>&lt;0.001</cell><cell>2.62 (1.60, 4.28)</cell><cell>&lt;0.001</cell></row><row><cell>Dyslipidemia</cell><cell>No</cell><cell>4159</cell><cell>38</cell><cell>25783</cell><cell>1.5</cell><cell>1.0 (referent)</cell><cell></cell><cell>1.0 (referent)</cell><cell></cell></row><row><cell></cell><cell>Yes</cell><cell>2023</cell><cell>32</cell><cell>12378</cell><cell>2.6</cell><cell>1.70 (1.06, 2.72)</cell><cell>0.027</cell><cell>1.11 (0.67, 1.81)</cell><cell>0.692</cell></row><row><cell>Proteinuria</cell><cell>No</cell><cell>5906</cell><cell>60</cell><cell>36495</cell><cell>1.6</cell><cell>1.0 (referent)</cell><cell></cell><cell>1.0 (referent)</cell><cell></cell></row><row><cell></cell><cell>Yes</cell><cell>276</cell><cell>10</cell><cell>1666</cell><cell>6.0</cell><cell>3.38 (1.73, 6.60)</cell><cell>&lt;0.001</cell><cell>1.93 (0.95, 3.90)</cell><cell>0.070</cell></row><row><cell cols="2">Elevated white blood No</cell><cell>5076</cell><cell>40</cell><cell>31356</cell><cell>1.3</cell><cell>1.0 (referent)</cell><cell></cell><cell>1.0 (referent)</cell><cell></cell></row><row><cell>cell count</cell><cell>Yes</cell><cell>1106</cell><cell>30</cell><cell>6805</cell><cell>4.4</cell><cell>3.43 (2.14, 5.51)</cell><cell>&lt;0.001</cell><cell>2.90 (1.71, 4.92)</cell><cell>&lt;0.001</cell></row><row><cell>Type 2 diabetes</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Impaired fasting</cell><cell>No</cell><cell>5348</cell><cell>284</cell><cell>33510</cell><cell>8.5</cell><cell>1.0 (referent)</cell><cell></cell><cell>1.0 (referent)</cell><cell></cell></row><row><cell>glucose</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>Yes</cell><cell>240</cell><cell>133</cell><cell>982</cell><cell>135.5</cell><cell>13.80 (11.18, 17.04)</cell><cell cols="2">&lt;0.001 10.98 (8.86, 13.61)</cell><cell>&lt;0.001</cell></row><row><cell>Systemic obesity</cell><cell>No</cell><cell>4098</cell><cell>234</cell><cell>25687</cell><cell>9.1</cell><cell>1.0 (referent)</cell><cell></cell><cell>1.0 (referent)</cell><cell></cell></row><row><cell></cell><cell>Yes</cell><cell>1490</cell><cell>183</cell><cell>8805</cell><cell>20.8</cell><cell>2.25 (1.85, 2.73)</cell><cell>&lt;0.001</cell><cell>1.72 (1.41, 2.10)</cell><cell>&lt;0.001</cell></row><row><cell>Hypertension</cell><cell>No</cell><cell>4243</cell><cell>285</cell><cell>26506</cell><cell>10.8</cell><cell>1.0 (referent)</cell><cell></cell><cell>1.0 (referent)</cell><cell></cell></row><row><cell></cell><cell>Yes</cell><cell>1345</cell><cell>132</cell><cell>7986</cell><cell>16.5</cell><cell>1.44 (1.17, 1.77)</cell><cell>0.001</cell><cell>1.20 (0.97, 1.48)</cell><cell>0.096</cell></row><row><cell>Dyslipidemia</cell><cell>No</cell><cell>3833</cell><cell>208</cell><cell>23994</cell><cell>8.7</cell><cell>1.0 (referent)</cell><cell></cell><cell>1.0 (referent)</cell><cell></cell></row><row><cell></cell><cell>Yes</cell><cell>1755</cell><cell>209</cell><cell>10497</cell><cell>19.9</cell><cell>2.24 (1.84, 2.71)</cell><cell>&lt;0.001</cell><cell>1.71 (1.40, 2.08)</cell><cell>&lt;0.001</cell></row><row><cell>Proteinuria</cell><cell>No</cell><cell>5381</cell><cell>384</cell><cell>33264</cell><cell>11.5</cell><cell>1.0 (referent)</cell><cell></cell><cell>1.0 (referent)</cell><cell></cell></row><row><cell></cell><cell>Yes</cell><cell>207</cell><cell>33</cell><cell>1228</cell><cell>26.9</cell><cell>2.23 (1.57, 3.19)</cell><cell>&lt;0.001</cell><cell>1.65 (1.14, 2.37)</cell><cell>0.008</cell></row><row><cell cols="2">Elevated white blood No</cell><cell>4625</cell><cell>307</cell><cell>28657</cell><cell>10.7</cell><cell>1.0 (referent)</cell><cell></cell><cell>1.0 (referent)</cell><cell></cell></row><row><cell>cell count</cell><cell>Yes</cell><cell>963</cell><cell>110</cell><cell>5834</cell><cell>18.9</cell><cell>1.74 (1.40, 2.16)</cell><cell>&lt;0.001</cell><cell>1.35 (1.07, 1.70)</cell><cell>0.013</cell></row></table><note>a Controlled for age, family history of diabetes, alcohol consumption, cigarette smoking, and all other components of the metabolic syndrome at study entry.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3</head><label>3</label><figDesc>Risk of incidence of cardiovascular disease and type 2 diabetes by number of components of the metabolic syndrome, including glycemic disorder a , systemic obesity, hypertension, and dyslipidemia, among 6182 Japanese men and 5588 nondiabetic Japanese men during 7 years of follow-up, respectively</figDesc><table><row><cell>Number of components</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 4</head><label>4</label><figDesc>Risk of incidence of cardiovascular disease and type 2 diabetes by number of components of the metabolic syndrome, including glycemic disorder a , systemic obesity, hypertension, dyslipidemia, proteinuria, and elevated white blood cell count, among 6182 Japanese men and 5588 nondiabetic Japanese men during 7 years of follow-up, respectively</figDesc><table><row><cell>Number of components</cell></row></table></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgements</head><p>This study was supported in part by a grant-in-aid from the Smoking Research Foundation, Tokyo, Japan.</p></div>
+			</div>
+
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">World Health Organization, Obesity-Preventing and Managing the Global Epidemic</title>
+	</analytic>
+	<monogr>
+		<title level="j">World Health Organization</title>
+		<imprint>
+			<biblScope unit="issue">894</biblScope>
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">Technical Report Series</note>
+	<note>Report of a WHO Consultation</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Kelly West Lecture 1991: challenges in diabetes epidemiology-from West to the rest</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">Z</forename><surname>Zimmet</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="232" to="252" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Banting lecture 1988: role of insulin resistance in human disease</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Reaven</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="1595" to="1607" />
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Development of the multiple metabolic syndrome: an epidemiologic perspective</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>Liese</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Mayer-Davis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Haffner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Epidemiol. Rev</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="157" to="172" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Definition, diagnosis and classification of diabetes mellitus and its complications. Part 1: diagnosis and classification of diabetes mellitus provisional report of a WHO consultation</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">G</forename><surname>Alberti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">Z</forename><surname>Zimmet</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Med</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="539" to="553" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Cardiovascular disease risk factors as predictors of type 2 (non-insulin-dependent) diabetes mellitus in elderly subjects</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Mykkänen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kuusisto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Pyörälä</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Laakso</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="553" to="559" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Components of the metabolic syndrome and risk of cardiovascular disease and diabetes in Beaver Dam</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">E K</forename><surname>Klein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Klein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">E</forename><surname>Lee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="1790" to="1794" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m" type="main">World Health Organization, WHO Expert Committee: Arterial Hypertension and Ischemic Heart Disease, Prevention Aspects, World Health Organization</title>
+		<imprint>
+			<date type="published" when="1962">1962</date>
+			<pubPlace>Geneva</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="report_type">Technical Report Series</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Rose</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Blackburn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cardiovascular Survey Methods, World Health Organization</title>
+		<imprint>
+			<date type="published" when="1968">1968</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">The Ministry of Education Study Group, Characteristics of Stroke in Japan and Standardized Criteria for Stroke Diagnosis, The Ministry of Education</title>
+		<imprint>
+			<date type="published" when="1963">1963</date>
+			<pubPlace>Tokyo</pubPlace>
+		</imprint>
+	</monogr>
+	<note>in Japanese</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Ad Hoc Committee on Cerebrovascular Disease of the National Institute of Neurological Disease and Blindness, A Classification and Outline of Cerebrovascular Disease</title>
+	</analytic>
+	<monogr>
+		<title level="j">Neurology</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="1" to="34" />
+			<date type="published" when="1958">1958</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">White blood-cell count and the risk of impaired fasting glucose or Type II diabetes in middle-aged Japanese men</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Nakanishi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Yoshida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Matsuo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Suzuki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Tatara</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="42" to="48" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Alcohol consumption and risk development of impaired fasting glucose or type 2 diabetes in middle-aged Japanese men</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Nakanishi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Suzuki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Tatara</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="48" to="54" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">The Expert Committee on the Diagnosis and Classification of Diabetes Mellitus, Report of the Expert Committee on the Diagnosis and Classification of Diabetes Mellitus</title>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="1183" to="1197" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">The white blood cell count, its relationship to plasma insulin and other cardiovascular risk factors in healthy male individuals</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Targher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Seidell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tonoli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Muggeo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">De</forename><surname>Sandre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Cigolini</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Intern. Med</title>
+		<imprint>
+			<biblScope unit="volume">239</biblScope>
+			<biblScope unit="page" from="435" to="441" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Prevalence of insulin resistance syndrome in southwestern France and its relationship with inflammatory and hemostatic markers</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Marques-Vidal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Mazoyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Bongard</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="1371" to="1377" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">High white blood cell count is associated with a worsening of insulin sensitivity and predicts the development of type 2 diabetes</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Vozarova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Weyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Lindsay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Pratley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Bogardus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Tataranni</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="page" from="455" to="461" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<author>
+			<persName><forename type="first">E</forename><surname>Kylin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Studien über das Hypertonie-Hyperglykämie-Hyperurikämiesyndrom</title>
+				<imprint>
+			<date type="published" when="1923">1923</date>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page" from="105" to="127" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Tight blood pressure control and risk of macrovascular and microvascular complications in type 2 diabetes: UKPDS 38</title>
+	</analytic>
+	<monogr>
+		<title level="j">BMJ</title>
+		<imprint>
+			<biblScope unit="volume">317</biblScope>
+			<biblScope unit="page" from="703" to="713" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+		<respStmt>
+			<orgName>UK Prospective Diabetes Study Group</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Cholesterol lowering with simvastatin improves prognosis of diabetic patients with coronary heart disease: a subgroup analysis of the Scandinavian Simvastatin Survival Study (4S)</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">K</forename><surname>Pyörälä</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">R</forename><surname>Pedersen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kjekshus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Faergeman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">G</forename><surname>Olsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Thorgeirsson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="614" to="620" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">The Diabetes Prevention Research Group, Reduction in the incidence of type 2 diabetes with lifestyle intervention or metformin</title>
+	</analytic>
+	<monogr>
+		<title level="j">N. Engl. J. Med</title>
+		<imprint>
+			<biblScope unit="volume">346</biblScope>
+			<biblScope unit="page" from="393" to="403" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Cardiovascular disease in type 2 diabetes mellitus, current management guidelines</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>Mooradian</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch. Intern. Med</title>
+		<imprint>
+			<biblScope unit="volume">163</biblScope>
+			<biblScope unit="page" from="33" to="40" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Metabolic syndrome and development of diabetes mellitus: application and validation of recently suggested definitions of the metabolic syndrome in a prospective cohort study</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Laaksonen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">M</forename><surname>Lakka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">K</forename><surname>Niskanen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Kaplan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Salonen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Lakka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am. J. Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">156</biblScope>
+			<biblScope unit="page" from="1070" to="1077" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Treatment of High Blood Cholesterol in Adults, Executive Summary of the Third Report of the National Cholesterol Education Program (NCEP) Expert Panel on Detection, Evaluation, and Treatment of High Blood Cholesterol in Adults (Adult Treatment Panel III)</title>
+	</analytic>
+	<monogr>
+		<title level="j">Expert Panel on Detection</title>
+		<imprint>
+			<biblScope unit="volume">285</biblScope>
+			<biblScope unit="page" from="2486" to="2497" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+	<note>JAMA</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<author>
+			<persName><forename type="first">L</forename><surname>Mykkänen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Haffner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kuusisto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Pyörälä</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Laakso</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Microalbuminuria precedes the development of NIDDM</title>
+				<imprint>
+			<date type="published" when="1994">1994</date>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page" from="552" to="557" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Proteinuria and cardiovascular disease</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">F</forename><surname>Keane</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am. J. Kidney Dis</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="S8" to="S18" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+	<note>Suppl</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">The importance of microalbuminuria as a cardiovascular riks indicator, a review</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">F H</forename><surname>Diercks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Van Boven</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Hillege</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">E</forename><surname>Jong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Rouleau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">H</forename><surname>Van Gilst</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Can. J. Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="525" to="535" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Comment on the provisional report from the WHO consultation, European Group for the Study of Insulin Resistance (EGIR)</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Balkau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Charles</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Med</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="442" to="443" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Microalbuminuria, cardiovascular risk factors, and insulin resistance in two populations with a high risk of type 2 diabetes mellitus</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Hodge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">K</forename><surname>Dowse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">Z</forename><surname>Zimmet</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Med</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="441" to="449" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Dissociation between urinary albumin excretion and variables associated with insulin resistance in a healthy population</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Zavaroni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Bonini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Gasparini</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Intern. Med</title>
+		<imprint>
+			<biblScope unit="volume">240</biblScope>
+			<biblScope unit="page" from="151" to="156" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">NIDDM as a disease of the innate immune system: association of acute-phase reactants and interleukin-6 with metabolic syndrome X</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Pickup</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Mattock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">D</forename><surname>Chusney</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Burt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="1286" to="1292" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Relation between plasma tumor necrosis factor-alpha and insulin sensitivity in elderly men with non-insulin-dependent diabetes mellitus</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Nilsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Jovinge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Niemann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Reneland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Lithell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arterioscler. Thromb. Vasc. Biol</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="1199" to="1202" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Is type II diabetes mellitus a disease of the innate immune system?</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Pickup</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Crook</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="1241" to="1248" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">E</forename><surname>Sim</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1993">1993</date>
+			<publisher>Humoral Factors, IRL Press</publisher>
+			<pubPlace>Oxford</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Cytokines and intermediary metabolism</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Memon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">R</forename><surname>Feingold</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Grunfeld</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Cytokines in health and disease</title>
+				<editor>
+			<persName><forename type="first">D</forename><forename type="middle">G</forename><surname>Remick</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Friedland</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Marcel Dekker</publisher>
+			<date type="published" when="1997">1997</date>
+			<biblScope unit="page" from="381" to="399" />
+		</imprint>
+	</monogr>
+	<note>second ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Acute-phase proteins and other systemic responses to inflammation</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Gabay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Kushner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N. Engl. J. Med</title>
+		<imprint>
+			<biblScope unit="volume">340</biblScope>
+			<biblScope unit="page" from="448" to="454" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">C-reactive protein is independently associated with total body fat, central fat, and insulin resistance in adult women</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Pannacciulli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">P</forename><surname>Cantatore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Minenna</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bellacicco</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Giorgino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">De</forename><surname>Pergola</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Obes. Relat. Metab. Disord</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="1416" to="1420" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">C-reactive protein, interleukin 6, and risk of developing type 2 diabetes mellitus</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>Pradhan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Manson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Rifai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Buring</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Ridker</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">286</biblScope>
+			<biblScope unit="page" from="327" to="334" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Differentiation between obesity and insulin resistance in the association with C-reactive protein</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Mclaughlin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Abbasi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lamendola</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">106</biblScope>
+			<biblScope unit="page" from="2908" to="2912" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Markers of inflammation and prediction of diabetes mellitus in adults (Atherosclerosis Risk in Communities study), a cohort study</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">I</forename><surname>Schmidt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">B</forename><surname>Duncan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Sharrett</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">353</biblScope>
+			<biblScope unit="page" from="1649" to="1652" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">C-reactive protein is an independent predictor of risk for the development of diabetes in the West of Scotland Coronary Prevention Study</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Freeman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Norrie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Caslake</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="page" from="1596" to="1600" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Impaired glucose tolerance and impaired fasting glycaemia, the current status on definition and intervention</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Unwin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Shaw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Zimmet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">G</forename><surname>Alberti</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Med</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="708" to="723" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Proteinuria, albuminuria, risk, assessment, detection, elimination (PARADE): a position paper of the National Kidney Foundation</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">F</forename><surname>Keane</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Eknoyan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am. J. Kidney Dis</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="1004" to="1010" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Relation of body fat distribution to metabolic complications of obesity</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">H</forename><surname>Kissebah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Vydelingum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Murray</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Clin. Endocrinol. Metab</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page" from="254" to="260" />
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Impact of obesity on metabolism in men and women: importance of regional adipose tissue distribution</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Krotkiewski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Bjorntorp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Sjostrom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Smith</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Clin. Invest</title>
+		<imprint>
+			<biblScope unit="volume">72</biblScope>
+			<biblScope unit="page" from="1150" to="1162" />
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Health risks of obesity</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">H</forename><surname>Kissebah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Freedman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">N</forename><surname>Peiris</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Med. Clin. North Am</title>
+		<imprint>
+			<biblScope unit="volume">73</biblScope>
+			<biblScope unit="page" from="111" to="138" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Visceral obesity in men: Associations with glucose tolerance, plasma insulin, and lipoprotein levels</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Pouliot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Després</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Nadeau</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="826" to="834" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

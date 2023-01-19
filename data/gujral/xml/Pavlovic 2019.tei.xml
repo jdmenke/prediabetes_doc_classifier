@@ -1,0 +1,1281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Long-term mortality is increased in patients with undetected prediabetes and type-2 diabetes hospitalized for worsening heart failure and reduced ejection fraction</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2022-07-19">19 July 2022</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Andrija</forename><surname>Pavlovic</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Cardiology</orgName>
+								<orgName type="institution">Clinical Centre of Serbia</orgName>
+								<address>
+									<settlement>Belgrade</settlement>
+									<country key="RS">Serbia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Marija</forename><surname>Polovina</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Cardiology</orgName>
+								<orgName type="institution">Clinical Centre of Serbia</orgName>
+								<address>
+									<settlement>Belgrade</settlement>
+									<country key="RS">Serbia</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Faculty of Medicine</orgName>
+								<orgName type="institution">University of Belgrade</orgName>
+								<address>
+									<country key="RS">Serbia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Arsen</forename><surname>Ristic</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Cardiology</orgName>
+								<orgName type="institution">Clinical Centre of Serbia</orgName>
+								<address>
+									<settlement>Belgrade</settlement>
+									<country key="RS">Serbia</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Faculty of Medicine</orgName>
+								<orgName type="institution">University of Belgrade</orgName>
+								<address>
+									<country key="RS">Serbia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jelena</forename><forename type="middle">P</forename><surname>Seferovic</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Faculty of Medicine</orgName>
+								<orgName type="institution">University of Belgrade</orgName>
+								<address>
+									<country key="RS">Serbia</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Clinic of Endocrinology and Metabolic Disorders</orgName>
+								<orgName type="institution">Clinical Centre of Serbia</orgName>
+								<address>
+									<settlement>Belgrade</settlement>
+									<country key="RS">Serbia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Ivana</forename><surname>Veljic</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Cardiology</orgName>
+								<orgName type="institution">Clinical Centre of Serbia</orgName>
+								<address>
+									<settlement>Belgrade</settlement>
+									<country key="RS">Serbia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Dejan</forename><surname>Simeunovic</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Cardiology</orgName>
+								<orgName type="institution">Clinical Centre of Serbia</orgName>
+								<address>
+									<settlement>Belgrade</settlement>
+									<country key="RS">Serbia</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Faculty of Medicine</orgName>
+								<orgName type="institution">University of Belgrade</orgName>
+								<address>
+									<country key="RS">Serbia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Ivan</forename><surname>Milinkovic</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Cardiology</orgName>
+								<orgName type="institution">Clinical Centre of Serbia</orgName>
+								<address>
+									<settlement>Belgrade</settlement>
+									<country key="RS">Serbia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Gordana</forename><surname>Krljanac</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Cardiology</orgName>
+								<orgName type="institution">Clinical Centre of Serbia</orgName>
+								<address>
+									<settlement>Belgrade</settlement>
+									<country key="RS">Serbia</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Faculty of Medicine</orgName>
+								<orgName type="institution">University of Belgrade</orgName>
+								<address>
+									<country key="RS">Serbia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Milika</forename><surname>As ˇanin</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Cardiology</orgName>
+								<orgName type="institution">Clinical Centre of Serbia</orgName>
+								<address>
+									<settlement>Belgrade</settlement>
+									<country key="RS">Serbia</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Faculty of Medicine</orgName>
+								<orgName type="institution">University of Belgrade</orgName>
+								<address>
+									<country key="RS">Serbia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Irena</forename><surname>Os</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">´-Pavlovic</forename><surname>´4</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Allergology and Clinical Immunology</orgName>
+								<address>
+									<settlement>Belgrade</settlement>
+									<country key="RS">Serbia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName><forename type="first">Petar</forename><forename type="middle">M</forename><surname>Seferovic</surname></persName>
+							<email>seferovic.petar@gmail.com</email>
+							<affiliation key="aff1">
+								<orgName type="department">Faculty of Medicine</orgName>
+								<orgName type="institution">University of Belgrade</orgName>
+								<address>
+									<country key="RS">Serbia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff4">
+								<orgName type="department">Faculty of Medicine</orgName>
+								<orgName type="institution">University of Belgrade</orgName>
+								<address>
+									<addrLine>8 Dr Subotic ´a</addrLine>
+									<postCode>11000</postCode>
+									<settlement>Belgrade</settlement>
+									<country key="RS">Serbia</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Long-term mortality is increased in patients with undetected prediabetes and type-2 diabetes hospitalized for worsening heart failure and reduced ejection fraction</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2022-07-19">19 July 2022</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">7287DEB072272F2FC673DBA08ED5CB13</idno>
+					<idno type="DOI">10.1177/2047487318807767</idno>
+					<note type="submission">Received 21 August 2018; accepted 27 September 2018</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.1" ident="GROBID" when="2022-07-19T22:43+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Heart failure with reduced ejection fraction</term>
+					<term>diabetes</term>
+					<term>prediabetes</term>
+					<term>all-cause mortality</term>
+					<term>cardiovascular mortality</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Background: We assessed the prevalence of newly diagnosed prediabetes and type-2 diabetes mellitus (T2DM), and their impact on long-term mortality in patients hospitalized for worsening heart failure with reduced ejection fraction (HFrEF). Methods: We included patients hospitalized with HFrEF and New York Heart Association (NYHA) functional class II-III. Baseline two-hour oral glucose tolerance test was used to classify patients as normoglycaemic or having newly diagnosed prediabetes or T2DM. Outcomes included post-discharge all-cause and cardiovascular mortality during the median follow-up of 2.1 years. Results: At baseline, out of 150 patients (mean-age 57 AE 12 years; 88% male), prediabetes was diagnosed in 65 (43%) patients, and T2DM in 29 (19%) patients. These patients were older and more often with NYHA class III symptoms, but distribution of comorbidities was similar to normoglycaemic patients. Taking normoglycaemic patients as a reference, adjusted risk of all-cause mortality was significantly increased both in patients with prediabetes (hazard ratio, 2.6; 95% confidence interval (CI), 1.1-6.3; p ¼ 0.040) and in patients with T2DM (hazard ratio, 5.3; 95% CI, 1.7-15.3; p ¼ 0.023). Likewise, both prediabetes (hazard ratio, 2.9; 95% CI, 1.1-7.9; p ¼ 0.041) and T2DM (hazard ratio, 9.7; 95% CI 2.9-36.7; p ¼ 0.018) independently increased the risk of cardiovascular mortality compared with normoglycaemic individuals. There was no interaction between either prediabetes or T2DM and heart failure aetiology or gender on study outcomes (all interaction p-values &gt; 0.05). Conclusions: Newly diagnosed prediabetes and T2DM are highly prevalent in patients hospitalized for worsening HFrEF and NYHA functional class II-III. Importantly, they impose independently increased long-term risk of higher all-cause and cardiovascular mortality.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>Heart failure with reduced ejection fraction (HFrEF) is a complex clinical entity affecting over 23 million people worldwide and is associated with a high annual mortality rate of 8.8%, despite recent improvements in treatment. <ref type="bibr" target="#b0">1,</ref><ref type="bibr" target="#b1">2</ref> Evidence suggests that patients with HFrEF commonly have type-2 diabetes mellitus (T2DM) or prediabetes. <ref type="bibr" target="#b2">[3]</ref><ref type="bibr" target="#b3">[4]</ref><ref type="bibr" target="#b4">[5]</ref> According to current guidelines, prediabetes is defined by the presence of impaired fasting glucose and/or impaired glucose tolerance and/or haemoglobin A 1c (HbA 1c ) levels of 5.7-6.4%. <ref type="bibr" target="#b5">6</ref> However, both prediabetes and T2DM are often undetected in HFrEF and there is a wide variation in the reported incidence of these conditions, ranging between 17-55% and 18-35%, respectively. <ref type="bibr" target="#b2">[3]</ref><ref type="bibr" target="#b3">[4]</ref><ref type="bibr" target="#b4">[5]</ref><ref type="bibr" target="#b6">7</ref> In chronic HFrEF, previously known T2DM has been shown to predict poor prognosis, <ref type="bibr" target="#b7">[8]</ref><ref type="bibr" target="#b8">[9]</ref><ref type="bibr" target="#b9">[10]</ref> but data on the prognostic impact of undetected prediabetes or T2DM are limited and inconclusive. <ref type="bibr" target="#b9">10,</ref><ref type="bibr" target="#b10">11</ref> Of note, in the GISSI-HF trial (Gruppo Italiano per lo Studio della Sopravvivenza nella Insufficienza Cardiaca-Heart Failure), known T2DM, but not prediabetes, was associated with an increased risk of all-cause death in unselected patients with chronic heart failure. <ref type="bibr" target="#b10">11</ref> In the CHARM trial (Candesartan in Heart Failure-Assessment of Reduction in Mortality and Morbidity), despite a trend towards a higher mortality in patients with prediabetes and newly diagnosed T2DM, only known T2DM significantly increased the risk of mortality and heart failure hospitalization. <ref type="bibr" target="#b3">4</ref> In the PARADIGM-HF trial (Prospective Comparison of ARNI with ACEI to Determine Impact on Global Mortality and Morbidity in Heart Failure), besides known T2DM, prediabetes and newly diagnosed T2DM emerged as independent predictors of higher risks for mortality and heart failure hospitalization. <ref type="bibr" target="#b11">12</ref> In acute or worsening chronic heart failure, some studies, but not all, have demonstrated that known T2DM increases the risk of in-hospital and post-discharge mortality. <ref type="bibr" target="#b6">7,</ref><ref type="bibr" target="#b12">13,</ref><ref type="bibr" target="#b13">14</ref> However, the prognostic relevance of prediabetes or newly diagnosed T2DM has not been sufficiently explored in acute or worsening chronic heart failure. Determining an independent association between these conditions and long-term mortality risk in patients hospitalized for worsening chronic HFrEF would confirm their importance for heart failure progression and decreased survival. Furthermore, this would provide a rationale for investigating preventive interventions aimed to improve outcomes in patients with HFrEF and prediabetes or newly diagnosed T2DM.</p><p>The aim of the present study was to assess the prevalence and long-term prognostic impact of prediabetes and newly diagnosed T2DM on all-cause and cardiovascular mortality after hospitalization for worsening HFrEF in patients without known dysglycaemia.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Material and methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study design and population</head><p>This was a prospective observational cohort study, in which 244 adult patients (!18 years), hospitalized for worsening HFrEF, were screened at the Department of Cardiology, Clinical Centre of Serbia and 150 patients were included. These patients met the following criteria: 1) hospitalization for worsening symptoms of chronic HFrEF consistent with the New York Heart Association (NYHA) functional class II-III; 2) HFrEF diagnosed for more than six months prior to the inclusion according to the definition of the European Guidelines for the diagnosis and management of acute or chronic heart failure; <ref type="bibr" target="#b14">15</ref> and 3) no previous medical record or patient's knowledge of abnormality in glucose metabolism or treatment with glucose-lowering medications.</p><p>Out of 244 screened patients, 94 were not enrolled because of the exclusion criteria: acute heart failure with NYHA class IV and/or haemodynamic compromise requiring inotropic support; evidence of organ damage including acute hepatic injury (i.e. elevated liver transaminases and/or bilirubin levels) or acute kidney injury; acute myocardial dysfunction due to acute coronary syndrome, inflammatory or toxic aetiology; acute valve insufficiency or pericardial tamponade; percutaneous coronary intervention or coronary artery by-pass surgery within six weeks prior to admission; chronic HFrEF with NYHA class I symptoms; hypertrophic cardiomyopathy, congenital heart disease, significant valvular disease or previous valvular surgery, known chronic kidney disease grade IV, known active malignancy or infection. The exclusion criteria were chosen to prevent inclusion of haemodynamically unstable heart failure patients and/or patients with other conditions in which stress hyperglycaemia could be erroneously considered as prediabetes or T2DM. The study flow-chart is presented in Figure <ref type="figure" target="#fig_0">1</ref>.</p><p>The study has been conducted in accordance with the 1975 Declaration of Helsinki. Prior to initiation of the study, the Ethics Committee of the Clinical Centre of Serbia provided approval. All patients signed the informed consent.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Baseline clinical assessment</head><p>Heart failure was defined as ischaemic in cases of a prior myocardial infarction, coronary revascularization, and/or coronary artery stenosis &gt;50% verified by coronary angiography prior to, or at inclusion. In cases of non-ischaemic heart failure aetiology, dilated cardiomyopathy was defined as ventricular dilatation and HFrEF in the absence of abnormal loading conditions or significant coronary artery stenosis. <ref type="bibr" target="#b15">16</ref> Demographic characteristics, detailed medical history, NYHA class, physical examination, routine laboratory findings, standard 12-lead electrocardiogram, chest X-ray, standard two-dimensional and Doppler transthoracic echocardiography with left ventricular ejection fraction (LVEF) assessment, <ref type="bibr" target="#b16">17</ref> and medical treatment data were recorded for every participant at baseline. The following cardiovascular risk factors were assessed: hypertension (previous antihypertensive treatment and/or blood pressure &gt;140/ 90 mmHg at admission), hyperlipidaemia (previous lipid lowering drug treatment), cerebrovascular disease (documented in medical records as a previous stroke verified by computed tomography and/or transient ischaemic attack), peripheral vascular disease (previously verified significant peripheral arterial stenosis &gt;50% by colour Doppler scan, ischaemic limb pain, peripheral revascularization procedure and/or non-traumatic limb amputation), previous deep vein thrombosis, atrial fibrillation (documented by electrocardiogram prior to or at inclusion), chronic kidney disease (estimated glomerular filtration rate &lt;60 mL/min per 1.73 m 2 ) <ref type="bibr" target="#b17">18</ref> and smoking status.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Assessment of glycaemic status</head><p>In all participants, fasting plasma glucose (FPG) was measured within five days from inclusion, following initial stabilization and after a mandatory overnight fasting of at least 8 h. <ref type="bibr" target="#b18">19</ref> FPG and a standard 2-h oral glucose tolerance test (OGTT) with 75 g of glucose were used for diagnosing prediabetes or T2DM in accordance with diagnostic criteria used by the American Diabetes Association. <ref type="bibr" target="#b18">19</ref> Plasma glucose was measured prior to glucose load intake, and at the 120th minute of OGTT. Patients were classified as: 1) normoglycaemic (FPG &lt; 5.6 mmol/L and 2-h OGTT &lt;7.8 mmol/L); 2) prediabetes, which included impaired fasting glucose (FPG ! 5.6 mmol/L and &lt;7.0 mmol/L, and normal response to the 2-h OGTT) and impaired glucose tolerance (normal FPG, or FPG ! 5.6 mmol/L and &lt;7.0 mmol/L, and 2-h OGTT ! 7.8 mmol/L and &lt;11.1 mmol/L); and 3) newly diagnosed T2DM (FPG ! 7.0 mmol/L and/or 2-h OGTT ! 11.1 mmol/L), Figure <ref type="figure">2</ref>. <ref type="bibr" target="#b5">6,</ref><ref type="bibr" target="#b19">20</ref> Newly diagnosed T2DM patients were referred to the diabetologist and initiated treatment with metformin according to current guidelines. <ref type="bibr" target="#b19">20</ref> Follow-up and study outcomes All patients were prospectively followed in an outpatient clinic at six-monthly intervals. In the case of a patient not attending the scheduled visit, telephone follow-up was performed and data on study outcomes, including all-cause and cardiovascular mortality, were collected. The cause of death was determined from medical records provided by the patient's next-of-kin. Cardiovascular mortality included fatal myocardial infarction (death within the first 30 days), worsening heart failure, sudden cardiac death, fatal cerebrovascular insult, and death related to myocardial revascularization procedures (percutaneous or surgical). All-cause mortality included cardiovascular death or other causes (i.e. malignancy, infection). No patient was lost to follow-up.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analysis</head><p>Descriptive data are presented as a mean with standard deviation for continuous variables and as a count with proportion for categorical variables. Variables were compared using analysis of variance for continuous variables or a chi-square test for categorical variables.</p><p>Incidence rates of study outcomes for patients with and without dysglycaemia (including prediabetes and T2DM) were calculated and expressed in units per 100 patient-years. Incidence rate ratios between patients with prediabetes, T2DM and normoglycaemia were calculated for all-cause and cardiovascular mortality. The Kaplan-Meier survival curves were estimated and compared according to glycaemia status using the log-rank test for both outcomes. The Cox proportional hazard models were used to estimate the hazard ratios for all-cause and cardiovascular mortality in patients with prediabetes and T2DM with normoglycaemic patients serving as a reference. The adjusted Cox regression models were formed in a 'two-step' process. First, we used univariable regression analysis in which study outcomes (i.e. all-cause and cardiovascular mortality) were regressed on explanatory variables, including age, sex, heart failure aetiology, LVEF, hypertension, hyperlipidaemia, cerebrovascular disease, peripheral vascular disease, previous deep vein thrombosis, atrial fibrillation, chronic kidney disease, anaemia and smoking status (not presented). Then we used five covariates with the strongest association with study outcomes (LVEF, NYHA class, peripheral arterial disease, chronic kidney disease and anaemia) to adjust Cox regression models for the association between prediabetes and diabetes and all-cause/cardiovascular mortality. This was a necessary approach to prevent overfitting the Cox adjusted models, taking into account the relatively small number of outcome events due to a small sample size (i.e. adjusted analysis can produce reliable results only if there are at least 5-10 events per an explanatory variable). <ref type="bibr" target="#b20">21,</ref><ref type="bibr" target="#b21">22</ref> Interaction analyses on study outcomes (cardiovascular and allcause mortality) were assessed between glycaemia status (prediabetes and T2DM) and heart failure aetiology (ischaemic versus non-ischaemic), as well as between glycaemia status and gender (male versus female). The proportionality of hazard was estimated using Schoenfield residuals, and time to death or time to the end of follow-up was used in all survival analyses. Data were analysed using the STATA MP 14. A two-sided p value &lt; 0.05 was considered statistically significant.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Baseline characteristics</head><p>The study included 150 patients hospitalized for worsening HFrEF (NYHA class II-III) without known prediabetes or T2DM at baseline. Baseline characteristics of the study population are presented in Table <ref type="table" target="#tab_0">1</ref>. The mean age was 57 AE 12 years, and the majority of patients were male (88%). Ischaemic heart failure aetiology was present in 53% of patients, while the most prevalent comorbidities were hypertension and hyperlipidaemia.</p><p>At baseline, out of 150 participants, 118 had normal FPG levels, whereas 32 had elevated FPG, as presented in Figure <ref type="figure">2</ref>. Following the 2-h OGTT, 56 patients with normal FPG and normal response to the 2-h OGTT were classified as normoglycaemic. Prediabetes was diagnosed in 65 (43%) patients, including three patients with impaired fasting glucose and 62 patients with impaired glucose tolerance. T2DM was diagnosed in 29 (19%) patients. , p ¼ 0.004). There were no differences in sex, heart failure aetiology, or the distribution of comorbidities or treatment allocation between patients with and without dysglycaemia (Table <ref type="table" target="#tab_0">1</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study outcomes</head><p>Over the median follow-up of 2.1 years (range 0.1-3.1 years), there were 26 cases of all-cause death and 21 cases of cardiovascular death. Compared normoglycaemic patients, patients with both prediabetes and T2DM had higher incidence rates of allcause and cardiovascular mortality (Table <ref type="table" target="#tab_1">2</ref>).</p><p>The cumulative Kaplan-Meier survival curves illustrating all-cause and cardiovascular mortality according to glycaemic status are presented in Figure <ref type="figure" target="#fig_1">3</ref>.</p><p>In unadjusted Cox proportional hazard analysis, the risk of death from any cause was significantly higher in patients with prediabetes (hazard ratio, 3.8; 95% confidence interval (CI), 1.6-8.8; p ¼ 0.002) as well as in patients with T2DM (hazard ratio, 6.7; 95% CI, 1.1-15.9; p ¼ 0.032) relative to normoglycaemic patients (Table <ref type="table" target="#tab_2">3</ref>). Following adjustment, these associations remained significant for both prediabetes (adjusted hazard ratio, 2.6; 95% CI, 1.1-6.3; p ¼ 0.040) and T2DM (adjusted hazard ratio, 5.3; 95% CI, 1.7-15.3; p ¼ 0.023). Similarly, in a univariable analysis, the risk   <ref type="table" target="#tab_2">3</ref>). In sensitivity analyses, there were no interactions between dysglycaemia and heart failure aetiology (ischaemic versus non-ischaemic) or gender on the study outcomes (all interaction p values &gt; 0.05) (Supplementary Material Table <ref type="table" target="#tab_0">S1</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>online).</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>There are two main findings of the present study. In well-characterized, chronic HFrEF patients hospitalized for worsening heart failure, previously undetected prediabetes and T2DM were highly prevalent, affecting 63% of the cohort. During the follow-up, compared with normoglycaemic individuals, patients with prediabetes, as well as patients with newly diagnosed T2DM, had an independently increased long-term risk for both all-cause and cardiovascular mortality, even after adjustment for multiple potential confounders.</p><p>The first finding reveals a high proportion (63%) of patients hospitalized for worsening chronic HFrEF with previously unrecognized prediabetes (43%) or T2DM (19%). In the present study both FPG and 2h OGTT were used for diagnosing dysglycaemia, which has improved both diagnostic specificity and sensitivity as reflected in identification of 62 (52%) new cases of prediabetes or T2DM among patients with normal FPG. In comparison, in the post hoc analysis of the PARADIGM HF trial, prediabetes and newly diagnosed T2DM were established based on HbA 1c levels in 39% and 21% of chronic stable HFrEF patients, respectively, which is similar to our results. <ref type="bibr" target="#b11">12</ref> Conversely, in the GISSI-HF a lower proportion of chronic heart failure patients had prediabetes and newly diagnosed T2DM (29% and 13%, respectively) compared with our findings. <ref type="bibr" target="#b10">11</ref> In a large cohort of HFrEF outpatients in Denmark, without previously established T2DM, 19% presented with overt T2DM, whereas 22% had prediabetes. <ref type="bibr" target="#b2">3</ref> The reasons behind differences in the frequency of dysglycaemia across studies are currently unresolved and could be attributed to several factors, including geographic variations and differences in the severity and clinical presentation of heart failure. <ref type="bibr" target="#b22">23</ref> Accordingly, there is a positive correlation between heart failure severity, as indicated by a higher NYHA functional class, and insulin resistance. <ref type="bibr" target="#b23">24</ref> This supports the high prevalence of prediabetes and newly diagnosed T2DM amongst our patients with NYHA class II-III symptoms. Likewise, in several studies, T2DM was more prevalent in acute or worsening heart failure than in stable chronic heart failure, which is also in line with our findings. <ref type="bibr" target="#b6">7,</ref><ref type="bibr" target="#b24">[25]</ref><ref type="bibr" target="#b25">[26]</ref><ref type="bibr" target="#b26">[27]</ref> In addition, in contrast to the use of HbA 1c in most trials, patients in our study were stratified according to the 2-h OGTT, which has comparable sensitivity but an imperfect concordance with HbA 1c . <ref type="bibr" target="#b18">19</ref> Importantly, the feasibility of the 2-h OGTT in heart failure patients has been previously confirmed. <ref type="bibr" target="#b2">3</ref> The relevance of undetected prediabetes or T2DM is reflected in substantially increased mortality rates associated with dysglycaemia in our study. Despite being treated with modern agents, patients with newly diagnosed prediabetes or T2DM had higher rates of allcause ($10-17 per 100 patient-years) and cardiovascular ($10-14 per 100 patient-years) mortality compared with normoglycaemic individuals. In addition, mortality rates attributed to prediabetes and T2DM exceeded reports from earlier studies. In the PARADIGM HF trial, crude incidence rates of all-cause (8-9 per 100 patient-years) and cardiovascular ($8 per 100 patient-years) mortality in patients with prediabetes and newly diagnosed T2DM were lower than in our study. <ref type="bibr" target="#b11">12</ref> Likewise, in the CHARM and GISSI-HF trials, mortality rates associated with prediabetes were lower than in our cohort. <ref type="bibr" target="#b3">4,</ref><ref type="bibr" target="#b10">11</ref> The observed discrepancies could be related to differences in study populations. Namely, these trials have enrolled chronic stable HFrEF patients, whereas our study included patients hospitalized for worsening chronic HFrEF with NYHA class II-III symptoms. Worsening heart failure is considered a critical point in the course of heart failure associated with a sharp increase in short-term and long-term mortality. <ref type="bibr" target="#b27">[28]</ref><ref type="bibr" target="#b28">[29]</ref><ref type="bibr" target="#b29">[30]</ref> This is corroborated by a post hoc analysis of the EVEREST trial (Efficacy of Vasopressin Antagonism in Heart Failure Outcome Study with Tolvaptan), in which the rates of all-cause and cardiovascular mortality were significantly higher in patients with than without diabetes, with acute or worsening heart failure, which supports our findings. <ref type="bibr" target="#b6">7</ref> The high mortality rates in patients with prediabetes and T2DM translated into a substantially higher longterm risk of all-cause and cardiovascular death compared with normoglycaemic individuals in our study, even after adjusting for relevant confounders. The observed hazard ratios were high, which could be explained by the small sample size of our study.</p><p>Notwithstanding the high frequency of prediabetes and newly diagnosed T2DM in heart failure, its impact on heart failure progression and survival outcomes has remained unresolved. Most evidence is derived from clinical trials and registries of patients with chronic stable HFrEF, in whom known T2DM has been consistently associated with higher risks of death and heart failure hospitalization, although in some older trials, the risk was higher in patients with ischaemic heart failure and in females. <ref type="bibr" target="#b30">[31]</ref><ref type="bibr" target="#b31">[32]</ref><ref type="bibr" target="#b32">[33]</ref><ref type="bibr" target="#b33">[34]</ref><ref type="bibr" target="#b34">[35]</ref> These disparities were not corroborated in subsequent analyses, and the results of interaction analysis in the present study also suggest that dysglycaemia confers a worse prognosis independof heart failure aetiology or gender. Unlike chronic HFrEF, available data in patients with acute or worsening chronic HFrEF are inconsistent, and mostly confined to the assessment of known T2DM. In the Italian IN-HF (Italian Network on Heart Failure) registry, known T2DM and hyperglycaemia at admission were strong predictors of in-hospital mortality, but had no effect on one-year risk of death. <ref type="bibr" target="#b35">36</ref> Conversely, post hoc analysis of several clinical trials, as well as data from a large pan-European long-term heart failure registry indicate that known T2DM is a strong predictor of impaired survival, one-year and beyond following hospitalization for acute or worsening chronic heart failure. <ref type="bibr" target="#b6">7,</ref><ref type="bibr" target="#b26">27,</ref><ref type="bibr" target="#b34">35,</ref><ref type="bibr" target="#b36">37</ref> Our findings confirm and extend these observations by demonstrating that, in addition to known T2DM, prediabetes and newly diagnosed T2DM are not only common in patients hospitalized with worsening HFrEF, but also independently associated with impaired long-term survival following heart failure hospitalization. Although common, these abnormalities often remain clinically undetected or underappreciated, and consequently expose the patients to the long-standing risk of heart failure progression. <ref type="bibr" target="#b37">38</ref> In addition, following an episode for acute or worsening HFrEF, patients may become more vulnerable to the harmful effects of dysglycaemia, as suggested by our findings. As compared with normoglycaemic individuals, patients with prediabetes not treated with glucose lowering medications had a substantially higher mortality rate, which strongly supports the notion of a detrimental effect of dysglycaemia per se on heart failure progression.</p><p>Based on our results, and concordant with current guidelines, <ref type="bibr" target="#b14">15,</ref><ref type="bibr" target="#b22">23,</ref><ref type="bibr" target="#b38">39</ref> there are several lines of preventive measures worthy of consideration. First, adopting a widespread screening of heart failure patients without known T2DM with either 2-h OGTT or HbA 1c could decrease the burden of these conditions and enable a timely application of preventive strategies. <ref type="bibr" target="#b22">23</ref> Although optimal management of prediabetes in heart failure remains to be defined, a benefit could be expected from lifestyle modifications (e.g. healthy eating pattern and increased physical activity) with a proven ability to delay the progression to overt T2DM. <ref type="bibr" target="#b39">40</ref> Notably, in a randomized trial assessing the effects of exercise training in patients with HFrEF, patients with diabetes exhibited lower functional capacity and attenuated response to exercise compared with normoglycaemic individuals. <ref type="bibr" target="#b40">41</ref> Despite these limitations, there was no interaction between T2DM and exercise on clinical outcomes (i.e. mortality and hospitalization). <ref type="bibr" target="#b40">41</ref> Recent data suggest that exercise training following an episode of worsening heart failure could be safe and effective in improving functional capacity and endothelial function in heart failure. <ref type="bibr" target="#b41">[42]</ref><ref type="bibr" target="#b42">[43]</ref><ref type="bibr" target="#b43">[44]</ref> It is plausible that patients with prediabetes and HFrEF may be more responsive to the benefits of exercise, but this remains to be determined. In addition, it might be worth assessing whether enhanced glycaemic control with sacubitril/valsartan observed in diabetics with HFrEF could be extended to patients with prediabetes. <ref type="bibr" target="#b44">45</ref> Finally, our results stress the importance of better understanding the role of treatment across a broader range of glucometabolic abnormalities in heart failure, aiming to achieve timely and effective prevention of adverse events.</p><p>There are several limitations of our study. Most importantly, this was a single-centre study with a small number of enrolled patients, which has reduced the statistical power and resulted in high hazard ratios with wide CIs. Exclusion of patients with established T2DM precluded comparing the risk across the whole range of glucometabolic impairments in patients with worsening HFrEF. Also, HbA 1c levels in our patients could not be provided because of a significant proportion of missing data. Furthermore, considering that the assessment of glycaemic status was performed only once, there is a possibility that, in some patients, prediabetes and T2DM were misclassified due to the effects of stress-induced hyperglycaemia and/or reduced insulin sensitivity. Certainly, repeating 2-h OGTT after discharge would have increased the diagnostic accuracy for dysglycaemia. Still, our results are consistent with previous studies in similar patient populations and provide clinically relevant information that needs to be confirmed in a larger study.</p><p>In conclusion, unrecognized prediabetes and T2DM are common in patients hospitalized for worsening chronic HFrEF with NYHA class II-III symptoms and are independently associated with a higher longterm risk of all-cause and cardiovascular mortality. Our results highlight the importance of screening for unrecognized prediabetes and T2DM in the setting of worsening HFrEF. In addition, development of strategies to prevent and/or treat a broader spectrum of glucometabolic abnormalities deserves further consideration with a prospect to improve outcomes in HFrEF.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. The study flow-chart.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 3 .</head><label>3</label><figDesc>Figure 3. Kaplan-Meier curves for all-cause and cardiovascular mortality according to glycaemia status. T2DM: type 2 diabetes mellitus</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 .</head><label>1</label><figDesc>Figure 2. Classification of glycaemia status based on fasting plasma glucose and two-hour oral glucose tolerance test in accordance with the American Diabetes Association Standards of Medical Care in Diabetes Criteria. Baseline clinical characteristics of all patients, and according to glycaemia status.Compared with normoglycaemic individuals (54 AE 12 years), patients with prediabetes (60 AE 11 years) and T2DM (59 AE 12 years) were older (p ¼ 0.045) with more frequent NYHA class III symptoms (prediabetes 62% vs. T2DM 55% vs. normoglycaemia 30%, p ¼ 0.002), lower haemoglobin levels (prediabetes 138 AE 19 g/L vs. T2DM 136 AE 12 g/L vs. normoglycaemia 145AE 16, p ¼ 0.037) and lower estimated glomerular filtration rate (prediabetes 82 AE 32 vs. T2DM 105 AE 59 vs. normoglycaemia 105 AE 39 ml/min per 1.73 m 2</figDesc><table><row><cell>Baseline FPG</cell><cell>2-h-OGTT</cell><cell>Classification of glycaemic status</cell></row><row><cell>FPG &lt;5.6 mmoI/L</cell><cell>n =56</cell><cell>Normoglycaemia</cell></row><row><cell>(n = 118)</cell><cell></cell><cell>(n = 56)</cell></row><row><cell></cell><cell>n =50</cell><cell></cell></row><row><cell>FPG ≥5.6 mmoI/L and &lt;7.0 mmoI/L (n = 28)</cell><cell>n =3* n =12** n =12</cell><cell>Prediabetes IFG* (n =3) IGT** (n =62)</cell></row><row><cell></cell><cell>n =13</cell><cell></cell></row><row><cell>FPG ≥7.0 mmoI/L</cell><cell></cell><cell>T2DM</cell></row><row><cell>(n = 4)</cell><cell>n = 4</cell><cell>(n =29)</cell></row></table><note>*IFG: fasting plasma glucose !5.6 mmol/L and &lt;7.0 mmol/L and normal 2-h OGTT. **IGT: 2-h OGTT ! 7.8 mmol/L and &lt;11.0 mmol/L. IFG: impaired fasting glucose; IGT: impaired glucose tolerance; FPG: fasting plasma glucose; 2-h OGTT: two-hour oral glucose tolerance test; T2DM: type 2 diabetes mellitus glomerular filtration rate; CKD: chronic kidney disease; LVEF: left ventricular ejection fraction; LVEDD: left ventricular end-diastolic dimension; LVESD: left ventricular end-systolic dimension; LAD: left atrial anteroposterior dimension; ACEi: angiotensin converting enzyme inhibitor; ARB: angiotensin receptor blocker</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 .</head><label>2</label><figDesc>Incidence rate and incidence rate ratio of outcome events according to glycaemia status.</figDesc><table><row><cell></cell><cell></cell><cell>Incidence rate</cell><cell>Incidence rate ratio</cell><cell></cell></row><row><cell></cell><cell>No. of</cell><cell>per 100 patient-years</cell><cell>(95% CI) Dysglycaemia</cell><cell></cell></row><row><cell></cell><cell>events (%)</cell><cell>(95% CI)</cell><cell>vs. normoglycaemia a</cell><cell>p-value</cell></row><row><cell>All-cause mortality</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Normoglycaemia n ¼ 56</cell><cell>3 (5.1)</cell><cell>2.5 (0.8-7.7)</cell><cell>-</cell><cell>-</cell></row><row><cell>Prediabetes n ¼ 65</cell><cell>18 (29)</cell><cell>17.3 (10.9-27.4)</cell><cell>3.9 (1.6-10.3)</cell><cell>0.001</cell></row><row><cell>T2DM n ¼ 29</cell><cell>5 (18)</cell><cell>9.7 (4.0-23.2)</cell><cell>12.6 (1.4-60.3)</cell><cell>0.009</cell></row><row><cell>Cardiovascular mortality</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Normoglycaemia n ¼ 56</cell><cell>1 (1.7)</cell><cell>0.8 (0.1-5.9)</cell><cell>-</cell><cell>-</cell></row><row><cell>Prediabetes n ¼ 65</cell><cell>15 (24)</cell><cell>14.4 (8.6-23.9)</cell><cell>4.3 (1.6-13.5)</cell><cell>&lt;0.001</cell></row><row><cell>T2DM n ¼ 29</cell><cell>5 (3.3)</cell><cell>9.7 (4.0-23.2)</cell><cell>10.2 (1.1-50.1)</cell><cell>0.026</cell></row><row><cell cols="2">CI: confidence interval; T2DM: type 2 diabetes mellitus</cell><cell></cell><cell></cell><cell></cell></row></table><note>aComparison between dysglycaemia and normoglycaemia includes: prediabetes vs. normoglycaemia; T2DM vs. normoglycaemia.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3 .</head><label>3</label><figDesc>Cox proportional hazards models of all-cause and cardiovascular mortality according to glycaemia status.</figDesc><table><row><cell></cell><cell></cell><cell cols="2">All-cause mortality</cell><cell></cell><cell cols="3">Cardiovascular mortality</cell><cell></cell></row><row><cell></cell><cell cols="2">Unadjusted analysis</cell><cell>Adjusted analysis</cell><cell></cell><cell>Unadjusted analysis</cell><cell></cell><cell>Adjusted analysis</cell><cell></cell></row><row><cell></cell><cell>HR (95% CI)</cell><cell cols="2">p-value HR (95% CI)</cell><cell cols="2">p-value HR (95% CI)</cell><cell cols="2">p-value HR (95% CI)</cell><cell>p-value</cell></row><row><cell>Normoglycaemia</cell><cell cols="2">1 (reference) -</cell><cell cols="2">1 (reference) -</cell><cell cols="2">1 (reference) -</cell><cell cols="2">1 (reference) -</cell></row><row><cell>Prediabetes</cell><cell>3.8 (1.6-8.8)</cell><cell>0.002</cell><cell>2.6 (1.1-6.3)</cell><cell>0.040</cell><cell>4.2 (1.6-10.9)</cell><cell>0.003</cell><cell>2.9 (1.1-7.9)</cell><cell>0.041</cell></row><row><cell>T2DM</cell><cell>6.7 (1.1-15.9)</cell><cell>0.032</cell><cell>5.3 (1.7-15.3)</cell><cell>0.023</cell><cell>16.5 (2.2-76.2)</cell><cell>0.016</cell><cell>9.7 (2.9-36.7)</cell><cell>0.018</cell></row><row><cell cols="4">HR: hazard ratio; CI: confidence interval; T2DM: type 2 diabetes mellitus</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">Downloaded from https://academic.oup.com/eurjpc/article/26/1/72/5925068 by guest on 19 July 2022</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">European Journal of Preventive Cardiology 26(1) Downloaded from https://academic.oup.com/eurjpc/article/26/1/72/5925068 by guest on 19 July 2022</note>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Author contribution</head><p>AP, AR, JPS, GK, MA and PMS contributed to the conception or design of the work. AP, MP, JPS, IV, IM and IOP contributed to the acquisition, analysis or interpretation of data for the work. AP, MP, AR, JPS and PMS drafted the manuscript. AR, MP and PMS critically revised the manuscript. All gave final approval and agree to be accountable for all aspects of work ensuring integrity and accuracy.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Declaration of conflicting interests</head><p>The author(s) declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Funding</head><p>The author(s) received no financial support for the research, authorship, and/or publication of this article.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Epidemiology and risk profile of heart failure</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Bui</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">B</forename><surname>Horwich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">C</forename><surname>Fonarow</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat Rev Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="30" to="41" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Epidemiology and one-year outcomes in patients with chronic heart failure and preserved, mid-range and reduced ejection fraction: An analysis of the ESC Heart Failure Long-Term Registry</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Chioncel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Lainscak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Seferovic</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Heart Fail</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="1574" to="1585" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Oral glucose tolerance testing in an outpatient heart failure clinic reveals a high proportion of undiagnosed diabetic patients with an adverse prognosis</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Egstrup</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Schou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Gustafsson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Heart Fail</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="319" to="326" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Prevalence of prediabetes and undiagnosed diabetes in patients with HFpEF and HFrEF and associated clinical outcomes</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Kristensen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">S</forename><surname>Jhund</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mmy</forename><surname>Lee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cardiovasc Drugs Ther</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="545" to="549" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Mandatory oral glucose tolerance tests identify more diabetics in stable patients with chronic heart failure: A prospective observational study</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Stevens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Hansen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Vandoren</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetol Metab Syndr</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page">44</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Cardiovascular Disease and Risk Management: Standards of Medical Care in Diabetes-2018</title>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="S86" to="S104" />
+			<date type="published" when="2018">2018</date>
+			<publisher>American Diabetes Association</publisher>
+		</imprint>
+	</monogr>
+	<note>Suppl</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Association between diabetes mellitus and post-discharge outcomes in patients hospitalized with heart failure: Findings from the EVEREST trial</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sarma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Mentz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Kwasny</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Heart Fail</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="194" to="202" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Predicting survival in heart failure: A risk score based on 39 372 patients from 30 studies</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Pocock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Ariti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Mcmurray</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur Heart J</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="1404" to="1413" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Glucose abnormalities heart failure predict poor prognosis in the population-based Reykjavik Study</title>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">S</forename><surname>Thrainsdottir</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Aspelund</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Hardarson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Cardiovasc Prev Rehabil</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="465" to="471" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Characteristics and prognosis of heart failure with improved compared with persistently reduced ejection fraction: A systematic review and meta-analyses</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Jorgensen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Andersson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Vasan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Prev Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="366" to="376" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Prognostic impact of diabetes and prediabetes on survival outcomes in patients with chronic heart failure: A post-hoc analysis of the GISSI-HF (Gruppo Italiano per lo Studio della Sopravvivenza nella Insufficienza Cardiaca-Heart Failure)</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Dauriz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Targher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">L</forename><surname>Temporelli</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Trial. J Am Heart Assoc</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page">e005156</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Risk related to pre-diabetes mellitus and diabetes mellitus in heart failure with reduced ejection fraction: Insights from Prospective Comparison of ARNI With ACEI to Determine Impact on Global Mortality and Morbidity in Heart Failure Trial</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Kristensen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Preiss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">S</forename><surname>Jhund</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circ Heart Fail</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page">e002560</biblScope>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Influence of diabetes on characteristics and outcomes in patients hospitalized with heart failure: A report from the Organized Program to Initiate Lifesaving Treatment in Hospitalized Patients with Heart Failure (OPTIMIZE-HF)</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">H</forename><surname>Greenberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">T</forename><surname>Abraham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">M</forename><surname>Albert</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am Heart J</title>
+		<imprint>
+			<biblScope unit="volume">154</biblScope>
+			<biblScope unit="page" from="277" to="e278" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Clinical presentation, management, and in-hospital outcomes of patients admitted with acute decompensated heart failure with preserved systolic function: A report from the Acute Decompensated Heart Failure National Registry (ADHERE) Database</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">W</forename><surname>Yancy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Lopatin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">W</forename><surname>Stevenson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Coll Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="76" to="84" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure: The Task Force for the diagnosis and treatment of acute and chronic heart failure of the European Society of Cardiology (ESC). Developed with the special contribution of the Heart Failure Association (HFA) of the ESC</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Ponikowski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Voors</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Anker</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur Heart J</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="2129" to="2200" />
+			<date type="published" when="2016">2016. 2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Proposal for a revised definition of dilated cardiomyopathy, hypokinetic non-dilated cardiomyopathy, and its implications for clinical practice: A position statement of the ESC working group on myocardial and pericardial diseases</title>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">M</forename><surname>Pinto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Elliott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Arbustini</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur Heart J</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="1850" to="1858" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Standardization of adult transthoracic echocardiography reporting in agreement with recent chamber quantification, diastolic function, and heart valve disease recommendations: An expert consensus document of the European Association of Cardiovascular Imaging</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Galderisi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Cosyns</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Edvardsen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur Heart J Cardiovasc Imaging</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="1301" to="1310" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Prediction of creatinine clearance from serum creatinine</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Cockcroft</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Gault</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nephron</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="31" to="41" />
+			<date type="published" when="1976">1976</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">American Diabetes Association. 2. Classification and Diagnosis of Diabetes: Standards of Medical Care in Diabetes-2018</title>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="S13" to="S27" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note>Suppl</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">ESC Guidelines on diabetes, pre-diabetes, and cardiovascular diseases developed in collaboration with the EASD: The Task Force on diabetes, pre-diabetes, and cardiovascular diseases of the European Society of Cardiology (ESC) and developed in collaboration with the European Association for the Study of Diabetes (EASD)</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Ryden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Grant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Anker</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur Heart J</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="3035" to="3087" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Importance of events per independent variable in proportional hazards regression analysis. II. Accuracy and precision of regression estimates</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Peduzzi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Concato</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Feinstein</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="1503" to="1510" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Relaxing the rule of ten events per variable in logistic and Cox regression</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Vittinghoff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Mcculloch</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">165</biblScope>
+			<biblScope unit="page" from="710" to="718" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Type 2 diabetes mellitus and heart failure: A position statement from the Heart Failure Association of European Society of Cardiology</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Seferovic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Petrie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">S</forename><surname>Filippatos</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Heart Fail</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="853" to="872" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Glucose and insulin abnormalities relate to functional capacity in patients with congestive heart failure</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Suskin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Mckelvie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Burns</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur Heart J</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="1368" to="1375" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Effect of nesiritide in patients with acute decompensated heart failure</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>O'connor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Starling</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">F</forename><surname>Hernandez</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">365</biblScope>
+			<biblScope unit="page" from="32" to="43" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Serelaxin in addition to standard therapy in acute heart failure: Rationale and design of the RELAX-AHF-2 study</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Teerlink</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Voors</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Ponikowski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Heart Fail</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="800" to="809" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">In-hospital and 1-year mortality associated with diabetes in patients with acute heart failure: Results from the ESC-HFA Heart Failure Long-Term Registry</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Targher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Dauriz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Laroche</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Heart Fail</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="54" to="65" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Comparison of outcomes after hospitalization for worsening heart failure, myocardial infarction, and stroke in patients with heart failure and reduced and preserved ejection fraction</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Kristensen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">S</forename><surname>Jhund</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Kober</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Heart Fail</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="169" to="176" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Influence of nonfatal hospitalization for heart failure on subsequent mortality in patients with chronic heart failure</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Solomon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Dobson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Pocock</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">116</biblScope>
+			<biblScope unit="page" from="1482" to="1487" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">European Society of Cardiology Heart Failure Long-Term Registry (ESC-HF-LT): 1-year follow-up outcomes and differences across regions</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Crespo-Leiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Anker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Maggioni</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Heart Fail</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="613" to="625" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">COPD predicts mortality in HF: The Norwegian Heart Failure Registry</title>
+		<author>
+			<persName><forename type="first">De</forename><surname>Blois</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Simard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Atar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Card Fail</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="225" to="229" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Decreased survival in diabetic patients with heart failure due to systolic dysfunction</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kamalesh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Subramanian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sawada</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Heart Fail</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="404" to="408" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">The effect of diabetes on outcomes of patients with advanced heart failure in the BEST trial</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Domanski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Krause-Steinrauf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Deedwania</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Coll Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="914" to="922" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Prognostic impact of diabetes mellitus in patients with heart failure according to the etiology of left ventricular systolic dysfunction</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Dries</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">K</forename><surname>Sweitzer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Drazner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Coll Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="421" to="428" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Influence of diabetes and diabetes-gender interaction on the risk of death in patients hospitalized with congestive heart failure</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Gustafsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Brendorp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Seibaek</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Coll Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page" from="771" to="777" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Prognostic impact of in-hospital hyperglycemia in hospitalized patients with acute heart failure: Results of the IN-HF (Italian Network on Heart Failure) Outcome registry</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Targher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Dauriz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Tavazzi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">203</biblScope>
+			<biblScope unit="page" from="587" to="593" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Long-term impact of diabetes in patients hospitalized with ischemic and non-ischemic heart failure</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Andersson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Weeke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Pecini</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Scand Cardiovasc J</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page" from="37" to="44" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Clinical diabetic cardiomyopathy: A two-faced disease with restrictive and dilated phenotypes</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Seferovic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">J</forename><surname>Paulus</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur Heart J</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="27" to="27" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">European Guidelines on cardiovascular disease prevention in clinical practice: The Sixth Joint Task Force of the European Society of Cardiology and Other Societies on Cardiovascular Disease Prevention in Clinical Practice (constituted by representatives of 10 societies and by invited experts): Developed with the special contribution of the European Association for Cardiovascular Prevention &amp; Rehabilitation (EACPR)</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">F</forename><surname>Piepoli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">W</forename><surname>Hoes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Agewall</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Prev Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="1" to="96" />
+			<date type="published" when="2016">2016. 2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Reduction in the incidence of type 2 diabetes with lifestyle intervention or metformin</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">C</forename><surname>Knowler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Barrett-Connor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Fowler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">346</biblScope>
+			<biblScope unit="page" from="393" to="403" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Response to exercise training and outcomes in patients with heart failure and diabetes mellitus: Insights from the HF-ACTION Trial</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">Z</forename><surname>Banks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Mentz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Stebbins</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Card Fail</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="485" to="491" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">The influence of aetiology on the benefits of exercise training in patients with heart failure</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Antunes-Correa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Ueno-Pardi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">F</forename><surname>Trevizan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Prev Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="365" to="372" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Chronic heart failure and aging -effects of exercise training on endothelial function and mechanisms of endothelial regeneration: Results from the Leipzig Exercise Intervention in Chronic heart failure and Aging (LEICA) study</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sandri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Viehmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Adams</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Prev Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="349" to="358" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Interval training early after heart failure decompensation is safe and improves exercise tolerance and quality of life in selected patients</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Doletsky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Andreev</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Giverts</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Prev Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="9" to="18" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Effect of sacubitril/valsartan versus enalapril on glycaemic control in patients with heart failure and diabetes: A post-hoc analysis from the PARADIGM-HF trial</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Seferovic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Claggett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">B</forename><surname>Seidelmann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Diabetes Endocrinol</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="333" to="340" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,1242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Plasma Glucose Regulation and Mortality in Korea: A Pooled Analysis of Three Community-Based Cohort Studies</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Nan</forename><forename type="middle">Hee</forename><surname>Kim</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Division of Endocrinology and Metabolism</orgName>
+								<orgName type="department" key="dep2">Department of Internal Medicine</orgName>
+								<orgName type="institution" key="instit1">Korea University Ansan Hospital</orgName>
+								<orgName type="institution" key="instit2">Korea University College of Medicine</orgName>
+								<address>
+									<settlement>Ansan</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Dong-Jun</forename><surname>Kim</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Internal Medicine</orgName>
+								<orgName type="institution" key="instit1">Inje University Ilsan Paik Hospital</orgName>
+								<orgName type="institution" key="instit2">Inje University College of Medicine</orgName>
+								<address>
+									<settlement>Goyang</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName><forename type="first">Seok</forename><forename type="middle">Won</forename><surname>Park</surname></persName>
+							<email>parkys@hanyang.ac.kr</email>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Internal Medicine</orgName>
+								<orgName type="institution" key="instit1">CHA Bundang Medical Center</orgName>
+								<orgName type="institution" key="instit2">CHA University</orgName>
+								<address>
+									<settlement>Seongnam</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jee-Young</forename><surname>Oh</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department" key="dep1">Division of Endocrinology and Metabolism</orgName>
+								<orgName type="department" key="dep2">Department of Internal Medicine</orgName>
+								<orgName type="institution">Ewha Womans University School of Medicine</orgName>
+								<address>
+									<settlement>Seoul</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Joong-Yeol</forename><surname>Park</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department" key="dep1">Division of Endocrinology and Metabolism</orgName>
+								<orgName type="department" key="dep2">Department of Internal Medicine</orgName>
+								<orgName type="institution">University of Ulsan College of Medicine</orgName>
+								<address>
+									<settlement>Seoul</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Chol</forename><surname>Shin</surname></persName>
+							<affiliation key="aff5">
+								<orgName type="department">Institute of Human Genomic Study</orgName>
+								<orgName type="institution" key="instit1">Korea University Ansan Hospital</orgName>
+								<orgName type="institution" key="instit2">Korea University College of Medicine</orgName>
+								<address>
+									<settlement>Ansan</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Hong</forename><forename type="middle">Kyu</forename><surname>Lee</surname></persName>
+							<affiliation key="aff6">
+								<orgName type="department">Department of Internal Medicine</orgName>
+								<orgName type="institution">Eulji University School of Medicine</orgName>
+								<address>
+									<settlement>Seoul</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Yongsoo</forename><surname>Park</surname></persName>
+							<affiliation key="aff7">
+								<orgName type="department" key="dep1">Division of Endocrinology and Metabolism</orgName>
+								<orgName type="department" key="dep2">Department of Internal Medicine and Bioengineering</orgName>
+								<orgName type="institution" key="instit1">Hanyang University Seoul Hospital</orgName>
+								<orgName type="institution" key="instit2">Hanyang University College of Medicine</orgName>
+								<address>
+									<settlement>Seoul</settlement>
+									<country key="KR">Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff8">
+								<orgName type="department" key="dep1">Division of Endocrinology and Metabolism</orgName>
+								<orgName type="department" key="dep2">Department of Internal Medicine and Bioengineering</orgName>
+								<orgName type="institution">Hanyang University Seoul Hospital</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff9">
+								<orgName type="institution">Hanyang University College of Medicine</orgName>
+								<address>
+									<addrLine>222 Wangsimni-ro, Seongdong-gu</addrLine>
+									<postCode>133-791</postCode>
+									<settlement>Seoul</settlement>
+									<country key="KR">Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Plasma Glucose Regulation and Mortality in Korea: A Pooled Analysis of Three Community-Based Cohort Studies</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">B116B62492D65D408712649A63CA6886</idno>
+					<idno type="DOI">10.4093/dmj.2014.38.1.44</idno>
+					<note type="submission">Received: Jun. 20, 2013; Accepted: Aug. 9, 2013</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.1" ident="GROBID" when="2022-07-19T22:44+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Diabetes mellitus</term>
+					<term>Glucose intolerance</term>
+					<term>Mortality</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Background: Although diabetes is a well-known risk factor for death, its impact on cancer death is not clearly understood. Furthermore, it remains controversial whether impaired fasting glucose (IFG) and/or impaired glucose tolerance (IGT) are associated with increased risk of mortality. We investigated the impact of diabetes or glucose tolerance categories on all cause and causespecific mortality. Methods: Mortality analysis was conducted in three population-based cohort studies of 3,801 participants, divided according to fasting plasma glucose (FPG) (normal; stage 1 IFG [5.6≤FPG&lt;6.1 mmol/L]; stage 2 IFG [6.1≤FPG&lt;7.0 mmol/L]; diabetes mellitus [DM]-FPG); or 2-hour glucose after 75 g glucose loading (2hPG) (normal; IGT; DM-2hPG), or a combination of FPG and 2hPG criteria. Results: During a median follow-up of 11.0 years, 474 subjects died from all causes. Hazard ratios (HRs) for all cause death were higher in those with diabetes as defined by either FPG or 2hPG criteria than their normal counterparts (HR, 2.2, 95% confidence interval [CI], 1.6 to 2.9 for DM-FPG; HR, 2.0, 95% CI, 1.5 to 2.7 for DM-2hPG). Similarly, diabetes defined by either FPG or 2hPG was associated with cancer death (HR, 2.9, 95% CI, 1.7 to 5.0; and HR, 2.1, 95% CI, 1.2 to 3.9, respectively). Although neither IFG nor IGT conferred higher risk for death, when combining stage 2 IFG and/or IGT, the risk of all cause death was higher than in subjects with normal glucose regulation (HR, 1.3; 95% CI, 1.0 to 1.6). Conclusion: Diabetes is associated with higher risk of death from all causes and cancer. In subjects without diabetes, stage 2 IFG and/or IGT confers increased risk for mortality.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>INTRODUCTION</head><p>There has been rapid growth in the prevalence of diabetes in recent years, especially in Asia. Indeed, the prevalence of diabetes in Korea increased from 1.5% to 9.9% over the past 40 years <ref type="bibr" target="#b0">[1]</ref>. Diabetes-related mortality data was not included among major leading causes of death in 1983 in South Korea, but in 2011, they ranked as the fourth leading cause of natural death, following malignancy, cerebrovascular disease, and cardiovascular disease (CVD) <ref type="bibr" target="#b1">[2]</ref>. There is increasing concern about the role of diabetes as a risk factor for certain types of cancers, such as pancreas, liver, and colon/rectum <ref type="bibr" target="#b2">[3]</ref>, and for cancer mortality in some population studies <ref type="bibr" target="#b3">[4,</ref><ref type="bibr" target="#b4">5]</ref>. However, diabetes was not associated with increased risk of death from cancer in a male population in the United Kingdom <ref type="bibr" target="#b5">[6]</ref> or in the Second National Health and Nutrition Examination Survey (NHANES II) in the United States <ref type="bibr" target="#b6">[7]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Original Article</head><p>Impaired glucose regulation can be indicated by either impaired fasting glucose (IFG) by the American Diabetes Association (ADA) criteria <ref type="bibr" target="#b7">[8]</ref> or impaired glucose tolerance (IGT) by World Health Organization criteria <ref type="bibr" target="#b8">[9]</ref>. Some epidemiologic studies support the importance of one or the other in predicting mortality <ref type="bibr" target="#b9">[10]</ref>, and a few indicate that neither IFG nor IGT confer increased risk for mortality <ref type="bibr" target="#b11">[11,</ref><ref type="bibr" target="#b12">12]</ref>. Studies evaluating whether cancer mortality is associated with IFG or IGT are limited and highly controversial <ref type="bibr" target="#b5">[6,</ref><ref type="bibr" target="#b6">7,</ref><ref type="bibr" target="#b13">[13]</ref><ref type="bibr" target="#b14">[14]</ref><ref type="bibr" target="#b15">[15]</ref>. In addition, although ADA lowered the cutoff point for normal fasting glucose (NFG) from 6.1 to 5.6 mmol/L <ref type="bibr" target="#b16">[16]</ref>, the prognostic implications of this lower cutoff point are still controversial <ref type="bibr" target="#b17">[17,</ref><ref type="bibr" target="#b18">18]</ref>.</p><p>Although the epidemic of diabetes in Korea is steadily increasing, no longitudinal data exist on the association between glucose tolerance categories and mortality in South Korean population. As an extension of a pooled analysis of four community-based cohort studies in Korea, which had examined fasting and 2-hour glucose after glucose loading <ref type="bibr" target="#b19">[19]</ref>, this study determined the association between glucose tolerance status and all cause and cause specific mortality.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>METHODS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Participants</head><p>Among several population-based cohort studies in Korea, the Yonchon <ref type="bibr" target="#b20">[20]</ref>, Chongup <ref type="bibr" target="#b21">[21]</ref>, and Ansan <ref type="bibr" target="#b22">[22]</ref> studies were selected because each of these studies: 1) was conducted after 1990, 2) included both men and women 30 years or older, 3) used the standard 2-hour 75 g oral glucose tolerance test (OGTT), and 4) included participants with a residence identification number. The Yonchon study was held in 1993 in Yonchon county, a rural area in northern South Korea. The Chongup study was conducted in 1997 in rural southern South Ko-rea, and the Ansan study was conducted in 2000 in an urban area near Seoul, South Korea. All subjects participated in the study voluntarily, and informed consent was obtained from all participants. The appropriate ethics committees approved the protocols of each study. Of 5,139 subjects (Yonchon, n=2,304; Chongup, n=1,105; Ansan, n=1,730), we selected 3,801 subjects whose status of diabetes could be identified by fasting plasma glucose (FPG) and 2-hour glucose after 75 g glucose loading (2hPG) concentrations and previous history of medication for diabetes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study procedure</head><p>Standard anthropometric data and lifestyle factors were collected in all participants. Height and weight measurements were taken while the subjects were barefoot and dressed in light clothing. Blood pressure was measured after subjects had rested for at least 10 minutes. Every subject who had not been diagnosed previously with diabetes was asked to complete a 75 g OGTT. Blood samples were centrifuged on site. Plasma glucose concentration was measured using the glucose oxidase method. Total cholesterol, triglycerides, and high density lipoprotein cholesterol concentrations were measured by enzymatic methods. Each subject's vital status and causes of death as of 31 December 2007 were determined after linking these cohort data with death certificate data from Korean National Statistical Office. ICD-10 codes were used to classify the underlying cause of death as due to cancer (ICD-10 codes C00-C97), CVD (ICD-10 codes I00-I79), and others.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Glucose tolerance categories</head><p>Mortality for various glucose tolerance categories was computed separately based on FPG or 2hPG. FPG ≥7.0 mmol/L or taking diabetes medication was classified as diabetes by FPG criteria (diabetes mellitus [DM]-FPG). Similarly, 2hPG ≥11.1 mmol/L or taking diabetes medication was defined as diabetes by 2hPG criteria (DM-2hPG). A Korean study recently reported that subjects with stage 2 IFG (6.1≤FPG&lt;7.0 mmol/L) showed different clinical characteristics compared to stage 1 IFG (5.6≤FPG&lt;6.1 mmol/L) <ref type="bibr" target="#b19">[19]</ref>. Therefore, as of 2011 the clinical practice guidelines for type 2 diabetes in Korea recommended different screening methods according to stage of IFG <ref type="bibr" target="#b23">[23]</ref>. We divided our IFG participants into two groups according to aforementioned criteria with or without IGT. Similarly, by only 2hPG criteria, normal glucose tolerance (NGT: 2hPG &lt;7.8 mmol/L) or IGT (7.8≤2hPG&lt;11.1 mmol/ Diabetes Metab J 2014;38:44-50 http://e-dmj.org L) with or without IFG was defined by the 2003 ADA criteria <ref type="bibr" target="#b16">[16]</ref>. We also analyzed the mortality according to the combination of FPG and 2hPG criteria (normal glucose regulation I [NGR I]: FPG &lt;5.6 mmol/L [normal fasting glucose, NFG] and 2hPG &lt;7.8 mmol/L; prediabetes: IFG and/or IGT; and diabetes: FPG or 2hPG criteria). In order to compare the prognostic implications of different FPG cutoff points, subjects were also categorized by the higher cutoff point for FPG (6.1 mmol/ L) as NGR II (FPG &lt;6.1 mmol/L and 2hPG &lt;7.8 mmol/L), prediabetes (stage 2 IFG and/or IGT), and diabetes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analysis</head><p>Baseline characteristics were compared among the three study population studies using analysis of variance for numeric variables and a chi-square test for categorical variables. Nonnormally distributed variables such as triglycerides were presented as the median and interquartile range for each group, and differences were tested after logarithmic transformation. For mortality analysis, the period at risk extended from the date of research examination to death or the end of 2007, whichever came first. Cause specific hazard ratios (HRs) for death are presented for cancer and CVD, as these were the leading causes of death. Other causes are not presented because of the few numbers of deaths due to these causes. The effects of the variables of interest on all cause and cause specific mortality were assessed according to the various glu-cose categories in the proportional hazards models. Baseline age, sex, study center, smoking status, systolic blood pressure, dyslipidemia, and body mass index were included in the proportional hazards analysis because of their potential confounding effects on the outcome. Product terms of predictor variables did not significantly improve the regression models and were not included. The assumptions of proportionality were tested log follow-up time interaction terms for each baseline variable. Analyses were performed with SAS software version 9.1 (SAS Institute, Cary, NC, USA).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head><p>Baseline characteristics of the study participants are presented in Table <ref type="table" target="#tab_1">1</ref>. Subjects in Chongup were the oldest, and those in Ansan were the youngest. Those in Chongup had the least favorable metabolic profile among the three cohorts. During a median follow-up of 11.0 years (range, 0.2 to 15.0 years), 474 deaths from all causes occurred among the 3,801 subjects (1,583 men, 2,218 women), of which 111 were attributed to cancer and 106 to CVD. When comparing the subjects with NGR, IFG and/or IGT, and diabetes, the anthropometric and metabolic variables were the worst in those with diabetes, intermediate in IFG and/or IGT compared to NGR (Table <ref type="table" target="#tab_2">2</ref>).</p><p>The multivariate-adjusted HR for death from all causes was about 2-fold higher in subjects with diabetes defined by either FPG or 2hPG criteria than in their normal counterparts, whereas it did not increase in the IFG or IGT groups compared to those with NGR I (Table <ref type="table" target="#tab_3">3</ref>). When prediabetes was defined as IFG and/or IGT, the HR for all-cause death was not higher than those with NGR I (HR, 1.23; 95% CI, 1.00 to 1.52) (Fig. <ref type="figure" target="#fig_0">1</ref>). However, when stage 2 IFG and/or IGT was used to define prediabetes, all-cause death was higher in subjects with prediabetes than NGR II (HR, 1.27; 95% CI, 1.02 to 1.59) (Fig. <ref type="figure" target="#fig_0">1</ref>).</p><p>The HR for cancer death was 2.89 (95% CI, 1.66 to 5.02) and 2.14 (95% CI, 1.18 to 3.90) for subjects with diabetes defined by FPG or 2hPG criteria, respectively, after adjusting for several confounding variables (Table <ref type="table" target="#tab_3">3</ref>). Subjects with stage 2 IFG or IGT had an elevated HR for cancer death, but this finding was not statistically significant (Table <ref type="table" target="#tab_3">3</ref>). Even in subjects with stage 2 IFG and/or IGT, the HR for cancer death was not statistically significant (HR, 1.47; 95% CI, 0.93 to 2.33) (Fig. <ref type="figure" target="#fig_0">1</ref>). Neither di- </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCUSSION</head><p>Compared to Western countries, the proportion of people with diabetes has dramatically increased throughout Asia. People in Asia tend to develop diabetes with a lesser degree of obesity at a younger age, suffer more from complications of diabetes, and die sooner than people in other regions <ref type="bibr" target="#b24">[24]</ref>. This is the first Korean population-based study to show that diabetes, as determined using an OGTT, is associated with increased all cause and cancer mortality.</p><p>Diabetes is a well-known risk factor for all-cause mortality. An increasing number of epidemiologic studies have found that diabetes may alter the risk of developing a variety of cancers <ref type="bibr" target="#b2">[3]</ref> and that diabetes is associated with death from cancer <ref type="bibr" target="#b4">[5,</ref><ref type="bibr" target="#b5">6]</ref>. In agreement with previous publications, this study found that the HR for cancer death was more than 2-fold higher in subjects with diabetes defined by FPG or 2hPG after adjusting for other risk factors such as obesity, which is a confounding factor of cancer mortality. This risk is even higher than the risk reported by the Korean Cancer Prevention Study (KCPS) <ref type="bibr" target="#b3">[4]</ref>. The KCPS reported HRs for cancer death of 1.29 (95% CI, 1.22 to 1.37) in men and 1.23 (95% CI, 1.09 to 1.39) in women with an FPG ≥7.8 mmol/L, compared to subjects with an FPG &lt;5 mmol/L. However, the KCPS did not show the impact of postload hyperglycemia on cancer death. The exact mechanism of increased risk for cancer death in individuals with diabetes is not clear. Insulin resistance and compensatory hyperinsulinemia has been known to promote carcinogenesis, since insulin is an important growth factor for cancer cells <ref type="bibr" target="#b25">[25]</ref>. In recent epidemiologic studies, insulin-like growth factor 1 (IGF-1) has been associated with increased risk of colorectal cancer <ref type="bibr" target="#b26">[26]</ref>, and higher blood IGF-1 levels were observed in prostate and breast cancer <ref type="bibr" target="#b27">[27]</ref>. Direct effects of hyperglycemia via increased oxidative stress and accumulating advanced glycation end-products may play a role in the development of cancer <ref type="bibr" target="#b28">[28]</ref>. Diabetes may also affect the treatment of cancer, as some types of cancer are treated less aggressively in patients with diabetes than in patients without diabetes <ref type="bibr" target="#b29">[29]</ref>. Furthermore, certain glucose-lowering medications may modify the risk and prognosis of cancer <ref type="bibr" target="#b30">[30]</ref>.</p><p>There have been inconsistencies in the prognostic implication of fasting and postload hyperglycemia. Subjects with IFG had a greater impairment in early phase insulin secretion and increased endogenous glucose output, whereas IGT was associated with peripheral insulin resistance. In the Diabetes Epidemiology: Collaborative Analysis of Diagnostic Criteria in Europe (DECODE) study, 2hPG was a stronger risk factor for death than FPG <ref type="bibr" target="#b9">[10]</ref>; however, two other studies showed that neither IFG nor IGT increased the risk for all-cause mortality <ref type="bibr" target="#b11">[11,</ref><ref type="bibr" target="#b12">12]</ref>. The present study also suggested that hyperglycemia according to FPG or 2hPG criteria had a similar risk of death not only in subjects with diabetic glucose ranges, but also in those with nondiabetic glucose ranges. However, the prognostic implication of lowering the IFG cutoff point from 6.1 to 5.6 mmol/L, as proposed in 2003 by the ADA, remains controversial Recently, Kim et al. <ref type="bibr" target="#b18">[18]</ref> showed that stage 2 IFG was associated with future risk of CVD after adjusting for cardiovascular risk factors, whereas stage 1 IFG was not. In accordance with their study, the present finding that subjects with prediabetes, defined as stage 2 IFG and/or IGT, had a higher risk for all cause death suggests that stage 1 and 2 IFG have different prognoses. This difference may be attributed to the higher metabolic risk in subjects with stage 2 IFG than in subjects with NFG, as shown in a baseline study of this population <ref type="bibr" target="#b19">[19]</ref>.  The present study also demonstrated that cancer death did not significantly increase in subjects with stage 2 IFG (HR, 1.54; 95% CI, 0.88 to 2.68) or IGT (HR, 1.43; 95% CI, 0.88 to 2.35) when compared to subjects with NGR II. The association of cancer mortality and IFG and/or IGT is not yet clear. In the NHANES II, IGT was a strong risk factor for cancer mortality (HR, 1.87; 95% CI, 1.06 to 3.31), and in a pooled analysis of three longitudinal studies in Mauritius, Fiji, and Nauru, the HR for cancer death was 8.0 in men with isolated postload hyperglycemia compared to those with NGR (95% CI, 3.6 to 17.9) <ref type="bibr" target="#b13">[13]</ref>. However, two other studies showed that IGT was not associated with increased cancer death, whereas diabetes was <ref type="bibr" target="#b5">[6,</ref><ref type="bibr" target="#b14">14]</ref>. In the DECODE study <ref type="bibr" target="#b15">[15]</ref>, which included 44,655 subjects from a number of European population-based studies, the HR for cancer mortality was 1.13 (95% CI, 1.00 to 1.28) in men and 1.11 (95% CI, 0.94 to 1.3) in women with IFG and/ or IGT, compared to those with NGR. Although there are some inconsistencies, these studies demonstrate the importance of both FPG and 2hPG in predicting fatal cancer even in subjects without diabetes.</p><p>Diabetes is a well-known risk factor for CVD; however, we could not find any relation between death from CVD and diabetes by either FPG or 2hPG criteria. Only subjects with a long duration of diabetes had a high risk of CVD death in a study involving Pima Indians <ref type="bibr" target="#b12">[12]</ref>. Thus, the fact that there was no association between diabetes and CVD death in the present study could be attributed to the short duration of diabetes in the study participants. Other explanations include a limited number of CVD deaths and potential inaccuracies in the causes of death as reported on the death certificate. Compared to deaths from CVD, cancer mortality can be proven more accurately due to the National Cancer Registration Program. Another limitation of this study is the heterogeneity of the three cohort studies used in this pooled analysis. Different ages and lifestyles, which are often found in different residential areas, may be important confounding factors. However, this study adjusted for age, study center, and other risk factors associated with mortality in the regression model to minimize the heterogeneity issue. Nevertheless, this is the first population-based Korean study to evaluate mortality risk according to discrete glucose tolerance categories as defined by a glucose tolerance test.</p><p>In conclusion, diabetes is a significant risk factor for both all cause and cancer mortality, independent of obesity. In those with stage 2 IFG and/or IGT, the rates of all-cause mortality increase relative to NGR II.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CONFLICTS OF INTEREST</head><p>No potential conflict of interest relevant to this article was reported.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1 .</head><label>1</label><figDesc>Fig. 1. Hazard ratios and 95% confidence interval (CI) of death from all causes, cancer, and cardiovascular disease (CVD) according to glucose categories by fasting plasma glucose and 2-hour glucose after 75 g glucose loading criteria. Prediabetes was defined as (A) impaired fasting glucose (IFG) and/or impaired glucose tolerance (IGT), or (B) stage 2 IFG and/or IGT. NRG, normal glucose regulation; DM, diabetes mellitus.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head></head><label></label><figDesc>Epidemiology http://dx.doi.org/10.4093/dmj.2014.38.1.44 pISSN 2233-6079 • eISSN 2233-6087</figDesc><table /><note>Diabetes Metab J 2014;38:44-50 http://e-dmj.org</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 1 .</head><label>1</label><figDesc>Baseline characteristics of the study population</figDesc><table><row><cell>Characteristic</cell><cell>Yonchon (n=1,340)</cell><cell>Chongup (n=1,105)</cell><cell>Ansan (n=1,356)</cell><cell>P value</cell></row><row><cell>Male sex</cell><cell>608 (45.37)</cell><cell>422 (38.19)</cell><cell>553 (40.78)</cell><cell>0.0012</cell></row><row><cell>Age, yr</cell><cell>50.29±12.68</cell><cell>59.02±9.95</cell><cell>45.01±13.77</cell><cell>&lt;0.0001</cell></row><row><cell>BMI, kg/m 2</cell><cell>24.06±3.31</cell><cell>23.77±3.08</cell><cell>23.44±3.19</cell><cell>&lt;0.0001</cell></row><row><cell>WHR</cell><cell>0.87±0.09</cell><cell>0.88±0.06</cell><cell>0.87±0.08</cell><cell>0.0013</cell></row><row><cell>FPG, mmol/L</cell><cell>5.83±1.27</cell><cell>5.34±1.72</cell><cell>5.79±1.33</cell><cell>&lt;0.0001</cell></row><row><cell>PPG, mmol/L</cell><cell>6.54±3.01</cell><cell>7.14±3.2</cell><cell>6.95±3.13</cell><cell>&lt;0.0001</cell></row><row><cell>SBP, mm Hg</cell><cell>125.51±21.29</cell><cell>142.82±23.07</cell><cell>119.41±18.13</cell><cell>&lt;0.0001</cell></row><row><cell>DBP, mm Hg</cell><cell>81.51±13.81</cell><cell>85.36±11.93</cell><cell>75.76±13.61</cell><cell>&lt;0.0001</cell></row><row><cell>TC, mmol/L</cell><cell>4.08±0.83</cell><cell>5.24±0.94</cell><cell>5.03±0.99</cell><cell>&lt;0.0001</cell></row><row><cell>Triglyceride, mmol/L</cell><cell>1.41 (0.97-3.07)</cell><cell>1.62 (1.16-2.35)</cell><cell>1.27 (0.88-1.82)</cell><cell>&lt;0.0001</cell></row><row><cell>HDL-C, mmol/L</cell><cell>0.96±0.31</cell><cell>1.18±0.29</cell><cell>1.19±0.35</cell><cell>&lt;0.0001</cell></row><row><cell>Current smoker</cell><cell>181 (13.51)</cell><cell>322 (29.14)</cell><cell>303 (22.35)</cell><cell>&lt;0.0001</cell></row></table><note>Values are presented as number (%), mean±standard deviation, or median (1st quartile-3rd quartile). BMI, body mass index; WHR, waist-hip ratio; FPG, fasting plasma glucose; PPG, 2-hour glucose after 75 g glucose loading; SBP, systolic blood pressure; DBP, diastolic blood pressure; TC, total cholesterol; HDL-C, high density lipoprotein cholesterol.Diabetes Metab J 2014;38:44-50 http://e-dmj.org</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 2 .</head><label>2</label><figDesc>Characteristics of the subjects according to the glucose tolerance categories</figDesc><table><row><cell>Characteristic</cell><cell>NGR (n=1,821)</cell><cell>IFG and/or IGT (n=1,555)</cell><cell>DM (n=425)</cell><cell>P value</cell></row><row><cell>Male sex</cell><cell>700 (38.44)</cell><cell>658 (42.32)</cell><cell>225 (52.94)</cell><cell>&lt;0.0001</cell></row><row><cell>Age, yr</cell><cell>49.50±13.69</cell><cell>51.18±13.64</cell><cell>56.27±11.42</cell><cell>&lt;0.0001</cell></row><row><cell>BMI, kg/m 2</cell><cell>23.26±2.98</cell><cell>24.08±3.31</cell><cell>24.70±3.45</cell><cell>&lt;0.0001</cell></row><row><cell>WHR</cell><cell>0.86±0.07</cell><cell>0.88±0.08</cell><cell>0.90±0.11</cell><cell>&lt;0.0001</cell></row><row><cell>FPG, mmol/L</cell><cell>4.93±0.47</cell><cell>5.85±0.44</cell><cell>8.21±2.88</cell><cell>&lt;0.0001</cell></row><row><cell>PPG, mmol/L</cell><cell>5.60±0.99</cell><cell>6.86±1.70</cell><cell>13.23±5.92</cell><cell>&lt;0.0001</cell></row><row><cell>SBP, mm Hg</cell><cell>126.94±23.10</cell><cell>128.27±22.06</cell><cell>136.43±23.79</cell><cell>&lt;0.0001</cell></row><row><cell>DBP, mm Hg</cell><cell>79.35±13.55</cell><cell>81.17±13.59</cell><cell>84.45±14.57</cell><cell>&lt;0.0001</cell></row><row><cell>TC, mmol/L</cell><cell>4.70±1.01</cell><cell>4.74±1.04</cell><cell>5.08±1.19</cell><cell>&lt;0.0001</cell></row><row><cell>Triglyceride, mmol/L</cell><cell>1.30 (0.93-1.92)</cell><cell>1.46 (1.02-2.14)</cell><cell>1.92 (1.28-2.71)</cell><cell>&lt;0.0001</cell></row><row><cell>HDL-C, mmol/L</cell><cell>1.14±0.33</cell><cell>1.09±0.33</cell><cell>1.06±0.35</cell><cell>&lt;0.0001</cell></row><row><cell>Current smoker</cell><cell>424 (23.28)</cell><cell>298 (19.16)</cell><cell>84 (19.76)</cell><cell>0.0105</cell></row></table><note>Values are presented as number (%), mean±standard deviation, or median (1st quartile-3rd quartile). NGR, normal glucose regulation; IFG, impaired fasting glucose; IGT, impaired glucose tolerance; DM, diabetes mellitus; BMI, body mass index; WHR, waist-hip ratio; FPG, fasting plasma glucose; PPG, 2-hour glucose after 75 g loading; SBP, systolic blood pressure; DBP, diastolic blood pressure; TC, total cholesterol; HDL-C, high density lipoprotein cholesterol.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 3 .</head><label>3</label><figDesc>Hazard ratios and 95% confidence interval of death from all causes, cancer, and cardiovascular disease according to fasting plasma glucose or 2-hour glucose after 75 g glucose loading concentrations and presence/absence of diabetes</figDesc><table><row><cell></cell><cell>All cause</cell><cell></cell><cell>Cancer</cell><cell></cell><cell>CVD</cell></row><row><cell></cell><cell>Model 1</cell><cell>Model 2</cell><cell>Model 1</cell><cell>Model 2</cell><cell>Model 1</cell><cell>Model 2</cell></row><row><cell>FPG</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>5.6≤FPG&lt;6.1</cell><cell cols="6">0.94 (0.74-1.20) 1.02 (0.80-1.29) 0.60 (0.34-1.06) 0.67 (0.38-1.20) 0.83 (0.51-1.35) 0.82 (0.50-1.34)</cell></row><row><cell>6.1≤FPG&lt;7.0</cell><cell cols="6">1.18 (0.89-1.56) 1.21 (0.91-1.60) 1.33 (0.77-2.29) 1.54 (0.88-2.68) 0.98 (0.54-1.79) 0.87 (0.47-1.59)</cell></row><row><cell>FPG ≥7.0 or known DM</cell><cell cols="6">2.05 (1.57-2.68) 2.16 (1.62-2.87) 2.29 (1.35-3.86) 2.89 (1.66-5.02) 1.10 (0.57-2.11) 0.85 (0.42-1.69)</cell></row><row><cell>2hPG</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>7.8≤2hPG&lt;11.1</cell><cell cols="6">1.28 (1.01-1.62) 1.26 (0.99-1.61) 1.41 (0.87-2.29) 1.43 (0.88-2.35) 1.16 (0.72-1.89) 1.11 (0.68-1.82)</cell></row><row><cell cols="7">2hPG ≥11.1 or known DM 1.92 (1.46-2.51) 2.00 (1.51-2.65) 1.84 (1.03-3.29) 2.14 (1.18-3.90) 1.03 (0.53-1.98) 0.83 (0.41-1.66)</cell></row><row><cell cols="7">Values are presented as hazard ratios (95% confidence interval). Reference group: FPG &lt;5.6 mmol/L, 2hPG &lt;7.8 mmol/L. Model 1,</cell></row><row><cell cols="7">adjusted for age, sex, and study center. Model 2, adjusted for age, sex, study center, body mass index, systolic blood pressure, total</cell></row><row><cell cols="4">cholesterol, high density lipoprotein cholesterol, and smoking status.</cell><cell></cell><cell></cell></row><row><cell cols="7">CVD, cardiovascular disease; FPG, fasting plasma glucose; 2hPG, 2-hour glucose after 75 g glucose loading; DM, diabetes mellitus.</cell></row></table><note>Diabetes Metab J 2014;38:44-50 http://e-dmj.org abetes nor prediabetes was associated with CVD death.</note></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>ACKNOWLEDGMENTS</head><p>This project was supported by a grant from the Korean Diabetes Association (P.Y., 2008). The funding sources had no role in the collection of the data or in the decision to submit the manuscript for publication. The authors wish to thank the members of the Committee on the Epidemiology of Diabetes Mellitus, Korean Diabetes Association.</p></div>
+			</div>
+
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">The epidemiology of diabetes in Korea</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Kim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Metab J</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="303" to="308" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Statistics Korea: Causes of death statistics in 2011</title>
+		<ptr target="http://www.index.go.kr" />
+		<imprint>
+			<date type="published" when="2012-09-13">2012 Sep 13</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Diabetes and Cancer Research Consortium. Diabetes and cancer (1): evaluating the temporal relationship between type 2 diabetes and cancer incidence</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Carstensen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Witte</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Bowker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Lipscombe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">G</forename><surname>Renehan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="1607" to="1618" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Fasting serum glucose level and cancer risk in Korean men and women</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Jee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ohrr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Sull</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Yun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ji</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Samet</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">293</biblScope>
+			<biblScope unit="page" from="194" to="202" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Diabetes mellitus as a predictor of cancer mortality in a large cohort of US adults</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Coughlin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">E</forename><surname>Calle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">R</forename><surname>Teras</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Petrelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Thun</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">159</biblScope>
+			<biblScope unit="page" from="1160" to="1167" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Diabetes and post-load plasma glucose concentration in relation to sitespecific cancer mortality: findings from the original Whitehall study</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">D</forename><surname>Batty</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Shipley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Marmot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">D</forename><surname>Smith</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Causes Control</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="873" to="881" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Abnormal glucose tolerance and the risk of cancer death in the United States</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Saydah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Loria</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Eberhardt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">L</forename><surname>Brancati</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">157</biblScope>
+			<biblScope unit="page" from="1092" to="1100" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Report of the expert committee on the diagnosis and classification of diabetes mellitus</title>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="1183" to="1197" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Definition, diagnosis and classification of diabetes mellitus and its complications. Part 1: diagnosis and classification of diabetes mellitus provisional report of a WHO consultation</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">G</forename><surname>Alberti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">Z</forename><surname>Zimmet</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabet Med</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="539" to="553" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Glucose tolerance and mortality: comparison of WHO and</title>
+		<ptr target="http://e-dmj.org" />
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Metab J</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="44" to="50" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">European Diabetes Epidemiology Group. Diabetes Epidemiology: Collaborative analysis Of Diagnostic criteria in Europe</title>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">354</biblScope>
+			<biblScope unit="page" from="617" to="621" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+	<note>American Diabetes Association diagnostic criteria. The DE-CODE study group</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Cardiometabolic risk in impaired fasting glucose and impaired glucose tolerance: the Atherosclerosis Risk in Communities Study</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Pankow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">K</forename><surname>Kwan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">B</forename><surname>Duncan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">I</forename><surname>Schmidt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Couper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Golden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Ballantyne</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="325" to="331" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Plasma glucose regulation and mortality in pima Indians</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">H</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Pavkov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Looker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">G</forename><surname>Nelson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">H</forename><surname>Bennett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Hanson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Curtis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Sievers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">C</forename><surname>Knowler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="488" to="492" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">All-cause cancer mortality over 15 years in multi-ethnic Mauritius: the impact of diabetes and intermediate forms of glucose tolerance</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Harding</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Soderberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Shaw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">Z</forename><surname>Zimmet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Pauvaday</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kowlessur</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tuomilehto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">G</forename><surname>Alberti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Magliano</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">131</biblScope>
+			<biblScope unit="page" from="2385" to="2393" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Diabetes mellitus, impaired glucose tolerance and mortality among elderly men: the Finnish cohorts of the Seven Countries Study</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Stengard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tuomilehto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Pekkanen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Kivinen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Kaarsalo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Nissinen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Karvonen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="760" to="765" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Diabetes, prediabetes and cancer mortality</title>
+		<author>
+			<persName><forename type="first">X</forename><forename type="middle">H</forename><surname>Zhou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Qiao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Zethelius</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Pyorala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Soderberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Pajak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Stehouwer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Heine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Jousilahti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Ruotolo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Nilsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Calori</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tuomilehto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="1867" to="1876" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+		<respStmt>
+			<orgName>DECODE Study Group.</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Expert Committee on the Diagnosis and Classification of Diabetes Mellitus. Follow-up report on the diagnosis of diabetes mellitus</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Genuth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">G</forename><surname>Alberti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Bennett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Buse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Defronzo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kahn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kitzmiller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">C</forename><surname>Knowler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Lebovitz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Lernmark</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Nathan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Palmer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Rizza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Saudek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Shaw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Steffes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Stern</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tuomilehto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Zimmet</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="3160" to="3167" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Impaired fasting glucose and cardiovascular outcomes in postmenopausal women with coronary artery disease</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Kanaya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Herrington</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Vittinghoff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Bittner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Cauley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hulley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Barrett-Connor</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">142</biblScope>
+			<biblScope unit="page" from="813" to="820" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Impaired fasting glucose and risk of cardiovascular disease in Korean men and women: the Korean Heart Study</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">K</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">H</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">H</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Bae</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Choe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">Y</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">W</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">D</forename><surname>Yun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Baek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Mok</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Jee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="328" to="335" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Committee of the Korean Diabetes Association on the Diagnosis and Classification of Diabetes Mellitus. A report on the diagnosis of intermediate hyperglycemia in Korea: a pooled analysis of four community-based cohort studies</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">Y</forename><surname>Oh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">H</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Moon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Jang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">M</forename><surname>Cho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">H</forename><surname>Song</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">W</forename><surname>Ahn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">A</forename><surname>Sung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">Y</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Shin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">K</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">S</forename><surname>Park</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Res Clin Pract</title>
+		<imprint>
+			<biblScope unit="volume">80</biblScope>
+			<biblScope unit="page" from="463" to="468" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Prevalence of diabetes and IGT in Yonchon County</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Koh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Min</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Yoo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Shin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="545" to="548" />
+			<date type="published" when="1995">1995</date>
+			<publisher>South Korea</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Prevalence of diabetes, impaired glucose tolerance, and impaired fasting glucose in a rural population of Korea, according to 1997 American Diabetes Association and 1985 World Health Organization criteria</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">Y</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">I</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Choi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">E</forename><surname>Chung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">W</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">I</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Hong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">U</forename><surname>Lee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="707" to="708" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Prevalence, awareness, treatment, control and risk factors of hypertension in Korea: the Ansan study</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Jo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Ahn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">R</forename><surname>Shin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">K</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Shin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Hypertens</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="1523" to="1532" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Clinical practice guidelines for type 2 diabetes in Korea</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Ko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Oh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">H</forename><surname>Shim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Woo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">Y</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">H</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">H</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">K</forename><surname>Jeong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">K</forename><surname>Hong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Cho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">O</forename><surname>Mok</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">H</forename><surname>Yoon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Metab J</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="431" to="436" />
+			<date type="published" when="2011">2011. 2011</date>
+			<publisher>Korean Diabetes Association</publisher>
+		</imprint>
+	</monogr>
+	<note>Committee of Clinical Practice Guidelines</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Epidemic obesity and type 2 diabetes in Asia</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">H</forename><surname>Yoon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Cho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">H</forename><surname>Choi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Ko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Zimmet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">Y</forename><surname>Son</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">368</biblScope>
+			<biblScope unit="page" from="1681" to="1688" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Insulin and insulin-like growth factor signalling in neoplasia</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Pollak</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat Rev Cancer</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="915" to="928" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Prospective study of colorectal cancer risk in men and plasma levels of insulin-like growth factor (IGF)-I and IGF-binding protein-3</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">N</forename><surname>Pollak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Giovannucci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Chan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Tao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">H</forename><surname>Hennekens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Stampfer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Natl Cancer Inst</title>
+		<imprint>
+			<biblScope unit="volume">91</biblScope>
+			<biblScope unit="page" from="620" to="625" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Insulin-like growth factor-I in relation to premenopausal ductal carcinoma in situ of the breast</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Bohlke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Cramer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Trichopoulos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Mantzoros</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Epidemiology</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="570" to="573" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Overweight, obesity, and mortality from cancer in a prospectively studied cohort of U.S. adults</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">E</forename><surname>Calle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Rodriguez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Walker-Thurmond</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Thun</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">348</biblScope>
+			<biblScope unit="page" from="1625" to="1638" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Less aggressive treatment and worse overall survival in cancer patients with diabetes: a large population based analysis</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">V</forename><surname>Van De Poll-Franse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Houterman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Janssen-Heijnen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">W</forename><surname>Dercksen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Coebergh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">R</forename><surname>Haak</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">120</biblScope>
+			<biblScope unit="page" from="1986" to="1992" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Diabetes and cancer: a consensus report</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Giovannucci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Harlan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Archer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Bergenstal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Gapstur</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Habel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Pollak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Regensteiner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Yee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="1674" to="1685" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

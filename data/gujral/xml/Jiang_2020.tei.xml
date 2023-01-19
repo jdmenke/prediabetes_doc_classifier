@@ -1,0 +1,821 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Glycemic Measures and Risk of Mortality in Older Chinese: The Guangzhou Biobank Cohort Study</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2020-02-17">17 February 2020.</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Qiang</forename><surname>Chao</surname></persName>
+						</author>
+						<author>
+							<persName><surname>Jiang</surname></persName>
+						</author>
+						<author>
+							<persName><surname>Xu</surname></persName>
+							<idno type="ORCID">0000-0002-0537-922X</idno>
+						</author>
+						<author>
+							<persName><forename type="first">Hing</forename><surname>Tai</surname></persName>
+						</author>
+						<author>
+							<persName><surname>Lam</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Ya</forename><surname>Li</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Wei</forename><forename type="middle">Sen</forename><surname>Zhang</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Feng</forename><surname>Zhu</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">G</forename><forename type="middle">Neil</forename><surname>Thomas</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Kar</forename><forename type="middle">Keung</forename><surname>Cheng</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Lin</forename><surname>Xu</surname></persName>
+						</author>
+						<author>
+							<affiliation>
+								<orgName>1 Guangzhou No.12 Hospital, </orgName>
+								<address><addrLine>Guangzhou 510620, China</addrLine></address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation>
+								<orgName> 2 School of Public Health, Sun Yat-sen University, </orgName>
+								<address><addrLine> Guangzhou, China</addrLine></address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation>
+								<orgName> 3 School of Public Health, the University of Hong Kong, </orgName>
+								<address><addrLine> Hong Kong</addrLine></address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation>
+								<orgName> 4 Institute of Applied Health Research, University of Birmingham,</orgName>
+								<address><addrLine> Birmingham, UK</addrLine></address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Glycemic Measures and Risk of Mortality in Older Chinese: The Guangzhou Biobank Cohort Study</title>
+					</analytic>
+					<monogr>
+						<idno type="ISSN">Print 0021-972X</idno>
+						<imprint>
+							<date type="published" when="2020-02-17">17 February 2020.</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">93F817C266D4CD96B7D4FA15998B1D1B</idno>
+					<idno type="DOI">10.1210/clinem/dgz173</idno>
+					<note type="submission">Received 30 August 2019. Accepted 31 October 2019.</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.1" ident="GROBID" when="2022-07-19T22:44+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Prospective cohort study. Setting: China ADA, American Diabetes Association</term>
+					<term>CI, confidence interval</term>
+					<term>CVD, cardiovascular disease</term>
+					<term>DECODE, Diabetes Epidemiology: Collaborative Analysis of Diagnostic Criteria in Europe</term>
+					<term>FPG, fasting plasma glucose</term>
+					<term>GBCS, Guangzhou Biobank Cohort Study</term>
+					<term>GHHARE, The Guangzhou Health and Happiness Association for the Respectable Elders</term>
+					<term>HbA 1c , hemoglobin A1c</term>
+					<term>HR, hazard ratio</term>
+					<term>IFG, impaired fasting glucose</term>
+					<term>IGT, impaired glucose tolerance</term>
+					<term>OGTT, oral glucose tolerance test</term>
+					<term>T2DM, type 2 diabetes mellitus</term>
+					<term>WC, waist circumference</term>
+					<term>WHO, World Health Organization</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>China has the largest number of people with type 2 diabetes mellitus (T2DM) in the world. Data from previous studies have suggested that up to one-fifth of individuals with diabetes would be missed without an oral glucose tolerance test (OGTT). To date, there is little information on the mortality risk of these individuals.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Objective:</head><p>We estimated the association of different indicators of hyperglycemia with mortality in the general Chinese population.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>T ype 2 diabetes mellitus (T2DM) constitutes a major disease burden <ref type="bibr" target="#b0">(1)</ref>. China has the largest number of diabetic patients in the world and the prevalence is rapidly rising, from &lt;1% in 1980 (2) to 11.6% in 2010 <ref type="bibr" target="#b2">(3,</ref><ref type="bibr" target="#b3">4)</ref>. Identifying individuals with hyperglycemia facilitates early intervention to attenuate the development of complications and reduce the associated mortality <ref type="bibr" target="#b4">(5)</ref>. Current definitions recommend the use of the 2-hour postload glucose levels from the oral glucose tolerance test (OGTT) and hemoglobin A 1c (HbA 1c ) along with fasting plasma glucose (FPG) to diagnose T2DM and prediabetes <ref type="bibr" target="#b5">(6,</ref><ref type="bibr" target="#b6">7)</ref>. The recommendation of 2-hour postload glucose in the diagnosis of T2DM was primarily based on evidence from the western populations that individuals with elevated 2-hour postload glucose had a higher risk of mortality, independent of their fasting glucose levels <ref type="bibr" target="#b5">(6,</ref><ref type="bibr" target="#b7">8)</ref>.</p><p>Although OGTT has been included as 1 of the diagnostic tests for decades <ref type="bibr" target="#b5">(6)</ref>, it is rarely used in health checks or population-based studies for reasons of inconvenience. Previous data suggest that the underuse of OGTT leads to substantial underdiagnosis of diabetes in China <ref type="bibr" target="#b2">(3)</ref>. However, there is no information on the mortality risk of these individuals because previous studies in China on the long-term effect of T2DM on mortality did not measure 2-hour postload glucose <ref type="bibr" target="#b8">(9)</ref>. In the present study, we analyzed data from the Guangzhou Biobank Cohort Study to assess the association of prediabetes and T2DM defined by FPG, 2-hour postload glucose or HbA 1c with all-cause and causespecific mortality.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study subjects</head><p>All participants of the Guangzhou Biobank Cohort Study (GBCS) were recruited and first examined from 2003 to 2008. Details of the GBCS have been reported previously <ref type="bibr" target="#b9">(10,</ref><ref type="bibr" target="#b11">11)</ref>. Briefly, the GBCS is a 3-way collaboration among Guangzhou 12th Hospital and the Universities of Hong Kong, China, and Birmingham, UK. Recruitment of participants was from "The Guangzhou Health and Happiness Association for the Respectable Elders" (GHHARE), a community social and welfare organization. GHHARE is unofficially aligned with the municipal government. Membership is open to Guangzhou permanent residents aged 50 years or older for a nominal fee of 4 CNY (~$US0.50) per month. GHHARE included about 7% of Guangzhou residents in this age group, with branches in all 10 districts of Guangzhou, the capital city of Guangdong province in southern China.</p><p>In the main analyses for the present paper, we used data from participants who returned for the second examination from March 2008 to December 2012, because 2-hour postload glucose was only measured in 1303 participants in the first examination. A computer-assisted questionnaire was used for the face-to-face interviews. Information collected included demographic characteristics, lifestyle, family and personal medical history, and detailed assessment of anthropometrics, blood pressure, fasting plasma glucose, lipids, and inflammatory markers. The Guangzhou Medical Ethics Committee of the Chinese Medical Association approved the study and all participants gave written, informed consent before participation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Glycemic measures</head><p>Both fasting and 2-hour postload glucose levels were measured. An OGTT was not performed for those with selfreported physician diagnosis of diabetes or with glucoselowering treatment. Because of constraints in funding, HbA 1c was measured in 6074 participants only who returned after May 2010. T2DM was defined by FPG ≥7.0 mmol/L, 2-hour postload glucose ≥11.1 mmol/L, or by a history of self-reported physician-diagnosed diabetes (known T2DM). Impaired fasting glucose (IFG) was defined by an FPG level of 5.6 to 6.9 mmol/L by the American Diabetes Association (ADA) <ref type="bibr" target="#b12">(12)</ref>, or 6.0-6.9 mmol/L by the World Health Organization (WHO) <ref type="bibr" target="#b6">(7)</ref>. Impaired glucose tolerance (IGT) was defined by 2-hour postload glucose of 7.8 to 11.0 mmol/L according to the definition by both WHO and ADA <ref type="bibr" target="#b5">(6,</ref><ref type="bibr" target="#b6">7)</ref>. Elevated HbA 1c was defined by an HbA 1c of 5.7 to 6.4% by the ADA, or 6.0 to 6.4 % by the WHO <ref type="bibr" target="#b13">(13)</ref>. Prediabetes was defined as the presence of IFG and/or IGT, and without T2DM. Normoglycemia was defined as values below the cut points for IFG/IGT for ADA or WHO.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Mortality</head><p>Information on underlying causes of deaths up to December 2017 was mostly obtained via record linkage with Death Registry of the Guangzhou Center for Disease Control and Prevention. Causes of death were coded according to the 10th revisions of the International Classification of Diseases by trained nosologists in each hospital. When the death certificates were not issued by medical institutions (and hence might have a quality issue with the coding), the causes of death were verified by Guangzhou Center for Disease Control and Prevention as part of its quality assurance programme by cross-checking medical history and conducting verbal autopsy. From 2015 to 2018, 11 verbal autopsy meetings were conducted in the Guangzhou 12th Hospital to clarify the deaths with unclear causes. A physician panel including 5 chief physicians from various disciplines reviewed all available medical records of the same individuals and assigned in a standard manner a cause of death, with assistance of an epidemiologist in the last meeting for unsettled cases. Causes of deaths were coded using the 10th International Classification of Diseases.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analysis</head><p>Associations of hyperglycemia or glycemic measures with mortality were estimated by Cox regression. Because no evidence of violation for the proportional hazard assumption was found by checking Schoenfeld residuals using the "stphtest" command in STATA, the Cox proportional hazards model was used to calculate adjusted hazard ratios (HRs) with 95% confidence interval (CI). Because the current analysis included participants who attended the second examination from 2008 to 2012, to partly account for potential influence resulting from lost to follow-up for repeated physical examination, we used inverse probability weighting to adjust for nonresponse in estimation of relative mortality risk <ref type="bibr" target="#b14">(14)</ref>. The characteristics for participants in the first examination <ref type="bibr">(2003)</ref><ref type="bibr">(2004)</ref><ref type="bibr">(2005)</ref><ref type="bibr">(2006)</ref><ref type="bibr">(2007)</ref><ref type="bibr">(2008)</ref> and those who returned for the second examination (2008-2012) were similar regarding proportions of men, education level, occupation, smoking, and physical activity, as reported elsewhere <ref type="bibr" target="#b15">(15)</ref>. Potential confounders adjusted for included demographic characteristics (age, sex), socioeconomic position (education and occupation), personal history of cardiovascular disease (CVD) and cancer, smoking status, and clinical parameters that could be common causes of both hyperglycemia and mortality (including body mass index, waist circumference (WC), triglycerides, and systolic blood pressure). Participants who died of any other causes were regarded as censored at the date of death <ref type="bibr" target="#b16">(16,</ref><ref type="bibr" target="#b17">17)</ref>. Those who were alive were right-censored on December 31, 2017. Potential interactions between glycemic status and age group (&lt;65/65+ years), sex, education (primary school or below/secondary school/college or above), and central obesity, defined by a WC ≥80 cm in women and ≥90 cm in men, were checked. Because no significant interaction was found between glycemic measures, as continuous or categorical variables classified by ADA/WHO criteria, and sex, age, education, or WC groups for the association with all-cause CVD or cancer mortality (P for interaction from .08 to .89), the main results pooling men and women together are presented. To enable comparability with other studies, stratified analyses by sex and age group were also conducted. P &lt; .05 was considered statistically significant. All analysis was done by using STATA/IC 14.0.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>Of the 18 104 participants, 165 were excluded because of incomplete information on FPG or 2-hour postload glucose, resulting in 17 939 participants (13 055 women and 4884 men) in this paper. Of the 17 939 participants, after an average follow-up of 7.8 (SD, 1.5) years, 1439 (women 764 [5.9%] and men 675 [13.8%]) deaths were recorded. The numbers of participants and deaths from all-cause, CVD, and cancer are shown in the online repository <ref type="bibr" target="#b18">(18)</ref>. At baseline, the mean age of the participants was 65 (SD, 7.1) years. Table <ref type="table" target="#tab_0">1</ref> shows that, compared with participants without T2DM, those with T2DM were older, had higher socioeconomic position (higher education and nonmanual occupation), more were smokers and alcohol users, and had a lower level of physical activity (all P &lt; .001). Moreover, those with T2DM also had greater WC; higher systolic and diastolic blood pressure; higher levels of triglycerides, fasting, and 2-hour postload glucose; and HbA 1c , and higher prevalence of self-reported history of CVD and cancer (P from &lt;.001 to .02).</p><p>Table <ref type="table" target="#tab_1">2</ref> shows that IFG defined by either WHO or ADA criteria was not associated with all-cause, CVD, or cancer mortality. Participants with known T2DM were associated with about 60% higher risk of all-cause, about 80% higher risk, of CVD and about 30% higher risk of cancer mortality. Compared with normoglycemia, the adjusted HR of all-cause mortality for diabetes defined by FPG using WHO and ADA criteria was 1.48 (95% CI, 1.13-1.94), and 1.49 (95% CI, 1.14-1.96), respectively. One-mmol/L increment in FPG was associated with 10% higher risk of all-cause, 12% higher risk of CVD, and 6% higher risk for cancer mortality. Compared with normal 2-hour postload glucose, IGT was associated with a higher risk of all-cause mortality by 19% (HR, 1.19; 95% CI, 1.04-1.37). New T2DM defined by elevated 2-hour postload glucose was associated with higher risk of all-cause, CVD, and cancer mortality, with the adjusted HR (95% CI) being 1.54 (1.28-1.86), 1.70 (1.25-2.32), and 1.44 (1.07-1.95), respectively. When FPG and 2-hour postload glucose (and potential confounders) were mutually adjusted for each other, the association of 2-hour postload glucose with the risk of all-cause (HR, 1.05; 95% CI, 1.02-1.07), CVD (HR, 1.05; 95% CI, 1.01-1.09), and cancer mortality (HR, 1.04; 95% CI, 1.00-1.08) remained significant, but the association of FPG was attenuated and became nonsignificant <ref type="bibr" target="#b18">(18)</ref>. Furthermore, prediabetes defined by elevated HbA 1c was not associated with allcause or cause-specific mortality risk, and T2DM defined by elevated HbA 1c using either WHO or ADA criteria was associated with CVD mortality only (HR, 2.45; 95% CI, 1.39-4.3, and 2.22, 95% CI, 1.18-4.18, respectively), not with all-cause or cancer mortality (Table <ref type="table" target="#tab_1">2</ref>).</p><p>Among participants with IFG or IGT, one-half (54%) of them had IGT only, 23% had IFG only, and 23% had both IGT and IFG <ref type="bibr" target="#b18">(18)</ref>. Table <ref type="table" target="#tab_2">3</ref> shows that compared with normoglycemia defined by normal fasting and 2-hour postload glucose, IFG only was not associated with all-cause, CVD, or cancer mortality, IGT was associated with a higher risk of all-cause mortality only (HR, 1.17; 95% CI, 1.00-1.38), and the presence of both IGT and IFG was associated with a higher risk of CVD mortality (HR, 1.44; 95% CI, 1.01-2.05) and a marginally significantly higher risk of all-cause mortality (HR, 1.23; 95% CI, 0.98-1.54). In those without known T2DM, 1580 were newly diagnosed with T2DM by the repeated examination. Of the participants with T2DM, 28% were diagnosed by high 2-hour postload glucose only, 3% by high FPG only, and 12% by both high 2-hour postload glucose and FPG <ref type="bibr" target="#b18">(18)</ref>. Table <ref type="table" target="#tab_2">3</ref> shows that T2DM diagnosed by elevated 2-hour postload glucose only was associated with higher risk of all-cause (HR, 1.43; 95% CI, 1.15-1.78) and CVD mortality (HR, 1.51; 95% CI, 1.05-2.17), whereas new T2DM by elevated FPG only was not associated with mortality. As expected, new T2DM defined by both high 2-hour postload glucose and FPG was associated with all-cause (HR, 1.82; 95% CI, 1.35-2.45), CVD (HR, 2.01; 95% CI, 1.22-3.29), and cancer mortality (HR, 1.75; 95% CI, 1.09-2.79).</p><p>Table <ref type="table">4</ref> shows that of participants with normal FPG by ADA (&lt;5.6 mmol/L), 22.7% had IGT and 3% had new diabetes defined by elevated 2-hour postload glucose levels. In such normal FPG, IGT was associated with a marginally higher risk of all-cause mortality (HR, 1.17; 95% CI, 0.99-1.38), and T2DM defined by 2-hour postload glucose levels was associated with a higher risk of all-cause and CVD mortality (HR, 1.68; 95% CI, 1.23-2.28, and 1.78; 95% CI, 1.07-2.95, respectively). However, in participants with normal FPG, no significant association of elevated HbA 1c with mortality was found, although the nonsignificant association with CVD mortality could be due to a small number of participants (HR, 2.02; 95% CI, 0.83-4.93) (Table <ref type="table">4</ref>). In participants with normal 2-hour postload glucose levels, no association of FPG or HbA 1c with all-cause mortality was found <ref type="bibr" target="#b18">(18)</ref>.</p><p>Increasing FPG, 2-hour postload glucose levels and HbA 1c was associated with a higher risk of mortality, and the optimum values for these glycemic measures were 5.0 mmol/L, 6.5 mmol/L, and 6.0%, respectively Figure <ref type="figure">1</ref>  <ref type="bibr" target="#b18">(18)</ref>. Sensitivity analysis showed that the association of hyperglycemia, including T2DM (never vs. known and newly diagnosed T2DM), IFG, IGT, and high HbA 1c with all-cause mortality did not vary by sex and age groups <ref type="bibr" target="#b18">(18)</ref>. Reference <ref type="bibr" target="#b18">(18)</ref> that adding FPG and/or HbA 1c did not improve predictive capability of postload glucose for all-cause mortality (area under the receiver operating characteristic curve increased by 0.001 to 0.002). Among participants with normal fasting glucose, 3.1% had T2DM defined by postload glucose and were associated with a higher risk of all-cause mortality (HR, 1.68; 95% CI, 1.23-2.28). T2DM defined by elevated HbA1c was significantly associated with a higher risk of CVD mortality.</p><p>Our results are consistent with previous studies showing that using fasting glucose only to define T2DM might fail to identify up to one-fifth of the newly diagnosed diabetes <ref type="bibr" target="#b2">(3,</ref><ref type="bibr" target="#b19">19)</ref>, and hyperglycemia defined by 2-hour postload glucose predicted premature death better than that defined by fasting glucose alone <ref type="bibr" target="#b20">(20)</ref><ref type="bibr" target="#b21">(21)</ref><ref type="bibr" target="#b22">(22)</ref><ref type="bibr" target="#b24">(23)</ref>.</p><p>Our study showed that individuals with isolated elevated postload glucose had a higher all-cause mortality risk by 43% (95% CI, 15-78). OGTT is much less frequently used. Using solely FPG to rule out abnormal glucose tolerance would reassure a large proportion of individuals as having normoglycemia, and these individuals are likely to miss the opportunity for preventive interventions. Note that, in our study, the comprehensive glycemia measures at baseline were likely to have helped to deliver a warning to those who were diabetic or had prediabetes and changes in lifestyles or antidiabetic medication might have been taken up in this group. These may lead to a reduced mortality in these individuals and therefore the risk we observed could well be an underestimation of the true effect of postload hyperglycemia on mortality risk.</p><p>In earlier reports from the Diabetes Epidemiology: Collaborative Analysis of Diagnostic Criteria in Europe (DECODE) study, one-half of the patients with newly diagnosed T2DM were defined by the 2-hour postload glucose criteria <ref type="bibr" target="#b25">(24,</ref><ref type="bibr" target="#b26">25)</ref>. In our study, 40% of participants with newly diagnosed T2DM had elevated postload glucose by 2-hour OGTT, and of these participants with postload glucose diabetes, 26% had normal fasting glucose. We found a slightly higher proportion of individuals with newly diagnosed T2DM who had elevated 2-hour postload glucose than that reported in the DECODE study, supporting perhaps a more important role of postload glucose measurement in the diagnosis of diabetes and mortality risk prediction in Chinese patients <ref type="bibr" target="#b1">(2)</ref>.</p><p>In our study, 28% of the participants who had diabetes according to the 2-hour postload glucose criteria were classified as normal according to the fasting glucose criteria. These participants had a 51% higher risk for CVD mortality compared with participants who had strictly normal levels for both fasting and OGTT glucose criteria. Inclusion of the 2-hour postload glucose with the fasting glucose criteria significantly improved predictions. Moreover, our study found that T2DM was associated with a 30% increased risk of total cancer, which was comparable to results from a pooled analysis of 19 prospective cohort studies in the Asia (the HR for cancer mortality from T2DM was 1.26) <ref type="bibr" target="#b27">(26)</ref>. In another previous meta-analysis of studies conducted mainly in the West, T2DM was associated with a 21% higher risk for cancer mortality <ref type="bibr" target="#b28">(27)</ref>. Overall, our findings and others support a robust and reliable association of diabetes with CVD and cancer in the Chinese population.</p><p>HbA1c has been used as an objective marker of average glycemic control in patients with diabetes for many years but has also been recommended by the ADA as a method to diagnose diabetes since 2009 <ref type="bibr" target="#b13">(13)</ref>. However, controversies about the diagnosis of T2DM using HbA 1c exist <ref type="bibr" target="#b29">(28,</ref><ref type="bibr" target="#b30">29)</ref>. On the basis of mortality risk over approximately 8 years of follow-up of those with isolated elevated HbA 1c , our results do not support the use of HbA 1c in addition to OGTT or fasting glucose in risk classification in the community. The adoption of the HbA 1c as a diagnostic method in community settings needs to be further assessed.</p><p>The strengths of our study included comprehensive measurements of glycemic markers especially 2-hour postload glucose level in a large sample, detailed, and accurate information on deaths, and controlling for a wide range of potential confounding factors. However, there were some limitations. First, the duration of follow-up may not be sufficient, especially for some subgroup analyses (ie, subgroups of FPG within participants with normal 2-hour postload glucose levels or groups of HbA 1c ). However, increased mortality risks with the relatively short follow-up highlight the considerable impact on life expectancy from T2DM. Second, only a limited number of participants had both 2-hour postload glucose and HbA1c measured during the first examination <ref type="bibr">(2003)</ref><ref type="bibr">(2004)</ref><ref type="bibr">(2005)</ref><ref type="bibr">(2006)</ref><ref type="bibr">(2007)</ref><ref type="bibr">(2008)</ref>. Thus, we could not compare the effects of progression in these glycemic measures on death. Third, assessments of glycemic status during second examination relied on repeated measurements, but not all participants returned for the second exam-Compared with those who participated in the second examination (who must be and healthy enough to come back), nonparticipants tended to be older and have poorer health status at the first examination <ref type="bibr" target="#b15">(15)</ref>. Such a potential selection bias might have influenced the association between glycemic measures and mortality risk and attenuated the results toward the null. However, we used inverse probability weighting to account for this potential selection bias, although the true effect on mortality risk might be clearer with a longer duration of follow-up.</p><p>In conclusion, our study showed that 28% of participants with T2DM in our cohort were identified by 2-hour postload glucose alone. Participants with elevated 2-hour postload glucose levels had a higher risk of mortality than those with elevated fasting glucose or HbA 1c . The OGTT remains the most valuable test in diagnosing T2DM. Relying only on fasting glucose or HbA 1c misses a substantial proportion of people with higher risk of mortality. Consideration should be given to the use of OGTT, despite being cumbersome, in regular health checks in China.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 . Baseline Demographic Characteristics and Biochemical Parameters of 17 939 Participants Characteristics Type 2 Diabetes by</head><label>1</label><figDesc></figDesc><table><row><cell>e174</cell><cell>Jiang et al.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell>No.</cell><cell>High FPG</cell><cell>High 2-h</cell><cell>Both High Fasting</cell><cell>Self-Reported</cell><cell>P</cell></row><row><cell></cell><cell></cell><cell>(n = 14 233)</cell><cell>Only</cell><cell>Postload</cell><cell>and 2-h Postload</cell><cell>Physician</cell><cell>Value</cell></row><row><cell></cell><cell></cell><cell></cell><cell>(n = 118)</cell><cell>Glucose Only</cell><cell>Glucose (n = 440)</cell><cell>Diagnosed</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>(n = 1022)</cell><cell></cell><cell>(n = 2126)</cell></row><row><cell>Men, % Age a , y</cell><cell></cell><cell>27.4 64.8 (7.1)</cell><cell>33.9 65.9 (7.1)</cell><cell>25.7 67 (6.5)</cell><cell>27.5 65.8 (7)</cell><cell>26.3 67.1 (6.6)</cell><cell>.30 &lt;.001</cell></row><row><cell cols="2">Education (college or</cell><cell>9.1</cell><cell>9.3</cell><cell>9.1</cell><cell>8.6</cell><cell>10.1</cell><cell>&lt;.001</cell></row><row><cell cols="2">above), %</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">Occupation (manual), %</cell><cell>60.4</cell><cell>59.8</cell><cell>59.5</cell><cell>66.3</cell><cell>58.0</cell><cell>&lt;.001</cell></row><row><cell cols="2">Current smokers, %</cell><cell>9.0</cell><cell>11.1</cell><cell>6.3</cell><cell>5.9</cell><cell>6.2</cell><cell>&lt;.001</cell></row><row><cell cols="2">Current drinkers, %</cell><cell>18.5</cell><cell>16.2</cell><cell>17.9</cell><cell>21.0</cell><cell>13.1</cell><cell>&lt;.001</cell></row><row><cell cols="2">IPAQ physical activity</cell><cell>79.1</cell><cell>76.3</cell><cell>72.8</cell><cell>80.2</cell><cell>74.2</cell><cell>&lt;.001</cell></row><row><cell cols="2">(active), % BMI a , kg/m 2 WC a , cm Triglycerides a , mmol/L HDL-cholesterol a ,</cell><cell>23.6 (3.4) 81.5 (9.2) 1.6 (1.1) 1.4 (0.4)</cell><cell>24.9 (3.8) 85.9 (9.9) 1.8 (1.2) 1.4 (0.4)</cell><cell>25.2 (3.6) 85.8 (9) 2.2 (1.6) 1.3 (0.3)</cell><cell>25.7 (3.5) 87.6 (8.4) 2.5 (2.7) 1.3 (0.3)</cell><cell>24.4 (3.5) 84.4 (9.1) 2.1 (1.9) 1.3 (0.3)</cell><cell>&lt;.001 &lt;.001 &lt;.001 &lt;.001</cell></row><row><cell cols="2">mmol/L LDL-cholesterol a , mmol/L Total cholesterol a ,</cell><cell>3.5 (0.8) 5.8 (1.1)</cell><cell>3.5 (0.8) 5.8 (1)</cell><cell>3.6 (0.9) 5.9 (1.1)</cell><cell>3.6 (1) 6 (1.2)</cell><cell>3.4 (0.9) 5.7 (1.2)</cell><cell>&lt;.001 .97</cell></row><row><cell cols="2">mmol/L Systolic blood pressure a ,</cell><cell>129.9 (38.4)</cell><cell>136.1 (19.1)</cell><cell>141.6 (32.1)</cell><cell>142.1 (21.5)</cell><cell>138.3 (29)</cell><cell>&lt;.001</cell></row><row><cell cols="2">mm Hg</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">Diastolic blood pressure a , mm Hg Fasting plasma glucose a ,</cell><cell>72.6 (12.9) 5.1 (0.5)</cell><cell>75.7 (10.9) 7.9 (1.2)</cell><cell>76.2 (10.5) 5.9 (0.6)</cell><cell>77.1 (10.6) 9.3 (3.1)</cell><cell>73.8 (16.5) 7.6 (2.7)</cell><cell>&lt;.001 &lt;.001</cell></row><row><cell cols="2">mmol/L 2-h postload glucose a ,</cell><cell>6.9 (1.7)</cell><cell>8.4 (1.8)</cell><cell>13.1 (1.7)</cell><cell>18.3 (4.8)</cell><cell>9.6 (4.4)</cell><cell>&lt;.001</cell></row><row><cell cols="2">mmol/L HbA1c a,b , %</cell><cell>5.9 (0.5)</cell><cell>6.2 (1.2)</cell><cell>6.4 (0.7)</cell><cell>8.6 (4)</cell><cell>7.3 (1.6)</cell><cell>&lt;.001</cell></row><row><cell cols="2">Self-reported history of</cell><cell>9.3</cell><cell>17.0</cell><cell>13.1</cell><cell>10.5</cell><cell>16.2</cell><cell>&lt;.001</cell></row><row><cell cols="2">CVD, %</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">Self-reported history of</cell><cell>1.7</cell><cell>1.7</cell><cell>1.9</cell><cell>2.1</cell><cell>2.5</cell><cell>.02</cell></row><row><cell cols="2">cancer, %</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table><note>Abbreviations: BMI, body mass index; CVD, cardiovascular disease; HbA1c, hemoglobin A1c; HDL, high-density lipoprotein cholesterol; IPAQ, International Physical Activity Questionnaire; LDL, low-density lipoprotein; WC, waist circumference. a Data were expressed as mean ± SD. b A total of 6074 participants with HbA1c data were analyzed.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 .</head><label>2</label><figDesc>Mortality Rate (per 10 000 Person-Years) and Adjusted HRs of Deaths From All-Cause, Cardiovascular Disease, and Cancer by Indicators in 17 939 Participants of the Guangzhou Biobank Cohort Study Recruited During 2008-2012 and Followed Until December 2017</figDesc><table><row><cell cols="32">(n = 590) 1.32 (1.08-1.6) doi:10.1210/clinem/dgz173 HR (95% CI) a 1.06 (1.02-1.11) c 1.00 1.09 (0.75-1.58) 1.40 (0.92-2.14) 1.27 (1.00-1.62) d 1.00 1.1 (0.86-1.39) 1.42 (0.93-2.18) 1.29 (1.01-1.65)* 1.04 (1.01-1.07) c 1.00 1.19 (0.96-1.47) 1.44 (1.07-1.95) d 1.38 (1.07-1.77) d 1.02 (0.89-1.17) 1.00 0.82 (0.54-1.25) 0.71 (0.39-1.3) 1.20 (0.83-1.72) 1.00 0.69 (0.46-1.03) 0.60 (0.32-1.14) 1.02 (0.68-1.53) 1.00 1.29 (1.04-1.6) d 1.00 1.30 (1.06-1.58) d 1.00 https://academic.oup.com/jcem</cell><cell>e175</cell></row><row><cell></cell><cell>Cancer</cell><cell>Rate</cell><cell>45.0</cell><cell></cell><cell>42.3</cell><cell>48.1</cell><cell>63.3</cell><cell>56.2</cell><cell></cell><cell>41.4</cell><cell>47.8</cell><cell>63.3</cell><cell>56.2</cell><cell>45.0</cell><cell></cell><cell>38.8</cell><cell>49.0</cell><cell>58.8</cell><cell>56.2</cell><cell>42.7</cell><cell>39.4</cell><cell>31.6</cell><cell>32.4</cell><cell>56.2</cell><cell>46.9</cell><cell>31.2</cell><cell>32.4</cell><cell>56.2</cell><cell>42.6</cell><cell>57.6</cell><cell>41.7</cell><cell>56.8</cell><cell>42.0</cell><cell>57.7</cell></row><row><cell>Cardiovascular disease</cell><cell>(n = 500)</cell><cell>Rate HR (95% CI) a</cell><cell>40.6 1.12 (1.08-1.16) b</cell><cell></cell><cell>34.9 1.00</cell><cell>38.9 1.07 (0.7-1.63)</cell><cell cols="2">56.0 1.57 (0.99-2.47) 1.81 (1.44-2.29) b 72.5</cell><cell></cell><cell>34.1 1.00</cell><cell cols="4">39.6 1.12 (0.86-1.45) 1.6 (1.01-2.53) d 56.0 1.85 (1.46-2.35) b 72.5 1.06 (1.03-1.09) b 40.6</cell><cell></cell><cell>30.0 1.00</cell><cell cols="4">43.2 1.21 (0.95-1.53) 1.70 (1.25-2.32) c 55.5 2.02 (1.57-2.6) b 72.5 1.08 (1.03-1.14) c 40.5</cell><cell>19.5 1.00</cell><cell cols="3">20.8 1.07 (0.61-1.87) 2.45 (1.39-4.3) c 51.0 2.58 (1.69-3.95) b 72.5</cell><cell>21.6 1.00</cell><cell cols="3">19.2 0.91 (0.51-1.6) 2.22 (1.18-4.18) d 51.0 2.35 (1.41-3.9) c 72.5</cell><cell cols="2">35.2 1.00 1.76 (1.42-2.18) b 69.2</cell><cell>33.9 1.00 1.73 (1.42-2.11) b 64.4</cell><cell>33.9 1.00 1.72 (1.41-2.12) b 64.9</cell></row><row><cell></cell><cell>All-cause (n = 1439)</cell><cell>Rate HR (95% CI) a</cell><cell>113.9 1.1 (1.07-1.13) b</cell><cell></cell><cell>101.2 1.00</cell><cell cols="3">119.2 1.13 (0.89-1.44) 1.48 (1.13-1.94) c 160.2 1.57 (1.36-1.82) b 178.2</cell><cell></cell><cell>99.8 1.00</cell><cell cols="4">112.9 1.08 (0.92-1.26) 1.49 (1.14-1.96) c 160.2 1.58 (1.37-1.83) b 178.2 1.05 (1.03-1.07) b 113.9</cell><cell></cell><cell cols="5">90.0 1.00 1.19 (1.04-1.37) d 122.8 1.54 (1.28-1.86) b 151.1 1.71 (1.47-2) b 178.2 1.07 (1.02-1.11) c 112.2</cell><cell>74.5 1.00</cell><cell>77.6 1.08 (0.81-1.44)</cell><cell cols="2">94.1 1.17 (0.81-1.69) 1.68 (1.33-2.13) b 178.2</cell><cell>88.1 1.00</cell><cell>69.7 0.84 (0.63-1.13)</cell><cell cols="2">94.1 1.01 (0.68-1.50) 1.45 (1.11-1.91) c 178.2</cell><cell cols="2">102.4 1.00 1.54 (1.35-1.76) b 174.5</cell><cell>99.5 1.00 1.52 (1.35-1.72) b 165.4</cell><cell>99.5 1.00 1.54 (1.36-1.74) b 167.4</cell></row><row><cell></cell><cell></cell><cell>Person-years/No.</cell><cell>FPG, mmol/L 231 362/1439</cell><cell>FPG groups by WHO, mmol/L</cell><cell>&lt;6.1 181 825/1019</cell><cell>6.1-6.9 12 663/83</cell><cell>≥7.0 7426/63</cell><cell>Known T2DM 29 448/274</cell><cell>FPG groups by ADA, mmol/L</cell><cell>&lt;5.6 156 304/866</cell><cell>5.6-6.9 38 185/236</cell><cell>≥7.0 7426/63</cell><cell>Known T2DM 29 448/274</cell><cell>2-h postload glucose, mmol/L 231 362/1439</cell><cell>2-h postload glucose groups, mmol/L</cell><cell>&lt;7.8 129 340/650</cell><cell>7.8-11.0 53 055/357</cell><cell>≥11.1 19 519/158</cell><cell cols="3">Known T2DM HbA1c, e % 1c groups by WHO, e HbA % &lt;6.0 294 48/274 86 623/1439 30 120/128</cell><cell>6.0-6.4 19 554/84</cell><cell>≥6.5 7501/39</cell><cell cols="2">Known T2DM 1c groups by ADA, e HbA % &lt;5.7 29 448/274 16 306/80</cell><cell>5.7-6.4 33 367/132</cell><cell>≥6.5 7501/39</cell><cell>Known T2DM T2DM by FPG only f 29 448/274</cell><cell>No 194 489/998</cell><cell>Yes T2DM by FPG+2-hour postload glucose f 36 873/441</cell><cell>No 18 0761/1102</cell><cell>Yes 50 601/337</cell><cell>T2DM by 2-h postload glucose only</cell><cell>No 182 395/1007</cell><cell>Yes 48 967/432</cell></row></table><note>c Abbreviations: ADA, American Diabetes Association; BMI, body mass index; FPG, fasting plasma glucose; HbA1c, glycosylated hemoglobin A1c; HDL, high-density lipoprotein; T2DM, type 2 diabetes mellitus; WHO, World Health Organization. a Adjusted for age, sex, education, occupation, smoking, BMI, waist circumference, HDL cholesterol, triglycerides, systolic blood pressure, and self-reported history of cancer and cardiovascular disease. b P &lt; .001. c P &lt; .01. d P &lt; .05. e A total of 6074 participants with HbA1c data were analyzed. f T2DM was defined by FPG ≥7.0 mmol/L (by FPG only), 2-h postload glucose ≥11.1 mmol/L (by FPG+2-h postload glucose), or by a history of self-reported physician-diagnosed diabetes (known T2DM).</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3 .</head><label>3</label><figDesc>Mortality Rate (per 10 000 Person-years) and Adjusted HR of Deaths From All-Cause, Cardiovascular Disease, and Cancer by Status of DM, IFG, and IGT a in 17 939 Participants of the Guangzhou Biobank Cohort Study Recruited During 2008-2012 and Followed until December 2017 to the ADA criteria as FPG 5.6-6.9 mmol/L, and IGT as 2-h postload glucose 7.8-11.0 mmol/L; DM was defined as FPG ≥7.0 mmol/L (high FPG), 2-h postload glucose ≥11.1 mmol/L (high 2-h postload glucose), both high fasting and 2-h postload glucose, or self-reported physician diagnosed T2DM; normoglycemia was defined as values below the cut points for IGT and IFG. Adjusted for age, sex, education, occupation, smoking, BMI, waist circumference, HDL-cholesterol, triglycerides, systolic blood pressure, and self-reported history of cancer and cardiovascular disease. Mortality Rate (per 10 000 Person-years) and Adjusted HRs of Deaths From All-Cause, Cardiovascular Disease, and Cancer by 2-h Postload Glucose and HbA1c Status in 12 258 Participants of the Guangzhou Biobank Cohort Study With Normal Fasting Plasma Glucose (&lt;5.6 mmol/L) Recruited During 2008-2012 and Followed Until December 2017 Adjusted for age, sex, education, occupation, smoking, BMI, waist circumference, HDL-cholesterol, triglycerides, systolic blood pressure and self-reported history of cancer and cardiovascular disease.</figDesc><table><row><cell cols="11">(n = 590) 1.39 (1.08-1.80) e176 HR (95% CI) b 1.00 1.07 (0.73-1.56) 1.17 (0.91-1.50) 1.29 (0.92-1.80) 0.85 (0.27-2.69) 1.33 (0.93-1.92) 1.75 (1.09-2.79) c Jiang et al.</cell></row><row><cell></cell><cell>Cancer</cell><cell>Rate</cell><cell>38.3</cell><cell>43.1</cell><cell>47.3</cell><cell>53.0</cell><cell></cell><cell>45.5</cell><cell>54.8</cell><cell>68.3</cell><cell>56.2</cell></row><row><cell>Cardiovascular Disease</cell><cell>(n = 500)</cell><cell>Rate HR (95% CI) b</cell><cell>30.7 1.00</cell><cell>25.7 0.79 (0.48-1.29)</cell><cell cols="2">40.4 1.06 (0.81-1.41) 1.44 (1.01-2.05) c 50.3</cell><cell></cell><cell cols="3">25.1 0.72 (0.18-2.83) 1.51 (1.05-2.17) c 51.6 2.01 (1.22-3.29) d 64.8</cell><cell>72.5 1.96 (1.52-2.53) e</cell></row><row><cell></cell><cell>All-Cause (n = 1439)</cell><cell>Person-years Rate HR (95% CI) b</cell><cell>114 722 89.4 1.00</cell><cell cols="2">14 079 95.2 1.00 (0.77-1.29) 1.17 (1.00-1.38) c 36 563 122.4</cell><cell>15 397 123.6 1.23 (0.98-1.54)</cell><cell></cell><cell cols="3">1634 106.4 0.96 (0.47-1.93) 1.43 (1.15-1.78) d 13 727 140.9 1.82 (1.35-2.45) e 5792 175.4</cell><cell>29 448 178.2 1.71 (1.46-2.00) e</cell></row><row><cell></cell><cell></cell><cell>N (%)</cell><cell>9105 (50.8)</cell><cell>1151 (6.4)</cell><cell>2777 (15.5)</cell><cell>1200 (6.7)</cell><cell></cell><cell>118 (0.7)</cell><cell>1022 (5.7)</cell><cell>440 (2.5)</cell><cell>2126 (11.9)</cell></row><row><cell></cell><cell></cell><cell></cell><cell>Normal</cell><cell>IFG only</cell><cell>IGT only</cell><cell>IFG+IGT</cell><cell>New T2DM by:</cell><cell>High FPG only</cell><cell>High 2-h postload glucose only</cell><cell>Both high fasting and 2-h</cell><cell>postload glucose</cell><cell>Self-reported physician diagnosed</cell></row></table><note>c Abbreviations: ADA, American Diabetes Association; BMI, body mass index; DM, diabetes mellitus; FPG, fasting plasma glucose; HDL, high-density cholesterol; IFG, impaired fasting glucose; IGT, impaired glucose tolerance; T2DM, type 2 diabetes mellitus. a IFG defined according b c P &lt; .05. d P &lt; .01. e P &lt; .001.4. a b P &lt; .01. c P &lt; .05.d</note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">Jiang et al. The Journal of Clinical Endocrinology &amp; Metabolism J Clin Endocrinol Metab, March 2020, 105(3):e171-e180 Downloaded from https://academic.oup.com/jcem/article/105/3/e181/5611199 by University of Michigan user on 01 July 2021</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">doi:10.1210/clinem/dgz173 https://academic.oup.com/jcem e173 Downloaded from https://academic.oup.com/jcem/article/105/3/e181/5611199 by University of Michigan user on 01 July 2021</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">The Journal of Clinical Endocrinology &amp; Metabolism J Clin Endocrinol Metab, March 2020, 105(3):e171-e180 Downloaded from https://academic.oup.com/jcem/article/105/3/e181/5611199 by University of Michigan user on 01 July 2021</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">Downloaded from https://academic.oup.com/jcem/article/105/3/e181/5611199 by University of Michigan user on 01 July 2021</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">The Journal of Clinical Endocrinology &amp; Metabolism J Clin Metab, March 2020, 105(3):e171-e180 Downloaded from https://academic.oup.com/jcem/article/105/3/e181/5611199 by University of Michigan user on 01 July 2021</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">doi:10.1210/clinem/dgz173 https://academic.oup.com/jcem e177 Downloaded from https://academic.oup.com/jcem/article/105/3/e181/5611199 by University of Michigan user on 01 July 2021</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgments</head><p>The Guangzhou Biobank Cohort Study investigators include: Guangzhou No. 12 Hospital: W.S. Zhang, M. Cao, T. Zhu, B. Liu, C.Q. Jiang (co-principal investigator); The University of Hong Kong: C.M. Schooling, S.M. McGhee, G.M. Leung, R. Fielding, T.H. Lam (co-principal investigator); The University of Birmingham: P. Adab, G.N. Thomas, K.K.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Cheng (co-principal investigator).</head><p>Financial Support: This work was funded by the Guangdong Natural Science Foundation (2018A030313140) and the Guangzhou Science and Technology Bureau, Guangzhou, China (201704030132).</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Author Contributions: C.Q.J., L.X., T.H.L., K.K.C., G.N.T., and Y.L.J. have substantial contributions to conception and design, acquisition of funding, data, and interpretation of data; Y.L.J. and L.X. analyzed the data; C.Q.J., L.X., T.H.L., K.K.C., and Y.L.J. drafted the article; C.Q.J., L.X., T.H.L., K.K.C., G.N.T., W.S.Z., F.Z., and Y.L.J. revised it critically for important intellectual content; and all authors contributed to final approval of the paper.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Additional Information</head><p>Correspondence and Reprint Requests: Lin Xu, PhD, or Tai Hing Lam, MD, School of Public Health, Sun Yat-sen University, Guangzhou, Guangdong Province, China. E-mail: xulin27@mail.sysu.edu.cn.</p><p>Disclosure Summary: The authors have nothing to disclose.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data availability:</head><p>The datasets generated during and/or analyzed during the current study are not publicly available but are available from the corresponding author on reasonable request.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Global estimates of the prevalence of diabetes for 2010 and 2030</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Shaw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Sicree</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">Z</forename><surname>Zimmet</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Res Clin Pract</title>
+		<imprint>
+			<biblScope unit="volume">87</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="4" to="14" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Diabetes in Asia: epidemiology, risk factors, and pathophysiology</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Chan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Malik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Jia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Kadowaki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Yajnik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">H</forename><surname>Yoon</surname></persName>
+		</author>
+		<idno type="DOI">10.1210/clinem/dgz173</idno>
+		<ptr target="https://academic.oup.com/jceme179" />
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">301</biblScope>
+			<biblScope unit="issue">20</biblScope>
+			<biblScope unit="page" from="2129" to="2140" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">China Noncommunicable Disease Surveillance Group. Prevalence and control of diabetes in Chinese adults</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>He</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">310</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="948" to="959" />
+			<date type="published" when="2010">2010. 2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">China National Diabetes and Metabolic Disorders Study Group. Prevalence of diabetes among men and women in China</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Weng</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">362</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="1090" to="1101" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Cardiovascular mortality, all-cause mortality, and diabetes incidence after lifestyle intervention for people with impaired glucose tolerance in the Da Qing Diabetes Prevention Study: a 23-year follow-up study</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Diabetes Endocrinol</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="474" to="480" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Report of the expert committee on the diagnosis and classification of diabetes mellitus</title>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="1183" to="1197" />
+			<date type="published" when="1997">1997</date>
+			<publisher>American Diabetes Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">World Health Organization/International Diabetes Federation. Definition and diagnosis of diabetes mellitus and intermediate hyperglycaemia: report of a WHO/IDF consultation. Geneva: World Health Organization</title>
+		<ptr target="https://apps.who.int/iris/handle/10665/43588" />
+		<imprint>
+			<date type="published" when="2006-12-21">2006. 21 December 2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">New diagnostic criteria for diabetes and mortality in older adults. DECODE study group</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Balkau</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">European Diabetes Epidemiology Group. Lancet</title>
+		<imprint>
+			<biblScope unit="volume">353</biblScope>
+			<biblScope unit="issue">9146</biblScope>
+			<biblScope unit="page" from="68" to="69" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">China Kadoorie Biobank Collaborative Group. association between diabetes and causespecific mortality in rural and Urban Areas of China</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Bragg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">V</forename><surname>Holmes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Iona</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">317</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="280" to="289" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">C</forename><surname>Jiang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">N</forename><surname>Thomas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">H</forename><surname>Lam</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>Cohort profile: the Guangzhou Biobank Cohort Study</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="844" to="852" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Liver enzymes and incident diabetes in China: a prospective analysis of 10 764 participants in the Guangzhou Biobank Cohort Study</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Jiang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Schooling</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Zhang</forename><surname>Cheng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Lam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Epidemiol Commun Health</title>
+		<imprint>
+			<biblScope unit="volume">69</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="1040" to="1044" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Standards of medical care in diabetes-2014</title>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="S14" to="S80" />
+			<date type="published" when="2014">2014</date>
+			<publisher>American Diabetes Association</publisher>
+		</imprint>
+	</monogr>
+	<note>Supplement 1</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">Use of glycated haemoglobin (HbA1c) in diagnosis of diabetes mellitus: abbreviated report of a WHO consultation</title>
+		<ptr target="https://apps.who.int/iris/handle/10665/70523" />
+		<imprint>
+			<date type="published" when="2011-12-21">2011. 21 December 2019</date>
+		</imprint>
+	</monogr>
+	<note>World Health Organization</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Handling drop-out in longitudinal studies</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Hogan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Roy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Korkontzelou</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stat Med</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="1455" to="1497" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Adiposity and incident diabetes within 4 years of follow-up: the Guangzhou Biobank Cohort Study</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">H</forename><surname>Lam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">Q</forename><surname>Jiang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabet Med</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="1400" to="1406" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">A note on competing risks in survival data analysis</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Satagopan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Ben-Porat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Berwick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Robson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kutler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>Auerbach</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Cancer</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Competing risks as a multi-state model</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">K</forename><surname>Andersen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">Z</forename><surname>Abildstrom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Rosthøj</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stat Methods Med Res</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="203" to="215" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">Glycaemic measures and risk of mortality in older Chinese: the Guangzhou Biobank Cohort Study</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Xu</surname></persName>
+		</author>
+		<idno type="DOI">10.5061/dryad.mkkwh70v9DryadDigitalRepository2017</idno>
+		<ptr target="https://datadryad.org/stash/dataset/doi:10.5061/dryad.mkkwh70v9DryadDigital" />
+		<imprint>
+			<date type="published" when="2017-09-25">2017. 25 September 2019</date>
+		</imprint>
+	</monogr>
+	<note>Supporting information from</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Plasma glucose and hemoglobin A1c for the detection of diabetes in Chinese adults</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">China Noncommunicable Disease Surveillance Group</title>
+				<imprint>
+			<date type="published" when="2010">2010. 2016</date>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="378" to="386" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">The oral glucose tolerance test, revisited</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Barrett-Connor</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur Heart J</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">16</biblScope>
+			<biblScope unit="page" from="1229" to="1231" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Carnevale Schianca GP. The oral glucose tolerance test (OGTT) revisited</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Bartoli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">P</forename><surname>Fra</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="8" to="12" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">T</forename><surname>Nakagami</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Hyperglycaemia and mortality from all causes and from cardiovascular disease in five populations of Asian origin</title>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="385" to="394" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+		<respStmt>
+			<orgName>DECODA Study Group</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Efficacy and effectiveness of screen and treat policies in prevention of type 2 diabetes: systematic review and metaanalysis of screening tests and interventions</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Barry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Roberts</forename><surname>Oke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Vijayaraghavan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Normansell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Greenhalgh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bmj</title>
+		<imprint>
+			<biblScope unit="volume">356</biblScope>
+			<biblScope unit="page">6538</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Glucose tolerance and mortality: comparison of WHO and American Diabetes Association diagnostic criteria. The DECODE study group</title>
+	</analytic>
+	<monogr>
+		<title level="j">European Diabetes Epidemiology Group</title>
+		<imprint>
+			<biblScope unit="volume">354</biblScope>
+			<biblScope unit="issue">9179</biblScope>
+			<biblScope unit="page" from="617" to="621" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+	<note>Lancet</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Will new diagnostic criteria for diabetes mellitus change phenotype of patients with diabetes? Reanalysis of European epidemiological data. DECODE Study Group on behalf of the European Diabetes Epidemiology Study Group</title>
+	</analytic>
+	<monogr>
+		<title level="j">BMJ</title>
+		<imprint>
+			<biblScope unit="volume">317</biblScope>
+			<biblScope unit="issue">7155</biblScope>
+			<biblScope unit="page" from="371" to="375" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Association between type 2 diabetes and risk of cancer mortality: a pooled analysis of over 771 000 individuals in the Asia Cohort Consortium</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Saito</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">60</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1022" to="1032" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Significantly increased risk of cancer in diabetes mellitus patients: a meta-analysis of epidemiological evidence in Asians and non-Asians</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Noto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Tsujimoto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Noda</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Diabetes Investig</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="24" to="33" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Should glycated haemoglobin (HbA1c) be used to detect people with type 2 diabetes mellitus and impaired glucose regulation</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Mostafa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Davies</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">T</forename><surname>Srinivasan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Carey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Webb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Khunti</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Postgrad Med J</title>
+		<imprint>
+			<biblScope unit="volume">86</biblScope>
+			<biblScope unit="page" from="656" to="662" />
+			<date type="published" when="1021">2010. 1021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">HbA1c blood glucose for the diagnosis of diabetes</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Misra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Garg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">378</biblScope>
+			<biblScope unit="issue">9786</biblScope>
+			<biblScope unit="page" from="104" to="106" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

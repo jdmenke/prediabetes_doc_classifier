@@ -1,0 +1,881 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">The prognostic effect of known and newly detected type 2 diabetes in patients with acute coronary syndrome</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2022-07-19">19 July 2022</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Thorarinn</forename><forename type="middle">A</forename><surname>Bjarnason</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Internal Medicine</orgName>
+								<orgName type="institution">University of Iowa Hospital and Clinics</orgName>
+								<address>
+									<settlement>Iowa City</settlement>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">School of Health Sciences</orgName>
+								<orgName type="institution">University of Iceland</orgName>
+								<address>
+									<settlement>Reykjavik</settlement>
+									<country key="IS">Iceland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Steinar</forename><forename type="middle">O</forename><surname>Hafthorsson</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">School of Health Sciences</orgName>
+								<orgName type="institution">University of Iceland</orgName>
+								<address>
+									<settlement>Reykjavik</settlement>
+									<country key="IS">Iceland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Linda</forename><forename type="middle">B</forename><surname>Kristinsdottir</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">School of Health Sciences</orgName>
+								<orgName type="institution">University of Iceland</orgName>
+								<address>
+									<settlement>Reykjavik</settlement>
+									<country key="IS">Iceland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Erna</forename><forename type="middle">S</forename><surname>Oskarsdottir</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">School of Health Sciences</orgName>
+								<orgName type="institution">University of Iceland</orgName>
+								<address>
+									<settlement>Reykjavik</settlement>
+									<country key="IS">Iceland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Arni</forename><surname>Johnsen</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">School of Health Sciences</orgName>
+								<orgName type="institution">University of Iceland</orgName>
+								<address>
+									<settlement>Reykjavik</settlement>
+									<country key="IS">Iceland</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department" key="dep1">Department of Medicine</orgName>
+								<orgName type="department" key="dep2">Division of Cardiology</orgName>
+								<orgName type="institution">Landspitali the National University Hospital of Iceland</orgName>
+								<address>
+									<settlement>Reykjavik</settlement>
+									<country key="IS">Iceland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName><forename type="first">Karl</forename><surname>Andersen</surname></persName>
+							<email>andersen@landspitali.is</email>
+							<affiliation key="aff1">
+								<orgName type="department">School of Health Sciences</orgName>
+								<orgName type="institution">University of Iceland</orgName>
+								<address>
+									<settlement>Reykjavik</settlement>
+									<country key="IS">Iceland</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department" key="dep1">Department of Medicine</orgName>
+								<orgName type="department" key="dep2">Division of Cardiology</orgName>
+								<orgName type="institution">Landspitali the National University Hospital of Iceland</orgName>
+								<address>
+									<settlement>Reykjavik</settlement>
+									<country key="IS">Iceland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<orgName type="department" key="dep1">Department of Medicine</orgName>
+								<orgName type="department" key="dep2">Division of Cardiology</orgName>
+								<orgName type="institution">National University Hospital of Iceland</orgName>
+								<address>
+									<postCode>IS-101</postCode>
+									<settlement>Landspitali, Reykjavík</settlement>
+									<country key="IS">Iceland</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">The prognostic effect of known and newly detected type 2 diabetes in patients with acute coronary syndrome</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2022-07-19">19 July 2022</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">139172EAC18358F4659190AAE15E311C</idno>
+					<idno type="DOI">10.1177/2048872619849925</idno>
+					<note type="submission">Date received: 22 December 2018; accepted: 22 April 2019</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.1" ident="GROBID" when="2022-07-19T22:43+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Acute coronary syndrome</term>
+					<term>type 2 diabetes</term>
+					<term>survival</term>
+					<term>prognosis Original scientific paper</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Background: Dysglycemia is a well-established risk factor of coronary artery disease. Less is known of the prognostic effect of dysglycemia in acute coronary syndromes (ACSs). The aim of this study was to evaluate the long-term outcome of patients with ACSs according to glucometabolic categories. Methods: Patients with ACSs were consecutively included in the study. Among those with no previous history of type 2 diabetes (T2DM) glucose metabolism was evaluated with fasting glucose in plasma, glycated hemoglobin and a standard 2-h oral glucose tolerance test. Patients were classified having normal glucose metabolism, prediabetes, newly detected T2DM (nT2DM) and previously known T2DM (kT2DM). The clinical outcome parameters were death or myocardial infarction and other major adverse cardiac events (MACEs). Results: A total of 372 ACS patients (male 75.8%, 65.1 years (SD: 11.8)) constituted the study population. The proportion diagnosed with normal glucose metabolism, prediabetes, nT2DM and kT2DM was 20.7%, 46.5%, 6.2% and 26.6%, respectively. The mean follow-up period was 2.9 years. Patients with prediabetes, nT2DM and kT2DM had a hazard ratio of 5.8 (95% confidence interval (CI) 0.8-44.6), 10.9 (95% CI 1.2-98.3) and 14.9 (95% CI 2.0-113.7), respectively, for death/myocardial infarction and 1.4 (95% CI 0.6-3.1), 2.9 (95% CI 1.1-8.0) and 3.3 (95% CI 1.5-7.6), respectively, for a composite of MACEs. Conclusion: Patients with ACS and nT2DM or kT2DM were at increased risk of death/myocardial infarction and MACE compared with patients with normal glucose metabolism after approximately three years of follow-up.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Background</head><p>The global prevalence of type 2 diabetes mellitus (T2DM) has been increasing over the past decades and it is estimated to continue to rise in the future. <ref type="bibr" target="#b0">1,</ref><ref type="bibr" target="#b1">2</ref> T2DM is a wellestablished risk factor for atherosclerosis and is associated with accelerated atherosclerotic plaque formation through insulin resistance and hyperinsulinemia that cause vascular dysfunction, increased reactive oxygen species with vascular inflammation and proliferation of smooth muscle cells. <ref type="bibr" target="#b2">3</ref> Patients with acute coronary syndrome (ACS) and a new diagnosis of dysglycemia have been found to have increased atherosclerotic burden at the time of diagnosis compared with patients with normal glucose metabolism (NGM). This may suggest that the dysglycemia could have remained undiagnosed for months or years before the acute event in these patients. <ref type="bibr" target="#b3">4</ref> Whether previously known or newly detected, T2DM is associated with cardiovascular disease (CVD) and increased mortality in the general population. <ref type="bibr" target="#b4">5,</ref><ref type="bibr" target="#b5">6</ref> Similarly, in patients with both stable coronary artery disease (CAD) and ACS, subgroups with an increased risk of future cardiovascular events have been identified based on a hyperglycemic response on a standard oral glucose tolerance test (OGTT). <ref type="bibr" target="#b6">[7]</ref><ref type="bibr" target="#b7">[8]</ref><ref type="bibr" target="#b8">[9]</ref><ref type="bibr" target="#b9">[10]</ref> However, these studies have relied on the OGTT for identification of dysglycemia rather than a comprehensive assessment of glucometabolic derangements according to current American Diabetes Association (ADA) and World Health Organization (WHO) guidelines.</p><p>Glucometabolic perturbations are very common among patients with stable CAD and ACS, with prevalence of newly detected dysglycemia being more than 60% among ACS patients in previous studies. <ref type="bibr" target="#b10">[11]</ref><ref type="bibr" target="#b11">[12]</ref><ref type="bibr" target="#b12">[13]</ref><ref type="bibr" target="#b13">[14]</ref> Therefore, we set out to evaluate whether the clinical event rate among patients with ACS and previously diagnosed T2DM, newly diagnosed T2DM or prediabetes differed from that of ACS patients with NGM during long-term follow-up.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head><p>Patients admitted to the coronary care unit of Landspitali, the University Hospital of Iceland with the diagnosis of ACS were consecutively included in the study between June 2013 and October 2014. The definition of ACS was according to the joint European Society of Cardiology and American College of Cardiology recommendations considering chest pain, elevated troponins and electrocardiogram changes consistent with ischemia, at least two of which needed to be present for the diagnosis of ACS. <ref type="bibr" target="#b14">15</ref> Patients with cognitive dysfunction, those living in a nursing home or outside the catchment area of the hospital and patients who died during the initial admission were excluded from the study. Informed written consent was obtained from each participant prior to any study related procedures. The study protocol adhered to the principles laid out in the Declaration of Helsinki <ref type="bibr" target="#b15">16</ref> and was approved by the Icelandic Bioethics Committee (VSN: 13-069-S1). Information on prespecified demographic, personal, medication and lifestyle data and events after discharge were obtained from patients during admission, from hospital records and the Icelandic National death registry, Statistics Iceland. <ref type="bibr" target="#b16">17</ref> Patients with a previous history of hypertension and those taking blood pressure lowering medication were classified as having hypertension. Patients with a previous documented history of hypercholesterolemia and those taking HMG-CoA reductase inhibitors (statins) were classified as having hypercholesterolemia. A family history of CAD was determined if any first degree family member had been diagnosed with CAD.</p><p>Patients without prior diagnosis of T2DM underwent an evaluation of their glucose metabolism status. After an overnight fast of at least 10 h, measurements of fasting plasma glucose (FPG) and glycated hemoglobin (HbA1c) were made in addition to a standard OGTT where 2-h plasma glucose (2hPG) was measured after ingesting a solution containing 75 g of glucose. Measurements of glucose metabolism were made during hospitalization, generally three to five days after admission, and repeated three months later. All samples collected for venous plasma glucose measurements were centrifuged and analyzed immediately after blood collection. Glucose levels were determined using reagents, calibrators and Vitros 250/950 analyzers from Ortho Clinical Diagnostics, Rochester, USA and HbA1c levels were determined using reagents, calibrators and Cobas c311 analyzer from Roche, Mannheim, Germany.</p><p>The classification of glucose metabolism was based on the ADA criteria, where prediabetes was defined as HbA1c 5.7-6.4% (39-47 mmol/mol), FPG 5.6-6.9 mmol/l or 2hPG 7.8-11.0 mmol/l and T2DM as HbA1c ⩾6.5% (⩾48 mmol/mol), FPG ⩾7.0 mmol/l or 2hPG ⩾11.1 mmol/l. <ref type="bibr" target="#b17">18</ref> Patients were classified as having newly detected T2DM (nT2DM) if at least two measurements were above the cutpoint for T2DM according to the ADA criteria, while patients with one measurement above the cut-point of T2DM or at least one measurement above the cut-point for prediabetes were classified as having new prediabetes. Patients with all glucose values within normal range were classified as having NGM. Patients with previously known T2DM (kT2DM) were classified as such. Patients diagnosed with prediabetes were treated by lifestyle and dietary counseling during hospitalization. In addition, those with nT2DM were referred for further evaluation and treatment in a specialized outpatient diabetes clinic.</p><p>Normally distributed continuous variables are presented as mean (standard deviation (SD)) and categorical variables are presented as percentage. Comparison between groups of patients with NGM, prediabetes, nT2DM and kT2DM was made using the chi-square test and analysis of variance for categorical and continuous variables, respectively. Multiple Cox proportional hazard regression analysis was applied to detect the association between glucometabolic status and clinical events during follow-up. Adjustments were made for the following risk factors: age, gender, hypertension, hypercholesterolemia, smoking status and body mass index (BMI). Other baseline variables did not affect the outcome in multivariate analysis. Results are reported as hazard ratios with 95% confidence intervals (CIs). Kaplan-Meier curves were made for combined allcause mortality or myocardial infarction (MI) and major adverse cardiovascular events (MACEs), including allcause mortality, MI, stroke, congestive heart failure requiring hospitalization and unstable angina requiring percutaneous coronary intervention, with log rank test to determine significance. The definition of MI as an end point was according to the joint European Society of Cardiology and American College of Cardiology guidelines. <ref type="bibr" target="#b14">15</ref> Poisson regression was used to compare event-rates between glucometabolic groups. The level of statistical significance was set at p&lt;0.05. All statistical analyses were performed using the R software version 3.2.2. <ref type="bibr" target="#b18">19</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>During the study period a total of 639 patients consecutively admitted to the coronary care unit for ACS were considered for inclusion in the study. Before inclusion, 46 patients were excluded due to cognitive impairment, 60 patients because of frailty, 90 were discharged before the OGTT was performed and 60 refused participation. Hence, 383 patients were included in the study. After inclusion 10 patients withdrew consent and one patient was lost to follow-up. The remaining 372 patients constituted the study population.</p><p>The baseline characteristics of the study population are presented in Table <ref type="table" target="#tab_0">1</ref>. The mean age was 65.1 (SD 11.7) years and 75.8% were male. A total of 77 (20.7%), 173 (46.5%) and 23 (6.2%) were diagnosed with NGM, prediabetes and nT2DM, respectively. The remaining 99 patients (26.6%) had previously diagnosed diabetes at admission and were classified as kT2DM (Table <ref type="table" target="#tab_1">2</ref>). A significant difference in age, smoking status, BMI, hypercholesterolemia, hypertension and previous CAD were detected between different glucometabolic groups (Table <ref type="table" target="#tab_1">2</ref>). During admission 4.4%, 24.8%, 30.8%, 26% and 14% of patients had their glucose measurements made on day 2, 3, 4, 5 and 6 or later after admission, respectively. There was no significant difference in FPG or 2hPG measurements made on different days after admission.</p><p>The mean duration of follow-up was 2.9 (range 2.3-4.1) years. A total of 48 patients had either died or presented with MI during the follow-up period and 76 patients presented with MACE. Unadjusted hazard ratio for combined all-cause mortality or MI was 7.1 (95% CI 0.9-54.0), 14.6 (95% CI 1.6-130.3) and 27.1 (95% CI 3.7-199.6) for prediabetes, nT2DM and kT2DM, respectively, compared with patients with NGM and 1.5 (95% CI 0.7-3.3), 3.1 (95% CI 1.1-8.4) and 4.2 (95% CI 2.0-9.1) for prediabetes, nT2DM and kT2DM, respectively, for MACE. After adjusting for conventional CVD risk factors the hazard ratio for combined all-cause mortality or MI was 5.8 (95% CI 0.8-44.6), 10.9 (95% CI 1.2-98.3) and 14.9 (95% CI 2.0-113.7) for prediabetes, nT2DM and kT2DM, respectively, compared with patients with NGM. The adjusted hazard ratio for MACE was 1.4 (95% CI 0.6-3.1), 2.9 (95% CI 1.0-8.0) and 3.3 (95% CI 1.5-7.6) for prediabetes, nT2DM and kT2DM, respectively, compared with patients with NGM (Table <ref type="table" target="#tab_2">3</ref>, Figure <ref type="figure" target="#fig_0">1</ref>(a) and (b)). Figure <ref type="figure" target="#fig_0">1</ref>(a) and (b) show forest plots for adjusted hazard ratio for death or MI and MACE according to glucometabolic status. Combined allcause mortality or MI differed between glucometabolic groups with 4.2, 29.5, 60.3 and 114.2 events per 1000 patient-years among NGM, prediabetes, nT2DM and kT2DM, respectively (p&lt;0.001) (Table <ref type="table" target="#tab_3">4</ref>). Similarly, difference was detected in MACE with 36.0, 54.7, 113.9 and 163.6 events per 1000 patient-years among NGM, prediabetes, nT2DM and kT2DM, respectively (p&lt;0.001).</p><p>Figure <ref type="figure" target="#fig_1">2</ref>(a) and (b) show Kaplan-Meier curves for glucometabolic status and combined all-cause mortality or MI and MACE, respectively (p&lt;0.0001). During hospitalization, no  ACEi: angiotensin-converting enzyme inhibitor; ACS: acute coronary syndrome; ARB: angiotensin II receptor blocker; ASA: acetylsalicylic acid; BMI: body mass index; CABG: coronary artery bypass grafting; CAD: coronary artery disease; CCB: calcium channel blocker; DBP: diastolic blood pressure; FH: family history; kT2DM: previously known type 2 diabetes mellitus; mmol/l: millimoles per liter, NGM: normal glucose metabolism; NSTEMI: non-ST-elevation myocardial infarction; nT2DM: newly detected type 2 diabetes mellitus; PCI: percutaneous coronary intervention; SD: standard deviation; SBP: systolic blood pressure; STEMI: ST-elevation myocardial infarction; UAP: unstable angina pectoris patient was treated with intensive insulin treatment and no patient with prediabetes or nT2DM received insulin in the follow-up period. At discharge, oral diabetes medications were prescribed to 1.3%, 0.6%, 21.7% and 69.7% of patients with NGM, prediabetes, nT2DM and kT2DM, respectively. During the follow-up period, 1.3%, 2.9%, 56.5% and 88.9% of patients with NGM, prediabetes, nT2DM and kT2DM, respectively, were prescribed oral diabetes medications. Metformin was used in 43 patients, sulfonylureas in 27, DDP4 inhibitors in 11, SLGT2 inhibitors in nine, TZDs in three, GLP-1 inhibitors in two and insulin in 22 patients during the follow-up period.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>Cardiovascular disease is the single most common cause of death among patients with T2DM. An increased risk of future cardiovascular events and mortality is observed among patients with MI and hyperglycemia, even below the diabetic threshold. <ref type="bibr" target="#b19">20,</ref><ref type="bibr" target="#b20">21</ref> In our study patients with ACS and kT2DM or nT2DM had a significantly increased risk of death or MI and MACE compared with patients with NGM after approximately three years of follow-up while increased risk was not found in patients with newly detected prediabetes.  Previous studies on dysglycemia in patients with CAD have consistently shown an increased risk of future adverse events, among patients with prediabetes, nT2DM and kT2DM, during 3-10 years of follow-up. <ref type="bibr" target="#b7">8,</ref><ref type="bibr" target="#b21">[22]</ref><ref type="bibr" target="#b22">[23]</ref><ref type="bibr" target="#b23">[24]</ref><ref type="bibr" target="#b24">[25]</ref> However, all of these studies have relied on one single OGTT to classify patients into different glucometabolic groups. As previously shown by our group and others, the diagnostic accuracy of a single OGTT is less than optimal and not according to current ADA and WHO guidelines. <ref type="bibr" target="#b13">14</ref> The main findings of these previous studies have been to identify an increased risk of composite MACE rather than a more robust end point of death/MI used in our study. Also, most of these studies were retrospective analyses performed on registry patients who accordingly were not treated in a uniform manner according to current ACS guidelines and many of them did not receive lifestyle treatment for glucometabolic derangements. The current study was a prospective follow-up study where patients diagnosed with metabolic derangements were treated according to current guideline recommendations with lifestyle intervention and pharmacologic therapy when clinically indicated, all of which are known to affect long-term prognosis favorably. Also, in contrast to some of the previous ones, the current study was done in the modern era of dual antiplatelet therapy in ACS with a high proportion of patients treated invasively. The majority of ST-elevation MI patients (92%) were treated with urgent revascularization (primary percutaneous coronary intervention (PCI) (87%) or urgent coronary artery bypass grafting (CABG) (4.7%)) and an invasive approach was used in 76% of non-ST-elevation MI patients (PCI 60% and CABG 16%). Moreover, a more robust method was used to diagnose prediabetes and nT2DM, where at least two measurements above the diabetic cut off value was required to diagnose nT2DM. This method identified a true high-risk subgroup, which is reflected in higher hazard ratios for all cause death or MI and MACE in the current study than have been found in previous ones on this patient group. The information that  our study adds to the current knowledge is that after almost three years of follow-up, patients with ACS and T2DM, whether known or newly detected, are at significantly increased risk of death or MI and MACE in spite of optimal medical treatment. Unsurprisingly, patients with kT2DM had higher hazard ratio for death or MI and MACE compared with nT2DM in our study. Even though the duration of T2DM was not evaluated it would be expected to involve a longer exposure of the risk factor among patients with kT2DM, attributing to higher morbidity compared with patients with nT2DM. This is reflected in a long-term follow-up of patients with acute MI that demonstrated increased mortality among patients with T2DM compared with patients with NGM 20 years following the MI. <ref type="bibr" target="#b24">25</ref> These results show that metabolic derangements, prediabetes and diabetes are present in the majority of ACS patients and they cause an increased risk of significant clinical events in the nearest future. However, active lifestyle and/or pharmacological intervention will improve the prognosis of these patients. For patients with prediabetes, lifestyle intervention, to promote weight loss with low caloric diet and physical exercise, has shown to reduce the risk of developing T2DM and it has been suggested that pharmacotherapy with metformin can also halt the development of T2DM in prediabetic patients. <ref type="bibr" target="#b25">26,</ref><ref type="bibr" target="#b26">27</ref> Although strict glycemic strategies have not been shown to lower mortality in patients with acute MI and T2DM <ref type="bibr" target="#b27">28</ref> current guidelines recommend that patients with established T2DM and prediabetes should be managed with lifestyle modification and/or medication in order to delay organ damage. Therefore, the identification of metabolic derangements among ACS patients may have important therapeutic implications that could be used to improve long-term outcome. The American Heart Association and ADA recommend dietary counseling and regular physical activity for patients with CAD and T2DM to lose weight and lower cardiovascular risk in addition to strict hypertension and cholesterol management. <ref type="bibr" target="#b28">29</ref> The UK Prospective Diabetes Study was a large study on patients with newly diagnosed T2DM who were assigned to be treated with sulfonylurea or insulin, metformin or dietary restrictions. <ref type="bibr" target="#b29">30</ref> Even though the difference in HbA1c was lost after the first year, a reduction in all-cause mortality and MI was maintained during 10 years of follow-up in the groups treated with medications as compared with the patients who received only dietary recommendations. This phenomenon of long-term risk reduction of future cardiovascular events and death after early strict glycemic control indicates benefit of strict glucose managements, especially in patients of age 60 and younger. The DIGAMI 2 trial showed benefit of metformin in patients with MI and T2DM to reduce risk of non-fatal reinfarction or stroke while, surprisingly, patients treated with strict insulin regimens had an increased risk of death, reinfarction or stroke. <ref type="bibr" target="#b27">28</ref> This suggests that metformin should be part of standard care among patients with T2DM and CAD. The SGLT-2 inhibitors empagliflozin and canagliflozin are glycemic-lowering agents that have been shown to lower risk of death when added to standard care among patients with T2DM. <ref type="bibr" target="#b30">31,</ref><ref type="bibr" target="#b31">32</ref> However, is should be noted the studies on SGLT-2 inhibitors were published after the recruitment period of our study was completed and therefore only a few of our patients received SGLT-2 inhibitors during the follow-up period.</p><p>No increased risk for cardiovascular events was found among ACS patients with newly detected prediabetes even though there was a clear trend in that direction. This could be because of the relatively small sample size and short follow-up period in this study as the progression from prediabetes to T2DM can take several years. Some of the prediabetic patients will regress to NGM, others remain prediabetic for years while yet other patients progress to overt T2DM. In our study only 2.9% of prediabetic patients were prescribed oral diabetes medication during the followup period, which indicates that they were generally well controlled by lifestyle management.</p><p>A limitation of our study is the relatively small sample size especially regarding patients with newly diagnosed prediabetes and T2DM and a relatively short follow-up period as T2DM is a chronic disease that causes chronic organ damage over a long period of time. We were unable to determine the duration of T2DM in each case of kT2DM as this assessment is subject to recall error and inaccuracy. Finally, information regarding low-density lipoprotein cholesterol and high-sensitivity C-reactive protein measurements were not available at baseline.</p><p>In conclusion, ACS patients with kT2DM and nT2DM were at increased risk of death or MI and MACEs compared with ACS patients with NGM after approximately three years of follow-up. These results underscore the importance for clinicians to be aware of potential glucometabolic derangements among patients with ACS and apply appropriate lifestyle recommendations and treatment. ACS patients with T2DM constitute a high-risk group which should be actively evaluated and treated accordingly.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conflict of interest</head><p>The authors declare that there is no conflict of interest.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. Forest plots for adjusted hazard ratio for death or myocardial infarction (a) and major adverse cardiovascular event (b) by glucometabolic status.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2 .</head><label>2</label><figDesc>Figure 2. Kaplan-Meier curves for death or myocardial infarction (a) and major adverse cardiac events (b) by glucometabolic status (p&lt;0.0001).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 .</head><label>1</label><figDesc>Baseline characteristics.</figDesc><table><row><cell>N=372</cell></row></table><note>a Clopidogrel, ticagrelor or prasugrel. ACEi: angiotensin-converting enzyme inhibitor; ARB: angiotensin II receptor blocker; ASA: acetylsalicylic acid; ACS: acute coronary syndrome; BMI: body mass index; CAD: coronary artery disease; CCB: calcium channel blocker; DBP: diastolic blood pressure; FH: family history; NSTEMI: non-ST elevation myocardial infarct; SD: standard deviation; SBP: systolic blood pressure; STEMI: ST elevation myocardial infarct; UAP: unstable angina pectoris. Downloaded from https://academic.oup.com/ehjacc/article/9/6/608/6125589 by guest on 19 July 2022</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 .</head><label>2</label><figDesc>Pertinent characteristics of patients divided according to their glucose metabolism.</figDesc><table><row><cell></cell><cell>NGM</cell><cell>Prediabetes</cell><cell>nT2DM</cell><cell>kT2DM</cell><cell>p-value</cell></row><row><cell></cell><cell>n=77</cell><cell>n=173</cell><cell>n=23</cell><cell>n=99</cell><cell></cell></row><row><cell>Age, years (SD)</cell><cell>63.0 (12.4)</cell><cell>64.3 (10.7)</cell><cell>64.2 (11.9)</cell><cell>68.4 (12.4)</cell><cell>0.011</cell></row><row><cell>Gender</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>0.288</cell></row><row><cell>-Male</cell><cell>83.1%</cell><cell>75.1%</cell><cell>78.3%</cell><cell>70.7%</cell><cell></cell></row><row><cell>-Female</cell><cell>16.9%</cell><cell>24.9%</cell><cell>21.7%</cell><cell>29.3%</cell><cell></cell></row><row><cell>BMI, kg/m 2 (SD)</cell><cell>28.0 (4.0)</cell><cell>28.9 (4.2)</cell><cell>30.4 (4.8)</cell><cell>30.6 (5.3)</cell><cell>0.001</cell></row><row><cell>Smoking status</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>0.025</cell></row><row><cell>-Never</cell><cell>42.9%</cell><cell>27.2%</cell><cell>26.1%</cell><cell>24.2%</cell><cell></cell></row><row><cell>-Previous</cell><cell>44.2%</cell><cell>43.9%</cell><cell>39.1%</cell><cell>53.5%</cell><cell></cell></row><row><cell>-Current</cell><cell>13%</cell><cell>28.9%</cell><cell>34.8%</cell><cell>22.2%</cell><cell></cell></row><row><cell>FH of CAD</cell><cell>67.5%</cell><cell>64.2%</cell><cell>65.2%</cell><cell>55.7%</cell><cell>0.386</cell></row><row><cell>Hypercholesterolemia</cell><cell>47.4%</cell><cell>42.8%</cell><cell>47.8%</cell><cell>74.7%</cell><cell>&lt;0.001</cell></row><row><cell>Total cholesterol during follow-up,</cell><cell>3.8 (0.9)</cell><cell>4.0 (0.9)</cell><cell>4.0 (0.8)</cell><cell>4.0 (1.1)</cell><cell>0.326</cell></row><row><cell>mmol/l, mean (SD)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Hypertension</cell><cell>51.3%</cell><cell>59.0%</cell><cell>56.5%</cell><cell>84.8%</cell><cell>&lt;0.001</cell></row><row><cell>-SBP, mmHg (SD)</cell><cell>138 (20)</cell><cell>140 (23)</cell><cell>135 (18)</cell><cell>145 (21)</cell><cell>0.073</cell></row><row><cell>-DBP, mmHg (SD)</cell><cell>77 (12)</cell><cell>78 (13)</cell><cell>75 (11)</cell><cell>77 (12)</cell><cell>0.756</cell></row><row><cell>Previous CAD</cell><cell>35.5%</cell><cell>30.6%</cell><cell>39.1%</cell><cell>55.6%</cell><cell>0.001</cell></row><row><cell>ACS</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>0.055</cell></row><row><cell>-UAP</cell><cell>29.8%</cell><cell>26.6%</cell><cell>34.8%</cell><cell>28.3%</cell><cell></cell></row><row><cell>-NSTEMI</cell><cell>42.9%</cell><cell>38.7%</cell><cell>30.4%</cell><cell>54.5%</cell><cell></cell></row><row><cell>-STEMI</cell><cell>27.3%</cell><cell>34.7%</cell><cell>34.8%</cell><cell>17.2%</cell><cell></cell></row><row><cell>Killip class</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>0.473</cell></row><row><cell>-I</cell><cell>59.0%</cell><cell>60.0%</cell><cell>68.2%</cell><cell>47.9%</cell><cell></cell></row><row><cell>-II</cell><cell>36.1%</cell><cell>33.6%</cell><cell>27.3%</cell><cell>49.3%</cell><cell></cell></row><row><cell>-III</cell><cell>4.9%</cell><cell>5.0%</cell><cell>4.5%</cell><cell>1.4%</cell><cell></cell></row><row><cell>-IV</cell><cell>0.0%</cell><cell>1.4%</cell><cell>0.0%</cell><cell>1.4%</cell><cell></cell></row><row><cell>Medications at discharge</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>-ASA</cell><cell>92.9%</cell><cell>93.6%</cell><cell>95.7%</cell><cell>91.9%</cell><cell>0.894</cell></row><row><cell>-Other antiplatelet therapy a</cell><cell>75.3%</cell><cell>75.1%</cell><cell>78.3%</cell><cell>47.7%</cell><cell>0.988</cell></row><row><cell>-ACEi/ARB</cell><cell>45.5%</cell><cell>56.6%</cell><cell>69.6%</cell><cell>70.7%</cell><cell>0.005</cell></row><row><cell>-Beta-blocker</cell><cell>80.5%</cell><cell>90.2%</cell><cell>95.7%</cell><cell>87.9%</cell><cell>0.108</cell></row><row><cell>-CCB</cell><cell>9.1%</cell><cell>9.2%</cell><cell>13.0%</cell><cell>35.4%</cell><cell>&lt;0.001</cell></row><row><cell>-Statin</cell><cell>97.4%</cell><cell>97.1%</cell><cell>100.0%</cell><cell>94.9%</cell><cell>0.576</cell></row><row><cell>-Oral diabetes medication</cell><cell>1.3%</cell><cell>0.6%</cell><cell>21.7%</cell><cell>69.7%</cell><cell>&lt;0.001</cell></row><row><cell>-Insulin</cell><cell>0%</cell><cell>0%</cell><cell>0%</cell><cell>33.3%</cell><cell>&lt;0.001</cell></row><row><cell>Extent of CAD, 70% luminal</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>narrowing</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>-0 vessel disease</cell><cell>11.7%</cell><cell>5.8%</cell><cell>0%</cell><cell>5.1%</cell><cell>&lt;0.001</cell></row><row><cell>-1 vessel disease</cell><cell>53.2%</cell><cell>37.2%</cell><cell>31.8%</cell><cell>27.3%</cell><cell></cell></row><row><cell>-2 vessel disease</cell><cell>16.9%</cell><cell>33.7%</cell><cell>36.4%</cell><cell>26.3%</cell><cell></cell></row><row><cell>-3 vessel disease</cell><cell>16.9%</cell><cell>19.2%</cell><cell>31.8%</cell><cell>31.3%</cell><cell></cell></row><row><cell>-Not assessed</cell><cell>1.3%</cell><cell>4.1%</cell><cell>0%</cell><cell>10.1%</cell><cell></cell></row><row><cell>Revascularization treatment</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>-PCI</cell><cell>64.9%</cell><cell>68.8%</cell><cell>73.9%</cell><cell>58.6%</cell><cell></cell></row><row><cell>-CABG</cell><cell>11.7%</cell><cell>14.5%</cell><cell>8.7%</cell><cell>18.2%</cell><cell>0.53</cell></row><row><cell>-Neither</cell><cell>23.4%</cell><cell>16.8%</cell><cell>17.4%</cell><cell>23.2%</cell><cell></cell></row></table><note>a Clopidogrel, ticagrelor or prasugrel.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3 .</head><label>3</label><figDesc>Risk of adverse outcomes between glucometabolic status.</figDesc><table><row><cell></cell><cell>Unadjusted HR</cell><cell>95% CI</cell><cell>p-value</cell><cell>Adjusted HR</cell><cell>95% CI</cell><cell>p-value</cell></row><row><cell>Death/MI</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>NGM</cell><cell>1.0</cell><cell>-</cell><cell>-</cell><cell>1.0</cell><cell>-</cell><cell>-</cell></row><row><cell>Prediabetes</cell><cell>7.1</cell><cell>0.9-54.0</cell><cell>0.057</cell><cell>5.8</cell><cell>0.8-44.6</cell><cell>0.089</cell></row><row><cell>nT2DM</cell><cell>14.6</cell><cell>1.6-130.3</cell><cell>0.017</cell><cell>10.9</cell><cell>1.2-98.3</cell><cell>0.034</cell></row><row><cell>kT2DM</cell><cell>27.1</cell><cell>3.7-199.6</cell><cell>0.001</cell><cell>14.9</cell><cell>2.0-113.7</cell><cell>0.009</cell></row><row><cell>MACE</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>NGM</cell><cell>1.0</cell><cell>-</cell><cell>-</cell><cell>1.0</cell><cell>-</cell><cell>-</cell></row><row><cell>Prediabetes</cell><cell>1.5</cell><cell>0.7-3.3</cell><cell>0.316</cell><cell>1.4</cell><cell>0.6-3.1</cell><cell>0.436</cell></row><row><cell>nT2DM</cell><cell>3.1</cell><cell>1.1-8.4</cell><cell>0.031</cell><cell>2.9</cell><cell>1.1-8.0</cell><cell>0.046</cell></row><row><cell>kT2DM</cell><cell>4.2</cell><cell>2.0-9.1</cell><cell>&lt;0.001</cell><cell>3.3</cell><cell>1.5-7.6</cell><cell>0.004</cell></row><row><cell cols="7">CI: confidence interval; HR: hazard ratio; kT2DM: known type 2 diabetes mellitus; MACE: major adverse cardiac event; MI: myocardial infarction;</cell></row><row><cell cols="3">NGM; normal glucose metabolism; nT2DM: new type 2 diabetes mellitus</cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 4 .</head><label>4</label><figDesc>Events per 1000 patient-years in different glucometabolic groups.</figDesc><table><row><cell></cell><cell>NGM</cell><cell>Prediabetes</cell><cell>nT2DM</cell><cell>kT2DM</cell><cell>p-value</cell></row><row><cell></cell><cell>n=77</cell><cell>n=173</cell><cell>n=23</cell><cell>n=99</cell><cell></cell></row><row><cell>Death/MI</cell><cell>4.2</cell><cell>29.5</cell><cell>60.3</cell><cell>114.2</cell><cell>&lt;0.001</cell></row><row><cell>Mean follow-up years (range)</cell><cell>3.2 (2.3-3.7)</cell><cell>3.1 (0.4-4.1)</cell><cell>3.1 (0.7-3.7)</cell><cell>2.7 (0.1-3.7)</cell><cell></cell></row><row><cell>MACE Mean follow-up years (range)</cell><cell>36.0 3.0 (0.1-3.7)</cell><cell>54.7 3.0 (0-4.1)</cell><cell>113.9 2.9 (0.7-3.6)</cell><cell>164.6 2.5 (0-3.7)</cell><cell>&lt;0.001</cell></row><row><cell cols="5">kT2DM: previously known type 2 diabetes mellitus; MACE: major adverse cardiac event; MI: myocardial infarction; NGM; normal glucose</cell><cell></cell></row><row><cell cols="2">metabolism; nT2DM: newly detected type 2 diabetes mellitus</cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">Downloaded from https://academic.oup.com/ehjacc/article/9/6/608/6125589 by guest on 19 July 2022</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">NGM: normal glucose metabolism; nT2DM: newly detected type 2 diabetes mellitus; kT2DM: previously known type 2 diabetes mellitus Downloaded from https://academic.oup.com/ehjacc/article/9/6/608/6125589 by guest on 19 July 2022</note>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Funding</head><p>This work was supported by the University of Iceland Research Fund, Landspitali University Hospital Research Fund (A-2013-66, A-2014-59 and A-2015-50) and the Icelandic Society of Cardiology Research Fund.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Trends in prevalence and control of diabetes in the United States</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Selvin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Parrinello</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Sacks</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">160</biblScope>
+			<biblScope unit="page" from="517" to="525" />
+			<date type="published" when="1988">1988-1994 and 1999-2010. 2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Global estimates of the prevalence of diabetes for 2010 and 2030</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Shaw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Sicree</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">Z</forename><surname>Zimmet</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Res Clin Pract</title>
+		<imprint>
+			<biblScope unit="volume">87</biblScope>
+			<biblScope unit="page" from="4" to="14" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Diabetes and vascular disease: Pathophysiology, clinical consequences, and medical therapy: Part I</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Paneni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Beckman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Creager</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur Heart J</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="2436" to="2443" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Oral glucose tolerance test predicts increased carotid plaque burden in patients with acute coronary syndrome</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Bjarnason</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">O</forename><surname>Hafthorsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">B</forename><surname>Kristinsdottir</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS One</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page">e0183839</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Risk of cardiovascular and all-cause mortality in individuals with diabetes mellitus, impaired fasting glucose, and impaired glucose tolerance: The Australian Diabetes, Obesity, and Lifestyle Study (AusDiab)</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">L</forename><surname>Barr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">Z</forename><surname>Zimmet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Welborn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">116</biblScope>
+			<biblScope unit="page" from="151" to="157" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Mortality from coronary heart disease in subjects with type 2 diabetes and in nondiabetic subjects with and without prior myocardial infarction</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Haffner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lehto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Ronnemaa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">339</biblScope>
+			<biblScope unit="page" from="229" to="234" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Association of elevated fasting glucose with increased short-term and 6-month mortality in ST-segment elevation and non-ST-segment elevation acute coronary syndromes: The Global Registry of Acute Coronary Events</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">R</forename><surname>Sinnaeve</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">G</forename><surname>Steg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Fox</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">169</biblScope>
+			<biblScope unit="page" from="402" to="409" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Newly detected abnormal glucose tolerance: An important predictor of long-term outcome after myocardial infarction</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bartnik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Malmberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Norhammar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur Heart J</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="1990" to="1997" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Impact of newly diagnosed abnormal glucose tolerance on long-term prognosis in patients with acute myocardial infarction</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Tamita</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Katayama</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Takagi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circ J</title>
+		<imprint>
+			<biblScope unit="volume">71</biblScope>
+			<biblScope unit="page" from="834" to="841" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Diabetes known or newly detected, but not impaired glucose regulation, has a negative influence on 1-year outcome in patients with coronary artery disease: A report from the Euro Heart Survey on diabetes and the heart</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Lenzen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Ryden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ohrvik</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur Heart J</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="2969" to="2974" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Glucose metabolism in patients with acute myocardial infarction and no previous diagnosis of diabetes mellitus: A prospective study</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Norhammar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Å</forename><surname>Tenerz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Nilsson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">359</biblScope>
+			<biblScope unit="page" from="2140" to="2144" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">The prevalence of abnormal glucose regulation in patients with coronary artery disease across Europe. The Euro Heart Survey on diabetes and the heart</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bartnik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Ryden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Ferrari</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur Heart J</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="1880" to="1890" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Fasting glucose, HbA1c, or oral glucose tolerance testing for the detection of glucose abnormalities in patients with acute coronary syndromes</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Hage</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Lundman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Ryden</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Prev Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="549" to="554" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Editor&apos;s Choice-Diagnosis of type 2 diabetes and prediabetes among patients with acute coronary syndromes</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Bjarnason</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">B</forename><surname>Kristinsdottir</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Oskarsdottir</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur Heart J Acute Cardiovasc Care</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="744" to="749" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Myocardial infarction redefined-a consensus document of The Joint European Society of Cardiology/American College of Cardiology Committee for the redefinition of myocardial infarction</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Alpert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Thygesen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Antman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Coll Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="959" to="969" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">World Medical Association Declaration of Helsinki: Ethical principles for medical research involving human subjects</title>
+	</analytic>
+	<monogr>
+		<title level="j">World Medical Association</title>
+		<imprint>
+			<biblScope unit="volume">310</biblScope>
+			<biblScope unit="page" from="2191" to="2194" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note>JAMA</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m" type="main">Icelandic National death registry</title>
+		<author>
+			<persName><surname>Iceland</surname></persName>
+		</author>
+		<ptr target="http://www.statice.is" />
+		<imprint>
+			<date type="published" when="2017-05">2017. May 2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Diagnosis and classification of diabetes mellitus</title>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="S64" to="S71" />
+			<date type="published" when="2012">2012</date>
+			<publisher>American Diabetes Association</publisher>
+		</imprint>
+	</monogr>
+	<note>Suppl. 1</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">R: A language and environment for statistical computing</title>
+		<author>
+			<persName><surname>Rc Team</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">R Foundation for Statistical Computing</title>
+				<meeting><address><addrLine>Vienna, Austria</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Diabetes mellitus, fasting glucose, and risk of cause-specific death</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Rao Kondapally Seshasai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kaptoge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Thompson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">364</biblScope>
+			<biblScope unit="page" from="829" to="841" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">The relationship between glucose and incident cardiovascular events. A metaregression analysis of published data from 20 studies of 95,783 individuals followed for 12.4 years</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Coutinho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Gerstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="233" to="240" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Sustained prognostic implications of newly detected glucose abnormalities in patients with acute myocardial infarction: Long-term followup of the Glucose Tolerance in Patients with Acute Myocardial Infarction cohort</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Ritsinger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Tanoglidi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Malmberg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diab Vasc Dis Res</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="23" to="32" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Impaired glucose tolerance or newly diagnosed diabetes mellitus diagnosed during admission adversely affects prognosis after myocardial infarction: An observational study</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>George</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">T</forename><surname>Bhatia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">L</forename><surname>Buchanan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS One</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">e0142045</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Long-term clinical outcome in patients with acute coronary syndrome and dysglycaemia</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kuhl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Jorneskog</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Wemminger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cardiovasc Diabetol</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page">120</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">An evaluation of 20 year survival in patients with diabetes mellitus and acute myocardial infarction</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Patel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Cubbon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Sapsford</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">203</biblScope>
+			<biblScope unit="page" from="141" to="144" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Prevention of type 2 diabetes mellitus by changes in lifestyle among subjects with impaired glucose tolerance</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tuomilehto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lindstrom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Eriksson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">344</biblScope>
+			<biblScope unit="page" from="1343" to="1350" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">The Diabetes Prevention Program. Long-term effects of lifestyle intervention or metformin on diabetes development and microvascular complications over 15-year follow-up: The Diabetes Prevention Program Outcomes Study</title>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Diabetes Endocrinol</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="866" to="875" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">The impact of glucose lowering treatment on long-term prognosis in patients with type 2 diabetes and myocardial infarction: A report from the DIGAMI 2 trial</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">G</forename><surname>Mellbin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Malmberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Norhammar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur Heart J</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="166" to="176" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Update on prevention of cardiovascular disease in adults with type 2 diabetes mellitus in light of recent evidence: A Scientific Statement from the American Heart Association and the American Diabetes Association</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Fox</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Golden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Anderson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="1777" to="1803" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">10-year follow-up of intensive glucose control in type 2 diabetes</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Holman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Paul</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Bethel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">359</biblScope>
+			<biblScope unit="page" from="1577" to="1589" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Empagliflozin, cardiovascular outcomes, and mortality in type 2 diabetes</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Zinman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Wanner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Lachin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">373</biblScope>
+			<biblScope unit="page" from="2117" to="2128" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Canagliflozin and cardiovascular and renal events in type 2 diabetes</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Neal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Perkovic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">W</forename><surname>Mahaffey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">377</biblScope>
+			<biblScope unit="page" from="644" to="657" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

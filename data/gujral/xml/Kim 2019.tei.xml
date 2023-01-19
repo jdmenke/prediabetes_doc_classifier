@@ -1,0 +1,1260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Association between prediabetes (defined by HbA1 C , fasting plasma glucose, and impaired glucose tolerance) and the development of chronic kidney disease: a 9-year prospective cohort study</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Sil</forename><surname>Gwang</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Division of Cardiology</orgName>
+								<orgName type="department" key="dep2">Department of Internal Medicine</orgName>
+								<orgName type="institution" key="instit1">Sanggye Paik Hospital</orgName>
+								<orgName type="institution" key="instit2">Inje University</orgName>
+								<address>
+									<addrLine>Dongil-ro 1342, Nowon-gu</addrLine>
+									<postCode>01757</postCode>
+									<settlement>Seoul</settlement>
+									<country key="KR">South Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><surname>Kim</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Division of Cardiology</orgName>
+								<orgName type="department" key="dep2">Department of Internal Medicine</orgName>
+								<orgName type="institution" key="instit1">Sanggye Paik Hospital</orgName>
+								<orgName type="institution" key="instit2">Inje University</orgName>
+								<address>
+									<addrLine>Dongil-ro 1342, Nowon-gu</addrLine>
+									<postCode>01757</postCode>
+									<settlement>Seoul</settlement>
+									<country key="KR">South Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Hyun</forename><surname>Ho Oh</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Division of Cardiology</orgName>
+								<orgName type="department" key="dep2">Department of Internal Medicine</orgName>
+								<orgName type="institution" key="instit1">Sanggye Paik Hospital</orgName>
+								<orgName type="institution" key="instit2">Inje University</orgName>
+								<address>
+									<addrLine>Dongil-ro 1342, Nowon-gu</addrLine>
+									<postCode>01757</postCode>
+									<settlement>Seoul</settlement>
+									<country key="KR">South Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Sang</forename><forename type="middle">Hyun</forename><surname>Kim</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Division of Cardiology</orgName>
+								<orgName type="department" key="dep2">Department of Internal Medicine</orgName>
+								<orgName type="institution" key="instit1">Sanggye Paik Hospital</orgName>
+								<orgName type="institution" key="instit2">Inje University</orgName>
+								<address>
+									<addrLine>Dongil-ro 1342, Nowon-gu</addrLine>
+									<postCode>01757</postCode>
+									<settlement>Seoul</settlement>
+									<country key="KR">South Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Byung</forename><forename type="middle">Ok</forename><surname>Kim</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Division of Cardiology</orgName>
+								<orgName type="department" key="dep2">Department of Internal Medicine</orgName>
+								<orgName type="institution" key="instit1">Sanggye Paik Hospital</orgName>
+								<orgName type="institution" key="instit2">Inje University</orgName>
+								<address>
+									<addrLine>Dongil-ro 1342, Nowon-gu</addrLine>
+									<postCode>01757</postCode>
+									<settlement>Seoul</settlement>
+									<country key="KR">South Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Young</forename><surname>Sup Byun</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Division of Cardiology</orgName>
+								<orgName type="department" key="dep2">Department of Internal Medicine</orgName>
+								<orgName type="institution" key="instit1">Sanggye Paik Hospital</orgName>
+								<orgName type="institution" key="instit2">Inje University</orgName>
+								<address>
+									<addrLine>Dongil-ro 1342, Nowon-gu</addrLine>
+									<postCode>01757</postCode>
+									<settlement>Seoul</settlement>
+									<country key="KR">South Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Gwang</forename><forename type="middle">Sil</forename><surname>Kim</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Division of Cardiology</orgName>
+								<orgName type="department" key="dep2">Department of Internal Medicine</orgName>
+								<orgName type="institution" key="instit1">Sanggye Paik Hospital</orgName>
+								<orgName type="institution" key="instit2">Inje University</orgName>
+								<address>
+									<addrLine>Dongil-ro 1342, Nowon-gu</addrLine>
+									<postCode>01757</postCode>
+									<settlement>Seoul</settlement>
+									<country key="KR">South Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Hyun</forename><surname>Ho</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Division of Cardiology</orgName>
+								<orgName type="department" key="dep2">Department of Internal Medicine</orgName>
+								<orgName type="institution" key="instit1">Sanggye Paik Hospital</orgName>
+								<orgName type="institution" key="instit2">Inje University</orgName>
+								<address>
+									<addrLine>Dongil-ro 1342, Nowon-gu</addrLine>
+									<postCode>01757</postCode>
+									<settlement>Seoul</settlement>
+									<country key="KR">South Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Association between prediabetes (defined by HbA1 C , fasting plasma glucose, and impaired glucose tolerance) and the development of chronic kidney disease: a 9-year prospective cohort study</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">59242E36422EC1312A44BFD8DA9B5E21</idno>
+					<idno type="DOI">10.1186/s12882-019-1307-0</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.1" ident="GROBID" when="2022-07-19T22:44+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Prediabetes</term>
+					<term>Chronic kidney disease</term>
+					<term>Cardiovascular disease</term>
+					<term>General population</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Background:</head><p>The aim of the present study was to investigate the clinical impact of prediabetes on the development of incident chronic kidney disease (CKD) in a Korean adult population, using data from the Korea Genome and Epidemiology Study. Methods: This prospective cohort study included 7728 Korean adults without baseline CKD and type 2 diabetes. Prediabetes was defined by impaired fasting glucose (IFG), impaired glucose tolerance (IGT), and HbA1 C level. CKD was defined as estimated glomerular filtration rate &lt; 60 mL/min/1.73 m 2 . We assessed the predictive value of prediabetes for the incidence of CKD, and investigated the incidence of cardiovascular disease including coronary artery disease and stroke. Results: Over a median follow-up period of 8.7 years, 871 of 7728 (11.3%) subjects developed incident CKD. Patients with prediabetes, as defined by IGT or HbA1 C , developed incident CKD more frequently than the non-prediabetic group did. The risk of CKD development at follow-up was analyzed according to different prediabetes definitions. Compared with the non-prediabetic group, the IGT-(Hazard ratio [HR] = 1.135, 95% confidence interval [CI] = 1.182-1. 310, P = 0.043) and HbA1 C -defined prediabetic groups (HR = 1.391, 95% CI = 1.213-1.595, P &lt; 0.001) were significantly associated with incident CKD after adjusting for traditional CKD risk factors; however, IFG was not associated with incident CKD. Conclusion: IGT-or HbA1 C -defined prediabetes is an independent predictor of incident CKD. The measurement of these parameters might enable early detection of CKD risk, allowing physicians to initiate preventive measures and improve patient outcomes.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Background</head><p>The prevalence of chronic kidney disease (CKD), which is characterized by structural kidney damage and chronic reduction of kidney function, has increased globally with an increase in the aging population <ref type="bibr" target="#b0">[1]</ref>. CKD constitutes a major health problem because it increases all-cause mortality and the development of cardiovascular disease (CVD) <ref type="bibr" target="#b1">[2]</ref>. Therefore, it is important to identify modifiable risk factors that can act as early predictors of incident CKD.</p><p>Diabetes is the leading cause of CKD in most countries, and up to one-third of adults with newly diagnosed diabetes already have CKD, suggesting that CKD may occur in the early stages of diabetes <ref type="bibr" target="#b2">[3,</ref><ref type="bibr" target="#b3">4]</ref>. Prediabetes, which is regarded as a CVD risk factor, is an intermediate state of hyperglycemia, wherein blood glucose is higher than normal but lower than that in diabetes <ref type="bibr" target="#b4">[5,</ref><ref type="bibr" target="#b5">6]</ref>. Considering that prediabetes can be a precursor of diabetes, we hypothesized that prediabetes is associated with incident CKD, through the effect of hyperglycemia. However, very few studies have investigated such an association. In addition, prediabetes can be defined according to impaired fasting glucose (IFG), impaired glucose tolerance (IGT), or HbA1 C level, and a previous study suggested that each of these components might have a different association with CKD <ref type="bibr" target="#b6">[7]</ref>.</p><p>The aim of the present study was to clarify the clinical impact of prediabetes, defined by IFG, IGT, and HbA1 C level, on the development of incident CKD in a Korean adult population using data from the Korea Genome and Epidemiology Study (KoGES).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study population</head><p>The study included all individuals who participated in the Ansung-Ansan cohort study from 2001 to 2002 (baseline) to 2011-2012 (fifth follow-up visit). The Ansung-Ansan cohort study is an ongoing study that began in 2001 and involves biennial follow-up examinations. A total of 10,038 patients were initially enrolled in the cohort. The design and baseline characteristics of the Ansung-Ansan cohort study have been previously published <ref type="bibr" target="#b7">[8]</ref>. The exclusion criteria were as follows: pre-existing CKD, diabetes, lack of follow up, and insufficient data. Informed consent was obtained from all study subjects. The study protocol was approved by the ethics committee of the Korean Centre for Disease Control.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Clinical and biochemical parameters</head><p>Study data included medical history, physical examination findings, information collected using a questionnaire, anthropometric measurements, and laboratory measurements. A standard questionnaire was used to obtain information on medical history, family history, current medication use, weekly alcohol consumption, and smoking status from all participants.</p><p>Waist circumference was measured three times using a fiberglass tape measure at the midpoint between the bottom of the ribcage and the top of the iliac crest. Blood pressure was measured using a standard mercury sphygmomanometer with the subject in the sitting position after 5 min of rest.</p><p>Body mass index (BMI) was calculated as weight divided by height squared (kg/m 2 ). Physical activity was classified into the following three categories: none, irregular (≤2 episodes/week), and regular (≥3 episodes/ week) exercise. One episode of exercise was defined as exercising for at least 30 min. Subjects were classified as "generally obese" if their BMI was ≥25 kg/m 2 . Collected blood samples were delivered to and analyzed at a central laboratory (Seoul Clinical Laboratories, Seoul, Korea). Plasma glucose, total cholesterol, triglycerides, and high-density lipoprotein cholesterol levels were determined using a Hitachi 747 chemistry analyzer (Hitachi, Tokyo, Japan). The low-density lipoprotein cholesterol level was calculated using Friedewald's equation. The HbA1 C level was measured using high-performance liquid chromatography with a Variant II instrument (BioRad Laboratories, Hercules, CA, USA).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Definitions of prediabetes cardiovascular disease and CKD</head><p>Prediabetes was defined as the satisfaction of at least one of the following three conditions: 1) fasting plasma glucose level of 110-125 mg/dl (IFG), 2) glucose levels of 140-199 mg/dL (7.8-1.0 mmol) on the 75-g oral glucose tolerance (IGT) 2 h after glucose consumption, or 3) HbA1 C concentration of 5.7-6.4%. Estimated glomerular filtration rate (eGFR) was calculated using the CKD Epidemiology Collaboration equation (CKD-EPI). According to the National Kidney Foundation Kidney Disease Outcomes Quality Initiative, CKD was defined as an eGFR of &lt; 60 mL/min/1.73 m 2 . After an overnightfast, the subjects had a 75-g glucose challenge, and blood samples were collected at 0, 60, and 120 min for oral glucose tolerance test (OGTT). OGTT test was supervised and conducted by trained nurse. Serum glucose concentrations and HbA 1c were measured using an automatic analyser (ZEUS 9.9; Takeda, Tokyo, Japan). The incidence of cardiovascular disease (CVD) (included coronary artery disease, stroke, peripheral artery disease) was defined as at least one positive response to CVD-related questionnaire items, including diagnosis by a physician, treatment, or use of medications.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analyses</head><p>Data are expressed as mean and standard deviation or as the number of subjects and percentage. Baseline variables were compared according to the presence or absence of CKD by using Student's t test for continuous variables and the χ 2 test for categorical variables. We calculated the hazard ratios (HRs) for incident CKD by using Cox proportional hazards models with potential confounding variables. All analyses were performed using SPSS Statistics for Windows version 18.0 (IBM, Armonk, NY, USA). For all tests, a P value &lt; 0.05 was considered to indicate a statistically significant difference.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>The mean age of subjects was 52 years, with 52.6% of subjects being male. Mean follow-up duration was 8.7 years. Among the 10,038 patients, 7728 patients were included in this study, after excluding 216 patients with CKD, 1046 with diabetes, 982 patients who were never followed up, and 66 patients with insufficient data.</p><p>The anthropometric and biochemical characteristics of the subjects are summarized in Table <ref type="table" target="#tab_0">1</ref> according to the development of incident CKD. Traditional risk factors for CKD such as older age, obesity, hypertension, and metabolic syndrome were more prevalent in the CKD group. Prediabetes defined according to IGT or HbA1 C level was more frequently noted in the CKD group, but the incidence of IFG was not different between the CKD and non-CKD groups. Interestingly, male sex and regular exercise were associated with a lower incidence of CKD. The incidence of CVD according to IGT is shown in Table <ref type="table" target="#tab_1">2</ref>. The incidence of diabetes and CKD increased in subjects with IGT. The incidence of other CVDs, including stroke and coronary artery disease, did not differ according to IGT. Using a Cox proportional hazards model, we also investigated the clinical impact of IGT on the development of CKD during the follow-up period. Participants with IGT had a higher risk for CKD development (hazard ratio [HR] 1.14, 95% confidence interval [CI] 1.182-1.310, P = 0.043), as shown in Table <ref type="table" target="#tab_2">3</ref>. Moreover, this significant association persisted after adjusting for other CKD risk factors, including age, sex, obesity, hypertension, and metabolic syndrome. Traditional CKD risk factors such as age, obesity, hypertension, and metabolic syndrome also significantly increased the development of CKD after adjusting for confounding factors. We also analyzed the effect of other prediabetes definitions on CKD development by using a Cox model. Consistent with the IGT findings, prediabetes defined by HbA1 C level was also significantly associated with CKD development after adjusting for possible confounding factors (HR 1.39, 95% CI 1.21-1.60, P &lt; 0.001) as shown in Table <ref type="table" target="#tab_3">4</ref>. IFG was not associated with future CKD development.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>In this large prospective community-based cohort study of Korean adults, we found that prediabetes defined by IGT or HbA1 C was significantly associated with the development of CKD, independent of traditional CKD risk factors. However, the incidence and relative risk for CKD was not associated with IFG. To the best of our knowledge, this is the first and largest population-based prospective study to evaluate the association between prediabetes, as assessed by IGT, HbA1 C , and IFG, and the development of CKD.</p><p>In addition, older age (&gt; 65 years), BMI, hypertension, and metabolic syndrome were revealed as risk factors for CKD in our community-based cohort. These results were in line with previous studies. Older age <ref type="bibr" target="#b8">[9]</ref>, obesity <ref type="bibr" target="#b9">[10]</ref>, hypertension <ref type="bibr" target="#b10">[11]</ref>, and metabolic syndrome <ref type="bibr" target="#b11">[12]</ref> are well-recognized risk factors for developing CKD. Other risk factors, including dyslipidemia and hypertension are also associated with the development of CKD in patients with diabetes <ref type="bibr" target="#b12">[13,</ref><ref type="bibr" target="#b13">14]</ref>. Male gender was associated with an increased risk of CKD in our study. Previous studies showed the prevalence of CKD is higher in women than in men including US renal data system (USRDS) annual data report <ref type="bibr" target="#b14">[15]</ref><ref type="bibr" target="#b15">[16]</ref><ref type="bibr" target="#b16">[17]</ref>. However, there were also opposing data regarding this issue <ref type="bibr" target="#b17">[18]</ref><ref type="bibr" target="#b18">[19]</ref><ref type="bibr" target="#b19">[20]</ref>. Korea data also showed female gender was associated with less reduced renal function (Odds ratio 0.874, 95% CI 0.766-.0.997) and trend toward lower incidence of CKD (Odds ratio 0.953, 95% CI 0.848-1.071) <ref type="bibr" target="#b20">[21]</ref>. Thus, we think that there might be a geographic variability in the effect of gender on the prevalence of CKD.</p><p>Several studies have shown that prediabetes and metabolic syndrome are associated with CKD development, after adjustment for established CKD risk factors <ref type="bibr" target="#b21">[22]</ref><ref type="bibr" target="#b22">[23]</ref><ref type="bibr" target="#b23">[24]</ref><ref type="bibr" target="#b24">[25]</ref><ref type="bibr" target="#b25">[26]</ref>. In one meta-analysis that included 9 cohort studies (8 IFG-defined prediabetes and 1 HbA 1C -defined prediabetes study) showed that the overall relative risk of CKD was 1.12 (95% CI. 1.02-1.21), after adjustments for established risk factors <ref type="bibr" target="#b6">[7]</ref>. However, most of the studies defined prediabetes according to IFG, since IGT determination requires 2-h post-glucose measurement. Our study is different from earlier studies that reported an association between prediabetes and CKD because we used three different definitions of prediabetes. Interestingly, there was no difference in baseline fasting glucose level or the incidence of IFG according to the presence of overt CKD in our subjects. In contrast, baseline IGT-or HbA1 C -defined prediabetes was more prevalent in the CKD group, and the hazard ratio was also robustly higher after adjusting for traditional CKD risk factors. It is difficult to know exactly whether this is an incidental finding or a meaningful difference. In previous studies, only one definition was studied, or both IGT and IFG were included in the definition of prediabetes <ref type="bibr" target="#b25">[26]</ref>. Although, both IGT and IFG are included in prediabetes, the clinical impact or underlying mechanism might be different. We think IGT or HbA1 C level may better reflect long-term exposure to non-diabetic hyperglycemia than IFG. Previous study reported that IFG reflects defects in insulin secretion and IGT reflects insulin resistance <ref type="bibr" target="#b26">[27]</ref>. Milicevic et al. <ref type="bibr" target="#b27">[28]</ref> reported that IGT and HbA1 C were more strongly associated with cardiovascular outcomes than IFG was. Therefore, clinical significance of each indicator is expected to be studied in the future.</p><p>Previous researchers suggested some potential mechanisms by which prediabetes might affect the initiation and progression of CKD. Individuals with prediabetes can be as insulin-resistant as individuals with diabetes. Thus, dysfunction in the metabolism of lipids and carbohydrates and loss of protein stores, which are often  observed in patients with insulin-resistance, may be associated with kidney damage in prediabetic individuals <ref type="bibr" target="#b28">[29,</ref><ref type="bibr" target="#b29">30]</ref>. Cross-sectional studies have revealed that borderline hyperglycemia or prehypertension is associated with glomerular hyperfiltration, which is a marker of early renal damage <ref type="bibr" target="#b30">[31,</ref><ref type="bibr" target="#b31">32]</ref>. Thus, in subjects with prediabetes or prehypertension, especially with comorbid glomerular hyperfiltration, earlier treatment of hyperglycemia or high blood pressure may be necessary to prevent the development of kidney damage. In addition, insulin resistance may lead to CKD by alteration of endothelial function and inflammation, sodium retention, and activation of the sympathetic nervous system <ref type="bibr" target="#b32">[33,</ref><ref type="bibr" target="#b33">34]</ref>.</p><p>The present study has several advantages over previous studies. As mentioned above, we examined all the three commonly used prediabetes definition parameters (IFG, IGT, and HbA1 C ) to identify their relationship with CKD. Second, this study prospectively followed a relatively large number of subjects for an average of 9 years. Development of incidental CKD is preceded by glomerular hyperfiltration, which is an important link between prediabetes and CKD development. Thus, short or intermediate follow-up periods might not capture the association between prediabetes and CKD. Moreover, although most of the published studies have relied on GFR estimated using the Modification of Diet in Renal Disease Study (MDRD) equation <ref type="bibr" target="#b6">[7]</ref>, we defined CKD using the CKD-EPI equation, which performs better than the MDRD equation, especially at higher GFR, with less bias and greater accuracy <ref type="bibr" target="#b34">[35]</ref>. Because most individuals with prediabetes have higher GFR, the CKD-EPI equation might better reflect kidney function.</p><p>This study has several limitations. First, GFR was not measured directly, but was estimated using a serum creatinine-based equation, which might have overestimated or underestimated the actual GFR. Second, we did not have information on urine analysis including microalbuminuria, a known risk factor for the development of kidney disease in individuals with diabetes. Considering CKD is defined by the presence of albuminuria as well as by eGFR, overall CKD may be underestimated in this study. Third, because all participants were required to attend follow-up examination, those who died or developed serious comorbidities were excluded; thus, we may have introduced survival bias. Fourth, this study was restricted to only Koreans. Therefore, these results might not be applicable to other ethnic groups.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusions</head><p>The results of this study show that subjects with prediabetes defined by IGT or HbA1 C level have an increased risk of incident CKD; however, IFG was not associated with CKD. Thus, our findings indicate that IGT or HbA1C are predictors of CKD, and might enable clinicians to better prevent the development of CKD in individuals with prediabetes, potentially resulting in better outcomes. </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Characteristics of the subjects according to incident chronic kidney disease</figDesc><table><row><cell></cell><cell>Newly developed</cell><cell>No CKD</cell><cell>P-value</cell></row><row><cell></cell><cell>CKD</cell><cell>(n = 6857)</cell><cell></cell></row><row><cell></cell><cell>(n = 871)</cell><cell></cell><cell></cell></row><row><cell>Age (years)</cell><cell>57 ± 8</cell><cell>51 ± 8</cell><cell>0.001</cell></row><row><cell>Male</cell><cell>610 (70.0)</cell><cell cols="2">3456 (50.4) &lt; 0.001</cell></row><row><cell>Body mass index &gt; 25 kg/m 2</cell><cell>421 (48.3)</cell><cell cols="2">2737 (39.9) &lt; 0.001</cell></row><row><cell>Hypertension</cell><cell>332 (38.1)</cell><cell cols="2">1487 (21.7) &lt; 0.001</cell></row><row><cell>Current Smoking</cell><cell>137 (15.7)</cell><cell cols="2">1351 (19.7) 0.041</cell></row><row><cell>Regular exercise</cell><cell>499 (57.3)</cell><cell cols="2">4198 (61.2) 0.027</cell></row><row><cell>Metabolic syndrome</cell><cell>227 (26.1)</cell><cell cols="2">1147 (16.7) &lt; 0.001</cell></row><row><cell>Fasting glucose, mg/dl</cell><cell>87.7 ± 9.0</cell><cell>87.9 ± 8.9</cell><cell>0.592</cell></row><row><cell>Impaired fasting glucose</cell><cell>84 (9.6)</cell><cell>652 (9.5)</cell><cell>0.902</cell></row><row><cell>Impaired glucose tolerance</cell><cell>297 (34.1)</cell><cell cols="2">1882 (27.4) &lt; 0.001</cell></row><row><cell>5.7 &lt; HbA1 C &lt; 6.5</cell><cell>425 (48.8)</cell><cell cols="2">2461 (35.9) &lt; 0.001</cell></row><row><cell cols="2">Low density lipoprotein, mg/dl 117 ± 33</cell><cell>113 ± 32</cell><cell>&lt; 0.001</cell></row><row><cell>Triglyceride, mg/dl</cell><cell>172 ± 105</cell><cell>153 ± 95</cell><cell>&lt; 0.001</cell></row><row><cell cols="2">High-density lipoprotein, mg/dl 44 ± 10</cell><cell>45 ± 10</cell><cell>&lt; 0.001</cell></row><row><cell>AST, IU/L</cell><cell>29 ± 18</cell><cell>29 ± 16</cell><cell>0.921</cell></row><row><cell>ALT, IU/L</cell><cell>26 ± 23</cell><cell>27 ± 21</cell><cell>0.036</cell></row><row><cell>Creatinine (mg/dL)</cell><cell>0.87 ± 0.18</cell><cell cols="2">0.82 ± 0.16 &lt; 0.001</cell></row><row><cell>eGFR (mL/min/1.73 m 2 )</cell><cell>85.2 ± 12.2</cell><cell cols="2">93.5 ± 15.1 &lt; 0.001</cell></row><row><cell>Follow-up duration</cell><cell>9.0 ± 2.1</cell><cell>8.7 ± 2.5</cell><cell>&lt; 0.001</cell></row></table><note>CKD chronic kidney disease, AST aspartate aminotransferase, ALT alanine aminotransferase, eGFR estimated glomerular filtration rate Data are presented as mean ± standard deviation or n (%)</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2</head><label>2</label><figDesc>Incidence of chronic kidney disease and other cardiovascular diseases according to impaired glucose tolerance and HbA1c defined prediabetes CAD coronary artery disease, CKD chronic kidney disease, IGT impaired glucose tolerance, PAD peripheral artery disease Data are presented as n (%)</figDesc><table><row><cell></cell><cell>IGT (+)</cell><cell>IGT (−)</cell><cell>P-value</cell><cell>HbA1 C</cell><cell>HbA1 C</cell><cell>P-value</cell></row><row><cell></cell><cell>(n = 2179)</cell><cell>(n = 5549)</cell><cell></cell><cell>5.7-6.4% (n = 2886)</cell><cell>&lt; 5.7% (n = 4842)</cell><cell></cell></row><row><cell>CKD</cell><cell>297 (14.1)</cell><cell>574 (10.6)</cell><cell>&lt; 0.001</cell><cell>425 (14.7)</cell><cell>446 (9.2)</cell><cell>&lt; 0.001</cell></row><row><cell>Hypertension</cell><cell>694 (31.8)</cell><cell>1862 (33.6)</cell><cell>0.155</cell><cell>984 (34.1)</cell><cell>1572 (32.5)</cell><cell>0.147</cell></row><row><cell>Diabetes</cell><cell>479 (22.0)</cell><cell>280 (5.0)</cell><cell>&lt; 0.001</cell><cell>573 (19.9)</cell><cell>186 (3.8)</cell><cell>&lt; 0.001</cell></row><row><cell>CAD</cell><cell>65 (3.0)</cell><cell>131 (2.4)</cell><cell>0.126</cell><cell>65 (2.3)</cell><cell>88 (1.8)</cell><cell>0.205</cell></row><row><cell>Stroke</cell><cell>47 (2.2)</cell><cell>88 (1.6)</cell><cell>0.100</cell><cell>64 (2.2)</cell><cell>71 (1.5)</cell><cell>0.019</cell></row><row><cell>PAD</cell><cell>3 (0.1)</cell><cell>8 (0.1)</cell><cell>1.0</cell><cell>4 (0.1)</cell><cell>(0.1)</cell><cell>1.0</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3</head><label>3</label><figDesc>Hazard ratio of chronic kidney disease according to prediabetes, body composition, and metabolic syndrome component</figDesc><table><row><cell></cell><cell>Non-adjusted</cell><cell></cell><cell>Adjusted</cell><cell></cell></row><row><cell></cell><cell>Odds ratio (95% confidence interval)</cell><cell>P-value</cell><cell>Odds ratio (95% confidence interval)</cell><cell>P-value</cell></row><row><cell>IGT</cell><cell>1.362 (1.184-1.567)</cell><cell>&lt; 0.001</cell><cell>a 1.135 (1.182-1.310)</cell><cell>0.043</cell></row><row><cell>Prediabetes defined by HbA1 C</cell><cell>1.661 (1.454-1.897)</cell><cell>&lt; 0.001</cell><cell>b 1.391 (1.213-1.595)</cell><cell>&lt; 0.001</cell></row><row><cell>Baseline eGFR (60-89 vs. ≥90)</cell><cell>4.704 (3.499-4.744)</cell><cell>&lt; 0.001</cell><cell>b 3.727 (3.184-4.363)</cell><cell>&lt; 0.001</cell></row><row><cell>Male sex</cell><cell>2.136 (1.848-2.469)</cell><cell>&lt; 0.001</cell><cell>b 2.310 (1.993-2.77)</cell><cell>&lt; 0.001</cell></row><row><cell>Age &gt; 65 years</cell><cell>3.347 (2.878-3.892)</cell><cell>&lt; 0.001</cell><cell>b 1.918 (1.631-2.255)</cell><cell>&lt; 0.001</cell></row><row><cell>Current smoking</cell><cell>1.121 (0.841-1.212)</cell><cell>0.242</cell><cell></cell><cell></cell></row><row><cell>BMI &gt; 25 kg/m 2</cell><cell>1.347 (1.180-1.539)</cell><cell>&lt; 0.001</cell><cell>b 1.100 (0.954-1.269)</cell><cell>0.190</cell></row><row><cell>Hypertension</cell><cell>2.104 (1.835-2.412)</cell><cell>&lt; 0.001</cell><cell>b 1.606 (1.375-1.875)</cell><cell>&lt; 0.001</cell></row><row><cell>Regular activity</cell><cell>0.853 (0.745-0.975)</cell><cell>0.020</cell><cell>b 0.859 (0.751-0.983)</cell><cell>0.027</cell></row><row><cell>Metabolic syndrome</cell><cell>1.318 (1.167-1.632)</cell><cell>0.012</cell><cell>b 1.125 (0.943-1.341)</cell><cell>0.191</cell></row></table><note>BMI body mass index, eGFR estimated glomerular filtration, IGT impaired glucose tolerance a multivariate analysis was done including IGT, baseline eGFR, age, BMI, hypertension, regular activity, metabolic syndrome b multivariate analysis was done including prediabetes defined by HbA1 C , baseline eGFR, age, BMI, hypertension, regular activity, metabolic syndrome</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 4</head><label>4</label><figDesc>Hazard ratio of development of chronic kidney disease according to prediabetes component IGT impaired glucose tolerance, IFG impaired fasting glucose Model 1 adjusted for age &gt; 65 and sex Model 2 adjusted for age &gt; 65, sex, hypertension, obesity, regular activity, baseline eGFR (60-89 vs. ≥90) and metabolic syndrome</figDesc><table><row><cell></cell><cell>IGT</cell><cell>P-value</cell><cell>IFG</cell><cell>P-value</cell><cell>HbA1 C</cell><cell>P-value</cell></row><row><cell>Crude hazard ratio</cell><cell>1.362 (1.184-1.567)</cell><cell>&lt; 0.001</cell><cell>1.023 (0.817-1.281)</cell><cell>0.843</cell><cell>1.661 (1.454-1.897)</cell><cell>&lt; 0.001</cell></row><row><cell>Model 1</cell><cell>1.270 (1.104-1.462)</cell><cell>0.001</cell><cell>1.157 (0.923-1.451)</cell><cell>0.206</cell><cell>1.299 (1.135-1.486)</cell><cell>&lt; 0.001</cell></row><row><cell>Model 2</cell><cell>1.135 (1.182-1.310)</cell><cell>0.043</cell><cell>0.918 (0.721-1.168)</cell><cell>0.485</cell><cell>1.391 (1.213-1.595)</cell><cell>&lt; 0.001</cell></row></table></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgements</head><p>We thank all staff who conducted the Korean Genome and Epidemiology Study, as well as the civilians who participated in this study. Epidemiological data used in this study were obtained from the Korean Genome and Epidemiology Study (KoGES; KBP 2016-0730117) of the Korea Centres for Disease Control and Prevention, Republic of Korea.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Abbreviations BMI: Body mass index; CKD: Chronic kidney disease; CVD: Cardiovascular disease; eGFR: Estimated glomerular filtration rate; IFG: Impaired fasting glucose; IGT: Impaired glucose tolerance Funding This research did not receive any specific grant from funding agencies in the public, commercial, or not-for-profit sectors.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Availability of data and materials</head><p>All data generated or analysed during this study are included in this published article.</p><p>Authors' contributions G.S.K and H.H.O conceptualized the hypothesis, designed the study, and drafted the manuscript. S.H.K interpreted data and revised the manuscript. B.O.K and Y.S.B. conceptualized the hypothesis and revised the manuscript. All authors read and approved the final manuscript.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Ethics approval and consent to participate</head><p>The study protocol was approved by the ethics committee of the Korean Centre for Disease Control. Informed consent was obtained from all study participants in written format.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Consent for publication Not applicable</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Competing interests</head><p>The authors declare that they have no competing interests.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Publisher's Note</head><p>Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations. </p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Chronic kidney disease</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Webster</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">V</forename><surname>Nagler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Morton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Masson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">389</biblScope>
+			<biblScope unit="page" from="1238" to="1252" />
+			<date type="published" when="2017">2017. 10075</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Predictive value for the Chinese population of the Framingham CHD risk assessment tool compared with the Chinese multiprovincial cohort study</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Hong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D'agostino Rb</forename><surname>Sr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Sun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">W</forename><surname>Wilson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">B</forename><surname>Kannel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Zhao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Jama</title>
+		<imprint>
+			<biblScope unit="volume">291</biblScope>
+			<biblScope unit="issue">21</biblScope>
+			<biblScope unit="page" from="2591" to="2599" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Chronic kidney disease</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Levey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Coresh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">379</biblScope>
+			<biblScope unit="issue">9811</biblScope>
+			<biblScope unit="page" from="165" to="180" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Microvascular complications at time of diagnosis of type 2 diabetes are similar among diabetic patients detected by targeted screening and patients newly diagnosed in general practice: the Hoorn screening study</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Spijkerman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Dekker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Nijpels</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Adriaanse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Kostense</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Ruwaard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Stehouwer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Bouter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Heine</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="2604" to="2608" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Prediabetes diagnosis and treatment: a review</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Bansal</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">World J Diabetes</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="296" to="303" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Metabolic syndrome, insulin resistance and kidney function in non-diabetic individuals</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">R</forename><surname>Johns</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Pao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Kim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nephrol Dial Transplant</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1410" to="1415" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Association between prediabetes and risk of chronic kidney disease: a systematic review and meta-analysis</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Echouffo-Tcheugui</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Narayan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Weisman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Golden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">G</forename><surname>Jaar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabet Med</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="1615" to="1624" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Abnormal liver function test predicts type 2 diabetes: a community-based prospective study</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">H</forename><surname>Cho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Jang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Choi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">R</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">K</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Chan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="2566" to="2568" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Factors influencing the development of end-stage renal disease</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Iseki</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Exp Nephrol</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="5" to="14" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Obesity and risk for chronic renal failure</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Ejerblad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Fored</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Lindblad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Fryzek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Mclaughlin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Nyren</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Soc Nephrol</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1695" to="1702" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Diabetes mellitus and hypertension: key risk factors for kidney disease</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Lea</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">B</forename><surname>Nicholas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Natl Med Assoc</title>
+		<imprint>
+			<biblScope unit="volume">94</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="7" to="15" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+	<note>Suppl</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Risk factors for chronic kidney disease: an update</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kazancioglu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Kidney international supplements</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="368" to="371" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Epidemiology and risk factors for diabetic kidney disease</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Harjutsalo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">H</forename><surname>Groop</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv Chronic Kidney Dis</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="260" to="266" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Plasma triglycerides and HDL-C levels predict the development of diabetic kidney disease in subjects with type 2 diabetes: the AMD annals initiative</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">T</forename><surname>Russo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">De</forename><surname>Cosmo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Viazzi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Pacilli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ceriello</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Genovese</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Guida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Giorda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Cucinotta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Pontremoli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="2278" to="2287" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Effect of gender on the progression of nondiabetic renal disease: a meta-analysis</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Neugarten</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Acharya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Silbiger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Soc Nephrol</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="319" to="329" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Sex and gender disparities in the epidemiology and outcomes of chronic kidney disease</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Carrero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hecking</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">C</forename><surname>Chesnaye</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename><surname>Jager</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat Rev Nephrol</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="151" to="164" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m" type="main">USRDS annual data report: epidemiology of kidney disease in the United States</title>
+		<imprint>
+			<date type="published" when="2015">2015. 2015</date>
+		</imprint>
+	</monogr>
+	<note>National Institutes of Health NIoDaDaKD: United States renal data system</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Age and gender-related incidence of chronic renal failure in a French urban area: a prospective epidemiologic study</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Jungers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Chauveau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Descamps-Latscha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Labrunie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Giraud</forename><forename type="middle">E</forename><surname>Man</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">K</forename><surname>Grunfeld</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Jacobs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nephrol Dial Transplant</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="1542" to="1546" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Prevalence and factors associated with CKD: a population study from Beijing</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Zuo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Zhou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Shi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Jiao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Liang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Kidney Dis</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="373" to="384" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Male sex and vascular risk factors affect cystatin C-derived renal function in older people without diabetes or overt vascular disease</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">B</forename><surname>Werner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Elmstahl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Christensson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Pihlsgard</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Age Ageing</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="411" to="417" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Determinants and burden of chronic kidney disease in a high-risk population in Korea: results from a crosssectional study</title>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">U</forename><surname>Kang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">H</forename><surname>Bae</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Ma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">W</forename><surname>Kim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Korean J Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="920" to="929" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Prognostic association of HbA1c and fasting plasma glucose with reduced kidney function in subjects with and without diabetes mellitus. Results from a population-based cohort study from Germany</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Schottker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Brenner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Koenig</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Muller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Rothenbacher</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Prev Med</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="596" to="600" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Time-dependent association between metabolic syndrome and risk of CKD in Korean men without hypertension or diabetes</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ryu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Chang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">Y</forename><surname>Woo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">B</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">G</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">I</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">S</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">S</forename><surname>Suh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Jeong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Yoon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Kidney Dis</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="59" to="69" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Metabolic syndrome and the development of CKD in American Indians: the strong heart study</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lucove</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Vupputuri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Heiss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>North</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Russell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Kidney Dis</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="21" to="28" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Are patients who have metabolic syndrome without diabetes at risk for developing chronic kidney disease? Evidence based on data from a large cohort screening population</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rashidi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ghanbarian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Azizi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin J Am Soc Nephrol</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="976" to="983" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Glycemic status and development of kidney disease: the Framingham heart study</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Fox</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Larson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">P</forename><surname>Leip</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Meigs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">W</forename><surname>Wilson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Levy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="2436" to="2440" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">The significance of impaired fasting glucose versus impaired glucose tolerance: importance of insulin secretion and resistance</title>
+		<author>
+			<persName><forename type="first">Carnevale</forename><surname>Schianca</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">P</forename><surname>Rossi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sainaghi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">P</forename><surname>Maduli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Bartoli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="1333" to="1337" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Natural history of cardiovascular disease in patients with diabetes: role of hyperglycemia</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Milicevic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Raz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Beattie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">N</forename><surname>Campaigne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sarwat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Gromniak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Kowalska</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Galic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hanefeld</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="S155" to="S160" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+	<note>Suppl</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Molecular mechanisms of insulin resistance in chronic kidney disease</title>
+		<author>
+			<persName><surname>Ss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">E</forename><surname>Mitch</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Kidney Int</title>
+		<imprint>
+			<biblScope unit="volume">88</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1233" to="1239" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Insulin resistance as a therapeutic target for chronic kidney disease</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Teta</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Ren Nutr</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="226" to="229" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Glomerular hyperfiltration in prediabetes and prehypertension</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Okada</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Yasuda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Tsushita</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Wakai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Hamajima</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Matsuo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nephrol Dial Transplant</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="1821" to="1825" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Impaired fasting glucose is associated with renal hyperfiltration in the general population</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Melsom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><forename type="middle">D</forename><surname>Mathisen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">C</forename><surname>Ingebretsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">G</forename><surname>Jenssen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Njolstad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Solbu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Toft</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">O</forename><surname>Eriksen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="1546" to="1551" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Insulin resistance and atherosclerosis</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Nigro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Osman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Dart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Little</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Endocr Rev</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="242" to="259" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Insulin resistance, inflammation, and blood pressure determine vascular dysfunction in CKD</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Dogra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Irish</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Chan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Watts</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Kidney Dis</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="926" to="934" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">A new equation to estimate glomerular filtration rate</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Levey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Stevens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">H</forename><surname>Schmid</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">L</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">F</forename><surname>Castro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">I</forename><surname>Feldman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Kusek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Eggers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Van Lente</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Greene</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">150</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="604" to="612" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

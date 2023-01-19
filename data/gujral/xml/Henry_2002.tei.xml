@@ -1,0 +1,771 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Impaired Fasting Glucose, Blood Pressure and Cardiovascular Disease Mortality</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Patrick</forename><surname>Henry</surname></persName>
+							<email>patrick.henry@lrb.ap-hop-paris.fr</email>
+						</author>
+						<author>
+							<persName><forename type="first">Frédérique</forename><surname>Thomas</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Athanase</forename><surname>Benetos</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Louis</forename><surname>Guize</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department">From Service de Cardiologie</orgName>
+								<orgName type="laboratory">and Centre d&apos;Investigations Préventives et Cliniques</orgName>
+								<orgName type="institution">Lariboisière Hospital (P.H.)</orgName>
+								<address>
+									<settlement>Paris</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="department">Service de Cardiologie</orgName>
+								<orgName type="institution">Hôpital Lariboisière</orgName>
+								<address>
+									<addrLine>Dr Patrick Henry, 2 rue Ambroise Paré</addrLine>
+									<postCode>75010</postCode>
+									<settlement>Paris, Paris</settlement>
+									<country>France. Correspondence, France</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Impaired Fasting Glucose, Blood Pressure and Cardiovascular Disease Mortality</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">BB5E47B4ED5407267DDFA0AFFB561B3C</idno>
+					<idno type="DOI">10.1161/01.HYP.0000032853.95690.26</idno>
+					<note type="submission">Received May 3, 2002; first decision May 28, 2002; revision accepted July 30, 2002.</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.1" ident="GROBID" when="2022-07-19T22:44+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>diabetes mellitus Ⅲ glucose Ⅲ blood pressure Ⅲ cardiovascular disease Ⅲ mortality Ⅲ metabolism</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Impaired fasting glucose (fasting plasma glucose 6.1 to 6.9 mmol/L [110 to 125 mg/dL]) is a common glycemic disorder which usually progress to diabetes mellitus. The relationships between impaired fasting glucose, other risk factors including blood pressure, and mortality have never been clearly investigated. We studied 63 443 consecutive men (ages 21 to 60 years), each of whom had a routine health examination with a fasting plasma glucose measurement. Men with known ischemic cardiac disease and treatment for diabetes or hypertension were excluded. Impaired fasting glucose was found in 10 773 (17.0%) of these men. Mean body mass index, serum triglyceride and cholesterol levels, and systolic, diastolic, and pulse blood pressure were significantly higher for men with impaired fasting glucose compared with those men with normal fasting glucose (fasting plasma glucose 3.9 to 6.0 mmol/L). When adjusted for confounding variables, relative risk of 8-year cardiovascular mortality associated with impaired fasting glucose was dependent on systolic blood pressure level (1.02 [95% CI: 0.62 to 1.70] when Ͻ140 mm Hg and 2.10 [95% CI: 1.16 to 3.80] between 140 and 160 mm Hg). Inversely, relative risk of 8-year cardiovascular mortality associated with moderate systolic hypertension (140 to 159 mm Hg) compared with normal systolic blood pressure (Ͻ140 mm Hg) was highly dependent on the glycemic status (2.97 [95% CI: 1.58 to 5.55] for men with impaired fasting glucose compared with 1.35 [95% CI: 0.84 to 2.18] in those with normal fasting glucose). Similar results were found concerning overall mortality. In conclusion, the presence of moderate systolic hypertension can identify subjects with impaired fasting glucose who are at risk of cardiovascular and overall mortality, and vice versa, probably through the metabolic syndrome. (Hypertension. 2002;40:458-463.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>I n 1997, the American Diabetes Association (ADA) defined 2 classes of glucose disturbance: impaired fasting glucose (IFG; fasting plasma glucose 6.1 to 6.9 mmol/L [110 to 125 mg/dL]) and diabetes (fasting plasma glucose Ն7 mmol/L [Ն126 mg/dL]), which differ from the World Health Organization category of impaired glucose tolerance (fasting plasma glucose 6.1 to 7.6 mmol/L [110 to 139 mg/dL]). <ref type="bibr" target="#b0">1,</ref><ref type="bibr" target="#b1">2</ref> IFG is probably a frequent glycemic disorder in the general population and is considered as a prediabetic state. <ref type="bibr" target="#b0">1</ref> Mortality associated with IFG has been examined in various studies with conflicting results, and this question has never been addressed while taking into account other risk factors. In the Funagata Diabetes Study, <ref type="bibr" target="#b2">3</ref> the authors concluded that impaired glucose tolerance was a risk factor for cardiovascular disease but not IFG. However, in this study, the population and the number of deaths was low (3 deaths from cardiovascular disease in the IFG group). Moreover, the role of blood pressure was not examined in this study. In the DECODE Study Group, <ref type="bibr" target="#b3">4</ref> postchallenge hyperglycemia was considered to be a crucial marker in assessing the risk of mortality in patients with abnormal fasting glucose, but the role of blood pressure was not examined. Finally, in the Paris Prospective Study, <ref type="bibr" target="#b4">5</ref> there were no clear thresholds for fasting glucose concentration above which mortality sharply increased.</p><p>Taking into account the fact that the combination of other risk factors, probably through the metabolic syndrome, may play a crucial role in determining the global risk of IFG, <ref type="bibr" target="#b5">6</ref> we analyzed the prevalence of IFG and the relationships between IFG, other risk factors including blood pressure, and 8-year overall and cardiovascular disease (CVD) mortality in a large general French population with relatively low cardiovascular risk.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Subjects</head><p>Subjects were examined at the Center d'Investigations Préventives et Cliniques (IPC Center), which is a medical center subsidized by the French national health care system (Sécurité Sociale, CNAM). This center provides all working and retired persons with a free health examination every 5 years and is one of the largest medical centers of this kind in France, having carried out approximately 20 000 examinations per year since 1970 for people living in the Paris area. In this study, we analyzed data that describe a population of 69 833 consecutive men who were Ն21 or Յ60 years of age. Subjects previously treated for diabetes mellitus or hypertension, those with a history of coronary heart disease, and subjects with a fasting plasma glucose Ͻ3.9 mmol/L or Ͼ6.9 mmol/L were excluded. Finally, 63 443 men, ages 21 through 60 years, who had a health checkup, including a fasting blood glucose measurement at the IPC center from 1982 through 1988 were studied.</p><p>The follow-up study period ended in December 1996, and all subjects were followed up for at least 8 years. Deceased subjects were identified through the mortality records of the Institut National de Statistiques et d'Etudes Economiques (INSEE), following a previously detailed procedure. <ref type="bibr" target="#b6">7</ref> Causes of mortality were taken from the death certificates. These data were provided by INSERM's department of mortality (unit SC 8). Causes of death were codified according to the International Classification of Disease (9th revision). The following codes were used to classify the various causes of mortality: 390 to 459 for cardiovascular disease (CVD) mortality and 430 to 439 for cerebrovascular mortality. Based on this procedure, 1083 subjects from our cohort were identified as having died during the follow-up period (822 in the normal fasting glucose [NFG] group and 261 in the IFG group), and 171 of these died from CVD (117 in the NFG group and 54 in the IFG group).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data Analysis</head><p>Fasting blood glucose levels were classified into 2 groups based on the American Diabetes Association classification: <ref type="bibr" target="#b0">1</ref> (1) NFG (fasting plasma glucose: 3.9 to 6 mmol/L [70 to 109 mg/dL]) and ( <ref type="formula">2</ref>) IFG (fasting plasma glucose: 6.1 to 6.9 mmol/L [110 to 125 mg/dL]).</p><p>A nurse measured supine blood pressure in the right arm using a manual sphygmomanometer. After a 10-minute rest period, blood pressure was measured 3 times, and the mean of the last 2 measurements was calculated. First and fifth Korotkoff phases were used to define systolic (SBP) and diastolic blood pressure (DBP). Both SBP and DBP levels were classified into 3 groups. SBP groups were as follows: Ͻ140 mm Hg, 140 to 159 mm Hg, and Ն160 mm Hg. DBP groups were as follows: Ͻ90 mm Hg, 90 to 99 mm Hg, and Ն100 mm Hg. Pulse pressure (PP) was defined as SBP minus DBP and was also classified into 3 groups: Ͻ50 mm Hg, 50 to 64 mm Hg, and Ն65 mm Hg.</p><p>Total plasma cholesterol and triglyceride levels were measured with a Technicon SMA-12 and were analyzed as continuous variables. Smoking status was assessed using a self-administered questionnaire containing dichotomic (yes or no) questions regarding current tobacco use. SBP, DBP, PP, total cholesterol, triglyceride, body mass index (BMI), and smoking status were compared by multivariate analysis after adjustment for age. Risk ratios (RR, 95% confidence interval [CI]) for overall and CVD mortality were evaluated using a Cox regression analysis, controlling for age, total cholesterol, triglyceride, BMI, tobacco use, and either SBP, DBP, PP or NFG, IFG. All statistical calculations and comparisons were made using the SAS statistical software program (SAS Institute, Inc).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>In the population, 10 773 men (17.0%) had IFG and 52 670 had NFG. Table <ref type="table" target="#tab_0">1</ref> summarizes the characteristics of the population according to the glucose disturbance status. Mean SBP, DBP, PP, total cholesterol, the rate of cholesterol Ͼ260 mg/dL, triglyceride level, BMI, and the rate of BMI Ͼ30kg/m 2 (except in the age class 21 to 30 years) were significantly higher in the IFG group than in the NFG group. The rate of current smoking was significantly lower in the IFG group than in the NFG group. Interestingly, the differences between IFG and NFG subjects were independent of the age class. Socio-professionnal categories were as follows: managers 54% versus 51%; employees 24% versus 28%; working classes 15% versus 11%; and other 7% versus 10%, respectively in IFG and NFG groups.</p><p>Table <ref type="table" target="#tab_2">2</ref> summarizes the distribution of abnormal SBP, DBP, and PP related to the glucose disturbance status. More than 25% of IFG subjects had abnormal SBP values. Similar tendencies were found for DBP and PP.</p><p>Figure <ref type="figure" target="#fig_0">1</ref> shows the prevalence of IFG according to age and SBP level. The prevalence of IFG was clearly increased with the elevation of systolic blood pressure and age. Over 40 years old, nearly 30% of men with a systolic blood pressure between 140 and 159 mm Hg had IFG.</p><p>Table <ref type="table" target="#tab_4">3</ref> shows the crude number and percentages of 8-year overall deaths and CVD deaths in each blood pressure and glycemic status group. IFG was associated with an increased risk of overall and CVD mortality, which appeared to be dependent on blood pressure level.</p><p>Table <ref type="table" target="#tab_3">4</ref> summarizes the relative risk (RR) for 8-year CVD mortality and total mortality of IFG patients compared with NFG patients for different levels of SBP, DBP, or PP,  <ref type="formula">11</ref>) 137 ( <ref type="formula">12</ref>) 131 ( <ref type="formula">11</ref>) 138 ( <ref type="formula">14</ref>) 133 ( <ref type="formula">12</ref>) 142 ( <ref type="formula">15</ref>) 137 ( <ref type="formula">14</ref>) DBP, mm Hg 82 ( <ref type="formula">9</ref>) 79 ( <ref type="formula">9</ref>) 84 ( <ref type="formula">10</ref>) 81 ( <ref type="formula">9</ref>) 86 ( <ref type="formula">10</ref>) 83 ( <ref type="formula">9</ref>) 88 ( <ref type="formula">10</ref>) 85 (10)   PP, mm Hg 55 ( <ref type="formula">9</ref>) 52 ( <ref type="formula">8</ref>) 53 ( <ref type="formula">8</ref>) 51 ( <ref type="formula">8</ref>) 52 ( <ref type="formula">9</ref>) 50 ( <ref type="formula">8</ref>) 54 ( <ref type="formula">9</ref>) 52 ( <ref type="formula">9</ref>) adjusted for age, cholesterol and triglyceride levels, BMI, and smoking. When SBP was Ͻ140 mm Hg, CVD mortality was similar in IFG compared with NFG subjects. When SBP was between 140 and 159 mm Hg, CVD mortality was significantly higher in IFG than in subjects. For higher levels of systolic blood pressure, no significant difference was found between IFG and NFG subjects. Similar results were found for PP, but not for DBP. Similar tendencies were found for total mortality. There was no significant interaction between glucose and SBP levels (continuous variables), confirming a cluster limited to IFG and moderate systolic hypertension. However, the relative risk of CVD mortality associated with IFG compared with NFG, after adjustment for age, cholesterol and triglyceride levels, BMI, and smoking status (RRϭ1.44; 95% CI: 1.09 to 1.90), disappeared after inclusion of SBP as a continuous variable in the model (RRϭ1.27; 95% CI: 0.92 to 1.77), confirming a role of blood pressure in the determination of CVD mortality associated with IFG. Table <ref type="table" target="#tab_5">5</ref> summarizes RR for 8-year CVD mortality and total mortality of patients with moderate systolic hypertension (140Յ SBP Յ159 mm Hg) compared with patients with normal systolic blood pressure (SBP Ͻ140 mm Hg) adjusted for age, cholesterol and triglyceride levels, BMI, and smoking. CVD mortality associated with moderate systolic hypertension was clearly increased in the IFG group, but not in the NFG group. Similar tendencies were found for total mortality.</p><formula xml:id="formula_0">Cholesterol</formula><p>Cholesterol level, triglyceride level, or BMI were much less accurate for determining CVD mortality of IFG compared with NFG subjects: RRϭ1.01 (95% CI: 1.01 to 1.01) for cholesterol level; RRϭ1.00 (95% CI: 1.00 to 1.00) for triglyceride level; and RRϭ1.04 (95% CI: 0.99 to 1.10) for BMI. Only current smoking appeared to play a more important role in determining CVD mortality of IFG compared with NFG subjects (RRϭ2.21; 95% CI: 1.46 to 3.33).</p><p>CVD mortality was primarily due to cardiac disease. The incidence of strokes was low and similar in IFG men compared with NFG men (12% of CVD deaths in NFG men and 11% in IFG men). Other main causes of mortality were similar in NFG and IFG groups (cancer 47% vs 47%; accident 12% vs 9%, respectively).</p><p>The analysis of actuarial survival curve (CVD mortality) demonstrated that survival was significantly impaired in patients with IFG plus moderate systolic hypertension, but IFG alone and moderate systolic hypertension (MSH) alone were only associated with a nonsignificant increase in CVD mortality compared with normal subjects.</p><p>Figure <ref type="figure" target="#fig_1">2</ref> shows the relationship between CVD ant total mortality and the level of SBP without adjustment. The increase in mortality found in IFG subjects compared with NFG subjects appears to be significant when SBP is Ն140 mm Hg.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>Our results clearly demonstrate that in a large, relatively low-risk population of men (volunteers for a free medical examination), IFG is a frequent glycemic disorder which significantly increases 8-year overall and CVD mortality when associated with SBP Ն140 mm Hg. Moreover, the presence of IFG appears to play a significant role in determining mortality associated with moderate systolic hypertension. We can hypothesize that the increased risk of mortality previously described in the population of moderate systolic hypertension could be related, at least in part, to the associ-   <ref type="bibr">8 -11</ref> The group of subjects with SBP Ն160 mm Hg and IFG does not demonstrate a clear increase in mortality compared with subjects with SBP Ն160 mm Hg and NFG. However, there are several limitations with the population of patients with SBP Ն160 mm Hg. (1) The number of patients with severe hypertension is low in this relatively healthy population. The statistical power for detecting a relative risk of 1.5 associated with IFG in this group is 23% and 57% for a relative risk of 2.0. Thus, statistical power appears too low in this group to detect a relevant difference. (2) This population is heterogeneous, containing patients with very severe hypertension (for example SBP Ͼ180 mm Hg) and others with less severe hypertension. Making subgroups in the group of patients with SBP Ն160 mm Hg would induce a statistical power that is too low. (3) We highly recommended that these patients see a physician, and certainly, most of them had a treatment for hypertension started soon after their visit in the IPC center. For all these reasons, even if we show the results concerning SBP Ն160 mm Hg, it appears difficult to make clear conclusions about this group.</p><p>The association found in our population between hypertension and IFG can probably be related to the metabolic syndrome. <ref type="bibr" target="#b11">12</ref> Hyperglycemia clusters with hypertension, dyslipidemia, and obesity and occurs in isolation in less than 20% of the population. <ref type="bibr" target="#b12">13</ref> It has been previously demonstrated that the presence of hypertension marks the presence of additional hyperinsulinemia and insulin resistance, independently of any impairment of glucose tolerance. <ref type="bibr" target="#b13">14</ref> An elevated incidence of systolic hypertension was found in Pima Indians with glucose intolerance: 13.0% had SBP Ն160 mm Hg compared with only 7.1% in normoglycemic patients and 19.8% in diabetic patients. <ref type="bibr" target="#b14">15</ref> Moreover, Fuller et al <ref type="bibr" target="#b15">16</ref> have previously shown, in a cohort of 18 403 men, that in glucose intolerant patients, the risk factors most strongly related to subsequent death from coronary artery disease were age and blood pressure, with less consistent relationships to smoking, cholesterol level, and obesity. The link between insulin resistance and hypertension could have a genetic basis, <ref type="bibr" target="#b16">17</ref> and our result concerning the cluster existing between these 2 diseases is consistent with this hypothesis.   The substantially increased risk of mortality found in our IFG patients concurs with results found in previous studies concerning glucose intolerance. Celentano et al <ref type="bibr" target="#b17">18</ref> have demonstrated that impaired glucose tolerance is associated with abnormalities of cardiac function, similar to that found in diabetic patients. Circulating adhesion molecules (intercellular adhesion molecule [ICAM]-1, vascular cell adhesion molecule [VCAM]-1, and E-Selectin) are increased in patients with impaired glucose tolerance. <ref type="bibr" target="#b18">19</ref> Caballero et al <ref type="bibr" target="#b19">20</ref> have shown that abnormalities in vascular reactivity and biochemical markers of endothelial cell activation are present early in individuals at risk of developing type 2 diabetes, even at a stage when normal glucose tolerance exists. Finally, the Atherosclerosis Risk in Communities (ARIC) study has demonstrated that persons with glucose intolerance have stiffer arteries than their counterparts with normal glucose tolerance. <ref type="bibr" target="#b20">21</ref> There are several limitations to this study. Firstly, considering the high rate of IFG found in the men of our population (17.0%), a recruitment bias cannot completely be excluded because the incentive to have a free medical examination may be determined by an individual's perception of a possible medical disorder. However, based on the national statistics on mortality, our cohort presented a 20% lower mortality rate than the general French population. This can be explained by the fact that persons coming for the health checkup are apparently healthy and motivated to be followed up. Compared with the national data, the distribution of the different causes of mortality in our cohort is identical to that found in the general population. Secondly, we used only one baseline glucose measurement to classify individuals into glucose categories. Over time, many of individuals who had normal glucose levels at the time of their visit probably developed IFG, and many of those with IFG probably developed diabetes. Because these factors may influence the results, the cut point for mortality data was 8 years to avoid any significant progression of the glucose disturbance status in each group. Thirdly, the crude number of CVD death is not very high in our population of relatively healthy persons. However, if we are sure that deaths labeled "cardiovascular death" are really caused by cardiovascular disease, we cannot exclude that a percentage of the subjects with other causes of death are not linked to CVD. Then, we have also conducted analysis on total mortality throughout this study and found quite similar results compared with CVD mortality. Fourthly, our study was focused on men. In women, IFG tended to be associated with an increase in 8-year CVD mortality (0.17% compared with 0.08% in the NFG group; RRϭ2.07; 25% CI: 0.88 to 4.90), which disappeared after adjustment for age (RRϭ0.97; 25% CI: 0.41 to 2.32; 6 deaths in the group of IFG women). Cardiovascular risk of death in a relatively young population of women is lower than in men, and the incidence of IFG was low in the women of our population (6.8%). The combination of these 2 points leads to very low statistical power in this population. We cannot, however, exclude the possibility that the results found in the men of our population could be extended, at least in part, to women. Finally, in the age-ranges 21 to 30 years or 31 to 40 years, we found a high rate of men with PP Ն50 mm Hg and SBP Ն140 mm Hg. We have no clear explanations concerning this peculiarity. However, if PP, a surrogate measure of arterial stiffness, is the best predictor of CVD risk in older subjects, the controversy is true in younger subjects, <ref type="bibr" target="#b21">22</ref> and Willkinson et al <ref type="bibr" target="#b22">23</ref> found that there were important differences among central and peripheral SBP, DBP, and PP and demonstrated that peripheral PP underestimates the effects that DBP has on central PP in young subjects.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Perspectives</head><p>The association between IFG and moderate systolic hypertension may be the way to identify men at risk for CVD mortality, probably through the metabolic syndrome. Future trials concerning blood pressure management must take into consideration IFG. Moreover, further studies are necessary to assess whether antihypertensive or antidiabetic treatments can reduce the risk for these patients and to determine what the target blood pressure should be. </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. Prevalence of IFG (% of the overall population) according to age and SBP classes. IFG indicates impaired fasting glucose; SBP, systolic blood pressure.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2 .</head><label>2</label><figDesc>Figure 2. Eight-year cardiovascular (A) and total mortality (B) rates in IFG and NFG subjects depending on SBP level. NFG indicates normal fasting glucose; CVD mortality, cardiovascular disease mortality. *PϽ0.05 versus NFG.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>TABLE 1 . Description of the Population According to Glycemic Status and Age</head><label>1</label><figDesc></figDesc><table><row><cell>Age Ranges, yr</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>TABLE 2 . Description of the Population According to Systolic, Diastolic, and Pulse Blood Pressure Classes</head><label>2</label><figDesc></figDesc><table><row><cell>460</cell><cell>Hypertension</cell><cell cols="2">October 2002</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">Age Ranges, yr</cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell>21-30</cell><cell></cell><cell>31-40</cell><cell></cell><cell>41-50</cell><cell></cell><cell>51-60</cell></row><row><cell></cell><cell></cell><cell></cell><cell>IFG</cell><cell>NFG</cell><cell>IFG</cell><cell>NFG</cell><cell>IFG</cell><cell>NFG</cell><cell>IFG</cell><cell>NFG</cell></row><row><cell></cell><cell cols="2">SBP 140 -159 mm Hg</cell><cell>20.0</cell><cell>10.4</cell><cell>18.5</cell><cell>9.8</cell><cell>21.6</cell><cell>12.7</cell><cell>23.5</cell><cell>18.6</cell></row><row><cell></cell><cell cols="2">SBPՆ160 mm Hg</cell><cell>6.5</cell><cell>1.8</cell><cell>7.0</cell><cell>2.6</cell><cell>9.5</cell><cell>4.3</cell><cell>14.9</cell><cell>9.0</cell></row><row><cell></cell><cell cols="2">DBP 90-99 mm Hg</cell><cell>24.2</cell><cell>15.2</cell><cell>28.3</cell><cell>18.9</cell><cell>31.6</cell><cell>24.4</cell><cell>34.3</cell><cell>30.5</cell></row><row><cell></cell><cell cols="2">DBPՆ100 mm Hg</cell><cell>5.9</cell><cell>2.6</cell><cell>9.4</cell><cell>4.3</cell><cell>14.2</cell><cell>7.5</cell><cell>17.5</cell><cell>12.1</cell></row><row><cell></cell><cell cols="2">PP 50-64 mm Hg</cell><cell>61.3</cell><cell>56.3</cell><cell>56.9</cell><cell>49.9</cell><cell>55.7</cell><cell>46.3</cell><cell>56.7</cell><cell>51.8</cell></row><row><cell></cell><cell cols="2">PPՆ65 mm Hg</cell><cell>17.1</cell><cell>8.7</cell><cell>9.9</cell><cell>4.8</cell><cell>9.1</cell><cell>4.6</cell><cell>14.6</cell><cell>9.3</cell></row><row><cell></cell><cell cols="9">Data are presented as % of patients in each group (NFG or IFG) for each parameter (SBP, DBP, PP). Each value</cell></row><row><cell></cell><cell cols="5">is significantly different (PϽ0.05) compared to NFG group.</cell><cell></cell><cell></cell><cell></cell></row></table><note>ation with IFG, and this issue has never been taken into consideration in previous studies. Similar results are found for PP, but not for DBP, a key role of SBP in determining cardiovascular risk of IFG. We have no clear explanations concerning the predictive role of SBP compared with DBP for determining CVD mortality in IFG. However, it has been previously demonstrated that SBP was a key determinant of CVD mortality, compared with DBP, in type 2 diabetes mellitus.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>TABLE 4 . Risk Ratios for 8-Year Cardiovascular Disease Mortality and Total Mortality of IFG Compared With NFG</head><label>4</label><figDesc></figDesc><table><row><cell></cell><cell>Cardiovascular Mortality</cell><cell>Total Mortality</cell></row><row><cell>All</cell><cell>1.44 (1.09-1.90)</cell><cell>1.20 (1.05-1.39)</cell></row><row><cell>SBPϽ140 mm Hg</cell><cell>1.02 (0.62-1.70)</cell><cell>1.08 (0.90-1.31)</cell></row><row><cell>140ՅSBPՅ159 mm Hg</cell><cell>2.10 (1.16-3.80)</cell><cell>1.40 (1.05-1.86)</cell></row><row><cell>SBPՆ160 mm Hg</cell><cell>1.19 (0.60-2.35)</cell><cell>0.98 (0.69-1.39)</cell></row><row><cell>DBPϽ90 mm Hg</cell><cell>1.25 (0.72-2.17)</cell><cell>1.13 (0.92-1.39)</cell></row><row><cell>90ՅDBPՅ99 mm Hg</cell><cell>1.59 (0.93-2.72)</cell><cell>1.27 (0.99-1.63)</cell></row><row><cell>DBPՆ100 mm Hg</cell><cell>1.22 (0.65-2.28)</cell><cell>1.06 (0.76-1.46)</cell></row><row><cell>PPϽ50 mm Hg</cell><cell>0.95 (0.39-2.31)</cell><cell>0.99 (0.69-1.42)</cell></row><row><cell>50ՅPPՅ64 mm Hg</cell><cell>1.66 (1.02-2.68)</cell><cell>1.15 (0.92-1.45)</cell></row><row><cell>PPՆ65 mm Hg</cell><cell>1.32 (0.55-3.15)</cell><cell>1.34 (0.91-1.98)</cell></row></table><note>Data are presented as risk ratio (95% confidence interval); data are adjusted for age, cholesterol and triglyceride levels, body mass index (BMI), and tobacco use.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>TABLE 3 . Total Number of Patients, 8-Year Overall Deaths, and Cardiovascular Deaths in Each Blood-Pressure and Glycemic-Status Group</head><label>3</label><figDesc></figDesc><table><row><cell></cell><cell></cell><cell>NFG (nϭ52 670)</cell><cell></cell><cell></cell><cell>IFG (nϭ10 773)</cell><cell></cell></row><row><cell></cell><cell>n</cell><cell>Overall Deaths</cell><cell>CV Deaths</cell><cell>n</cell><cell>Overall Deaths</cell><cell>CV Deaths</cell></row><row><cell>SBPϽ140 mm Hg</cell><cell>44 040</cell><cell>606 (1.38)</cell><cell>74 (0.17)</cell><cell>7376</cell><cell>137 (1.86)</cell><cell>19 (0.26)</cell></row><row><cell>140ՅSBPՅ159 mm Hg</cell><cell>6485</cell><cell>129 (2.00)</cell><cell>23 (0.35)</cell><cell>2289</cell><cell>75 (3.28)</cell><cell>21 (0.92)</cell></row><row><cell>SBPՆ160 mm Hg</cell><cell>2145</cell><cell>87 (4.07)</cell><cell>20 (0.91)</cell><cell>1108</cell><cell>49 (4.42)</cell><cell>14 (1.22)</cell></row><row><cell>DBPϽ90 mm Hg</cell><cell>38 055</cell><cell>510 (1.34)</cell><cell>55 (0.14)</cell><cell>6022</cell><cell>113 (1.88)</cell><cell>17 (0.28)</cell></row><row><cell>90ՅDBPՅ99 mm Hg</cell><cell>11 353</cell><cell>206 (1.81)</cell><cell>36 (0.32)</cell><cell>3323</cell><cell>91 (2.74)</cell><cell>21 (0.63)</cell></row><row><cell>DBPՆ100 mm Hg</cell><cell>3261</cell><cell>106 (3.25)</cell><cell>26 (0.80)</cell><cell>1428</cell><cell>57 (3.99)</cell><cell>16 (1.09)</cell></row><row><cell>PPϽ50 mm Hg</cell><cell>22 418</cell><cell>277 (1.24)</cell><cell>39 (0.17)</cell><cell>3352</cell><cell>53 (1.59)</cell><cell>8 (0.24)</cell></row><row><cell>50Յ50ՅPPՅ64 mm Hg</cell><cell>26 787</cell><cell>444 (1.66)</cell><cell>62 (0.23)</cell><cell>6127</cell><cell>147 (2.40)</cell><cell>34 (0.55)</cell></row><row><cell>PPՆ65 mm Hg</cell><cell>3465</cell><cell>101 (2.90)</cell><cell>16 (0.46)</cell><cell>1294</cell><cell>61 (4.71)</cell><cell>12 (0.93)</cell></row><row><cell cols="7">Results are presented as n (% in each blood pressure and glycemic status group) for 8-year overall and CV deaths.</cell></row><row><cell cols="3">CV deaths indicate cardiovascular deaths.</cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_5"><head>TABLE 5 . Risk Ratios for 8-Year Cardiovascular Disease Mortality and Total Mortality of Moderate Systolic Hypertension Compared With Normal Systolic Blood Pressure in NFG and IFG Groups</head><label>5</label><figDesc></figDesc><table><row><cell></cell><cell>Cardiovascular Mortality</cell><cell>Total Mortality</cell></row><row><cell>All</cell><cell>1.49 (1.12-1.98)</cell><cell>1.41 (1.26-1.59)</cell></row><row><cell>NFG</cell><cell>1.35 (0.84-2.18)</cell><cell>1.25 (1.03-1.51)</cell></row><row><cell>IFG</cell><cell>2.97 (1.58-5.55)</cell><cell>1.64 (1.24-2.19)</cell></row><row><cell cols="3">Data are presented as risk ratio (95% confidence interval); data are adjusted</cell></row><row><cell cols="3">for age, cholesterol and triglyceride levels, BMI, and tobacco use. Moderate</cell></row><row><cell cols="3">systolic hypertension; 140ՅSBPՅ159 mm Hg; normal systolic blood pressure:</cell></row><row><cell>SBPϽ140 mm Hg.</cell><cell></cell><cell></cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">Hypertension October 2002</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgments</head><p>This study was performed with grants from INSERM (Institut National de la Santé et de la Recherche Médicale, Paris). We thank Merck Pharmaceutical Company for its financial support and the "Caisse Nationale d'Assurance Maladie" (CNAM) for its support.</p></div>
+			</div>
+
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Report of the expert committees on the diagnosis and classification of diabetes mellitus</title>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="1183" to="1197" />
+			<date type="published" when="1997">1997</date>
+			<publisher>American Diabetes Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">World Health Organization. WHO Expert Committee on Diabetes Mellitus: second report. WHO Technical Report Series 646. Geneva, Switzerland: World Health Organization</title>
+		<imprint>
+			<date type="published" when="1980">1980</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Impaired glucose tolerance is a risk factor for cardiovascular disease, but not impaired fasting glucose. The Funagata Diabetes Study</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tominaga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Eguchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Manaka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Igarashi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Kato</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sekikawa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="920" to="924" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Consequence of the new diagnostic criteria for diabetes in older men and women. Diabetes Care</title>
+		<author>
+			<persName><surname>The Decode Study</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Group</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="1667" to="1671" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Is there a glycemic threshold for mortality risk ?</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Balkau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bertrais</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Ducimetière</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Eschwege</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="696" to="699" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Historic perspectives on the relative contributions of diastolic and systolic blood pressure elevation to cardiovascular risk profile</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">B</forename><surname>Kannel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am Heart J</title>
+		<imprint>
+			<biblScope unit="volume">138</biblScope>
+			<biblScope unit="page" from="205" to="210" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Pulse pressure: a predictor of long term mortality in a French male population</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Benetos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Safar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rudnichi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Smulyan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Richard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Ducimetieere</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Guize</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hypertension</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="1410" to="1415" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Diabetes, other risk factors, and 12-yr cardiovascular mortality for men screened in the Multiple Risk Factor Intervention Trial</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Stamler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Vaccaro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Neaton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Wentworth</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="434" to="444" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Hypertension in Diabetes Study (HDS). I. Prevalence of hypertension in newly presenting type 2 diabetic patients and the association with risk factors for cardiovascular and diabetic complications</title>
+	</analytic>
+	<monogr>
+		<title level="j">J Hypertens</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="309" to="317" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Increased risk of cardiovascular complications in hypertensive type 2 diabetic patients</title>
+	</analytic>
+	<monogr>
+		<title level="m">Hypertension in Diabetes Study (HDS). II</title>
+				<imprint>
+			<date type="published" when="1993">1993</date>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="319" to="325" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Morbidity and mortality in diabetics in the Framingham population. Sixteen year follow-up</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Garcia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Mcnamara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Gordon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">B</forename><surname>Kannel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="105" to="111" />
+			<date type="published" when="1974">1974</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Insulin resistance in hypertension</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Ferrannini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Buzzigoli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Bonadonna</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Giorico</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Oleggini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Graziadei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Pedrinelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Brandi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bevilacqua</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">317</biblScope>
+			<biblScope unit="page" from="350" to="357" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Role of insulin resistance in human disease</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Reaven</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="1595" to="1607" />
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Evidence for an association of high blood pressure and hyperinsulinemia in obese man</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Manicardi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Camellini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Bellodi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Coscelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Ferrannini</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Endocrinol Metab</title>
+		<imprint>
+			<biblScope unit="volume">62</biblScope>
+			<biblScope unit="page" from="1302" to="1304" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Insulin and hypertension. Relationship to obesity and glucose intolerance in Pima indians</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">F</forename><surname>Saad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">C</forename><surname>Knowler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Pettitt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">G</forename><surname>Nelson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Mott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">H</forename><surname>Bennett</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page" from="1430" to="1435" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Mortality from coronary heart disease and stroke in relation to degree of glycemia: the Whitehall Study</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Fuller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Shipley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Rose</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Jarrett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Keen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMJ</title>
+		<imprint>
+			<biblScope unit="volume">287</biblScope>
+			<biblScope unit="page" from="867" to="870" />
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Coincident linkage of fasting plasma insulin and blood pressure to chromosome 7q in hypertensive Hispanic families</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">S</forename><surname>Cheng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Davis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">J</forename><surname>Raffel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">H</forename><surname>Xiang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Quinones</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">Z</forename><surname>Wen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Toscano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Diaz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Pressman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">C</forename><surname>Henderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Azen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">A</forename><surname>Hsueh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Buchanan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">I</forename><surname>Rotter</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">104</biblScope>
+			<biblScope unit="page" from="1255" to="1260" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Early abnormalities of cardiac function in non-insulin-dependent diabetes mellitus and impaired glucose tolerance</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Celentano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Vaccaro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Tammaro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Galderisi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Crivaro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Oliviero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Imperatore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Palmieri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Iovino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Riccardi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">76</biblScope>
+			<biblScope unit="page" from="1173" to="1176" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Early activation of vascular endothelium in non-obese, NFG essential hypertensive patients with multiple metabolic abnormalities</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Ferri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Desideri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Baldoncini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Bellini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">De</forename><surname>Angelis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Mazzocchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Santucci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="660" to="667" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Microvascular and macrovascular reactivity is reduced in subjects at risk for type 2 diabetes</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Caballero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Arora</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Saouaf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Lim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Smakowski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">Y</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">L</forename><surname>King</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">W</forename><surname>Logerfo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Horton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Veves</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="1856" to="1862" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Non-insulindependent diabetes mellitus and fasting glucose and insulin concentrations are associated with arterial stiffness indexes. The ARIC Study</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Salomaa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Riley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Kark</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Nardo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Folsom</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">91</biblScope>
+			<biblScope unit="page" from="1432" to="1443" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Systolic and diastolic blood pressure, pulse pressure, and mean arterial pressure as predictors of cardiovascular disease risk in men</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">D</forename><surname>Sesso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Stampfer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Rosner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">H</forename><surname>Hennekens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Gaziano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Manson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Glynn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hypertension</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="801" to="807" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Pressure amplification explains why pulse pressure in unrelated to risk in young subjects</title>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">B</forename><surname>Wilkinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Franklin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">R</forename><surname>Hall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Tyrrell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Cockcroft</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hypertension</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="1461" to="1466" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

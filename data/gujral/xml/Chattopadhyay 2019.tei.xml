@@ -1,0 +1,903 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Pre-diabetes mellitus newly diagnosed after myocardial infarction adversely affects prognosis in patients without known diabetes</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Sudipta</forename><surname>Chattopadhyay</surname></persName>
+							<email>sudipta.chattopadhyay@nhs.net</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Cardiology</orgName>
+								<orgName type="institution">Milton Keynes University Hospital</orgName>
+								<address>
+									<settlement>Milton Keynes</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Anish</forename><surname>George</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Cardiology</orgName>
+								<orgName type="institution">Scunthorpe General Hospital</orgName>
+								<address>
+									<settlement>Scunthorpe</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Joseph</forename><surname>John</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Cardiology</orgName>
+								<orgName type="institution">Castle Hill Hospital</orgName>
+								<address>
+									<settlement>Cottingham</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Thozhukat</forename><surname>Sathyapalan</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Academic Endocrinology, Diabetes and Metabolism</orgName>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="department">Hull York Medical School</orgName>
+								<orgName type="institution">University of Hull</orgName>
+								<address>
+									<settlement>Hull</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff5">
+								<orgName type="department">Department of Cardiology</orgName>
+								<orgName type="institution">Milton Keynes University Hospital</orgName>
+								<address>
+									<addrLine>Standing Way, Milton Keynes</addrLine>
+									<postCode>MK6 5LD</postCode>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Pre-diabetes mellitus newly diagnosed after myocardial infarction adversely affects prognosis in patients without known diabetes</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">BAD6A6EFE7181783D26FDA9139ABB4AC</idno>
+					<idno type="DOI">10.1177/1479164119845561</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.1" ident="GROBID" when="2022-07-19T22:44+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Acute coronary syndrome</term>
+					<term>myocardial infarction</term>
+					<term>diabetes</term>
+					<term>oral glucose tolerance test</term>
+					<term>impaired fasting glucose</term>
+					<term>impaired glucose tolerance</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Background: Effect of pre-diabetes mellitus on post-myocardial infarction prognosis is unclear. Methods: Retrospective cohort analysis of 1056 myocardial infarction survivors with fasting plasma glucose and 2-h postload plasma glucose measured. Major adverse cardiovascular events included death, non-fatal reinfarction and ischaemic stroke. Cox proportional hazard regression identified predictors of event-free survival. Continuous net reclassification improvement and integrated discrimination improvement determined the added predictive value of glycaemic indices. Results: Major adverse cardiovascular events occurred in 25.1% and 16.4% patients with and without pre-diabetes mellitus (hazard ratio with pre-diabetes mellitus: 1.56; 95% confidence interval: 1.17-2.08; p = 0.003) in the whole cohort and in 24.1% and 17.2% patients (hazard ratio with pre-diabetes mellitus, 1.43; 95% confidence interval: 1.03-1.98; p = 0.033) in the matched cohort, respectively. Pre-diabetes mellitus predicted major adverse cardiovascular events-free survival in whole (hazard ratio: 1.39; 95% confidence interval: 1.03-1.89; p = 0.033) and matched cohorts (hazard ratio: 1.42; 95% confidence interval: 1.01-1.99; p = 0.043). The 2-h post-load plasma glucose, but not fasting plasma glucose, predicted major adverse cardiovascular events-free survival in the whole (hazard ratio: 1.16; 95% confidence interval: 1.07-1.26; p &lt; 0.0001) and matched cohorts (hazard ratio: 1.20; 95% confidence interval: 1.09-1.31; p &lt; 0.0001). Adding 2-h post-load plasma glucose to models containing fasting plasma glucose, significantly improved net reclassification improvement and integrated discrimination improvement for both cohorts, but not vice versa. Conclusion: Pre-diabetes mellitus predicts major adverse cardiovascular events after myocardial infarction. The 2-h post-load plasma glucose predicts prognosis better than fasting plasma glucose in these patients.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>New diagnosis of pre-diabetes mellitus (pDM), i.e., impaired fasting glucose (IFG) and impaired glucose tolerance (IGT), is common in patients after acute coronary syndrome (ACS) or myocardial infarction (MI). <ref type="bibr" target="#b0">[1]</ref><ref type="bibr" target="#b1">[2]</ref><ref type="bibr" target="#b2">[3]</ref><ref type="bibr" target="#b3">[4]</ref><ref type="bibr" target="#b4">[5]</ref><ref type="bibr" target="#b5">[6]</ref><ref type="bibr" target="#b6">[7]</ref><ref type="bibr" target="#b7">[8]</ref><ref type="bibr" target="#b8">[9]</ref><ref type="bibr" target="#b9">[10]</ref><ref type="bibr" target="#b10">[11]</ref> Some of the studies <ref type="bibr" target="#b0">[1]</ref><ref type="bibr" target="#b1">[2]</ref><ref type="bibr" target="#b2">[3]</ref><ref type="bibr" target="#b3">[4]</ref><ref type="bibr" target="#b9">[10]</ref><ref type="bibr" target="#b10">[11]</ref><ref type="bibr" target="#b11">[12]</ref><ref type="bibr" target="#b12">[13]</ref><ref type="bibr" target="#b13">[14]</ref> associating new diagnosed abnormal glucose tolerance (AGT) with adverse post-MI prognosis, report the effect of IGT separately. <ref type="bibr" target="#b10">11,</ref><ref type="bibr" target="#b11">12</ref> IFG adversely affected post-ACS prognosis in some <ref type="bibr" target="#b4">[5]</ref><ref type="bibr" target="#b5">[6]</ref><ref type="bibr" target="#b6">[7]</ref><ref type="bibr" target="#b7">[8]</ref><ref type="bibr" target="#b8">[9]</ref><ref type="bibr" target="#b14">15</ref> but not other studies. <ref type="bibr" target="#b3">4,</ref><ref type="bibr" target="#b11">12,</ref><ref type="bibr" target="#b15">[16]</ref><ref type="bibr" target="#b16">[17]</ref><ref type="bibr" target="#b17">[18]</ref> pDM diagnosed on HbA1c did not predict post-MI prognosis. <ref type="bibr" target="#b17">18,</ref><ref type="bibr" target="#b18">19</ref> The 2 h post-load glucose (2h-PG) was not measured in studies suggesting adverse post-ACS prognosis in patients with IFG. <ref type="bibr" target="#b3">[4]</ref><ref type="bibr" target="#b4">[5]</ref><ref type="bibr" target="#b5">[6]</ref><ref type="bibr" target="#b6">[7]</ref><ref type="bibr" target="#b7">[8]</ref><ref type="bibr" target="#b8">[9]</ref><ref type="bibr" target="#b11">12,</ref><ref type="bibr" target="#b14">[15]</ref><ref type="bibr" target="#b15">[16]</ref><ref type="bibr" target="#b16">[17]</ref><ref type="bibr" target="#b17">[18]</ref> It is thus unclear whether the abnormal fasting plasma glucose (FPG) or the associated raised 2h-PG affected the outcomes. Studies suggesting association of adverse outcomes with AGT <ref type="bibr" target="#b0">1,</ref><ref type="bibr" target="#b1">2,</ref><ref type="bibr" target="#b3">4,</ref><ref type="bibr" target="#b9">[10]</ref><ref type="bibr" target="#b10">[11]</ref><ref type="bibr" target="#b11">[12]</ref> do not report the effect of 2h-PG on events either. Some studies suggest that 2h-PG is a better determinant of post-ACS prognosis than FPG, APG and HbA1c, <ref type="bibr" target="#b12">13,</ref><ref type="bibr" target="#b19">20,</ref><ref type="bibr" target="#b20">21</ref> although not specifically in the pDM patients.</p><p>The post-ACS patients are at high risk of cardiovascular events, and pDM may impose additional risk of adverse prognosis. In this study, we explore the relation of pDM with post-MI prognosis in patients without known diabetes mellitus (KDM) and whether FPG or 2h-PG best predicts adverse events in this group.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head><p>Following Glucose tolerance in Acute Myocardial Infarction (GAMI) study <ref type="bibr" target="#b2">3</ref> and according to some guidelines, <ref type="bibr" target="#b21">22,</ref><ref type="bibr" target="#b23">23</ref> all consecutive post-MI survivors admitted to our unit without KDM underwent pre-discharge oral glucose tolerance test (OGTT) on/after the third day of admission as routine clinical care. Data on age, gender, risk factors for coronary artery disease (CAD), previous history of MI, pre-hospital and discharge medications, vital signs, presence of congestive heart failure and ST-segment depression, troponin I, creatinine, FPG, 2h-PG and revascularisation status were prospectively recorded for the Myocardial Infarction National Audit Project. For this cohort study, we retrospectively analysed these data on patients admitted between November 2005 and October 2008, newly diagnosed with pDM. Patients who died or were transferred to other centres before the OGTT or did not tolerate OGTT were excluded. Permission was sought from the East Yorkshire and North Lincolnshire Research Ethics Committee to analyse the data. As the study retrospectively analysed routinely collected anonymised data on standard clinical practice to contribute to a national audit database, the committee waived the need for formal ethical approval and patient consent. <ref type="bibr" target="#b10">11</ref> FPG (after fast of ⩾8 h) and 2h-PG (2 h after ingestion of glucose (75 g) in 200 mL of water) were enzymatically determined using the glucose oxidase method. Glycaemic categories: normal glucose tolerance (NGT): FPG &lt;5.6 mmol/L and 2h-PG &lt;7.8 mmol/L, newly diagnosed diabetes (NDM): FPG ⩾7.0 and/or 2h-PG ⩾11.1 mmol/L, 'isolated' IFG: FPG = 5.6-6.9 mmol/L and 2h-PG &lt;7.8 mmol/L, 'isolated' IGT: FPG &lt;5.6 mmol/L and 2h-PG = 7.8-11 mmol/L and 'combined' IFG and IGT: FPG = 5.6-6.9 mmol/L and 2h-PG = 7.8-11 mmol/L. <ref type="bibr" target="#b24">24</ref> pDM was defined as 'isolated' or 'combined' IFG and IGT. Pre-existing diabetes mellitus (DM) was diagnosed from history or if patient was on treatment. HbA1c was not done, as it was not routine practice in the unit and was not recommended in guidance at the time when data were collected. <ref type="bibr" target="#b21">22,</ref><ref type="bibr" target="#b23">23</ref> The first occurrence of major adverse cardiovascular event (MACE), that is, all cause death, non-fatal reinfarction (according to the universal definition) or non-haemorrhagic stroke (typical neurological deficit for &gt;24 h with radiological confirmation) during follow-up was obtained from patient records. Mortality data collected from the hospital records for patients who died in hospital and general practitioner medical records for patients, who died in the community, were confirmed by the office of public health intelligence. Completeness of follow up was ensured by manual review of hospital and general practice records.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analysis</head><p>Continuous and categorical variables are presented as medians (inter-quartile range) and counts and proportions (%), respectively. NGT and pDM groups were compared using the analysis of variance (ANOVA) and Kruskal-Wallis test for parametric and non-parametric continuous variables, respectively, and chi-square test for categorical variables. Event-free survival was estimated using the Kaplan-Meier method. Multivariate Cox proportional-hazards regression (MedCalc Statistical Software, version 17.0.4, Ostend, Belgium) was used to analyse the effect of variables on event-free survival. Gender, smoking status, hypercholesterolaemia, hypertension, history of MI and revascularisation, discharge diagnosis, discharge prescription, in-patient revascularisation status, GRACE risk score (GRS), pDM status, FPG and 2h-PG were 'entered' into the model. Variables were included in the same model if test for multicollinearity using variance inflation factor (VIF) was negative. Hazard ratios (HRs) and 95% confidence intervals (CIs) are reported. To reduce bias due to confounding variables, a cohort of 348 pairs of pDM and NGT patients matched on gender and the strongest predictors of MACE-free survival in the whole cohort (GRS, hypercholesterolaemia and history of MI) was established. These groups were then used for analysis.</p><p>Nested models were compared using chi-square likelihood ratio tests to determine whether the logistic regression models that included FPG or 2h-PG provided a significantly better fit than those without. Nested and non-nested models including 2h-PG and/its FPG were compared using Akaike information criterion (AIC) to estimate the probability that a given model is the 'best' fitting model of those studied. Predicted probabilities of MACE were calculated from logistic regression models using GRS, FPG and 2h-PG individually and in combination. The incremental predictive value from adding FPG and 2h-PG to models with GRS was analysed using category-free continuous net reclassification improvement (cNRI&gt; 0 ) and integrated discrimination improvement (IDI). Without pre-defined thresholds of predicted risk for the models, categorical NRI was not used. The event (NRIe) and non-event NRI (NRIne) were calculated.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>Of 1056 patients, 206 with NDM were excluded. Of the remaining, 425 with NGT and 425 with pDM (50 with isolated IFG, 86 with IFG and IGT, 289 with isolated IGT) were included in this analysis. We identified 348 matched pairs of patients with NGT and pDM. Table <ref type="table" target="#tab_0">1</ref> describes the baseline characteristics of patients in the whole and matched cohorts.</p><p>During a median follow up of 2.8 (range: 0.5-5) years, 187 (22.0%) and 144 (20.7%) MACEs occurred in the whole and matched cohorts, respectively. MACE occurred in 113 (25.1%) and 74 (16.4%) subjects with and without pDM (HR with pDM: 1.56; 95% CI: 1.17-2.08; p = 0.003) in the whole cohort and 84 (24.1%) and 60 (17.2%) subjects with and without pDM (HR with pDM: 1.43; 95% CI: 1.03-1.98; p = 0.033) in the matched cohort, respectively. Death occurred in 57 (12.7%) and 31 (6.9%) subjects with and without pDM (HR with pDM: 1.89; 95% CI: 1.24-2.87; p = 0.004) in the whole cohort and 45 (12.9%) and 27 (7.8%) subjects with and without pDM (HR with pDM: 1.71; 95% CI: 1.08-2.71; p = 0.026) in the matched cohort, respectively. pDM did not affect the reinfarction rates. MACE-free survival was worse in the pDM group compared with the NGT group, both in the whole and matched cohort (Figure <ref type="figure" target="#fig_0">1</ref>).</p><p>pDM was an independent predictor of MACE-free survival in both the whole cohort (HR: 1.39; 95% CI: 1.03-1.89; p = 0.033) and the matched groups (HR: 1.42; 95% CI: 1.01-1.9; p = 0.043) along with the GRS, history of MI and hypercholesterolaemia (Supplemental Table <ref type="table" target="#tab_0">1</ref>). pDM also independently predicted death in the whole (HR: 1.59; 95% CI: 1.00-2.52; p = 0.049) and matched (HR: 1.80; 95% CI: 1.10-2.96; p = 0.020) cohort. In the whole cohort, 2h-PG but not FPG was an independent predictor of MACE-free survival along with GRS, previous history of MI, hypercholesterolaemia and low clopidogrel use. This pattern persisted in the matched cohort (Table <ref type="table" target="#tab_1">2</ref>). For every mmol/L rise in the 2h-PG, there was 16%-20% increase in the relative risk of MACE. When pDM categories, that is, isolated IFG, isolated IGT and IFG/IGT were included in the Cox proportional hazard models with other covariates, only the IGT remained an independent predictor of MACE in the whole (HR: 1.62; 95% CI: 1.17-2.24; p = 0.004) and in the matched cohorts (HR: 1.74; 95% CI: 1.21-2.49; p = 0.002) (Supplemental Table <ref type="table" target="#tab_1">2</ref>).</p><p>Comparing non-nested models (Table <ref type="table" target="#tab_2">3</ref>) including FPG, 2h-PG or GRS alone and in combination, the models containing 2h-PG yielded the lowest AICc both in the unmatched and matched cohorts with a 96%-99% probability of representing the best model. Comparing nonnested models containing FPG or 2h-PG and both, the model containing 2h-PG alone yielded the lowest AICc in the unmatched cohort. Log-likelihood ratio tests were used to compare the fit of predictive models that were based on GRS (Table <ref type="table" target="#tab_2">3</ref>) combined with FPG or 2h-PG. Comparing nested models derived from the whole cohort, those including 2h-PG significantly improved the prediction of models based on GRS or FPG for MACE. Addition of FPG did not significantly improve the prediction of these models.</p><p>In the unmatched cohort, addition of 2h-PG to a model containing FPG as the only glycaemic index, correctly reclassified 106 (56.7%) patients who suffered MACE and 398 (60.0%) patients who did not, yielding an NRI&gt; 0 of 33.4% (p &lt; 0.001). In the matched cohort, correct reclassification occurred in 80 (55.5%) patients with MACE and 325 (46.7%) without resulting in NRI&gt; 0 of 28.9% (p = 0.002). Addition of FPG to a model containing 2h-PG did not significantly change NRI&gt; 0 (Table <ref type="table" target="#tab_3">4</ref>). Adding 2h-PG to a model containing FPG, but not vice versa, significantly improved the integrated discrimination in both cohorts. Addition of 2h-PG to models including GRS alone or GRS and FPG resulted in significantly better NRI&gt; 0 and IDI in both cohorts.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>This study confirms that (1) newly diagnosed pDM is an independent predictor of post-MI prognosis and (2) 2h-PG is a better predictor of prognosis in these patients than FPG which does not contain independent predictive information even if impaired.</p><p>We included both IFG and IGT in our pDM group as increased risk of DM and cardiovascular disease (CVD) are associated with both the conditions. <ref type="bibr" target="#b23">23</ref> However, it is unclear whether these adversely affect prognosis in MI survivors without KDM as they do in general population. OGTT in patients with CVD is only recommended if HbA1c and FPG levels are 'inconclusive'. <ref type="bibr" target="#b21">22</ref> These tests under-diagnose dysglycaemia. <ref type="bibr" target="#b12">13</ref> Undiagnosed pDM could add to the already high prognostic risk of this population and would affect the advice given to these patients. Thus, we wanted to explore whether (1) fasting and/or post-load hyperglycaemia below the threshold of DM affected post-MI prognosis, (2) FPG alone could identify this risk and (3) 2h-PG added any prognostic risk over and above FPG.</p><p>pDM independently predicted MACE and death both in the whole and matched cohorts. Some post-MI studies <ref type="bibr" target="#b10">11,</ref><ref type="bibr" target="#b11">12,</ref><ref type="bibr" target="#b19">20</ref> have shown an independent effect of IGT on prognosis. Our study differs from previous studies in many ways. This study exclusively includes patients with pDM diagnosed after ACS, the pDM population is larger, may include patients with higher GRSs and has longer followup and higher event rates. IFG also adversely affected post-MI prognosis. <ref type="bibr" target="#b4">[5]</ref><ref type="bibr" target="#b5">[6]</ref><ref type="bibr" target="#b6">[7]</ref><ref type="bibr" target="#b7">[8]</ref><ref type="bibr" target="#b8">[9]</ref><ref type="bibr" target="#b14">15,</ref><ref type="bibr" target="#b16">17,</ref><ref type="bibr" target="#b25">25,</ref><ref type="bibr" target="#b26">26</ref> However, without OGTT, it is unclear whether the undiagnosed IGT or DM, rather than the IFG, affected outcomes in these studies. Without the inclusion of GRS (or all its individual components) in the regression models, it is uncertain if GRS-adjusted IFG would independently predict prognosis. In this study IGT, not IFG, predicted MACE. IFG did not predict prognosis in other post-ACS studies. <ref type="bibr" target="#b3">4,</ref><ref type="bibr" target="#b5">6,</ref><ref type="bibr" target="#b11">12,</ref><ref type="bibr" target="#b15">16,</ref><ref type="bibr" target="#b17">18,</ref><ref type="bibr" target="#b19">20</ref> This is the only study to show that pDM independently predicts post-ACS prognosis after adjusting for the GRS. We explored whether FPG or 2h-PG influenced post-MI prognosis in patients with pDM. Studies suggesting association of MACE with AGT <ref type="bibr" target="#b0">1,</ref><ref type="bibr" target="#b1">2,</ref><ref type="bibr" target="#b3">4,</ref><ref type="bibr" target="#b9">10,</ref><ref type="bibr" target="#b11">12</ref> do not report the effect of 2h-PG on MACE. Kitada et al. <ref type="bibr" target="#b0">1</ref> report that 2h-PG only above a threshold independently predicted post-MI MACE. In the GAMI study, 2h-PG was not an independent predictor of events. <ref type="bibr" target="#b2">3,</ref><ref type="bibr" target="#b13">14</ref> We have reported that 2h-PG was a better determinant of post-MI prognosis than FPG or APG. <ref type="bibr" target="#b12">13,</ref><ref type="bibr" target="#b20">21</ref> In the EUORASPIRE IV <ref type="bibr" target="#b19">20</ref> and Silent Diabetes Study, 27 2h-PG, but not FPG or HbA1c, was related to prognosis. The 2h-PG, but not the FPG, was associated with adverse post-MI prognosis in patients with pDM in this. Adding 2h-PG to a model containing FPG improved both NRI and IDI. This is the only study to show that 2h-PG, adjusted for GRS independently predicts post-ACS prognosis and improves the ability of models containing GRS to predict prognosis in pDM patients. In the NAVIGATOR trial, <ref type="bibr" target="#b17">18</ref> FPG, 2h-PG or HbA1c were not independently associated with prognosis. CVD was present in only 28% of the trial patients though that was the strongest predictor of outcome. Our study population is different from this trial in that all subjects were MI survivors and not drawn from the general population. In the BIO-RESORT trial, <ref type="bibr" target="#b28">28</ref> pDM was independently associated with worse prognosis in patients undergoing coronary stenting, 70% of whom had ACS. The increased macrovascular morbidity associated with higher 2h-PG rather than FPG seen here may be related to progression of atherosclerosis demonstrated with post-challenge rather than fasting hyperglycaemia. <ref type="bibr" target="#b29">29</ref> The potential mechanisms for this include (1) more prolonged glycaemic exposure in IGT compared with IFG due to post-load hyperglycaemia, (2) higher prevalence of the metabolic syndrome in IGT patients and (3) greater diurnal fluctuations in plasma glucose due to higher 2h-PG may have a more damaging effect. <ref type="bibr" target="#b30">30</ref> The limitations of a retrospective observational study have been partially mitigated by using a matched cohort. Although national death register was not consulted directly, a linked general practice database was used. A few patients with reinfarctions admitted to other hospitals may have been missed. Although every effort was made to ensure completeness of the data, information recorded incompletely could not be used in statistical models. Exclusion of small number of patients, albeit for valid reasons, and mainly Caucasian study population could affect the generalizability of the results. Without admission HbA1c, pre-admission hyperglycaemia has not been identified. Thus, some patients with hitherto undiagnosed diabetes may have been included. As OGTT done at or after 5 days seems to reliably predict long-term glucometabolic state, <ref type="bibr" target="#b31">31</ref> it is unlikely that random fluctuation in glycaemia or stress hyperglycaemia affected our results even though OGTT was not repeated pre-or postdischarge. As pre-discharge 2h-PG predicted post-MI outcomes in pDM patients, the reproducibility of this test and its relation to long-term glucometabolic status may be less relevant when assessing prognostic risk. As IGT is associated frequently with metabolic syndrome, in the  absence of anthropometric measurements and other risk factors, it is unclear whether this affected outcomes. The progression of IGT to DM over the follow-up period may also have affected the outcomes.</p><p>This study suggests that in patients without KDM (1) newly diagnosed pre-diabetes is associated with worse post-ACS prognosis and (2) 2h-PG is a better predictor of post-MI prognosis in patients with new pre-diabetes than FPG. </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. Kaplan-Meier estimates of the composite primary outcome and death. Shown are rates of the composite MACE of death, myocardial infarction, or stroke (panel a) and death from any cause (panel b) in the whole cohort and MACE (panel c) and death (panel d) in the matched cohort.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 .</head><label>1</label><figDesc>Baseline characteristics of the study population.</figDesc><table><row><cell></cell><cell>p</cell><cell>1.000</cell><cell>0.752</cell><cell>0.432</cell><cell>0.854</cell><cell>1.000</cell><cell>0.884</cell><cell>0.541</cell><cell>0.169</cell><cell>0.541</cell><cell>0.067</cell><cell>0.469</cell><cell>0.027</cell><cell>0.495</cell><cell>0.203</cell><cell>0.395</cell><cell></cell><cell>0.621</cell><cell>0.901</cell><cell>0.113</cell><cell>0.322</cell><cell>0.461</cell><cell>0.316</cell><cell>0.178</cell><cell>0.021</cell><cell></cell><cell>0.952</cell><cell>0.892</cell><cell>0.601</cell><cell>0.972</cell><cell></cell><cell>0.877</cell><cell>0.879</cell><cell>1.000</cell><cell></cell><cell>&lt;0.001</cell><cell>&lt;0.001</cell><cell>-</cell><cell>-</cell><cell>-</cell></row><row><cell></cell><cell>Pre-DM n = 348</cell><cell>257 (73.9)</cell><cell>127 (36.5)</cell><cell>133 (38.2)</cell><cell>77 (22.1)</cell><cell>52 (14.9)</cell><cell>25 (7.2)</cell><cell>11 (3.2)</cell><cell>17 (4.9)</cell><cell>148 (42.5)</cell><cell>179 (51.4)</cell><cell>330 (94.8)</cell><cell>302 (86.8)</cell><cell>258 (74.1)</cell><cell>277 (79.6)</cell><cell>292 (83.9)</cell><cell></cell><cell>63.3 (17.9)</cell><cell>76 (25)</cell><cell>139 (33.5)</cell><cell>98 (22)</cell><cell>10 (2.9)</cell><cell>253 (72.7)</cell><cell>344 (98.9)</cell><cell>20 (5.7)</cell><cell></cell><cell>109 (36)</cell><cell>161 (47)</cell><cell>115 (38)</cell><cell>113 (37)</cell><cell></cell><cell>141 (40.5)</cell><cell>158 (45.4)</cell><cell>49 (14.1)</cell><cell></cell><cell>5.2 (0.8)</cell><cell>9.0 (2.0)</cell><cell>84 (24.1)</cell><cell>45 (12.9)</cell><cell>35 (10.1)</cell><cell>4 (1.1)</cell></row><row><cell>Matched cohort n = 696</cell><cell>Normal n = 348</cell><cell>(73.9)</cell><cell>123 (35.3)</cell><cell>123 (35.3)</cell><cell>75 (21.6)</cell><cell>52 (14.9)</cell><cell>26 (7.5)</cell><cell>14 (4.0)</cell><cell>10 (2.9)</cell><cell>156 (44.8)</cell><cell>203 (58.3)</cell><cell>334 (96.0)</cell><cell>320 (96.0)</cell><cell>250 (71.8)</cell><cell>263 (75.6)</cell><cell>300 (86.2)</cell><cell></cell><cell>62.4 (18.5)</cell><cell>74 (26)</cell><cell>137 (31.5)</cell><cell>96 (22)</cell><cell>7 (2.0)</cell><cell>241 (69.3)</cell><cell>347 (99.7)</cell><cell>8 (2.3)</cell><cell></cell><cell>113 (40)</cell><cell>161 (48)</cell><cell>113 (39)</cell><cell>113 (37)</cell><cell></cell><cell>139 (39.9)</cell><cell>160 (46.0)</cell><cell>49 (14.1)</cell><cell></cell><cell>4.9 (0.4)</cell><cell>6.4 (1.7)</cell><cell>60 (17.2)</cell><cell>27 (7.8)</cell><cell>33 (9.5)</cell><cell>0 (0.0)</cell></row><row><cell></cell><cell>p</cell><cell>0.047</cell><cell>0.231</cell><cell>0.050</cell><cell>0.565</cell><cell>0.148</cell><cell>0.213</cell><cell>0.855</cell><cell>0.010</cell><cell>0.418</cell><cell>0.033</cell><cell>0.364</cell><cell>0.025</cell><cell>0.348</cell><cell>0.056</cell><cell>1.000</cell><cell></cell><cell>&lt;0.001</cell><cell>0.979</cell><cell>0.166</cell><cell>0.002</cell><cell>0.058</cell><cell>0.321</cell><cell>0.676</cell><cell>0.051</cell><cell></cell><cell>0.002</cell><cell>0.006</cell><cell>&lt;0.001</cell><cell>&lt;0.001</cell><cell></cell><cell>0.001</cell><cell>0.197</cell><cell>0.005</cell><cell></cell><cell>&lt;0.001</cell><cell>&lt;0.001</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell></row><row><cell></cell><cell>Pre-DM n = 425</cell><cell>317 (70.4)</cell><cell>143 (31.8)</cell><cell>170 (37.8)</cell><cell>97 (21.6)</cell><cell>81 (18.0)</cell><cell>40 (8.9)</cell><cell>15 (3.3)</cell><cell>25 (5.6)</cell><cell>183 (40.7)</cell><cell>219 (48.7)</cell><cell>403 (89.6)</cell><cell>371 (82.4)</cell><cell>318 (70.7)</cell><cell>347 (77.1)</cell><cell>366 (81.3)</cell><cell></cell><cell>65.9 (10.5)</cell><cell>75 (26)</cell><cell>140 (36)</cell><cell>99 (22)</cell><cell>23 (5.1)</cell><cell>309 (68.7)</cell><cell>421 (93.6)</cell><cell>22 (4.9)</cell><cell></cell><cell>114 (39)</cell><cell>166 (47)</cell><cell>117 (39)</cell><cell>113 (40)</cell><cell></cell><cell>202 (44.9)</cell><cell>172 (38.2)</cell><cell>51 (11.3)</cell><cell></cell><cell>5.2 (0.8)</cell><cell>9.0 (1.9)</cell><cell>113 (25.1)</cell><cell>57 (12.7)</cell><cell>50 (11.1)</cell><cell>6 (1.33)</cell></row><row><cell>Unmatched cohort n = 850</cell><cell>Normal n = 425</cell><cell>289 (64.2)</cell><cell>160 (35.6)</cell><cell>142 (31.6)</cell><cell>90 (20.0)</cell><cell>65 (14.4)</cell><cell>30 (6.7)</cell><cell>16 (3.6)</cell><cell>10 (2.2)</cell><cell>195 (43.3)</cell><cell>251 (55.8)</cell><cell>411 (91.3)</cell><cell>395 (87.8)</cell><cell>305 (67.8)</cell><cell>322 (71.6)</cell><cell>366 (81.3)</cell><cell></cell><cell>61.2 (18.7)</cell><cell>75 (25)</cell><cell>138 (33)</cell><cell>94 (23)</cell><cell>12 (2.7)</cell><cell>295 (65.6)</cell><cell>424 (94.2)</cell><cell>11 (2.4)</cell><cell></cell><cell>109 (41)</cell><cell>157 (48)</cell><cell>109 (40)</cell><cell>113 (37)</cell><cell></cell><cell>153 (34.0)</cell><cell>191 (42.4)</cell><cell>81 (18.0)</cell><cell></cell><cell>4.8 (0.5)</cell><cell>6.3 (1.7)</cell><cell>74 (16.4)</cell><cell>31 (6.9)</cell><cell>42 (9.3)</cell><cell>1 (0.22)</cell></row><row><cell></cell><cell></cell><cell>Male, n (%)</cell><cell>Current smoker, n (%)</cell><cell>Hypertension, n (%)</cell><cell>Hypercholesterolaemia, n (%)</cell><cell>Previous AMI, n (%)</cell><cell>Previous revascularization, n (%)</cell><cell>Previous PVD, n (%)</cell><cell>Previous CVA, n (%)</cell><cell>Normal LVEF</cell><cell>Diagnosis NSTEMI, n (%)</cell><cell>Aspirin</cell><cell>Clopidogrel</cell><cell>Beta-blocker</cell><cell>ACEI/ARB</cell><cell>Statin</cell><cell>GRACE variables</cell><cell>Age (median, IQR)</cell><cell>HR, bpm (median, IQR)</cell><cell>SBP (median, IQR)</cell><cell>Creatinine, µmol/L (median, IQR)</cell><cell>HF</cell><cell>ST-segment depression</cell><cell>Troponin rise</cell><cell>Cardiac arrest</cell><cell>GRACE Score</cell><cell>Admission to 6m death (median, IQR)</cell><cell>Admission to 6m death/MI (median, IQR)</cell><cell>Discharge to 6m death (median, IQR)</cell><cell>Discharge to 6m death/MI (median, IQR)</cell><cell>GRACE Tertiles</cell><cell>High, n (%)</cell><cell>Intermediate, n (%)</cell><cell>Low, n (%)</cell><cell>Glucose levels</cell><cell>FPG (median, IQR)</cell><cell>2h-PG (median, IQR)</cell><cell>MACE, n (%)</cell><cell>Deaths</cell><cell>Reinfarctions</cell><cell>Ischaemic stroke</cell></row></table><note>-DM: diabetes mellitus; AMI: acute myocardial infarction; PVD: posterior vitreous detachment; CVA: cerebrovascular accident; LVEF: left ventricular ejection fraction; NSTEMI: non-ST-elevation myocardial infarction; ACEI/ARB: angiotensin-converting enzyme inhibitors and angiotensin II receptor blockers; IQR: interquartile range; HR: heart rate; SBP: systolic blood pressure; HF: heart failure; FPG: fasting plasma glucose; 2h-PG: 2 h post-load glucose; MACE: major adverse cardiovascular event; MI: myocardial infarction.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 .</head><label>2</label><figDesc>Candidate predictors of MACE-free survival on Cox proportional hazard regression.</figDesc><table><row><cell>Covariate</cell><cell cols="2">Unmatched cohort n = 850</cell><cell></cell><cell cols="2">Matched cohort n = 696</cell><cell></cell></row><row><cell></cell><cell>HR</cell><cell>95% CI</cell><cell>p</cell><cell>HR</cell><cell>95% CI</cell><cell>p</cell></row><row><cell>GRACE Score</cell><cell>1.01</cell><cell>1.01-1.02</cell><cell>&lt;0.0001</cell><cell>1.01</cell><cell>1.01-1.02</cell><cell>&lt;0.0001</cell></row><row><cell>2h-PG</cell><cell>1.16</cell><cell>1.07-1.26</cell><cell>&lt;0.0001</cell><cell>1.20</cell><cell>1.09-1.31</cell><cell>&lt;0.0001</cell></row><row><cell>Previous AMI</cell><cell>1.95</cell><cell>1.31-2.89</cell><cell>0.001</cell><cell>1.76</cell><cell>1.11-2.80</cell><cell>0.017</cell></row><row><cell>Hypercholesterolaemia</cell><cell>0.65</cell><cell>0.45-0.95</cell><cell>0.027</cell><cell>0.61</cell><cell>0.39-0.95</cell><cell>0.028</cell></row><row><cell>Discharged without clopidogrel</cell><cell>1.52</cell><cell>1.00-2.31</cell><cell>0.049</cell><cell>1.69</cell><cell>1.08-2.65</cell><cell>0.022</cell></row><row><cell>Discharged without Aspirin</cell><cell>1.67</cell><cell>0.96-2.89</cell><cell>0.066</cell><cell>1.50</cell><cell>0.81-2.79</cell><cell>0.200</cell></row><row><cell>FPG</cell><cell>0.76</cell><cell>0.56-1.04</cell><cell>0.086</cell><cell>0.64</cell><cell>0.45-0.92</cell><cell>0.015</cell></row><row><cell>Hypertension</cell><cell>1.28</cell><cell>0.94-1.74</cell><cell>0.113</cell><cell>1.24</cell><cell>0.87-1.76</cell><cell>0.241</cell></row><row><cell>Female gender</cell><cell>1.24</cell><cell>0.90-1.69</cell><cell>0.191</cell><cell>1.04</cell><cell>0.72-1.52</cell><cell>0.821</cell></row><row><cell>Discharged without ACEI/ARB</cell><cell>1.29</cell><cell>0.87-1.91</cell><cell>0.200</cell><cell>1.32</cell><cell>0.86-2.02</cell><cell>0.203</cell></row><row><cell>Previous revascularisation</cell><cell>1.22</cell><cell>0.78-1.92</cell><cell>0.385</cell><cell>1.23</cell><cell>0.71-2.12</cell><cell>0.470</cell></row><row><cell>Discharged without statin</cell><cell>1.15</cell><cell>0.70-1.88</cell><cell>0.585</cell><cell>1.01</cell><cell>0.59-1.74</cell><cell>0.964</cell></row><row><cell>Discharged without BB</cell><cell>1.08</cell><cell>0.75-1.53</cell><cell>0.683</cell><cell>1.15</cell><cell>0.77-1.71</cell><cell>0.497</cell></row><row><cell>Smoker</cell><cell>0.96</cell><cell>0.70-1.33</cell><cell>0.826</cell><cell>0.96</cell><cell>0.66-1.40</cell><cell>0.843</cell></row><row><cell>Discharge diagnosis of STEMI</cell><cell>1.02</cell><cell>0.75-1.40</cell><cell>0.893</cell><cell>1.16</cell><cell>0.81-1.66</cell><cell>0.409</cell></row></table><note>BB: beta blocker; AMI: acute myocardial infarction; STEMI: ST-elevation myocardial infarction; ACEI/ARB: angiotensin-converting enzyme inhibitors and angiotensin II receptor blockers; HR: hazard ratio; FPG: fasting plasma glucose; 2h-PG: 2 h post-load glucose; MACE: major adverse cardiovascular event.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3 .</head><label>3</label><figDesc>Akaike's information and likelihood ratio test to determine the best fitting model for predicting MACE. : corrected Akaike's information criteria; δAICc: delta AICc, a measure of each model relative to the best model; FPG: fasting plasma glucose; 2h-PG: 2 h post-load glucose; GRS; GRACE risk score; wi: Akaike weights, the ratio of δAICc values for each model relative to the whole set.</figDesc><table><row><cell>Akaike's information</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell cols="2">Unmatched cohort, n = 850</cell><cell></cell><cell></cell><cell cols="3">Matched case control, n = 696</cell><cell></cell></row><row><cell>Model</cell><cell>AICc</cell><cell>δAICc</cell><cell>Relative</cell><cell>wi</cell><cell>AICc</cell><cell>δAICc</cell><cell>Relative</cell><cell>wi</cell></row><row><cell></cell><cell></cell><cell></cell><cell>likelihood</cell><cell></cell><cell></cell><cell></cell><cell>likelihood</cell><cell></cell></row><row><cell>GRS</cell><cell>802.23</cell><cell>10.15</cell><cell>0.01</cell><cell>0.01</cell><cell>646.79</cell><cell>8.01</cell><cell>0.02</cell><cell>0.02</cell></row><row><cell>GRS + 2h-PG</cell><cell>792.07</cell><cell>0.00</cell><cell>1.00</cell><cell>0.99</cell><cell>638.79</cell><cell>0.00</cell><cell>1.00</cell><cell>0.96</cell></row><row><cell>GRS + FPG</cell><cell>803.61</cell><cell>11.54</cell><cell>0.00</cell><cell>0.00</cell><cell>646.51</cell><cell>7.72</cell><cell>0.02</cell><cell>0.02</cell></row><row><cell>2h-PG + FPG</cell><cell>811.19</cell><cell>0.57</cell><cell>0.75</cell><cell>0.43</cell><cell>654.63</cell><cell>0.00</cell><cell>1.00</cell><cell>0.69</cell></row><row><cell>2h-PG</cell><cell>810.62</cell><cell>0.00</cell><cell>1.00</cell><cell>0.57</cell><cell>656.24</cell><cell>1.61</cell><cell>0.45</cell><cell>0.31</cell></row><row><cell>FPG</cell><cell>828.32</cell><cell>17.70</cell><cell>0.00</cell><cell>0.00</cell><cell>667.08</cell><cell>12.45</cell><cell>0.00</cell><cell>0.00</cell></row><row><cell>Likelihood ratio test</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell>χ 2</cell><cell>df</cell><cell>p</cell><cell>χ 2</cell><cell>df</cell><cell>p</cell><cell></cell></row><row><cell cols="2">GRS vs GRS + 2h-PG</cell><cell>24.452</cell><cell>1</cell><cell>&lt;0.0001</cell><cell>20.192</cell><cell>1</cell><cell>&lt;0.0001</cell><cell></cell></row><row><cell>GRS vs GRS + FPG</cell><cell></cell><cell>1.372</cell><cell>1</cell><cell>0.241</cell><cell>4.75</cell><cell>1</cell><cell>0.029</cell><cell></cell></row><row><cell>FPS vs 2h-PG + FPG</cell><cell></cell><cell>38.406</cell><cell>1</cell><cell>&lt;0.0001</cell><cell>29.072</cell><cell>1</cell><cell>&lt;0.0001</cell><cell></cell></row><row><cell cols="2">2h-PG vs 2h-PG + FPG</cell><cell>3.004</cell><cell>1</cell><cell>0.083</cell><cell>7.398</cell><cell>1</cell><cell>0.006</cell><cell></cell></row></table><note>AICc</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 4 .</head><label>4</label><figDesc>Continuous net reclassification improvement and integrated discrimination index for model improvement.</figDesc><table><row><cell></cell><cell cols="2">Unmatched cohort, n = 850</cell><cell></cell><cell></cell><cell cols="2">Matched case control, n = 696</cell><cell></cell><cell></cell></row><row><cell></cell><cell>Event</cell><cell>Non-event</cell><cell>Total</cell><cell>p</cell><cell>Event</cell><cell>Non-event</cell><cell>Total</cell><cell>p</cell></row><row><cell cols="2">GRS vs GRS + FPG</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Up</cell><cell>104</cell><cell>345</cell><cell>449</cell><cell></cell><cell>83</cell><cell>277</cell><cell>360</cell><cell></cell></row><row><cell>Down</cell><cell>83</cell><cell>318</cell><cell>401</cell><cell></cell><cell>61</cell><cell>275</cell><cell>336</cell><cell></cell></row><row><cell>Total</cell><cell>187</cell><cell>663</cell><cell>850</cell><cell></cell><cell>144</cell><cell>552</cell><cell>696</cell><cell></cell></row><row><cell>NRI</cell><cell>0.112</cell><cell>-0.041</cell><cell>0.072</cell><cell>0.387</cell><cell>0.153</cell><cell>-0.004</cell><cell>0.149</cell><cell>0.111</cell></row><row><cell cols="2">GRS vs GRS + 2h-PG</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Up</cell><cell>106</cell><cell>268</cell><cell>374</cell><cell></cell><cell>82</cell><cell>223</cell><cell>305</cell><cell></cell></row><row><cell>Down</cell><cell>81</cell><cell>395</cell><cell>476</cell><cell></cell><cell>62</cell><cell>329</cell><cell>391</cell><cell></cell></row><row><cell>Total</cell><cell>187</cell><cell>663</cell><cell>850</cell><cell></cell><cell>144</cell><cell>552</cell><cell>696</cell><cell></cell></row><row><cell>NRI</cell><cell>0.134</cell><cell>0.192</cell><cell>0.325</cell><cell>&lt;0.001</cell><cell>0.139</cell><cell>0.192</cell><cell>0.331</cell><cell>&lt;0.001</cell></row><row><cell cols="3">GRS + FPG vs GRS + FPG + 2h-PG</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Up</cell><cell>107</cell><cell>271</cell><cell>378</cell><cell></cell><cell>83</cell><cell>226</cell><cell>309</cell><cell></cell></row><row><cell>Down</cell><cell>80</cell><cell>392</cell><cell>472</cell><cell></cell><cell>61</cell><cell>326</cell><cell>387</cell><cell></cell></row><row><cell>Total</cell><cell>187</cell><cell>663</cell><cell>850</cell><cell></cell><cell>144</cell><cell>552</cell><cell>696</cell><cell></cell></row><row><cell>NRI</cell><cell>0.144</cell><cell>0.183</cell><cell>0.327</cell><cell>&lt;0.001</cell><cell>0.153</cell><cell>0.181</cell><cell>0.334</cell><cell>&lt;0.001</cell></row><row><cell cols="3">GRS + 2h-PG vs GRS + FPG + 2h-PG</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Up</cell><cell>104</cell><cell>341</cell><cell>445</cell><cell></cell><cell>83</cell><cell>274</cell><cell>357</cell><cell></cell></row><row><cell>Down</cell><cell>83</cell><cell>322</cell><cell>405</cell><cell></cell><cell>61</cell><cell>278</cell><cell>339</cell><cell></cell></row><row><cell>Total</cell><cell>187</cell><cell>663</cell><cell>850</cell><cell></cell><cell>144</cell><cell>552</cell><cell>696</cell><cell></cell></row><row><cell>NRI</cell><cell>0.112</cell><cell>-0.029</cell><cell>0.084</cell><cell>0.312</cell><cell>0.153</cell><cell>0.007</cell><cell>0.160</cell><cell>0.087</cell></row><row><cell cols="2">FPG vs FPG + 2h-PG</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Up</cell><cell>106</cell><cell>265</cell><cell>371</cell><cell></cell><cell>80</cell><cell>227</cell><cell>307</cell><cell></cell></row><row><cell>Down</cell><cell>81</cell><cell>398</cell><cell>479</cell><cell></cell><cell>64</cell><cell>325</cell><cell>389</cell><cell></cell></row><row><cell>Total</cell><cell>187</cell><cell>663</cell><cell>850</cell><cell></cell><cell>144</cell><cell>552</cell><cell>696</cell><cell></cell></row><row><cell>NRI</cell><cell>0.134</cell><cell>0.201</cell><cell>0.334</cell><cell>&lt;0.001</cell><cell>0.111</cell><cell>0.178</cell><cell>0.289</cell><cell>0.002</cell></row><row><cell cols="2">2h-PG vs FPG + 2h-PG</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Up</cell><cell>103</cell><cell>341</cell><cell>444</cell><cell></cell><cell>82</cell><cell>275</cell><cell>357</cell><cell></cell></row><row><cell>Down</cell><cell>84</cell><cell>322</cell><cell>406</cell><cell></cell><cell>62</cell><cell>277</cell><cell>339</cell><cell></cell></row><row><cell>Total</cell><cell>187</cell><cell>663</cell><cell>850</cell><cell></cell><cell>144</cell><cell>552</cell><cell>696</cell><cell></cell></row><row><cell>NRI</cell><cell>0.102</cell><cell>-0.029</cell><cell>0.073</cell><cell>0.378</cell><cell>0.139</cell><cell>0.004</cell><cell>0.143</cell><cell>0.128</cell></row><row><cell></cell><cell>IDIe</cell><cell>IDIne</cell><cell>IDI</cell><cell>p</cell><cell>IDIe</cell><cell>IDIne</cell><cell>IDI</cell><cell>p</cell></row><row><cell cols="2">GRS vs GRS + FPG</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>0.00014</cell><cell>-0.00002</cell><cell>0.00017</cell><cell>0.887</cell><cell>0.00039</cell><cell>-0.00018</cell><cell>0.00057</cell><cell>0.669</cell></row><row><cell cols="2">GRS vs GRS + 2h-PG</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>0.00930</cell><cell>-0.00262</cell><cell>0.01192</cell><cell>0.011</cell><cell>0.00910</cell><cell>-0.00330</cell><cell>0.01240</cell><cell>0.020</cell></row><row><cell cols="3">GRS + FPG vs GRS + FPG + 2h-PG</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>0.01028</cell><cell>-0.00289</cell><cell>0.01317</cell><cell>0.008</cell><cell>0.01028</cell><cell>-0.00367</cell><cell>0.01395</cell><cell>0.013</cell></row><row><cell cols="3">GRS + 2h-PG vs GRS + FPG + 2h-PG</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>0.00113</cell><cell>-0.00029</cell><cell>0.00142</cell><cell>0.485</cell><cell>0.00157</cell><cell>-0.00055</cell><cell>0.00212</cell><cell>0.361</cell></row><row><cell cols="2">FPG vs FPG + 2 h-PG</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>0.01633</cell><cell>-0.00457</cell><cell>0.02090</cell><cell>&lt;0.001</cell><cell>0.01345</cell><cell>-0.00588</cell><cell>0.01934</cell><cell>0.003</cell></row><row><cell cols="2">2 h-PG vs FPG + 2 h-PG</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>0.00092</cell><cell>-0.00023</cell><cell>0.00115</cell><cell>0.504</cell><cell>0.00105</cell><cell>-0.00036</cell><cell>0.00141</cell><cell>0.479</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">Diabetes &amp; Vascular Disease Research 16<ref type="bibr" target="#b5">(6)</ref> </note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">FPG: fasting plasma glucose; 2h-PG: 2 h post-load glucose; GRS; GRACE risk score; NRI: net reclassification improvement; IDI: integrated discrimination improvement.</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgements</head><p>The authors thank all the nurses that helped with the collection of data. They also thank the patients whose data were utilised for this study.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Diabetes &amp; Vascular Disease Research 16 (6)   Thus an appropriately timed OGTT after an MI may be warranted to identify these high-risk patients. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Key messages</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Declaration of conflicting interests</head><p>The author(s) declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Funding</head><p>The author(s) received no financial support for the research, authorship, and/or publication of this article.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supplemental material</head><p>Supplemental material for this article is available online.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>ORCID iD</head><p>Sudipta Chattopadhyay https://orcid.org/0000-0002-6421-6762</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Post-load hyperglycemia as an important predictor of long-term adverse cardiac events after acute myocardial infarction: a scientific study</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kitada</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Otsuka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Kokubu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cardiovasc Diabetol</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page">75</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Impact of newly diagnosed abnormal glucose tolerance on long-term prognosis in patients with acute myocardial infarction</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Tamita</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Katayama</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Takagi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circ J</title>
+		<imprint>
+			<biblScope unit="volume">71</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="834" to="841" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Newly detected abnormal glucose tolerance: an important predictor of long-term outcome after myocardial infarction</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bartnik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Malmberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Norhammar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur Heart J</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">22</biblScope>
+			<biblScope unit="page" from="1990" to="1997" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Diabetes known or newly detected, but not impaired glucose regulation, has a negative influence on 1-year outcome in patients with coronary artery disease: a report from the Euro Heart Survey on diabetes and the heart</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Lenzen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Ryden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ohrvik</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur Heart J</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">24</biblScope>
+			<biblScope unit="page" from="2969" to="2974" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Impaired fasting glucose concentrations in nondiabetic patients with ischemic heart disease: a marker for a worse prognosis</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">Z</forename><surname>Fisman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Motro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Tenenbaum</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am Heart J</title>
+		<imprint>
+			<biblScope unit="volume">141</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="485" to="490" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Association of elevated fasting glucose with increased short-term and 6-month mortality in ST-segment elevation and non-ST-segment elevation acute coronary syndromes: the global registry of acute coronary events</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">R</forename><surname>Sinnaeve</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">G</forename><surname>Steg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Fox</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">169</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="402" to="409" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Fasting glucose is an important independent risk factor for 30-day mortality in patients with acute myocardial infarction: a prospective study</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Suleiman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Hammerman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Boulos</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">111</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="754" to="760" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Effect of abnormal fasting plasma glucose level on all-cause mortality in older patients with acute myocardial infarction: results from the Beijing Elderly Acute Myocardial Infarction Study (BEAMIS)</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">W</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">J</forename><surname>Zhou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><forename type="middle">M</forename><surname>Nie</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mayo Clin Proc</title>
+		<imprint>
+			<biblScope unit="volume">86</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="94" to="104" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Impact of prediabetic state on clinical outcomes in patients with acute coronary syndrome</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Otten</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Kline-Rogers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Meier</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Heart</title>
+		<imprint>
+			<biblScope unit="volume">91</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="1466" to="1468" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Impact of newly diagnosed abnormal glucose regulation on long-term prognosis in low risk patients with ST-elevation myocardial infarction: a follow-up study</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">C</forename><surname>Knudsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Seljeflot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Abdelnoor</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMC Endocr Disord</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page">14</biblScope>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Impaired glucose tolerance or newly diagnosed diabetes mellitus diagnosed during admission adversely affects prognosis after myocardial infarction: an observational study</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>George</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">T</forename><surname>Bhatia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">L</forename><surname>Buchanan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS One</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page">e0142045</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Newly diagnosed glucose intolerance and prognosis after acute myocardial infarction: comparison of post-challenge versus fasting glucose concentrations</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Tamita</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Katayama</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Takagi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Heart</title>
+		<imprint>
+			<biblScope unit="volume">98</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="848" to="854" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Two-hour postchallenge glucose is a better predictor of adverse outcome after myocardial infarction than fasting or admission glucose in patients without diabetes</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Chattopadhyay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>George</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>John</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Diabetol</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="449" to="458" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Sustained prognostic implications of newly detected glucose abnormalities in patients with acute myocardial infarction: long-term follow-up of the glucose tolerance in patients with acute myocardial infarction cohort</title>
+		<author>
+			<persName><forename type="first">Ritsinger</forename><surname>Tanoglidi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Malmberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Nasman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diab Vasc Dis Res</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="23" to="32" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Cardiovascular events and their reduction with pravastatin in diabetic and glucose-intolerant myocardial infarction survivors with average cholesterol levels: subgroup analyses in the Cholesterol and Recurrent Events (CARE) trial</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Goldberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Mellies</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">M</forename><surname>Sacks</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">98</biblScope>
+			<biblScope unit="issue">23</biblScope>
+			<biblScope unit="page" from="2513" to="2519" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">High fasting glucose levels as a predictor of worse clinical outcome in patients with coronary artery disease: results from the Bezafibrate Infarction Prevention (BIP) study</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Arcavi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Behar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Caspi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am Heart J</title>
+		<imprint>
+			<biblScope unit="volume">147</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="239" to="245" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Impaired fasting glucose and cardiovascular outcomes in postmenopausal women with coronary artery disease</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Kanaya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Herrington</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Vittinghoff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">142</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="813" to="820" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Predictors of cardiovascular events in a contemporary population with impaired glucose tolerance: an observational analysis of the Nateglinide and Valsartan in Impaired Glucose Tolerance Outcomes Research (NAVIGATOR) trial</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Preiss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">E</forename><surname>Thomas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Sun</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMJ Open</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page">e001925</biblScope>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Utility of glycated hemoglobin for assessment of glucose metabolism in patients with ST-segment elevation myocardial infarction</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Aggarwal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">K</forename><surname>Shah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Randhawa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">117</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="749" to="753" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">The prognostic value of fasting plasma glucose, two-hour postload glucose, and HbA1c in patients with coronary artery disease: a report from EUROASPIRE IV: a survey from the European society of cardiology</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Shahim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">De</forename><surname>Bacquer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">De</forename><surname>Backer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="1233" to="1240" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Adjustment of the GRACE score by 2-hour post-load glucose improves prediction of long-term major adverse cardiac events in acute coronary syndrome in patients without known diabetes</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Chattopadhyay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>George</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>John</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur Heart J</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="issue">29</biblScope>
+			<biblScope unit="page" from="2740" to="2745" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title level="m" type="main">Guidelines on diabetes, pre-diabetes, and cardiovascular diseases: executive summary: the task force on diabetes and cardiovascular diseases of the European Society of Cardiology (ESC) and of the European Association for the Study of Diabetes</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Ryden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Standl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bartnik</surname></persName>
+		</author>
+		<imprint>
+			<publisher>EASD</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Eur Heart J</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="88" to="136" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Report of the expert committee on the diagnosis and classification of diabetes mellitus</title>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="S5" to="S20" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+	<note>Suppl. 1</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Impaired fasting glucose and impaired glucose tolerance: implications for care</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Nathan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Davidson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">De</forename><surname>Fronzo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="753" to="759" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Secondary prevention of cardiovascular events with long-term pravastatin in patients with diabetes or impaired fasting glucose: results from the LIPID trial</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Keech</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Colquhoun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Best</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="2713" to="2721" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Impaired fasting glucose and recurrent cardiovascular disease among survivors of a first acute myocardial infarction: evidence of a sex difference? The Western New York experience</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Donahue</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Dorn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Stranges</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nutr Metab Cardiovasc Dis</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="504" to="511" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">A 3-year follow-up of the silent diabetes study</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Schnell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Doerr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Lodwig</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="2596" to="2598" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Prediabetes and its impact on clinical outcome after coronary intervention in a broad patient population</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Kok</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Von Birgelen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Sattar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eurointervention</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="e1049" to="e1056" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Postchallenge plasma glucose and glycemic spikes are more strongly associated with atherosclerosis than fasting glucose or HbA1c level</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">S</forename><surname>Temelkova-Kurktschiev</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Koehler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Henkel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="1830" to="1834" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Assessment and treatment of cardiovascular risk in prediabetes: impaired glucose tolerance and impaired fasting glucose</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Defronzo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Abdul-Ghani</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">108</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="3B" to="24B" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note>Suppl</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Oral glucose tolerance test: a reliable tool for early detection of glucose abnormalities in patients with acute myocardial infarction in clinical practice: a report on repeated oral glucose tolerance tests from the GAMI study</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Wallander</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Malmberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Norhammar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="36" to="38" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

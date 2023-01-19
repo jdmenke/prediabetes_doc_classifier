@@ -1,0 +1,1079 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Impaired glucose tolerance is a risk factor for stroke in a Japanese sample-the Funagata study</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Toshihide</forename><surname>Oizumi</surname></persName>
+						</author>
+						<author role="corresp">
+							<persName><forename type="first">Makoto</forename><surname>Daimon</surname></persName>
+							<email>mdaimon@med.id.yamagata-u.ac.jp</email>
+						</author>
+						<author>
+							<persName><forename type="first">Yumi</forename><surname>Jimbu</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Kiriko</forename><surname>Wada</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Wataru</forename><surname>Kameda</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Shinji</forename><surname>Susa</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Hiroshi</forename><surname>Yamaguchi</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Hiroshi</forename><surname>Ohnuma</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Makoto</forename><surname>Tominaga</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Laboratory Medicine</orgName>
+								<orgName type="institution">Yamagata University School of Medicine</orgName>
+								<address>
+									<postCode>990-9585</postCode>
+									<settlement>Yamagata</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Takeo</forename><surname>Kato</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Neurology</orgName>
+								<orgName type="department" key="dep2">Metabolism, Endocrinology and Diabetology (DNHMED)</orgName>
+								<orgName type="institution">Yamagata University School of Medicine</orgName>
+								<address>
+									<postCode>90-9585</postCode>
+									<settlement>Hematology, Yamagata</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Impaired glucose tolerance is a risk factor for stroke in a Japanese sample-the Funagata study</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">43422D743A2F611446F7A7AD7D22DEDE</idno>
+					<idno type="DOI">10.1016/j.metabol.2007.10.007</idno>
+					<note type="submission">Received 27 February 2007; accepted 16 October 2007</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.1" ident="GROBID" when="2022-07-19T22:45+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Impaired glucose tolerance (IGT) is a known risk factor for cardiovascular disease, which includes stroke as well as coronary heart disease (CHD). We investigated whether IGT is a risk factor for stroke. The incidence of stroke and CHD in a cohort population (n = 2938) consisting of participants of the 1990-1997 Funagata study was assessed through interviews with the participants and their family members and reviews of death certificates and residence transfer documents through 2002. Glucose tolerance at the baseline was classified according to the criteria of the 1998 World Health Organization (normal glucose tolerance, n = 2189; IGT, n = 320; and diabetes, n = 286). The cumulative incidences among the groups were compared using the Kaplan-Meier product-limit method, and the risks of these conditions were evaluated by person-year and Cox proportional hazard methods. During the 147-month (mean, 116.5 months) follow-up, 158 (normal glucose tolerance, IGT, and diabetes: 94, 35, and 29, respectively) participants experienced a stroke and 94 (54, 16, and 24, respectively) experienced CHD. By the person-year method, IGT and diabetes were shown to be significant risk factors for stroke and CHD (odds ratio, 1.87 [95% confidence interval, 1.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Introduction</head><p>Abnormal glucose tolerances such as impaired glucose tolerance (IGT) as well as diabetes are well-established risk factors for cardiovascular disease (CVD) <ref type="bibr" target="#b0">[1]</ref><ref type="bibr" target="#b1">[2]</ref><ref type="bibr" target="#b2">[3]</ref><ref type="bibr" target="#b3">[4]</ref><ref type="bibr" target="#b4">[5]</ref>. Because CVD includes several medical conditions, such as stroke and coronary heart disease (CHD), the observed risk for CVD is the combined outcomes of these medical conditions. Both diabetes and IGT seem to be well-established risk factors for CHD <ref type="bibr" target="#b5">[6]</ref><ref type="bibr" target="#b6">[7]</ref><ref type="bibr" target="#b7">[8]</ref><ref type="bibr" target="#b8">[9]</ref>; likewise, that diabetes is a risk factor for stroke has also been shown in many studies <ref type="bibr" target="#b8">[9]</ref><ref type="bibr" target="#b9">[10]</ref><ref type="bibr" target="#b10">[11]</ref>. However, IGT does not seem to be a well-established risk factor for stroke.</p><p>A high prevalence of abnormal glucose tolerance, including IGT, in patients who have had a recent ischemic stroke has been reported <ref type="bibr" target="#b11">[12,</ref><ref type="bibr" target="#b12">13]</ref>; and thus, IGT may also be a risk factor for stroke. In some studies of elderly subjects (mean age, ∼75 years), IGT was shown to be a risk factor for stroke <ref type="bibr" target="#b13">[14,</ref><ref type="bibr" target="#b14">15]</ref>. Furthermore, IGT has been reported as a risk factor for future stroke in patients having experienced a transient ischemic attack or minor ischemic stroke as well as in those with CHD <ref type="bibr" target="#b15">[16,</ref><ref type="bibr" target="#b16">17]</ref>. Therefore, it is being established that IGT is a risk factor for stroke, at least in some high-risk populations. We conducted a cohort study of the participants of the community-based Funagata study to determine whether IGT is a risk factor for stroke in the general population as well.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Subjects and methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1.">Subjects</head><p>The Funagata study is a population-based longitudinal study held in Funagata, an agricultural area located about 400 km north of Tokyo, Japan <ref type="bibr" target="#b17">[18,</ref><ref type="bibr" target="#b18">19]</ref>. An original cohort of 2658 participants older than 40 years that registered from 1990 to 1992 and additional cohorts of 824 participants older than 35 years that registered from 1993 to 1997 (n = 3482) were enrolled for this study. The Funagata population older than 35 years in 1995 was 4183. Individuals (n = 377) with stroke or other disabilities who were unable to participate in the study were excluded at the baseline. Thus, the participation rate was estimated as 91.5% (3482 of 3806 <ref type="bibr">[4183−377]</ref>). Through 2002, death certificates were reviewed annually; and medical conditions including stroke and CHD events (fatal and nonfatal) were evaluated at the end of 2002 by interviewing the participants and their family members by area public health nurses using questionnaires. Among the participants, 2938 completed the study (followup rate, 84.3%). Of them, 288 died and 44 moved away during the follow-up. The participants who moved away during the follow-up period were identified by residence transfer documents. Death certificates of the deceased participants were collected with the permission of the Management and Coordination Agency of the Japanese government once a year. The death code (International Classification of Diseases, Ninth <ref type="bibr">Revision [1990</ref><ref type="bibr">Revision [ -1994] ]</ref> or International Statistical Classification of Diseases, 10th Revision <ref type="bibr">[1995]</ref><ref type="bibr">[1996]</ref><ref type="bibr">[1997]</ref><ref type="bibr">[1998]</ref><ref type="bibr">[1999]</ref><ref type="bibr">[2000]</ref><ref type="bibr">[2001]</ref><ref type="bibr">[2002]</ref>), the date, and the place of death were reviewed. In this study period, the participants did not receive any interventions not only for diabetes mellitus but also for comorbid disease, except for ordinary advice for health promotion.</p><p>All participants, except those (n = 167) who had been identified by public health nurses and through contacts with outpatient clinics as receiving medication for diabetes mellitus and thus were classified as diabetic, completed a 75-g oral glucose tolerance test at the baseline. Glucose tolerance was classified by the 1998 criteria of the World Health Organization <ref type="bibr" target="#b19">[20]</ref>. The cohort population was divided into 3 groups: normal glucose tolerance (NGT) (n = 2189), IGT (n = 429), and diabetes (n = 320). For an analysis in which the risk of impaired fasting glucose (IFG) was examined, fasting plasma glucose levels alone were used to classify glucose tolerance: NGT (n = 2520), IFG (n = 172), and diabetes (n = 246). Hypertension was defined as present if the subject was confirmed to be receiving medications for hypertension by a questionnaire. This study was approved by the Ethics Committee of Yamagata University School of Medicine, and informed consent to participate in this study was obtained from all participants.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.">Statistical methods</head><p>The clinical characteristics are given as the means ± SD. The statistical significance of the differences in the characteristic values between any 2 groups was assessed by analysis of variance. The Scheffe test was used for post hoc analysis. The statistical significance of the difference in the sex ratio was analyzed by χ 2 tests.</p><p>For age adjustment of the study groups, the person-year method was used, with stratification into 5-year age groups by sex: 35 to 39, 40 to 44, 45 to 49, and so on. The observed person-years and events in each column were counted. The odds ratios of IGT to NGT and of diabetes to NGT for CVD, CHD, and stroke were calculated. The cumulative incidences were compared among the NGT, IGT, and diabetic groups using the Kaplan-Meier product-limit method, in which all events (fatal or nonfatal) corresponding to CVD (either stroke or CHD) were adopted as the end point. Multivariable Cox regression models were used to estimate the hazard ratios (HRs) of age, sex, hypertension, IGT to NGT, and diabetes to NGT. The latter 2 variables were used one after the other. For example, the diabetic group was not used when calculating the HR of IGT to NGT. A P value less than .05 was considered significant. All analyses were conducted using Stat View for Windows, version 5.0 (SAS Institute, Cary, NC).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1.">Clinical characteristics of the study groups</head><p>The clinical characteristics of the study groups at the baseline are shown in Table <ref type="table" target="#tab_0">1</ref>. The mean age and the sex ratio of the NGT, IGT, and diabetic groups were significantly different among the groups; thus, these differences were considered in the interpretation of the comparison of cumulative incidences among the 3 groups.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2.">IGT is a risk factor for stroke</head><p>As shown in Table <ref type="table" target="#tab_1">2</ref>, during the follow-up, 158 (5.4%) participants experienced a stroke (ischemic, hemorrhagic, Data are means ± SD. P less than .05 was considered as significant. a Mean value was significantly different from that of the NGT group (Scheffe F test).</p><p>b Sex distribution was significantly different from the NGT group (χ 2 test).</p><p>c Data were not obtained from the subjects (n = 167) who had been diagnosed as diabetic before the baseline examination.</p><p>and unclassified: 104, 45, and 7, respectively) and 94 (3.2%) participants experienced CHD. Among them, one of the NGT group and two of the diabetes group had 2 events (ischemic stroke and CHD) simultaneously; and thus, these participants were counted for these 2 events. By the personyear method, both IGT and diabetes were shown to be The NGT group was used as a reference. The cumulative incidence of stroke for the IGT group was significantly higher than that for NGT, whereas that for IFG was not significant. P less than .05 was considered as significant.</p><p>significant risk factors for both stroke and CHD, as the odds ratios of those incidences for IGT to NGT and diabetes to NGT were significantly more than 1.0 (Table <ref type="table" target="#tab_1">2</ref>). As shown in Fig. <ref type="figure" target="#fig_0">1A</ref>, at the end of the follow-up (longest and mean follow-up periods: 147 and 116.5 months, respectively), the cumulative incidences of CVD, stroke, and CHD for diabetes (0.159, 0.091, and 0.075, respectively) were significantly higher than those for NGT (0.067, 0.043, and 0.025, respectively). The cumulative incidences of CVD and stroke for IGT (0.117 and 0.082, respectively) were significantly higher than those for NGT, whereas the cumulative incidence of CHD for IGT (0.037) was not significantly higher than that for NGT.</p><p>Afterward, Cox proportional hazard model analyses were used to adjust the differences in several clinical characteristics among the groups, which could account for the observed differences in the cumulative incidences. The variables included in this model were age, sex, and the presence of hypertension, which are known as strong risk factors for stroke. As shown in Table <ref type="table" target="#tab_2">3</ref>, IGT was associated with increased risk for stroke (HR, 1.51; 95% confidence interval [CI], 1.02-2.24), but not for CHD (1.21, 0.69-2.13), whereas diabetes was significantly associated with CHD (P = .010) and CVD (P = .017). Association of IGT with increased risk for CVD was marginal (P = .054) (Table <ref type="table" target="#tab_2">3</ref>). All of these results indicate that IGT is a significant risk factor for stroke in a Japanese population.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.3.">IFG is not a risk factor for stroke</head><p>As shown in Fig. <ref type="figure" target="#fig_0">1B</ref>, at the end of the follow-up, the cumulative incidences of CVD, stroke, and CHD for IFG (0.110, 0.091, and 0.034, respectively) were not significantly higher than those for NGT (0.101, 0.069, and 0.022, respectively). Furthermore, Cox proportional hazard model analyses with age, sex, and the presence of hypertension as the covariables did not show the risk of IFG for CVD (HR, 0.88; 95% CI, 0.52-1.50), stroke (1.11, 0.61-2.02), and CHD (0.50, 0.16-1.60). These results indicate that IFG is not a substantial risk factor for stroke in a Japanese population.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Discussion</head><p>Both diabetes and IGT are well-established risk factors for CVD <ref type="bibr" target="#b0">[1]</ref><ref type="bibr" target="#b1">[2]</ref><ref type="bibr" target="#b2">[3]</ref><ref type="bibr" target="#b3">[4]</ref><ref type="bibr" target="#b4">[5]</ref>, which includes several medical conditions such as stroke and CHD. The incidence of stroke is much lower (25%-35% of CHD) than that of CHD in the United States and Europe <ref type="bibr" target="#b1">[2,</ref><ref type="bibr" target="#b20">21,</ref><ref type="bibr" target="#b21">22]</ref>. Therefore, in previous studies, the observed risk for CVD seemed to be attributed primarily to the risk for CHD. Here, we evaluated separately the risks of IGT for stroke and CHD using a cohort study of a Japanese population. The incidence of stroke is higher (1.5-2.5 times more) than that of CHD in Japan <ref type="bibr" target="#b22">[23]</ref><ref type="bibr" target="#b23">[24]</ref><ref type="bibr" target="#b24">[25]</ref>; therefore, the risk for stroke was evaluated more precisely in the present study. However, even in a previous study of Japanese subjects, IGT was shown to be a risk factor for CVD but not for stroke <ref type="bibr" target="#b25">[26]</ref>. In the previous study, the follow-up period (5 years) was substantially shorter than ours (mean, 116.5 months); and this difference may account for the insignificant result. We have clearly shown here that IGT was a significant risk factor for stroke in a community-based Japanese sample.</p><p>Increased risk of IGT for future stroke has been shown <ref type="bibr" target="#b15">[16,</ref><ref type="bibr" target="#b16">17]</ref>. However, the study populations used were those with transient ischemic attacks or minor ischemic stroke or those with CHD; and thus, these studies indicated that IGT is a risk factor for stroke in some high-risk populations. Recently, in an English population-based male cohort study, glucose intolerance, defined as 96 to 199 mg/dL of 2-hour plasma glucose after 50-g oral glucose tolerance test, was shown to be a risk factor for stroke mortality (HR, 1.47; 95% CI, 1.16-1.88) <ref type="bibr" target="#b20">[21]</ref>. In that study <ref type="bibr" target="#b20">[21]</ref>, however, nonfatal stroke events were not monitored; thus, the risk for stroke seemed to be evaluated less precisely. Both fatal and nonfatal stroke events were monitored in the present study.</p><p>Although IGT was shown to be a significant risk factor for stroke, diabetes was not shown to be a significant risk factor for stroke in the present study. The above-mentioned study similarly showed that diabetes was not a risk factor for stroke mortality (HR, 1.16; 95% CI, 0.29-4.64) <ref type="bibr" target="#b20">[21]</ref>. However, these results may not be appreciated. As is typical of population-based studies, the samples were uneven. In this case, the number of the diabetic subjects was considerably smaller than that with IGT. This fact may have decreased the statistical power to assess the risk for diabetes in the present study and may explain the lack of significance in the results.</p><p>We have shown here that IGT is a risk factor for future stroke independent of age, sex, and the presence of hypertension. Blood pressures were not measured for all the participants, and hypertension was defined on the basis of medications. Therefore, those who were hypertensive but not on medications were not defined as hypertensive, which may discount the significance of the results. Except for the factors described above, there are several other known risk factors for stroke, such as smoking, atrial fibrillation, and hyperlipidemia <ref type="bibr" target="#b26">[27]</ref><ref type="bibr" target="#b27">[28]</ref><ref type="bibr" target="#b28">[29]</ref><ref type="bibr" target="#b29">[30]</ref>. A meta-analysis with 32 separate studies showed the overall relative risk of stroke associated with cigarette smoking (relative risk, 1.5) <ref type="bibr" target="#b27">[28]</ref>. In the Framingham Study, the following have been shown: the risk of stroke was increased as the number of cigarettes smoked increased, and the relative risk of stroke in heavy smokers (greater than 40 cigarettes per day) was twice that of light smokers (fewer than 10 cigarettes per day) <ref type="bibr" target="#b26">[27]</ref>; compared with subjects free of the conditions, the age-adjusted incidence of stroke was more than trebled in the presence of hypertension and a near 5-fold excess when atrial fibrillation was present <ref type="bibr" target="#b28">[29]</ref>. A study to examine the relation between the serum total cholesterol level and the risk of death from stroke in 350 977 men showed a positive association between the serum cholesterol level and death from nonhemorrhagic stroke <ref type="bibr" target="#b29">[30]</ref>. Therefore, these factors appeared to be the established risk factors for stroke and thus should have been included in this study; however, we could not obtain such information under conditions reliable enough for analysis. Information about smoking habits was obtained from only some of the participants, and none of the participants gave information about the presence of atrial fibrillation. Information related to hyperlipidemia such as serum total cholesterol and triglyceride levels was obtained for most participants (n = 2830). However, no information about medication for hyperlipidemia was available; and thus, precise diagnosis for hyperlipidemia was not possible. Nevertheless, when we added the information about hyperlipidemia (serum cholesterol levels ≥240 mg/dL and/ or triglyceride levels ≥150 mg/dL) as one of the covariates for the multivariate Cox regression analysis shown in Table <ref type="table" target="#tab_2">3</ref>, IGT was still shown to be a significant risk factor for stroke (1.53, 1.03-2.27, P = .036). Therefore, although this result may not be accurate, it raises the possibility that the risk of IGT for stroke may be independent of hyperlipidemia as well. Whether IGT is a risk factor for stroke independent of other factors such as hyperlipidemia, smoking habits, and atrial fibrillation has yet to be proven. Many epidemiologic studies have shown that IGT is a risk factor for CVD, whereas IFG is not <ref type="bibr" target="#b0">[1]</ref><ref type="bibr" target="#b1">[2]</ref><ref type="bibr" target="#b2">[3]</ref><ref type="bibr" target="#b3">[4]</ref><ref type="bibr" target="#b4">[5]</ref><ref type="bibr" target="#b5">[6]</ref><ref type="bibr" target="#b6">[7]</ref><ref type="bibr" target="#b7">[8]</ref><ref type="bibr" target="#b8">[9]</ref><ref type="bibr" target="#b17">18,</ref><ref type="bibr" target="#b30">[31]</ref><ref type="bibr" target="#b31">[32]</ref><ref type="bibr" target="#b32">[33]</ref>. However, whether IGT and/or IFG is a risk factor for stroke has not been well established to date. Several studies in which intima-media thickness has been used as a condition related to carotid atherosclerosis, which seemed to lead to the development of stroke, have shown that IGT was associated with intima-media thickness, but IFG was not <ref type="bibr" target="#b33">[34]</ref><ref type="bibr" target="#b34">[35]</ref><ref type="bibr" target="#b35">[36]</ref>, although a controversy exists <ref type="bibr" target="#b36">[37]</ref>. These facts may indicate that IGT is a risk factor for stroke, whereas IFG is not. We examined here also the risk of IFG for CVD, stroke, and CHD and found that IFG was not a risk factor for these conditions. These results indicate that IFG is not a risk factor for stroke as well as for CVD.</p><p>In conclusion, IGT is an independent risk factor for future stroke in a Japanese population.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1 .</head><label>1</label><figDesc>Fig.1. Cumulative incidence of CVD, CHD, and stroke by glucose tolerance status. A, The participants were divided into 3 groups based on the 1998 criteria of the World Health Organization for glucose tolerance: NGT, IGT, and diabetes. B, Fasting plasma glucose levels alone were used to classify their glucose tolerance: NGT, IFG, and diabetes. The significances of the differences between each groups at the end of the follow-up are indicated by * and **, respectively. The cumulative incidence of stroke for the IGT group was significantly higher than that for NGT, whereas that for IFG was not significant. P less than .05 was considered as significant.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Baseline characteristics of the cohort population by glucose tolerance status</figDesc><table><row><cell></cell><cell>NGT</cell><cell>IGT</cell><cell>Diabetes</cell></row><row><cell>n</cell><cell>2189</cell><cell>429</cell><cell>320</cell></row><row><cell>Age (y)</cell><cell>55.4 ± 11.5</cell><cell>60.8 ± 10.8 a</cell><cell>65.0 ± 10.5 a</cell></row><row><cell>Sex (M/F)</cell><cell>987/1202</cell><cell>172/257 b</cell><cell>134/190 b</cell></row><row><cell>Height (cm)</cell><cell>155.6 ± 8.5</cell><cell>152.5 ± 8.7 a</cell><cell>152.0 ± 8.1 a, c</cell></row><row><cell>Body weight (kg)</cell><cell>56.6 ± 9.4</cell><cell>57.9 ± 10.6 a</cell><cell>59.9 ± 10.3 a, c</cell></row><row><cell>Fasting plasma glucose</cell><cell>90.5 ± 8.5</cell><cell cols="2">101.7 ± 11.7 a 130.2 ± 32.8 a, c</cell></row><row><cell>(mg/dL)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>2-h plasma glucose</cell><cell cols="3">99.2 ± 21.5 150.2 ± 24.3 a 244.0 ± 81.2 a, c</cell></row><row><cell>(mg/dL)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Waist circumference</cell><cell>78.4 ± 9.1</cell><cell>83.2 ± 9.5 a</cell><cell>86.7 ± 9.6 a, c</cell></row><row><cell>(cm)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Hip circumference</cell><cell>91.5 ± 5.6</cell><cell>93.0 ± 6.6 a</cell><cell>95.3 ± 7.1 a, c</cell></row><row><cell>(cm)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Waist-to-hip ratio</cell><cell cols="3">0.856 ± 0.074 0.893 ± 0.071 a 0.910 ± 0.071 a, c</cell></row><row><cell>Body mass index</cell><cell cols="3">23.33 ± 3.06 24.81 ± 3.47 a 25.89 ± 3.65 a, c</cell></row><row><cell>(kg/m 2 )</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Hypertension (%)</cell><cell>468 (21.4)</cell><cell>151 (35.2) b</cell><cell>166 (51.9) b</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2</head><label>2</label><figDesc>Odds ratio of CVD, stroke, and CHD by glucose tolerance status (person-year method)</figDesc><table><row><cell></cell><cell>NGT</cell><cell>IGT</cell><cell>Diabetes</cell></row><row><cell>n</cell><cell>2189</cell><cell>429</cell><cell>320</cell></row><row><cell>CVD</cell><cell></cell><cell></cell><cell></cell></row><row><cell>No. (%) of events</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Total</cell><cell>147 (6.7)</cell><cell>51 (11.9)</cell><cell>51 (15.9)</cell></row><row><cell>Fatal and nonfatal</cell><cell>47 (2.1), 100 (4.6)</cell><cell>20 (4.7), 31 (7.2)</cell><cell>23 (7.2), 28 (8.8)</cell></row><row><cell>Observed person-years</cell><cell>21139.7</cell><cell>4147.1</cell><cell>2934.4</cell></row><row><cell>Odd ratio (95% CI)</cell><cell>1</cell><cell>1.77 (1.68∼1.87)</cell><cell>2.55 (2.35∼2.75)</cell></row><row><cell>Stroke</cell><cell></cell><cell></cell><cell></cell></row><row><cell>No. (%) of events</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Total</cell><cell>94 (4.3)</cell><cell>35 (8.2)</cell><cell>29 (9.1)</cell></row><row><cell>Fatal and nonfatal</cell><cell>28 (1.3), 66 (3.0)</cell><cell>13 (3.0), 22 (5.1)</cell><cell>10 (3.1), 19 (5.9)</cell></row><row><cell>Observed person-years</cell><cell>21319.3</cell><cell>4176.8</cell><cell>3100.9</cell></row><row><cell>Odds ratio (95% CI)</cell><cell>1</cell><cell>1.87 (1.73∼2.03)</cell><cell>3.57 (3.21∼3.98)</cell></row><row><cell>CHD</cell><cell></cell><cell></cell><cell></cell></row><row><cell>No. (%) of events</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Total</cell><cell>54 (2.5)</cell><cell>16 (3.7)</cell><cell>24 (7.5)</cell></row><row><cell>Fatal and nonfatal</cell><cell>19 (0.9), 35 (1.6)</cell><cell>7 (1.6), 9 (2.1)</cell><cell>13 (4.1), 11 (3.4)</cell></row><row><cell>Observed person-years</cell><cell>21393</cell><cell>4249.8</cell><cell>2994.2</cell></row><row><cell>Odds ratio (95% CI)</cell><cell>1</cell><cell>1.53 (1.31∼1.78)</cell><cell>3.47 (2.91∼4.14)</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3</head><label>3</label><figDesc>Risk for CVD, stroke, and CHD by glucose tolerance status</figDesc><table><row><cell></cell><cell>HR</cell><cell>95% CI</cell><cell>P</cell></row><row><cell>CVD</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Age (1 y)</cell><cell>1.06</cell><cell>1.05∼1.08</cell><cell>b.001</cell></row><row><cell>Sex (female)</cell><cell>0.54</cell><cell>0.42∼0.70</cell><cell>b.001</cell></row><row><cell>Hypertension</cell><cell>1.62</cell><cell>1.25∼2.11</cell><cell>b.001</cell></row><row><cell>IGT (vs NGT)</cell><cell>1.37</cell><cell>0.99∼1.89</cell><cell>.054</cell></row><row><cell>Diabetes (vs NGT)</cell><cell>1.50</cell><cell>1.08∼2.10</cell><cell>.017</cell></row><row><cell>Stroke</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Age (1 y)</cell><cell>1.06</cell><cell>1.05∼1.08</cell><cell>b.001</cell></row><row><cell>Sex (female)</cell><cell>0.63</cell><cell>0.46∼0.86</cell><cell>.004</cell></row><row><cell>Hypertension</cell><cell>1.26</cell><cell>1.03∼1.54</cell><cell>.025</cell></row><row><cell>IGT (vs NGT)</cell><cell>1.51</cell><cell>1.02∼2.24</cell><cell>.039</cell></row><row><cell>Diabetes (vs NGT)</cell><cell>1.47</cell><cell>0.96∼2.25</cell><cell>.079</cell></row><row><cell>CHD</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Age (1 y)</cell><cell>1.07</cell><cell>1.05∼1.09</cell><cell>b.001</cell></row><row><cell>Sex (female)</cell><cell>0.45</cell><cell>0.29∼0.68</cell><cell>b.001</cell></row><row><cell>Hypertension</cell><cell>1.06</cell><cell>0.80∼1.41</cell><cell>.679</cell></row><row><cell>IGT (vs NGT)</cell><cell>1.21</cell><cell>0.69∼2.13</cell><cell>.509</cell></row><row><cell>Diabetes (vs NGT)</cell><cell>1.97</cell><cell>1.18∼3.28</cell><cell>.010</cell></row><row><cell cols="4">Cox hazard model was applied. Calculation was done vs NGT group.</cell></row></table></figure>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Fasting and 2-hour postchallenge serum glucose measures and risk of incident cardiovascular events in the elderly: the Cardiovascular Health Study</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">L</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">I</forename><surname>Barzilay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Shaffer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">162</biblScope>
+			<biblScope unit="page" from="209" to="216" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Glucose tolerance and cardiovascular mortality: comparison of fasting and 2-hour diagnostic criteria</title>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">161</biblScope>
+			<biblScope unit="page" from="397" to="405" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+		<respStmt>
+			<orgName>DECODE Study Group, the European Diabetes Epidemiology Group</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Stroke recurrence within 2 years after ischemic infarction</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Hier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Foulkes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Swiontoniowski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stroke</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="155" to="161" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Diabetes, other risk factors, and 12-yr cardiovascular mortality for men screened in the Multiple Risk Factor Intervention Trial</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Stamler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Vaccaro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Neaton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Wentworth</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="434" to="444" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Diabetes and cardiovascular disease: a statement for healthcare professionals from the American Heart Association</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Grundy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">J</forename><surname>Benjamin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">L</forename><surname>Burke</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">100</biblScope>
+			<biblScope unit="page" from="1134" to="1146" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Mortality from coronary heart disease in subjects with type 2 diabetes and in nondiabetic subjects with and without prior myocardial infarction</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Haffner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lehto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Ronnemaa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Pyorala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Laakso</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">339</biblScope>
+			<biblScope unit="page" from="229" to="234" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Impaired glucose tolerance and its relationship to ECG-indicated coronary heart disease and risk factors among Chinese. Da Qing IGT and diabetes study</title>
+		<author>
+			<persName><forename type="first">X</forename><forename type="middle">R</forename><surname>Pan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">H</forename><surname>Hu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">W</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">H</forename><surname>Bennett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">V</forename><surname>Howard</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="150" to="156" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Impaired glucose tolerance, but not impaired fasting glucose, is associated with increased levels of coronary heart disease risk factors: results from the Baltimore Longitudinal Study on Aging</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Blake</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Meigs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Muller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Najjar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Andres</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Nathan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="2095" to="2100" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Association of glycaemia with macrovascular and microvascular complications of type 2 diabetes (UKPDS 35): prospective observational study</title>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">M</forename><surname>Stratton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">I</forename><surname>Adler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Haw</forename><surname>Neil</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Brit Med J</title>
+		<imprint>
+			<biblScope unit="volume">321</biblScope>
+			<biblScope unit="page" from="405" to="412" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Primary prevention of ischemic stroke: a statement for healthcare professionals from the Stroke Council of the</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">B</forename><surname>Goldstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Adams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Becker</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Heart Association. Stroke</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="280" to="299" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Type 2 diabetes mellitus and insulin resistance: stroke prevention and management</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">N</forename><surname>Kernan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Inzucchi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Curr Treat Options Neurol</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="443" to="450" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Prevalence of abnormal glucose tolerance following a transient ischemic attack or ischemic stroke</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">N</forename><surname>Kernan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Viscoli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Inzucchi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">165</biblScope>
+			<biblScope unit="page" from="227" to="233" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Disorders of glucose metabolism in acute stroke patients: an underrecognized problem</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Matz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Keresztes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Tatschl</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="792" to="797" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Shortterm predictors of incident stroke in older adults. The Cardiovascular Heart Study</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Manolio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Kronmal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">L</forename><surname>Burke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H</forename><surname>O'leary</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">R</forename><surname>Price</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stroke</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="1479" to="1486" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Predictors of stroke mortality in elderly people from the general population. The Cardiovascular Study in the Elderly</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mazza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Pessina</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Pavei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Scarpa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Tikhonoff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Casiglia</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="1097" to="1104" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Fasting plasma glucose and risk of incident ischemic stroke or transient ischemic attacks: a prospective cohort study</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Tanne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Koren-Morag</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Goldbourt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stroke</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="2351" to="2355" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Dutch TIA Trial Study Group. Impaired glucose tolerance increases stroke risk in nondiabetic patients with transient ischemic attack or minor ischemic stroke</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Vermeer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Sandee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Algra</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stroke</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="1413" to="1417" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Impaired glucose tolerance is a risk factor for cardiovascular disease, but not impaired fasting glucose. The Funagata Diabetes Study</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tominaga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Eguchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Manaka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Igarashi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Kato</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sekikawa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="920" to="924" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Decreased serum levels of adiponectin are a risk factor for the progression to type 2 diabetes in the Japanese population: the Funagata study</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Daimon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Oizumi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Saitoh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="2015" to="2020" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Definition, diagnosis and classification of diabetes mellitus and its complications. Part 1: diagnosis and classification of diabetes mellitus. Provisional report of a WHO consultation</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">G</forename><surname>Alberti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">Z</forename><surname>Zimmet</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabet Med</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="539" to="553" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Relation between blood glucose and coronary mortality over 33 years in the Whitehall Study</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Brunner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Shipley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Witte</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Fuller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Marmot</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="26" to="31" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Incidence of cardiovascular disease in older Americans: the cardiovascular health study</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Arnold</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">M</forename><surname>Psaty</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">H</forename><surname>Kuller</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Geriatr Soc</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="211" to="218" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Trends in the incidence, mortality, and survival rate of cardiovascular disease in a Japanese community: the Hisayama study</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kubo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Kiyohara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Kato</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stroke</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="2349" to="2354" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">J-LIT Study Group. The risk of cardiovascular events in Japanese hypertensive patients with hypercholesterolemia: sub-analysis of the Japan Lipid Intervention Trial (J-LIT) Study, a large-scale observational cohort study</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Shimamoto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Kita</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Mabuchi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hypertens Res</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="879" to="887" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Association between fish consumption and all-cause and cause-specific mortality in Japan: NIPPON DATA80, 1980-99</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Nakamura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ueshima</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Okamura</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Med</title>
+		<imprint>
+			<biblScope unit="volume">118</biblScope>
+			<biblScope unit="page" from="239" to="245" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+		<respStmt>
+			<orgName>NIPPON DATA80 Research Group</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Diabetes and cardiovascular disease in a prospective population survey in Japan: the Hisayama study</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Fujishima</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Kiyohara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Kato</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="S14" to="16" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+	<note>Suppl</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Cigarette smoking as a risk factor for stroke. The Framingham Study</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Wolf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>'agostino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Kannel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">B</forename><surname>Bonita</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Belanger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">259</biblScope>
+			<biblScope unit="page" from="1025" to="1029" />
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Meta-analysis of relation between cigarette smoking and stroke</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Shinton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Beevers</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMJ</title>
+		<imprint>
+			<biblScope unit="volume">298</biblScope>
+			<biblScope unit="page" from="789" to="794" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Atrial fibrillation as an independent risk factor for stroke: the Framingham Study</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Wolf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Abbott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">B</forename><surname>Kannel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stroke</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="983" to="988" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Serum cholesterol levels and six-year mortality from stroke in 350,977 men screened for the multiple risk factor intervention trial</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Iso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jacobs</forename><surname>Jr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Wentworth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Neaton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Cohen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">320</biblScope>
+			<biblScope unit="page" from="904" to="910" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Risk factors for myocardial infarction and death in newly detected NIDDM: the Diabetes Intervention Study, 11-year follow-up</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hanefeld</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Fischer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Julius</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page" from="1577" to="1583" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">asymptomatic hyperglycemia, and 22-year mortality in black and white men. The Chicago Heart Association Detection Project in Industry Study</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">P</forename><surname>Lowe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Greenland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">E</forename><surname>Metzger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Dyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Stamler</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Diabetes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="163" to="169" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Postchallenge glucose concentration and coronary heart disease in men of Japanese ancestry</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Donahue</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Abbott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Reed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Yano</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Honolulu Heart Program. Diabetes</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="689" to="692" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Postchallenge plasma glucose and glycemic spikes are more strongly associated with atherosclerosis than fasting glucose or HbA1c level</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">S</forename><surname>Temelkova-Kurktschiev</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Koehler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Henkel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Leonhardt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Fuecker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hanefeld</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="1830" to="1834" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Asymptomatic hyperglycemia is associated with increased intimal plus medial thickness of the carotid-artery</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Yamasaki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kawamori</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Matsushima</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="585" to="591" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Impaired fasting glucose is not a risk factor for atherosclerosis</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hanefeld</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Temelkova-Kurktschiev</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Schaper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Henkel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Siegert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Koehler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetic Med</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="212" to="218" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Impaired glucose tolerance, type 2 diabetes, and carotid wall thickness: the Insulin Resistance Atherosclerosis Study</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">E</forename><surname>Wagenknecht</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>'agostino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Haffner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Savage</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Rewers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="1812" to="1818" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,1285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Glycated Hemoglobin and the Risk of Kidney Disease and Retinopathy in Adults With and Without Diabetes</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2010-10-26">26 October 2010</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Elizabeth</forename><surname>Selvin</surname></persName>
+							<email>lselvin@jhsph.edu</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Epidemiology and the Welch Center for Prevention, Epidemiology and Clinical Research</orgName>
+								<orgName type="institution">Johns Hopkins Bloomberg School of Public Health</orgName>
+								<address>
+									<settlement>Baltimore</settlement>
+									<region>Maryland</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Division of General Internal Medicine</orgName>
+								<orgName type="department" key="dep2">Department of Medicine</orgName>
+								<orgName type="institution">Johns Hopkins University</orgName>
+								<address>
+									<settlement>Baltimore</settlement>
+									<region>Maryland</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Yang</forename><surname>Ning</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Biostatistics</orgName>
+								<orgName type="institution">Johns Hopkins Bloomberg School of Public Health</orgName>
+								<address>
+									<settlement>Baltimore</settlement>
+									<region>Maryland</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Michael</forename><forename type="middle">W</forename><surname>Steffes</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department" key="dep1">Department of Labora-tory Medicine and Pathology</orgName>
+								<orgName type="department" key="dep2">Medical School</orgName>
+								<orgName type="institution">University of Minnesota</orgName>
+								<address>
+									<settlement>Minneapolis</settlement>
+									<region>Minnesota</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Lori</forename><forename type="middle">D</forename><surname>Bash</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="institution">Merck and Company, Inc</orgName>
+								<address>
+									<settlement>Whitehouse Station</settlement>
+									<country>New Jersey</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Ronald</forename><surname>Klein</surname></persName>
+							<affiliation key="aff5">
+								<orgName type="department">Department of Ophthalmology and Visual Sciences</orgName>
+								<orgName type="institution">University of Wisconsin</orgName>
+								<address>
+									<settlement>Madison, Madison</settlement>
+									<region>Wisconsin</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Tien</forename><forename type="middle">Y</forename><surname>Wong</surname></persName>
+							<affiliation key="aff6">
+								<orgName type="department">Centre for Eye Research Australia</orgName>
+								<orgName type="institution">University of Melbourne</orgName>
+								<address>
+									<settlement>Melbourne</settlement>
+									<country key="AU">Australia</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff7">
+								<orgName type="department">Singapore Eye Research Institute</orgName>
+								<orgName type="institution">National University of Singapore</orgName>
+								<address>
+									<country key="SG">Singapore</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Brad</forename><forename type="middle">C</forename><surname>Astor</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Epidemiology and the Welch Center for Prevention, Epidemiology and Clinical Research</orgName>
+								<orgName type="institution">Johns Hopkins Bloomberg School of Public Health</orgName>
+								<address>
+									<settlement>Baltimore</settlement>
+									<region>Maryland</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Division of General Internal Medicine</orgName>
+								<orgName type="department" key="dep2">Department of Medicine</orgName>
+								<orgName type="institution">Johns Hopkins University</orgName>
+								<address>
+									<settlement>Baltimore</settlement>
+									<region>Maryland</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">A</forename><forename type="middle">Richey</forename><surname>Sharrett</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Epidemiology and the Welch Center for Prevention, Epidemiology and Clinical Research</orgName>
+								<orgName type="institution">Johns Hopkins Bloomberg School of Public Health</orgName>
+								<address>
+									<settlement>Baltimore</settlement>
+									<region>Maryland</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Frederick</forename><forename type="middle">L</forename><surname>Brancati</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Epidemiology and the Welch Center for Prevention, Epidemiology and Clinical Research</orgName>
+								<orgName type="institution">Johns Hopkins Bloomberg School of Public Health</orgName>
+								<address>
+									<settlement>Baltimore</settlement>
+									<region>Maryland</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Division of General Internal Medicine</orgName>
+								<orgName type="department" key="dep2">Department of Medicine</orgName>
+								<orgName type="institution">Johns Hopkins University</orgName>
+								<address>
+									<settlement>Baltimore</settlement>
+									<region>Maryland</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Josef</forename><surname>Coresh</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Epidemiology and the Welch Center for Prevention, Epidemiology and Clinical Research</orgName>
+								<orgName type="institution">Johns Hopkins Bloomberg School of Public Health</orgName>
+								<address>
+									<settlement>Baltimore</settlement>
+									<region>Maryland</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Division of General Internal Medicine</orgName>
+								<orgName type="department" key="dep2">Department of Medicine</orgName>
+								<orgName type="institution">Johns Hopkins University</orgName>
+								<address>
+									<settlement>Baltimore</settlement>
+									<region>Maryland</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department" key="dep1">Department of Labora-tory Medicine and Pathology</orgName>
+								<orgName type="department" key="dep2">Medical School</orgName>
+								<orgName type="institution">University of Minnesota</orgName>
+								<address>
+									<settlement>Minneapolis</settlement>
+									<region>Minnesota</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff8">
+								<orgName type="department">Department of Epidemiology and the Welch Center for Prevention, Epidemiology and Clinical Research</orgName>
+								<orgName type="institution">Johns Hopkins Bloomberg School of Public Health</orgName>
+								<address>
+									<settlement>Baltimore</settlement>
+									<region>Maryland</region>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Glycated Hemoglobin and the Risk of Kidney Disease and Retinopathy in Adults With and Without Diabetes</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2010-10-26">26 October 2010</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">FB54BD96BE0DB01B6FA25646A2C52898</idno>
+					<idno type="DOI">10.2337/db10-1198</idno>
+					<note type="submission">Received 24 August 2010 and accepted 7 October 2010.</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.1" ident="GROBID" when="2022-07-19T22:44+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>OBJECTIVE-Glycated hemoglobin was recently recommended for use as a diagnostic test for diabetes. We examined the association between 2010 American Diabetes Association diagnostic cut points for glycated hemoglobin and microvascular outcomes (chronic kidney disease, end-stage renal disease [ESRD], and retinopathy) and formally tested for the presence of risk thresholds in the relationships of glycated hemoglobin with these outcomes.</p><p>RESEARCH DESIGN AND METHODS-Prospective cohort and cross-sectional analyses of 11,357 participants (773 with a history of diagnosed diabetes) from the Atherosclerosis Risk in Communities (ARIC) Study.</p><p>RESULTS-During a median of 14 years of follow-up of individuals without diagnosed diabetes at baseline, clinical categories of glycated hemoglobin were associated with risk of chronic kidney disease, with adjusted hazard ratios (HRs) of 1.12 (0.94 -1.34) and 1.39 (1.04 -1.85) for glycated hemoglobin 5.7-6.4% and Ն6.5%, respectively, as compared with Ͻ5.7% (P trend ϭ 0.002). The corresponding HRs for ESRD were 1.51 (0.82-2.76) and 1.98 (0.83-4.73), respectively (P trend ϭ 0.047). In the absence of diagnosed diabetes, glycated hemoglobin was cross sectionally associated with the presence of moderate/severe retinopathy, with adjusted odds ratios of 1.42 (0.69 -2.92) and 2.91 (1.19 -7.11) for glycated hemoglobin 5.7-Ͻ6.5% and Ն6.5%, respectively, compared with Ͻ5.7% (P trend ϭ 0.011). Risk associations were stronger among individuals with a history of diabetes. We did not observe significant thresholds in the associations of glycated hemoglobin with kidney disease risk or retinopathy.</p><p>CONCLUSIONS-These data from a community-based, biracial population support the use of new 2010 American Diabetes Association glycated hemoglobin cut points for the diagnosis of diabetes.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>M</head><p>easurement of glycated hemoglobin has long been central to the management and treatment of diabetes. The evidence for the use of glycated hemoglobin in clinical practice is largely based on its associations with retinopathy in observational studies <ref type="bibr" target="#b0">(1)</ref><ref type="bibr" target="#b1">(2)</ref><ref type="bibr" target="#b2">(3)</ref><ref type="bibr" target="#b3">(4)</ref><ref type="bibr" target="#b4">(5)</ref> and clinical trial data demonstrating that lowering glycated hemoglobin can prevent microvascular outcomes in individuals with diabetes <ref type="bibr">(6 -10)</ref>. Diagnostic criteria for diabetes have been traditionally based exclusively on fasting or 2-h glucose testing. In a major change to clinical practice, the 2010 guidelines from the American Diabetes Association recommend the use of glycated hemoglobin as a diagnostic test for diabetes <ref type="bibr" target="#b10">(11)</ref>, with 6.5% designated as the diagnostic threshold. However, few studies have investigated the relationship of new glycated hemoglobin cut points with microvascular disease.</p><p>The objective of this study was to characterize the associations of glycated hemoglobin with risk of kidney disease and retinopathy in a community-based population. We compared these associations to those for fasting glucose. We hypothesized that among individuals without a history of diabetes, new American Diabetes Association cut points for glycated hemoglobin would identify risk for future kidney disease and would be cross-sectionally associated with prevalent retinopathy. We undertook analyses to characterize the shapes of the associations and to formally test for the presence of possible threshold effects in these data.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESEARCH DESIGN AND METHODS</head><p>The Atherosclerosis Risk in Communities (ARIC) Study is a community-based prospective cohort study of 15,792 middle-aged adults sampled from four U.S. communities. The first clinic examinations (visit 1) took place during 1987-1989, with three follow-up visits approximately every 3 years <ref type="bibr" target="#b11">(12)</ref>. <ref type="bibr">Visit 2 (1990</ref><ref type="bibr">Visit 2 ( -1992</ref>) was the only visit for which stored whole blood samples were available for measurement of HbA 1c , and it is the baseline for the present study. There were 14,348 participants who attended visit 2.</p><p>For our analyses of kidney outcomes, we excluded participants who had a recorded race/ethnicity other than white or black, history of cardiovascular disease or kidney disease, or who were nonfasting or who were missing variables of interest, for a final sample size of 11,357. Among these participants, 773 (6.8%) had a self-reported diagnosis of diabetes or were taking medication for diabetes (visit 1 or visit 2). We considered individuals with a self-reported history of physician-diagnosed diabetes separately in all analyses.</p><p>For analyses of prevalent retinopathy, we further excluded individuals who did not attend visit 3 in which retinopathy was assessed, who did not receive a retinal examination, or who had retinal photographs that were ungradable, for a final sample size of 9,140 (427 with a prior history of diabetes and 8,633 without). Of these, there were 767 participants (nonmissing covariates) who also had a second eye examination 3 years after visit 3 at visit 4 (1996 -98) <ref type="bibr" target="#b12">(13)</ref>. We examined incident retinopathy (retinopathy at visit 4 among individuals without retinopathy at visit 3) in this subsample.</p><p>Measurement of glycated hemoglobin. We thawed and assayed frozen whole blood samples collected at ARIC visit <ref type="bibr">2 (1990 -1992)</ref> for measurement of glycated hemoglobin using high performance liquid chromatography (Tosoh 2.2 Plus in 2003-2004 and the Tosoh G7 in 2007-2008; Tosoh Corporation, Tokyo, Japan) (Diabetes Control and Complications Trial [DCCT]-aligned) <ref type="bibr" target="#b13">(14)</ref>. Incident kidney disease. We used established definitions of chronic kidney disease in the ARIC Study <ref type="bibr" target="#b14">(15)</ref>. Specifically, we defined incident chronic kidney disease as a glomerular filtration rate (GFR) Ͻ60 ml/min/1.73 m 2 estimated from serum creatinine measured at visit <ref type="bibr">4 (1996 -1998)</ref>, or a kidney disease hospitalization or death identified by continuous active surveillance. End-stage renal disease (ESRD) was comprised of the subset of hospitalizations indicating kidney transplant or dialysis <ref type="bibr" target="#b15">(16)</ref>. We conducted sensitivity analyses to compare definitions based separately and in combination using estimated glomerular filtration rate, a creatinine rise, or a hospitalization for kidney disease. Prevalent retinopathy. Retinal photographs were taken at visit <ref type="bibr">3 (1993-1995)</ref> following a standardized protocol that has been previously documented <ref type="bibr" target="#b16">(17,</ref><ref type="bibr" target="#b17">18)</ref>. Briefly, after 5 min of dark adaptation, a nonmydriatic 45-degree retinal photograph centered on the optic disc and macula was taken of one randomly selected eye. Trained readers masked to participant information evaluated each of the photographs. A repeat retinal examination in a subset of participants at visit 4 (3 years later) was conducted in the same eye using the identical protocol. We defined any retinopathy as a severity score Ն14 according to a modification of the Airlie House classification system, as used in the Early Treatment Diabetic Retinopathy Study (ETDRS) <ref type="bibr" target="#b16">(17,</ref><ref type="bibr" target="#b18">19)</ref>. A retinopathy severity score was assigned on the basis of the presence of lesions and classified as follows: none (ETDRS Ͻ14), mild retinopathy (ETDRS <ref type="bibr">14 -20)</ref>, or moderate to severe retinopathy (ETDRS Ն35) <ref type="bibr" target="#b19">(20)</ref>. Incident retinopathy was defined as an ETDRS score Ն14 at visit 4 among individuals who were free of retinopathy at visit 3. Mild retinopathy usually consists of one or two microaneurysms or small hemorrhages; moderate or severe retinopathy consists of both microaneurysms and hemorrhages, often accompanied by hard or soft exudates, intraretinal microvascular abnormalities, venous beading, or less commonly vascular proliferative changes. Other variables of interest. Methods for measurement of plasma lipids <ref type="bibr" target="#b20">(21)</ref>, BMI kg/m 2 , waist-to-hip ratio <ref type="bibr" target="#b21">(22)</ref>, and blood pressure (23) are described elsewhere. Hypertension was defined using the average of two blood pressure readings at the visit with cut points of systolic blood pressure Ն140 mmHg, diastolic blood pressure Ն90 mmHg, or hypertension medication use. Participants self-reported education level (less than high school; high school or equivalent; college or above). Smoking and alcohol drinking status were both categorized as current, former, or never. Physical activity was assessed using Baecke's questionnaire at ARIC visit 1 <ref type="bibr" target="#b23">(24)</ref>.</p><p>Institutional Review Boards at each clinical site reviewed the study and informed consent was obtained from all participants. Statistical analyses. Baseline (visit 2) characteristics of the study population were calculated overall and by 2010 American Diabetes Association categories of glycated hemoglobin (11) (Ͻ5.7%, 5.7-Ͻ6.5%, or Ն6.5% in individuals without a history of diabetes), and, separately, for individuals with a history of diabetes. For analyses of incident kidney disease, adjusted hazard ratios (HRs) and corresponding 95% CIs were estimated using Cox proportional hazards models. For analyses of retinopathy, adjusted odds ratios (ORs) and their corresponding 95% CIs were estimated using logistic regression models. Because glycated hemoglobin was not assessed at the same visit as the retinal examination, we report the prevalence of retinopathy at visit 3 according to glycated hemoglobin levels and diabetes status at visit 2.   We constructed two models for both kidney disease and retinopathy. Model 1 was adjusted for age, sex, and race. Model 2 was adjusted for age, sex, race, LDL-and HDL-cholesterol, triglycerides, BMI, waist-to-hip ratio, hypertension, family history of diabetes, alcohol intake, education level, physical activity, and smoking status. For comparison, we employed the same models but substituting standard fasting glucose categories (Ͻ100, 100 -Ͻ126, Ն126 mg/dl) <ref type="bibr" target="#b24">(25)</ref> for glycated hemoglobin as the exposure of interest.</p><p>To assess the continuous associations between glycated hemoglobin and clinical outcomes in these models, we fit restricted cubic splines to the data <ref type="bibr" target="#b25">(26)</ref>. To test for the presence of thresholds (change points) we maximized the likelihood ratio with respect to the location of the threshold in each model and used bootstrap methods to derive the P value for the presence of a threshold across the range of the parameter <ref type="bibr" target="#b26">(27)</ref>. Model discrimination was assessed using the Harrell C statistic <ref type="bibr" target="#b27">(28)</ref> and the area under (AUC) the receiver operator characteristic (ROC) curve. We tested for effect modification by race/ethnicity. We also conducted sensitivity analyses comparing definitions of incident kidney disease <ref type="bibr" target="#b14">(15)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head><p>Baseline characteristics of the study population by glycated hemoglobin category and diabetes history are shown in Table <ref type="table" target="#tab_0">1</ref>. Individuals without a history of diabetes who had elevated glycated hemoglobin values at baseline were more likely to be black than those with lower values. They also had fewer years of education and had a more adverse lipid profile and higher BMI. During a median of ϳ14 years of follow-up, there were 180 and 761 incident cases of chronic kidney disease among the 773 individuals with diabetes and the 10,584 individuals without diabetes at baseline, respectively. Among those individuals with an estimated GFR Ͼ60 ml/min/1.73 m 2 at baseline, there were 47 incident cases of ESRD in individuals with diabetes, and 55 in individuals without diabetes. The prevalence of retinopathy at visit 3 by categories of glycated hemoglobin stratified by diabetes status is shown in Table <ref type="table" target="#tab_0">1</ref> and Fig. <ref type="figure">1</ref>. The prevalence of any retinopathy (ETDRS score Ն14) at visit 3 in individuals with and without a history of diabetes at visit 2 was 26.5% and 3.3%, respectively. Similarly, when a glycated hemoglobin value of 7% was used to divide the total population, the prevalence of any retinopathy in individuals with glycated hemoglobin Ͻ7% was 3.3% compared with 29.9% in individuals with glycated hemoglobin Ն7%. Note that the percentages of individuals with a history of diabetes were 2.6% and 68.4% among individuals with glycated hemoglobin Ͻ7% and Ն7%, respectively. In the subsample of 767 individuals with retinal photography conducted at both the visit 3 and 4 examinations, there were 42 incident cases of retinopathy detected at the visit 4 examination (N ϭ 4 [17%] individuals with and N ϭ 38 [5%] individuals without diabetes).</p><p>We observed significant trends of increasing risk of chronic kidney disease and ESRD with higher values of baseline glycated hemoglobin in individuals without a history of diabetes even after adjustment for known risk factors (Table <ref type="table" target="#tab_2">2</ref>). Among individuals without diabetes, clinical categories of glycated hemoglobin (Ͻ5.7, 5.7-Ͻ6.5, and Ն6.5%) were stronger predictors of chronic kidney disease and ESRD as compared with categories of fasting glucose (Ͻ100, 100 -Ͻ126, and Ն126 mg/dl). Diabetes history was strongly associated with risk of chronic kidney disease and ESRD even after adjustment (Table <ref type="table" target="#tab_2">2</ref>). Figure <ref type="figure" target="#fig_1">2</ref> depicts the adjusted HRs from the restricted cubic spline models for chronic kidney disease by baseline glycated hemoglobin value in the total population and, separately, in nondiabetic and diabetic participants. The restricted cubic spline models for the association of fasting glucose are presented in supplementary Fig. <ref type="figure">1</ref> in the online appendix available at http://diabetes.diabetesjournals.org/cgi/content/full/db10-1198/DC1. The C statistics from the unadjusted Cox model for glycated hemoglobin (modeled continuously) and risk of chronic kidney disease in the total population, diabetic participants, and nondiabetic participants were 0.608, 0.644, and 0.562, respectively. The C statistics for ESRD were 0.760, 0.619, and 0.648, respectively. The C statistics for fasting glucose and risk of chronic kidney disease in the total population, diabetic participants, and nondiabetic participants were 0.591, 0.624 and 0.541, respectively; and 0.521, 0.575, and 0.566, respectively, for ESRD.</p><p>Among individuals without a history of diabetes, glycated hemoglobin was cross-sectionally associated with moderate to severe retinopathy (ETDRS score Ն35) (Table 3 and Fig. <ref type="figure" target="#fig_2">3</ref>), although its presence was very rare in the absence of diagnosed diabetes (0.5%). However, there was no association between glycated hemoglobin or fasting glucose and prevalence of any retinopathy or mild retinopathy after adjustment for covariates (Table <ref type="table" target="#tab_3">3</ref> and the online appendix). By contrast, vascular risk factors were significantly and independently associated with any retinopathy and mild retinopathy in individuals without a history of diabetes. Hypertension, in particular, was robustly associated with any retinopathy (OR 1.54 [1.24 -1.92]) and mild retinopathy (OR 1.39 [1.07-1.81]) in fully adjusted models among nondiabetic adults. Among individuals with diabetes, glycated hemoglobin was robustly associated with all levels of retinopathy (any, mild, and moderate/severe) (Figs. <ref type="figure" target="#fig_2">1, 3</ref>, and the online appendix). Indeed, in individuals with diagnosed diabetes, the adjusted ORs (model 2) for any retinopathy were 3.79 (1.80 -7.99), 8.41 (4.00 -17.81), and 18.56 (9.54 -36.13) comparing baseline glycated hemoglobin categories 7.0 -Ͻ8.0, 8.0 -Ͻ9.0, and Ն9.0% to Ͻ7.0% The corresponding adjusted ORs for mild retinopathy were 3.18 (1.09 -9.28), 3.95 (1.21-12.92), and 7.86 (2.93-21.07), respectively.</p><p>The unadjusted AUCs for glycated hemoglobin or fasting glucose for the detection of retinopathy are shown in Table <ref type="table" target="#tab_5">4</ref>. The highest AUCs were observed in individuals with a history of diabetes with the exception of moderate/severe retinopathy, which was highest in the overall population, reflecting the substantially high specificity of severe/moderate retinopathy for hyperglycemia.</p><p>The adjusted ORs (model 2) for incident retinopathy at visit 4 by baseline category of glycated hemoglobin were 1.54 (0.51-4.60), 3.51 (0.70 -17.51), and 4.43 (1.31-14.91) for 5.7-Ͻ6.5%, Ն6.5%, and diagnosed diabetes, respectively, as compared with glycated hemoglobin Ͻ5.7% in individuals without diagnosed diabetes. The AUC for incident retinopathy was 0.617 (0.482-0.751). In this subsample, the number of individuals with diagnosed diabetes at baseline was too small to precisely estimate the effect of glycated hemoglobin on incident retinopathy separately in this group.</p><p>There was no evidence for the presence of a glycated hemoglobin threshold for any of the microvascular outcomes before or after adjustment for covariates (all P values Ͼ0.40, see supplementary Table <ref type="table" target="#tab_0">1</ref> and supplementary Table <ref type="table" target="#tab_2">2</ref>). There were no significant interactions for race/ethnicity in the association of glycated hemoglobin with chronic kidney disease or retinopathy in individuals with or without diabetes in any of the spline models (all P values for interaction Ͼ0.40 for the fully adjusted models). The C statistics and AUCs for the different models were also not appreciably different by race/ethnicity (data not shown). </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCUSSION</head><p>These data provide evidence for the following conclusions: 1) the new 2010 American Diabetes Association glycated hemoglobin cut points predict future risk of kidney disease and are associated with prevalent retinop-athy, even after adjustment for known risk factors; 2) although risk was clearly strongest among individuals with a history of diabetes, we were unable to firmly demonstrate the presence of a natural "glycemic threshold" in these data <ref type="bibr" target="#b2">(3,</ref><ref type="bibr" target="#b10">11)</ref>; and 3) in this community-based population, glycated hemoglobin performed as well as fasting glucose, and was superior in some circumstances, for identifying individuals at risk for microvascular outcomes. Few studies have examined the prospective association of glycated hemoglobin with incident kidney disease in the absence of diagnosed diabetes <ref type="bibr" target="#b28">(29)</ref>. We previously demonstrated an independent association between glycated hemoglobin and risk of chronic kidney disease in individuals with diabetes even in the absence of albuminuria and retinopathy in the ARIC Study <ref type="bibr" target="#b29">(30)</ref>. In the present study, elevated values of glycated hemoglobin at baseline were associated with an increased risk of chronic kidney disease even in the absence of a diagnosis of diabetes, and glycated hemoglobin was a better predictor as compared with fasting glucose.</p><p>Our results are consistent with other recent studies <ref type="bibr" target="#b30">(31)</ref><ref type="bibr" target="#b31">(32)</ref><ref type="bibr" target="#b32">(33)</ref> and are relevant to the controversy regarding the presence of a "glycemic threshold" for retinopathy, i.e., the presence of a threshold below which glycemia is not strongly associated with retinopathy and above which there is clear association <ref type="bibr" target="#b2">(3,</ref><ref type="bibr" target="#b10">11)</ref>. This evidence is primarily based on three early epidemiologic studies <ref type="bibr" target="#b3">(4,</ref><ref type="bibr" target="#b4">5,</ref><ref type="bibr" target="#b33">34)</ref>. Recent studies that employed more sensitive techniques for the identification of retinopathy, however, indicate that the association between glycemia and retinopathy is continuous with no clear natural threshold <ref type="bibr" target="#b1">(2,</ref><ref type="bibr" target="#b34">35)</ref>. One difficulty in interpretation of the literature is that prior studies have examined this association in a mixed population of individuals with and without diabetes. Examining the cross-sectional association of glycated hemoglobin and prevalent retinopathy in populations that include individuals with diabetes who may have received lifestyle and/or pharmacologic interventions to lower glycated hemoglobin is problematic; the onset of microvascular disease may have occurred years earlier and the "risk thresholds" observed for glycated hemoglobin in these studies may not accurately reflect values at which risk begins to increase. We showed the relationships of glycated hemoglobin and microvascular disease end points separately, in diabetic and nondiabetic individuals, demonstrating differential associations of glycated hemoglobin with retinopathy in diabetic (strong association with mild retinopathy) and nondiabetic individuals (weak or no association).</p><p>Although the ETDRS classification system may have limitations for defining retinopathy in individuals without diabetes <ref type="bibr" target="#b35">(36)</ref>, the lack of association between mild retinopathy and glycemia and the robust associations with hypertension in individuals without diabetes suggests that the early retinal abnormalities of microaneurysms and retinal hemorrhages have a hypertensive or other etiology <ref type="bibr" target="#b36">(37)</ref>. Our results highlight the difficulty in defining "diabetic retinopathy" in a nondiabetic population and speak to the need for long-term prospective studies of microvascular disease in initially nondiabetic adults.</p><p>Limitations that should be considered in the interpretation of these data include the following: retinal photographs were taken in only one eye, which may have resulted in low sensitivity for the detection of retinopathy (2), leading to misclassification of cases as noncases. Further, the retinal exam in all ARIC participants was  conducted at visit 3 and glycated hemoglobin measurements are only available at visit 2 (3 years earlier). We also only had serum creatinine measured during one subsequent visit for the detection of decreased kidney function to define kidney disease. And as with all observational studies, we cannot eliminate the possibility of residual confounding. Strengths of this study include the large and diverse community-based sample, the availability of both fasting glucose and glycated hemoglobin measurements, the rigorous measurement of potentially confounding factors, and the prospective follow-up of participants with high retention (Ͼ90%).</p><p>In conclusion, these data from a community-based, biracial population support the use of new 2010 American Diabetes Association glycated hemoglobin cut points for the diagnosis of diabetes. </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>FIG. 2 .</head><label>2</label><figDesc>FIG. 2. Adjusted HR of incident chronic kidney disease according to baseline glycated hemoglobin value. The figures show adjustedHRs from restricted cubic spline models. The shaded area is the 95% CI. The models are centered at the median (5.5%, 5.4%, and 7.4% in the total population, nondiabetic, and diabetic participants, respectively) and truncated at the 2.5th and the 97.5th percentiles of glycated hemoglobin in each population. The HRs were adjusted for age, sex, and race (black or white), low-density and high-density cholesterol levels, log transformed triglyceride level, BMI, waist-to-hip ratio, hypertension (yes or no), family history of diabetes (yes or no), education (less than high school, high school or equivalent, or college or above), alcohol use (currently, formerly, or never), physical activity index score, and smoking status (current smoker, former smoker, or never smoked). The model in A is further adjusted for diabetes medication use. The data are shown on a natural-log scale. (A high-quality color representation of this figure is available in the online issue.)</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>CFIG. 3 .</head><label>3</label><figDesc>FIG. 3. Adjusted OR of prevalent moderate/severe retinopathy* (ETDRS &gt;35) according to baseline glycated hemoglobin value. The figures show adjusted ORs from restricted cubic spline models. The shaded area is the 95% CI. The models are centered at the median (5.5%, 5.4%, and 7.4% in the total population, nondiabetic, and diabetic participants, respectively) and truncated at the 2.5th and the 97.5th percentiles of glycated hemoglobin. The ORs were adjusted for age, sex, and race (black or white), low-density and high-density cholesterol levels, log-transformed triglyceride level, BMI, waist-to-hip ratio, hypertension (yes or no), family history of diabetes (yes or no), education (less than high school, high school or equivalent, or college or above), alcohol use (currently, formerly, or never), physical activity index score, and smoking status (current smoker, former smoker, or never smoked). The model in panel A is further adjusted for diabetes medication use. The data are shown on a natural-log scale. *Retinopathy was assessed at visit 3 in 1993-1995 (ϳ3 years after baseline). (A high-quality color representation of this figure is available in the online issue.)</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>TABLE 1</head><label>1</label><figDesc>Selected characteristics of the study population by glycated hemoglobin value at baseline*</figDesc><table><row><cell></cell><cell>Overall</cell><cell></cell><cell>No history of diabetes</cell><cell></cell><cell>Diabetes</cell></row><row><cell></cell><cell>Any</cell><cell>Ͻ5.7%</cell><cell>5.7-Ͻ6.5%</cell><cell>Ն6.5%</cell><cell>Any</cell></row><row><cell>Glycated hemoglobin category</cell><cell>n ϭ 11,357</cell><cell>n ϭ 8,095</cell><cell>n ϭ 2,035</cell><cell>n ϭ 454</cell><cell>n ϭ 773</cell></row><row><cell>Glycated hemoglobin (%)</cell><cell>5.7 Ϯ 1.1</cell><cell>5.3 Ϯ 0.3</cell><cell>6.0 Ϯ 0.2</cell><cell>7.4 Ϯ 1.4</cell><cell>8.1 Ϯ 2.3</cell></row><row><cell>Fasting glucose (mg/dl)</cell><cell>110.6 Ϯ 35.0</cell><cell>100.7 Ϯ 9.8</cell><cell>109.9 Ϯ 13.8</cell><cell>153.5 Ϯ 52.3</cell><cell>191.2 Ϯ 79.3</cell></row><row><cell>Fasting glucose category (%)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Ͻ100 mg/dl</cell><cell>38.9</cell><cell>48.6</cell><cell>20.9</cell><cell>1.8</cell><cell>6.7</cell></row><row><cell>100-Ͻ126 mg/dl</cell><cell>49.9</cell><cell>50.0</cell><cell>67.4</cell><cell>27.1</cell><cell>15.8</cell></row><row><cell>Ն126 mg/dl</cell><cell>11.2</cell><cell>1.4</cell><cell>11.7</cell><cell>71.1</cell><cell>77.5</cell></row><row><cell>Age (years)</cell><cell>56.7 Ϯ 2.7</cell><cell>56.3 Ϯ 5.6</cell><cell>57.7 Ϯ 5.7</cell><cell>57.5 Ϯ 5.6</cell><cell>57.8 Ϯ 5.7</cell></row><row><cell>Female/male (%)</cell><cell>57.3/42.7</cell><cell>57.6/42.4</cell><cell>54.3/45.7</cell><cell>61.7/38.3</cell><cell>59.4/40.6</cell></row><row><cell>Race/ethnicity (%)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Black</cell><cell>23.9</cell><cell>15.9</cell><cell>42.2</cell><cell>52.2</cell><cell>42.9</cell></row><row><cell>White</cell><cell>76.1</cell><cell>84.1</cell><cell>57.8</cell><cell>47.8</cell><cell>57.1</cell></row><row><cell>Fasting LDL cholesterol (mg/dl)</cell><cell>133.0 Ϯ 36.5</cell><cell>130.7 Ϯ 35.5</cell><cell>138.7 Ϯ 37.4</cell><cell>143 Ϯ 39.5</cell><cell>136 Ϯ 38.9</cell></row><row><cell>Fasting HDL cholesterol (mg/dl)</cell><cell>50.4 Ϯ 16.6</cell><cell>52.1 Ϯ 17.1</cell><cell>47.4 Ϯ 14.7</cell><cell>44.0 Ϯ 13.7</cell><cell>44.7 Ϯ 13.6</cell></row><row><cell>Fasting triglycerides (mg/dl)</cell><cell>127.0 Ϯ 64.3</cell><cell>121.3 Ϯ 61.6</cell><cell>132.2 Ϯ 63.3</cell><cell>153.8 Ϯ 72.1</cell><cell>156.0 Ϯ 75.9</cell></row><row><cell>BMI (kg/m 2 ) †</cell><cell>27.9 Ϯ 5.4</cell><cell>26.9 Ϯ 4.8</cell><cell>29.4 Ϯ 5.9</cell><cell>32.5 Ϯ 6.3</cell><cell>30.9 Ϯ 6.0</cell></row><row><cell>Waist-to-hip ratio</cell><cell>0.9 Ϯ 0.1</cell><cell>0.9 Ϯ 0.1</cell><cell>0.9 Ϯ 0.1</cell><cell>1.0 Ϯ 0.1</cell><cell>1.0 Ϯ 0.1</cell></row><row><cell>Hypertension (%)</cell><cell>32.7</cell><cell>26.8</cell><cell>42.7</cell><cell>55.7</cell><cell>55.0</cell></row><row><cell>Family history of diabetes (%)</cell><cell>23.8</cell><cell>21.1</cell><cell>25.9</cell><cell>33.7</cell><cell>40.9</cell></row><row><cell>Education (%)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Less than high school</cell><cell>20.2</cell><cell>15.7</cell><cell>30.0</cell><cell>33.5</cell><cell>34.1</cell></row><row><cell>High school or equivalence</cell><cell>41.7</cell><cell>43.2</cell><cell>38.2</cell><cell>35.5</cell><cell>38.6</cell></row><row><cell>College and above</cell><cell>38.1</cell><cell>41.1</cell><cell>31.7</cell><cell>31.0</cell><cell>27.3</cell></row><row><cell>Alcohol consumption (%)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Current</cell><cell>57.9</cell><cell>63.4</cell><cell>49.3</cell><cell>40.7</cell><cell>35.4</cell></row><row><cell>Former</cell><cell>19.6</cell><cell>16.5</cell><cell>25.6</cell><cell>27.5</cell><cell>32.6</cell></row><row><cell>Never</cell><cell>22.5</cell><cell>20.1</cell><cell>25.1</cell><cell>31.7</cell><cell>31.9</cell></row><row><cell>Baecke physical activity score ‡</cell><cell>2.5 Ϯ 0.8</cell><cell>2.5 Ϯ 0.8</cell><cell>2.3 Ϯ 0.7</cell><cell>2.3 Ϯ 0.7</cell><cell>2.3 Ϯ 0.7</cell></row><row><cell>Smoking status (%)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Current</cell><cell>22.1</cell><cell>20.4</cell><cell>29.3</cell><cell>23.1</cell><cell>19.5</cell></row><row><cell>Former</cell><cell>37.0</cell><cell>37.8</cell><cell>35.3</cell><cell>36.3</cell><cell>34.4</cell></row><row><cell>Never</cell><cell>40.9</cell><cell>41.8</cell><cell>35.4</cell><cell>40.5</cell><cell>46.1</cell></row><row><cell>Retinopathy §</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Any retinopathy (ETDRS Ն14)</cell><cell>4.67</cell><cell>3.02</cell><cell>3.85</cell><cell>5.16</cell><cell>26.53</cell></row><row><cell>Mild retinopathy (ETDRS 14-20)</cell><cell>3.02</cell><cell>2.66</cell><cell>3.08</cell><cell>3.15</cell><cell>7.04</cell></row><row><cell>Moderate retinopathy (ETDRS 35-43)</cell><cell>1.49</cell><cell>0.34</cell><cell>0.64</cell><cell>1.72</cell><cell>17.51</cell></row><row><cell>Severe retinopathy (ETDRS Ն47)</cell><cell>0.16</cell><cell>0.01</cell><cell>0.13</cell><cell>0.29</cell><cell>1.99</cell></row></table><note>*Plus-minus values are means Ϯ SD. To convert the values for fasting glucose to millimoles per liter, multiply by 0.05551. To convert the values for cholesterol to millimoles per liter, multiply by 0.02586. To convert the values for triglycerides to millimoles per liter, multiply by 0.01129. †BMI is the weight in kilograms divided by the square of the height in meters. ‡Baecke's physical activity index is measured with the use of a questionnaire about leisure-time sports activities developed by Baecke et al.<ref type="bibr" target="#b23">(24)</ref>. The scale ranges from 1 to 4, with a score of 4 indicating the greatest activity. §Retinopathy was assessed at visit 3 in 1993-1995 (approximately 3 years after baseline). After exclusions, n ϭ 9,140 (6,680; 1,557; 349, for glycated hemoglobin categories of Ͻ5.7%, 5.7-Ͻ6.5%, and Ն6.5%) and 554 individuals with diabetes at visit 2.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>TABLE 2</head><label>2</label><figDesc></figDesc><table><row><cell cols="5">Adjusted HRs (95% CI) for chronic kidney disease and ESRD in the study population, according to diabetes history and glycated</cell></row><row><cell cols="2">hemoglobin or fasting glucose clinical category</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell>No diabetes</cell><cell></cell><cell>Diabetes</cell></row><row><cell>Glycated hemoglobin</cell><cell>Ͻ5.7%</cell><cell>5.7-Ͻ6.5%</cell><cell>Ն6.5%</cell><cell>Any</cell></row><row><cell>Chronic kidney disease</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Model 1</cell><cell>1.0 (ref)</cell><cell>1.31 (1.10-1.55)</cell><cell>1.84 (1.39-2.43)*</cell><cell>3.57 (3.00-4.25)</cell></row><row><cell>Model 2</cell><cell>1.0 (ref)</cell><cell>1.12 (0.94-1.34)</cell><cell>1.39 (1.04-1.85)*</cell><cell>2.73 (2.26-3.30)</cell></row><row><cell>ESRD</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Model 1</cell><cell>1.0 (ref)</cell><cell>2.00 (1.10-3.61)</cell><cell>3.04 (1.31-7.09)*</cell><cell>13.02 (7.99-21.23)</cell></row><row><cell>Model 2</cell><cell>1.0 (ref)</cell><cell>1.51 (0.82-2.76)</cell><cell>1.98 (0.83-4.73)</cell><cell>7.77 (4.56-13.24)</cell></row><row><cell></cell><cell></cell><cell>No diabetes</cell><cell></cell><cell>Diabetes</cell></row><row><cell>Fasting glucose</cell><cell>Ͻ100 mg/dl</cell><cell>100-Ͻ126 mg/dl</cell><cell>Ն126 mg/dl</cell><cell>Any</cell></row><row><cell>Chronic kidney disease</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Model 1</cell><cell>1.0 (ref)</cell><cell>1.11 (0.96-1.30)</cell><cell>1.37 (1.04-1.79)*</cell><cell>3.47 (2.86-4.20)</cell></row><row><cell>Model 2</cell><cell>1.0 (ref)</cell><cell>0.98 (0.84-1.15)</cell><cell>0.99 (0.75-1.32)</cell><cell>2.50 (2.03-3.08)</cell></row><row><cell>ESRD</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Model 1</cell><cell>1.0 (ref)</cell><cell>1.17 (0.66-2.10)</cell><cell>1.31 (0.48-3.55)</cell><cell>10.34 (5.93-18.05)</cell></row><row><cell>Model 2</cell><cell>1.0 (ref)</cell><cell>0.89 (0.49-1.61)</cell><cell>0.70 (0.25-1.95)</cell><cell>5.35 (2.93-9.77)</cell></row></table><note>Model 1 was adjusted for age, sex, and race (black or white). Model 2 was adjusted for the variables in model 1 plus low-density and high-density lipoprotein cholesterol levels, log-transformed triglyceride level, BMI, waist-to-hip ratio, hypertension (yes or no), family history of diabetes (yes or no), education (less than high school, high school or equivalent, or college or above), alcohol use (currently, formerly, or never), physical activity index score, and smoking status (current smoker, former smoker, or never smoked). *P for trend Ͻ0.05 across clinical categories of glycated hemoglobin (Ͻ5.7, 5.7-Ͻ6.5, Ն6.5%) or fasting glucose (Ͻ100, 100 -Ͻ126, Ն126 mg/dl) in individuals without a diagnosis of diabetes.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>TABLE 3 Adjusted</head><label>3</label><figDesc>ORs (95% CI) for retinopathy † in the study population, according to diabetes history and glycated hemoglobin or fasting glucose clinical category</figDesc><table><row><cell>No diabetes</cell><cell>Diabetes</cell></row></table><note>Model 1 was adjusted for age, sex, and race (black or white). Model 2 was adjusted for the variables in model 1 plus low-density and high-density lipoprotein cholesterol levels, log-transformed triglyceride level, BMI, waist-to-hip ratio, hypertension (yes or no), family history of diabetes (yes or no), education (less than high school, high school or equivalent, or college or above),</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_5"><head>TABLE 4</head><label>4</label><figDesc>Area under the receiver operator characteristic curve (AUC) for glycated hemoglobin and fasting glucose for retinopathy* Data are AUC (95% CI). *Retinopathy was assessed at visit 3 in 1993-1995 (ϳ3 years after baseline).</figDesc><table><row><cell>Overall</cell><cell>No diabetes</cell><cell>Diabetes</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">diabetes.diabetesjournals.org DIABETES, VOL. 60, JANUARY 2011</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">DIABETES, VOL. 60, JANUARY 2011 diabetes.diabetesjournals.org</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>ACKNOWLEDGMENTS</head><p>The authors thank the staff and participants of the ARIC Study for their important contributions.</p></div>
+			</div>
+
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Glycosylated hemoglobin predicts the incidence and progression of diabetic retinopathy</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Klein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">E</forename><surname>Klein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Moss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Davis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Demets</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">260</biblScope>
+			<biblScope unit="page" from="2864" to="2871" />
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Relation between fasting glucose and retinopathy for diagnosis of diabetes: three population-based cross-sectional studies</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">Y</forename><surname>Wong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Liew</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Tapp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">I</forename><surname>Schmidt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Mitchell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Klein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">E</forename><surname>Klein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Zimmet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Shaw</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">371</biblScope>
+			<biblScope unit="page" from="736" to="743" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Relationship between fasting plasma glucose and glycosylated hemoglobin: potential for falsepositive diagnoses of type 2 diabetes using new diagnostic criteria</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Davidson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Schriger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Peters</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Lorber</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">281</biblScope>
+			<biblScope unit="page" from="1203" to="1210" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Comparison of tests for glycated haemoglobin and fasting and two hour plasma glucose concentrations as diagnostic methods for diabetes</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Mccance</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Hanson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Charles</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">T</forename><surname>Jacobsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Pettitt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">H</forename><surname>Bennett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">C</forename><surname>Knowler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMJ</title>
+		<imprint>
+			<biblScope unit="volume">308</biblScope>
+			<biblScope unit="page" from="1323" to="1328" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Report of the Expert Committee on the Diagnosis and Classification of Diabetes Mellitus</title>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="1183" to="1197" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">The Action to Control Cardiovascular Risk in Diabetes Study G. Effects of intensive glucose lowering in type 2 diabetes</title>
+	</analytic>
+	<monogr>
+		<title level="j">The N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">358</biblScope>
+			<biblScope unit="page" from="2545" to="2559" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Intensive blood-glucose control with sulphonylureas or insulin compared with conventional treatment and risk of complications in patients with type 2 diabetes (UKPDS 33). UK Prospective Diabetes Study (UKPDS) Group</title>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">352</biblScope>
+			<biblScope unit="page" from="837" to="853" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">The effect of intensive treatment of diabetes on the development and progression of long-term complications in insulin-dependent diabetes mellitus</title>
+	</analytic>
+	<monogr>
+		<title level="j">The N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">329</biblScope>
+			<biblScope unit="page" from="977" to="986" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Intensive blood glucose control and vascular outcomes in patients with type 2 diabetes</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Group</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Patel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Macmahon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Chalmers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Neal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Billot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Woodward</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Marre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Cooper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Glasziou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Grobbee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Hamet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Harrap</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Heller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Mancia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Mogensen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Pan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Poulter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rodgers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bompoint</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">E</forename><surname>De Galan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Joshi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Travert</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">358</biblScope>
+			<biblScope unit="page" from="2560" to="2572" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Management of diabetic retinopathy: a systematic review</title>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Mohamed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Gillies</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">Y</forename><surname>Wong</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">298</biblScope>
+			<biblScope unit="page" from="902" to="916" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">American Diabetes A. Diagnosis and classification of diabetes mellitus</title>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="S62" to="S69" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note>Suppl. 1</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">The Atherosclerosis Risk in Communities (ARIC) Study: design and objectives. The ARIC investigators</title>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">129</biblScope>
+			<biblScope unit="page" from="687" to="702" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Three-year incidence and cumulative prevalence of retinopathy: the atherosclerosis risk in communities study</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">Y</forename><surname>Wong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Klein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Amirul</forename><surname>Islam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">M</forename><surname>Cotch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">F</forename><surname>Couper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Klein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">E</forename><surname>Hubbard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">D</forename><surname>Sharrett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Ophthalmol</title>
+		<imprint>
+			<biblScope unit="volume">143</biblScope>
+			<biblScope unit="page" from="970" to="976" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Measurement of hemoglobin HbA1c from stored whole blood samples in the Atherosclerosis Risk in Communities study</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Selvin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Coresh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Zhu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Folsom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Steffes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Diabetes</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="118" to="124" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Defining incident chronic kidney disease in the research setting: The ARIC Study</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">D</forename><surname>Bash</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Coresh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kottgen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Parekh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Fulop</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">C</forename><surname>Astor</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">170</biblScope>
+			<biblScope unit="page" from="414" to="424" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Risk of incident ESRD: a comprehensive look at cardiovascular risk factors and 17 years of follow-up in the Atherosclerosis Risk in Communities (ARIC) Study</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">D</forename><surname>Bash</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">C</forename><surname>Astor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Coresh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Kidney Dis</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="31" to="41" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Methods for evaluation of retinal microvascular abnormalities associated with hypertension/sclerosis in the atherosclerosis risk in communities study</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">D</forename><surname>Hubbard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Brothers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">N</forename><surname>King</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">X</forename><surname>Clegg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Klein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">S</forename><surname>Cooper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Sharrett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Davis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cai</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ophthalmology</title>
+		<imprint>
+			<biblScope unit="volume">106</biblScope>
+			<biblScope unit="page" from="2269" to="2280" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Reliability of retinal photography in the assessment of retinal microvascular characteristics: the Atherosclerosis Risk in Communities Study</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Couper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Klein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">D</forename><surname>Hubbard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">Y</forename><surname>Wong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">D</forename><surname>Sorlie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">S</forename><surname>Cooper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Brothers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">J</forename><surname>Nieto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Ophthalmol</title>
+		<imprint>
+			<biblScope unit="volume">133</biblScope>
+			<biblScope unit="page" from="78" to="88" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">C-peptide and the classification of diabetes mellitus patients in the Early Treatment Diabetic Retinopathy Study</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Prior</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Prout</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Ewart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kumar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="9" to="17" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">Report</note>
+	<note>number 6. The ETDRS Research Group</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">The association of atherosclerosis, vascular risk factors, and retinopathy in adults with diabetes: the atherosclerosis risk in communities study</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Klein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Sharrett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">E</forename><surname>Klein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Moss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Folsom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">Y</forename><surname>Wong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">L</forename><surname>Brancati</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">D</forename><surname>Hubbard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Couper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Group</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ophthalmology</title>
+		<imprint>
+			<biblScope unit="volume">109</biblScope>
+			<biblScope unit="page" from="1225" to="1234" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Atherosclerosis Risk in Communities Study. Operations Manual</title>
+		<imprint>
+			<biblScope unit="issue">10</biblScope>
+			<date type="published" when="1987">1987</date>
+			<publisher>ARIC Coordinating Center, School of Public Health</publisher>
+		</imprint>
+		<respStmt>
+			<orgName>University of North Carolina</orgName>
+		</respStmt>
+	</monogr>
+	<note>Clinical Chemistry Determinations</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Atherosclerosis Risk in Communities Study</title>
+	</analytic>
+	<monogr>
+		<title level="m">Cohort Component Procedures, version 1.0. Chapel Hill</title>
+				<meeting><address><addrLine>NC</addrLine></address></meeting>
+		<imprint>
+			<publisher>ARIC Coordinating Center, School of Public Health</publisher>
+			<date type="published" when="1987">1987</date>
+		</imprint>
+		<respStmt>
+			<orgName>University of North Carolina</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Sitting Blood Pressure, version 1.0. Chapel Hill</title>
+	</analytic>
+	<monogr>
+		<title level="j">Atherosclerosis Risk in Communities Study. Operations Manual</title>
+		<imprint>
+			<biblScope unit="issue">11</biblScope>
+			<date type="published" when="1987">1987</date>
+			<publisher>ARIC Coordinating Center, School of Public Health</publisher>
+		</imprint>
+		<respStmt>
+			<orgName>University of North Carolina</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">A short questionnaire for the measurement of habitual physical activity in epidemiological studies</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Baecke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Burema</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Frijters</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Clin Nutr</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="936" to="942" />
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Standards of medical care in diabetes-2009</title>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="S13" to="S61" />
+			<date type="published" when="2009">2009</date>
+			<publisher>American Diabetes Association</publisher>
+		</imprint>
+	</monogr>
+	<note>Suppl</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title level="m" type="main">Regression Modeling Strategies With Applications to Linear Models, Logistic Regression, and Survival Analysis</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">E</forename><surname>Harrell</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+			<publisher>Springer</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Hypothesis Testing when a Nuisance Parameter is Present Only Under the Alternatives</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Davies</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biometrika</title>
+		<imprint>
+			<biblScope unit="volume">74</biblScope>
+			<biblScope unit="page" from="33" to="43" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Multivariable prognostic models: issues in developing models, evaluating assumptions and adequacy, and measuring and reducing errors</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">E</forename><surname>Harrell</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Jr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">L</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Mark</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stat Med</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="361" to="387" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">The relationship between dysglycaemia and cardiovascular and renal risk in diabetic and non-diabetic participants in the HOPE study: a prospective epidemiological analysis</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Gerstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Pogue</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Mann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Lonn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">R</forename><surname>Dagenais</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mcqueen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Yusuf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="1749" to="1755" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Poor glycemic control in diabetes and the risk of incident chronic kidney disease even in the absence of albuminuria and retinopathy: Atherosclerosis Risk in Communities (ARIC) Study</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">D</forename><surname>Bash</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Selvin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Steffes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Coresh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">C</forename><surname>Astor</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Int Med</title>
+		<imprint>
+			<biblScope unit="volume">168</biblScope>
+			<biblScope unit="page" from="2440" to="2447" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Do retinopathy signs in non-diabetic individuals predict the subsequent risk of diabetes?</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">Y</forename><surname>Wong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Mohamed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Klein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Couper</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Ophthalmol</title>
+		<imprint>
+			<biblScope unit="volume">90</biblScope>
+			<biblScope unit="page" from="301" to="303" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">The relationship of retinopathy in persons without diabetes to the 15-year incidence of diabetes and hypertension: Beaver Dam Eye Study</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Klein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">E</forename><surname>Klein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Moss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">Y</forename><surname>Wong</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Trans Am Ophthalmol Soc</title>
+		<imprint>
+			<biblScope unit="volume">104</biblScope>
+			<biblScope unit="page" from="98" to="107" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Retinopathy in older persons without diabetes and its relationship to hypertension</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Yu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Mitchell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Berry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Ophthalmol</title>
+		<imprint>
+			<biblScope unit="volume">116</biblScope>
+			<biblScope unit="page" from="83" to="89" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Comparison of fasting and 2-hour glucose and HbA1c levels for diagnosing diabetes. Diagnostic criteria and performance revisited</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Engelgau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Thompson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">H</forename><surname>Herman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Boyle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Aubert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Kenny</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Badran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Sous</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Ali</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="785" to="791" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Relationship between glycated haemoglobin and microvascular complications: is there a natural off point for the diagnosis of diabetes</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Sabanayagam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Liew</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Tai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Shankar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Lim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Subramaniam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">Y</forename><surname>Wong</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="1279" to="1289" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Prevalence and risk factors of retinopathy in an Asian population without diabetes: the Singapore Malay Eye Study</title>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">S</forename><surname>Jeganathan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Cheung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">T</forename><surname>Tay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Mitchell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">Y</forename><surname>Wong</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Ophthalmol</title>
+		<imprint>
+			<biblScope unit="volume">128</biblScope>
+			<biblScope unit="page" from="40" to="45" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">The eye in hypertension</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">Y</forename><surname>Wong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Mitchell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">369</biblScope>
+			<biblScope unit="page" from="425" to="435" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

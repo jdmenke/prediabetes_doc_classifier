@@ -1,0 +1,856 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Newly diagnosed glucose intolerance and prognosis after acute myocardial infarction: comparison of post-challenge versus fasting glucose concentrations</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2012-05-12">12 May 2012</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><roleName>Dr</roleName><forename type="first">Koichi</forename><surname>Tamita</surname></persName>
+							<email>k-tamita@yc4.so-net.ne.jp</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Cardiovascular Medicine</orgName>
+								<orgName type="institution">Nishinomiya Watanabe Cardiovascular Center</orgName>
+								<address>
+									<settlement>Nishinomiya</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Minako</forename><surname>Katayama</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Cardiovascular Medicine</orgName>
+								<orgName type="institution">Nishinomiya Watanabe Cardiovascular Center</orgName>
+								<address>
+									<settlement>Nishinomiya</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Tsutomu</forename><surname>Takagi</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution">Takagi Cardiology Clinic</orgName>
+								<address>
+									<settlement>Kyoto</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Atsushi</forename><surname>Yamamuro</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Cardiovascular Medicine</orgName>
+								<orgName type="institution">Kobe City Medical Center General Hospital</orgName>
+								<address>
+									<settlement>Kobe</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Shuichiro</forename><surname>Kaji</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Cardiovascular Medicine</orgName>
+								<orgName type="institution">Kobe City Medical Center General Hospital</orgName>
+								<address>
+									<settlement>Kobe</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Junichi</forename><surname>Yoshikawa</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Cardiovascular Medicine</orgName>
+								<orgName type="institution">Nishinomiya Watanabe Cardiovascular Center</orgName>
+								<address>
+									<settlement>Nishinomiya</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Yutaka</forename><surname>Furukawa</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Cardiovascular Medicine</orgName>
+								<orgName type="institution">Kobe City Medical Center General Hospital</orgName>
+								<address>
+									<settlement>Kobe</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Cardiovascular Medicine</orgName>
+								<orgName type="institution">Nishinomiya Watanabe Cardiovascular Center</orgName>
+								<address>
+									<addrLine>3-25 Ikeda-cho</addrLine>
+									<postCode>662-0911</postCode>
+									<settlement>Nishinomiya City</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff4">
+								<orgName type="institution">American Heart Association</orgName>
+								<address>
+									<addrLine>15 November 2006</addrLine>
+									<settlement>Chicago</settlement>
+									<region>Illinois</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Newly diagnosed glucose intolerance and prognosis after acute myocardial infarction: comparison of post-challenge versus fasting glucose concentrations</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2012-05-12">12 May 2012</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">042699023C13FF49670EAD7FC33799D3</idno>
+					<idno type="DOI">10.1136/heartjnl-2012-301629</idno>
+					<note type="submission">Accepted 20 March 2012</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.1" ident="GROBID" when="2022-07-19T22:44+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Background Recent studies have demonstrated that newly diagnosed glucose intolerance is common among patients with acute myocardial infarction (AMI). The purpose of this study was to assess the long-term clinical cardiovascular outcomes in participants with AMI with abnormal fasting glucose compared with normal fasting glucose and an abnormal oral glucose tolerance test (OGTT) compared with a normal OGTT. Methods A prospective study was performed in 275 consecutive patients with AMI, 85 of whom had prediagnosed diabetes mellitus (DM). Those without DM were divided into two groups based on the 75 g OGTT at the time of discharge. Abnormal glucose tolerance (AGT) was defined as 2 h glucose $140 mg/dl; 78 patients had normal glucose tolerance (NGT) and 112 had AGT. The same patients were also reclassified into the normal fasting glucose group (NFG; n¼168) or the impaired fasting glucose group (IFG; n¼22). The association between the glucometabolic status and long-term major adverse cardiovascular event rates was evaluated. Results KaplaneMeier survival curves showed that the AGT group had a worse prognosis than the NGT group and an equivalent prognosis to the DM group (p&lt;0.0005). Cox proportional hazard model analysis showed that the HR of AGT to NGT for major adverse cardiovascular event rates was 2.65 (95% CI 1.37 to 5.15, p¼0.004) while the HR of DM to NGT was 3.27  (1.68 to 6.38, p¼0.0005). However, Cox HR of IFG to NFG for major adverse cardiovascular event rates was 1.83 (0.86 to 3.87), which was not significant. Conclusion In patients with AMI, an abnormal OGTT is a better risk factor for future adverse cardiovascular events than impaired fasting blood glucose.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Compared with individuals without diabetes mellitus (DM), patients with DM have about a twofold higher risk of short-term mortality after acute myocardial infarction (AMI). <ref type="bibr" target="#b2">1</ref> In the current era in which reperfusion is used, over 90% of patients with DM survive the early 30-day period but these patients are prone to markedly increased mortality after 6 months. <ref type="bibr">2 3</ref> Several cohort studies 4e6 have shown that people with pre-diabetic conditions such as impaired glucose tolerance (IGT) are at increased risk for cardiovascular disease. In fact, patients with prediabetic IGT are compromised because they have atherogenic risk factors which, of course, affect the coronary arteries. <ref type="bibr" target="#b8">7</ref> A systematic meta-analysis based on 20 clinical studies <ref type="bibr" target="#b9">8</ref> suggested that a blood glucose concentration even below the threshold for diagnosing DM is associated with a significantly higher risk of coronary artery disease.</p><p>Fasting plasma glucose (FPG) and HbA1c are the most commonly measured glycaemic parameters for secondary preventions after the onset of cardiovascular disease in a clinical setting. Although the relevance of glycaemic exposure is indisputable, FPG does not completely explain the risk. The Diabetes Epidemiology: Collaborative Analysis of Diagnostic Criteria in Europe study demonstrated that fasting glucose concentrations alone do not identify individuals at increased risk of death and cardiovascular disease associated with hyperglycaemia; however, the oral glucose tolerance test (OGTT) provides additional prognostic information. <ref type="bibr" target="#b7">6</ref> Post-challenge hyperglycaemia is an appropriate model of postprandial hyperglycaemia and is associated with an increased risk of coronary artery disease. <ref type="bibr">9 10</ref> The Funagata Diabetes Study, <ref type="bibr" target="#b12">11</ref> a 7-year prospective study using a Japanese cohort population, showed that IGT but not impaired fasting glucose (IFG) was a risk factor for cardiovascular disease.</p><p>Recently, the GAMI (Glucose Tolerance in Patients with AMI) study showed that abnormal glucose tolerance (AGT) determined by the presence of post-challenge hyperglycaemia was common among patients with AMI <ref type="bibr" target="#b13">12</ref> and is a risk factor for future cardiovascular events. <ref type="bibr">13 14</ref> However, the measurements of FPG dominate screening after AMI in current clinical practice. The aims of this study were twofold: (1) to determine whether newly diagnosed abnormal glucose regulations affect the long-term clinical outcomes after AMI; and (2) to assess the long-term clinical outcome after AMI associated with the fasting glucose classification compared with the 2 h postchallenge glucose classification.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>METHODS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study patients</head><p>We enrolled 384 consecutive patients admitted to the coronary care unit of Kobe City Medical Center General Hospital, Japan with AMI from August 1997 to December 2000. Individuals aged &gt;80 years or those with serum creatinine concentrations &gt;2.0 mg/dl or other in-hospital major adverse clinical events including cardiogenic shock with mechanical support and emergency coronary artery bypass grafting were excluded. Of the 384 consecutive patients screened, 109 patients were excluded because of in-hospital death (n¼34), stroke (n¼2), emergency coronary artery bypass surgery (n¼22), LV reconstruction surgery (n¼2), non-fatal LV rupture (n¼5), recurrent percutaneous coronary intervention (PCI; n¼3), concomitant disease (n¼6, idiopathic dilated cardiomyopathy, neoplasm, schizophrenia, hypoxic brain damage), chronic renal failure (n¼7), &gt;80 years of age (n¼8) and unwillingness to enter the study (n¼20). Thus, the current study included 275 patients with AMI.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Protocols</head><p>The diagnosis of AMI was based on typical chest pain lasting more than 30 min, new Q-waves in at least two of the 12 standard leads, changes in the ECG indicating acute ischaemia or an increase in creatine kinase (CK) concentration to twice the upper limit of the normal range. The cardiac rehabilitation programme for each patient was provided during their administration.</p><p>The glucometabolic status of each patient before hospitalisation was evaluated by medical questionnaire and outpatient records. Patients were classified as having previous DM if they had a recorded history of DM or if they were on a diet or medical treatment for DM. Patients with persistent elevated fasting glucose levels ($126 mg/dl) at the time of discharge were also categorised as having previous DM. In patients without overt DM, a standard 75 g OGTT was undertaken at discharge.</p><p>The remaining patients were divided into two groups according to 2 h glucose classification adopted by the WHO in 1998 <ref type="bibr" target="#b17">15</ref> dnamely, patients were classified as having newly diagnosed DM if their FPG concentrations were &lt;126 mg/dl and 2 h post-load blood glucose concentrations exceeded 200 mg/dl. IGT was defined as FPG &lt;126 mg/dl and 2 h blood glucose 140e199 mg/dl. The term AGT was used to describe the presence of newly detected DM or IGT. Normal glucose tolerance (NGT) was defined as FPG &lt;126 mg/dl and 2 h blood glucose &lt;140 mg/dl.</p><p>The study population was reclassified according to only the FPG classification adopted by the WHO in 1998 <ref type="bibr" target="#b17">15</ref> into normal fasting glucose (NFG), IFG and diabetic groupsdthat is, IFG was defined by FPG of 110e125 mg/dl and NFG was defined by FPG &lt;110 mg/dl at the time of discharge.</p><p>Patients who received PCI with stent implantation were started on ticlopidine (100 mg twice a day) and aspirin (81 mg twice a day) for 2 months. Patients visited the outpatient clinic monthly for the first 6 months, then every 2 or 3 months until the final visit.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study endpoints and definitions</head><p>Cardiovascular death was defined as death from myocardial infarction, stroke or sudden death without any obvious reasons. Acute coronary syndrome (ACS) was defined as new onset or worsening angina that required hospitalisation and was associated with ischaemic ST segment abnormalities, any elevation of cardiac enzymes, or both. Non-fatal myocardial infarction and ACS were defined as non-fatal myocardial infarction or ACS occurring &gt;1 month after the primary AMI. The target vessel was considered to be the infarct-related coronary artery that was responsible for the AMI at the time of study enrolment. Nontarget vessel revascularisation was defined as any PCI other than on the target vessel. Non-target vessel revascularisation was considered to be driven by ischaemia if the stenosis of any vessel was at least 50% of the diameter of the vessel on the basis of quantitative coronary angiography in the presence of ischaemic signs or symptoms. Congestive heart failure during follow-up was diagnosed using validated criteria. <ref type="bibr" target="#b18">16</ref> The primary study outcomes included long-term incidence of a major adverse cardiovascular event (MACE) defined as cardiovascular death, stroke, non-fatal myocardial infarction or ACS, non-target vessel revascularisation either by coronary artery bypass grafting or coronary angioplasty and congestive heart failure that required hospitalisation. The follow-up information was obtained using hospital records or by telephone at 5 years. The primary outcome of the study was evaluated at the end of December 2005. Information about MACE was obtained from hospital records or telephone contact with patients, relatives of patients or the referring physician.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analysis</head><p>Demographic and baseline characteristics are shown as mean6SD for continuous variables and as numbers and percentages for categorical variables. Comparisons among the post-challenge glucose classification groups (NGT, AGT, previous DM) were examined using one-way ANOVA for continuous variables and c 2 test for categorical variables. In the case of significant F values for ANOVA, the Tukey-Kramer test was used for multiple comparisons among groups. Comparisons for postchallenge 2 h glucose levels between NGT and AGT were made using the Wilcoxon rank sum test.</p><p>The KaplaneMeier method was used to assess the proportion of patients with events of interest for time-to-event endpoints that included MACE and composite clinical outcomes. Timesto-event among the above three groups were compared by logrank test. For patients who experienced multiple events, the first event was considered for time-to-event analysis.</p><p>The main purpose of the analysis was to examine whether post-challenge classification is a significant predictor for MACE compared with fasting glucose classification. In order to examine independent predictors of MACE, we used a Cox proportional hazards model. We modelled candidate predictors as univariates and determined which predictors were significant (p&lt;0.20). All covariates with p values &lt;0.20 were then modelled multivariately using a backward procedure to predictors that were significantly related to MACE. Finally, we used two multivariate models that included post-challenge and fasting glucose classifications separately and controlled for significant predictors. A two-sided p value of &lt;0.05 was considered statistically significant. Statistical analysis was performed using 9.1.3 SAS-Stat software (SAS Institute).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head><p>We enrolled 275 patients, of whom 85 had previously been diagnosed with DM. The remaining 190 non-DM patients underwent an OGTT at the time of discharge. Final visits were completed between September and December 2005. The median follow-up interval was 5.3 years.</p><p>The non-DM patients were divided into two groups according to the 2 h post-challenge glucose classification: 78 with NGTand 112 patients with newly diagnosed AGT (IGT, n¼77; DM, n¼35). When the fasting glucose classification was applied, however, only 12% of individuals (1 with NGT, 8 with IGT and 13 with newly diagnosed DM) without overt DM were diagnosed with IFG. There was only one patient with isolated IFG (with no IGT). Among patients with newly diagnosed AGT, only 21 of 112 (19%) had IFG, so the remaining 81% patients had isolated post-challenge hyperglycaemia.</p><p>There were no differences in the prevalence of cardiovascular risk factors or cardiovascular comorbidity among these three groups (table <ref type="table" target="#tab_0">1</ref>). Patients with AGT had several differences from those without AGT including higher values of 2 h glucose and triglycerides. The types of reperfusion therapy for AMI were similar among the groups. Subsequent treatments did not differ significantly among the three except for lipid-lowering agents which were prescribed most frequently in the AGT group (table <ref type="table" target="#tab_1">2</ref>).</p><p>Clinical events in relation to glucometabolic status are summarised in table <ref type="table" target="#tab_2">3</ref>. Clinical events due to coronary segments that were not responsible for the primary AMI increased after l year. The cardiovascular event-free survival rate in the AGT group was 70% at 5 years of follow-up, which was significantly lower than the rate in the NGT group (87%, p¼0.0085) and equivalent to that in the pre-diagnosed DM group (60%, p¼0.09 (see figure <ref type="figure" target="#fig_0">1</ref>)). The cardiovascular event-free survival rate in the IFG group was 63% at 5 years of follow-up, which was lower than the rate in the NFG group (79%, p¼0.08) but not significantly different from that in the pre-diagnosed DM group (60%, p¼0.87 (see figure <ref type="figure" target="#fig_0">1</ref>)).</p><p>The incidence of MACE was related to several variables identified by simple Cox regression (table <ref type="table" target="#tab_3">4</ref>). The best prediction of a future cardiovascular event, according to multiple Cox regression analysis, was achieved using a model that included previous coronary artery bypass surgery, prescriptions of statins and glucometabolic status. In this Cox model the RR of MACE was 2.65 (95% CI 1.34 to 5.15, p¼0.004) in the AGT group and 3.27 (95% CI 1.68 to 6.38, p¼0.0005) in the pre-diagnosed DM group compared with the NGT group. However, the Cox HR of IFG to NFG on MACE was 1.83 (95% CI 0.86 to 3.87), which was not significant.</p><p>We also performed a sensitivity analysis after excluding newly diagnosed DM participants in the AGT group. In the multivariate Cox model the RR of MACE was 2.67 (95% CI 1.32 to 5.42, p¼0.0064) in the IGT group and 3.20 (95% CI 1.64 to 6.25, p¼0.0006) in the pre-diagnosed DM group compared with the NGT group.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCUSSION</head><p>Our study confirmed the high prevalence of impaired glucose regulation in patients with AMI. More importantly, most abnormal glucose regulation was undiagnosed by only the FPG test, but post-challenge glucometabolic abnormality was one of the most powerful predictors of long-term cardiovascular events independent of its magnitude (overt DM vs IGT) or its history (previously known vs newly diagnosed).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Prevalence of glucose intolerance in patients with AMI</head><p>The high prevalence (72%) of impaired glucometabolic status (previous DM, 31%; newly diagnosed AGT, 41%) was evident in our study based on patients with AMI in the Japanese population. The actual prevalence might be much higher since we excluded nearly one-third of patients whose medical condition was complicated by in-hospital adverse cardiovascular events and/or renal insufficiency. Conversely, &lt;30% of patients were categorised as having normal glucose regulation determined by the 75 g OGTT 14 days after the onset of AMI when their cardiovascular condition was fully stabilised. Therefore, consistent with the data from the GAMI study in Sweden, <ref type="bibr" target="#b13">12</ref> a substantial proportion of patients with AMI might have abnormal glucose metabolism. Using 134 Japanese patients with AMI/ACS but with no previous DM (normal levels of HbA1c and fasting glucose), Hashimoto et al reported that 10% of subjects had DM and 37% had IGT/IFG using the 75 g OGTT. <ref type="bibr" target="#b19">17</ref> Taking these findings together, the prevalence of abnormal glucometabolic status in Japanese patients with cardiovascular disease may be equivalent to or higher than that in Caucasian populations. <ref type="bibr" target="#b13">12</ref>  In this study, 12% of individuals without overt DM (1 with NGT, 8 with IGT, 13 with newly diagnosed DM) were diagnosed with IFG; thus, the FPG test alone identified only 10% of patients with IGT and 37% of those with newly diagnosed DM, while 90% of patients with IGT and 63% of those with newly diagnosed with DM would remain undiagnosed.</p><p>Patients with IGT were more prevalent than those with IFG in this study population. This result was consistent with a previous epidemiological study in Asia. <ref type="bibr" target="#b20">18</ref> DM and impaired glucose regulation will be underestimated in Asian populations if fasting glucose testing alone is used.</p><p>Henareh et al reported that eight patients with normal FPG had DM and 26 patients with normal FPG had IGT according to the OGTT; thus, the FPG test alone identified only 39% of patients with DM and 10% of patients with IGT, while 61% of patients with DM and 90% with IGT would remain undiagnosed. <ref type="bibr" target="#b21">19</ref> Elevated plasma glucose levels on admission are very common in patients with AMI and can be the first indication of glucose intolerance. <ref type="bibr" target="#b22">20</ref> However, elevated plasma glucose levels on admission, HbA1c and FPG had a low sensitivity to detect undiagnosed DM. An OGTT appears to be the best test to assess the presence of previously undiagnosed DM or impaired glucose regulation in hyperglycaemic patients with AMI. <ref type="bibr" target="#b22">20</ref> These results are consistent with our study. Thus, it is clear that the fasting glucose test cannot replace the OGTT if the ambition is to identify the group of subjects with pathological glucose tolerance. Furthermore, 2 h glucose has been reported to be a better risk predictor for future cardiovascular events than fasting glucose. <ref type="bibr" target="#b23">21</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Prognosis of patients with AMI with abnormal glucometabolic status</head><p>The lowest rate of MACE was observed in the group with NGT. More importantly, there were no differences in the MACE rates between the newly detected AGT and DM groups during longterm follow-up after AMI. Our results are consistent with the GAMI study by investigators in Sweden, <ref type="bibr" target="#b14">13</ref> although there were substantial differences in study populations and backgrounds. These differences included: (1) they did not enter subjects with established DM; (2) their patients with undiagnosed DM were defined by blood glucose levels &lt;200 mg/dl at admission; and (3) most of their patients did not receive acute reperfusion therapy during the course of their AMI. Therefore, racial differences or modest differences in study conditions are not likely to have affected our major finding that the abnormal glucometabolic status is a strong predictor of long-term outcomes.</p><p>In our study a sensitivity analysis after excluding newly diagnosed DM participants in the AGT group showed that there were significant differences in the MACE rates between the newly diagnosed IGT and NGT groups. Our results showing that baseline IGT after AMI is an independent risk predictor for  future cardiovascular events are consistent with previous reports. <ref type="bibr" target="#b24">22</ref> Early detection of abnormal glucometabolic status after AMI</p><p>Our data agree with others that patients with post-challenge abnormal glucose regulation carry an increased risk of cardiovascular morbidity and mortality. Early detection of AGT would therefore permit the initiation of secondary preventive programmes in high-risk patients for future cardiovascular events.</p><p>The Diabetes Epidemiology: Collaborative Analysis Diagnostic Criteria in Europe study showed that fasting glucose levels did not identify individuals at risk whereas abnormal postloading 2 h glucose concentrations were quantitative predictors of mortality. <ref type="bibr" target="#b7">6</ref> In addition, IGT was more prevalent than IFG in almost all age groups in Asian subjects. <ref type="bibr" target="#b20">18</ref> Without OGTT, the majority of people with glucose intolerance would remain unidentified. <ref type="bibr" target="#b20">18</ref> In our study, 91 patients (81%) with newly diagnosed AGT had normal FPG levels; hence, &lt;20% of patients had apparent IFG. These lines of evidence consistently point to  the critical importance of determining post-loading glucose levels for the assessment of glucose intolerance, although the measurements of FPG and HbA1c still dominate screening in current clinical practice. <ref type="bibr" target="#b25">23</ref> In our study, patients with AGT had higher levels of triglycerides than those with NGT. Since hypertriglyceridaemia is one of the established factors contributing to metabolic syndrome, <ref type="bibr" target="#b26">24</ref> this risk factor together with AGT could affect outcomes among patients with AMI. It should be borne in mind that patients with metabolic syndrome were more common in this particular group.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Hyperglycaemia after AMI: risk marker or therapeutic target</head><p>Elevated plasma glucose levels on admission are very common in patients with AMI and are associated with a high incidence of adverse clinical outcomes. <ref type="bibr" target="#b27">25</ref> Non-DM patients with hyperglycaemia on admission have similar death rates to those with established DM even after risk stratification. In fact, hyperglycaemic patients without a previous diagnosis of DM may have a higher short-term morality risk than hyperglycaemic patients with known DM. <ref type="bibr" target="#b28">26</ref> In this study the blood glucose concentration on admission was higher in patients with AGT than in those with NGT, regardless of the similar value of FPG at discharge. We did not apply intensive insulin therapy to control blood glucose. Interventions to rapidly normalise blood glucose are applied inconsistently and with uncertain utility. Clinical trials of insulin therapy for AMI can be divided into those with a primary aim of delivering insulin (insulin focus) and those with a primary aim of achieving tight glycaemic control (glycaemia focus). The results of meta-analysis suggest that treatment with an insulin focus strategy only (without regard to the glucose level) does not improve mortality after AMI in the reperfusion era. Nevertheless, it remains possible that control of hyperglycaemia by insulin infusion with a glycaemia focus improves mortality after AMI. <ref type="bibr" target="#b29">27</ref> Blood glucose should be measured at admission in all cases of AMI, although this is less important if no specific treatment was then offered to restore euglycaemia where necessary. Given that this is an unreliable marker of pre-existing or subsequent abnormal glucose metabolism, all non-DM patients with AMI should later undergo an OGTT to identify those with undiagnosed DM or impaired glucose homeostasis. <ref type="bibr">20 25</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study limitations</head><p>First, we did not make repeated evaluations of glucometabolic status so we do not know how many patients with IGT developed overt DM during the observation period. Some reports have shown that baseline IGT is an independent risk predictor for future cardiovascular events which is not confounded by the subsequent development of DM. <ref type="bibr" target="#b24">22</ref> In addition, patients with a recent myocardial infarction had a high annual incidence rate of IFG and DM. <ref type="bibr" target="#b30">28</ref> These results indicate that myocardial infarction could be a pre-diabetes risk equivalent. Thus, it is important to detect abnormal glucose regulation in patients with AMI during the hospital phase. Second, it is difficult to make any conclusions regarding the utility of fasting glucose classification from this study because there were only 22 patients with IFG. However, most of the patients with undiagnosed glucose intolerance were detected by the definition adopted by post-challenge glucose classification. Third, because our subjects were mostly Japanese, caution is needed in extrapolating our results to other ethnic groups. Fourth, the definition of AMI and medical treatments after AMI were based on the local guidelines around that time. Because medical treatments after AMI are outdated (low use of dual antiplatelet therapy and statin caution is needed in extrapolating our results to the current clinical settings.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusions</head><p>Newly diagnosed glucose intolerance (IFG or AGT) predicts long-term cardiovascular events in patients with AMI. Its adverse prognostic impact is as large as that of previously diagnosed DM. When the fasting glucose criteria were applied, only 12% of individuals without previously diagnosed DM were diagnosed as having glucose intolerance. Therefore, the fasting glucose classification is not suitable for screening subsequent high-risk patients with glucose intolerance. Post-challenge glucometabolic status is a better risk factor for future cardiovascular events than the fasting glucose level and may critically distinguish high-risk individuals.</p><p>Since impaired glucose regulation is an important cardiovascular risk factor, the OGTT should be considered as a routine test after AMI in patients without known DM.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1</head><label>1</label><figDesc>Figure 1 KaplaneMeier estimate of time to the primary endpoint among the three patient groups: (A) fasting glucose classification; (B) postchallenge glucose classification. AGT, abnormal glucose tolerance; DM, diabetes mellitus; IFG, impaired fasting glucose; NFG, normal fasting glucose; NGT, normal glucose tolerance.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Baseline characteristics of the three patient groups</figDesc><table><row><cell></cell><cell>Normal glucose</cell><cell>Abnormal glucose</cell><cell>Diabetes</cell><cell></cell></row><row><cell></cell><cell>tolerance (n[78)</cell><cell>tolerance (n[112)</cell><cell>mellitus (n[85)</cell><cell>p Value</cell></row><row><cell>Basic characteristics</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Age in years (mean, SD)</cell><cell>62.5 (10.0)</cell><cell>61.6 (11.0)</cell><cell>61.9 (9.6)</cell><cell>0.83</cell></row><row><cell>Men</cell><cell>60 (77%)</cell><cell>88 (79%)</cell><cell>66 (77%)</cell><cell>0.96</cell></row><row><cell>Previous disorders</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Myocardial infarction</cell><cell>6 (8%)</cell><cell>15 (13%)</cell><cell>13 (15%)</cell><cell>0.31</cell></row><row><cell>Hypertension</cell><cell>43 (55%)</cell><cell>65 (58%)</cell><cell>45 (53%)</cell><cell>0.77</cell></row><row><cell>CABG</cell><cell>1 (1%)</cell><cell>2 (2%)</cell><cell>5 (6%)</cell><cell>0.14</cell></row><row><cell>PCI</cell><cell>1 (1%)</cell><cell>6 (5%)</cell><cell>3 (4%)</cell><cell>0.34</cell></row><row><cell>Stroke</cell><cell>4 (5%)</cell><cell>11 (10%)</cell><cell>3 (4%)</cell><cell>0.18</cell></row><row><cell>Current smoker</cell><cell>47 (60%)</cell><cell>70 (63%)</cell><cell>47 (55%)</cell><cell>0.59</cell></row><row><cell>Hyperlipidaemia</cell><cell>37 (47%)</cell><cell>75 (67%)</cell><cell>53 (62%)</cell><cell>0.13</cell></row><row><cell>Family history of CHD</cell><cell>7 (9%)</cell><cell>9 (8%)</cell><cell>5 (6%)</cell><cell>0.74</cell></row><row><cell>Variable (mean, SD)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>BMI, kg/m 2</cell><cell>23.4 (3.0)</cell><cell>23.9 (2.7)</cell><cell>23.4 (4.9)</cell><cell>0.54</cell></row><row><cell>HbA1c, %</cell><cell>5.1 (0.4)</cell><cell>5.5 (0.6)*</cell><cell>8.0 (1.8)* y</cell><cell>&lt;0.0001</cell></row><row><cell>Admission blood glucose, mg/dl</cell><cell>149.4 (34.2)</cell><cell>172.8 (57.6)*</cell><cell>286.2 (95.4)* y</cell><cell>&lt;0.0001</cell></row><row><cell>FPG, mg/dl</cell><cell>93.6 (9.0)</cell><cell>99.0 (12.6)</cell><cell>140.4 (34.2) *</cell><cell>&lt;0.0001</cell></row><row><cell>2 h plasma glucose, mg/dl</cell><cell>109.8 (30.6)</cell><cell>183.6 (37.8)*</cell><cell>NA</cell><cell>&lt;0.0001</cell></row><row><cell>Cholesterol, mg/dl</cell><cell>196.1 (39.0)</cell><cell>201.9 (30.9)</cell><cell>200.7 (40.9)</cell><cell>0.57</cell></row><row><cell>HDL-cholesterol, mg/dl</cell><cell>42.5 (9.7)</cell><cell>40.1 (11.2)</cell><cell>40.1 (9.3)</cell><cell>0.28</cell></row><row><cell>LDL-cholesterol, mg/dl</cell><cell>129.3 (35.5)</cell><cell>131.2 (27.0)</cell><cell>132.0 (35.9)</cell><cell>0.89</cell></row><row><cell>Triglycerides, mg/dl</cell><cell>122.1 (55.8)</cell><cell>153.1 (68.1)*</cell><cell>143.4 (48.7)</cell><cell>0.003</cell></row></table><note>Data are n (%) unless otherwise indicated. *p&lt;0.05 vs normal glucose tolerance. yp&lt;0.05 vs abnormal glucose tolerance. BMI, body mass index; CABG, coronary artery bypass graft; CHD, coronary heart disease; FPG, fasting plasma glucose; PCI, percutaneous coronary intervention.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2</head><label>2</label><figDesc>Treatment during hospital stay and at discharge of the three patient groups</figDesc><table><row><cell></cell><cell>Normal glucose</cell><cell>Abnormal glucose</cell><cell>Diabetes</cell><cell></cell></row><row><cell></cell><cell>tolerance (n[78)</cell><cell>tolerance (n[112)</cell><cell>mellitus (n[85)</cell><cell>p Value</cell></row><row><cell>Thrombolysis</cell><cell>3 (4%)</cell><cell>3 (3%)</cell><cell>6 (7%)</cell><cell>0.32</cell></row><row><cell>Primary PCI</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>POBA</cell><cell>22 (28%)</cell><cell>30 (27%)</cell><cell>17 (20%)</cell><cell>0.42</cell></row><row><cell>Stents</cell><cell>45 (58%)</cell><cell>70 (63%)</cell><cell>51 (60%)</cell><cell>0.80</cell></row><row><cell>Aspirin</cell><cell>76 (97%)</cell><cell>110 (98%)</cell><cell>82 (96%)</cell><cell>0.74</cell></row><row><cell>Ticlopidine</cell><cell>44 (56%)</cell><cell>66 (59%)</cell><cell>48 (56%)</cell><cell>0.92</cell></row><row><cell>b-blockers</cell><cell>60 (77%)</cell><cell>95 (85%)</cell><cell>70 (82%)</cell><cell>0.38</cell></row><row><cell>ACE inhibitors</cell><cell>64 (82%)</cell><cell>89 (79%)</cell><cell>74 (87%)</cell><cell>0.38</cell></row><row><cell>Calcium channel blockers</cell><cell>14 (18%)</cell><cell>12 (11%)</cell><cell>14 (16%)</cell><cell>0.32</cell></row><row><cell>Diuretics</cell><cell>8 (10%)</cell><cell>12 (11%)</cell><cell>13 (15%)</cell><cell>0.53</cell></row><row><cell>Statin</cell><cell>20 (26%)</cell><cell>46 (41%)</cell><cell>24 (28%)</cell><cell>0.05</cell></row><row><cell>Oral hypoglycemic agents</cell><cell>0 (0%)</cell><cell>20 (18%)</cell><cell>66 (78%)</cell><cell>&lt;0.0001</cell></row><row><cell>Insulin therapy</cell><cell>0 (0%)</cell><cell>0 (0%)</cell><cell>6 (7%)</cell><cell>0.004</cell></row><row><cell cols="2">Data are n (%) unless otherwise indicated.</cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="4">CABG, coronary artery bypass graft; PCI, percutaneous coronary intervention; POBA, plain old balloon angioplasty.</cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3</head><label>3</label><figDesc>Events in relation to glucometabolic status</figDesc><table><row><cell></cell><cell>Normal fasting</cell><cell>Impaired fasting</cell><cell>Normal glucose</cell><cell>Abnormal glucose</cell><cell>Diabetes</cell></row><row><cell>Type of event</cell><cell>glucose (n[168)</cell><cell>glucose (n[22)</cell><cell>tolerance (n[78)</cell><cell>tolerance (n[112)</cell><cell>mellitus (n[85)</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 4</head><label>4</label><figDesc>Candidate predictors related to major adverse cardiovascular events among the three groups</figDesc><table><row><cell></cell><cell>Univariate analysis</cell><cell></cell><cell>Multivariate analysis</cell><cell></cell></row><row><cell>Variables</cell><cell>HR (95% CI)</cell><cell>p Value</cell><cell>HR (95% CI)</cell><cell>p Value</cell></row><row><cell>FPG classification</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Normal fasting glucose</cell><cell>1</cell><cell></cell><cell>1</cell><cell></cell></row><row><cell>Impaired fasting glucose</cell><cell>1.85 (0.90 to 3.84)</cell><cell>0.0964</cell><cell>1.86 (0.86 to 3.87)</cell><cell>0.116</cell></row><row><cell>Previous DM</cell><cell>1.96 (1.24 to 3.12)</cell><cell>0.0043</cell><cell>1.96 (1.21 to 3.16)</cell><cell>0.006</cell></row><row><cell>Post-challenge classification</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Normal glucose tolerance</cell><cell>1</cell><cell></cell><cell>1</cell><cell></cell></row><row><cell>Abnormal glucose tolerance</cell><cell>2.48 (1.28 to 4.78)</cell><cell>0.0068</cell><cell>2.65 (1.37 to 5.15)</cell><cell>0.004</cell></row><row><cell>Previous DM</cell><cell>3.23 (1.67 to 6.24)</cell><cell>0.0005</cell><cell>3.27 (168 to 6.38)</cell><cell>0.0005</cell></row><row><cell>Previous CABG surgery</cell><cell>4.25 (1.83 to 9.84)</cell><cell>0.0009</cell><cell>3.86 (1.65 to 9.04)</cell><cell>0.0018</cell></row><row><cell>FPG</cell><cell>1.01 (1.00 to 1.02)</cell><cell>0.001</cell><cell></cell><cell></cell></row><row><cell>Admission blood glucose</cell><cell>1.00 (1.00 to 1.01)</cell><cell>0.0181</cell><cell></cell><cell></cell></row><row><cell>History of MI</cell><cell>1.87 (1.08 to 3.23)</cell><cell>0.0252</cell><cell></cell><cell></cell></row><row><cell>Statins</cell><cell>0.59 (0.35 to 0.99)</cell><cell>0.0452</cell><cell>0.56 (0.33 to 0.94)</cell><cell>0.0293</cell></row><row><cell>HbA1c</cell><cell>1.12 (0.99 to 1.26)</cell><cell>0.0516</cell><cell></cell><cell></cell></row><row><cell>Previous stroke</cell><cell>1.78 (0.92 to 3.46)</cell><cell>0.0882</cell><cell></cell><cell></cell></row><row><cell>Diuretics</cell><cell>1.64 (0.92 to 2.92)</cell><cell>0.0918</cell><cell></cell><cell></cell></row><row><cell>Age</cell><cell>1.02 (0.99 to 1.04)</cell><cell>0.1436</cell><cell></cell><cell></cell></row><row><cell>Hypertension</cell><cell>1.37 (0.87 to 2.15)</cell><cell>0.1739</cell><cell></cell><cell></cell></row></table><note>Results are from a univariate Cox regression for variables with p&lt;0.20. CABG, coronary artery bypass graft; DM, diabetes mellitus; FPG, fasting plasma glucose; MI, myocardial infarction.</note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">Heart 2012;98:848e854. doi:10.1136/heartjnl-2012-301629</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">on April 29, 2022 by guest. Protected by copyright. http://heart.bmj.com/ Heart: first published as 10.1136/heartjnl-2012-301629 on 12 May 2012. Downloaded from</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Acknowledgements The authors thank Ms Yukiko Imai for her statistical assistance.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Death</head><p>Non-cardiovascular 6 (0) 1 (0) 2 (0) 5 (0) 3 (0) Cardiovascular 4 (0) 1 (0) 2 (0) 3 (0) Provenance and peer review Not commissioned; externally peer reviewed.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title/>
+		<idno type="DOI">10.1136/heartjnl-2012-301629on12</idno>
+		<idno>doi:10.1136/heartjnl-2012-301629</idno>
+		<ptr target="http://heart.bmj.com/Heart:firstpublishedas10.1136/heartjnl-2012-301629on12" />
+	</analytic>
+	<monogr>
+		<title level="j">Heart</title>
+		<imprint>
+			<biblScope unit="volume">98</biblScope>
+			<biblScope unit="page" from="848" to="e854" />
+			<date type="published" when="2012-05">May 2012. 2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Downloaded from Contributors KT and TT primarily organised the study with the help of all the other authors. KT, MK, AY, and SK obtained the data. KT and MK analysed the grouped data. KT and JY wrote the manuscript. All authors read the final version of the manuscript and approved overall data acquisition</title>
+		<idno type="DOI">10.1136/heartjnl-2012-301629on12</idno>
+		<ptr target="http://heart.bmj.com/Heart:firstpublishedas10.1136/heartjnl-2012-301629on12" />
+		<imprint>
+			<date type="published" when="2012-05">April 29. May 2012</date>
+		</imprint>
+	</monogr>
+	<note>Acute coronary syndromes on. statistics and interpretations</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Angiographic findings and outcome in diabetic patients treated with thrombolytic therapy for acute myocardial infarction: the GUSTO-I experience</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Woodfield</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">F</forename><surname>Lundergan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Reiner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Coll Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="1661" to="e1669" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Comparison of outcomes of diabetic and nondiabetic patients undergoing primary angioplasty for acute myocardial infarction</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename><surname>Harjai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">W</forename><surname>Stone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Boura</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">91</biblScope>
+			<biblScope unit="page" from="1041" to="e1045" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Impact of diabetes on long-term survival after acute myocardial infarction: comparability of risk with prior myocardial infarction</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename><surname>Mukamal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Nesto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Cohen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="1422" to="e1427" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Glucose tolerance and coronary heart disease: Helsinki Policemen Study</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Pyorala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Savolainen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Lehtovirta</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Chronic Dis</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="729" to="e745" />
+			<date type="published" when="1979">1979</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Coronary-heart-disease risk and impaired glucose tolerance. The Whitehall Study</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Fuller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Shipley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Rose</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="1373" to="e1376" />
+			<date type="published" when="1980">1980</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Glucose tolerance and mortality: comparison of WHO and American Diabetes Association diagnostic criteria. The DECODE study group</title>
+		<author>
+			<persName><forename type="first">Anon</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">354</biblScope>
+			<biblScope unit="page" from="617" to="e621" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+	<note>European Diabetes Epidemiology Group. Diabetes Epidemiology: Collaborative analysis Of Diagnostic criteria in Europe</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Insulin-resistant prediabetic subjects have more atherogenic risk factors than insulin-sensitive prediabetic subjects: implications for preventing coronary heart disease during the prediabetic state</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Haffner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Mykkanen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Festa</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">101</biblScope>
+			<biblScope unit="page" from="975" to="e80" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">The relationship between glucose and incident cardiovascular events. A metaregression analysis of published data from 20 studies of 95,783 individuals followed for 12.4 years</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Coutinho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Gerstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="233" to="e240" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Postchallenge plasma glucose and glycemic spikes are more strongly associated with atherosclerosis than fasting glucose or HbA1c level</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">S</forename><surname>Temelkova-Kurktschiev</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Koehler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Henkel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="1830" to="e1834" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Post-challenge hyperglycaemia rather than fasting hyperglycaemia is an independent risk factor of cardiovascular disease events</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Gao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Qiao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tuomilehto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Lab</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page" from="609" to="e615" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Impaired glucose tolerance is a risk factor for cardiovascular disease, but not impaired fasting glucose. The Funagata Diabetes Study</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tominaga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Eguchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Manaka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="920" to="e924" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Glucose metabolism in patients with acute myocardial infarction and no previous diagnosis of diabetes mellitus: a prospective study</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Norhammar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Tenerz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Nilsson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">359</biblScope>
+			<biblScope unit="page" from="2140" to="e2144" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Newly detected abnormal glucose tolerance: an important predictor of long-term outcome after myocardial infarction</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bartnik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Malmberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Norhammar</surname></persName>
+		</author>
+		<idno type="DOI">10.1136/heartjnl-2012-301629853</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Eur Heart J</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="848" to="e854" />
+			<date type="published" when="2004">2004. 1990e7. 2012</date>
+		</imprint>
+	</monogr>
+	<note>Heart</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main">Acute coronary syndromes on</title>
+		<idno type="DOI">10.1136/heartjnl-2012-301629on12</idno>
+		<ptr target="http://heart.bmj.com/Heart:firstpublishedas10.1136/heartjnl-2012-301629on12" />
+		<imprint>
+			<date type="published" when="2012-05">April 29. May 2012</date>
+		</imprint>
+	</monogr>
+	<note>Downloaded from</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Impact of newly diagnosed abnormal glucose tolerance on long-term prognosis in patients with acute myocardial infarction</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Tamita</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Katayama</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Takagi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circ J</title>
+		<imprint>
+			<biblScope unit="volume">71</biblScope>
+			<biblScope unit="page" from="834" to="e841" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Definition, diagnosis and classification of diabetes mellitus and its complications. Part 1: Diagnosis and classification of diabetes mellitus. Provisional report of a WHO consultation</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">G</forename><surname>Alberti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">Z</forename><surname>Zimmet</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabet Med</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="539" to="e53" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Survival after the onset of congestive heart failure in Framingham Heart Study subjects</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">K</forename><surname>Ho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">B</forename><surname>Kannel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">88</biblScope>
+			<biblScope unit="page" from="107" to="e115" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Glucose intolerance is common in Japanese patients with acute coronary syndrome who were not previously diagnosed with diabetes</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Hashimoto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ikewaki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Yagi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="1182" to="e1186" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Age-and sex-specific prevalence of diabetes and impaired glucose regulation in 11 Asian cohorts</title>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Qiao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Hu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tuomilehto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="1770" to="1e80" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Should oral glucose tolerance test be a routine examination after a myocardial infarction</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Henareh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Berglund</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Agewall</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">97</biblScope>
+			<biblScope unit="page" from="21" to="e24" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Comparison of diagnostic criteria to detect undiagnosed diabetes in hyperglycaemic patients with acute coronary syndrome</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>De Mulder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Oemrawsingh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Stam</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Heart</title>
+		<imprint>
+			<biblScope unit="volume">98</biblScope>
+			<biblScope unit="page" from="37" to="e41" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Two-hour glucose is a better risk predictor for incident coronary heart disease and cardiovascular than fasting glucose</title>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Qiao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Pyorala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Pyorala</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur Heart J</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="1267" to="1e75" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Predictive properties of impaired glucose tolerance for cardiovascular risk are not explained by the development of overt diabetes during follow-up</title>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Qiao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Jousilahti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Eriksson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="2910" to="e2914" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Relationship between blood glucose level and mortality in type 2 diabetes mellitus: a systematic review</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Groeneveld</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Petri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hermans</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabet Med</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="2" to="e13" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Treatment of High Blood Cholesterol in Adults. Executive summary of the third report of the National Cholesterol Education Program (NCEP) expert panel on detection, evaluation, and treatment of high blood Cholesterol in adults (adult treatment panel III)</title>
+	</analytic>
+	<monogr>
+		<title level="j">Expert Panel on Detection</title>
+		<imprint>
+			<biblScope unit="volume">285</biblScope>
+			<biblScope unit="page" from="2486" to="2e97" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+	<note>JAMA</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Hyperglycaemia in acute coronary syndromes: risk-marker or therapeutic target?</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Anantharaman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Heatley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">F</forename><surname>Weston</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Heart</title>
+		<imprint>
+			<biblScope unit="volume">95</biblScope>
+			<biblScope unit="page" from="697" to="e703" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Admission glycaemia and outcome after acute coronary syndrome</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Petursson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Herlitz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Caidahl</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">116</biblScope>
+			<biblScope unit="page" from="315" to="e320" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Comparison of glucose-insulin-potassium and insulin-glucose as adjunctive therapy in acute myocardial infarction: a contemporary meta-analysis of randomised controlled trials</title>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">T</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Weng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Chen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Heart</title>
+		<imprint>
+			<biblScope unit="volume">96</biblScope>
+			<biblScope unit="page" from="1622" to="e1626" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Incidence of new-onset diabetes and impaired fasting glucose in patients with recent myocardial infarction and the effect of clinical and lifestyle risk factors</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Mozaffarian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Marfisi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Levantesi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">370</biblScope>
+			<biblScope unit="page" from="667" to="e75" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+	<note>Heart alerts Sign up for our electronic table of contents alert and you will never miss new issues of Heart when published online. Stay ahead and up to date by visiting heart.bmj.com</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

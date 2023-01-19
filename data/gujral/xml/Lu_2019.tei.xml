@@ -1,0 +1,1463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Predictive Value of Fasting Glucose, Postload Glucose, and Hemoglobin A 1c on Risk of Diabetes and Complications in Chinese Adults</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Jieli</forename><surname>Lu</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Shanghai National Clinical Research Center for Endocrine and Metabolic Diseases</orgName>
+								<orgName type="institution">Key Laboratory for Endocrine Tumors of Ministry of Shanghai</orgName>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution" key="instit1">Shanghai Institute for Endocrine and Metabolic Diseases</orgName>
+								<orgName type="institution" key="instit2">Ruijin Hospital</orgName>
+								<orgName type="institution" key="instit3">Shanghai Jiaotong Uni-versity School of Medicine</orgName>
+								<address>
+									<settlement>Shanghai</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff15">
+								<orgName type="laboratory">4C Study Group</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jiang</forename><surname>He</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department" key="dep1">Department of Epidemiology</orgName>
+								<orgName type="department" key="dep2">School of Public Health and Tropical Medicine</orgName>
+								<orgName type="institution">Tulane University</orgName>
+								<address>
+									<settlement>New Orleans</settlement>
+									<region>LA</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Mian</forename><surname>Li</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Shanghai National Clinical Research Center for Endocrine and Metabolic Diseases</orgName>
+								<orgName type="institution">Key Laboratory for Endocrine Tumors of Ministry of Shanghai</orgName>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution" key="instit1">Shanghai Institute for Endocrine and Metabolic Diseases</orgName>
+								<orgName type="institution" key="instit2">Ruijin Hospital</orgName>
+								<orgName type="institution" key="instit3">Shanghai Jiaotong Uni-versity School of Medicine</orgName>
+								<address>
+									<settlement>Shanghai</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff15">
+								<orgName type="laboratory">4C Study Group</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Xulei</forename><surname>Tang</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="institution">The First Hospital of Lanzhou University</orgName>
+								<address>
+									<settlement>Lanzhou</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Ruying</forename><surname>Hu</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department">Zhejiang Provincial Center for Disease Control and Prevention</orgName>
+								<address>
+									<settlement>Hangzhou</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Lixin</forename><surname>Shi</surname></persName>
+							<affiliation key="aff5">
+								<orgName type="institution">Affiliated Hospital of Guiyang Medical College</orgName>
+								<address>
+									<settlement>Guiyang</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Qing</forename><surname>Su</surname></persName>
+							<affiliation key="aff6">
+								<orgName type="institution">Xinhua Hospital Affiliated to Shanghai Jiaotong University School of Medicine</orgName>
+								<address>
+									<settlement>Shanghai</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Kui</forename><surname>Peng</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Shanghai National Clinical Research Center for Endocrine and Metabolic Diseases</orgName>
+								<orgName type="institution">Key Laboratory for Endocrine Tumors of Ministry of Shanghai</orgName>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution" key="instit1">Shanghai Institute for Endocrine and Metabolic Diseases</orgName>
+								<orgName type="institution" key="instit2">Ruijin Hospital</orgName>
+								<orgName type="institution" key="instit3">Shanghai Jiaotong Uni-versity School of Medicine</orgName>
+								<address>
+									<settlement>Shanghai</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff15">
+								<orgName type="laboratory">4C Study Group</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Min</forename><surname>Xu</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Shanghai National Clinical Research Center for Endocrine and Metabolic Diseases</orgName>
+								<orgName type="institution">Key Laboratory for Endocrine Tumors of Ministry of Shanghai</orgName>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution" key="instit1">Shanghai Institute for Endocrine and Metabolic Diseases</orgName>
+								<orgName type="institution" key="instit2">Ruijin Hospital</orgName>
+								<orgName type="institution" key="instit3">Shanghai Jiaotong Uni-versity School of Medicine</orgName>
+								<address>
+									<settlement>Shanghai</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff15">
+								<orgName type="laboratory">4C Study Group</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Yu</forename><surname>Xu</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Shanghai National Clinical Research Center for Endocrine and Metabolic Diseases</orgName>
+								<orgName type="institution">Key Laboratory for Endocrine Tumors of Ministry of Shanghai</orgName>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution" key="instit1">Shanghai Institute for Endocrine and Metabolic Diseases</orgName>
+								<orgName type="institution" key="instit2">Ruijin Hospital</orgName>
+								<orgName type="institution" key="instit3">Shanghai Jiaotong Uni-versity School of Medicine</orgName>
+								<address>
+									<settlement>Shanghai</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff15">
+								<orgName type="laboratory">4C Study Group</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Yuhong</forename><surname>Chen</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Shanghai National Clinical Research Center for Endocrine and Metabolic Diseases</orgName>
+								<orgName type="institution">Key Laboratory for Endocrine Tumors of Ministry of Shanghai</orgName>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution" key="instit1">Shanghai Institute for Endocrine and Metabolic Diseases</orgName>
+								<orgName type="institution" key="instit2">Ruijin Hospital</orgName>
+								<orgName type="institution" key="instit3">Shanghai Jiaotong Uni-versity School of Medicine</orgName>
+								<address>
+									<settlement>Shanghai</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff15">
+								<orgName type="laboratory">4C Study Group</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Xuefeng</forename><surname>Yu</surname></persName>
+							<affiliation key="aff7">
+								<orgName type="institution" key="instit1">Tongji Hospital</orgName>
+								<orgName type="institution" key="instit2">Tongji Medical College</orgName>
+							</affiliation>
+							<affiliation key="aff8">
+								<orgName type="institution">Huazhong University of Science and Technology</orgName>
+								<address>
+									<settlement>Wuhan</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Li</forename><surname>Yan</surname></persName>
+							<affiliation key="aff9">
+								<orgName type="institution" key="instit1">Sun Yat-sen Memorial Hospital</orgName>
+								<orgName type="institution" key="instit2">Sun Yat-sen University</orgName>
+								<address>
+									<settlement>Guangzhou</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Tiange</forename><surname>Wang</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Shanghai National Clinical Research Center for Endocrine and Metabolic Diseases</orgName>
+								<orgName type="institution">Key Laboratory for Endocrine Tumors of Ministry of Shanghai</orgName>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution" key="instit1">Shanghai Institute for Endocrine and Metabolic Diseases</orgName>
+								<orgName type="institution" key="instit2">Ruijin Hospital</orgName>
+								<orgName type="institution" key="instit3">Shanghai Jiaotong Uni-versity School of Medicine</orgName>
+								<address>
+									<settlement>Shanghai</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff15">
+								<orgName type="laboratory">4C Study Group</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Zhiyun</forename><surname>Zhao</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Shanghai National Clinical Research Center for Endocrine and Metabolic Diseases</orgName>
+								<orgName type="institution">Key Laboratory for Endocrine Tumors of Ministry of Shanghai</orgName>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution" key="instit1">Shanghai Institute for Endocrine and Metabolic Diseases</orgName>
+								<orgName type="institution" key="instit2">Ruijin Hospital</orgName>
+								<orgName type="institution" key="instit3">Shanghai Jiaotong Uni-versity School of Medicine</orgName>
+								<address>
+									<settlement>Shanghai</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff15">
+								<orgName type="laboratory">4C Study Group</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Guijun</forename><surname>Qin</surname></persName>
+							<affiliation key="aff10">
+								<orgName type="institution">The First Affiliated Hospital of Zhengzhou Uni-versity</orgName>
+								<address>
+									<settlement>Zhengzhou</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Qin</forename><surname>Wan</surname></persName>
+							<affiliation key="aff11">
+								<orgName type="institution">The Affiliated Hospital of Southwest Medical University</orgName>
+								<address>
+									<settlement>Luzhou</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Gang</forename><surname>Chen</surname></persName>
+							<affiliation key="aff12">
+								<orgName type="institution" key="instit1">Fujian Provincial Hospital</orgName>
+								<orgName type="institution" key="instit2">Fujian Medical Uni-versity</orgName>
+								<address>
+									<settlement>Fuzhou</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Meng</forename><surname>Dai</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Shanghai National Clinical Research Center for Endocrine and Metabolic Diseases</orgName>
+								<orgName type="institution">Key Laboratory for Endocrine Tumors of Ministry of Shanghai</orgName>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution" key="instit1">Shanghai Institute for Endocrine and Metabolic Diseases</orgName>
+								<orgName type="institution" key="instit2">Ruijin Hospital</orgName>
+								<orgName type="institution" key="instit3">Shanghai Jiaotong Uni-versity School of Medicine</orgName>
+								<address>
+									<settlement>Shanghai</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff15">
+								<orgName type="laboratory">4C Study Group</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Di</forename><surname>Zhang</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Shanghai National Clinical Research Center for Endocrine and Metabolic Diseases</orgName>
+								<orgName type="institution">Key Laboratory for Endocrine Tumors of Ministry of Shanghai</orgName>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution" key="instit1">Shanghai Institute for Endocrine and Metabolic Diseases</orgName>
+								<orgName type="institution" key="instit2">Ruijin Hospital</orgName>
+								<orgName type="institution" key="instit3">Shanghai Jiaotong Uni-versity School of Medicine</orgName>
+								<address>
+									<settlement>Shanghai</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff15">
+								<orgName type="laboratory">4C Study Group</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Zhengnan</forename><surname>Gao</surname></persName>
+							<affiliation key="aff13">
+								<orgName type="institution">Dalian Municipal Central Hospital</orgName>
+								<address>
+									<settlement>Dalian</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Guixia</forename><surname>Wang</surname></persName>
+							<affiliation key="aff14">
+								<orgName type="institution">The First Hospital of Jilin University</orgName>
+								<address>
+									<settlement>Chang-chun</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Feixia</forename><surname>Shen</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Zuojie</forename><surname>Luo</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Yingfen</forename><surname>Qin</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Li</forename><surname>Chen</surname></persName>
+							<affiliation key="aff17">
+								<orgName type="institution">Qilu Hospital of Shandong University</orgName>
+								<address>
+									<settlement>Jinan</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Yanan</forename><surname>Huo</surname></persName>
+							<affiliation key="aff18">
+								<orgName type="institution" key="instit1">Jiangxi Provincial People&apos;s Hospital</orgName>
+								<orgName type="institution" key="instit2">Nanchang University</orgName>
+								<address>
+									<settlement>Nanchang</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Qiang</forename><surname>Li</surname></persName>
+							<affiliation key="aff19">
+								<orgName type="institution">The Second Affiliated Hospital of Harbin Medical University</orgName>
+								<address>
+									<settlement>Harbin</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Zhen</forename><surname>Ye</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department">Zhejiang Provincial Center for Disease Control and Prevention</orgName>
+								<address>
+									<settlement>Hangzhou</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Yinfei</forename><surname>Zhang</surname></persName>
+							<affiliation key="aff20">
+								<orgName type="institution">Central Hospital of Shanghai Jiading District</orgName>
+								<address>
+									<settlement>Shanghai</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Rui</forename><surname>Du</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Shanghai National Clinical Research Center for Endocrine and Metabolic Diseases</orgName>
+								<orgName type="institution">Key Laboratory for Endocrine Tumors of Ministry of Shanghai</orgName>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution" key="instit1">Shanghai Institute for Endocrine and Metabolic Diseases</orgName>
+								<orgName type="institution" key="instit2">Ruijin Hospital</orgName>
+								<orgName type="institution" key="instit3">Shanghai Jiaotong Uni-versity School of Medicine</orgName>
+								<address>
+									<settlement>Shanghai</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff15">
+								<orgName type="laboratory">4C Study Group</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Di</forename><surname>Cheng</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Shanghai National Clinical Research Center for Endocrine and Metabolic Diseases</orgName>
+								<orgName type="institution">Key Laboratory for Endocrine Tumors of Ministry of Shanghai</orgName>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution" key="instit1">Shanghai Institute for Endocrine and Metabolic Diseases</orgName>
+								<orgName type="institution" key="instit2">Ruijin Hospital</orgName>
+								<orgName type="institution" key="instit3">Shanghai Jiaotong Uni-versity School of Medicine</orgName>
+								<address>
+									<settlement>Shanghai</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff15">
+								<orgName type="laboratory">4C Study Group</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Chao</forename><surname>Liu</surname></persName>
+							<affiliation key="aff21">
+								<orgName type="department">Jiangsu Province Hospital on Integration of Chinese and Western Medicine</orgName>
+								<address>
+									<settlement>Nanjing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Youmin</forename><surname>Wang</surname></persName>
+							<affiliation key="aff22">
+								<orgName type="institution">The First Affiliated Hospital of Anhui Medical University</orgName>
+								<address>
+									<settlement>Hefei</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Shengli</forename><surname>Wu</surname></persName>
+							<affiliation key="aff23">
+								<orgName type="institution">Karamay Municipal People&apos;s Hospital</orgName>
+								<address>
+									<settlement>Xinjiang</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Tao</forename><surname>Yang</surname></persName>
+							<affiliation key="aff24">
+								<orgName type="institution">The First Affiliated Hospital of Nanjing Medical University</orgName>
+								<address>
+									<settlement>Nanjing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Huacong</forename><surname>Deng</surname></persName>
+							<affiliation key="aff25">
+								<orgName type="institution">The First Affiliated Hospital of Chongqing Med-ical University</orgName>
+								<address>
+									<settlement>Chongqing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Donghui</forename><surname>Li</surname></persName>
+							<affiliation key="aff26">
+								<orgName type="department">Department of Gastrointestinal Medical On-cology</orgName>
+								<orgName type="institution">University of Texas MD Anderson Cancer Center</orgName>
+								<address>
+									<settlement>Houston</settlement>
+									<region>TX</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Shenghan</forename><surname>Lai</surname></persName>
+							<affiliation key="aff27">
+								<orgName type="institution">Johns Hopkins University School of Medicine</orgName>
+								<address>
+									<settlement>Baltimore</settlement>
+									<region>MD</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Zachary</forename><forename type="middle">T</forename><surname>Bloomgarden</surname></persName>
+							<affiliation key="aff28">
+								<orgName type="department">Icahn School of Medicine at Mount Sinai</orgName>
+								<address>
+									<settlement>New York</settlement>
+									<region>NY</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Lulu</forename><surname>Chen</surname></persName>
+							<email>luluchen@126.com</email>
+							<affiliation key="aff29">
+								<orgName type="institution" key="instit1">Union Hospital</orgName>
+								<orgName type="institution" key="instit2">Tongji Medical College</orgName>
+								<orgName type="institution" key="instit3">Huaz-hong University of Science and Technology</orgName>
+								<address>
+									<settlement>Wuhan</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jiajun</forename><surname>Zhao</surname></persName>
+							<email>jjzhao@medmail.com.cn</email>
+							<affiliation key="aff30">
+								<orgName type="institution">Shandong Provincial Hospital Affiliated to Shandong University</orgName>
+								<address>
+									<settlement>Jinan</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Yiming</forename><surname>Mu</surname></persName>
+							<email>muyiming@301hospital.com.cn</email>
+							<affiliation key="aff31">
+								<orgName type="institution">Chinese People&apos;s Liberation Army General Hospital</orgName>
+								<address>
+									<settlement>Beijing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Guang</forename><surname>Ning</surname></persName>
+							<email>gning@sibs.ac.cn</email>
+							<affiliation key="aff0">
+								<orgName type="department">Shanghai National Clinical Research Center for Endocrine and Metabolic Diseases</orgName>
+								<orgName type="institution">Key Laboratory for Endocrine Tumors of Ministry of Shanghai</orgName>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution" key="instit1">Shanghai Institute for Endocrine and Metabolic Diseases</orgName>
+								<orgName type="institution" key="instit2">Ruijin Hospital</orgName>
+								<orgName type="institution" key="instit3">Shanghai Jiaotong Uni-versity School of Medicine</orgName>
+								<address>
+									<settlement>Shanghai</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff15">
+								<orgName type="laboratory">4C Study Group</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Weiqing</forename><surname>Wang</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Shanghai National Clinical Research Center for Endocrine and Metabolic Diseases</orgName>
+								<orgName type="institution">Key Laboratory for Endocrine Tumors of Ministry of Shanghai</orgName>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution" key="instit1">Shanghai Institute for Endocrine and Metabolic Diseases</orgName>
+								<orgName type="institution" key="instit2">Ruijin Hospital</orgName>
+								<orgName type="institution" key="instit3">Shanghai Jiaotong Uni-versity School of Medicine</orgName>
+								<address>
+									<settlement>Shanghai</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff15">
+								<orgName type="laboratory">4C Study Group</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Yufang</forename><surname>Bi</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff16">
+								<orgName type="institution">The First Affiliated Hospital of Guangxi Medical University</orgName>
+								<address>
+									<settlement>Nanning</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Predictive Value of Fasting Glucose, Postload Glucose, and Hemoglobin A 1c on Risk of Diabetes and Complications in Chinese Adults</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">73777ADD4C689E709668C682DF963DE0</idno>
+					<idno type="DOI">10.2337/dc18-1390</idno>
+					<note type="submission">Received 29 June 2018 and accepted 9 May 2019</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.1" ident="GROBID" when="2022-07-19T22:44+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Uncertainty remains regarding the predictive value of various glycemic measures as they relate to the risk of diabetes and its complications. Using the cutoffs recommended by the American Diabetes Association's 2010 criteria, we determined the associations of fasting plasma glucose (FPG), 2-h postload glucose (2h-PG), and HbA 1c with the outcomes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESEARCH DESIGN AND METHODS</head><p>Baseline medical history, FPG, 2h-PG, and HbA 1c were obtained from a populationbased cohort of 193,846 adults aged ‡40 years in China during 2011-2012. A follow-up visit was conducted during 2014-2016 in order to assess incident diabetes, cardiovascular disease (CVD), cancer, and mortality.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head><p>We documented 8,063 cases of diabetes, 3,014 CVD-related events, 1,624 cases of cancer, and 2,409 deaths during up to 5 years of follow-up. Multivariable-adjusted risk ratios (95% CIs) of diabetes associated with prediabetes based on FPG of 100-125 mg/dL, 2h-PG of 140-199 mg/dL, or HbA 1c of 5.7-6.4% (39-47 mmol/mol) were 1. 60 (1.43-1.79), 2.72 (2.43-3.04), and 1.49 (1.36-1.62), respectively. Restricted cubic spline analyses suggested J-shaped associations of FPG, 2h-PG, and HbA 1c levels with CVD, cancer, and mortality. Multivariable-adjusted hazard ratios (95% CIs) associated with untreated diabetes based on FPG ‡126 mg/dL, 2h-PG ‡200 mg/dL, or HbA 1c ‡6.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Diabetes has become a major cause of death and disability worldwide <ref type="bibr" target="#b3">(1)</ref>. The prevalence of diabetes has more than quadrupled in China during the past two decades <ref type="bibr" target="#b4">(2,</ref><ref type="bibr" target="#b5">3)</ref>. It has been estimated that 113.9 million Chinese adults had diabetes and 493.4 million had prediabetes in 2010 <ref type="bibr" target="#b5">(3)</ref>.</p><p>Fasting plasma glucose (FPG), 2-h postload glucose (2h-PG), and HbA 1c have been used to test glycemia, but uncertainty remains regarding their predictive utility in determining the risk of incident diabetes, cardiovascular disease (CVD), cancer, and mortality <ref type="bibr" target="#b6">(4)</ref><ref type="bibr" target="#b7">(5)</ref><ref type="bibr" target="#b8">(6)</ref>. Only a few prospective studies have compared all three glycemic measures in the same participants, and they reported conflicting findings <ref type="bibr" target="#b9">(7)</ref><ref type="bibr" target="#b10">(8)</ref><ref type="bibr" target="#b11">(9)</ref>. The Atherosclerosis Risk in Communities (ARIC) study showed that prediabetes defined on the basis of HbA 1c provided better risk discrimination for clinical complications and all-cause mortality <ref type="bibr" target="#b11">(9)</ref>. Other studies, however, reported that 2h-PG better predicted CVD and mortality <ref type="bibr" target="#b9">(7,</ref><ref type="bibr" target="#b10">8)</ref>. These studies all had limited sample sizes. The values of the three glycemic measures in predicting risk of diabetes were not directly compared. In addition, the three glycemic measures were obtained from the ARIC study participants at different visits <ref type="bibr" target="#b11">(9)</ref>.</p><p>Using the established cutoffs for prediabetes and diabetes recommended by American Diabetes Association (ADA) 2010 criteria, we compared the associations of FPG, 2h-PG, and HbA 1c levels with the incidences of diabetes, CVD, and cancer, and all-cause mortality, among participants from the China Cardiometabolic Disease and Cancer Cohort (4C) Study, a prospective cohort study of Chinese adults aged $40 years.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESEARCH DESIGN AND METHODS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study Participants</head><p>The 4C Study was a multicenter, populationbased, prospective cohort study investigating the associations of glucose homeostasis with clinical outcomes including diabetes, CVD, cancer, and all-cause mortality.</p><p>Between 2011 and 2012, a total of 259,657 individuals aged $40 years were recruited from 25 communities throughout various regions of China in order to participate in the Risk Evaluation of Cancers in Chinese Diabetic Individuals: A Longitudinal (REACTION) Study <ref type="bibr" target="#b12">(10,</ref><ref type="bibr" target="#b13">11)</ref>. The main objectives of the REACTION Study were to demonstrate whether abnormal glucose metabolism (prediabetes and diabetes) was associated with increased risk for cancer in the Chinese population and to identify factors that modify the risk of cancer among individuals with abnormal glucose metabolism <ref type="bibr" target="#b12">(10,</ref><ref type="bibr" target="#b13">11)</ref>. Eligible men and women aged $40 years were identified from local resident registration systems. Trained community health workers visited eligible individuals' homes and invited them to participate in the study.</p><p>In 2014, funding allowed the study to do a follow-up examination visit. Because of limited funds, however, only 193,846 participants from 20 communities from various geographic regions in China, selected to represent the general population, were invited to participate. In addition, the objectives of the study were extended in order to investigate the association of glycemia measures with the incidence of diabetes, CVD, and cancer, and with mortality. Therefore, the study was renamed as the 4C Study.</p><p>The study was approved by the Medical Ethics Committee of Ruijin Hospital, Shanghai Jiaotong University. All study participants provided written informed consent.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Baseline Data Collection</head><p>The study visits took place in the mornings at local community clinics. Participants were required to fast for $10 h before their clinic visits. Trained study personnel used a standard questionnaire to obtain data on participants' sociodemographic information, lifestyle risk factors, and medical history. Physical activity was assessed using the International Physical Activity Questionnaire <ref type="bibr" target="#b14">(12)</ref>. Moderate and vigorous physical activity was defined as $150 min/ week of moderate-intensity physical activity, or 75 min/week of vigorous aerobic activity, or an equivalent combination of moderate-intensity and vigorous aerobic activities <ref type="bibr" target="#b15">(13)</ref>. Trained study nurses measured body weight, height, waist circumference, and blood pressure according to a standard protocol <ref type="bibr" target="#b16">(14)</ref>. Three blood pressure measurements were obtained with participants in a seated position after 5 min of quiet rest. In addition, participants were required to avoid alcohol, cigarettes, coffee/tea, and exercise for $30 min before their blood pressure was measured. An automated blood pressure and pulse monitor (model HEM-752 FUZZY; OMRON, Dalian, China) was used for obtaining measurements, and one of four cuff sizes (pediatric, regular adult, large, or thigh)</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>14</head><p>The First Affiliated Hospital of Wenzhou Medical University, Wenzhou, China 15 was chosen on the basis of the participant's arm circumference.</p><p>All participants underwent an oral glucose tolerance test, and plasma glucose was obtained at 0 and 2 h during the test. Plasma glucose concentrations were analyzed locally by using the glucose oxidase or the hexokinase method within 2 h after collecting the blood sample under a stringent quality control program. Previous research has shown these two methods of glucose measurement to be highly consistent <ref type="bibr" target="#b17">(15,</ref><ref type="bibr" target="#b18">16</ref>). All regional laboratories passed a national standardization program and a studyspecific quality assurance program. A Hemoglobin Capillary Collection System (Bio-Rad Laboratories, Hercules, CA) was used to collect capillary whole blood from a finger. Blood was shipped at 2-8°C to a certified central laboratory at Ruijin Hospital, Shanghai, China. This clinical laboratory is certificated by the U.S. National Glycohemoglobin Standardization Program and passed the Laboratory Accreditation Program of the College of American Pathologists. HbA 1c was determined by using highperformance liquid chromatography (VARIANT II System; Bio-Rad Laboratories). Serum insulin, total cholesterol, LDL cholesterol, HDL cholesterol, and triglycerides were measured at the central laboratory by using an ARCHITECT ci16200 autoanalyzer (Abbott Laboratories, Abbott Park, IL).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Follow-up and Outcome Assessment</head><p>During 2014-2016, all participants were invited to attend an in-person follow-up visit. Trained staff queried lifestyle risk factors and medical history using the same standard questionnaire as was used at baseline. Anthropometric values and blood pressure were measured, oral glucose tolerance tests performed, and blood samples obtained by using the same protocols that were used during the baseline examination. If patients were hospitalized or had visited an emergency department, trained staff used a standard form to obtain datadincluding medical history, physical examination findings, laboratory tests, treatments, and diagnosis at dischargedfrom the participants' medical records. In addition, photocopies were obtained of selected sections of a given participant's inpatient record, discharge summary, electrocardiogram, and pathology reports.</p><p>Information on vital status and clinical outcomes was collected from local death and disease registries of the National Disease Surveillance Point System and National Health Insurance System. Two members of the outcome adjudication committee independently verified each clinical event, and discrepancies were adjudicated through discussion involving other members of the committee. All members of the committee were unaware of the baseline risk factors of study participants.</p><p>Incident diabetes was defined as any one or a combination of FPG $126 mg/dL, 2h-PG $200 mg/dL, HbA 1c $6.5% (48 mmol/mol), or a self-reported previous diagnosis by health care professionals at a follow-up visit among participants without diabetes at baseline.</p><p>Incident CVD was defined as the first instance of myocardial infarction, stroke, hospitalization or treatment for heart failure, and cardiovascular death during follow-up. Myocardial infarction was defined by characteristic changes in levels of troponin T and the creatine kinase-MB isoform, symptoms of myocardial ischemia, changes in electrocardiogram results, or a combination of these. Stroke was defined as a fixed neurological deficit lasting .24 h and having a presumably vascular cause. Heart failure was identified by hospitalization, or an emergency department visit with medical therapy, for a clinical syndrome presenting with multiple signs and symptoms consistent with cardiac decompensation or inadequate cardiac pump function. Incident cancer was defined as the first occurrence of any type of cancer at any site during follow-up.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical Analyses</head><p>Cumulative incidence (95% CI) of diabetes was calculated for a mean of 3.8 years' follow-up. We used relative risk regression to examine the associations between glycemic measures at baseline and risk of incident diabetes <ref type="bibr" target="#b19">(17)</ref>. We adjusted multivariable models for baseline age, sex, BMI, family history of diabetes, cigarette smoking, alcohol consumption, education, physical activity, systolic blood pressure, HDL cholesterol, LDL cholesterol, and triglycerides.</p><p>Potential nonlinear associations between the levels of glycemia and the incidence of clinical outcomes were examined with restricted cubic splines <ref type="bibr" target="#b20">(18)</ref>. Analyses adjusted for multiple variables, and the highest and lowest 0.5% was trimmed for each glycemic measure. A knot was located at the 5th, 50th, and 95th percentiles for each of the three glycemic measures. Tests for nonlinearity, which compared a model containing only the linear term with a model containing the linear and restricted cubic spline terms, were conducted by using likelihood ratio tests. If a test for nonlinearity was not significant, we conducted a test for linearity, comparing a model containing the linear term with a model containing only the covariates of interest.</p><p>We calculated incidence rate (95% CI) per 1,000 person-years, and we used Cox proportional hazards models to investigate the associations of baseline glycemic measures and subsequent CVD, cancer, and all-cause mortality <ref type="bibr" target="#b21">(19)</ref>. In the time-to-event analysis, data were censored at the time of the clinical event, death, or the end of follow-updwhichever occurred first. In addition to the aforementioned covariables, we included baseline glycemic measures as spline terms in the mutually adjusted model to compare the strength of associations with clinical outcomes.</p><p>To assess the added value of individual or a combination of glycemic measures in prediction models, we included continuous glycemic measures in the models of subsequent diabetes and categorized glycemic measures using the cutoffs recommended by the 2019 ADA criteria; these measures were added to the models of subsequent CVD, cancer, and allcause mortality. We calculated the difference (C statistic) with or without glycemic measures, net reclassification improvement (NRI), and integrated discrimination improvement (IDI) <ref type="bibr" target="#b23">(20)</ref>. The C statistic measures concordance between model-based risk estimates and observed events. NRI and IDI measure the incremental prognostic effect that a new biomarker will have when added to an existing prediction model. We used bootstrapping methods to obtain 95% CIs.</p><p>We used SAS version 9.2 (SAS Institute) to conduct statistical analyses and R version 3.4.2 (R Foundation for Statistical Computing) to create Cox models with restricted cubic splines.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head><p>Among 193,846 study participants, 170,240 (87.8%) were followed up in 2014-2016. We excluded 12,677 with treated diabetes and 6,074 with one or more glycemic measures missing at baseline, leaving 151,489 for this analysis. Additionally, 22,632 participants with untreated diabetes at baseline and 22,364 without glucose measures at follow-up were excluded from diabetes analyses, 7,503 participants with CVD and 2,148 with cancer at baseline were excluded from the respective analyses, and 22,652 participants without follow-up data on CVD and cancer were also excluded (Supplementary Fig. <ref type="figure" target="#fig_1">1</ref>).</p><p>Baseline characteristics of participants without treated diabetes are presented in Table <ref type="table" target="#tab_0">1</ref> according to categories of glycemic measures. In addition, baseline characteristics of participants without a history of diagnosed diabetes (including treated and untreated diabetes) are reported in Supplementary Table <ref type="table" target="#tab_0">1</ref>. Baseline characteristics of participants who were and who were not lost to follow-up are shown in Supplementary Table <ref type="table" target="#tab_1">2</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Glycemic Measures and Incident Diabetes</head><p>During up to 5 years of follow-up (mean 3.8 years), 8,063 incident cases of diabetes were counted among 106,493 participants without a history of diabetes at baseline. The cumulative incidence of diabetes increased with the number of abnormal glycemic measures and was higher in individuals with isolated impaired glucose tolerance (8.8%) than in those with isolated impaired fasting glucose (5.0%) or isolated elevated HbA 1c (4.7%) (P , 0.001 for group difference). Furthermore, the incidence of diabetes was higher in individuals with impaired glucose tolerance and impaired fasting glucose (12.7%) and in those with impaired glucose tolerance and elevated HbA 1c (13.3%) than in those with combined impaired fasting glucose and elevated HbA 1c (9.2%). Individuals with three abnormal glycemic measures had the highest incidence of diabetes (21.3%) (Table <ref type="table" target="#tab_1">2</ref>).</p><p>After adjusting for important covariables, we found that elevated FPG, 2h-PG, and HbA 1c are significant predictive indicators of incident diabetes. The risk ratio (95% CI) of diabetes associated with isolated impaired glucose tolerance (2.72 [2.43-3.04]) was significantly greater than that associated with isolated impaired fasting glucose (1.60 [1.43-1.79]) or isolated elevated HbA 1c Multivariable-adjusted restricted cubic spline analyses suggested "J-shaped" associations of glycemic markers with CVD, cancer, and all-cause mortality. We found evidence of nonlinear associations of FPG and HbA 1c with CVD, cancer, and all-cause mortality. The analyses also suggested significant nonlinear relationships between 2h-PG and both CVD and all-cause mortality, but not cancer. Evidence indicated a significant linear  6.91 (6.40-7.46) ,0.001 5.84 (5.40-6.32) ,0.001 Diabetes was defined as FPG $126 mg/dL (7.0 mmol/L), 2h-PG $200 mg/dL (11.1 mmol/L), HbA 1c $6.5% (48 mmol/mol), or self-report of a physician diagnosis of diabetes and use of antidiabetes medications at the follow-up visits. a Adjusted for age, sex, BMI, family history of diabetes, smoking, drinking, education status, physical activity, systolic blood pressure, HDL cholesterol, LDL cholesterol, and triglycerides. relationship between 2h-PG and cancer (P , 0.001) (Fig. <ref type="figure" target="#fig_1">1</ref>). In a sensitivity analysis among individuals without a history of diabetes, the associations between glycemic measures and clinical outcomes were similar (Supplementary Fig. <ref type="figure">2</ref>).</p><p>Multivariable-adjusted hazard ratios (95% CIs) associated with untreated diabetes based on fasting glucose $126 mg/dL, 2h-PG $200 mg/dL, or HbA 1c $6.5% (48 mmol/mol) were 1.18 (1.05-1.33), 1.31 (1.18-1.45), and 1.20 (1.07-1.34) for CVD; 1.10 (0.92-1.32), 1.44 (1.25-1.67), and 1.08 (0.92-1.28) for cancer; and 1.37 (1.20-1.57), 1.57 (1.41-1.76), and 1.33 (1.17-1.52) for allcause mortality, respectively (model 2, Table <ref type="table" target="#tab_2">3</ref>). When all three glycemic measures were included as spline terms in the same model simultaneously (model 3, Table <ref type="table" target="#tab_2">3</ref>), the hazard ratios (95% CIs) for 2h-PG remained significantly and positively associated with CVD (1.30 [1.14-1.49]), cancer (1.62 [1.36-1.93]), and allcause mortality (1.58 [1.38-1.81]). In addition, prediabetes defined as 2h-PG of 140-199 mg/dL remained consistently and significantly associated with risk of CVD and all-cause mortality. Further adjustments for additional risk factors and study site did not alter our findings (Supplementary Tables <ref type="table">5-8</ref>). The risk estimates for CVD, cancer, and all-cause mortality based on the higher cutoffs of 6.1 mmol/L for impaired fasting glucose and 6.0% for elevated HbA 1c did not change significantly (Supplementary Table <ref type="table">9</ref>). In a sensitivity analysis, among individuals without a history of diagnosed diabetes, the associations between glycemic measures and clinical outcomes were similar (Supplementary Table <ref type="table" target="#tab_0">10</ref>). Moreover, sensitivity analyses using a common population that excluded individuals with diabetes, CVD, and cancer at baseline did not change the study findings (Supplementary Tables <ref type="table" target="#tab_1">11 and 12</ref>).</p><p>We also performed stratified analyses according to age, sex, BMI, and smoking status (Supplementary Tables <ref type="table" target="#tab_2">13-16</ref>). We found that the risk estimates were generally similar for incident cancer and all-cause mortality across subgroups. For incident CVD, we observed significant differences in age (P = 0.01 for interaction) and BMI (P , 0.001 for interaction) across strata.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Predictive Values of Glycemic Measures</head><p>The C statistic (95% CI) of the predictive models of conventional risk factors was 0.652 (0.646-0.658) for incident diabetes. The addition of continuous glycemic   0.47 a Model 1 was adjusted for age and sex. b Model 2 included model 1 variables plus BMI, family history of diabetes, cigarette smoking (current, former, and never smoker), alcohol consumption (current, former, and never), high school or higher education, moderate and vigorous physical activity, systolic blood pressure, HDL cholesterol, LDL cholesterol, and triglycerides. c Model 3 included model measures to diabetes-predictive models significantly improved discrimination (Table <ref type="table" target="#tab_3">4</ref>). The C statistic, IDI, and NRI were significantly increased by adding FPG, 2h-PG, or HbA 1c . The addition of two or three glycemic measures simultaneously further improved discrimination, especially for models including 2h-PG.</p><p>The C statistic (95% CI) of the predictive models of conventional risk factors was 0.740 (0.732-0.749) for incident CVD, 0.657 (0.643-0.671) for cancer, and 0.792 (0.783-0.802) for all-cause mortality. The addition of categorized 2h-PG or a combination of 2h-PG and other glycemic measures slightly but significantly increased the C statistic, IDI, and NRI for predicting CVD (Table <ref type="table" target="#tab_3">4</ref>). Likewise, the addition of categorized 2h-PG significantly increased IDI and NRI for predicting cancer risk. Adding categorized 2h-PG or HbA 1c slightly but significantly increased the C statistic, IDI, and NRI for predicting all-cause mortality. The addition of categorized 2h-PG improved discrimination most; also including FPG and HbA 1c did not further improve the model. We observed similar predictive values of different glycemic measures among individuals without a history of diagnosed diabetes in a sensitivity analysis (Supplementary Table <ref type="table" target="#tab_0">17</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CONCLUSIONS</head><p>This large, population-based prospective study found that elevated FPG, 2h-PG, and HbA 1c are significant predictive indicators of incident diabetes and its complications. 2h-PG remained significantly associated with the risk of diabetes, CVD, and cancer, and with all-cause mortality, in models including FPG and HbA 1c . Furthermore, 2h-PG significantly improved the prediction of diabetes, CVD, and all-cause mortality over conventional risk factors. These findings have important clinical implications.</p><p>FPG, 2h-PG, and HbA 1c have all been shown to be related to the risk of diabetes in epidemiological studies <ref type="bibr" target="#b24">(21)</ref><ref type="bibr" target="#b25">(22)</ref><ref type="bibr" target="#b26">(23)</ref><ref type="bibr" target="#b27">(24)</ref>. Our study, however, contributes new knowledge about the relative importance of individual measures and their combinations in predicting the risk of incident diabetes. Specifically, these findings indicate that 2h-PG or combinations of 2h-PG with other glycemic measures better predict risk than FPG, HbA 1c , or their combination. The combination of three glycemic measures best predicts risk of diabetes.</p><p>Our study observed nonlinear associations of glycemic measures with CVD and all-cause mortality, which is consistent with findings from other observational studies <ref type="bibr" target="#b27">(24,</ref><ref type="bibr" target="#b28">25)</ref>. In the Emerging Risk Factors Collaboration (ERFC), which included data from 73 prospective studies involving 294,998 participants, nonlinear associations with CVD were reported for fasting glucose, postload glucose, and HbA 1c <ref type="bibr" target="#b28">(25)</ref>. Prediabetes defined on the basis of fasting glucose, postload glucose, and HbA 1c was associated with higher risk of CVD and allcause mortality in prospective studies <ref type="bibr" target="#b7">(5,</ref><ref type="bibr" target="#b8">6)</ref>. In our study, only prediabetes defined by 2h-PG was significantly associated with increased risk of CVD and allcause mortality. It has been reported that compared to FPG, the glucose tolerance test is more sensitive in identifying individuals who are at high risk for prediabetes and diabetes among Asian populations <ref type="bibr" target="#b4">(2,</ref><ref type="bibr" target="#b29">26)</ref>. Intriguingly, we also observed differences in the associations of the different glycemic measures across age and BMI strata. Further investigations are warranted in order to validate our findings and explore the detailed relationship and potential mechanisms.</p><p>Postload hyperglycemia differs from fasting hyperglycemia with regard to pathophysiology and the risk of diabetes-related clinical outcomes, and it mainly results from moderate to severe insulin resistance and from an impaired late-phase insulin secretory response to oral glucose. Our findings indicated that 2h-PG remained independently associated with risk of CVD and all-cause mortality in models with FPG and HbA 1c , and it improved risk prediction more than did FBG or HbA 1c . When using the same cutoffs, the ARIC study and ERFC reported that HbA 1c better predicts risk for CVD <ref type="bibr" target="#b11">(9,</ref><ref type="bibr" target="#b27">24,</ref><ref type="bibr" target="#b28">25)</ref>. In those studies, however, not all three glycemic measures were obtained at the same visit. Methodological and study population differences notwithstanding, the reasons why our results do not agree with the ARIC study and ERFC findings are unclear. By contrast, several prospective studiesd including the Australian Diabetes, Obesity, and Lifestyle (AusDiab) Study, the Diabetes Epidemiology: Collaborative Analysis of Diagnostic Criteria in Europe (DECODE) Study, and the Framingham Offspring Studydreported that 2h-PG better predicted risk for CVD and mortality than did FPG or HbA 1c <ref type="bibr" target="#b10">(8,</ref><ref type="bibr" target="#b30">27,</ref><ref type="bibr" target="#b31">28)</ref>.</p><p>Elevated blood glucose has been associated with an increased risk of cancer in several prospective studies <ref type="bibr" target="#b32">(29)</ref><ref type="bibr" target="#b33">(30)</ref><ref type="bibr">(31)</ref>. In ;1.3 million men and women in Korea, elevated fasting serum glucose levels and a diagnosis of diabetes were independent risk factors for cancer overall and for several prevalent cancers <ref type="bibr" target="#b32">(29)</ref>. In a pooled analysis of 274,126 men and 275,818 women from six European cohorts, fasting glucose was associated with an increased risk of cancer overall and at several sites <ref type="bibr" target="#b33">(30)</ref>. In 29,629 Japanese adults aged 46-80 years, elevated HbA 1c was associated with overall cancer risk (31). In our study, 2h-PG, but not FPG or HbA 1c , was associated with overall cancer.</p><p>The primary strengths of this study are its population-based design, its large sample size, and its ability to compare the risks of FPG, 2h-PG, and HbA 1c as they relate to CVD, cancer, and all-cause mortality simultaneously. Although comparisons of the strength of the relationships between the glycemic variables and outcome must take into account their collinearity, the given analysis suggests that postload glucose may be a stronger predictor than the other two variables. Our study does have a number of important limitations. First, the study participants were only followed for a mean of 3.8 years. This relatively short follow-up duration reduced the number of clinical events and the study's statistical power, especially for determining cancer incidence and all-cause mortality. However, we have counted 1,624 incident cancer cases and 2,409 total deaths. Second, the study participants only had one follow-up visit, and glycemic measures were obtained at only two time points (the baseline and follow-up visits). This could limit the accuracy of the timing of diagnoses, especially diabetes. The methods by which we collected data regarding clinical outcomes may also limit the sensitivity of ascertaining outcomes. Third, 12.2% of study participants were lost to follow-up. Rural-to-urban migration and urban redevelopment in China have contributed to this loss. In the diabetes analysis, 13.1% participants did not have an OGTT and an HbA 1c test at follow-up and thus were excluded from the final analysis for incident diabetes. Fourth, anemia and hemoglobin might affect HbA 1c measurement, but that was not measured in this study. Nevertheless, this study was conducted among the general population. In a sensitivity analysis, further adjustment for self-reported anemia did not change the study findings. Single measurements of FPG, 2h-PG, and HbA 1c are subject to within-person variability. High variability in any of the measures could lead to imprecise associations and regression dilution bias of associations between glycemic measures and study outcomes <ref type="bibr" target="#b34">(32)</ref>. Fifth, microvascular complications, which are more specific complications of diabetes than cardiovascular events, cancer, or allcause mortality, were not included as an outcome. Finally, the interpretations and conclusions of this study and others in the literature are fundamentally dependent on the approach used to model the three glycemic markers. In this study we used cutoffs established by 2010 ADA criteria for prediabetes and diabetes based on FPG, 2h-PG, and HbA 1c to compare their associations with the outcomes. Although the risk estimates did not change significantly for CVD, cancer, and all-cause mortality based on the higher cutoffs of 6.1 mmol/L for impaired fasting glucose and 6.0% for elevated HbA 1c , additional caution should be taken to balance the appropriate sensitivity and specificity of a glycemic marker.</p><p>In conclusion, our findings suggest that 2h-PG remains independently predictive of the outcomes in models including FPG and HbA 1c . Therefore, in addition to FPG and HbA 1c measurements, 2h-PG should be considered for routine testing in order to better assess the risks of diabetes, CVD, cancer, and all-cause mortality.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head></head><label></label><figDesc>(1.49-1.86) ,0.001 1.60 (1.43-1.79) ,0(2.62-3.27) ,0.001 2.72 (2.43-3.04) ,0(1.43-1.70) ,0.001 1.49 (1.36-1.62) ,0(3.79-4.68) ,0.001 3.71 (3.33-4.13) ,0(2.76-3.26) ,0.001 2.68 (2.46-2.92) ,0.001 Combined impaired glucose tolerance and elevated HbA 1c (4.00-4.77) ,0.001 3.87 (3.53-4.23)</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 1 -</head><label>1</label><figDesc>Figure 1-Multivariable-adjusted hazard ratios of CVD (top row), cancer (middle row), and all-cause mortality (bottom row) in participants without treated diabetes at baseline. The solid lines indicate multivariate-adjusted hazard ratios and the dashed lines indicate the 95% CIs derived from restricted cubic spline regression. A knot is located at the 5th, 50th, and 95th percentiles for each of the three glycemic measures (FPG [left], 2h-PG [middle], HbA 1c[right]), and the highest and lowest 0.5% of each glycemic measure was trimmed. The Cox regression was adjusted for age, sex, BMI, family history of diabetes, smoking, drinking, education status, physical activity, systolic blood pressure, HDL cholesterol, LDL cholesterol, and triglycerides.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head></head><label></label><figDesc>(0.89-1.26)</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 -</head><label>1</label><figDesc>Baseline characteristics of 151,489 study participants without treated diabetes, according to plasma glucose and HbA SD, or median (interquartile range). To convert the values for cholesterol to millimoles per liter, multiply by 0.02586. To convert the values for triglycerides to millimoles per liter, multiply by 0.01129. To convert the values for glucose to millimoles per liter, multiply by 0.05551.</figDesc><table><row><cell>1c levels</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 -</head><label>2</label><figDesc>Cumulative incidence and risk ratio of diabetes according to glucose tolerance status over a mean follow-up of 3.8 years among study participants without diagnosed diabetes and without undiagnosed diabetes at baseline Variable</figDesc><table><row><cell>FPG, mg/dL 2h-PG, mg/dL</cell><cell></cell><cell>Glucose tolerance</cell><cell></cell></row><row><cell>(mmol/mol)</cell><cell>HbA 1c , %</cell><cell></cell><cell></cell></row><row><cell>n (%)</cell><cell>Study participants,</cell><cell></cell><cell></cell></row><row><cell>Participants, n incidence, %</cell><cell>Cumulative</cell><cell>Incident diabetes</cell><cell></cell></row><row><cell>(95% CI)</cell><cell>Risk ratio</cell><cell>model</cell><cell>Age-and sex-adjusted</cell></row><row><cell></cell><cell></cell><cell>model a</cell><cell>Multivariable-adjusted</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3 -</head><label>3</label><figDesc>Incidence and hazard ratios of CVD, cancer, and all-cause mortality among participants without treated diabetes at baseline</figDesc><table><row><cell>,100</cell><cell>FPG, mg/dL</cell><cell>Cancer incidence</cell><cell>$6.5</cell><cell>5.7-6.4</cell><cell>,5.7</cell><cell>HbA 1c , %</cell><cell>$200</cell><cell>140-199</cell><cell>,140</cell><cell>2h-PG, mg/dL</cell><cell>$126</cell><cell>100-125</cell><cell>,100</cell><cell>FPG, mg/dL</cell><cell>CVD incidence</cell></row><row><cell>258,903</cell><cell></cell><cell></cell><cell>44,527</cell><cell>218,596</cell><cell>174,245</cell><cell></cell><cell>47,384</cell><cell>107,041</cell><cell>282,942</cell><cell></cell><cell>32,561</cell><cell>156,344</cell><cell>248,463</cell><cell></cell><cell>Person-years, n</cell></row><row><cell></cell><cell></cell><cell></cell><cell>478</cell><cell>1,496</cell><cell>1,040</cell><cell></cell><cell>541</cell><cell>875</cell><cell>1,598</cell><cell></cell><cell>360</cell><cell>1,086</cell><cell>1,568</cell><cell></cell><cell>Events, n</cell></row><row><cell></cell><cell></cell><cell></cell><cell>10.74 (9.79-11.74)</cell><cell>6.84 (6.50-7.20)</cell><cell>5.97 (5.61-6.34)</cell><cell></cell><cell>11.42 (10.48-12.42)</cell><cell>8.17 (7.64-8.73)</cell><cell>5.65 (5.37-5.93)</cell><cell></cell><cell>11.06 (9.94-12.26)</cell><cell>6.94 (6.54-7.37)</cell><cell>6.31 (6.00-6.63)</cell><cell></cell><cell>person-years (95% CI)</cell><cell>Incidence per 1,000</cell></row><row><cell></cell><cell></cell><cell></cell><cell>1.28 (1.15-1.43)</cell><cell>0.92 (0.85-1.00)</cell><cell>1.00 (reference)</cell><cell></cell><cell>1.49 (1.35-1.64)</cell><cell>1.18 (1.08-1.28)</cell><cell>1.00 (reference)</cell><cell></cell><cell>1.42 (1.27-1.59)</cell><cell>0.98 (0.90-1.05)</cell><cell>1.00 (reference)</cell><cell></cell><cell>Hazard ratio (95% CI)</cell><cell>Model 1 a</cell></row><row><cell></cell><cell></cell><cell></cell><cell>,0.001</cell><cell>0.05</cell><cell></cell><cell></cell><cell>,0.001</cell><cell>0.001</cell><cell></cell><cell></cell><cell>,0.001</cell><cell>0.53</cell><cell></cell><cell></cell><cell>P value</cell></row><row><cell></cell><cell></cell><cell></cell><cell>1.20 (1.07-1.34)</cell><cell>0.93 (0.86-1.01)</cell><cell>1.00 (reference)</cell><cell></cell><cell>1.31 (1.18-1.45)</cell><cell>1.12 (1.03-1.22)</cell><cell>1.00 (reference)</cell><cell></cell><cell>1.18 (1.05-1.33)</cell><cell>0.90 (0.83-0.97)</cell><cell>1.00 (reference)</cell><cell></cell><cell>Hazard ratio (95% CI)</cell><cell>Model 2 b</cell></row><row><cell></cell><cell></cell><cell></cell><cell>0.002</cell><cell>0.09</cell><cell></cell><cell></cell><cell>,0.001</cell><cell>0.009</cell><cell></cell><cell></cell><cell>0.007</cell><cell>0.009</cell><cell></cell><cell></cell><cell>P value</cell></row><row><cell></cell><cell></cell><cell></cell><cell>1.07 (0.92-1.24)</cell><cell>0.93 (0.85-1.01)</cell><cell>1.00 (reference)</cell><cell></cell><cell>1.30 (1.14-1.49)</cell><cell>1.14 (1.05-1.25)</cell><cell>1.00 (reference)</cell><cell></cell><cell>0.89 (0.75-1.06)</cell><cell>0.87 (0.79-0.94)</cell><cell>1.00 (reference)</cell><cell></cell><cell>Hazard ratio (95% CI)</cell><cell>Model 3 c</cell></row><row><cell></cell><cell></cell><cell></cell><cell>0.39</cell><cell>0.09</cell><cell></cell><cell></cell><cell>,0.001</cell><cell>0.002</cell><cell></cell><cell></cell><cell>0.19</cell><cell>,0.001</cell><cell></cell><cell></cell><cell>P value</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 4 -</head><label>4</label><figDesc>Improvement in predicting diabetes, CVD, cancer, and all-cause mortality by adding FPG, 2h-PG, and HbA 1c to conventional risk factors a Conventional risk factors included age, sex, BMI, family history of diabetes, smoking, drinking, high school or higher education, moderate or vigorous physical activity, systolic blood pressure, LDL cholesterol, HDL cholesterol, and triglycerides. b Continuous glycemic measures were included in the models of subsequent diabetes, and categorized glycemic measuresdincluding FPG (,100, 100-125, 5%)dwere added in the models of subsequent CVD, subsequent cancer, and all-cause mortality. Excludes participants receiving antidiabetes treatment (oral hypoglycemic agents or insulin) at baseline.</figDesc><table><row><cell>Diabetes incidence c CVD incidence d Cancer incidence d All-cause mortality d</cell><cell>Δ C statistic (95% CI) IDI, % (95% CI) NRI, % (95% CI) Δ C statistic (95% CI) IDI, % (95% CI) NRI, % (95% CI) Δ C statistic (95% CI) IDI, % (95% CI) NRI, % (95% CI) Δ C statistic (95% CI) IDI, % (95% CI) NRI, % (95% CI)</cell><cell>Adding a single</cell><cell>glycemic</cell><cell>measure b</cell><cell>FPG 0.043 (0.038-0.048) 2.208 (2.086-2.331) 37.694 (35.420-39.967) 0.001 (0.0005-0.002) 0.034 (0.015-0.054) 1.250 (22.289 to 4.789) 0.000 (20.001 to 0.002) 20.892 (24.951 to 3.168) 0.006 (0.0001-0.011) 1.778 (22.983 to 6.593) 0.001 (0.0002-0.002) 0.051 (0.020-0.081)</cell><cell>8.242 (3.780-12.703) 0.003 (0.002-0.005) 0.112 (0.056-0.169) 17.859 (13.885-21.833) 2h-PG 0.064 (0.058-0.070) 3.442 (3.288-3.596) 51.415 (49.171-53.658) 0.001 (0.0003-0.002) 0.044 (0.016-0.072) 20.322 (16.660-23.985) 0.002 (20.001 to 0.004) 0.039 (0.022-0.055)</cell><cell>1.322 (23.640 to 6.285) 0.001 (0.0002-0.002) 0.034 (0.005-0.062) 5.571 (1.963-9.180) HbA1c 0.034 (0.029-0.038) 1.527 (1.439-1.615) 34.959 (32.709-37.209) 0.001 (0.0003-0.002) 0.024 (0.006-0.042) 1.300 (22.389 to 4.988) 0.001 (20.001 to 0.002) 0.007 (0.001-0.014)</cell><cell>Adding two</cell><cell>glycemic</cell><cell>measures b</cell><cell>21.090 (26.031 to 3.850) 0.004 (0.002-0.005) 0.151 (0.093-0.211) 15.308 (11.337-19.279) FPG and 2h-PG 0.080 (0.074-0.086) 4.560 (4.373-4.746) 56.856 (54.633-59.080) 0.003 (0.002-0.005) 0.058 (0.030-0.085) 26.717 (210.398 to 3.035) 0.003 (20.001 to 0.006) 0.057 (0.036-0.079)</cell><cell>3.853 (21.037 to 8.744) 0.001 (0.0004-0.003) 0.065 (0.030-0.101) 2.813 (21.230 to 6.854) FPG and HbA1c 0.058 (0.052-0.063) 3.131 (2.983-3.278) 46.620 (44.376-48.863) 0.002 (0.001-0.004) 0.047 (0.023-0.071) 2.620 (20.968 to 6.208) 0.001 (20.001 to 0.003) 0.012 (0.004-0.020)</cell><cell>2h-PG and</cell><cell>14.945 (10.981-18.908) 3.10 (21.842 to 8.047) 0.004 (0.002-0.005) 0.118 (0.061-0.175) HbA1c 0.078 (0.072-0.083) 4.434 (4.254-4.614) 55.761 (53.538-57.985) 0.002 (0.001-0.003) 0.044 (0.019-0.069) 25.87 (29.532, 2.213) 0.003 (20.001 to 0.006) 0.049 (0.030-0.068)</cell><cell>Adding all three</cell><cell>glycemic</cell><cell>measures b</cell><cell>(FPG, 2h-PG,</cell><cell>11.594 (7.557-15.632) 8.223 (3.263-13.183) 0.004 (0.002-0.006) 0.155 (0.095-0.214) and HbA1c) 0.088 (0.082-0.094) 5.247 (5.043-5.450) 59.472 (57.260-61.683) 0.004 (0.002-0.005) 0.069 (0.039-0.098) 8.456 (4.7787-12.1339) 0.004 (20.00002 to 0.007) 0.063 (0.041-0.0847)</cell><cell>and $126 mg/dL), 2h-PG (,140, 140-199, and $200 mg/dL), and HbA 1c (,5.7, 5.7-6.4, and $6.</cell></row></table><note>a cExcludes participants with diabetes at baseline. d</note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">care.diabetesjournals.orgLu and Associates 1541</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="1542">Diabetes and Its Complications in China Diabetes Care Volume 42, August 2019</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">care.diabetesjournals.orgLu and Associates 1543</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2">variables plus baseline 2h-PG and HbA 1c (as spline terms) for the FPG category, model 2 variables plus baseline FPG and HbA 1c (as spline terms) for the 2h-PG category, and model 2 variables plus baseline FPG and 2h-PG (as spline terms) for the HbA 1c category.care.diabetesjournals.orgLu and Associates 1545</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="1546">Diabetes and Its Complications in China Diabetes Care Volume 42, August 2019</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="1548">Diabetes and Its Complications in China Diabetes Care Volume 42, August 2019</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0" />
+			</div>
+
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title/>
+		<idno>0.001</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Current alcohol drinking</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+		</imprint>
+	</monogr>
+	<note>349 (8.7) 6,364 (11.5) 1,604 (13.5) ,0.001 9,620 (10.0) 3,736 (9.9) 1,961 (11.3) ,0.001 6,803 (11.5) 7,009 (9.2) 1,505 (9.2</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title/>
+		<idno>0.001</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Family history of diabetes</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">9</biblScope>
+		</imprint>
+	</monogr>
+	<note>519 (11.8) 1,945 (16.4) ,0.001 10,034 (10.4) 4,733 (12.5) 2,709 (15.7) ,0.001. 102 (12.0) 2,772 (16.9</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">Systolic blood pressure, mmHg</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Global, regional, and national life expectancy, all-cause mortality, and causespecific mortality for 249 causes of death, 1980-2015: a systematic analysis for the Global Burden of Disease Study</title>
+	</analytic>
+	<monogr>
+		<title level="m">GBD 2015 Mortality and Causes of Death Collaborators</title>
+				<imprint>
+			<date type="published" when="2015">2015. 2017. 2016</date>
+			<biblScope unit="volume">389</biblScope>
+			<biblScope unit="page" from="1459" to="1544" />
+		</imprint>
+	</monogr>
+	<note>Lancet</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">China National Diabetes and Metabolic Disorders Study Group. Prevalence of diabetes among men and women in China</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Weng</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">362</biblScope>
+			<biblScope unit="page" from="1090" to="1101" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">China Noncommunicable Disease Surveillance Group. Prevalence and control of diabetes in Chinese adults</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>He</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">310</biblScope>
+			<biblScope unit="page" from="948" to="959" />
+			<date type="published" when="2010">2010. 2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Hemoglobin A1c and diagnosis of diabetes</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Ding</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Bi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Xu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Diabetes</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="365" to="372" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Is nondiabetic hyperglycemia a risk factor for cardiovascular disease? A meta-analysis of prospective studies</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">B</forename><surname>Levitan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Song</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Ford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Liu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">164</biblScope>
+			<biblScope unit="page" from="2147" to="2155" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Association between prediabetes and risk of cardiovascular disease and all cause mortality: systematic review and meta-analysis</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Cai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Mai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Hu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMJ</title>
+		<imprint>
+			<biblScope unit="volume">355</biblScope>
+			<biblScope unit="page">5953</biblScope>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Two prospective studies found that elevated 2-hr glucose predicted male mortality independent of fasting glucose and HbA1c</title>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Qiao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Dekker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>De Vegt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="page" from="590" to="596" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Continuous relationships between non-diabetic hyperglycaemia and both cardiovascular disease and all-cause mortality: the Australian Diabetes, Obesity, and Lifestyle (Aus-Diab) study</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">L</forename><surname>Barr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Boyko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">Z</forename><surname>Zimmet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Wolfe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Tonkin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Shaw</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="415" to="424" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Comparative prognostic performance of definitions of prediabetes: a prospective cohort analysis of the Atherosclerosis Risk in Communities (ARIC) study</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Warren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Pankow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Matsushita</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Diabetes Endocrinol</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="34" to="42" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Cohort profile: risk evaluation of cancers in Chinese diabetic individuals: a longitudinal (REACTION) study</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Bi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Diabetes</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="147" to="157" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Diabetes and cancer: findings from the REACTION study: REACTION</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Ning</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Bloomgarden</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Diabetes</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="143" to="144" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">International physical activity questionnaire: 12-country reliability and validity</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Craig</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Marshall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sjöström</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Med Sci Sports Exerc</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="1381" to="1395" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Defining and setting national goals for cardiovascular health promotion and disease reduction: the American Heart Association&apos;s strategic Impact Goal through 2020 and beyond</title>
+		<author>
+			<persName><forename type="first">Lloyd-Jones Dm</forename><surname>Hong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Labarthe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">121</biblScope>
+			<biblScope unit="page" from="586" to="613" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note>American Heart Association Strategic Planning Task Force and Statistics Committee</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Recommendations for blood pressure measurement in humans and experimental animals: part 1: blood pressure measurement in humans: a statement for professionals from the Subcommittee of Professional and Public Education of the American Heart Association Council on High Blood Pressure Research</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">G</forename><surname>Pickering</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Hall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">J</forename><surname>Appel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">111</biblScope>
+			<biblScope unit="page" from="697" to="716" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">National Academy of Clinical Biochemistry; Evidence-Based Laboratory Medicine Committee of the American Association for Clinical Chemistry. Guidelines and recommendations for laboratory analysis in the diagnosis and management of diabetes mellitus</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Sacks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Arnold</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">L</forename><surname>Bakris</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="e61" to="e99" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">State of the art in trueness and interlaboratory harmonization for 10 analytes in general clinical chemistry</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">G</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">L</forename><surname>Myers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">R</forename><surname>Ashwood</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Pathol Lab Med</title>
+		<imprint>
+			<biblScope unit="volume">132</biblScope>
+			<biblScope unit="page" from="838" to="846" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Estimating the relative risk in cohort studies and clinical trials of common outcomes</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Mcnutt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Xue</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Hafner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">157</biblScope>
+			<biblScope unit="page" from="940" to="943" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Flexible regression models with cubic splines</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Durrleman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Simon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stat Med</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="551" to="561" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title level="m" type="main">Regression models and life-tables</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Cox</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">J R Stat Soc Series B Stat Methodol</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="187" to="220" />
+			<date type="published" when="1972">1972</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Interpreting incremental value of markers added to risk prediction models</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Pencina</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>'agostino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Pencina</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Janssens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Greenland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">176</biblScope>
+			<biblScope unit="page" from="473" to="481" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Relation of impaired fasting and postload glucose with incident type 2 diabetes in a Dutch population: the Hoorn Study</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>De Vegt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Dekker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Jager</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">285</biblScope>
+			<biblScope unit="page" from="2109" to="2113" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Postchallenge glucose, A1C, and fasting glucose as predictors of type 2 diabetes and cardiovascular disease: a 10-year prospective cohort study</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Cederberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Saukkonen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Laakso</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="2077" to="2083" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">The prognostic value of fasting plasma glucose, two-hour postload glucose, and HbA1c in patients with coronary artery disease: a report from EUROASPIRE IV: a survey from the European Society of Cardiology</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Shahim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">De</forename><surname>Bacquer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">De</forename><surname>Backer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="1233" to="1240" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Glycated hemoglobin, diabetes, and cardiovascular risk in nondiabetic adults</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Selvin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">W</forename><surname>Steffes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Zhu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">362</biblScope>
+			<biblScope unit="page" from="800" to="811" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Glycated hemoglobin measurement and prediction of cardiovascular disease</title>
+		<author>
+			<persName><forename type="first">Di</forename><surname>Angelantonio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Gao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Khan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">311</biblScope>
+			<biblScope unit="page" from="1225" to="1233" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+	<note>Emerging Risk Factors Collaboration</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">International Diabetes Epidemiology Group; DE-CODA Study Group. Comparison of the fasting and the 2-h glucose criteria for diabetes in different Asian cohorts</title>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Qiao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Nakagami</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tuomilehto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page" from="1470" to="1475" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Glucose tolerance and cardiovascular mortality: comparison of fasting and 2-hour diagnostic criteria</title>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">161</biblScope>
+			<biblScope unit="page" from="397" to="405" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+		<respStmt>
+			<orgName>DECODE Study Group, the European Diabetes Epidemiology Group</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Framingham Offspring Study. Fasting and postchallenge glycemia and cardiovascular disease risk: the Framingham Offspring Study</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Meigs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Nathan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D'agostino Rb</forename><surname>Sr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">W</forename><surname>Wilson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="1845" to="1850" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Fasting serum glucose level and cancer risk in Korean men and women</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Jee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ohrr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Sull</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Yun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ji</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Samet</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">293</biblScope>
+			<biblScope unit="page" from="194" to="202" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Blood glucose and risk of incident and fatal cancer in the Metabolic Syndrome and Cancer Project (ME-CAN): analysis of six prospective cohorts</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Stocks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Rapp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Bjørge</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JPHC Study Group</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="1741" to="1753" />
+			<date type="published" when="2009">2009. 2016</date>
+		</imprint>
+	</monogr>
+	<note>Int J Cancer</note>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Short-term variability in measures of glycemia and implications for the classification of diabetes</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Selvin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Crainiceanu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">L</forename><surname>Brancati</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Coresh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">167</biblScope>
+			<biblScope unit="page" from="1545" to="1551" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

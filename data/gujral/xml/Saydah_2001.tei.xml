@@ -1,0 +1,1091 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Postchallenge Hyperglycemia and Mortality in a National Sample of U.S. Adults</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><roleName>MHS</roleName><forename type="first">Sharon</forename><forename type="middle">H</forename><surname>Saydah</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Johns Hopkins Medical Institutions</orgName>
+								<address>
+									<settlement>Baltimore</settlement>
+									<region>Maryland</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MD, MPH</roleName><forename type="first">Montserrat</forename><surname>Miret</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Global Epidemiology</orgName>
+								<address>
+									<addrLine>CS&amp;-E, No-vartis Farmace ´utica</addrLine>
+									<settlement>Barcelona</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>PHARMD</roleName><forename type="first">Jennifer</forename><surname>Sung</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Health Care Management</orgName>
+								<address>
+									<settlement>Novartis Pharmaceuticals, East Hanover</settlement>
+									<country>New Jersey</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Cristina</forename><surname>Varas</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Global Epidemiology</orgName>
+								<address>
+									<addrLine>CS&amp;-E, No-vartis Farmace ´utica</addrLine>
+									<settlement>Barcelona</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>DRPH, MPH</roleName><forename type="first">Douglas</forename><surname>Gause</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Health Care Management</orgName>
+								<address>
+									<settlement>Novartis Pharmaceuticals, East Hanover</settlement>
+									<country>New Jersey</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName><roleName>MD, MHS</roleName><forename type="first">Frederick</forename><forename type="middle">L</forename><surname>Brancati</surname></persName>
+							<email>fbrancat@jhmi.edu</email>
+							<affiliation key="aff0">
+								<orgName type="institution">Johns Hopkins Medical Institutions</orgName>
+								<address>
+									<settlement>Baltimore</settlement>
+									<region>Maryland</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<orgName type="institution">Johns Hopkins Medical Institutions</orgName>
+								<address>
+									<addrLine>2024 East Monument St., Suite 2-600</addrLine>
+									<postCode>21205</postCode>
+									<settlement>Baltimore</settlement>
+									<region>MD</region>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Postchallenge Hyperglycemia and Mortality in a National Sample of U.S. Adults</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">77F703DE2B28123AD52875F291ABD05F</idno>
+					<note type="submission">Received for publication 13 December 2000 and accepted in revised form 3 May 2001.</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.1" ident="GROBID" when="2022-07-19T22:44+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>ADA, American Diabetes Association</term>
+					<term>CVD, cardiovascular disease</term>
+					<term>FG, fasting glucose</term>
+					<term>IGT, impaired glucose tolerance</term>
+					<term>NHANES II, Second National Health and Nutrition Examination Survey</term>
+					<term>OGTT, oral glucose tolerance test</term>
+					<term>PCH, postchallenge hyperglycemia</term>
+					<term>RH, relative hazard</term>
+					<term>WHO, World Health Organization</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>OBJECTIVE -Although postchallenge hyperglycemia is a well-established feature of type 2 diabetes, its association with risk of mortality is uncertain. Therefore, the aim of this study was to assess the independent association of fasting and 2-h glucose levels with all-cause and cardiovascular disease (CVD) mortality.</p><p>RESEARCH DESIGN AND METHODS -We analyzed data from the Second National Health and Nutrition Examination Survey (NHANES II) Mortality Study, a prospective cohort study of U.S. adults examined in the NHANES II, and focused on the 3,092 adults aged 30 -74 years who underwent an oral glucose tolerance test at baseline (1976 -1980). Deaths were identified from U.S. national mortality files from 1976 to 1992. To account for the complex survey design, we used SUDAAN statistical software for weighted analysis.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head><p>-Compared with their normoglycemic counterparts (fasting glucose [FG] Ͻ7.0 and 2-h glucose Ͻ7.8 mmol/l), adults with fasting and postchallenge hyperglycemia (FG Ն7.0 and 2-h glucose Ն11.1 mmol/l) had a twofold higher risk of death after 16 years of follow-up (age-and sex-adjusted relative hazard [RH] 2.1, 95% CI 1.4 -3.2). However, adults with isolated postchallenge hyperglycemia (FG Ͻ7.0 and 2-h glucose Ն11.1 mmol/l) were also at higher risk of death (1.6, 1.0 -2.6). In proportional hazards analysis, FG (fully adjusted RH 1.10 per 1 SD; 95% CI 1.01, 1.22) and 2-h glucose (1.14, 1.00 -1.29) showed nearly identical predictive value for mortality. Similar trends were observed for CVD mortality.</p><p>CONCLUSIONS -These results suggest that postchallenge hyperglycemia is associated with increased risk of all-cause and CVD mortality independently of other CVD risk factors.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>P</head><p>ostchallenge hyperglycemia (PCH), typically defined as 2-h glucose levels Ͼ11.1mmol/l, is an established feature of diabetes and has been associated with worsening cardiovascular disease (CVD) risk profile <ref type="bibr" target="#b0">(1)</ref>. It is estimated that 6.2% of adults aged 40 -74 years in the U.S. have PCH <ref type="bibr" target="#b1">(2)</ref>. The prevalence of PCH with normal fasting glucose has been estimated to be 48% in men and 70% in women Ͼ65 years of age with previously undiagnosed diabetes <ref type="bibr" target="#b3">(3)</ref>. The association of an increased risk of all-cause and CVD mortality with hyperglycemia has been reported in a number of populations <ref type="bibr" target="#b4">(4,</ref><ref type="bibr" target="#b5">(5)</ref><ref type="bibr" target="#b6">(6)</ref><ref type="bibr" target="#b7">(7)</ref><ref type="bibr" target="#b8">(8)</ref><ref type="bibr" target="#b9">(9)</ref><ref type="bibr" target="#b10">(10)</ref><ref type="bibr" target="#b11">(11)</ref><ref type="bibr" target="#b12">(12)</ref><ref type="bibr" target="#b13">(13)</ref><ref type="bibr" target="#b14">(14)</ref><ref type="bibr" target="#b15">(15)</ref><ref type="bibr" target="#b16">(16)</ref><ref type="bibr" target="#b17">(17)</ref><ref type="bibr" target="#b18">(18)</ref><ref type="bibr" target="#b19">(19)</ref><ref type="bibr" target="#b20">20)</ref>. However, few of these previous studies have been conducted in a sample representative of the general U.S. population <ref type="bibr" target="#b4">(4,</ref><ref type="bibr" target="#b5">(5)</ref><ref type="bibr" target="#b6">(6)</ref><ref type="bibr" target="#b7">(7)</ref><ref type="bibr" target="#b8">(8)</ref><ref type="bibr" target="#b9">(9)</ref><ref type="bibr" target="#b10">(10)</ref><ref type="bibr" target="#b11">(11)</ref><ref type="bibr" target="#b12">(12)</ref><ref type="bibr" target="#b13">(13)</ref><ref type="bibr" target="#b14">(14)</ref><ref type="bibr" target="#b15">(15)</ref><ref type="bibr" target="#b16">(16)</ref><ref type="bibr" target="#b17">(17)</ref><ref type="bibr" target="#b18">(18)</ref><ref type="bibr" target="#b19">(19)</ref><ref type="bibr" target="#b20">20)</ref>. Moreover, it is unclear whether this excess mortality is conferred by PCH per se or rather by fasting hyperglycemia or CVD risk factors that commonly accompany diabetes, such as high blood pressure, dyslipidemia, and obesity <ref type="bibr" target="#b0">(1,</ref><ref type="bibr" target="#b21">(21)</ref><ref type="bibr" target="#b22">(22)</ref><ref type="bibr" target="#b23">(23)</ref><ref type="bibr" target="#b24">(24)</ref><ref type="bibr" target="#b25">(25)</ref>. Although there is mounting evidence of the importance of PCH, the prognostic value of this measure in the general U.S. population, especially as it relates to mortality, remains unclear.</p><p>Therefore, we sought to evaluate the association of 2-h postchallenge blood glucose levels with mortality in a U.S. nationally representative sample. If independently predictive, PCH might represent a specific target for interventions to reduce diabetes-related mortality.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESEARCH DESIGN AND METHODS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data sources</head><p>Data were obtained from the Second National Health and Nutrition Survey (NHANES II) mortality study, a prospective cohort study which passively followed participants Ͼ30 years of age who underwent a detailed examination in NHANES II (n ϭ 9,250). NHANES II was conducted between 1976 and 1980 by the National Center for Health Statistics. A stratified multistage sample design was used to produce a representative sample of the noninstitutionalized U.S. civilian population between the ages of 6 months and 74 years (26). The survey included a household interview, a physical examination, laboratory tests, and detailed questionnaires on health-and nutritionrelated topics. The response rate for adults 20 -74 years of age selected for the examination was 68% <ref type="bibr" target="#b27">(27)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Participants</head><p>Among adults aged 30 -74 years, 4,664 were selected at random for the oral glucose tolerance test (OGTT) and asked to fast overnight if they did not report having diabetes and were not currently using</p><formula xml:id="formula_0">• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •</formula><p>insulin. Individuals were excluded from the analysis if they had a fasting time Ͻ9 h or Ͼ17 h, a 2-h OGTT duration Ͻ105 min or Ͼ135 min, or a missing fasting glucose or 2-h glucose value (n ϭ 1,508). In addition, we excluded 64 participants from the analytic cohort who were missing data on HDL cholesterol, smoking, physical activity, or blood pressure. Thus, we analyzed data on 3,092 adults without insulin-requiring diabetes who had valid data on glucose tolerance and other CVD risk factors.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Baseline assessments</head><p>Each participants age at interview, sex, race (white, nonwhite), years of education (less than high school or greater than high school), and personal health characteristics were obtained by interview. Smoking status was categorized as "ever" or "never." Participants were asked to rate both their recreational and nonrecreational physical activity as "much," "moderate," or "little to no activity." Responses for both questions were added and recoded, ielding the following categories: moderate to low activity (low activity in both or low activity in one and moderate activity in the other) and moderate to high activity (moderate activity in both or moderate activity in one and high activity in the other). Participants were defined as having CVD at baseline if they tested positive on a modified Rose Angina Questionnaire or answered "yes" to any of the following questions from the medical history questionnaire: "Has a doctor ever told you that you had a heart attack?" or "Have you ever had a stroke?" and "Did a doctor tell you this?" (26). Participants were defined as having previously diagnosed diabetes if they answered "yes" to both of the following questions: "Do you have glucose diabetes?" and "Did a doctor tell you that you had it?" (n ϭ 96). Of the 96 participants who had diagnosed diabetes, 43 participants reported current use of oral diabetic medications.</p><p>Physical examination included standardized measurements of height, weight, and blood pressure (26). BMI was calculated as weight in kilograms divided by the square of the height in meters. BMI of the participants was categorized as Ͻ25, 25-26.9, 27-29.9, and Ն30 kg/m 2 (28). We used the average of two blood pressure readings for each participant in the sitting position. Laboratory measures, including standard blood assays for total serum cholesterol, HDL, and plasma glucose levels, were analyzed from blood samples of participants who fasted overnight for 10 -16 h (26). For each participant, a total cholesterol-to-HDL cholesterol ratio was calculated. After a fasting blood sample was taken, participants ingested 75 g glucose (26). A subsequent blood sample was taken at 120 Ϯ 15 min after the OGTT in each participant. Participants were characterized by glucose tolerance using both the 1997 American Diabetes Association (ADA) <ref type="bibr" target="#b28">(29)</ref> and the 1998 World Health Organization (WHO) classification <ref type="bibr" target="#b29">(30)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Outcomes</head><p>Mortality status was ascertained for the years 1976 -1992 by searching the National Death Index and the Social Security Administration Death master file <ref type="bibr" target="#b30">(31)</ref>. There was no censoring or loss to followup in this cohort; participants not found to be deceased by 31 December 1992 were assumed to be alive at that time. Deaths were ascribed to CVD if the underlying cause of death according to the International Classification of Diseases, 9th revision, was coded from 401.0 -448.9.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Analysis</head><p>Weighting to the U.S. population. Baseline and proportional hazard estimates were weighted to the U.S. population at the midpoint of NHANES II <ref type="bibr">(1 March 1978)</ref>. SUDAAN statistical software (version 6.4; Research Triangle Park, NC) was used to account for the complex survey design and to thereby provide nationally representative estimates (26,32). Baseline characteristics. Demographic characteristics and cardiovascular risk factors at baseline were described for the participants. Baseline comparisons by 2-h glucose group (2-h glucose Ͻ11.1 or Ն11.1 mmol/l) for demographic risk factors (age, sex, race, and education), behavioral risk factors (physical activity and smoking), biological risk factors (total cholesterol, fasting glucose levels, total cholesterol-to-HDL ratio, systolic blood pressure, diastolic blood pressure, and BMI), and reported history of CVD were completed using analysis of covariance or Pearson 2 test. All tests of significance were two-tailed (P ϭ 0.05), with no corrections for multiple comparisons. Proportional hazards analysis. To study the independent association of 2-h blood glucose with mortality, several multivariate proportional hazards models were performed to evaluate 1) PCH and impaired glucose tolerance (IGT) by fasting glucose levels, 2) fasting and 2-h glucose as continuous variables, and 3) the glucose tolerance groups under WHO and ADA criteria. The above-mentioned demographic (age, sex, race, and education), behavioral (physical activity and smoking) and biological factors (BMI, systolic blood pressure, and total cholesterol-to-HDL cholesterol ratio) were used as covariates.</p><p>These models were first performed separately using fasting and 2-h glucose as main independent continuous variables and then simultaneously using both variables. SDs for fasting glucose and 2-h glucose were estimated in each of the subgroup analysis and were used to estimate the relative risk of death to the change in 1 SD of fasting or 2-h blood glucose.</p><p>Subgroup analyses were first performed excluding only participants with diagnosed diabetes, again excluding only participants with CVD at baseline, and finally excluding participants with either diagnosed diabetes or CVD at baseline.</p><p>First-order interactions between glucose and all of the included covariates were tested. Graphs of log-log plot of the relative hazards by time were used to check the assumption of proportionality.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Characteristics and risk factors at baseline</head><p>Table <ref type="table" target="#tab_0">1</ref> summarizes the characteristics of the cohort by 2-h postchallenge glucose level at baseline. Compared with their counterparts with 2-h glucose Ͻ11.1 mmol/l, those with PCH were older and less educated. They were also more frequently obese, had known diabetes, had a previous history of CVD, and had higher levels of total cholesterol-to-HDL cholesterol ratio, blood pressure, and fasting glucose.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Mortality</head><p>There were 661 deaths (21%) during 41,610 person-years of follow-up. The crude all-cause death rate per 1,000 personyears was highest (39.0%) for participants with PCH and fasting glucose Ն7.0 mmol/l, followed by participants with fasting glucose Ͻ7.0 mmol/l and IGT (21.0% for 2-h 7.8 -11.1 mmol/l) or PCH (29.3% for 2-h Ն11.1 mmol/l), and lowest (13.1%) for participants with normal glucose levels (Table <ref type="table" target="#tab_1">2</ref>). A similar CVD mortality pattern was observed. After adjusting for age and sex, this corresponds to a 110% increased risk of mortality for participants with PCH and fasting glucose Ն7.0 mmol/l, a 30% increased risk for participants with 2-h glucose Ն7.8 and Ͻ11.1 mmol/l and fasting glucose Ͻ7.0 mmol/l, and a 60% increased risk for participants with PCH and fasting glucose Ͻ7.0 mmol/l.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Multivariate proportional hazards</head><p>After simultaneous adjustment for age, sex, race, education, smoking, physical activity, BMI, systolic blood pressure, and total cholesterol-to-HDL cholesterol ratio, individuals with PCH had a slight increased risk of death for both all-cause and CVD mortality (Table <ref type="table" target="#tab_1">2</ref>). However, the relative hazard estimate was only statistically significant for participants with fasting glucose Ն7.0 mmol/l and 2-h glucose Ն11.1 mmol/l (Table <ref type="table" target="#tab_1">2</ref>). When pardiabetes were excluded, the risk of all-cause mortality was slightly attenuated for each group but still highest for those with fasting glucose Ն7.0 mmol/l and 2-h glucose Ն11.1 mmol/l (relative hazard [RH] 1.5, 95% CI 0.8 -3.0), followed by 2-h glucose Ն11.1 mmol/l and fasting glucose Ͻ7.0 mmol/l (1.2, 0.6 -2.4), and lowest for fasting glucose Ͻ7.0 mmol/l and 2-h glucose Ն7.8 and Ͻ11.1 mmol/l (1.1, 0.8 -1.6).</p><p>A 10% increased risk of mortality from all-cause mortality was associated with a 1-SD increase in fasting glucose (1.18 mmol/l) and a 14% increased risk with a 1-SD increase in 2-h glucose (3.18 mmol/l) after adjusting for age, sex, race, smoking status, physical activity, BMI, systolic blood pressure, and total cholesterol-to-HDL cholesterol ratio (Table <ref type="table" target="#tab_2">3</ref>), but the lower limit of the 95% CI was the null value. Similar estimates were obtained for CVD mortality, but the 95% CI included the null value. When fasting and 2-h glucose were included in the same multivariate proportional hazards model, the RHs estimated were similar in magni-  tude as when each were modeled separately (Table <ref type="table" target="#tab_2">3</ref>). However, the 95% CI included the null value, and the P-value for the ␤-coefficient was Ͼ0.05 (Table <ref type="table" target="#tab_2">3</ref>). Analysis was repeated, excluding participants with diagnosed diabetes, CVD at baseline, or either diagnosed diabetes or CVD at baseline, and similar results for both all-cause and CVD mortality were obtained (data not shown). Finally, we compared 1997 ADA and 1998 WHO criteria in predicting mortality because WHO criteria apply 2-h postchallenge glucose values, whereas ADA criteria do not. In general, WHO criteria categories yielded risk estimates that were slightly stronger than those of ADA criteria. For example, with regard to all-cause mortality and after adjusting for all of the above-mentioned covariates, compared with participants with normal glucose tolerance, participants with diagnosed diabetes at baseline had the greatest HR ratio by both WHO and ADA criteria (Table <ref type="table" target="#tab_3">4</ref>). Participants with undiagnosed or diagnosed diabetes had an increased, but nonsignificant, risk of mortality by both WHO and ADA criteria (Table <ref type="table" target="#tab_3">4</ref>). Based on the WHO definition, participants with IGT had a 14% increased risk of mortality, and based on the ADA definition, participants with impaired fasting glucose had an 8% increased risk of mortality compared with those with normal glucose (Table <ref type="table" target="#tab_3">4</ref>). Similar, albeit nonsignificant, patterns were observed for CVD mortality (Table <ref type="table" target="#tab_3">4</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CONCLUSIONS -</head><p>The results from this study suggest that postchallenge hy-perglycemia might be independently associated with mortality in the general U.S. population. The effect is strongest in the presence of elevated fasting glucose but present when fasting plasma glucose is normal. This effect is only partially mediated by established CVD risk factors, such as concurrent abnormal blood pressure and lipids. Adjusting for fasting, the magnitude of the estimated RH of mortality associated with the continuous increase of 2-h glucose did not change; however, the 95% CI included the null value. A high correlation between fasting and 2-h glucose levels (r 2 ϭ 0.90) was observed in our study population. Strengths of this study include its national representation and a length of follow-up ranging from 12 to 16 years.</p><p>Nevertheless, several limitations should be kept in mind. First, there was nonresponse in NHANES II at each stage of the survey and a potential misclassification of vital status. In particular, for adults age 20 -74 years, only 68.0% of participants selected for the survey in the OGTT subsample completed the examination (26). However, respondents and nonrespondents did not differ significantly in demographic or health-related characteristics <ref type="bibr" target="#b27">(27,</ref><ref type="bibr" target="#b31">33)</ref>. Second, a person not found to be deceased as of 31 December 1992 was assumed to be alive at the end of follow-up <ref type="bibr" target="#b30">(31)</ref>. However, because vital status was determined independent of glucose tolerance status, if misclassification had occurred, it was likely to be nondifferential, therefore producing a conservative bias <ref type="bibr" target="#b32">(34,</ref><ref type="bibr" target="#b33">35)</ref>. Third, similar to other previous studies, the results of this study are based on baseline glucose tolerance. It is likely that participants with high fasting and 2-h plasma glucose levels progressed to diabetes during follow-up, which is known to increase the risk of both all-cause and CVD mortality.</p><p>Since 1980, there have been a number of studies investigating the relationship of postchallenge hyperglycemia and mortality <ref type="bibr" target="#b3">(3)</ref><ref type="bibr" target="#b4">(4)</ref><ref type="bibr" target="#b5">(5)</ref><ref type="bibr" target="#b6">(6)</ref><ref type="bibr" target="#b7">(7)</ref><ref type="bibr" target="#b8">(8)</ref><ref type="bibr" target="#b9">(9)</ref><ref type="bibr" target="#b11">(11)</ref><ref type="bibr" target="#b12">(12)</ref><ref type="bibr" target="#b13">(13)</ref><ref type="bibr" target="#b14">(14)</ref><ref type="bibr" target="#b15">(15)</ref><ref type="bibr" target="#b16">(16)</ref><ref type="bibr" target="#b17">(17)</ref><ref type="bibr" target="#b18">(18)</ref><ref type="bibr" target="#b19">(19)</ref><ref type="bibr" target="#b20">(20)</ref>. In general, these studies have found an increased risk of death with increasing postchallenge glu-   <ref type="bibr" target="#b5">(5,</ref><ref type="bibr" target="#b12">(12)</ref><ref type="bibr" target="#b13">(13)</ref><ref type="bibr" target="#b14">(14)</ref>. Other studies that have found similar results have been limited by relatively short follow-up (Ͻ10 years) and were not representative of the general U.S. population <ref type="bibr">(3,4,6 -11,15-18)</ref>. In other studies, IGT was found to be a significant predictor of mortality, but IFG was not <ref type="bibr" target="#b16">(16)</ref>.</p><p>The results of this study support previous study findings from the Diabetes Epidemiology Collaborative Analysis of Diagnostic Criteria in Europe (DECODE) study (4) that WHO criteria categories yield risk estimates that are slightly stronger than those of ADA criteria. This further suggests that OGTTs enable the identification of postchallenge hyperglycemic individuals who may have the greatest risk of death. The identification of individuals with PCH is important. First, such individuals might be offered aggressive interventions aimed at improvement of hyperglycemia and modification of other risk factors, such as hypertension, obesity, and hyperlipidemia. Second, these individuals could be identified for nonpharmacological treatments, such as weight reduction and increasing physical activity. Third, one might devise pharmacological interventions aimed specifically at the modification of PCH. In conclusion, these results suggest that PCH has predictive value for all-cause mortality and may also predict CVD mortality independently of other CVD risk factors. In addition, however, because of co-linearity, a larger study would be required to demonstrate independence from fasting glucose on epidemiological grounds alone.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 -Baseline characteristics of 3,092 NHANES II participants aged 30 to 74 years by 2-h postchallenge glucose level</head><label>1</label><figDesc></figDesc><table><row><cell>2-h glucose</cell><cell>2-h glucose</cell></row><row><cell>Ͻ11.1 mmol/l</cell><cell>Ն11.1 mmol/l</cell></row><row><cell>(n ϭ 2,856)</cell><cell>(n ϭ 236)</cell></row></table><note>Data are means Ϯ SD or %. *P Ͻ 0.05 for comparison of those with 2-h glucose Ͻ11.1 mmol/l vs. 2-h glucose Ն11.1 mmol/l.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 -All-cause and cardiovascular disease mortality by fasting and 2-h postchallenge glucose group for 3,092 adults aged 30 to 74 years in NHANES II</head><label>2</label><figDesc></figDesc><table><row><cell></cell><cell cols="3">Fasting plasma glucose Ͻ7.0 mmol/l</cell><cell></cell><cell cols="2">Fasting plasma glucose Ն7.0 mmol/l</cell></row><row><cell></cell><cell cols="3">2-h plasma glucose (mmol/l)</cell><cell></cell><cell cols="2">2-h plasma glucose (mmol/l)</cell></row><row><cell></cell><cell>Ͻ7.8</cell><cell>7.8 to 11.1</cell><cell>Ն11.1</cell><cell>Ͻ7.8</cell><cell>7.8 to 11.1</cell><cell>Ն11.1</cell></row><row><cell>Participants</cell><cell>2,321</cell><cell>503</cell><cell>131</cell><cell>9</cell><cell>23</cell><cell>105</cell></row><row><cell>Person years</cell><cell>31,877</cell><cell>6,533</cell><cell>1,604</cell><cell>125</cell><cell>241</cell><cell>1,230</cell></row><row><cell>Deaths</cell><cell>416</cell><cell>137</cell><cell>47</cell><cell>2</cell><cell>11</cell><cell>48</cell></row><row><cell>CVD deaths</cell><cell>181</cell><cell>59</cell><cell>23</cell><cell>0</cell><cell>8</cell><cell>27</cell></row><row><cell>All-cause</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Mortality per 1,000 PY</cell><cell>13.1</cell><cell>21.0</cell><cell>29.3</cell><cell>16.0</cell><cell>45.6</cell><cell>39.0</cell></row><row><cell>RH (95% CI)*</cell><cell>1.0 Reference</cell><cell>1.3 (1.0, 1.6)</cell><cell>1.6 (1.0, 2.6)</cell><cell>-</cell><cell>-</cell><cell>2.1 (1.4, 3.2)</cell></row><row><cell>RH (95% CI) †</cell><cell>1.0 Reference</cell><cell>1.1 (0.8, 1.6)</cell><cell>1.3 (0.7, 2.5)</cell><cell>-</cell><cell>-</cell><cell>1.9 (1.1, 3.2)</cell></row><row><cell>CVD death</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Mortality per 1,000 PY</cell><cell>5.7</cell><cell>9.0</cell><cell>14.3</cell><cell>0</cell><cell>33.2</cell><cell>22.0</cell></row><row><cell>RH (95% CI)*</cell><cell>1.0 Reference</cell><cell>1.1 (0.7, 1.5)</cell><cell>1.4 (0.8, 2.5)</cell><cell>-</cell><cell>-</cell><cell>2.3 (1.4, 3.6)</cell></row><row><cell>RH (95% CI) †</cell><cell>1.0 Reference</cell><cell>1.0 (0.6, 1.6)</cell><cell>1.3 (0.6, 2.8)</cell><cell>-</cell><cell>-</cell><cell>1.6 (0.8, 3.4)</cell></row></table><note>Data are n unless otherwise stated. -Too few events for stable estimate. *RH and 95% CI adjusted for age (continuous) and sex; †adjusted for age (continuous), sex, race (white, nonwhite), education (Ͻhigh school, Նhigh school), smoking (ever, never), physical activity (low, high), BMI (Ͻ25, 25Յ to Ͻ27, 27Յ to Ͻ30, Ն30 kg/m 2 ), systolic blood pressure, and total cholesterol-to-HDL cholesterol ratio (continuous). PY, person years.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3 -RH and 95% CI for all-cause and CVD mortality for 1 SD increment in plasma glucose for 3,092 adults aged 30 -74 years in NHANES II</head><label>3</label><figDesc></figDesc><table><row><cell></cell><cell cols="2">All-cause mortality</cell><cell cols="2">CVD Mortality</cell></row><row><cell></cell><cell>Fasting glucose</cell><cell>2-h glucose</cell><cell>Fasting glucose</cell><cell>2-h glucose</cell></row><row><cell>Model 1</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>RH</cell><cell>1.10</cell><cell>1.14</cell><cell>1.09</cell><cell>1.13</cell></row><row><cell>95% CI</cell><cell>1.00-1.22</cell><cell>1.00-1.29</cell><cell>0.95-1.25</cell><cell>0.93-1.38</cell></row><row><cell>P value ␤</cell><cell>0.02</cell><cell>0.03</cell><cell>0.56</cell><cell>0.61</cell></row><row><cell>Model 2</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>RH</cell><cell>1.05</cell><cell>1.10</cell><cell>1.02</cell><cell>1.07</cell></row><row><cell>95% CI</cell><cell>0.89-1.23</cell><cell>0.91-1.33</cell><cell>0.79-1.32</cell><cell>0.78-1.46</cell></row><row><cell>P value ␤</cell><cell>0.37</cell><cell>0.59</cell><cell>0.85</cell><cell>0.67</cell></row><row><cell cols="5">Model 1, proportional hazards model adjusts for either fasting or 2-h glucose; model 2, proportional hazards</cell></row><row><cell cols="5">model adjusts for fasting and 2-h glucose simultaneously. SD for fasting glucose 1.18 mmol/l and for 2-h</cell></row><row><cell cols="5">glucose 3.18 mmol/l. *Adjusted for age (continuous), sex, race (white, nonwhite), education (Ͻhigh school,</cell></row><row><cell cols="5">Նhigh school), smoking (ever, never), physical activity (low, high), BMI (Ͻ25, 25Յ to Ͻ27, 27Յ to Ͻ30,</cell></row><row><cell cols="5">Ն30 kg/m 2 ), systolic blood pressure, total cholesterol-to-HDL cholesterol ratio (continuous).</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 4 -RH (95% CI) for all-cause and CVD mortality by 1997 ADA and 1998 WHO criteria for 3,092 adults aged 30 -74 years in NHANES II</head><label>4</label><figDesc>Studies with similar follow-up time of 12-25 years have also reported increased risk of death from all-causes and CVD mortality for individuals with postchallenge hyperglycemia compared with those with normal glucose levels</figDesc><table><row><cell></cell><cell>Normal glucose</cell><cell>Impaired fasting</cell><cell>Undiagnosed</cell><cell>Diagnosed</cell></row><row><cell></cell><cell>tolerance</cell><cell>glucose</cell><cell>diabetes</cell><cell>diabetes</cell></row><row><cell>ADA</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>n</cell><cell>2,706</cell><cell>193</cell><cell>97</cell><cell>96</cell></row><row><cell>All-cause</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>RH (95% CI)</cell><cell>Reference</cell><cell cols="3">1.08 (0.70-1.67) 1.41 (0.77-2.58) 1.86 (1.03-3.15)</cell></row><row><cell>CVD</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>RH (95% CI)</cell><cell>Reference</cell><cell cols="3">0.65 (0.31-1.34) 1.23 (0.49-3.07) 1.70 (1.02-2.84)</cell></row><row><cell>WHO</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>n</cell><cell>2,226</cell><cell>555</cell><cell>215</cell><cell>96</cell></row><row><cell>All-cause</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>RH (95% CI)</cell><cell>Reference</cell><cell cols="3">1.14 (0.80-1.63) 1.36 (0.84-2.21) 1.89 (1.07-3.36)</cell></row><row><cell>CVD</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>RH (95% CI)</cell><cell>Reference</cell><cell cols="3">0.93 (0.57-1.51) 1.21 (0.62-2.39) 1.76 (1.03-3.01)</cell></row></table><note>Participants with impaired fasting glucose (defined as 2-h glucose Ͻ7.8 mmol/l and fasting glucose Ն6.1 and Ͻ7.0 mmol/l) (n ϭ 76) were excluded from the analysis because of small numbers. There were 26 deaths among these participants. *Adjusted for age (continuous), sex, race (white, non-white), education (Ͻhigh school, Նhigh school), smoking (ever, never), physical activity (low, high), BMI (Ͻ25, 25Յ to Ͻ27, 27Յ to Ͻ30, Ն30 kg/m 2 ), systolic blood pressure, total cholesterol-to-HDL cholesterol ratio (continuous).</note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">DIABETES CARE, VOLUME 24, NUMBER 8, AUGUST 2001</note>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Metabolic risk factors worsen continuously across the spectrum of nondiabetic glucose tolerance: the Framingham Offspring Study</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Meigs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Nathan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Wilson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Cupples</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Singer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">128</biblScope>
+			<biblScope unit="page" from="524" to="533" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Comparison of diabetes diagnostic categories in the U.S. population according to</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">I</forename><surname>Harris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Flegal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Eastman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Eberhardt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Cowie</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1980">1997. 1980 -1985</date>
+			<publisher>American Diabetes Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">World Health Organization diagnostic criteria</title>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="1859" to="1862" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Isolated postchallenge hyperglycemia and the risk of fatal cardiovascular disease in older women and men: the Rancho Bernardo Study</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Barrett-Connor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ferrara</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="1236" to="1239" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Glucose tolerance and mortality: comparison of WHO and American Diabetes Association diagnostic criteria: the DECODE study group: European Diabetes Epidemiology Group. Diabetes epidemiology: collaborative analysis of diagnostic criteria in Europe</title>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">354</biblScope>
+			<biblScope unit="page" from="617" to="621" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Eschwe `ge E: High blood glucose concentration is a risk factor for mortality in middle-aged nondiabetic men: 20-year follow-up in the Whitehall Study, the Paris Prospective Study, and the Helsinki Policemen Study</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Balkau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Shipley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Jarrett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Pyo</forename><surname>¨ra ¨la</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">¨k</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Pyo</forename><surname>¨ra ¨la</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">¨m</forename><surname>Forhan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="360" to="367" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Is borderline fasting hyperglycemia a risk factor for cardiovascular death?</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Barrett-Connor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Wingard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Criqui</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Suarez</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Chronic Dis</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="773" to="779" />
+			<date type="published" when="1984">1984</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Hyperglycaemia is associated with allcause and cardiovascular mortality in the Hoorn population: the Hoorn Study</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>De Vegt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Dekker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">G</forename><surname>Ruhe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Stehouwer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Nijpels</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Bouter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Heine</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="926" to="931" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Coronary heart disease risk and impaired glucose tolerance</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Fuller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Shipley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Rose</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Jarret</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Keen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">1980</biblScope>
+			<biblScope unit="page" from="1373" to="1376" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Mortality from coronary heart disease and stroke in relation to degree of glycaemia: the Whitehall Study</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Fuller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Shipley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Rose</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Jarret</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Keen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">1983</biblScope>
+			<biblScope unit="page" from="867" to="870" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Plasma glucose and prediction of microvascular disease and mortality</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Gabir</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Hanson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Dabelea</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Imperatore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Roumain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">H</forename><surname>Bennett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">C</forename><surname>Knowler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="1113" to="1118" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Scherste ´n B: Glucose tolerance and mortality including a sub-study of tolbutamide treatment</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Knowler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Sartor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Melander</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="680" to="686" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Stamler J: Diabetes, asymptomatic hyperglycemia, and 22-year mortality in black and white men: the Chicago Heart Association Detection Project in Industry Study</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">P</forename><surname>Lowe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Greenland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">E</forename><surname>Metzger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Dyer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="163" to="169" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Glucose intolerance and 23-year risk of coronary heart disease and total mortality: the Honolulu Heart Program</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">L</forename><surname>Rodriguez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Lau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Burchfiel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Abbott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Sharp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Yano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Curb</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="1262" to="1265" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Isolated post-challenge hyperglycaemia confirmed as a risk factor for mortality</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Shaw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Hodge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>De Courten</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Chitson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">Z</forename><surname>Zimmet</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">142</biblScope>
+			<biblScope unit="page" from="1050" to="1054" />
+			<date type="published" when="1999">1999. 1999</date>
+		</imprint>
+	</monogr>
+	<note>published erratum appears in Diabetologia</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Diabetes mellitus, impaired glucose tolerance and mortality among elderly men: the Finnish cohorts of the Seven Countries Study</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Stengard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tuomilehto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Pekkanen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Kivinen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Kaarsalo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Nissinen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Karvonen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="760" to="765" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Impaired glucose tolerance is a risk factor for cardiovascular disease, but not impaired fasting glucose: the Funagata Diabetes Study</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tominaga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Eguchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Manaka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Igarashi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Kato</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sekikawa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="920" to="924" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">The effect of diabetes and impaired glucose tolerance on mortality in malta</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tuomilehto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Schranz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Aldana</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Pitka ¨niemi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabet Med</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="170" to="176" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Effects of diabetes and level of glycemia on all-cause and cardiovascular mortality: the San Antonio Heart Study</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Wei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Gaskill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Haffner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Stern</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="1167" to="1172" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Glucose intolerance and nine-year mortality in Japanese men in Hawaii</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Yano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kagan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Mcgee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">G</forename><surname>Rhoads</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Med</title>
+		<imprint>
+			<biblScope unit="volume">72</biblScope>
+			<biblScope unit="page" from="71" to="80" />
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Relationship of postload plasma glucose to mortality with 19-yr follow-up: comparison of one versus two plasma glucose mea-Chicago Peoples Gas Company Study</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Vaccaro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename><surname>Ruth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Stamler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="1328" to="1334" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Cardiovascular risk factors and impaired glucose tolerance: the San Luis Valley Diabetes Study</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Burchfiel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Hamman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Marshall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Baxter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Kahn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Amirani</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">131</biblScope>
+			<biblScope unit="page" from="57" to="70" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">The interrelationship between impaired glucose tolerance and other risk factors for cardiovascular disease. Is it a predictor for cardiovascular disease?</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Chu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Ding</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Shieh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="485" to="493" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Prevalence of coronary heart disease in subjects with normal and impaired glucose tolerance and non-insulin-dependant diabetes mellitus in a biethnic Colorado population: the San Luis Valley Diabetes Study</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rewers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Shetterly</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Baxter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Marshall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Hamman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">135</biblScope>
+			<biblScope unit="page" from="1321" to="1330" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Impaired glucose tolerance, diabetes, and cardiovascular disease risk factor profiles in the elderly: the Honolulu Heart Program</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Rodriguez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Sharp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Curb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Lui</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Burchfiel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Fujimoto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Yano</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="587" to="590" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Plan and Operation of the Second National Health and Nutrition Examination Survey</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Wagenknecht</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Savage</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>'agostino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Haffner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S ;</forename><surname>Mc-Dowell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Engel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Massey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Maurer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Govt. Printing Office</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="1812" to="1818" />
+			<date type="published" when="1976">1998 26. 1976 -1980. 1981</date>
+		</imprint>
+		<respStmt>
+			<orgName>National Center for Health Statistics</orgName>
+		</respStmt>
+	</monogr>
+	<note>Diabetes Care</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">-1317, Vital and Health Statistics, ser</title>
+	</analytic>
+	<monogr>
+		<title level="s">DHHS publ. no. PHS81</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">15</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Printing Office, 1987 (DHHS publ. no. PHS87-1687, Vital and Health Statistics, ser. 11, National Institute of Health: Clinical guidelines on the identification, evaluation and treatment of overweight and obesity in adults: evidence report</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Hadden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M ;</forename><surname>Harris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Washington</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><forename type="middle">S</forename><surname>Govt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Obes Res</title>
+		<imprint>
+			<biblScope unit="page" from="51S" to="209S" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+		<respStmt>
+			<orgName>National Center for Health Statistics</orgName>
+		</respStmt>
+	</monogr>
+	<note>Prevalence of Diagnosed Diabetes, Undiagnosed Diabetes and Impaired Glucose Tolerance in Adults 20 -74 Years of Age. Suppl. 2</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">The Expert Committee on the Diagnosis and Classification of Diabetes Mellitus: Report of the Expert Committee on the Diagnosis and Classification of Diabetes Mellitus</title>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="1183" to="1197" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Definition, diagnosis and classification of diabetes mellitus and its complications. Part 1: diagnosis and classification of diabetes mellitus provisional report of a WHO consultation</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">G</forename><surname>Alberti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">Z</forename><surname>Zimmet</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabet Med</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="539" to="553" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">SUDAAN User&apos;s Manual: Software for Analysis of Correlated Data</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Loria</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Sempos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Vuong</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Vital Health Stat</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="1" to="16" />
+			<date type="published" when="1999">1999. 1999</date>
+		</imprint>
+	</monogr>
+	<note>Plan and operation of the NHANES II Mortality Study, 1992</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Investigation of non-response bias in NHANES II</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Forthofer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">117</biblScope>
+			<biblScope unit="page" from="507" to="515" />
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Ascertainment of vital status through the national death index and the social security administration</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Curb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Ford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Pressel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Palmer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Babcock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Hawkins</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">121</biblScope>
+			<biblScope unit="page" from="754" to="766" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Hennekens CH: Test of the National Death Index</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Stampfer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">C</forename><surname>Willett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">E</forename><surname>Speizer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Dysert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Lipnick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Rosner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">119</biblScope>
+			<biblScope unit="page" from="837" to="839" />
+			<date type="published" when="1984">1984</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

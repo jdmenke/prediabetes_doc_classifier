@@ -1,0 +1,996 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">The effects of pre-disease risk factors within metabolic syndrome on all-cause and cardiovascular disease mortality</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2008-08-30">30 August 2008</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Shan</forename><forename type="middle">Pou</forename><surname>Tsai</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">School of Public Health</orgName>
+								<orgName type="institution">University of Texas</orgName>
+								<address>
+									<settlement>Houston</settlement>
+									<region>TX</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Chi</forename><surname>Pang</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Center for Health Policy Research and Development</orgName>
+								<orgName type="institution">National Health Research Institutes</orgName>
+								<address>
+									<settlement>Zhunan</settlement>
+									<country key="TW">Taiwan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Hui</forename><forename type="middle">Ting</forename><surname>Chan</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Center for Health Policy Research and Development</orgName>
+								<orgName type="institution">National Health Research Institutes</orgName>
+								<address>
+									<settlement>Zhunan</settlement>
+									<country key="TW">Taiwan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>Po</roleName><forename type="first">Huang</forename><surname>Chiang</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Center for Health Policy Research and Development</orgName>
+								<orgName type="institution">National Health Research Institutes</orgName>
+								<address>
+									<settlement>Zhunan</settlement>
+									<country key="TW">Taiwan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Min</forename><forename type="middle">Kuang</forename><surname>Tsai</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Center for Health Policy Research and Development</orgName>
+								<orgName type="institution">National Health Research Institutes</orgName>
+								<address>
+									<settlement>Zhunan</settlement>
+									<country key="TW">Taiwan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Ting</forename><surname>Yuan</surname></persName>
+						</author>
+						<author role="corresp">
+							<persName><forename type="first">David</forename><surname>Cheng</surname></persName>
+							<email>cwengood@nhri.org.tw</email>
+							<affiliation key="aff2">
+								<orgName type="department">Bloomberg School of Public Health</orgName>
+								<orgName type="institution">Johns Hopkins University</orgName>
+								<address>
+									<settlement>Baltimore</settlement>
+									<region>MD</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<address>
+									<addrLine>35, Keyan Road, Miaoli County 350</addrLine>
+									<settlement>Zhunan Town</settlement>
+									<country key="TW">Taiwan, ROC</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">The effects of pre-disease risk factors within metabolic syndrome on all-cause and cardiovascular disease mortality</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2008-08-30">30 August 2008</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">05436A0F89609FEF8AE32334CA5CF82A</idno>
+					<idno type="DOI">10.1016/j.diabres.2008.07.016</idno>
+					<note type="submission">Received 3 January 2008 Received in revised form 2 June 2008 Accepted 13 July 2008</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.1" ident="GROBID" when="2022-07-19T22:45+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>Metabolic syndrome</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The metabolic syndrome has been criticized for being ''polluted with the inclusion of frank ''diseases'' with ''pre-diseases''. We assessed the effect of a single and a combination of ''pre-disease'' risk factors of metabolic syndrome on the overall and cardiovascular disease (CVD) mortality. These pre-disease risk factors included pre-diabetes, pre-hypertension, overweight and borderline hypertriglycerdemia and were defined as: fasting glucose at 110-125 mg/dL, systolic blood pressure at 120-139 mmHg, body mass index at 25-29.9 kg/m 2 and serum triglyceride at 150-199 mg/dL, respectively. The metabolic syndrome in this paper was based on the version defined by the ATP III. The cohort consisted of 35,259 adults (340 years) with a medium follow-up of 15 years. Relative risks (RRs) for all-causes, CVD and ''CVD plus diabetes'' mortality were calculated with the Cox proportional hazards model.</p><p>Prevalence of the pre-disease risk factors (40.2%) was nearly four times larger than the metabolic syndrome (10.6%). Individual pre-disease risk factor was associated with significant increases of 13% and 67% (pre-diabetes), 22% and 62% (pre-hypertension), 23% and 32% (overweight) and 17% and 46% (borderline hypertriglyceridemia) on all-cause and ''CVD plus diabetes'' mortality, respectively. Smoking had comparable risks as ''pre-diseases'', and, as such, should also be considered as the fifth ''pre-disease''.</p><p>Like metabolic syndrome, each ''Pre-disease'' is a major and significant risk factor for all cause and cardiovascular mortality, but unlike metabolic syndrome, the definition or clinical follow up of ''Pre-disease'' is simple and straightforward. Recognizing each of the four ''pre-disease'' as a clinical entity, a hitherto sub-clinical status but involving significantly increased mortality, can alert and justify early intervention through changing lifestyle and modifying biologic risk factors.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>The metabolic syndrome has received increasing attention in recent years, as this term has now taken hold in the medical literature <ref type="bibr" target="#b0">[1]</ref><ref type="bibr" target="#b1">[2]</ref><ref type="bibr" target="#b2">[3]</ref><ref type="bibr" target="#b3">[4]</ref><ref type="bibr" target="#b4">[5]</ref><ref type="bibr" target="#b5">[6]</ref>. It has been defined and institutionalized, principally by the World Health Organization (WHO) <ref type="bibr" target="#b6">[7]</ref> and the Third Report of the National Cholesterol Education Program's Adult Treatment Panel (ATP III) <ref type="bibr" target="#b7">[8,</ref><ref type="bibr" target="#b9">9]</ref>, albeit with different definitions. Other organizations have also subscribed to the concept but attempted to modify its definitions <ref type="bibr" target="#b10">[10]</ref><ref type="bibr" target="#b11">[11]</ref><ref type="bibr" target="#b12">[12]</ref>.</p><p>In short, the term highlights the tendency for risk factors and associated complications for cardiovascular diseases (CVD) to cluster together <ref type="bibr" target="#b13">[13]</ref>. The syndrome is important enough for an ICD-9 code (277.7) to be created to facilitate reimbursement for clinical management <ref type="bibr" target="#b14">[14]</ref><ref type="bibr" target="#b15">[15]</ref><ref type="bibr" target="#b16">[16]</ref>. Still the syndrome is an artificial combination of a number of risk factors that vary according to different definitions, and the value of combining different factors into a syndrome has not been universally accepted <ref type="bibr" target="#b13">[13,</ref><ref type="bibr" target="#b17">17]</ref>. It is as yet to be resolved that whether the whole is greater than sum of its components <ref type="bibr" target="#b13">[13,</ref><ref type="bibr" target="#b18">[18]</ref><ref type="bibr" target="#b19">[19]</ref><ref type="bibr" target="#b20">[20]</ref>. It also received criticism for being ''polluted by the inclusion of frank diseases'' <ref type="bibr" target="#b21">[21]</ref>, meaning the metabolic syndrome can include both ''diseases'' (i.e., obesity, hypertension, dyslipidemia, and diabetes) and ''pre-diseases'' (i.e., overweight, pre-hypertension, borderline dyslipidemia, and pre-diabetes or impaired fasting glucose). ''Diseases'' have their management well established, and they are supported by a medical care system ready to treat them. In contrast, the risks related to ''prediseases'' have not been fully recognized and the need for clinical interventions on ''pre-diseases'' per se, an important aspect of the metabolic syndrome, receives less universal recognition <ref type="bibr" target="#b13">[13,</ref><ref type="bibr" target="#b21">21,</ref><ref type="bibr" target="#b22">22]</ref>.</p><p>Using follow-up data from a large cohort of civil servants and teachers in Taiwan <ref type="bibr" target="#b23">[23]</ref>, this study attempts to assess the CVD mortality risks from subjects with an individual or a combination of ''pre-disease'' risk factors, without co-existing ''diseases''. In addition, mortality risks of these pre-disease risk factors will be compared with that of the metabolic syndrome, so that the role of ''pre-diseases'' in the metabolic syndrome can be assessed.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Research design and methods</head><p>Details of the cohort have been described elsewhere <ref type="bibr" target="#b24">[24,</ref><ref type="bibr" target="#b25">25]</ref>. In brief, the cohort included around 76,000 civil servants and teachers who took the annual physical examination at the Taipei Outpatient Center as offered by the government employee insurance program from 1989 to 1992. Demographic, lifestyle and health risk data (e.g., smoking history, alcohol consumption habits, and diet) were collected by self-administered questionnaires. During the medical check-up, a medical history was taken. Anthropometric and blood pressure measurements, collection of blood, and laboratory analyses were performed on each subject, in addition to the hands-on physicals by physicians.</p><p>This study selected those aged 40 and older in the cohort at the time of recruitment. Three percent of the eligible study subjects were excluded for lack of complete laboratory data. Vital status of the 35,259 study subjects, as of <ref type="bibr">December 31, 2005</ref>, was ascertained by matching cohort IDs with computerized national death files. Information on the cause of deaths was coded according to International Classification of Diseases (ICD-9). Four risk factors, fasting blood glucose, systolic blood pressure, body mass index (BMI) and serum triglyceride, were classified into three categories: normal (optimal), predisease (borderline), and disease (elevated) (Table <ref type="table" target="#tab_0">1</ref>). ''Predisease'' was defined as having any one of the following four borderline conditions: pre-diabetes (or impaired fasting glucose), pre-hypertension, pre-obesity (or overweight), or borderline hypertriglyceridemia. ''Disease'' was defined as having any one of the following four elevated conditions: diabetes, hypertension, obesity or hypertriglyceridemia.</p><p>In this paper, we examined the mortality risks of predisease for metabolic syndrome and compare them to those with metabolic syndrome, a modified version of according to ATP III <ref type="bibr" target="#b7">[8,</ref><ref type="bibr" target="#b9">9]</ref>. The modification was necessary because not all risk factors of metabolic syndrome (i.e., HDL-cholesterol and waist circumference) as defined in ATP III were collected at the time of recruitment in 1989. The modified metabolic syndrome in this paper is defined as individuals having three or four of the following conditions: (1) fasting glucose 110 mg/dL or higher (based on ATP III/NCEP 2001) <ref type="bibr" target="#b7">[8]</ref>, (2) systolic blood pressure 130 mmHg or higher (based on ATP III/NCEP 2001) <ref type="bibr" target="#b7">[8]</ref>,</p><p>(3) BMI at 25 kg/m 2 or greater (based on American Association of Clinical Endocrinologists ACE/AACE 2002) <ref type="bibr" target="#b12">[12]</ref> or (4) triglyceride 150 mg/dL or higher (based on ATP III/NCEP 2001) <ref type="bibr" target="#b9">[9]</ref>.</p><p>A reference group was selected from the cohort members, whose blood glucose (&lt;110 mg/dL), systolic blood pressure (&lt;120 mmHg), BMI (&lt;25 kg/m 2 ) and triglyceride (&lt;150 mg/dL) were all within ''normal'' range. Hazard ratios, which were calculated using Cox proportionate hazards model, were used as estimates of relative risk (RR) adjusting for age (5-year age groups), gender and smoking status (non-smokers, former smokers or current smokers). Analyses for all causes (ICD9 codes, 001-998), for CVD (ICD9 codes, 390-459), and for CVD and diabetes combined (CVD + DM: ICD9 codes, 390-459, 250) were performed for the entire cohort and for the non-smoker sub-cohort. The reason for including CVD + DM, in addition to CVD has been previously discussed <ref type="bibr" target="#b23">[23]</ref>, as proportionately more deaths were coded to diabetes in Taiwan than elsewhere       and many of these diabetes deaths would have been subsumed under CVD deaths in other countries. Relative risks were also calculated for each of the four risk factors, comparing their ''pre-disease'' and ''disease'' groups with their respective normal groups. Since smoking is an important CVD risk factor, we analyzed RRs for the outcomes among non-smokers to avoid any confounding from smoking. In addition, mortality risks of ever smoking, adjusted for age, gender, fasting glucose, systolic blood pressure, BMI and triglyceride, were estimated compared to those of pre-disease and disease risk factors.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Results</head><p>Table <ref type="table" target="#tab_1">2</ref> presents the characteristics of the cohort, which consisted of 23,185 men and 12,074 women, classified as ''normal'', ''pre-disease'' or ''disease'', according to the four risk factors, measured by glucose, by blood pressure, by BMI and by triglyceride. The mean age of the cohort at the time of recruitment was 52.4 years for men and 48.0 years for women. They were followed for a medium of 15 years, with more than half a million person-years observed (523,038). Systolic hypertension, measured at initial workup for 140 mmHg or higher, was most prevalent (men 15.6%; women 9.7%), followed by hypertriglycerdemia (men 12.6%; women 4.0%), diabetes (men 5.3%; women 2.1%) and obesity (men 2.0%; women 1.4%) among the four ''diseases'' analyzed. Comparing the group means between ''normal'' and ''pre-disease'' groups, and between ''pre-disease'' and ''disease'' groups, we found persons having ''disease(s)'' to have significantly higher values in each of the risk factors than those having ''pre-diseases'', and the latter in turn had higher values than those being ''normal'' without borderline or elevated risk factors.</p><p>Mortality risks of the four ''pre-disease'' groups and the four ''disease'' groups were compared with their respective ''normal'' groups and expressed as relative risks for all causes, CVD and CVD + DM for the entire cohort and for the nonsmoker sub-cohort (Table <ref type="table" target="#tab_2">3</ref>). For all four ''pre-disease'' groups and for all four ''disease'' groups, RRs were significantly elevated for the entire cohort as well as for the non-smoker sub-cohort in all causes mortality and in CVD + DM mortality. For example, in the ''pre-disease'' category in blood sugar (prediabetes), the RR for CVD + DM was 1.67 (95% CI: 1.3, 2.2) for the entire cohort, and 1.83 (95% CI: 1.3, 2.7) for the non-smoker sub-cohort.</p><p>RRs were calculated for a combination of pre-disease and disease risk factors for metabolic syndrome in Table <ref type="table" target="#tab_3">4</ref>. For those with at least one pre-disease factor constituted 40.2% of the entire cohort while people with disease, 8.8% and with metabolic syndrome, 10.6%. As the number of factors increased, relative mortality risks also increased in a doseresponse manner for all groups regardless of pre-disease or disease risk factors. Pre-disease subjects with two or more risk factors without any ''disease'' had significantly increased mortality risks. For the entire cohort, mortality risk for CVD among subjects with two pre-disease risk factors was 1.41 (95% CI: 1.0, 2.1) and was 2.9 (95% CI: 1.8, 4.7) for those with three or four factors. Among non-smoker sub-cohort, the corresponding risks were 1.71 (95% CI: 1.0, 2.9) and 4.39 (95% CI, 2.3, 8.2), respectively.</p><p>When subjects with the metabolic syndrome were compared with the reference group, RRs for all causes, for CVD, and for CVD + DM were all significant, with RR of 2.03 (95% CI: 1.8, 2.3), 3.56 (95% CI: 2.6, 4.9) and 4.75 (95% CI: 3.5, 6.4), respectively. RRs for subjects with three or four pre-disease factors were slightly lower but, by and large, similar to those with metabolic syndrome. For example, RRs were 1.60 (95% CI: 1.3, 2.0) and 2.03 (95% CI: 1.8, 2.3) for all causes, respectively, and for CVD, 2.90 (95% CI: 1.8, 4.7) and 3.56 (95% CI: 2.6, 4.9), respectively.</p><p>The RRs of the four ''pre-disease'' and ''disease'' factors were graphically shown in Figs. <ref type="figure" target="#fig_4">1 and 2</ref>, respectively, along Fig. <ref type="figure">1</ref> -Comparison of relative risks of mortality from all causes, CVD and ''CVD + DM'' for four ''Pre-disease'' factors within metabolic syndrome, with those from smoking ( * p &lt; 0.05). with those from smoking. The RR of smoking was much larger than those of the four ''pre-disease'' factors in all-cause mortality but comparable in size in CVD and CVD + DM mortality. On the other hand, the RR of smoking was comparable with those of the four ''disease'' factors in all cause mortality, but much smaller in CVD and CVD + DM mortality.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Discussion</head><p>The metabolic syndrome, as traditionally defined, consists of two components: ''disease'' factors and ''pre-disease'' factors <ref type="bibr" target="#b13">[13]</ref>. The increased risks from ''disease'' factors are well known and protocols for their management are widely available. On the other hand, the health impact of ''predisease'', singly or in various combinations, has received relatively little attention <ref type="bibr" target="#b18">[18,</ref><ref type="bibr" target="#b26">26]</ref>. The issue is whether ''predisease'' per se carries any independent risk for CVD or for all cause mortality <ref type="bibr" target="#b21">[21,</ref><ref type="bibr" target="#b22">22]</ref>. We found that the presence of any one of the four ''pre-disease'' factors even in the absence of any coexisting ''disease'', was able to predict subsequent increase in mortality risk in all cause and in CVD. In this study within a period of 15 years, pre-diabetes, pre-hypertension, pre-obesity or borderline hypertriglycerdemia was individually associated with 13-23% and 32-67% elevated risks in all-cause and CVD + DM mortality, respectively. (Fig. <ref type="figure">1</ref>) As expected, we found higher risks among those having more than one ''predisease'', e.g., a 41% increase in mortality from CVD and 25% increase from all causes for having two, and 190% increase from CVD and 60% increase from all causes for having three or four ''pre-disease'' factors. (Table <ref type="table" target="#tab_3">4</ref>) Nevertheless, the significant increase of individual pre-diseases has fully established its importance in predicting higher mortality in subsequent years. Furthermore, clinical assessment or follow up process addressing a single ''pre-disease'' is simple and straightforward. If metabolic syndrome were created to alert physicians in instituting early interventions such as lifestyle changes <ref type="bibr" target="#b13">[13]</ref>, it was inferior to the use of ''pre-disease'' approach for two reasons. First, clinical identification of metabolic syndrome is cumbersome, and nearly impractical in focusing the attention of the patients, particularly in monitoring their progress. Secondly, metabolic syndrome was not as inclusive as the four ''pre-diseases'', because, in this study, prevalence of the pre-disease risk factors (40.2%) was nearly four times larger than the metabolic syndrome (10.6%). Three quarters of those with significantly increased CVD risks would have been missed by applying the metabolic syndrome criteria. That each of the four ''pre-diseases'' has shown independent risks, and not necessarily requiring a combination with ''pre-diseases'' or even with ''diseases'', has both practical and philosophical advantages over the metabolic syndrome, being criticized as being ''polluted with frank diseases''. The ''diseases'' have historically attracted attention of both physicians and patients and the need for their clinical management has never been questioned. Managing ''diseases'' also receive financial reimbursement. The ''prediseases'', on the other hand, if properly or seriously managed, may not be reimbursed by insurance plans. Subjects with ''pre-diseases'' would also wonder why they need to be ''treated'' by their physicians if they do not have ''diseases'' in the first place. It is important that the pre-disease risk factors of metabolic syndrome be recognized accepted clinical as a clinical entity, alerting patients and physicians to focus on lifestyle risk factors.</p><p>The metabolic syndrome emphasizes the clustering of CVD risk factors <ref type="bibr" target="#b11">[11,</ref><ref type="bibr" target="#b13">13]</ref>. In this study, we found similar propensity for the ''pre-diseases'' to cluster among individuals. To some extent, the importance of ''pre-diseases'' has already been recognized and specific term classifying ''pre-disease'' has already been coined <ref type="bibr" target="#b7">[8,</ref><ref type="bibr" target="#b27">[27]</ref><ref type="bibr" target="#b28">[28]</ref><ref type="bibr" target="#b29">[29]</ref>. The increased risks of impaired  fasting glucose, previously defined as 110-125 mg/dL, have been reported <ref type="bibr" target="#b23">[23]</ref>. We used the old definition of impaired fasting glucose, instead of the newer one extending the range to 100-125 mg/dL <ref type="bibr" target="#b27">[27]</ref><ref type="bibr" target="#b28">[28]</ref><ref type="bibr" target="#b29">[29]</ref><ref type="bibr" target="#b30">[30]</ref>, because the increased risks were limited to the group with 110-125 mg/dL in our cohort <ref type="bibr" target="#b23">[23]</ref>. ''Pre-hypertension'' was defined by The Seventh Report of the Joint National Committee on Prevention, Detection, Evaluation, and Treatment of High Blood Pressure (JNC 7) as those with systolic blood pressure at 120-139 mmHg or diastolic blood pressure at 80-89 mmHg, ''requiring health-promoting lifestyle modifications for the prevention of CVD'' <ref type="bibr" target="#b31">[31]</ref>. This definition of pre-hypertension was slightly different from the one in the metabolic syndrome ATP III where a cut-point at systolic blood pressure at 130-139 mmHg was used <ref type="bibr" target="#b7">[8]</ref>. For simplicity sake, only the systolic hypertension was used in this study and the diastolic part of ''pre-hypertension'' was left out. We were also encouraged by the remark in JNC 7 that ''for persons over age 50, systolic blood pressure is more important than diastolic as CVD risk factor''. ''Pre-obesity'' is normally recognized as ''overweight'' <ref type="bibr" target="#b32">[32]</ref>. As for the borderline hypertriglyceridemia it has been defined in ATP III <ref type="bibr" target="#b7">[8]</ref> by the National Cholesterol Education Program (NCEP) in the case of triglyceride as 150-199 mg/dL <ref type="bibr" target="#b9">[9]</ref>.</p><p>In all these instances, the adverse health effects of each ''pre-disease'' were recognized in the respective write-ups. Recommendations on lifestyle changes were also made for each single ''pre-disease'' factor <ref type="bibr" target="#b9">[9,</ref><ref type="bibr" target="#b31">[31]</ref><ref type="bibr" target="#b32">[32]</ref><ref type="bibr" target="#b33">[33]</ref>. For example, JNC 7 states, ''pre-hypertension is not a disease category, (but) rather a designation chosen to identify individuals at high risk of developing hypertension, so that both patients and clinicians are alerted to this risk and encouraged to intervene and prevent or delay the disease from developing. Individuals who are pre-hypertensive are not candidates for drug therapy and should be firmly and unambiguously advised to practice lifestyle modification . . ..''. What has been missing, nevertheless, is the need to address these ''pre-disease'' statuses in a combined way, because ''pre-diseases'' do cluster within an individual and because lifestyle changes proposed for different ''pre-disease'' factors are nearly identical. In each of these instances, it was left to the discretion of the physicians to act as to its relevance and their own conviction of the different risks implicated for the particular patient. The environment for the physicians to act was not that favorable, however. Treating a non-disease entity requires special effort <ref type="bibr" target="#b15">[15]</ref>. This is particularly so in the absence of financial payment from insurance providers, where the enthusiasm of the patients to comply with clinical management is not expected to be high.</p><p>Smoking is an important and powerful risk factor for all cause and for CVD mortality, with its size of relative risks similar to those from four ''pre-disease'' factors, and could be included as a fifth risk factor in the consideration of ''predisease'' <ref type="bibr" target="#b24">[24,</ref><ref type="bibr" target="#b34">34,</ref><ref type="bibr" target="#b35">35]</ref>. These five risk factors share several common characteristics: they have similar magnitude of individual risks, the risks are additive, they tend to cluster among patients, specific treatment is available and lifestyle change is their common solution. Realizing the strong contribution of smoking to CVD mortality, we adjusted for smoking when we presented the four ''pre-disease'' results for the entire cohort on the one hand, and by presenting results on non-smoker sub-cohort as a separate group on the other hand.</p><p>The higher risks for pre-disease risk factors found in nonsmoker sub-cohort than in the entire cohort reflected the attenuation of relative risks when smokers were included in the comparison group in the entire cohort.</p><p>This study has its own strengths and limitations. The sample size and the follow up time are one of the largest and longest among reported studies in this area. On the other hand, the cohort came from white collar workers who represented a group of above average socio-economic status (SES) and may not be representative of the general population. However, since risk comparison was based on internal comparison with persons with similar SES, the resulting relative risk can be a reasonable estimate for those in the general population. Similar studies in Asian and non-Asian populations will be needed to validate the characteristics of the pre-disease risk factors of metabolic syndrome found in this study. Another limitation was that analyses in this study were based on one measurement taken during the initial recruitment examination. The value from conducting only one single test might be limited due to its lack of replication and hence its unstable nature. Furthermore, the initial value could change in later years. However, our data quality was well controlled in that the examinations of the entire cohort were conducted in one single clinic and blood samples were analyzed in the same facility by the similarly trained staffs under one protocol. Changes of risk factors throughout one's later years are normally expected, but, despite such a complex reality, the value of this outcome study demonstrated the power of predictability for the mortality in the next 15 years, by relying on just one single examination.</p><p>In summary, this study identified and highlighted the independent mortality effect of each of the four ''pre-disease'' risk factors considered within metabolic syndrome. Like metabolic syndrome, ''Pre-disease'' is a major risk factor for all cause cardiovascular mortality, but unlike metabolic syndrome, the definition or clinical follow up of ''Pre-disease'' is simple and straightforward. Recognizing each ''pre-disease'' as a clinical entity involving significantly increased mortality can alert and justify early intervention through changing lifestyle and biologic risk factors. Along with smoking, these pre-disease factors could underscore the importance of lifestyle changes in the prevention of CVD mortality, a major goal intended from the metabolic syndrome.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head></head><label></label><figDesc>d i a b e t e s r e s e a r c h a n d c l i n i c a l p r a c t i c e 8 2 ( 2 0 0 8 ) 1 4 8 -1 5 6</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>d i a b</head><label></label><figDesc>e t e s r e s e a r c h a n d c l i n i c a l p r a c t i c e 8 2 ( 2 0 0 8 ) 1 4 8 -1 5 6</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>d i a b e t e s r e s e a r c h a n d c l i n i c a l p r a c t i c e 8</head><label>8</label><figDesc></figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head></head><label></label><figDesc>d i a b e t e s r e s e a r c h a n d c l i n i c a l p r a c t i c e 8 2 ( 2 0 0 8 ) 1 4 8 -1 5 6</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Fig. 2 -</head><label>2</label><figDesc>Fig. 2 -Comparison of relative risks of mortality from all causes, CVD and ''CVD + DM'' for four ''Disease'' factors, with those from smoking ( * p &lt; 0.05).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head></head><label></label><figDesc>d i a b e t e s r e s e a r c h a n d c l i n i c a l p r a c t i c e 8 2 ( 2 0 0 8 ) 1 4 8 -1 5 6</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 -</head><label>1</label><figDesc>Reference ranges for metabolic syndrome risk factors</figDesc><table><row><cell>Risk factor</cell><cell>Normal</cell><cell>Pre-disease</cell><cell>Disease</cell><cell>Metabolic</cell><cell>Source</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>syndrome</cell><cell></cell></row><row><cell>Glucose (mg/dl)</cell><cell>75-109</cell><cell>110-125 (pre-diabetes or</cell><cell>!126 (diabetes)</cell><cell>!110</cell><cell>NCEP ATP III 2001</cell></row><row><cell></cell><cell></cell><cell>impaired fasting glucose)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Systolic blood pressure</cell><cell>80-119</cell><cell>120-139 (pre-hypertension)</cell><cell>!140 (hypertension)</cell><cell>!130</cell><cell>NCEP ATP III 2001</cell></row><row><cell>(mmHg)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Body Mass Index (kg/m 2 )</cell><cell>18.5-24.9</cell><cell>25-29.9 (pre-obesity or</cell><cell>!30 (obesity)</cell><cell>!25</cell><cell>ACE/AACE 2002</cell></row><row><cell></cell><cell></cell><cell>overweight)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Triglyceride (mg/dl)</cell><cell>&lt;150</cell><cell>150-199 (borderline</cell><cell>!200 (hypertriglyceridemia)</cell><cell>!150</cell><cell>NCEP ATP III 2001</cell></row><row><cell></cell><cell></cell><cell>hypertriglyceridemia)</cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 -</head><label>2</label><figDesc>Characteristics of the cohort (mean W standard deviation), classified by normal, ''pre-disease'' and ''disease'' for glucose, systolic blood pressure, body mass index and triglyceride</figDesc><table><row><cell></cell><cell>Total</cell><cell cols="2">Glucose (mg/dl)</cell><cell></cell><cell cols="3">Systolic blood pressure (mmHg)</cell><cell cols="3">Body Mass Index (kg/m 2 )</cell><cell></cell><cell cols="2">Triglyceride (mg/dl)</cell></row><row><cell></cell><cell></cell><cell>Normal</cell><cell>Pre-diabetes</cell><cell>Diabetes</cell><cell>Normal</cell><cell>Pre-</cell><cell>Hypertension</cell><cell>Normal</cell><cell>Overweight</cell><cell>Obesity</cell><cell>Normal</cell><cell>Borderline</cell><cell>Hypertriglyceridemia</cell></row><row><cell></cell><cell></cell><cell>75-109</cell><cell>110-125</cell><cell>3126</cell><cell>80-119</cell><cell>hypertension</cell><cell>3140</cell><cell>18.5-24.9</cell><cell>25-29</cell><cell>330</cell><cell>&lt;150</cell><cell>hypertriglyceridemia</cell><cell>3200</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>120-139</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>150-199</cell><cell></cell></row><row><cell>Males</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Number of</cell><cell>23185 (100)</cell><cell>20019 (86.3)</cell><cell>1928 (8.3)</cell><cell>1238 (5.3)</cell><cell>11005 (47.5)</cell><cell>8565 (36.9)</cell><cell>3615 (15.6)</cell><cell>15057 (64.9)</cell><cell>7654 (33.0)</cell><cell>474 (2.0)</cell><cell>17231 (74.3)</cell><cell>3044 (13.1)</cell><cell>2910 (12.6)</cell></row><row><cell>subjects (%)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Person-years</cell><cell>342225</cell><cell>296602</cell><cell>28266</cell><cell>17357</cell><cell>163637</cell><cell>126388</cell><cell>52199</cell><cell>223030</cell><cell>112316</cell><cell>6880</cell><cell>255034</cell><cell>44678</cell><cell>42514</cell></row><row><cell>observed</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Age (years)</cell><cell>52.4 AE 8.0</cell><cell>51.9 AE 8.0 *</cell><cell>54.4 AE 7.8</cell><cell>56.6 AE 7.6 *</cell><cell>50.4 AE 7.5 *</cell><cell>53.2 AE 8.0</cell><cell>56.7 AE 7.8 *</cell><cell>52.0 AE 8.0 *</cell><cell>53.1 AE 7.9</cell><cell>53.6 AE 8.1</cell><cell>52.4 AE 8.1</cell><cell>52.6 AE 8.0</cell><cell>52.3 AE 7.7</cell></row><row><cell>Glucose (mg/dl)</cell><cell>100.7 AE 21.9</cell><cell>94.9 AE 7.1 *</cell><cell>115.2 AE 4.4</cell><cell>170.3 AE 49.3 *</cell><cell>98.0 AE 18.8 *</cell><cell>101.6 AE 21.6</cell><cell>106.7 AE 28.9 *</cell><cell>99.1 AE 20.8 *</cell><cell cols="2">103.2 AE 23.0 110.9 AE 29.4 *</cell><cell>98.8 AE 18.2 *</cell><cell>103.4 AE 23.5</cell><cell>109.0 AE 34.3 *</cell></row><row><cell cols="11">Systolic blood pressure (mmHg) 124.2 AE 17.2 133.5 AE 19.3 Females 119.9 AE 17.1 118.8 AE 16.7 * 126.1 AE 17.7 128.0 AE 18.4 * 105.9 AE 7.0 * 125.4 AE 5.4 149.3 AE 11.1 * 117.3 AE 16.3 *</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Number of</cell><cell>12074 (100)</cell><cell>11309 (93.7)</cell><cell>511 (4.2)</cell><cell>254 (2.1)</cell><cell>7594 (62.9)</cell><cell>3312 (27.4)</cell><cell>1168 (9.7)</cell><cell>9987 (82.7)</cell><cell>1916 (15.9)</cell><cell>171 (1.4)</cell><cell>10868 (90.0)</cell><cell>723 (6.0)</cell><cell>483 (4.0)</cell></row><row><cell>subjects (%)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Person-years</cell><cell>180813</cell><cell>169503</cell><cell>7562</cell><cell>3748</cell><cell>114084</cell><cell>49366</cell><cell>17363</cell><cell>149622</cell><cell>28677</cell><cell>2514</cell><cell>162952</cell><cell>10718</cell><cell>7143</cell></row><row><cell>observed</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="8">Age (years) 47.7 AE 6.2 Diastolic blood 48.0 AE 6.4 pressure (mmHg) 73.1 AE 10.1 72.8 AE 9.9 * 89.5 AE 9.8 Total-cholesterol 77.2 AE 10.9 79.5 AE 13.0 * 68.1 AE 6.7 * 78.8 AE 7.2 195.7 AE 35.3 194.6 AE 34.8 * 211.0 AE 35.9 214.7 AE 42.2 191.8 AE 33.9 * 200.6 AE 36.0 207.1 AE 37.3 *</cell><cell>194.3 AE 35.1 *</cell><cell cols="2">202.3 AE 35.3 204.2 AE 36.7</cell><cell>193.2 AE 33.8 *</cell><cell>216.3 AE 38.9</cell><cell>221.7 AE 40.8 *</cell></row><row><cell>(mg/dl)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Body Mass</cell><cell>22.8 AE 2.6</cell><cell>22.7 AE 2.5 *</cell><cell>24.4 AE 3.2</cell><cell>24.8 AE 3.1</cell><cell>22.3 AE 2.3 *</cell><cell>23.4 AE 2.8</cell><cell>24.2 AE 3.0 *</cell><cell>21.9 AE 1.6 *</cell><cell>26.6 AE 1.3</cell><cell>31.9 AE 2.3 *</cell><cell>22.6 AE 2.5 *</cell><cell>24.4 AE 2.8</cell><cell>24.7 AE 3.0</cell></row><row><cell>Index (kg/m 2 )</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Triglyceride</cell><cell>90.7 AE 55.1</cell><cell cols="3">87.6 AE 50.5 * 124.7 AE 68.5 160.5 AE 117.3 *</cell><cell>81.7 AE 44.3 *</cell><cell>101.5 AE 63.4</cell><cell>118.8 AE 74.9 *</cell><cell>84.8 AE 49.6 *</cell><cell cols="2">117.3 AE 69.1 138.0 AE 74.5 *</cell><cell>77.0 AE 27.3 *</cell><cell>170.2 AE 13.8</cell><cell>279.9 AE 97.2 *</cell></row><row><cell>(mg/dl)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table><note>* 118.5 AE 16.6 * 123.0 AE 17.6 124.9 AE 17.8 * Diastolic blood pressure (mmHg) 77.7 AE 10.4 77.2 AE 10.4 * 80.8 AE 10.5 80.1 AE 10.7 70.9 AE 6.8 * 81.0 AE 7.4 90.7 AE 9.6 * 75.9 AE 9.9 * 80.6 AE 10.4 86.4 AE 11.5 * 76.8 AE 10.2 * 79.8 AE 10.5 81.0 AE 10.8 * Total-cholesterol (mg/dl) 196.7 AE 34.2 195.8 AE 33.8 * 202.4 AE 35.0 202.0 AE 38.1 194.7 AE 33.8 * 197.6 AE 33.9 200.5 AE 35.7 * 196.3 AE 33.9 * 197.8 AE 34.8 198.0 AE 33.4 192.4 AE 32.6 * 205.7 AE 34.0 212.3 AE 37.3 * Body Mass Index (kg/m 2 ) 24.2 AE 2.6 24.0 AE 2.5 * 25.1 AE 2.6 25.2 AE 2.9 23.5 AE 2.4 * 24.5 AE 2.5 25.2 AE 2.7 * 22.7 AE 1.6 * 26.6 AE 1.2 31.5 AE 1.4 * 23.8 AE 2.5 * 25.1 AE 2.5 25.4 AE 2.5 * Triglyceride (mg/dl) 127.1 AE 80.4 121.8 AE 73.9 * 151.6 AE 93.5 173.3 AE 125.2 * 115.9 AE 71.0 * 132.9 AE 81.8 147.2 AE 96.7 * 114.8 AE 70.7 * 148.1 AE 90.7 177.2 AE 99.0 * 91.9 AE 28.2 * 171.2 AE 14.3 288.8 AE 105.2 * * 51.5 AE 7.1 53.9 AE 7.3 * 46.7 AE 5.5 * 49.3 AE 6.7 52.9 AE 7.4 * 47.5 AE 6.1 * 50.3 AE 7.1 50.8 AE 7.6 47.5 AE 6.1 * 51.8 AE 7.3 52.8 AE 7.4 * Glucose (mg/dl) 95.4 AE 15.5 92.8 AE 7.0 * 115.0 AE 4.3 172.6 AE 47.2 * 93.4 AE 11.4 * 97.6 AE 18.8 102.0 AE 23.8 * 94.3 AE 13.9 * 100.0 AE 20.4 106.3 AE 28.0 * 94.3 AE 12.8 * 103.5 AE 27.5 107.7 AE 31.3 * Systolic blood pressure (mmHg) 113.8 AE 17.0 113.1 AE 16.4 * 122.9 AE 19.6 129.6 AE 23.4 * 103.5 AE 7.8 * 124.8 AE 5.3 150.1 AE 11.9 * 112.2 AE 16.1 * 121.3 AE 18.3 127.7 AE 20.9 * 112.7 AE 16.4 * 122.6 AE 18.1 125.2 AE 19.8 * * 72.1 AE 9.7 * 77.7 AE 10.7 80.8 AE 11.6 * 72.5 AE 9.9 * 77.6 AE 10.3 79.6 AE 10.8 * * p &lt; 0.05; Comparing the group means between ''normal'' and ''pre-disease'' groups, and between ''pre-disease'' and ''disease'' groups.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3 -</head><label>3</label><figDesc>Relative mortality risks for ''pre-disease'' and ''disease'' in glucose, systolic blood pressure, BMI or triglyceride</figDesc><table><row><cell>Entire cohort</cell></row></table><note>* (1.3,2.6) a N: number of subjects. b n: number of deceased subjects. c RR: adjusted by gender, age (5-year age groups) and smoking status (non-smoker, ex-smoker, current smoker). d RR: adjusted by gender and age (5-year age groups). * p &lt; 0.05.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 4 -</head><label>4</label><figDesc>Relative mortality risks for incremental number of risk factors for ''pre-disease'', ''disease'', and ''metabolic syndrome''</figDesc><table><row><cell>Entire cohort</cell></row></table><note>a N: number of subjects. b n: number of deceased subjects. c RR: adjusted by gender, age (5-year age groups) and smoking status (non-smoker, ex-smoker, current smoker). d RR: adjusted by gender and age (5-year age groups). * p &lt; 0.05.</note></figure>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conflict of interest</head><p>There are no conflicts of interest. r e f e r e n c e s</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">The metabolic syndrome</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Eckel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Grundy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">Z</forename><surname>Zimmet</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">365</biblScope>
+			<biblScope unit="page" from="1415" to="1428" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Prevalence of the metabolic syndrome among US adults: findings from the Third National Health and Nutrition Examination Survey</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Ford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">H</forename><surname>Giles</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">H</forename><surname>Dietz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">287</biblScope>
+			<biblScope unit="page" from="356" to="359" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">An exploratory analysis of its prediction of long-term cardiovascular outcomes</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Girman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Dekker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Rhodes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Nijpels</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D A</forename><surname>Stehouwer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Bouter</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am. J. Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">162</biblScope>
+			<biblScope unit="page" from="438" to="447" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Prevalence of the metabolic syndrome and overweight among adults in China</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Gu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Reynolds</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Duan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Robert</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">365</biblScope>
+			<biblScope unit="page" from="1398" to="1405" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Risk for all-cause mortality, cardiovascular disease, and diabetes associated with the metabolic syndrome</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Ford</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diab. Care</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="1769" to="1778" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Metabolic syndrome vs Framingham Risk Score for prediction of coronary heart disease, stroke, and type 2 diabetes mellitus</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">G</forename><surname>Wannamethee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">G</forename><surname>Shaper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Lennon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Morris</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch. Intern. Med</title>
+		<imprint>
+			<biblScope unit="volume">165</biblScope>
+			<biblScope unit="page" from="2644" to="2650" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Report of a WHO consultation: definition of metabolic syndrome in definition, diagnosis and classification of diabetes mellitus and its complications. I: Diagnosis and classification of diabetes mellitus, Department of Noncommunicable Disease Surveillance</title>
+	</analytic>
+	<monogr>
+		<title level="j">World Health Organization</title>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+	</analytic>
+	<monogr>
+		<title level="m">Evaluation, and treatment of High Blood Cholesterol in Adults, Executive summary of the Third Report of the National Cholesterol Program (NCEP)</title>
+				<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+	</analytic>
+	<monogr>
+		<title level="m">Treatment of High Blood Cholesterol in Adults (Adult Treatment Pane III)</title>
+				<imprint>
+			<date type="published" when="2001">2001</date>
+			<biblScope unit="volume">285</biblScope>
+			<biblScope unit="page" from="2486" to="2497" />
+		</imprint>
+	</monogr>
+	<note>JAMA</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+	</analytic>
+	<monogr>
+		<title level="m">Treatment of High Blood Cholesterol in Adults (Adult Treatment Panel III) final report</title>
+				<imprint>
+			<date type="published" when="2002">2002</date>
+			<biblScope unit="volume">106</biblScope>
+			<biblScope unit="page" from="3143" to="3421" />
+		</imprint>
+	</monogr>
+	<note>Circulation</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Metabolic syndrome-a new world wide definition. A consensus statement from the International Diabetes Federation</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">G</forename><surname>Alberti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Zimmet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Shaw</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diab. Med</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="469" to="480" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Diagnosis and management of the metabolic syndrome: an American Heart Association/ National Heart, Lung, and Blood Institute scientific statement</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Grundy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">I</forename><surname>Cleeman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Daniels</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Donato</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Eckel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Franklin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">112</biblScope>
+			<biblScope unit="page" from="2735" to="2752" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">American College of Endocrinology position statement on the insulin resistance syndrome</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Einhorn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Reaven</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Cobin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Ford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">P</forename><surname>Ganda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Handelsman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Endocr. Pract</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="237" to="252" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">The metabolic syndrome: time for a critical appraisal</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kahn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Buse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Ferrannini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Stern</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diab. Care</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="2289" to="2304" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Clinical use of the metabolic syndrome: why the confusion?</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Blaha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin. Diab</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="125" to="131" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Metabolic syndrome underrated or underdiagnosed?</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Reynolds</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Muntner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Fonseca</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diab. Care</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="1831" to="1832" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Rarer than a blue moon: the use of a diagnostic code for the metabolic syndrome in the</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Ford</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Care</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="1808" to="1809" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Does the metabolic syndrome improve identification of individuals at risk of type 2 diabetes and/or cardiovascular disease?</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Stern</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename><surname>Hunt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Haffner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Gonzalez-Villalpando</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diab. Care</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="2676" to="2681" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">The metabolic syndrome (emperor) wears no clothes</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kahn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diab. Care</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="1693" to="1696" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Risk associated with the metabolic syndrome versus the sum of its individual components</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Sundstrom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Zethelius</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Vallhageen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Berne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Riserus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Lind</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diab. Care</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="1673" to="1674" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">The metabolic syndrome and its components and the longterm risk of death in patients with coronary heart disease</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Nigam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Bourassa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Fortier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Guertin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tardif</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am. Heart J</title>
+		<imprint>
+			<biblScope unit="volume">151</biblScope>
+			<biblScope unit="page" from="514" to="521" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">The metabolic syndrome: time for a critical appraisal: joint statement from the American Diabetes Association and the European Association for the Study of Diabetes response to Citrome et al</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kahn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Buse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Ferrannini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Stern</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">;</forename><surname>Giugliano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Cheta</forename><surname>Esposito</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Psaty</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diab. Care</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="177" to="178" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Relative importance of borderline and elevated levels of coronary heart disease risk factors</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Vasan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Sullivan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">W F</forename><surname>Wilson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">T</forename><surname>Sempos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Sundstrom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">W B</forename><surname>Kannel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann. Intern. Med</title>
+		<imprint>
+			<biblScope unit="volume">142</biblScope>
+			<biblScope unit="page" from="393" to="402" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Increased mortality risks of Pre-diabetes (Impaired Fasting Glucose</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Wen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">Y</forename><surname>Cheng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Tsai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">L</forename><surname>Hsu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Care</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="2756" to="2761" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">The mortality risks of smokers in Taiwan Part I: Cause specific mortality</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Wen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Tsai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">Y</forename><surname>Cheng</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Prev. Med</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page" from="528" to="535" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Excess injury mortality among smokers-a neglected tobacco hazard</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Wen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Tsai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">Y</forename><surname>Cheng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">S I</forename><surname>Chung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">T</forename><surname>Chan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Chen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Tob. Control</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="28" to="32" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Does the metabolic syndrome exist?</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Grundy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diab. Care</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="1689" to="1692" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">The Expert Committee on the Diagnosis and Classification of Diabetes Mellitus: Follow-up report on the diagnosis of diabetes mellitus</title>
+	</analytic>
+	<monogr>
+		<title level="j">Diab. Care</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="3160" to="3167" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Lowering the criterion for impaired fasting glucose will not provide clinical benefit</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Davidson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">B</forename><surname>Landsman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Alexander</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diab. Care</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="3329" to="3330" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Lowering the criterion for impaired fasting glucose is in order</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Genuth</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diab. Care</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="3331" to="3332" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Lowering the cut point for impaired fasting glucose: Where is the evidence? Where is the logic?</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Schriger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Lorber</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diab. Care</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="592" to="595" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">V</forename><surname>Chobanian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">L</forename><surname>Bakris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">R</forename><surname>Black</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">C</forename><surname>Cushman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Green</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Izzo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Seventh Report of the Joint National Committee on Prevention, Detection, Evaluation, and Treatment of High Blood Pressure</title>
+				<imprint>
+			<date type="published" when="2003">2003</date>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="1206" to="1252" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<title level="m" type="main">Clinical Guidelines on the Identification, Evaluation, and Treatment of Overweight and Obesity in Adults: The Evidence Report by NHLBI/NIH: National Institutes of Health</title>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">The Expert Committee on the Diagnosis and Classification of Diabetes Mellitus: Report of the Expert Committee on the Diagnosis and Classification of Diabetes Mellitus</title>
+	</analytic>
+	<monogr>
+		<title level="j">Diab. Care</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="S5" to="S20" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">The metabolic syndrome as a link between smoking and cardiovascular disease</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Dzien</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Dzien-Bischinger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Hoppichler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Lechleitner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diab. Obes. Metab</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="127" to="132" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Association between cigarette smoking and metabolic syndrome The Korea National Health and Nutrition Examination Survey</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">W</forename><surname>Oh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">S</forename><surname>Yoon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">K</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diab. Care</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="2064" to="2066" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

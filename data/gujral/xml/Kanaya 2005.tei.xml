@@ -1,0 +1,835 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Predicting the Development of Diabetes in Older Adults The derivation and validation of a prediction rule</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><roleName>MD</roleName><forename type="first">Alka</forename><forename type="middle">M</forename><surname>Kanaya</surname></persName>
+							<email>alkak@itsa.ucsf.edu</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Medicine and Epidemiology and Biostatics</orgName>
+								<orgName type="institution">University of California</orgName>
+								<address>
+									<settlement>San Francisco</settlement>
+									<region>California</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MS</roleName><forename type="first">Christina</forename><forename type="middle">L</forename><surname>Wassel Fyr</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Medicine and Epidemiology and Biostatics</orgName>
+								<orgName type="institution">University of California</orgName>
+								<address>
+									<settlement>San Francisco</settlement>
+									<region>California</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>PHD</roleName><forename type="first">Nathalie</forename><surname>De Rekeneire</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution" key="instit1">National Institute on Aging</orgName>
+								<orgName type="institution" key="instit2">National Institutes of Health</orgName>
+								<address>
+									<settlement>Bethesda</settlement>
+									<region>Maryland</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Ronald</forename><forename type="middle">I</forename><surname>Shorr</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Depart-ment of Preventive Medicine</orgName>
+								<orgName type="institution">University of Tennessee</orgName>
+								<address>
+									<settlement>Memphis</settlement>
+									<region>Tennessee</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>PHD</roleName><forename type="first">Ann</forename><forename type="middle">V</forename><surname>Schwartz</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Medicine and Epidemiology and Biostatics</orgName>
+								<orgName type="institution">University of California</orgName>
+								<address>
+									<settlement>San Francisco</settlement>
+									<region>California</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>PHD</roleName><forename type="first">Bret</forename><forename type="middle">H</forename><surname>Goodpaster</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Epidemi-ology</orgName>
+								<orgName type="institution">University of Pittsburgh</orgName>
+								<address>
+									<settlement>Pittsburgh</settlement>
+									<region>Pennsylvania</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MD, MPH</roleName><forename type="first">Anne</forename><forename type="middle">B</forename><surname>Newman</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Epidemi-ology</orgName>
+								<orgName type="institution">University of Pittsburgh</orgName>
+								<address>
+									<settlement>Pittsburgh</settlement>
+									<region>Pennsylvania</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Tamara</forename><surname>Harris</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution" key="instit1">National Institute on Aging</orgName>
+								<orgName type="institution" key="instit2">National Institutes of Health</orgName>
+								<address>
+									<settlement>Bethesda</settlement>
+									<region>Maryland</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Elizabeth</forename><surname>Barrett-Connor</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department">Department of Family and Preventive Medicine</orgName>
+								<orgName type="institution">University of California</orgName>
+								<address>
+									<settlement>San Diego</settlement>
+									<region>California</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">•</forename><surname>• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Divisadero</forename><surname>St</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff5">
+								<address>
+									<addrLine>Suite 600</addrLine>
+									<postCode>94115</postCode>
+									<settlement>San Francisco</settlement>
+									<region>CA</region>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Predicting the Development of Diabetes in Older Adults The derivation and validation of a prediction rule</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">1942E78B64ADF19CE5550B3F8F13FBEF</idno>
+					<note type="submission">Received for publication 22 June 2004 and accepted in revised form 27 October 2004.</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.1" ident="GROBID" when="2022-07-19T22:44+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>FPG, fasting plasma glucose</term>
+					<term>Health ABC, Health, Aging and Body Composition</term>
+					<term>IFG, impaired fasting glucose</term>
+					<term>IGT, impaired glucose tolerance</term>
+					<term>PCPG, postchallenge plasma glucose</term>
+					<term>RBS, Rancho Bernardo Study</term>
+					<term>ROC, receiver operating characteristic</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>OBJECTIVE -To create a simple prediction rule that could perform as well as the 2-h postchallenge plasma glucose (PCPG) test to predict those at risk for diabetes. We created a prediction rule in one sample and prospectively validated it for incident diabetes in a separate cohort.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESEARCH DESIGN AND METHODS</head><p>-A cross-sectional analysis with data from the Rancho Bernardo Study (age 67 Ϯ 11 years) to derive a rule predicting abnormal PCPG Ն140 mg/dl, using demographic, clinical, and laboratory data of nondiabetic participants with fasting plasma glucose (FPG) Ͻ126 mg/dl. Data from the Health, Aging and Body Composition study (age 74 Ϯ 3 years) were used to prospectively validate this rule for incident diabetes and compare it with the predictive ability of the PCPG test.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head><p>-Of 1,549 RBS participants, 514 (33%) had PCPG Ն140 mg/dl. Female sex, age, triglycerides, and FPG were most significantly associated with abnormal PCPG. Based on standardized ␤-coefficients, we allotted 1 point for female sex, triglycerides Ն150 mg/dl, or FPG 95-104 mg/dl. Age Ն70 years or FPG 105-115 mg/dl were given 2 points, and FPG 116 -125 mg/dl received 3 points. In the validation cohort, this simple prediction rule was as good as the 2-h PCPG test for predicting incident diabetes (C-statistic: 0.71 for both).</p><p>CONCLUSIONS -Advanced age, female sex, FPG, and triglycerides were able to predict adults at risk for diabetes equally well as the 2-h PCPG test. Using this rule, clinicians may better identify older persons who should receive intensive lifestyle intervention to prevent type 2 diabetes.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>I</head><p>mpaired glucose tolerance (IGT) was first described in 1979 <ref type="bibr" target="#b0">(1)</ref> as a method to identify a category of individuals at increased risk of developing type 2 diabe-tes and cardiovascular disease. An individual is classified as having IGT if the glucose level 2 h after ingesting a 75-g oral glucose solution exceeds 140 mg/dl but is less than the diagnostic threshold for diabetes, 200 mg/dl <ref type="bibr" target="#b1">(2)</ref>. White adults with IGT have an estimated annual rate of deterioration to diabetes between 1 and 10% (3), while rates in U.S. ethnic minority populations are higher <ref type="bibr" target="#b3">(4)</ref>. Moreover, recent randomized trials have demonstrated that lifestyle interventions are effective in delaying or preventing the onset of type 2 diabetes among subjects with IGT <ref type="bibr" target="#b4">(5,</ref><ref type="bibr" target="#b5">6)</ref>.</p><p>Targeting individuals at highest risk of developing diabetes is important, but the 2-h PCPG test is cumbersome and inconvenient <ref type="bibr" target="#b6">(7)</ref>, and other methods for identifying individuals with IGT are needed. Investigators from the San Antonio study evaluated clinical and demographic variables with and without the PCPG test to detect incident diabetes <ref type="bibr" target="#b7">(8)</ref>. They developed a regression equation with eight laboratory and clinical variables that outperformed the ability of the PCPG test to predict diabetes. However, computer software is required to implement this rule, making it less practical.</p><p>We aimed to create and validate a clinical prediction rule that would be simple to use, could identify individuals with abnormal glucose tolerance, and could predict incident diabetes. We used clinical, demographic, and laboratory data from older white adults in the Rancho Bernardo Study (RBS) to develop a simple prediction rule that could identify participants with abnormal glucose tolerance. We prospectively validated this prediction rule using data from the Health, Aging and Body Composition (Health ABC) study, a separate study of older, wellfunctioning, black and white adults who were followed for incident diabetes for a mean 5 years.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESEARCH DESIGN AND METHODS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The RBS</head><p>The derivation sample consisted of subjects enrolled in the RBS who participated in a clinical research evaluation during 1984 -1987. The RBS is a populationbased study of white, middle or uppermiddle class, community-dwelling adults in a southern California suburb. Participants with a diagnosis of diabetes or those with FPG Ն126 mg/dl were excluded. The final derivation sample population consisted of 1,549 men and women.</p><p>Demographic information (age, sex, and education), health-related behaviors (smoking and alcohol use), family history, and medication use were assessed. Weight and height were measured using standard protocols, and BMI was calculated (kg/m 2 ). Waist circumference was measured with a flexible tape measure at the level of minimum abdominal circumference. Two resting systolic and diastolic blood pressure measurements were taken on each subject using a mercury sphygmomanometer; the mean blood pressure was used for analyses.</p><p>Morning venous blood after a 12-h fast and 2 h after a 75-g oral glucose load were performed. Plasma glucose was measured using a glucose oxidase method. HbA 1c was measured using highperformance liquid chromotography. Fasting cholesterol and triglycerides were measured by enzymatic methods with an ABA-200 biochromatic analyzer (Abbott, North Chicago, IL); HDL was assayed by precipitation, and LDL was calculated using the Friedewald formula</p><p>The Health ABC study Data collected from Health ABC study participants were used to test the prediction rule developed in the RBS. Health ABC is a prospective cohort study of 3,075 community-dwelling men and women aged 70 -79 years recruited at two clinical centers in Memphis, Tennessee, and Pittsburgh, Pennsylvania. To be eligible, participants had to report no difficulty walking a quarter mile or up a flight of stairs. For our analyses, we used data gathered from 2,503 <ref type="bibr">(</ref> Incident diabetes was defined by an algorithm using a physician diagnosis of diabetes in the past year, use of a hypoglycemic drug, or a FPG Ն126 mg/dl at the year 2, 4, or 6 examination. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analysis</head><p>Multivariable logistic regression models were constructed to examine which variables were most associated with an abnormal 2-h PCPG test result (Ն140 mg/dl) in the RBS. Model entry criteria were P Ͻ 0.15. Accepted risk levels were used to categorize most variables (e.g., BMI Ͻ25.0, 25.0 -29.9, Ն30.0 kg/m 2 ; LDL Ͻ100 vs. Ն100 mg/dl; systolic blood pressure Ͻ140 vs. Ն140 mmHg). For other continuous variables such as age, waist circumference, and fasting glucose, recursive partitioning methods were used to select categories that optimized the data selection. Backwards elimination (P Ͻ 0.05 to retain) was used to select the final set of risk factors and checked for interactions between sex and age with other risk factors and found none significant at P Ͻ 0.05. A clinical scoring system was created by assigning points to each risk factor by dividing the ␤-coefficient of each variable by 0.6 and rounding to the nearest integer. A risk score was assigned to each subject by adding up the points for each risk factor present. Sensitivity, specificity, and likelihood ratio for each risk score was calculated to predict those with abnormal glucose tolerance. We also calculated the area under the receiver operating characteristic (ROC) curves for the final multivariable model built with continuous or categorical variables and the simple scoring system.</p><p>The prediction model and the scoring system were validated using data from the Health ABC study by examining the ability of the rule to predict abnormal glucose tolerance at the baseline Health ABC visit and to predict incident diabetes over 5 years of follow-up. By using a separate cohort for validation, we tested the accuracy of the model and its geographic, racial, and methodologic transportability <ref type="bibr" target="#b9">(10)</ref>. Separate ROC curves for black and white participants in Health ABC for incident diabetes were calculated and the Cstatistics were compared with that of the 2-h PCPG test alone <ref type="bibr" target="#b10">(11)</ref>.</p><p>We used SAS version 8.2 (SAS Institute, Cary, NC) and S-Plus version 6.1 (Insightful, Seattle, WA) for our analyses.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head><p>-Of 1,549 participants in the RBS derivation sample, 514 (33.2%) subjects had elevated PCPG results (Ն140 mg/dl). Those with abnormal PCPG were older and had higher systolic blood pressure and triglyceride levels compared with those with normal glucose tolerance (Table <ref type="table" target="#tab_1">1</ref>). There was no difference in mean BMI for those with normal and abnormal glucose tolerance. Mean waist circumference was larger in women with abnormal glucose tolerance compared with the women with normal glucose tolerance, but there was no difference in waist circumference for men in the two glucose subgroups. As expected, mean FPG was lower among participants with normal glucose tolerance (96.0 Ϯ 10.4 mg/dl vs. 100.8 Ϯ 10.4 mg/dl; P Ͻ 0.001). The mean HbA 1c levels were statistically but not clinically different between the two groups.</p><p>Of the nine variables that initially entered our multivariable logistic regression analysis, only two demographic and two laboratory variables remained significantly associated with an abnormal PCPG result (Table <ref type="table" target="#tab_2">2</ref>). Individuals aged Ն70 years had the highest odds of an abnormal PCPG test (OR 3.06; 95% CI 2.43-3.87). Women had higher odds of abnormal PCPG (1.60; 1.26 -2.02) compared with men. Participants with triglycerides Ն150 mg/dl and FPG Ն95 mg/dl were at greater risk for abnormal glucose tolerance as well. The discrimination of the final model was modest in the derivation cohort (c ϭ 0.73 with continuous variables, 0.71 with categorical variables). Results did not differ with sex-specific models.</p><p>Using ␤-coefficients from the final categorical multivariate model, we assigned points to each of the four risk factors for abnormal PCPG (Table <ref type="table" target="#tab_2">2</ref>). A risk score was calculated for each participant by summing the points of each risk factor that was present. The derivation cohort risk score ranged from 0 to 7 points (2.6 Ϯ 1.4 [means Ϯ SD]). Estimates of sensitivity, specificity, and positive likelihood ratios for each score for abnormal glucose tolerance are shown in Table <ref type="table" target="#tab_3">3</ref>. A score of 4 or higher could double the likelihood of an abnormal PCPG test.</p><p>To validate this rule, we applied the prediction models and simple scoring rule to the baseline data from Health ABC. The overall discrimination of the scoring system for abnormal PCPG was similar in both samples (c ϭ 0.70 in the derivation sample, 0.66 in the validation sample). Next, we prospectively validated the prediction rule for incident diabetes in Health ABC. There were 143 incident cases of diabetes over 5 years (14.1 cases/ 1,000 person-years). The area under the </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Four simple variables can predict diabetes</head><p>ROC curve for the multivariable model using continuous or categorical variables was not different than the scoring system (c ϭ 0.75 for both multivariable models, 0.71 for the scoring system). Thus, the scoring system was able to discriminate incident diabetes cases equally well as the PCPG test. When we stratified the Health ABC cohort by race, similar discrimination in both the black and white participants using the continuous model, categorical model, or scoring system was observed (Figure <ref type="figure" target="#fig_0">1</ref>). There was no significant difference among the three models and the PCPG test in discrimination of diabetes (P Ͼ 0.10 for each comparison).</p><p>CONCLUSIONS -We have developed a clinical prediction rule to identify persons with abnormal glucose tolerance that predicted diabetes equally well as the 2-h PCPG test. Two demographic variables, age and sex, and two laboratory variables, FPG and triglyceride levels, were most strongly associated with abnormal glucose tolerance in a cohort of older white adults. Using a simple scoring system, a score of Ն4 points at least doubled the likelihood of an abnormal 2-h PCPG test result. Moreover, this scoring system, validated in an independent cohort of black and white older adults, was able to predict future diabetes with similar accuracy as the PCPG test. Thus, patients with a score of Ն4 points with this simple scoring rule should receive appropriate lifestyle or pharmacologic therapies in order to prevent the onset of type 2 diabetes.</p><p>Recent reports that the incidence of diabetes can be prevented or delayed in individuals with IGT by lifestyle intervention <ref type="bibr" target="#b4">(5,</ref><ref type="bibr" target="#b5">6)</ref> or medication therapy <ref type="bibr" target="#b4">(5,</ref><ref type="bibr" target="#b11">12,</ref><ref type="bibr" target="#b12">13)</ref> has highlighted the need for identification of these high-risk individuals. The American Diabetes Association (ADA) does not recommend the 2-h PCPG test for screening or diagnosis of diabetes because the test is costly, inconvenient, and has poor reproducibility <ref type="bibr" target="#b6">(7)</ref>. The ADA adopted the term of "prediabetes" to identify persons with IGT or impaired fasting glucose (IFG; FPG levels between 110 -125 mg/dl) collectively as those at highest risk for developing diabetes. In 2003, the ADA revised the definition for IFG to include persons with fasting glucose between 100 and 125 mg/dl <ref type="bibr" target="#b13">(14,</ref><ref type="bibr" target="#b14">15)</ref>. The use of IFG alone to identify those with incident diabetes in our validation cohort had a sensitivity of 54% and a specificity of 82% (ROC area of 0.68). We found that the addition of age, sex, and triglyceride level to elevated FPG results increased the predictive accuracy for diabetes.</p><p>Several recent studies have evaluated the utility of laboratory and demographic variables for predicting incident diabetes. Stern et al. <ref type="bibr" target="#b7">(8)</ref> reported the effectiveness of eight clinical variables at predicting those at risk of incident diabetes among the San Antonio Heart Study participants. The prediction equation they created was based mostly on continuous variables and requires the use of a computer or personal digital assistant to implement. Additionally, being Mexican American explained most of the predictive value of their equation. This clinical model was tested in a cohort of Japanese Americans and was useful in predicting diabetes risk in younger Japanese Americans after 5-6 years but was not useful in older participants or with longer follow-up <ref type="bibr" target="#b15">(16)</ref>. Another study that calculated a diabetes risk score utilized data from a Finnish population sample <ref type="bibr" target="#b16">(17)</ref>. The authors found seven demographic and questionnaire variables that predicted future drugtreated diabetes with ROC curve area of 0.85 and 0.87 in two consecutive cohorts. As with the San Antonio study clinical model, the Finnish model requires the use of a computer to calculate the risk score and has not been validated in different ethnic groups. The present study differs from these prior studies in that it was first a cross-sectional evaluation of predictors of abnormal glucose tolerance in one sample and then was prospectively validated for diabetes prediction in a separate cohort. Moreover, this prediction rule was derived and validated in separate samples of different racial makeup and was based on only four variables that could be calculated easily without the use of a computerized program.</p><p>Clinical decision rules attempting to refine the accuracy of clinicians' diagnostic and prognostic ability are widely re- ported. Using criteria developed to grade the evidence for clinical decision rules <ref type="bibr" target="#b9">(10)</ref>, our study is limited in its applicability because we validated it only in the Health ABC study with well-functioning adults older than age 70. The age criterion for our prediction rule was met by every Health ABC participant, so age was uninformative. This may have weakened both the sensitivity and specificity of the rule in the validation cohort. This prediction rule needs to be validated prospectively in broader populations. Clinicians may consider using this rule if the patients in their c l i n i c a l s e t t i n g a r e o l d e r , w e l lfunctioning, black or white adults. However, the risk of a lifestyle intervention for those identified with abnormal glucose tolerance is low. Lifestyle modification has been recommended as the first-line intervention to prevent or delay diabetes, with the recommended goals of modest weight loss (5-10% of body weight) and modest physical activity (30 min daily) <ref type="bibr" target="#b17">(18)</ref>. Because this intervention is likely to have a variety of other benefits, the ADA has urged health care providers to counsel all overweight or sedentary individuals to adopt these changes.</p><p>We found that measures of adiposity such as BMI or waist circumference were not independently associated with abnormal glucose tolerance. We did not expect to find an association between BMI and glucose intolerance because BMI is a poor marker for total adiposity in older adults <ref type="bibr" target="#b18">(19)</ref>. But abdominal adiposity has been more closely linked with adverse metabolic consequences and has been suggested to precede insulin resistance <ref type="bibr" target="#b19">(20)</ref>. Waist circumference is an accepted criterion in the diagnosis of the metabolic syndrome, but waist circumference may reflect total body fat better than visceral fat in older adults <ref type="bibr" target="#b20">(21)</ref>. It is possible that in our derivation cohort waist circumference did not adequately represent visceral obesity, explaining the lack of association of waist circumference with glucose intolerance.</p><p>In conclusion, advanced age, female sex, FPG, and triglycerides had good ability to predict those with abnormal glucose tolerance. A score of 4 or higher doubled the likelihood of an abnormal postchallenge glucose test result. This rule could help clinicians to better identify individuals with abnormal glucose tolerance, who should be targeted for interventions to prevent diabetes.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 -</head><label>1</label><figDesc>Figure 1-ROC curves comparing the continuous multivariable model, the categorical model, the prediction rule scoring system, and the 2-h postchallenge glucose test alone for the prediction of diabetes among whites and blacks in the Health ABC cohort.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 1 -Characteristics of the RBS population, 1984 -1987*</head><label>1</label><figDesc></figDesc><table><row><cell></cell><cell>Normal glucose tolerance</cell><cell>Abnormal glucose tolerance</cell><cell></cell></row><row><cell>Variable</cell><cell>(n ϭ 1,035)</cell><cell>(n ϭ 514)</cell><cell>P †</cell></row><row><cell>Female sex</cell><cell>560 (54.1)</cell><cell>314 (61.1)</cell><cell>0.008</cell></row><row><cell>Age (years)</cell><cell>65.3 Ϯ 11.2</cell><cell>71.3 Ϯ 9.8</cell><cell>Ͻ0.001</cell></row><row><cell>Education</cell><cell></cell><cell></cell><cell></cell></row><row><cell>High school or greater</cell><cell>985 (95.2)</cell><cell>500 (97.3)</cell><cell>0.05</cell></row><row><cell>Less than high school</cell><cell>50 (4.8)</cell><cell>14 (2.7)</cell><cell></cell></row><row><cell>Family history of diabetes</cell><cell>153 (16.1)</cell><cell>68 (14.4)</cell><cell>0.40</cell></row><row><cell>BMI (kg/m 2 )</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Men</cell><cell>25.8 Ϯ 3.1</cell><cell>26.2 Ϯ 4.7</cell><cell>0.54</cell></row><row><cell>Women</cell><cell>24.2 Ϯ 4.8</cell><cell>24.4 Ϯ 3.5</cell><cell>0.40</cell></row><row><cell>Waist (cm)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Men</cell><cell>92.9 Ϯ 8.5</cell><cell>94.2 Ϯ 9.5</cell><cell>0.10</cell></row><row><cell>Women</cell><cell>76.7 Ϯ 9.5</cell><cell>79.9 Ϯ 9.5</cell><cell>Ͻ0.001</cell></row><row><cell>Systolic blood pressure (mmHg)</cell><cell>133.0 Ϯ 21.3</cell><cell>143.6 Ϯ 21.2</cell><cell>Ͻ0.001</cell></row><row><cell>Diastolic blood pressure (mmHg)</cell><cell>76.6 Ϯ 9.4</cell><cell>76.2 Ϯ 9.6</cell><cell>0.43</cell></row><row><cell>Fasting plasma glucose</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Ͻ95 mg/dl</cell><cell>463 (44.7)</cell><cell>137 (26.7)</cell><cell>Ͻ0.001</cell></row><row><cell>95-104 mg/dl</cell><cell>378 (36.5)</cell><cell>198 (38.5)</cell><cell></cell></row><row><cell>105-115 mg/dl</cell><cell>159 (15.4)</cell><cell>130 (25.3)</cell><cell></cell></row><row><cell>116-125 mg/dl</cell><cell>35 (3.4)</cell><cell>49 (9.5)</cell><cell></cell></row><row><cell>Triglycerides</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Ͻ150 mg/dl</cell><cell>858 (82.9)</cell><cell>364 (70.8)</cell><cell>Ͻ0.001</cell></row><row><cell>Ն150 mg/dl</cell><cell>177 (17.1)</cell><cell>150 (29.2)</cell><cell></cell></row><row><cell>LDL (mg/dl)</cell><cell>135.0 Ϯ 35.6</cell><cell>136.8 Ϯ 39.0</cell><cell>0.37</cell></row><row><cell>HDL (mg/dl)</cell><cell>63.5 Ϯ 19.0</cell><cell>60.2 Ϯ 18.9</cell><cell>Ͻ0.001</cell></row><row><cell>Total cholesterol (mg/dl)</cell><cell>220.0 Ϯ 38.3</cell><cell>223.3 Ϯ 44.1</cell><cell>0.15</cell></row><row><cell>HbA 1c (%)</cell><cell>6.0 Ϯ 0.7</cell><cell>6.1 Ϯ 0.8</cell><cell>Ͻ0.001</cell></row></table><note>Data are means ϮSD or n (%). *Excluding those with known diabetes or fasting glucose Ն126 mg/dl; abnormal glucose tolerance is defined by a 2-h postchallenge glucose level Ն140 mg/dl. †Comparisons by Student's t test, Wilcoxon, or 2 tests where appropriate.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 2 -Predictors of abnormal glucose tolerance in the RBS</head><label>2</label><figDesc></figDesc><table><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>Points</cell></row><row><cell>Risk factor</cell><cell>␤</cell><cell>OR (95% CI)</cell><cell>P</cell><cell>allocated</cell></row><row><cell>Female sex</cell><cell>0.47</cell><cell>1.60 (1.26-2.02)</cell><cell>Ͻ0.001</cell><cell>1</cell></row><row><cell>Age Ն70 years</cell><cell>1.12</cell><cell>3.06 (2.43-3.87)</cell><cell>Ͻ0.001</cell><cell>2</cell></row><row><cell>Triglycerides Ն150 mg/dl</cell><cell>0.78</cell><cell>2.18 (1.66-2.87)</cell><cell>Ͻ0.001</cell><cell>1</cell></row><row><cell>Fasting glucose</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>95-104 mg/dl</cell><cell>0.57</cell><cell>1.78 (1.36-2.33)</cell><cell>Ͻ0.001</cell><cell>1</cell></row><row><cell>105-115 mg/dl</cell><cell>1.05</cell><cell>1.62 (1.20-2.20)</cell><cell>0.002</cell><cell>2</cell></row><row><cell>116-125 mg/dl</cell><cell>1.69</cell><cell>1.89 (1.13-3.18)</cell><cell>0.01</cell><cell>3</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 3 -Prediction rule score with test characteristics for abnormal glucose tolerance from the derivation cohort</head><label>3</label><figDesc></figDesc><table><row><cell>Total score</cell><cell>n (%)</cell><cell>Sensitivity</cell><cell>Specificity</cell><cell>ϩLR</cell></row><row><cell>0</cell><cell>92 (5.9)</cell><cell>100.0</cell><cell>0</cell><cell>0.2</cell></row><row><cell>1</cell><cell>307 (19.8)</cell><cell>98.4</cell><cell>8.1</cell><cell>0.4</cell></row><row><cell>2</cell><cell>334 (21.5)</cell><cell>88.1</cell><cell>32.7</cell><cell>0.7</cell></row><row><cell>3</cell><cell>403 (26.0)</cell><cell>71.6</cell><cell>56.7</cell><cell>1.0</cell></row><row><cell>4</cell><cell>254 (16.4)</cell><cell>45.9</cell><cell>82.8</cell><cell>1.9</cell></row><row><cell>5</cell><cell>129 (8.3)</cell><cell>21.8</cell><cell>95.4</cell><cell>4.0</cell></row><row><cell>6</cell><cell>27 (1.7)</cell><cell>5.0</cell><cell>99.5</cell><cell>8.9</cell></row><row><cell>7</cell><cell>4 (0.3)</cell><cell>0.8</cell><cell>100.0</cell><cell>ϱ</cell></row></table><note>ϩLR, positive likelihood ratio.</note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">DIABETES CARE, VOLUME 28, NUMBER 2, FEBRUARY 2005 Downloaded from http://diabetesjournals.org/care/article-pdf/28/2/404/666090/zdc00205000404.pdf by guest on 29 April 2022</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">DIABETES CARE, VOLUME 28, NUMBER2, FEBRUARY 2005  </note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">Downloaded from http://diabetesjournals.org/care/article-pdf/28/2/404/666090/zdc00205000404.pdf by guest on 29 April 2022</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgments</head><p>The authors thank Dr. Eric Vittinghoff for his statistical help with recursive partitioning and the development of models.</p></div>
+			</div>
+
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">National Diabetes Data Group: Classification and diagnosis of diabetes mellitus and other categories of glucose intolerance</title>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="1039" to="1057" />
+			<date type="published" when="1979">1979</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">World Health Organization: Diabetes Mellitus: Report of a WHO Study Group. Geneva, World Health Organization</title>
+		<imprint>
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">Tech Rep. Ser</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Epidemiology of NIDDM in Europoids</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">T</forename><surname>Valle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tuomilehto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Eriksson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">International Textbook of Diabetes Mellitus</title>
+				<editor>
+			<persName><forename type="first">K</forename><surname>Alberti</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">P</forename><forename type="middle">Z</forename><surname>Zimmet</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">De</forename><surname>Fronzo</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Keen</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">H</forename></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Wiley</publisher>
+			<date type="published" when="1997">1997</date>
+			<biblScope unit="page" from="125" to="142" />
+		</imprint>
+	</monogr>
+	<note>2nd ed</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Predictors of progression from impaired glucose tolerance to NIDDM: an analysis of six prospective studies</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Edelstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">C</forename><surname>Knowler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Bain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Andres</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">L</forename><surname>Barrett-Connor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">K</forename><surname>Dowse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Haffner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Pettitt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Sorkin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Muller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">R</forename><surname>Collins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">F</forename><surname>Hamman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="701" to="710" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Reduction in the incidence of type 2 diabetes with lifestyle intervention or metformin</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">C</forename><surname>Knowler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Barrett-Connor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Fowler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">F</forename><surname>Hamman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Lachin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Walker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Nathan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">346</biblScope>
+			<biblScope unit="page" from="393" to="403" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Prevention of type 2 diabetes mellitus by changes in lifestyle among subjects with impaired glucose tolerance</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tuomilehto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lindstrom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Eriksson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">T</forename><surname>Valle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Hamalainen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Ilanne-Parikka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Keinanen-Kiukaanniemi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Laakso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Louheranta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rastas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Salminen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Uusitupa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">344</biblScope>
+			<biblScope unit="page" from="1343" to="1350" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Expert Committee on the Diagnosis and Classification of Diabetes Mellitus: Report of the Expert Committee on the Diagnosis and Classification of Diabetes Mellitus</title>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="1183" to="1197" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Identification of persons at high risk for type 2 diabetes mellitus: do we need the oral glucose tolerance test?</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Stern</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Haffner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">136</biblScope>
+			<biblScope unit="page" from="575" to="581" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Estimation of the concentration of lowdensity lipoprotein cholesterol in plasma, without use of the preparative ultracentrifuge</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">T</forename><surname>Friedewald</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">I</forename><surname>Levy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Fredrickson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Chem</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="499" to="502" />
+			<date type="published" when="1972">1972</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Users&apos; guides to the medical literature. XXII. How to use articles about clinical decision rules: Evidence-Based Medicine Working Group</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">G</forename><surname>Mcginn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">H</forename><surname>Guyatt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">C</forename><surname>Wyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Naylor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">G</forename><surname>Stiell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">S</forename><surname>Richardson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">284</biblScope>
+			<biblScope unit="page" from="79" to="84" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Comparing the areas under two or more correlated receiver operating characteristic curves: a nonparametric approach</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">R</forename><surname>Delong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Delong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Clarke-Pearson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biometrics</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page" from="837" to="845" />
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Acarbose for prevention of type 2 diabetes mellitus: the STOP-NIDDM randomised trial</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Chiasson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">G</forename><surname>Josse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Gomis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hanefeld</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Karasik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Laakso</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">359</biblScope>
+			<biblScope unit="page" from="2072" to="2077" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Preservation of pancreatic ␤-cell function and prevention of type 2 diabetes by pharmacological treatment of insulin resistance in high-risk hispanic women</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Buchanan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">H</forename><surname>Xiang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Peters</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Kjos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Marroquin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Goico</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Ochoa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Tan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Berkowitz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">N</forename><surname>Hodis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Azen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="page" from="2796" to="2803" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<author>
+			<persName><forename type="first">S</forename><surname>Genuth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">G</forename><surname>Alberti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Bennett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Buse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Defronzo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kahn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kitzmiller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">C</forename><surname>Knowler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Lebovitz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Lernmark</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Nathan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Palmer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Rizza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Saudek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Shaw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Steffes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Stern</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tuomilehto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Zimmet</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Follow-up report on the diagnosis of diabetes mellitus</title>
+				<imprint>
+			<date type="published" when="2003">2003</date>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="3160" to="3167" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">American Diabetes Association: Diagnosis and classification of diabetes mellitus. Diabetes Care 27</title>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+			<biblScope unit="page" from="S5" to="S10" />
+		</imprint>
+	</monogr>
+	<note>Suppl. 1</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Comparison of a clinical model, the oral glucose tolerance test, and fasting glucose for prediction of type 2 diabetes risk in Japanese Americans</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Mcneely</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Boyko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Leonetti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Kahn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">Y</forename><surname>Fujimoto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="758" to="763" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">The diabetes risk score: a practical tool to predict type 2 diabetes risk</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lindstrom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tuomilehto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="725" to="731" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">American Diabetes Association: The prevention or delay of type 2 diabetes</title>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="742" to="749" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">How useful is body mass index for comparison of body fatness across age, sex, and ethnic groups?</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Gallagher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Visser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Sepulveda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">N</forename><surname>Pierson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Harris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">B</forename><surname>Heymsfield</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">143</biblScope>
+			<biblScope unit="page" from="228" to="239" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Contribution of visceral obesity to the insulin resistance syndrome</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lemieux</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Can J Appl Physiol</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="273" to="290" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Waist circumference and sagittal diameter reflect total body fat better than visceral fat in older men and women: the Health, Aging and Body Composition Study</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">B</forename><surname>Harris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Visser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Everhart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cauley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Tylavsky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Fuerst</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Zamboni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Taaffe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">E</forename><surname>Resnick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Scherzinger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Nevitt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann N Y Acad Sci</title>
+		<imprint>
+			<biblScope unit="volume">904</biblScope>
+			<biblScope unit="page" from="462" to="473" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

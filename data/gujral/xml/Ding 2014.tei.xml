@@ -1,0 +1,990 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Hyperglycemia and Mortality Among Patients With Coronary Artery Disease</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2022-07-19">19 July 2022</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Ding</forename><surname>Ding</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Nutrition</orgName>
+								<orgName type="laboratory">Guangdong Provincial Key Laboratory of Food</orgName>
+								<orgName type="institution">Nutrition and Health</orgName>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">School of Public Health</orgName>
+								<orgName type="institution">Sun Yat-sen University</orgName>
+								<address>
+									<settlement>Guangzhou, Guangdong</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="laboratory">Chronic Disease Epidemiology Laboratory</orgName>
+								<orgName type="institution">Pennington Biomedical Research Center</orgName>
+								<address>
+									<settlement>Baton Rouge</settlement>
+									<region>LA</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jian</forename><surname>Qiu</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Cardiology</orgName>
+								<orgName type="institution">General Hospital of Guangzhou Military Command of People&apos;s Liberation Army</orgName>
+								<address>
+									<settlement>Guangdong</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Xinrui</forename><surname>Li</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Nutrition</orgName>
+								<orgName type="laboratory">Guangdong Provincial Key Laboratory of Food</orgName>
+								<orgName type="institution">Nutrition and Health</orgName>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">School of Public Health</orgName>
+								<orgName type="institution">Sun Yat-sen University</orgName>
+								<address>
+									<settlement>Guangzhou, Guangdong</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Dan</forename><surname>Li</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Min</forename><surname>Xia</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Nutrition</orgName>
+								<orgName type="laboratory">Guangdong Provincial Key Laboratory of Food</orgName>
+								<orgName type="institution">Nutrition and Health</orgName>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">School of Public Health</orgName>
+								<orgName type="institution">Sun Yat-sen University</orgName>
+								<address>
+									<settlement>Guangzhou, Guangdong</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Zhongxia</forename><surname>Li</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Nutrition</orgName>
+								<orgName type="laboratory">Guangdong Provincial Key Laboratory of Food</orgName>
+								<orgName type="institution">Nutrition and Health</orgName>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">School of Public Health</orgName>
+								<orgName type="institution">Sun Yat-sen University</orgName>
+								<address>
+									<settlement>Guangzhou, Guangdong</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Dongfang</forename><surname>Su</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Nutrition</orgName>
+								<orgName type="laboratory">Guangdong Provincial Key Laboratory of Food</orgName>
+								<orgName type="institution">Nutrition and Health</orgName>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">School of Public Health</orgName>
+								<orgName type="institution">Sun Yat-sen University</orgName>
+								<address>
+									<settlement>Guangzhou, Guangdong</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Yujie</forename><surname>Wang</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Nutrition</orgName>
+								<orgName type="laboratory">Guangdong Provincial Key Laboratory of Food</orgName>
+								<orgName type="institution">Nutrition and Health</orgName>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">School of Public Health</orgName>
+								<orgName type="institution">Sun Yat-sen University</orgName>
+								<address>
+									<settlement>Guangzhou, Guangdong</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="laboratory">Chronic Disease Epidemiology Laboratory</orgName>
+								<orgName type="institution">Pennington Biomedical Research Center</orgName>
+								<address>
+									<settlement>Baton Rouge</settlement>
+									<region>LA</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Yuan</forename><surname>Zhang</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Cardiology</orgName>
+								<orgName type="institution">General Hospital of Guangzhou Military Command of People&apos;s Liberation Army</orgName>
+								<address>
+									<settlement>Guangdong</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jinxia</forename><surname>Zhang</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Xiaofei</forename><surname>Lv</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Nutrition</orgName>
+								<orgName type="laboratory">Guangdong Provincial Key Laboratory of Food</orgName>
+								<orgName type="institution">Nutrition and Health</orgName>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">School of Public Health</orgName>
+								<orgName type="institution">Sun Yat-sen University</orgName>
+								<address>
+									<settlement>Guangzhou, Guangdong</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Cardiology</orgName>
+								<orgName type="institution">General Hospital of Guangzhou Military Command of People&apos;s Liberation Army</orgName>
+								<address>
+									<settlement>Guangdong</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Yunjun</forename><surname>Xiao</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Gang</forename><surname>Hu</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Nutrition</orgName>
+								<orgName type="laboratory">Guangdong Provincial Key Laboratory of Food</orgName>
+								<orgName type="institution">Nutrition and Health</orgName>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">School of Public Health</orgName>
+								<orgName type="institution">Sun Yat-sen University</orgName>
+								<address>
+									<settlement>Guangzhou, Guangdong</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="laboratory">Chronic Disease Epidemiology Laboratory</orgName>
+								<orgName type="institution">Pennington Biomedical Research Center</orgName>
+								<address>
+									<settlement>Baton Rouge</settlement>
+									<region>LA</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Wenhua</forename><surname>Ling</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Nutrition</orgName>
+								<orgName type="laboratory">Guangdong Provincial Key Laboratory of Food</orgName>
+								<orgName type="institution">Nutrition and Health</orgName>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">School of Public Health</orgName>
+								<orgName type="institution">Sun Yat-sen University</orgName>
+								<address>
+									<settlement>Guangzhou, Guangdong</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Hyperglycemia and Mortality Among Patients With Coronary Artery Disease</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2022-07-19">19 July 2022</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">3B6CEAC17CF68CA36D83C06E183FB009</idno>
+					<idno type="DOI">10.2337/dc13-1387</idno>
+					<note type="submission">Received 11 June 2013 and accepted 29 September 2013.</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.1" ident="GROBID" when="2022-07-19T22:45+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Wenhua Ling</term>
+					<term>lingwh@ mail.sysu.edu.cn</term>
+					<term>and Gang Hu</term>
+					<term>gang.hu@pbrc .edu</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Known diabetes is an independent predictor for mortality in coronary artery disease (CAD) patients; however, whether other glucose abnormalities are associated with death risk in CAD patients is unclear. The goal of this study was to examine the association between different glucose states and the risks of allcause and cardiovascular disease (CVD) mortality among CAD patients.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESEARCH DESIGN AND METHODS</head><p>The study cohort included 1,726 CAD patients who were 40-85 years of age in the Guangdong Coronary Artery Disease Cohort. Cox proportional hazards regression models were used to estimate the association of baseline glucose status with risk of mortality.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head><p>During a median follow-up of 3.1 years, 129 deaths were recorded, 109 of which were due to CVD. The multivariable-adjusted (age; sex; education; marriage; leisure-time physical activity; smoking; alcohol drinking; BMI; systolic blood pressure; total and HDL cholesterol; glomerular filtration rate; type, severity, duration, and treatment of CAD; history of heart failure; and use of antihypertensive, cholesterol-lowering, and antiplatelet drugs) hazard ratios in normoglycemia, impaired glucose regulation (IGR), newly diagnosed diabetes, and known diabetes were 1.00, 1.58 (95% CI 0.90-2.77), 2.41 (1.42-4.11), and 2.29 (1.36-3.84) for allcause mortality and 1. 00, 1.89 (1.01-3.54), 2.74 (1.50-5.01), and 2.73 (1.52-4.91)   for CVD mortality. Assessing fasting plasma glucose only, impaired fasting glucose and newly diagnosed and known diabetes were also associated with increased risks of all-cause and CVD mortality compared with normoglycemia.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CONCLUSIONS</head><p>CAD patients with IGR, newly diagnosed diabetes, and known diabetes have increased risk of CVD mortality.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Diabetes is one of the major public health burdens in the world and serves as a well-established risk factor for coronary artery disease (CAD). According to the International Diabetes Federation, .371 million people (8.3% of the population) have diabetes worldwide, and half of them are undiagnosed <ref type="bibr" target="#b0">(1)</ref>. The situation in China is more severe. With rapid economic development and lifestyle changes that come along, the prevalence of diabetes increases to 9.7% of Chinese adults, and the undiagnosed rate is up to 60%, which far exceeds the average worldwide level <ref type="bibr" target="#b1">(2)</ref>.</p><p>As a primary contributor to CAD, diabetes affects ;50% of CAD patients, and another 25% of CAD patients endure impaired glucose regulation (IGR) <ref type="bibr" target="#b2">(3,</ref><ref type="bibr" target="#b3">4)</ref>. It is well known that people with diabetes have a significantly increased premature mortality compared with nondiabetics, as well as two to four times the risk of developing cardiovascular disease (CVD), which is presently the leading cause of death both in China and worldwide <ref type="bibr" target="#b4">(5)</ref><ref type="bibr" target="#b5">(6)</ref><ref type="bibr" target="#b6">(7)</ref><ref type="bibr" target="#b7">(8)</ref>. However, whether people with undiagnosed diabetes or a prediabetes status have higher risks for CVD and premature death has not been fully established. Some studies showed no association; on the other hand, some studies showed a positive association that disappeared after adjustment for covariates <ref type="bibr" target="#b8">(9)</ref><ref type="bibr" target="#b9">(10)</ref><ref type="bibr" target="#b10">(11)</ref><ref type="bibr" target="#b11">(12)</ref>. With regard to the secondary CVD risk, the studies are few and inconsistent <ref type="bibr" target="#b12">(13,</ref><ref type="bibr" target="#b13">14)</ref>. Moreover, none of the existing cohorts are based on Chinese or Asian CAD populations. Previous evidence has shown that Western CAD patients generally have worse CVD risk profiles than Chinese patients, which include a higher prevalence of hypertension, dyslipidemia, obesity, and alcohol use <ref type="bibr" target="#b12">(13)</ref>. However, Chinese CAD patient total and CVD mortality is as high as in Westerners. Thus, it is meaningful to focus on hyperglycemia and its relationship to the secondary risk of Chinese CAD patients. The aim of this study was to evaluate the association of different glucose states with the risks of all-cause and CVD mortality among Chinese CAD patients.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESEARCH DESIGN AND METHODS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Participants</head><p>The recruitment of the Guangdong Coronary Artery Disease Cohort took place between October 2008 and December 2011 <ref type="bibr" target="#b14">(15)</ref><ref type="bibr" target="#b15">(16)</ref><ref type="bibr" target="#b16">(17)</ref>. We enrolled 1,984 successive patients who were admitted to the Cardiology Department of three superior specialty hospitals in Guangdong and diagnosed as CAD (ICD-10 codes I20-I25) according to World Health Organization 1999/2000 guidelines <ref type="bibr" target="#b17">(18,</ref><ref type="bibr" target="#b18">19)</ref>. After excluding 204 participants that were out of touch after baseline survey and 54 participants because of missing data, the final sample comprised 1,726 CAD patients aged 40-85 years (Supplementary Fig. <ref type="figure" target="#fig_0">1</ref>). Compared with the retained participants, those excluded from the present analysis were generally younger (61.1 vs. 64.0 years). No differences in the percentage of males (61.9 vs. 66.1%) and BMI (23.8 vs. 23.9) were found. The study was approved by the Sun Yat-sen University ethnic committee, and all participants signed the informed consent.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Clinical Measurements</head><p>A standardized questionnaire on general information of examination date, birth date, sex, education level, leisure-time physical activity, smoking habits, alcohol consumption, family history of CAD, and medication history and a validated food frequency questionnaire <ref type="bibr" target="#b19">(20)</ref> were conducted through a face-to-face interview. Smoking was defined as at least one cigarette per day and lasting more than half a year. Alcohol drinking was defined as drinking any type of alcoholic beverage at least once a week and lasting .6 months. Smoking and drinking status were classified as never, past, or current <ref type="bibr" target="#b21">(21)</ref>. Clinical characteristics, clinical test results, and treatment of participants were collected from an electronic case record system. At admission, trained nurses measured height, weight, and blood pressure using a standard protocol <ref type="bibr" target="#b22">(22)</ref>. BMI was calculated by dividing weight in kilograms by the square of height in meters. A venous blood specimen was drawn in the next morning after hospital admission with at least 12 h fasting. Lipids and fasting plasma glucose (FPG) were determined by standard methods. Glomerular filtration rate (GFR) was used to assess renal function, which was estimated with the most recent Modification of Diet in Renal Disease (MDRD) Study equation for standardized serum creatinine <ref type="bibr" target="#b23">(23)</ref>: estimated GFR (eGFR) = 175 3 (standardized serum creatinine in mg/dL) 21.154 3 age 20.203 3 0.742 (if female). Severity of CAD was based on coronary artery stenosis degree of coronary angiography reports, which were categorized as not conduct, ,50%, 50-74.9%, and $75%. Treatment information of CAD included percutaneous coronary intervention and coronary artery bypass graft. Patients without known or newly diagnosed diabetes (n = 1,054) were asked to have a standard 2-h oral glucose tolerance test (OGTT) when they were in a stable condition. An OGTT was measured in 643 patients. The results of the OGTT, or FPG only when OGTT was not conducted, were used to categorize patients.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Glucose States</head><p>According to the 2005 American Diabetes Association (ADA) recommendations for the diagnosis of diabetes <ref type="bibr" target="#b24">(24)</ref>, subjects were classified into four groups: known diabetes, newly diagnosed diabetes (FPG $7.0 mmol/L and/or 2-h glucose $11.1 mmol/L), IGR (FPG 5.6-6.9 mmol/L [impaired fasting glucose, IFG] and/or 2-h glucose 7.8-11.0 mmol/L [impaired glucose tolerance, IGT]), and normoglycemia (FPG ,5.6 mmol/L and 2-h glucose ,7.8 mmol/L). In addition, subjects were also classified into four groups based on FPG only: known diabetes, newly diagnosed diabetes (FPG $7.0 mmol/L), IFG (FPG 5.6-6.9 mmol/L), and normoglycemia (FPG ,5.6 mmol/L).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Prospective Follow-up</head><p>Follow-up data were collected from hospital medical records of readmission, telephone contacts with patients or family members, and death registration at the Guangdong Provincial Center for Disease Control and Prevention. The surveys were followed to the end of July 2013 or patient death, whichever occurred first. The ICD codes were used to code the cause of death, and the ICD  <ref type="table" target="#tab_3">3</ref>).</p><p>In the multivariable subpopulation analyses, the association between glucose status and mortality remained similar when participants were stratified by age, sex, BMI, and type of CAD (Supplementary Table <ref type="table" target="#tab_1">1</ref>). There were no significant interactions between glucose status and these variables with the risks of all-cause and CVD mortality except for BMI regarding CVD mortality.</p><p>In order to assess the association of continuous FPG level and OGTT results with the risk of mortality, ROC curves and spline plots were used to evaluate the two measurements. ROC curves showed that the area under the curve of FPG and OGTT was .0.60, whereas the area under the curve of OGTT with regard to CVD mortality was not significant due to the small sample size (Supplementary Table <ref type="table" target="#tab_0">2</ref>). Spline plots displayed a J-shaped association between continuous FPG level and mortality among CAD patients without known diabetes (Supplementary Fig. <ref type="figure">2</ref>). The associations of FPG with the risks of all-cause and CVD mortality were nonlinear (P = 0.007 for all-cause mortality and P = 0.008 for CVD mortality in the linear association test; P = 0.17 for all-cause mortality and P = 0.38 for CVD mortality in the nonlinear association test). The lowest HRs of allcause and CVD mortality were in patients with an FPG ;5 mmol/L. The risk increased below and above this FPG level, with the highest risks in the upper range of the FPG distribution. Analysis for 2-h glucose was not shown due to the small sample size and incident death numbers of patients with OGTT.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CONCLUSIONS</head><p>The current study found that Chinese CAD patients with IFG, newly diagnosed diabetes, and known diabetes were associated with increased risks of allcause and CVD mortality compared with Chinese CAD patients with In agreement with our results, two early American studies reported that among CAD patients, both IFG (FPG 6.1-6.9 mmol/L) and diabetes were associated with an increased risk of mortality compared with normoglycemia <ref type="bibr" target="#b27">(27,</ref><ref type="bibr" target="#b28">28)</ref>. In contrast with our study, they did not have OGTT measurements, so they could not further evaluate the risk of IGT and IGR.</p><p>Although we used new ADA standards (FPG 5.6-6.9 mmol/L) to define IFG, this threshold still can predict an increased risk of mortality. Displayed by spline plots, we found a J-shaped relationship between the baseline FPG and subsequent death of all-cause and CVD; the cut point of increase in the risk was apparent for glucose level, which was below current diabetic threshold, even the IFG threshold. This finding was consistent with the previous Diabetes Epidemiology: Collaborative analysis Of Diagnostic criteria in Europe (DECODE) study.</p><p>In their meta-analysis, there was a J-shaped relation between FPG and all-cause, CVD, and non-CVD mortality among European general populations. And the thresholds of increase of risk were 5.3 mmol/L for all-cause mortality and 5.4 mmol/L for CVD mortality <ref type="bibr" target="#b11">(12)</ref>. Thus, our study confirmed the prognostic significance of the current ADA recommendation for the lower IFG threshold in Chinese patients with CAD. The Euro Heart Survey found that only CAD patients with both known and newly diagnosed diabetes, but not with IGR, were at high risk of mortality during the 1-year follow-up period <ref type="bibr" target="#b12">(13)</ref>. Besides the different ethnicities, there were some other differences in the methods between our study and the Euro Heart Survey, which may result in this contrary conclusion. The Euro Heart Survey only focused on 1-year outcome, which may not be long enough to observe the difference in prognosis of the IGR group. Second, the Euro Heart Survey did not report the separate analysis on the classification of patients based on OGTT or FPG only due to small sample size. But they did care.diabetesjournals.org Ding and Associates 551 observe a higher prevalence of mortality in IFG and IGT patients, although the differences remained insignificant.</p><p>The current study also showed that in comparison with known diabetic CAD patients, the risk of death from all causes and CVD was a little higher in newly diagnosed diabetic patients. This might be because not all the newly diagnosed patients were patients with new onset of diabetes. Some of them had diabetes for a period of time but were undiagnosed, which was proven by the Chinese high undiagnosed rate of diabetes <ref type="bibr" target="#b1">(2)</ref>. Lack of monitoring and control of glucose might partly explain the higher risk of mortality compared with known diabetic patients, 69% of whom took antidiabetic drugs at baseline in our cohort. Moreover, our patients with newly diagnosed diabetes had more severe CAD and shared more harmful lifestyles. The rates of smoking and alcohol drinking were higher and the physical activity time was less in patients with newly diagnosed diabetes.</p><p>Since   There are some limitations in the present study. First, our subjects were enrolled from hospitals, which may bring about selection bias. In general, inpatients are considered as having a more severe disease status than nonhospitalized patients. However, we included both acute CAD patients and those with stable manifestation, and some of them were electively admitted patients with mild status. Thus, we can reduce the bias. Second, only some of the study samples conducted OGTTs due to the clinical practice rituals and patient will. To evaluate the impact of this shortcoming, we performed separate subgroup analyses in 1,118 CAD patients with both FPG and 2-h glucose measurements compared with 1,724 CAD patients of all our study samples with full FPG measurements and some 2-h glucose measurements. In general, the significant associations of known and newly diagnosed diabetes with all-cause and CVD mortality were not influenced substantially. But the HRs of IFG and IGT patients were statistically insignificant, which may be due to missing OGTTs of the high-risk patients. Third, we cannot completely exclude the effects of residual confounding resulting from measurement error in the assessment of confounding factors or some unmeasured factors.</p><p>In conclusion, our study confirms that IFG, newly diagnosed diabetes, and known diabetes are all associated with increased risks of all-cause and CVD mortality among CAD patients, and patients with IGR had significantly higher risk for CVD mortality and marginally greater risk for all-cause mortality.</p><p>Funding. This work was supported by the Key Project of the National Natural Science Fund, China (Grant 81130052).</p><p>Duality of Interest. No potential conflicts of interest relevant to this article were reported.</p><p>Author Contributions. D.D. and J.Q. wrote the manuscript and researched data. X. Li researched data and reviewed and edited the manuscript. D.L., M.X., Z.L., D.S., Y.W., Y.Z., J.Z., G.H., and W.L. reviewed and edited the manuscript. X. Lv and Y.X. researched data. W.L. is the guarantor of this work and, as such, had full access to all the data in the study and takes responsibility for the integrity of the data and the accuracy of the data analysis.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 -</head><label>1</label><figDesc>Figure 1-Multivariate-adjusted cumulative survival curves of all-cause (A) and CVD (B) mortality associated with both fasting and 2-h glucose states. Adjusted for age; sex; education; marriage; leisure-time physical activity; smoking; alcohol drinking; type, severity, duration, and treatment of of heart failure; BMI; SBP; total cholesterol; HDL cholesterol; eGFR; and use of antihypertensive, cholesterol-lowering, and antiplatelet drugs. The line of newly diagnosed diabetes overlapped with the line of known diabetes in B.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head></head><label></label><figDesc>cardiac function and contribute to adverse outcomes.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 2</head><label>2</label><figDesc></figDesc><table><row><cell>care.diabetesjournals.org</cell></row></table><note>continuous FPG and 2-h glucose level, and the spline plot was used to display continuous associations of FPG with all-cause and CVD mortality. Statistical significance was considered to be P , 0.05. All statistical analyses were performed with PASW for Windows, version 20.0 (IBM SPSS Inc., Chicago, IL) and SAS for Windows, version 9.3 (SAS Institute, Cary, NC). RESULTS Baseline characteristics according to glucose states were presented in Table 1. Patients with normoglycemia, IGR, newly diagnosed diabetes, and known diabetes constituted 31.1, 23.3, 21.2, and 24.4% of whole subjects. During a median follow-up of 3.1 years, 129 deaths were recorded, 109 of which were due to CVD. The 20 non-CVD deaths consisted of 14 deaths from cancer and 6 deaths from asphyxia due to lung disease. Since the interactions between sex and glucose status on the and a 2.73-fold risk of CVD mortality (1.52-4.91), CAD patients with newly diagnosed diabetes had a 2.41-fold risk of all-cause mortality (1.42-4.11) and a 2.74-fold risk of CVD mortality (1.50-5.01), CAD patients with IGR had a 1.58-fold risk of all-cause mortality (0.90-2.77) and a 1.89-fold risk of CVD mortality (1.01-3.54), compared with normoglycemic subjects (Table 2 and Fig. 1). Since FPG was more useful for clinical practice, we performed analyses on FPG classification only. The multivariableadjusted hazard ratios (HRs) in normoglycemia, IFG, newly diagnosed diabetes, and known diabetes were 1.00, 1.80 (95% CI 1.09-2.98), 2.15 (1.26-3.66), and 2.09 (1.31-3.33) for all-cause mortality and 1.00, 1.99 (1.14-3.49), 2.48 (1.38-4.48), and 2.42 (1.44-4.06) for CVD mortality, respectively (mortality (1.02-3.62) and a 2.07-fold risk of CVD mortality (1.04-4.13). CAD patients with known diabetes still had a significantly higher risk for all-cause and CVD mortality than those with normoglycemia despite the effect of antidiabetic drugs. Owing to part of the sample taking OGTT tests, our glucose classification of CAD</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 1 -</head><label>1</label><figDesc>Baseline characteristics according to glucose states among CAD patientsData are mean (SE) or percentage, except that duration of CAD is shown as median (lower-upper quartiles); all continuous variables are adjusted for age and sex, except for age (adjusted for sex only).</figDesc><table><row><cell>care.diabetesjournals.org</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>Ding and Associates 549</cell></row><row><cell></cell><cell></cell><cell></cell><cell>Newly diagnosed</cell><cell></cell><cell>P for</cell></row><row><cell>Characteristic</cell><cell>Normoglycemia</cell><cell>IGR</cell><cell>diabetes</cell><cell>Known diabetes</cell><cell>difference</cell></row><row><cell>No. of participants (%)</cell><cell>537 (31.1)</cell><cell>402 (23.3)</cell><cell>366 (21.2)</cell><cell>421 (24.4)</cell><cell></cell></row><row><cell>Male</cell><cell></cell><cell>71.4</cell><cell>68.3</cell><cell>59.1</cell><cell>0.002</cell></row><row><cell>Age (years)</cell><cell>63.9 (0.5)</cell><cell>63.1 (0.6)</cell><cell>63.0 (0.6)</cell><cell>65.8 (0.5)</cell><cell>0.001</cell></row><row><cell>FPG (mmol/L)</cell><cell>4.88 (0.10)</cell><cell>5.80 (0.12)</cell><cell>7.72 (0.12)</cell><cell>8.22 (0.12)</cell><cell>,0.001</cell></row><row><cell>2-h glucose (mmol/L)</cell><cell>6.32 (0.26)</cell><cell>8.79 (0.20)</cell><cell>12.07 (0.18)</cell><cell>d</cell><cell>,0.001</cell></row><row><cell>BMI (kg/m 2 )</cell><cell>23.6 (0.1)</cell><cell>23.8 (0.2)</cell><cell>24.1 (0.2)</cell><cell>24.3 (0.2)</cell><cell>0.003</cell></row><row><cell>SBP (mmHg)</cell><cell>133 (1.0)</cell><cell>134 (1.2)</cell><cell>133 (1.2)</cell><cell>137 (1.2)</cell><cell>0.03</cell></row><row><cell>Diastolic blood pressure (mmHg)</cell><cell>77 (0.6)</cell><cell>77 (0.7)</cell><cell>77 (0.7)</cell><cell>78 (0.7)</cell><cell>0.70</cell></row><row><cell>Total cholesterol (mmol/L)</cell><cell>4.67 (0.05)</cell><cell>4.68 (0.05)</cell><cell>4.86 (0.06)</cell><cell>4.63 (0.05)</cell><cell>0.02</cell></row><row><cell>Triglycerides (mmol/L)</cell><cell>1.74 (0.06)</cell><cell>1.74 (0.07)</cell><cell>2.01 (0.07)</cell><cell>1.98 (0.07)</cell><cell>0.002</cell></row><row><cell>LDL cholesterol (mmol/L)</cell><cell>2.94 (0.04)</cell><cell>2.98 (0.05)</cell><cell>3.12 (0.05)</cell><cell>2.93 (0.05)</cell><cell>0.02</cell></row><row><cell>HDL cholesterol (mmol/L)</cell><cell>1.11 (0.01)</cell><cell>1.08 (0.01)</cell><cell>1.06 (0.01)</cell><cell>1.04 (0.01)</cell><cell>0.001</cell></row><row><cell>Duration of CAD (years)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>First diagnosed CAD (n = 930)</cell><cell>d</cell><cell>d</cell><cell>d</cell><cell>d</cell><cell></cell></row><row><cell>History of CAD (n = 796)</cell><cell>3.00 (1.00-7.57)</cell><cell>2.11 (0.55-1.90)</cell><cell>2.43 (0.82-9.20)</cell><cell>4.00 (1.08-9.64)</cell><cell>0.23</cell></row><row><cell>eGFR (mL/min/1.73 m 2 ), (%)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>,0.001</cell></row><row><cell>$90</cell><cell>24.3</cell><cell>33.0</cell><cell>30.2</cell><cell>27.2</cell><cell></cell></row><row><cell>60-89</cell><cell>54.7</cell><cell>46.3</cell><cell>50.6</cell><cell>41.4</cell><cell></cell></row><row><cell>30-59</cell><cell>20.1</cell><cell>18.2</cell><cell>17.3</cell><cell>26.0</cell><cell></cell></row><row><cell>15-29</cell><cell>0.4</cell><cell>2.0</cell><cell>2.0</cell><cell>3.7</cell><cell></cell></row><row><cell>,15</cell><cell>0.6</cell><cell>0.5</cell><cell>0.0</cell><cell>1.7</cell><cell></cell></row><row><cell>Married (%)</cell><cell>91.0</cell><cell>94.7</cell><cell>91.3</cell><cell>89.1</cell><cell>0.16</cell></row><row><cell>Years of education (%)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>0.81</cell></row><row><cell>#9</cell><cell>59.8</cell><cell>59.7</cell><cell>62.4</cell><cell>63.5</cell><cell></cell></row><row><cell>10-12</cell><cell>22.3</cell><cell>21.2</cell><cell>19.2</cell><cell>17.4</cell><cell></cell></row><row><cell>$13</cell><cell>17.9</cell><cell>19.1</cell><cell>18.5</cell><cell>19.1</cell><cell></cell></row><row><cell>Smoking (%)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>0.001</cell></row><row><cell>Never</cell><cell>60.7</cell><cell>57.0</cell><cell>54.8</cell><cell>67.7</cell><cell></cell></row><row><cell>Past</cell><cell>8.2</cell><cell>10.8</cell><cell>9.1</cell><cell>10.1</cell><cell></cell></row><row><cell>Current</cell><cell>31.1</cell><cell>32.2</cell><cell>36.1</cell><cell>22.2</cell><cell></cell></row><row><cell>Alcohol drinking (%)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>0.009</cell></row><row><cell>Never</cell><cell>80.3</cell><cell>73.3</cell><cell>75.5</cell><cell>80.2</cell><cell></cell></row><row><cell>Past</cell><cell>5.5</cell><cell>10.9</cell><cell>5.4</cell><cell>7.7</cell><cell></cell></row><row><cell>Current</cell><cell>14.3</cell><cell>15.8</cell><cell>19.1</cell><cell>12.1</cell><cell></cell></row><row><cell>Leisure-time physical activity (%)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>0.07</cell></row><row><cell>None</cell><cell>35.5</cell><cell>36.4</cell><cell>40.7</cell><cell>29.8</cell><cell></cell></row><row><cell>,30 min/day</cell><cell>24.0</cell><cell>18.4</cell><cell>18.9</cell><cell>21.4</cell><cell></cell></row><row><cell>$30 min/day</cell><cell>40.5</cell><cell>45.2</cell><cell>40.4</cell><cell>48.8</cell><cell></cell></row><row><cell>Family history of diabetes (%)</cell><cell>24.1</cell><cell>24.1</cell><cell>23.6</cell><cell>23.6</cell><cell>1.00</cell></row><row><cell>Type of CAD (%)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>,0.001</cell></row><row><cell>Acute coronary syndrome</cell><cell>50.8</cell><cell>61.9</cell><cell>66.9</cell><cell>61.0</cell><cell></cell></row><row><cell>Chronic CAD</cell><cell>49.2</cell><cell>39.1</cell><cell>33.1</cell><cell>39.0</cell><cell></cell></row><row><cell>Coronary artery stenosis degree of</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>coronary angiography</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>,0.001</cell></row><row><cell>Not conduct</cell><cell>36.3</cell><cell>32.2</cell><cell>24.2</cell><cell>35.9</cell><cell></cell></row><row><cell>,50%</cell><cell>17.0</cell><cell>11.1</cell><cell>10.6</cell><cell>5.1</cell><cell></cell></row><row><cell>50-74.9%</cell><cell>11.0</cell><cell>7.6</cell><cell>6.0</cell><cell>7.1</cell><cell></cell></row><row><cell>$75%</cell><cell>35.7</cell><cell>49.2</cell><cell>59.2</cell><cell>51.9</cell><cell></cell></row><row><cell>History of diseases (%)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>CAD</cell><cell>50.0</cell><cell>43.5</cell><cell>36.9</cell><cell>51.6</cell><cell>,0.001</cell></row><row><cell>Hypertension</cell><cell>56.8</cell><cell>52.6</cell><cell>53.0</cell><cell>70.2</cell><cell>,0.001</cell></row><row><cell>Dyslipidemia</cell><cell>28.5</cell><cell>29.2</cell><cell>26.6</cell><cell>34.4</cell><cell>0.09</cell></row><row><cell>Heart failure</cell><cell>37.2</cell><cell>41.8</cell><cell>50.8</cell><cell>46.6</cell><cell>,0.001</cell></row><row><cell>Use of medication before admission (%)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Antidiabetic drugs</cell><cell>d</cell><cell>d</cell><cell>d</cell><cell>68.6</cell><cell></cell></row><row><cell>Insulin</cell><cell>d</cell><cell>d</cell><cell>d</cell><cell>15.0</cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">Continued on p. 550</cell></row></table><note>*All patients were measured for FPG (n = 1,726) and some patients conducted OGTT (n = 643). †Model 1 for age and sex. ‡Model 2 was adjusted for model 1 covariates plus education, marriage, leisure-time physical activity, smoking, and alcohol drinking. §Model 3 was adjusted for model 2 covariates plus type, severity, duration, and treatment of CAD, history of heart failure, BMI, SBP, total cholesterol, HDL cholesterol, eGFR, and use of antihypertensive, cholesterol-lowering, and antiplatelet drugs.550 Hyperglycemia and Mortality Among CAD Patients Diabetes Care Volume 37, February 2014 studies have confirmed that known diabetes is associated with a high risk of adverse outcome for CAD patients<ref type="bibr" target="#b7">(8,</ref><ref type="bibr" target="#b26">26)</ref>. However, regarding newly diagnosed diabetes and IGR, previous findings were inconsistent. One Swedish study including 168 patients with acute myocardial infarction identified that abnormal glucose tolerance (combined newly diagnosed diabetes and IGT) was a prominent risk factor of further cardiovascular events<ref type="bibr" target="#b13">(14)</ref>. But with a</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 3 -</head><label>3</label><figDesc>HRs for all-cause and cardiovascular mortality according to CAD patients with both fasting and 2-h glucose *</figDesc><table><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>HRs (95% CIs)</cell><cell></cell></row><row><cell></cell><cell cols="3">No. of participants No. of deaths Person-years</cell><cell>Model 1 †</cell><cell>Model 2 ‡</cell><cell>Model 3 §</cell></row><row><cell>All-cause mortality</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Normoglycemia</cell><cell>122</cell><cell>2</cell><cell>412</cell><cell>1</cell><cell>1</cell><cell>1</cell></row><row><cell>IGR</cell><cell>209</cell><cell>8</cell><cell>702</cell><cell cols="3">2.34 (0.50-11.0) 2.19 (0.46-10.4) 2.29 (0.48-10.9)</cell></row><row><cell>Newly diagnosed diabetes</cell><cell>366</cell><cell>37</cell><cell>1,055</cell><cell cols="3">6.55 (1.58-27.2) 6.11 (1.46-25.6) 5.59 (1.33-23.5)</cell></row><row><cell>Known diabetes</cell><cell>421</cell><cell>42</cell><cell>1,291</cell><cell cols="3">5.35 (1.29-22.1) 5.11 (1.23-21.2) 5.12 (1.23-21.3)</cell></row><row><cell>P value for trend</cell><cell></cell><cell></cell><cell></cell><cell>0.006</cell><cell>0.008</cell><cell>0.019</cell></row><row><cell>Cardiovascular mortality</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Normoglycemia</cell><cell>122</cell><cell>2</cell><cell>412</cell><cell>1</cell><cell>1</cell><cell>1</cell></row><row><cell>IGR</cell><cell>209</cell><cell>8</cell><cell>702</cell><cell cols="3">2.33 (0.49-11.0) 2.12 (0.45-10.0) 2.31 (0.48-11.0)</cell></row><row><cell>Newly diagnosed diabetes</cell><cell>366</cell><cell>31</cell><cell>1,055</cell><cell cols="3">5.42 (1.30-22.7) 4.96 (1.18-20.9) 4.57 (1.08-19.4)</cell></row><row><cell>Known diabetes</cell><cell>421</cell><cell>37</cell><cell>1,291</cell><cell cols="3">4.68 (1.12-19.4) 4.34 (1.07-18.8)</cell></row><row><cell>P value for trend</cell><cell></cell><cell></cell><cell></cell><cell>0.029</cell><cell>0.036</cell><cell>0.072</cell></row><row><cell>All-cause mortality</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Normoglycemia</cell><cell>122</cell><cell>2</cell><cell>412</cell><cell>1</cell><cell>1</cell><cell>1</cell></row><row><cell>Isolated IFG</cell><cell>37</cell><cell>3</cell><cell>121</cell><cell cols="3">6.48 (1.08-38.8) 5.83 (0.96-35.3) 5.81 (0.94-35.9)</cell></row><row><cell>Impaired glucose tolerance</cell><cell>172</cell><cell>5</cell><cell>581</cell><cell cols="3">1.69 (0.33-8.71) 1.59 (0.31-8.27) 1.69 (0.32-8.81)</cell></row><row><cell>Newly diagnosed diabetes</cell><cell>366</cell><cell>37</cell><cell>1,055</cell><cell cols="3">6.54 (1.57-27.2) 6.10 (1.46-25.5) 5.62 (1.33-23.6)</cell></row><row><cell>Known diabetes</cell><cell>421</cell><cell>42</cell><cell>1,291</cell><cell cols="3">5.34 (1.29-22.1) 5.11 (1.23-21.2) 5.13 (1.23-21.4)</cell></row><row><cell>P value for trend</cell><cell></cell><cell></cell><cell></cell><cell>0.008</cell><cell>0.011</cell><cell>0.024</cell></row><row><cell>Cardiovascular mortality</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Normoglycemia</cell><cell>122</cell><cell>2</cell><cell>412</cell><cell>1</cell><cell>1</cell><cell>1</cell></row><row><cell>Isolated IFG</cell><cell>37</cell><cell>3</cell><cell>121</cell><cell cols="3">6.47 (1.08-38.8) 5.41 (0.89-32.8) 5.48 (0.88-33.9)</cell></row><row><cell>Impaired glucose tolerance</cell><cell>172</cell><cell>5</cell><cell>581</cell><cell cols="3">1.68 (0.33-8.67) 1.55 (0.30-8.05) 1.73 (0.33-9.02)</cell></row><row><cell>Newly diagnosed diabetes</cell><cell>366</cell><cell>31</cell><cell>1,055</cell><cell cols="3">5.41 (1.29-22.6) 4.95 (1.17-20.8) 4.59 (1.08-19.5)</cell></row><row><cell>Known diabetes</cell><cell>421</cell><cell>37</cell><cell>1,291</cell><cell cols="3">4.66 (1.12-19.4) 4.34 (1.04-18.1) 4.51 (1.07-18.9)</cell></row><row><cell>P value for trend</cell><cell></cell><cell></cell><cell></cell><cell>0.029</cell><cell>0.040</cell><cell>0.077</cell></row></table><note>*All patients were measured for both FPG and OGTT (n = 1,118). †Model 1 was adjusted for age and sex. ‡Model 2 was adjusted for model 1 covariates plus education, marriage, leisure-time physical activity, smoking, and alcohol drinking. §Model 3 was adjusted for model 2 covariates plus type, severity, duration, and treatment of CAD; history of heart failure; BMI; SBP; total cholesterol; HDL cholesterol; eGFR; and use of antihypertensive, cholesterol-lowering, and antiplatelet drugs.</note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">Downloaded from http://diabetesjournals.org/care/article-pdf/37/2/546/619273/546.pdf by guest on 19 July 2022</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="548">Hyperglycemia and Mortality Among CAD Patients Diabetes Care Volume 37, February 2014 Downloaded from http://diabetesjournals.org/care/article-pdf/37/2/546/619273/546.pdf by guest on 19 July 2022</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">Diabetes Care Volume 37, February 2014 Downloaded from http://diabetesjournals.org/care/article-pdf/37/2/546/619273/546.pdf by guest on 19 July 2022</note>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m">International Diabetes Federation. IDF Diabetes Atlas</title>
+				<meeting><address><addrLine>Brussels, Belgium</addrLine></address></meeting>
+		<imprint>
+			<publisher>International Diabetes Federation</publisher>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note>5th ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">China National Diabetes and Metabolic Disorders Study Group. Prevalence of diabetes among men and women in China</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Weng</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">362</biblScope>
+			<biblScope unit="page" from="1090" to="1101" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Euro Heart Survey Investigators. The prevalence of abnormal glucose regulation in patients with coronary artery disease across Europe. The Euro Heart Survey on diabetes and the heart</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bartnik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Rydén</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Ferrari</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur Heart J</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="1880" to="1890" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">China Heart Survey Group. The relationship between coronary artery disease and abnormal glucose regulation in China: the China Heart Survey</title>
+		<author>
+			<persName><forename type="first">D-Y</forename><surname>Hu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C-Y</forename><surname>Pan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Yu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur Heart J</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="2573" to="2579" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Joint effects of history of hypertension at baseline and type 2 diabetes at baseline and during follow-up on the risk of coronary heart disease</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Hu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Jousilahti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tuomilehto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur Heart J</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="3059" to="3066" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<ptr target="http://www.who.int/nmh/publications/ncd_report_full_en.pdf.Accessed" />
+		<title level="m">Global status report on noncommunicable diseases 2010</title>
+				<imprint>
+			<date type="published" when="2011-11-18">2011. 18 November 2013</date>
+		</imprint>
+	</monogr>
+	<note>Internet</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Mortality from coronary heart disease in subjects with type 2 diabetes and in nondiabetic subjects with and without prior myocardial infarction</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Haffner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lehto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Rönnemaa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Pyörälä</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Laakso</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">339</biblScope>
+			<biblScope unit="page" from="229" to="234" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Diabetes mellitus: the major risk factor in unstable coronary artery disease even after consideration of the extent of coronary artery disease and benefits of revascularization</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Norhammar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Malmberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Diderholm</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Coll Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page" from="585" to="591" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Glucose tolerance and mortality: comparison of WHO and American Diabetes Association diagnostic criteria. The DECODE study group</title>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">354</biblScope>
+			<biblScope unit="page" from="617" to="621" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+	<note>European Diabetes Epidemiology Group. Diabetes Epidemiology: Collaborative analysis Of Diagnostic criteria in Europe</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Glucose tolerance and cardiovascular mortality: comparison of fasting and 2-hour diagnostic criteria</title>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">161</biblScope>
+			<biblScope unit="page" from="397" to="405" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+		<respStmt>
+			<orgName>DECODE Study Group, the European Diabetes Epidemiology Group</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Risk of cardiovascular and all-cause mortality in individuals with diabetes mellitus, impaired fasting glucose, and impaired glucose tolerance: the Australian Diabetes, Obesity, and Lifestyle Study (AusDiab)</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">L</forename><surname>Barr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">Z</forename><surname>Zimmet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Welborn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">116</biblScope>
+			<biblScope unit="page" from="151" to="157" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Is the current definition for diabetes relevant to mortality risk From all causes and cardiovascular and noncardiovascular diseases?</title>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="688" to="696" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+		<respStmt>
+			<orgName>DECODE Study Group, European Diabetes Epidemiology Group</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Euro Heart Survey Investigators. Diabetes known or newly detected, but not impaired glucose regulation, has a negative influence on 1-year outcome in patients with coronary artery disease: a report from the Euro Heart Survey on diabetes and the heart</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Lenzen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Ryden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ohrvik</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur Heart J</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="2969" to="2974" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Ryd én L. Newly detected abnormal glucose tolerance: an important predictor of long-term outcome after myocardial infarction</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bartnik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Malmberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Norhammar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Tenerz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ohrvik</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur Heart J</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="1990" to="1997" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Relationship between lipid profiles and plasma total homocysteine, cysteine and the risk of coronary artery disease in coronary angiographic subjects</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Xiao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Lv</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lipids Health Dis</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">137</biblScope>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Joint effects of genetic variants in multiple loci on the risk of coronary artery disease in Chinese Han subjects</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Lv</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Rao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circ J</title>
+		<imprint>
+			<biblScope unit="volume">76</biblScope>
+			<biblScope unit="page" from="1987" to="1992" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Association between serum interleukin-6 concentration and mortality in coronary artery disease</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Su</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Li</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mediators Inflamm</title>
+		<imprint>
+			<biblScope unit="volume">2013</biblScope>
+			<biblScope unit="page">726178</biblScope>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">ACC/AHA/ACP-ASIM guidelines for the management of patients with chronic stable angina: executive summary and recommendations. A Report of the American College of Cardiology/ American Heart Association Task Force on Practice Guidelines (Committee on Management of Patients with Chronic Stable Angina)</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Gibbons</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Chatterjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Daley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">99</biblScope>
+			<biblScope unit="page" from="2829" to="2848" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">ACC/AHA guidelines for the management of patients with unstable angina and non-ST-segment elevation myocardial infarction: executive summary and recommendations. A report of the American College of Cardiology/American Heart Association task force on practice guidelines (committee on the management of patients with unstable angina)</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Braunwald</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Antman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Beasley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">102</biblScope>
+			<biblScope unit="page" from="1193" to="1209" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Validation of an FFQ to estimate the intake of fatty acids using erythrocyte membrane fatty acids and multiple 3d dietary records</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">G</forename><surname>Chen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Public Health Nutr</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="1546" to="1552" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">care.diabetesjournals.org Ding and Associates</title>
+		<imprint>
+			<biblScope unit="volume">553</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">A multiethnic cohort in Hawaii and Los Angeles: baseline characteristics</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">N</forename><surname>Kolonel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">E</forename><surname>Henderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Hankin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">151</biblScope>
+			<biblScope unit="page" from="346" to="357" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">The World Health Organization MONICA Project (monitoring trends and determinants in cardiovascular disease): a major international collaboration</title>
+	</analytic>
+	<monogr>
+		<title level="m">WHO MONICA Project Principal Investigators</title>
+				<imprint>
+			<date type="published" when="1988">1988</date>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="105" to="114" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Using standardized serum creatinine values in the modification of diet in renal disease study equation for estimating glomerular filtration rate</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Levey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Coresh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Greene</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">145</biblScope>
+			<biblScope unit="page" from="247" to="254" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+	<note>Chronic Kidney Disease Epidemiology Collaboration</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Diagnosis and classification of diabetes mellitus</title>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="S37" to="S42" />
+			<date type="published" when="2005">2005</date>
+			<publisher>American Diabetes Association</publisher>
+		</imprint>
+	</monogr>
+	<note>Suppl. 1</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Regression models and life-tables</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Cox</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J R Stat Soc Series B Methodol</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="187" to="220" />
+			<date type="published" when="1972">1972</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Impact of diabetes on long-term prognosis in patients with unstable angina and non-Qwave myocardial infarction: results of the OASIS (Organization to Assess Strategies for Ischemic Syndromes) Registry</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Malmberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Yusuf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Gerstein</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">102</biblScope>
+			<biblScope unit="page" from="1014" to="1019" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Intermountain Heart Collaborative Study Group. Effect of fasting glucose levels on mortality rate in patients with and without diabetes mellitus and coronary artery disease undergoing percutaneous coronary intervention</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Muhlestein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">D</forename><surname>Horne</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am Heart J</title>
+		<imprint>
+			<biblScope unit="volume">146</biblScope>
+			<biblScope unit="page" from="351" to="358" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Impaired fasting glucose concentrations in nondiabetic patients with ischemic heart disease: a marker for a worse prognosis</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">Z</forename><surname>Fisman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Motro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Tenenbaum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Boyko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Mandelzweig</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Behar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am Heart J</title>
+		<imprint>
+			<biblScope unit="volume">141</biblScope>
+			<biblScope unit="page" from="485" to="490" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Diabetes Prevention Program Research Group. Reduction in the incidence of type 2 diabetes with lifestyle intervention or metformin</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">C</forename><surname>Knowler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Barrett-Connor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Fowler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">346</biblScope>
+			<biblScope unit="page" from="393" to="403" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Prevention of type 2 diabetes mellitus by changes in lifestyle among subjects with impaired glucose tolerance</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tuomilehto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lindström</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Eriksson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">344</biblScope>
+			<biblScope unit="page" from="1343" to="1350" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+	<note>Finnish Diabetes Prevention Study Group</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Finnish Diabetes Prevention Study Group. Sustained reduction in the incidence of type 2 diabetes by lifestyle intervention: follow-up of the Finnish Diabetes Prevention Study</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lindström</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Ilanne-Parikka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Peltonen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">368</biblScope>
+			<biblScope unit="page" from="1673" to="1679" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Acute hyperglycaemia: a &apos;new&apos; risk factor during myocardial infarction</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ceriello</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur Heart J</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="328" to="331" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

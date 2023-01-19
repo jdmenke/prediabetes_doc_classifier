@@ -1,0 +1,1037 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Racial Differences in and Prognostic Value of Biomarkers of Hyperglycemia</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Elizabeth</forename><surname>Selvin</surname></persName>
+							<email>eselvin@jhu.edu</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Epidemiology and the Welch Center for Prevention, Epidemiology and Clinical Research</orgName>
+								<orgName type="institution">Johns Hopkins University Bloomberg School of Public Health</orgName>
+								<address>
+									<settlement>Baltimore</settlement>
+									<region>MD</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Division of General Internal Medicine</orgName>
+								<orgName type="department" key="dep2">Depart-ment of Medicine</orgName>
+								<orgName type="institution">Johns Hopkins University</orgName>
+								<address>
+									<settlement>Baltimore</settlement>
+									<region>MD</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Christina</forename><forename type="middle">M</forename><surname>Parrinello</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Epidemiology and the Welch Center for Prevention, Epidemiology and Clinical Research</orgName>
+								<orgName type="institution">Johns Hopkins University Bloomberg School of Public Health</orgName>
+								<address>
+									<settlement>Baltimore</settlement>
+									<region>MD</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">A</forename><forename type="middle">Richey</forename><surname>Sharrett</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Epidemiology and the Welch Center for Prevention, Epidemiology and Clinical Research</orgName>
+								<orgName type="institution">Johns Hopkins University Bloomberg School of Public Health</orgName>
+								<address>
+									<settlement>Baltimore</settlement>
+									<region>MD</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Nisa</forename><forename type="middle">M</forename><surname>Maruthur</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Epidemiology and the Welch Center for Prevention, Epidemiology and Clinical Research</orgName>
+								<orgName type="institution">Johns Hopkins University Bloomberg School of Public Health</orgName>
+								<address>
+									<settlement>Baltimore</settlement>
+									<region>MD</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Division of General Internal Medicine</orgName>
+								<orgName type="department" key="dep2">Depart-ment of Medicine</orgName>
+								<orgName type="institution">Johns Hopkins University</orgName>
+								<address>
+									<settlement>Baltimore</settlement>
+									<region>MD</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Richard</forename><forename type="middle">M</forename><surname>Bergenstal</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">International Diabetes Center</orgName>
+								<orgName type="institution">Park Nicollet Health Services</orgName>
+								<address>
+									<settlement>Minneapolis</settlement>
+									<region>MN</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Morgan</forename><forename type="middle">E</forename><surname>Grams</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Epidemiology and the Welch Center for Prevention, Epidemiology and Clinical Research</orgName>
+								<orgName type="institution">Johns Hopkins University Bloomberg School of Public Health</orgName>
+								<address>
+									<settlement>Baltimore</settlement>
+									<region>MD</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department" key="dep1">Division of Nephrology</orgName>
+								<orgName type="department" key="dep2">Department of Medi-cine</orgName>
+								<orgName type="institution">Johns Hopkins University</orgName>
+								<address>
+									<settlement>Baltimore</settlement>
+									<region>MD</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Josef</forename><surname>Coresh</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Epidemiology and the Welch Center for Prevention, Epidemiology and Clinical Research</orgName>
+								<orgName type="institution">Johns Hopkins University Bloomberg School of Public Health</orgName>
+								<address>
+									<settlement>Baltimore</settlement>
+									<region>MD</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Division of General Internal Medicine</orgName>
+								<orgName type="department" key="dep2">Depart-ment of Medicine</orgName>
+								<orgName type="institution">Johns Hopkins University</orgName>
+								<address>
+									<settlement>Baltimore</settlement>
+									<region>MD</region>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Racial Differences in and Prognostic Value of Biomarkers of Hyperglycemia</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">4A0E4275EA7818F96D6ECB320854F0C9</idno>
+					<idno type="DOI">10.2337/dc15-1360</idno>
+					<note type="submission">Received 23 June 2015 and accepted 8 October 2015.</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.1" ident="GROBID" when="2022-07-19T22:45+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>We compared levels and associations of traditional (fasting glucose, HbA 1c ) and nontraditional (fructosamine, glycated albumin, and 1,5-anhydroglucitol [1,5-AG]) biomarkers of hyperglycemia with incident cardiovascular disease (CVD), incident end-stage renal disease (ESRD), and prevalent retinopathy in black and white adults.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESEARCH DESIGN AND METHODS</head><p>We included 10,373 participants without (8,096 white, 2,277 black) and 727 with diagnosed diabetes (425 white, 302 black) from the Atherosclerosis Risk in Communities (ARIC) Study. We used Cox proportional hazards models to compare hazards ratios of CVD and ESRD among blacks and whites from baseline (1990)(1991)(1992) through 2012. We compared the odds ratios (from logistic regression) of retinopathy among blacks and whites. We tested for the interaction of each biomarker with race.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head><p>Median values of biomarkers were higher among blacks versus whites (all P &lt; 0.001). Relative risks for each biomarker with incident CVD and ESRD, and odds ratios for each biomarker with prevalent retinopathy, were similar by race (all P values for interaction by race &gt;0.10).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CONCLUSIONS</head><p>The prognostic value of HbA 1c , fructosamine, glycated albumin, and 1,5-AG with incident CVD, incident ESRD, and prevalent retinopathy were similar by race. Our results support similar interpretation of HbA 1c and nontraditional biomarkers of hyperglycemia among black and whites with respect to long-term complications.</p><p>Nontraditional biomarkers of hyperglycemia (fructosamine, glycated albumin, and 1,5-anhydroglucitol [1,5-AG]) have emerged as possible adjuncts to the traditional biomarkers, fasting glucose and HbA 1c (1,2). Fasting glucose is an acute measure of current hyperglycemia. HbA 1c is the proportion of hemoglobin in red blood cells bound to glucose (specifically, glucose that is bound to the N-terminal valine of the b-chain of hemoglobin), and measures average glycemia over 2-3 months, based on red blood cell turnover (3,4). Fructosamine and glycated albumin are markers of glucose bound to serum proteins and estimate average glycemia over 2-4 weeks (5). 1,5-AG is a monosaccharide, mainly derived from the diet, that is normally almost completely reabsorbed by the kidney. In states of hyperglycemia (.180 mg/dL), glucose in the renal tubular lumen inhibits tubular reabsorption of 1,5-AG, and more 1,5-AG is excreted, resulting in lower serum 1,5-AG levels. Levels of 1,5-AG are inversely associated with average glycemia over the past 2-14 days (6-10).</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Higher levels of biomarkers of hyperglycemia have been associated with increased risk of microvascular and macrovascular complications in both people with and people without diabetes <ref type="bibr" target="#b10">(11)</ref><ref type="bibr" target="#b11">(12)</ref><ref type="bibr" target="#b12">(13)</ref><ref type="bibr" target="#b13">(14)</ref><ref type="bibr" target="#b14">(15)</ref><ref type="bibr" target="#b15">(16)</ref><ref type="bibr" target="#b16">(17)</ref>. However, prospective associations of nontraditional serum biomarkers of hyperglycemia with microvascular and macrovascular complications according to race have not been characterized and could shed further light on the debate over racial differences in HbA 1c . Whereas HbA 1c is a measure of intracellular hyperglycemia and can be affected by nonglycemic factors, such as hemoglobin characteristics or alterations in red cell turnover, fructosamine, glycated albumin, and 1,5-AG are serum measures of extracellular hyperglycemia and therefore are not affected by these nonglycemic factors. Comparing associations of each of these biomarkers in blacks and whites could provide insight into whether racial differences in levels of biomarkers may be attributed to glycemic or nonglycemic factors.</p><p>Our objective was to assess the associations of fasting glucose, HbA 1c , and nontraditional serum biomarkers of hyperglycemia (fructosamine, glycated albumin, and 1,5-AG) with prevalent retinopathy and incident cardiovascular disease (CVD) and end-stage renal disease (ESRD), and to evaluate differential associations between blacks and whites.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESEARCH DESIGN AND METHODS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Setting and Participants</head><p>We conducted a prospective cohort analysis of the Atherosclerosis Risk in Communities (ARIC) Study, a communitybased cohort of 15,792 middle-aged adults recruited in 1987-1989 from four field centers in the United States: Forsyth County, North Carolina; Jackson, Mississippi; suburban Minneapolis, Minnesota; and Washington County, Maryland <ref type="bibr" target="#b17">(18)</ref>. Follow-up visits 2 through 5 took place during <ref type="bibr">1990-1992, 1993-1995, 1996-1998, and 2011-2013</ref>, respectively. We restricted our study population to ARIC participants who attended visit 2 (n = 14,348) because this was the earliest visit at which all biomarkers of hyperglycemia were measured. We excluded participants who did not have values for all biomarkers of hyperglycemia (n = 1,159) or were missing key covariates (n = 379). We further excluded a small number of nonblack and nonwhite participants (n = 38), as well as people who were not fasting for $8 h (n = 396). Last, we excluded 1,276 people with prevalent CVD or preexisting ESRD based on linkage with the U.S. Renal Data System (USRDS) at visit 2. There were 11,100 participants included in our final study population of incident CVD and ESRD. Retinal photographs were obtained only at visit 3 in 1993-1995 (3 years after visit 2); analyses of prevalent retinopathy were restricted further to those participants who attended visit 3 and had valid retinal photographs (n = 8,615).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Biomarkers of Hyperglycemia</head><p>All biomarkers of hyperglycemia were measured using blood specimens from visit 2. Fasting glucose was measured using a hexokinase method. HbA 1c was measured using high-performance liquid chromatography with Tosoh A1c 2.2 Plus Glycohemoglobin and Tosoh G7 Analyzers (Tosoh Bioscience, South San Francisco, CA), and was standardized to the Diabetes Control and Complications Trial assay <ref type="bibr" target="#b18">(19)</ref>. All HbA 1c values were calibrated to account for the changes in methods <ref type="bibr" target="#b18">(19)</ref>. Fructosamine, glycated albumin, and 1,5-AG in stored serum samples were measured in 2012-2013 using a Roche Modular P800 analyzer (Roche Diagnostics, Indianapolis, IN). Fructosamine was measured using a colorimetric method (Roche Diagnostics). Glycated albumin (Lucica GA-L; Asahi Kasei Pharma Corp., Tokyo, Japan) and 1,5-AG (GlycoMark, New York, NY) were measured using enzymatic methods. Glycated albumin was expressed as a percentage of total albumin, calculated using the following equation derived by the manufacturer: ([glycated albumin concentration in g/dL 4 serum albumin concentration in g/dL] 4 1.14 3 100) + 2.9. The interassay coefficients of variation were 3% for fructosamine, 1.8% for glycated albumin, and 5% for 1,5-AG. Previous studies from our group and others have demonstrated the stability and reliability of these biomarkers measured in samples stored for long periods <ref type="bibr" target="#b12">(13,</ref><ref type="bibr">(20)</ref><ref type="bibr" target="#b19">(21)</ref><ref type="bibr" target="#b20">(22)</ref><ref type="bibr" target="#b21">(23)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Covariates</head><p>We defined diagnosed diabetes as a selfreported physician diagnosis of diabetes or self-reported use of glucose-lowering medication at visit 1 or visit 2. The following covariates were self-reported by participants as responses to questionnaires at visit 2, unless otherwise specified: age, sex, race (visit 1), education level (visit 1), alcohol consumption, smoking status, and physical activity (Baecke sport activity index at visit 1) <ref type="bibr" target="#b22">(24)</ref>. Antihypertensive medication use was obtained via self-report or medication inventory. Cholesterol-lowering medication use was obtained via medication inventory.</p><p>Diastolic and systolic blood pressures were measured using a random zero sphygmomanometer and recorded as the mean of the second and third readings. BMI was calculated as measured weight (in kilograms) divided by measured height (in meters) squared. Total cholesterol, HDL cholesterol (HDL-c), LDL cholesterol (LDL-c), and triglycerides were measured in stored plasma using the Roche Cobas Bio (Roche Diagnostics). Total cholesterol and triglycerides were measured using an enzymatic method, and HDL-c was measured using a precipitation method. LDL-c was calculated from measured total cholesterol, HDL-c, and triglycerides using the Friedewald equation. Creatinine was measured using the Jaffe method with a Coulter DACOS analyzer. We used the Chronic Kidney Disease Epidemiology Collaboration equation to calculate the estimated glomerular filtration rate (eGFR) using serum creatinine, age, sex, and race <ref type="bibr" target="#b23">(25)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Outcomes and Follow-up</head><p>We used a composite CVD end point defined as a first coronary heart disease (CHD), stroke, or heart failure event, based on standard ARIC definitions: first occurrence of definite or probable hospitalized myocardial infarction or death caused by CHD (26); definite or probable hospitalized stroke or death caused by stroke (27); or hospitalization or death caused by heart failure, based on International Classification of Diseases, 9th Revision, code 428 or 10th Revision code I50 (28). All cardiovascular events through 31 December 2012 were ascertained via continuous surveillance of hospitalizations and death certificates, annual telephone follow-up with the participant or a proxy, and linkage to the National Death Index. CHD and stroke events were adjudicated over the entire follow-up; heart failure events were adjudicated beginning in 2005. We conducted secondary analyses with CHD, stroke, and heart failure as separate end points.</p><p>For analyses of incident ESRD, we identified treated cases through linkage with the USRDS national registry through 30 September 2011, since that was the most recent available linkage to the USRDS. The Centers for Medicare and Medicaid Services report any people receiving renal replacement therapy to the USRDS within 45 days of initiation of treatment, which includes people undergoing dialysis or a kidney transplant.</p><p>Prevalent retinopathy was measured at visit 3 (1993-1995) using fundus photography <ref type="bibr" target="#b24">(29,</ref><ref type="bibr">30)</ref>. It was defined as a score of $20 on the Early Treatment Diabetic Retinopathy Study scale <ref type="bibr" target="#b25">(31)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical Analysis</head><p>We calculated descriptive statistics for demographic and clinical characteristics, stratified by diagnosed diabetes status and race. We compared median levels of HbA 1c , and 1,5-AG within clinical categories of fasting glucose among blacks and whites separately, and we tested for differences using the Wilcoxon rank sum test.</p><p>We created a five-level variable for each biomarker based on diagnosed diabetes status and biomarker level. In people without diagnosed diabetes, we used clinical cut points recommended by the American Diabetes Association to categorize fasting glucose (,100, 100-125, $126 mg/dL) and HbA 1c (,5.7, 5.7-6.4, $6.5%) (1). We categorized people with diagnosed diabetes based on the clinically recommended cut point of ,7 vs. $7% for HbA 1c . Since clinical cut points have not been established for fructosamine or glycated albumin, we used cut points pegged to the clinically relevant HbA 1c values of 5.7% (the 75th percentile) and 6.5% (the 96.5th percentile) in people without diagnosed diabetes and HbA 1c of 7% (the 40th percentile) in people with diagnosed diabetes <ref type="bibr" target="#b0">(1)</ref>. Because of the inverse association of 1,5-AG with hyperglycemia, we used cut points at the 25th and 3.5th percentiles in people without diabetes and the 60th percentile in people with diagnosed diabetes.</p><p>We used Cox proportional hazards regression models to assess associations with incident CVD and ESRD. Follow-up for CVD and ESRD began at the visit 2 exam date (1990-1992) and continued until the time of the event, last date of follow-up, or 31 December 2012 (30 September 2011 for ESRD analyses), whichever occurred first. We used logistic regression to evaluate the associations of biomarkers of hyperglycemia with prevalent retinopathy in blacks and whites. Models included age, sex, BMI, BMI 2 , LDL-c, HDL-c, triglycerides, cholesterol-lowering medication use, In supplemental analyses, we first accounted for participants who did not have diabetes at baseline but developed it at some point during follow-up. For analyses of incident CVD and incident ESRD, we censored at the time of diabetes development people who developed diabetes after visit 2 if they either did not experience the event of interest or developed diabetes before experiencing the event of interest. For analyses of prevalent retinopathy, we excluded all people who developed diabetes during follow-up (n = 2,672). Second, we used Poisson regression to calculate age-and sex-adjusted race-specific incidence rates of CVD and ESRD separately in people with and without diagnosed diabetes. We included an offset term of the natural log of person-years to account for differences in follow-up time. We obtained predictive margins from logistic regression models to calculate the race-specific prevalence of retinopathy (also adjusted for age and sex). We used the Wald test to test differences in incidence rates and prevalence, comparing whites and blacks. All statistical analyses were conducted using Stata version 14.0 (StataCorp, College Station, TX).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head><p>Our study population included 10,373 participants without diagnosed diabetes (8,096 white and 2,277 black) and 727 participants with diagnosed diabetes (425 white and 302 black). Baseline characteristics varied between those with and without diagnosed diabetes and according to race (Table <ref type="table" target="#tab_0">1</ref>). Even at similar levels of fasting glucose, blacks had higher levels of HbA 1c , fructosamine, and glycated albumin (P , 0.001 for all) and marginally statistically significant lower levels of 1,5-AG (P , 0.07 for all) compared with whites (Table <ref type="table" target="#tab_1">2</ref>). The magnitudes of these black/white differences were particularly large among people with diagnosed diabetes (Table <ref type="table" target="#tab_1">2</ref>). Among people with and without diabetes, we observed statistically significantly higher age-and sex-adjusted incidence rates of CVD and ESRD among blacks compared with whites, and the prevalence of retinopathy was higher among blacks compared with whites (P , 0.05 for all) (Supplementary Fig. <ref type="figure">1</ref>). Among 11,100 participants who were free of CVD and ESRD at baseline, there were 2,642 incident cases of CVD and 170 cases of ESRD during approximately 20 years of follow-up. Magnitudes of association were greatest for HbA 1c compared with other biomarkers (Fig. <ref type="figure">1</ref> and Supplementary Table <ref type="table" target="#tab_0">1</ref>). The associations followed a linear trend among both whites and blacks (P trend , 0.001 for all). These associations of biomarkers with incident CVD were similar among blacks and whites (P values for interaction were .0.10 for all biomarkers) (Fig. <ref type="figure">1</ref> and Supplementary Table <ref type="table" target="#tab_0">1</ref>). Patterns and magnitudes of associations of biomarkers of hyperglycemia with individual CVD outcomes (CHD, stroke, and heart failure) were similar to those of the composite CVD outcome, with no evidence of a race interaction (P values for interaction were .0.10 for all biomarkers and all individual outcomes) (Supplementary Tables <ref type="table" target="#tab_1">2-4</ref>). Patterns of associations of biomarkers of hyperglycemia with ESRD were similar to those for CVD, but the risk of ESRD and strength of association with the biomarkers were substantially higher (Fig. <ref type="figure">1</ref> and Supplementary Table <ref type="table">5</ref>). The associations followed a linear trend among both whites and blacks (P trend , 0.001 for all). Associations of biomarkers of hyperglycemia with incident ESRD were similar among blacks and whites (P values for interaction were .0.15 for all biomarkers) (Fig. <ref type="figure">1</ref> and Supplementary Table <ref type="table">5</ref>).</p><p>Associations of biomarkers of hyperglycemia with prevalent retinopathy were of the particularly largest magnitude among people with the highest levels of hyperglycemia and diagnosed diabetes (Fig. <ref type="figure">1</ref> and Supplementary Table <ref type="table">6</ref>). Similar to CVD and ESRD, associations of biomarkers of hyperglycemia with retinopathy were similar among blacks and whites (P values for interaction were .0.40 for all biomarkers) (Fig. <ref type="figure">1</ref> and Supplementary Table <ref type="table">6</ref>).</p><p>Additional adjustment for continuous fasting glucose or HbA 1c substantially attenuated the associations with outcomes, but inferences about racial comparisons of associations were similar (Supplementary Tables <ref type="table" target="#tab_0">1-6</ref>). Results of analyses that censored or excluded participants who developed diabetes after visit 2 were similar to those of the main analyses, with conclusions unchanged (Supplementary Table <ref type="table">7</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CONCLUSIONS</head><p>We found the relative associations of both traditional and nontraditional biomarkers of hyperglycemia with CVD, ESRD, and retinopathy to be similar by race, although blacks had higher levels of hyperglycemia, higher absolute risks of CVD and ESRD, and a higher burden of retinopathy than whites. Our results suggest that the prognostic utility of HbA 1c and nontraditional serum biomarkers of hyperglycemia, particularly Figure with incident CVD, incident ESRD, and prevalent retinopathy by race. Hazard ratios (HRs) for CVD and ESRD were obtained using separate Cox proportional hazards regression models for white and black participants. Odds ratios for prevalent retinopathy were obtained using separate logistic regression models for white and black participants. In models that included both white and black participants, P values for interactions were calculated by conducting a likelihood ratio test to compare models with and without terms for the interaction between race and hyperglycemia. Models included adjustment for age; sex (male, female); BMI; BMI 2 ; LDL-c; HDL-c; triglycerides; cholesterol-lowering medication use (yes, no); systolic blood pressure; antihypertensive medication use (yes, no); eGFR; family history of diabetes (yes, no); education level (less than high school, high school or some college, college or more); alcohol consumption (current, former, never); cigarette smoking status (current, former, never); and physical activity level. Categories of diabetesdno diabetes; no diabetes, intermediate levels; no diabetes, elevated levels; diabetes; and diabetes, elevated levelsdwere defined using the following levels of each biomarker, respectively: fasting glucose: ,100, 100-125, $126, ,149, $149 mg/dL; HbA 1c : ,5.7, 5.7-6.4, $6.5, ,7.0, $7.0%; fructosamine: ,239. at diabetic levels, is similar among both black and white adults.</p><p>Our findings support previous studies that have shown similar associations of HbA 1c with microvascular and macrovascular disease in blacks and whites <ref type="bibr" target="#b13">(14,</ref><ref type="bibr" target="#b14">15,</ref><ref type="bibr" target="#b26">32,</ref><ref type="bibr" target="#b27">33)</ref> and that have recommended using the same HbA 1c diagnostic cut points across races/ethnicities <ref type="bibr" target="#b28">(34,</ref><ref type="bibr" target="#b29">35)</ref>. To our knowledge, this is the first prospective study to conduct head-to-head comparisons of traditional and nontraditional biomarkers of hyperglycemia with major diabetic complications. The similar associations of HbA 1c and nontraditional biomarkers with prevalent retinopathy are particularly relevant, because diagnostic cut points for diabetes are largely based on established associations with prevalent retinopathy (36).</p><p>Our study supports the idea that racial differences in biomarkers of hyperglycemia may be the result of real differences in glycemia (rather than differences in the behavior of the biomarkers studied), perhaps due to disparities in environmental factors, stress, behavior, diet, physical activity, and lifestyle factors that contribute to differences in circulating nonfasting hyperglycemia in blacks compared with whites <ref type="bibr" target="#b30">(37)</ref>. In particular, differences in postprandial glucose levels and insulin deficiency may play a role in racial differences in the levels of these biomarkers. Even after controlling for fasting glucose concentrations, we observed here that blacks had higher levels of hyperglycemia compared with whites, as indicated by higher levels of HbA 1c , fructosamine, and glycated albumin, and lower concentrations of 1,5-AG. As mentioned earlier, fructosamine, glycated albumin, and 1,5-AG are independent of the red blood cells or hemoglobin. Therefore, the observation that these nontraditional serum biomarkers of hyperglycemia exhibit a pattern of racial differences similar to that of HbA 1c provides evidence that nonglycemic factors, such as hemoglobin glycation or red cell turnover, may not explain observed racial disparities in the overall population (38). We cannot rule out the possibility that nonglycemic determinants may be important in a subset of the population.</p><p>An important consideration in the interpretation of racial differences in biomarker levels is that blacks are at higher risk of diabetes and diabetesrelated complications than whites <ref type="bibr" target="#b31">(39,</ref><ref type="bibr">40)</ref>.</p><p>We confirm here that blacks had higher incidence rates of CVD and ESRD and a higher prevalence of retinopathy compared with whites in the ARIC Study. It should be noted that some of the racial differences in absolute risk of diabetes complications may be due to differences in both sociodemographics and environmental and lifestyle exposures between blacks and whites, some of which may not be readily measured in epidemiologic studies.</p><p>There were several limitations of this study. We had only single measurements of biomarkers of hyperglycemia at baseline, and 2-h glucose measurements were not conducted. There is a lack of evidence regarding the long-term stability of 1,5-AG, although measurements from stored samples were strongly associated with diabetes and HbA 1c in the diabetic range (consistent with other studies using fresh samples <ref type="bibr" target="#b32">[41]</ref>), and 1,5-AG measured from these stored samples in the ARIC Study was strongly associated with diabetes and its complications, demonstrating construct validity <ref type="bibr" target="#b11">(12,</ref><ref type="bibr" target="#b21">23,</ref><ref type="bibr" target="#b33">42)</ref>. Age at diabetes diagnosis was not collected at the first or second ARIC examinations, and we therefore were unable to account for potential racial differences in duration of diabetes. However, among participants who had ever reported a diagnosis of diabetes at visit 2 (the baseline examination for this study), 31% (33% of blacks and 30% of whites) did not report diabetes at visit 1, 3 years earlier, and could be considered to have new-onset diabetes. We also cannot rule out the possibility that differences in levels of biomarkers of hyperglycemia by race may be the result of cultural differences by geography, rather than race alone. In the ARIC Study, black participants were recruited almost exclusively from two of the four field centers (Jackson, Mississippi, and Forsyth County, North Carolina). Although this was one of the largest studies to address this research question, it is possible that we may have been underpowered to detect moderate but statistically significant differences in the associations of biomarkers with outcomes in whites versus blacks. However, it is important to point out that comparing the magnitudes of associations in blacks and whites (regardless of statistical significance) is also important when assessing whether there are racial differences in the prognostic value of these biomarkers.</p><p>Our study had several important strengths. This is the largest prospective study to rigorously compare associations of HbA 1c and nontraditional serum biomarkers of hyperglycemia with long-term complications of diabetes. We also leveraged the large numbers of both black and white participants in the cohort to assess the prognostic implications of racial differences in biomarkers of hyperglycemia. The ARIC Study included rigorous assessment of retinopathy and surveillance of both CVD and ESRD over two decades.</p><p>Characterizing associations of these biomarkers of hyperglycemia with hard clinical end points is of the utmost importance because the goal of early diagnosis and improved disease management is prevention of microvascular and macrovascular complications in people with and at risk for diabetes. We found that biomarkers of hyperglycemia similarly reflect a risk of clinical outcomes in both blacks and whites. Our results suggest similar prognostic utility of HbA 1c , fructosamine, glycated albumin, and 1,5-AG in black and white adults. HHSN268201100010C, HHSN268201100011C, and HHSN268201100012C). Reagents for the fructosamine assays were donated by Roche Diagnostics. Reagents for the glycated albumin assays were donated by the Asahi Reagents for the 1,5-anhydroglucitol assays were donated by the GlycoMark Corporation. Duality of Interest. R.M.B. is a past volunteer of the American Diabetes Association. No other potential conflicts of interest relevant to this article were reported. Some of the data reported here were supplied by the U.S. Renal Data System (USRDS). The interpretation and reporting of these data are the responsibility of the authors and in no way should be seen as an official policy or interpretation of the U.S. government. Author Contributions. C.M.P. designed the study, interpreted and analyzed the data, and wrote the manuscript. A.R.S., N.M.M., R.M.B., M.E.G., and J.C. interpreted the data and reviewed and edited the manuscript. E.S. designed the study, interpreted the data, and reviewed and edited the manuscript. E.S. is the guarantor of this work and, as such, had full access to all the</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 -</head><label>1</label><figDesc>Characteristics of the study population by diabetes status and race, ARIC visit2 (1990-1992)    </figDesc><table><row><cell></cell><cell cols="2">No diagnosed diabetes</cell><cell></cell><cell></cell><cell>Diagnosed diabetes</cell><cell></cell></row><row><cell></cell><cell>White</cell><cell>Black</cell><cell></cell><cell>White</cell><cell>Black</cell><cell></cell></row><row><cell></cell><cell>(n = 8,096)</cell><cell>(n = 2,277)</cell><cell>P value*</cell><cell>(n = 425)</cell><cell>(n = 302)</cell><cell>P value*</cell></row><row><cell>Age, years</cell><cell>57.3 (5.6)</cell><cell>56.2 (5.7)</cell><cell>,0.001</cell><cell>58.7 (5.7)</cell><cell>57.6 (5.7)</cell><cell>0.013</cell></row><row><cell>Male sex</cell><cell>43.9%</cell><cell>35.8%</cell><cell>,0.001</cell><cell>48.0%</cell><cell>29.5%</cell><cell>,0.001</cell></row><row><cell>Less than HS education</cell><cell>13.9%</cell><cell>35.0%</cell><cell>,0.001</cell><cell>24.2%</cell><cell>44.0%</cell><cell>,0.001</cell></row><row><cell>Obese (BMI $ 30 kg/m 2 )</cell><cell>21.7%</cell><cell>41.5%</cell><cell>,0.001</cell><cell>47.5%</cell><cell>55.0%</cell><cell>0.048</cell></row><row><cell>Current smoking</cell><cell>20.5%</cell><cell>24.5%</cell><cell>,0.001</cell><cell>17.9%</cell><cell>21.2%</cell><cell>0.265</cell></row><row><cell>Current drinking</cell><cell>66.2%</cell><cell>36.8%</cell><cell>,0.001</cell><cell>48.5%</cell><cell>21.5%</cell><cell>,0.001</cell></row><row><cell>Family history of diabetes</cell><cell>21.9%</cell><cell>25.0%</cell><cell>0.002</cell><cell>41.9%</cell><cell>41.1%</cell><cell>0.824</cell></row><row><cell>Hypertension †</cell><cell>29.4%</cell><cell>51.4%</cell><cell>,0.001</cell><cell>51.3%</cell><cell>64.9%</cell><cell>,0.001</cell></row><row><cell>Antihypertensive medication use</cell><cell>21.7%</cell><cell>40.3%</cell><cell>,0.001</cell><cell>42.6%</cell><cell>57.0%</cell><cell>,0.001</cell></row><row><cell>Systolic BP, mmHg</cell><cell>118.8 (17.4)</cell><cell>125.5 (19.9)</cell><cell>,0.001</cell><cell>125.2 (17.2)</cell><cell>127.9 (20.1)</cell><cell>0.052</cell></row><row><cell>Systolic BP $140 mmHg</cell><cell>11.7%</cell><cell>21.0%</cell><cell>,0.001</cell><cell>19.8%</cell><cell>22.2%</cell><cell>0.428</cell></row><row><cell>Diastolic BP, mmHg</cell><cell>71.2 (9.7)</cell><cell>75.7 (10.8)</cell><cell>,0.001</cell><cell>70.8 (9.7)</cell><cell>73.0 (9.7)</cell><cell>0.003</cell></row><row><cell>Diastolic BP $90 mmHg</cell><cell>3.8%</cell><cell>10.1%</cell><cell>,0.001</cell><cell>3.3%</cell><cell>4.3%</cell><cell>0.478</cell></row><row><cell>HDL-c, mg/dL</cell><cell>50.1 (16.6)</cell><cell>54.5 (17.0)</cell><cell>,0.001</cell><cell>42.1 (12.8)</cell><cell>49.1 (13.6)</cell><cell>,0.001</cell></row><row><cell>Total cholesterol, mg/dL</cell><cell>209.0 (37.4)</cell><cell>208.9 (40.0)</cell><cell>0.921</cell><cell>208.7 (39.2)</cell><cell>217.5 (45.6)</cell><cell>0.005</cell></row><row><cell>LDL-c, mg/dL</cell><cell>132.8 (35.6)</cell><cell>133.7 (38.3)</cell><cell>0.281</cell><cell>132.6 (35.2)</cell><cell>141.4 (42.7)</cell><cell>0.003</cell></row><row><cell>Triglycerides, mg/dL</cell><cell>130.7 (64.5)</cell><cell>103.5 (50.0)</cell><cell>,0.001</cell><cell>169.5 (75.3)</cell><cell>134.8 (68.3)</cell><cell>,0.001</cell></row><row><cell>Cholesterol-lowering medication use</cell><cell>5.5%</cell><cell>2.8%</cell><cell>,0.001</cell><cell>12.9%</cell><cell>5.0%</cell><cell>,0.001</cell></row><row><cell>Glucose-lowering medications ‡</cell><cell>d</cell><cell>d</cell><cell>d</cell><cell>61.5%</cell><cell>76.5%</cell><cell>,0.001</cell></row><row><cell>eGFR ,60 mL/min/1.73 m 2</cell><cell>1.2%</cell><cell>1.1%</cell><cell>0.670</cell><cell>2.4%</cell><cell>4.6%</cell><cell>0.090</cell></row><row><cell>Prevalent retinopathy §</cell><cell>1.6%</cell><cell>3.3%</cell><cell>,0.001</cell><cell>19.6%</cell><cell>30.7%</cell><cell>0.005</cell></row><row><cell>Baecke sport index|</cell><cell>2.5 (0.8)</cell><cell>2.2 (0.7)</cell><cell>,0.001</cell><cell>2.4 (0.8)</cell><cell>2.1 (0.6)</cell><cell>,0.001</cell></row></table><note>Data are mean (SD) or percentages. BP, blood pressure; HS, high school; IQR, interquartile range. *Two-sided P values calculated using the Student t test for continuous variables and the x 2 test for categorical variables. †Hypertension defined as diastolic BP $90 mmHg or systolic BP $140 mmHg or antihypertensive medication use. ‡Among persons with diabetes, 13 black and 22 white participants are missing a response to self-reported use of glucose-lowering medication. §Retinopathy was assessed at visit3 (1993-1995)  and therefore was available for only a subset of the main study population (176 blacks and 317 whites among participants with diagnosed diabetes; 1,516 blacks and 6,561 whites among participants without diagnosed diabetes). |The Baecke sport index is a score of sport index during leisure time, with values ranging from 1 to 5, based on intensity (light, moderate, heavy); time (hours per week); and proportion (months per year) of activity. Higher values indicate higher levels of physical activity.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 -</head><label>2</label><figDesc>Baseline levels of biomarkers of hyperglycemia by diabetes status and race</figDesc><table><row><cell>Median (25th,</cell><cell>Median (25th,</cell></row><row><cell>75th percentile)</cell><cell>75th percentile) P value*</cell></row></table><note>Among people without diagnosed diabetes, there were 3,573 whites and 772 blacks with FG ,100 mg/dL; 4,133 whites and 1,266 blacks with FG 100-125 mg/dL; and 390 whites and 239 blacks with FG $126 mg/dL. Among people with diagnosed diabetes, there were 193 whites and 95 blacks with FG ,149 mg/dL and 232 whites and 207 blacks with FG $149 mg/dL. FG, fasting calculated using the Wilcoxon rank sum (Mann-Whitney U) test.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head></head><label></label><figDesc>8, 239.8-268.6, $268.7, ,275.7, $275.7 mg/dL; glycated albumin: ,13.52, 13.52-15.55, $15.56, ,16.46, $16.46%; 1,5-AG: $15.0, 7.9-14.9, ,7.9, .9.2, #9.2 mg/mL. Gray symbols indicate results for white participants. Black symbols indicate results for black participants. DM, diabetes.</figDesc><table /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="590">Racial Differences in Hyperglycemia Biomarkers Diabetes Care Volume 39, April 2016</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">care.diabetesjournals.orgParrinello and Associates 591</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="592">Racial Differences in Hyperglycemia Biomarkers Diabetes Care Volume 39, April 2016</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">care.diabetesjournals.orgParrinello and Associates 593</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">care.diabetesjournals.orgParrinello and Associates 595</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Acknowledgments. The authors thank the staff and participants of the ARIC Study for their important contributions. Funding. C.M.P. is supported by NIH/NHLBI Cardiovascular Epidemiology training grant T32HL007024. This research was supported by NIH/NIDDK grants R01DK089174 and K24DK106414 to E.S. The ARIC Study is carried out as a collaborative study supported by NIH/NHLBI contracts (HHSN268201100005C, HHSN268201100006C, HHSN268201100007C, HHSN268201100008C, HHSN268201100009C,</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>data in the study and takes responsibility for the integrity of the data and the accuracy of the data analysis.</p><p>Prior Presentation. This work was presented at the American Heart Association Epidemiology and Prevention and Lifestyle and Cardiometabolic Health 2015 Scientific Sessions, Baltimore, MD, 3-6 March 2015.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Classification and diagnosis of diabetes</title>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="S8" to="S16" />
+			<date type="published" when="2015">2015</date>
+			<publisher>American Diabetes Association</publisher>
+		</imprint>
+	</monogr>
+	<note>Suppl. 1</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Beyond HbA1c and glucose: the role of nontraditional glycemic markers in diabetes diagnosis, prognosis, and management</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Parrinello</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Selvin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Curr Diab Rep</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page">548</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Tests of glycemia in diabetes</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Goldstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Little</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Lorenz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="1761" to="1773" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">A1C versus glucose testing: a comparison</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Sacks</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="518" to="523" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Fructosamine: structure, analysis, and clinical usefulness</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Armbruster</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Chem</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="2153" to="2163" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Serum 1,5-anhydroglucitol (GlycoMark ): a short-term glycemic marker</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Buse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jlr</forename><surname>Freeman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">V</forename><surname>Edelman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Jovanovic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Mcgill</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Technol Ther</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="355" to="363" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">GlycoMark) as a marker of short-term glycemic control and glycemic excursions</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Dungan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Expert Rev Mol Diagn</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="9" to="19" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">1,5-Anhydroglucitol in diabetes mellitus</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">J</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C-Y</forename><surname>Park</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Endocrine</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page" from="33" to="40" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Serum 1,5-anhydroglucitol (1,5 AG): new clinical marker for glycemic control</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Yamanouchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Akanuma</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Res Clin Pract</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="S261" to="S268" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+	<note>Suppl</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Clinical usefulness of serum 1,5-anhydroglucitol in monitoring glycaemic control</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Yamanouchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Ogata</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Tagaya</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">347</biblScope>
+			<biblScope unit="page" from="1514" to="1518" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Fructosamine and glycated albumin for risk stratification and prediction of incident diabetes and microvascular complications: a prospective cohort analysis of the Atherosclerosis Risk in Communities (ARIC) study</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Selvin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Rawlings</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Grams</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Diabetes Endocrinol</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="279" to="288" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Association of 1,5-anhydroglucitol with diabetes and microvascular conditions</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Selvin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Rawlings</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Grams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Klein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Steffes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Coresh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Chem</title>
+		<imprint>
+			<biblScope unit="volume">60</biblScope>
+			<biblScope unit="page" from="1409" to="1418" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Nontraditional markers of glycemia: associations with microvascular conditions</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Selvin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Francis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Ballantyne</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="960" to="967" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Glycated hemoglobin and the risk of kidney disease and retinopathy in adults with and without diabetes</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Selvin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Ning</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">W</forename><surname>Steffes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes</title>
+		<imprint>
+			<biblScope unit="volume">60</biblScope>
+			<biblScope unit="page" from="298" to="305" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Glycated hemoglobin, diabetes, and cardiovascular risk in nondiabetic adults</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Selvin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">W</forename><surname>Steffes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Zhu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">362</biblScope>
+			<biblScope unit="page">2031</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note>author reply</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Serum 1,5-anhydro-D-glucitol levels predict first-ever cardiovascular disease: an 11-year populationbased cohort study in Japan, the Suita study</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Watanabe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Kokubo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Higashiyama</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Ono</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Miyamoto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Okamura</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Atherosclerosis</title>
+		<imprint>
+			<biblScope unit="volume">216</biblScope>
+			<biblScope unit="page" from="477" to="483" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Fructosamine and glycated albumin and the risk of cardiovascular outcomes and death</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Selvin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Rawlings</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">L</forename><surname>Lutsey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">132</biblScope>
+			<biblScope unit="page" from="269" to="277" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">The Atherosclerosis Risk in Communities (ARIC) Study: design and objectives</title>
+	</analytic>
+	<monogr>
+		<title level="m">The ARIC Investigators</title>
+				<imprint>
+			<date type="published" when="1989">1989</date>
+			<biblScope unit="volume">129</biblScope>
+			<biblScope unit="page" from="687" to="702" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Measurement of HbA1c from stored whole blood samples in the Atherosclerosis Risk in Communities study</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Selvin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Coresh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Zhu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Folsom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mw ;</forename><surname>Steffes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Nathan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">W</forename><surname>Steffes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Sun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">P</forename><surname>Rynders</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Lachin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Diabetes</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="286" to="290" />
+			<date type="published" when="2010">2010. 2011</date>
+		</imprint>
+	</monogr>
+	<note>Clin Chem</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Associations of alternative markers of glycemia with hemoglobin A(1c) and fasting glucose</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Juraschek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">W</forename><surname>Steffes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Selvin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Chem</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="page" from="1648" to="1655" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Serum fructosamine and glycated albumin and risk of mortality and clinical outcomes in hemodialysis patients</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Shafi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Sozio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">C</forename><surname>Plantinga</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="1522" to="1533" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Alternative markers of hyperglycemia and risk of diabetes</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Juraschek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">W</forename><surname>Steffes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">R</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Selvin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="2265" to="2270" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">A short questionnaire for the measurement of habitual physical activity in epidemiological studies</title>
+		<author>
+			<persName><forename type="first">Jah</forename><surname>Baecke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Burema</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jer</forename><surname>Frijters</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Clin Nutr</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="936" to="942" />
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Community surveillance of coronary heart disease in the Atherosclerosis Risk in Communities (ARIC) Study: methods and initial two years&apos; experience</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Levey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Stevens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">H</forename><surname>Schmid</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">CKD-EPI (Chronic Kidney Disease Epidemiology Collaboration)</title>
+				<imprint>
+			<date type="published" when="1996">2009. 1996. 1999. 2008</date>
+			<biblScope unit="volume">150</biblScope>
+			<biblScope unit="page" from="1016" to="1022" />
+		</imprint>
+	</monogr>
+	<note>Am J Cardiol</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Methods for evaluation of retinal microvascular abnormalities associated with hypertension/ sclerosis in the Atherosclerosis Risk in Communities Study</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">D</forename><surname>Hubbard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Brothers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">N</forename><surname>King</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Ophthalmol</title>
+		<imprint>
+			<biblScope unit="volume">106</biblScope>
+			<biblScope unit="page" from="78" to="88" />
+			<date type="published" when="1999">1999. 2002</date>
+		</imprint>
+	</monogr>
+	<note>Ophthalmology</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">The association of atherosclerosis, vascular risk factors, and retinopathy in adults with diabetes : the Atherosclerosis Risk in Communities study</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Klein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Sharrett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">E</forename><surname>Klein</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ophthalmology</title>
+		<imprint>
+			<biblScope unit="volume">109</biblScope>
+			<biblScope unit="page" from="1225" to="1234" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">No ethnic differences in the association of glycated hemoglobin with retinopathy: the national health and nutrition examination survey</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Bower</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">L</forename><surname>Brancati</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Selvin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="569" to="573" />
+			<date type="published" when="2005">2005-2008. 2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">No racial differences in the association of glycated hemoglobin with kidney disease and cardiovascular outcomes</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Selvin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Rawlings</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Bergenstal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Coresh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">L</forename><surname>Brancati</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="2995" to="3001" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Should the hemoglobin A1c diagnostic cutoff differ A cross-sectional study</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Tsugawa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename><surname>Mukamal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Davis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">C</forename><surname>Taylor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Wee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">157</biblScope>
+			<biblScope unit="page" from="153" to="159" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Diagnosis of diabetes mellitus using HbA1c in Asians: relationship between HbA1c and retinopathy in a multiethnic Asian population</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Sabanayagam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">Y</forename><surname>Khoo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">K</forename><surname>Lye</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Endocrinol Metab</title>
+		<imprint>
+			<biblScope unit="volume">100</biblScope>
+			<biblScope unit="page" from="1327" to="1334" />
+			<date type="published" when="2009">2015. 2009</date>
+		</imprint>
+	</monogr>
+	<note>International Expert Committee. International Expert Committee report on the role of the A1C assay in the diagnosis of diabetes. Diabetes Care</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Racial differences in glycemic markers: a cross-sectional analysis of community-based data</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Selvin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">L</forename><surname>Brancati</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Selvin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">W</forename><surname>Steffes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Ballantyne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Hoogeveen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Coresh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">L</forename><surname>Brancati</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">c1; author reply c2 38</title>
+				<imprint>
+			<date type="published" when="2011">2011. 2011</date>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="303" to="309" />
+		</imprint>
+	</monogr>
+	<note>Ann Intern Med</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Incident type 2 diabetes mellitus in African American and white adults: the Atherosclerosis Risk in Communities Study</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Chow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Foster</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Gonzalez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Mciver</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">L</forename><surname>Brancati</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">H</forename><surname>Kao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Folsom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Watson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Szklo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Diabetes</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="2253" to="2259" />
+			<date type="published" when="2000">2012. 2000</date>
+		</imprint>
+	</monogr>
+	<note>JAMA</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Serum 1,5-anhydroglucitol is associated with diabetic retinopathy in Type 2 diabetes</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">J</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">Y</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Park</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabet Med</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="1184" to="1190" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Association of 1,5-anhydroglucitol with cardiovascular disease and mortality</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Selvin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rawlings</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Lutsey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="page" from="201" to="208" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

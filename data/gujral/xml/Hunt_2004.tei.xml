@@ -1,0 +1,594 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">National Cholesterol Education Program Versus World Health Organization Metabolic Syndrome in Relation to All-Cause and Cardiovascular Mortality in the San Antonio Heart Study</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><roleName>PhD</roleName><forename type="first">Kelly</forename><forename type="middle">J</forename><surname>Hunt</surname></persName>
+							<email>huntk@uthscsa.edu</email>
+						</author>
+						<author>
+							<persName><forename type="first">Roy</forename><forename type="middle">G</forename><surname>Resendez</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MS</roleName><forename type="first">Ken</forename><surname>Williams</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Steve</forename><forename type="middle">M</forename><surname>Haffner</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Michael</forename><forename type="middle">P</forename><surname>Stern</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="institution">University of Texas Health Science Center at San</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Division of Clinical Epidemiology</orgName>
+								<orgName type="department" key="dep2">Department of Medicine</orgName>
+								<orgName type="institution">University of Texas Health Science Center at San Antonio</orgName>
+								<address>
+									<settlement>San Antonio</settlement>
+									<region>Tex</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="department" key="dep1">Division of Clinical Epidemiology/Medicine</orgName>
+								<orgName type="department" key="dep2">Floyd Curl Drive</orgName>
+								<orgName type="institution">UTHSCSA</orgName>
+								<address>
+									<postCode>7703</postCode>
+									<settlement>San Antonio</settlement>
+									<region>TX</region>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">National Cholesterol Education Program Versus World Health Organization Metabolic Syndrome in Relation to All-Cause and Cardiovascular Mortality in the San Antonio Heart Study</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">CD773244E2A313F4DA7BF9A37C0521AF</idno>
+					<idno type="DOI">10.1161/01.CIR.0000140762.04598.F9</idno>
+					<note type="submission">The SAHS cohort consists of 5158 participants, recruited at baseline in 2 phases: phase 1, between 1979 and 1982, and phase 2, between 1984 and 1988. The current analyses are focused on the 2941 SAHS participants enrolled during phase 2 of recruitment. Details of the study design have been previously published. 7-9 The Institutional Received December 17, 2003; de novo received March 16, 2004; revision received April 22, 2004; accepted April 26, 2004.</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.1" ident="GROBID" when="2022-07-19T22:44+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Background-To assess the utility of clinical definitions of the metabolic syndrome (MetS) to identify individuals with increased cardiovascular risk, we examined the relation between the MetS, using both the National Cholesterol Education Program (NCEP) and the World Health Organization definitions, and all-cause and cardiovascular mortality in San Antonio Heart Study participants enrolled between 1984 and 1988. Methods and Results-Among 2815 participants, 25 to 64 years of age at enrollment, 509 met both criteria, 197 met NCEP criteria only, and 199 met WHO criteria only. Over an average of 12.7 years, 229 deaths occurred (117 from cardiovascular disease). Moreover, in the primary prevention population of 2372 participants (ie, those without diabetes or cardiovascular disease at baseline), 132 deaths occurred (50 from cardiovascular disease). In the primary prevention population, the only significant association adjusted for age, gender, and ethnic group was between NCEP-MetS and cardiovascular mortality (hazard ratio [HR], 2.01; 95% CI, 1.13-3.57). In the general population, all-cause mortality HRs were 1.47 (95% CI, 1.13-1.92) for NCEP-MetS and 1.27 (95% CI, 0.97-1.66) for WHO-MetS. Furthermore, for cardiovascular mortality, there was evidence that gender modified the predictive ability of the MetS. For women and men, respectively, HRs for NCEP-MetS were 4.65 (95% CI, 2.35-9.21) and 1.82 (95% CI, 1.14 -2.91), whereas HRs for WHO-MetS were 2.83 (95% CI, 1.55-5.17) and 1.15 (95% CI, 0.72-1.86). Conclusions-In summary, although both definitions were predictive in the general population, the simpler NCEP definition tended to be more predictive in lower-risk subjects. (Circulation. 2004;110:1251-1257.) Key Words: diabetes mellitus Ⅲ cardiovascular diseases Ⅲ epidemiology Ⅲ mortality Ⅲ risk factors</p><p>T he metabolic syndrome (MetS) is recognized as a cluster of cardiovascular risk factors that frequently coincide with insulin resistance and hyperglycemia. <ref type="bibr" target="#b8">1</ref> The MetS is a strong predictor of type 2 diabetes, and many studies have investigated the association between the MetS and incident cardiovascular disease (CVD). However, because of the varying definitions used for the MetS, the magnitude and impact of the cardiovascular risk associated with the MetS is difficult to assess across studies.</p><p>Recently, the National Cholesterol Education Program (NCEP) and the World Health Organization (WHO) established different criteria for the clinical diagnosis of the MetS. <ref type="bibr" target="#b9">2,</ref><ref type="bibr" target="#b10">3</ref> Few studies have compared the ability of NCEP-MetS and WHO-MetS to predict CVD or all-cause mortality. 4 -6  If either NCEP-MetS or WHO-MetS is a predictor of CVD or all-cause mortality, the MetS could become an important clinical tool used to identify individuals at high risk of CVD. Hence, our objective was to examine the relation between the MetS, using both the NCEP and the WHO definitions, and all-cause and cardiovascular mortality in San Antonio Heart Study (SAHS) participants enrolled between 1984 and 1988.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>SAHS Design and Population</head></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>interviewers obtained information on demographic variables, medical history, medication use, and smoking status.</p><p>Ethnic group was defined by a validated algorithm. <ref type="bibr" target="#b14">7</ref> Participants were asked to fast for at least 12 hours before their examination. Measurement of blood pressure, body mass index (BMI), waist circumference, total and HDL cholesterol, triglycerides, and plasma glucose and insulin (fasting and 2 hours after a standardized oral glucose load) have been previously described. <ref type="bibr" target="#b16">9,</ref><ref type="bibr" target="#b17">10</ref> Diabetes was defined as fasting plasma glucose Ն126 mg/dL and/or 2-hour postload glucose Ն200 mg/dL. <ref type="bibr" target="#b9">2</ref> Participants not meeting these criteria but who reported current therapy with diabetes medication (either oral or insulin) were also considered to have diabetes. Prevalent Rose angina was ascertained through the use of the London School of Hygiene Chest Pain Questionnaire. <ref type="bibr" target="#b18">11</ref> Prevalent heart disease and stroke were defined on the basis of self-reported physician diagnoses. A history of CVD was defined as having had a heart attack, stroke, or Rose angina.</p><p>NCEP-MetS was defined according to the guidelines as having at least 3 of the following NCEP metabolic abnormalities: fasting glucose Ն110 mg/dL or taking medication for diabetes, abdominal obesity (waist circumference Ͼ102 cm in men or Ͼ88 cm in women), triglycerides Ն150 mg/dL, low HDL cholesterol (Ͻ40 mg/dL in men, Ͻ50 mg/dL in women), or high blood pressure (HBP, Ն130/Ն85 mm Hg). <ref type="bibr" target="#b10">3</ref> WHO-MetS was defined according to the guidelines, with the following modifications: information on microalbuminuria was not available, and hyperinsulinemia was defined by the upper quartile of fasting insulin levels in nondiabetic SAHS participants. <ref type="bibr" target="#b9">2</ref> The WHO-MetS definition required a participant to have one of the following WHO metabolic abnormalities: hyperinsulinemia (defined as the upper quartile of the nondiabetic population), a 2-hour glucose Ն140 mg/dL, a fasting plasma glucose Ն110 mg/dL, or taking medication for diabetes. Collectively, these metabolic abnormalities were referred to as WHO INS/GLU. An individual additionally had to have at least 2 of the following metabolic abnormalities: abdominal obesity (either a BMI Ն30 kg/m 2 or a waist-to-hip ratio [WHR] Ͼ0.90 in men or Ͼ0.85 in women), dyslipidemia (triglycerides Ն150 mg/dL) and/or low HDL cholesterol (Ͻ35 mg/dL in men, Ͻ39 mg/dL in women), or HBP (Ն140/Ն90 mm Hg). Please note that microalbuminuria (urinary albumin excretion rate Ն20 g/min or albumin:creatine ratio Ն30 mg/g) is included in the WHO-MetS definition but not in our modified WHO-MetS definition.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study Population, Follow-Up, and Events</head><p>Of the 2941 SAHS participants eligible for inclusion, 112 individuals were excluded because the information required to define NCEP-MetS and/or WHO-MetS was not available, and 14 individuals were excluded because we were unable to contact them after their baseline examination. Hence, the general study population included 2815 participants. A subset of this study population consisted of the 2617 individuals without a history of CVD at baseline, and a further subset, which we refer to as the primary prevention population, included 2372 individuals with neither diabetes nor a history of CVD at baseline.</p><p>Vital status was determined by annual mailed questionnaires, completed by a participant or his or her next of kin. In cases of nonresponse, we used telephone interviews, home visits, voting records, driver registration, the National Death Index, and addresses from the San Antonio Retail Merchants' Association to determine a participant's vital status. Among the 2815 participants in this study, 18 people had incomplete vital status ascertainment through January 1, 2000 (ascertainment rate, 99.4%).</p><p>Information on cause of death was abstracted from death certificates (with names and ethnic identifiers suppressed) and sent to a certified nosologist (Medical Coding and Consultation Services, Rolesville, NC) for coding according to the International Classification of Diseases, Ninth Revision (ICD-9). Cardiovascular mortality was not limited to the underlying cause of death but was defined as death with the mention anywhere on the death certificate of ICD-9 codes 401 to 405 (hypertensive), 410 to 414 (ischemic), and 420 to 429 (other cardiovascular), with the exception of 427.5 (cardiac arrest), 430 to 439 (stroke), or 440 to 447 (arteries, and so forth). Three individuals who died without cause of death information were excluded from the cardiovascular mortality analyses.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical Analyses</head><p>Prospective analyses were carried out in which NCEP and WHO-MetS determined a person's exposure status and all-cause and cardiovascular mortality were the outcomes of interest. Analyses were done in the general study population, in the population limited to those without CVD at baseline, and in the primary prevention population (ie, those with neither diabetes nor a history of CVD at baseline).</p><p>The prevalence of each individual NCEP-MetS and WHO-MetS component was determined in the general study population and stratified by presence and absence of the MetS. Age-and genderadjusted means and proportions were determined for participant characteristics stratified by neither NCEP or WHO MetS, NCEP-MetS only, WHO-MetS only, and both NCEP and WHO MetS. These analyses were done in the general and primary prevention population. In addition, in the primary prevention population, Kaplan-Meier survival estimates for cardiovascular mortality were graphed over the follow-up period for participants with and without NCEP-MetS and WHO-MetS.</p><p>Cox proportional hazard models adjusted for age, gender, and ethnic group were used to calculate hazard ratios (HRs) for all-cause and cardiovascular mortality in relation to NCEP-MetS, WHO-MetS, and the individual components contributing to each MetS. The association between the MetS and all-cause and cardiovascular mortality was assessed in the general population, the population limited to those without CVD at baseline, and the primary prevention population. Furthermore, models with and without the appropriate interaction terms were compared to identify interactions between gender and ethnic group and each MetS in relation to all-cause and cardiovascular mortality; a probability value of 0.05 was used as a nominal value of statistically significant interaction. For all analyses involving NCEP-MetS or WHO-MetS, the assumption of proportional hazards was evaluated by testing for interaction with a continuous time variable.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>The study population included 1910 individuals without the MetS, 197 with only NCEP-MetS, 199 with only WHO-MetS, and 509 with the MetS by both definitions. Participants were followed an average of 12.7 years. Before January 1, 2000, participants had a total of 229 deaths: 117 had CVD mentioned on their death certificate.</p><p>In the general population, the population limited to individuals without CVD at baseline, and the primary prevention population, the prevalence of NCEP-MetS was 25.2%, 23.2%, and 17.5%, respectively, whereas the prevalence of WHO-MetS was 25.2%, 23.3% and 17.9%, respectively. The prevalence of each individual NCEP-MetS and WHO-MetS component for the total population as well as stratified by presence or absence of the MetS is found in Table <ref type="table" target="#tab_0">1</ref>. Age-and gender-adjusted means and proportions for participant characteristics stratified by NCEP/WHO MetS are found for the general and the primary prevention population in Table <ref type="table" target="#tab_1">2</ref>. In the general study population, participants with only NCEP-MetS on average had higher blood pressure levels, higher fasting glucose levels, higher triglyceride levels, lower HDL cholesterol levels, and a higher waist circumference but lower fasting insulin and 2-hour glucose levels than participants with only WHO-MetS. In the primary prevention population, results were similar; however, those with only WHO-MetS were younger, more likely to be Mexican American, and had higher fasting glucose levels than with NCEP-MetS; there was no longer a significant difference in HDL cholesterol levels.</p><p>During the follow-up period in the general population, the population limited to individuals without CVD at baseline, and the primary prevention population, 229, 182, and 132 all-cause mortality deaths occurred, respectively; of these deaths, 117, 84, and 50, respectively, were attributed to cardiovascular mortality. In the primary prevention population, unadjusted Kaplan-Meier survival estimates are illustrated over the follow-up period for cardiovascular mortality for participants with and without the MetS, as defined by NCEP-MetS and WHO-MetS criteria (Figure <ref type="figure">)</ref>.</p><p>Age-adjusted, gender-adjusted, and ethnic group-adjusted HRs for all-cause and cardiovascular mortality in relation to NCEP-MetS, WHO-MetS, and the individual components contributing to each MetS are found in Table <ref type="table" target="#tab_2">3</ref> for the general population, the population limited to those without CVD at baseline, and the primary prevention population. In the general population, NCEP-MetS was predictive of all-cause mortality (1.47 [95% CI, 1.13-1.92]) and cardiovascular mortality (2.53 [95% CI, 1.74 -3.67]), whereas WHO-MetS was predictive of cardiovascular mortality (1.63 [95% CI, 1.13-2.36]) but not significant for all-cause mortality (1.27 [95% CI, 0.97-1.66]). Moreover, in the general population, the NCEP-MetS components predicting cardiovascular mortality are impaired fasting glucose (IFG), low HDL cholesterol, and HBP, whereas the WHO-MetS components predicting cardiovascular mortality are IN/GLU, dyslipidemia, and HBP. In the population limited to those without CVD, again, NCEP-MetS was predictive of all-cause mortality (1.45 [95% CI, 1.07-1.96]) and cardiovascular mortality (2.71 [95% CI, 1.74 -4.20]), whereas WHO-MetS was significant only for cardiovascular mortality (1.63 [95% CI, 1.06 -2.52]). Furthermore, the corresponding NCEP-MetS components predicting cardiovascular mortality were IFG, abdominal obesity, and HBP, whereas the WHO-MetS components predicting cardiovascular mortality were IN/GLU and HBP. In the primary prevention population, NCEP-MetS was predictive of cardiovascular mortality (2.01 [95% CI, 1.13-3.57]) but not all-cause mortality, whereas WHO-MetS was predictive of neither all-cause nor cardiovascular mortality. Furthermore, the corresponding NCEP-MetS components predicting cardiovascular mortality were abdominal obesity and HBP, whereas HBP was the only WHO-MetS component predicting cardiovascular mortality.</p><p>There was no evidence of interaction with ethnic group in either the general or in the primary prevention population; however, in the general population there was evidence that gender modified the association with cardiovascular mortality for both NCEP-MetS (Pϭ0.03, interaction) and WHO-MetS (Pϭ0.02, interaction). The cardiovascular mortality HRs for NCEP-MetS were 4.65 (95% CI, 2.35-9.21) and 1.82 (95% CI, 1.14 -2.91) for women and men, respectively, whereas corresponding HRs for WHO-MetS were 2.83 (95% CI, 1.55-5.17) and 1.15 (95% CI, 0.72-1.86) (Table <ref type="table" target="#tab_3">4</ref>). In contrast, in the primary prevention population, there was no definitive evidence of an interaction with gender for either NCEP-MetS (Pϭ0.72, interaction) or WHO-MetS (Pϭ0.17, interaction) with respect to cardiovascular mortality. Finally, in the population limited to those without CVD at baseline (although not statistically significant), with respect to cardiovascular mortality, there was the suggestion of an interaction with gender for WHO-MetS (Pϭ0.06, interaction) but not for NCEP-MetS (Pϭ0.21, interaction) (Table <ref type="table" target="#tab_3">4</ref>).</p><p>To evaluate the effect that diabetes had on the ability of gender to modify the association between NCEP-MetS and cardiovascular mortality, gender-specific HRs were determined, comparing those with NCEP-MetS without diabetes, diabetes without NCEP-MetS, and both NCEP-MetS and diabetes with individuals without diabetes or NCEP-MetS (Table <ref type="table" target="#tab_3">4</ref>). Throughout all analyses of the ability of NCEP-MetS and WHO-MetS to predict all-cause and cardiovascular mortality, there was no evidence that the assumption of proportional hazards was violated.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>In the general population, NCEP-MetS predicted all-cause and cardiovascular mortality, whereas WHO-MetS predicted only cardiovascular mortality. Furthermore, similar to diabetes in the Framingham Study and other studies, there was evidence that gender modified the ability of both NCEP-MetS †In the general population, the NCEP-IFG category includes all individuals with a fasting glucose level Ն110 mg/dL as well as individuals taking medications for diabetes.</p><p>‡Limited to those without diabetes or a history of CVD.</p><p>and WHO-MetS to predict cardiovascular mortality. <ref type="bibr" target="#b19">12</ref> Each definition of the MetS was more predictive of cardiovascular mortality in women than in men, and although NCEP-MetS was predictive in both women and men, WHO-MetS was only significantly predictive in women. Although the NCEP criteria for the MetS are viewed as simpler and are more commonly used in the United States, the WHO criteria are more widely accepted and used in Europe. <ref type="bibr" target="#b11">4,</ref><ref type="bibr" target="#b13">6</ref> Furthermore, although the NCEP-MetS was developed in the context of increasing worldwide rates of obesity and decreasing physical activity as a tool to identify individuals at high cardiovascular risk, the WHO-MetS was developed with the underlying cause of the insulin resistance syndrome in mind. Why was NCEP-MetS a better predictor of all-cause and cardiovascular mortality in our population? The prevalences of NCEP-MetS and WHO-MetS were similar in our population. Each definition of the MetS considered HBP differently; the NCEP-MetS definition had lower for but gave more weight to HBP and therefore on average identified individuals who had higher  <ref type="bibr" target="#b20">13</ref> Waist circumference, a marker of visceral adiposity and an established cardiovascular risk factor, was higher in individuals with NCEP-MetS than in individuals with WHO-MetS. NCEP-MetS identified individuals with higher levels of triglycerides and in the general population identified individuals with lower HDL cholesterol levels but in the primary prevention population identified older individuals. Finally, the importance of insulin resistance in predicting CVD may be partially determined by the population studied and the prevalence of the core components of the MetS in that population. Hence, requiring insulin resistance when glucose levels (both fasting and 2-hour) are normal may weaken the predictive value of the WHO-MetS for CVD in some populations.</p><p>At least two other studies have investigated the association between the MetS as defined by NCEP or WHO and mortality. <ref type="bibr" target="#b11">4,</ref><ref type="bibr" target="#b13">6</ref> The Botnia Study in Sweden and Finland inves-tigated the association between WHO-MetS and cardiovascular morbidity and mortality in 4483 men and women 35 to 70 years of age. <ref type="bibr" target="#b13">6</ref> Cardiovascular mortality rate was higher in those with WHO-MetS (12.0%) than in those without (2.2%). Differences between our WHO-MetS definition (based on 1999 WHO) and the Botnia Study WHO-MetS definition (based on 1998 WHO) include the use of fasting insulin versus the HOMA IR index, the inclusion of microalbuminuria in the Botnia Study, and the higher systolic blood pressure cut-point in the Botnia Study (160 versus 140 mm Hg). Finally, the median follow-up in the Botnia Study was 6.9 years, considerably shorter than in the current study. The Kuopio Ischemic Heart Disease Risk Factor Study in central Finland investigated the association between NCEP-MetS and WHO-MetS and all-cause and cardiovascular mortality in 1209 men 42 to 60 years of age without CVD, diabetes, or cancer at baseline. <ref type="bibr" target="#b11">4</ref> Although NCEP-MetS and WHO-MetS were consistently associated with coronary heart disease mortality, contrary to our results, only WHO-MetS was consistently associated with cardiovascular and all-cause mortality. Explanations for the discrepant results may include Kaplan-Meier cardiovascular mortality survival estimates for individuals with and without NCEP-MetS and WHO-MetS among individuals without diabetes or cardiovascular disease at baseline (unadjusted). </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Hunt et al Metabolic Syndrome and Mortality</head><p>(1) differences in the WHO-MetS definitions, (2) oral glucose tolerance tests not completed in the Kuopio Study, and (3) differences in prevalence rates of the core metabolic components in the two populations. Specifically, obesity is particularly prevalent in the United States, whereas hypertension is particularly prevalent in European populations. <ref type="bibr" target="#b21">14,</ref><ref type="bibr" target="#b22">15</ref> The modification by gender of the association between the MetS and cardiovascular mortality in the general population has not previously been reported. It is important to establish whether, similar to diabetes, <ref type="bibr" target="#b19">12</ref> the relative hazard associated with the MetS for cardiovascular mortality rate is greater in women than in men. The fact that the association between the MetS and cardiovascular mortality is not modified by gender in the primary prevention population may indicate that frank diabetes is responsible for the modification. Furthermore, when individuals were categorized on the basis of both their NCEP-MetS and diabetes status, the gender modification of the association with cardiovascular mortality relative to those without NCEP-MetS or diabetes was statistically significant only in individuals with both NCEP-MetS and diabetes. However, this is contrary to earlier findings in the SAHS of increased relative cardiovascular risk among prediabetic women in comparison to men. <ref type="bibr" target="#b23">16</ref> Furthermore, given the low prevalence of the MetS and the few cardiovascular deaths (nϭ50) in the primary prevention population, limited statistical power is a second explanation for our inability to detect a gender modification in this population subset. Third, if men with the MetS were more likely to survive a CVD event than women with the MetS, survival bias could explain the modification by gender in the general population. Finally, exclusion of individuals with baseline CVD differentially affected the number of individuals meeting either one or both of the criteria for the MetS; hence, of the individuals meeting either criteria, the percentage of individuals meeting both criteria was reduced, which may have contributed to gender differences between the general and primary prevention populations.</p><p>Perhaps the main limitation of our study is the absence of information on microalbuminuria in our study participants. However, in a recent publication of the Insulin Resistance Atherosclerosis Study population, only between 5.5% and 6.2% of participants without diabetes had evidence of microalbuminuria. <ref type="bibr" target="#b24">17</ref> Furthermore, in our study, because most participants with diabetes already had WHO-MetS (78.2%) and an additional 4.3% of participants even with microalbuminuria would not have been classified as having WHO-MetS, only 17.5% of participants with diabetes could have been affected by the inclusion of information on microalbuminuria. Hence, the effect of inclusion or exclusion of microalbuminuria in defining the MetS in individuals with normoglycemia, in individuals with IFG and/or impaired glucose tolerance, and in individuals with diabetes appears minimal. These results, combined with the controversy surrounding microalbuminuria as a component of the MetS, suggest that our modified WHO-MetS definition is sufficient. <ref type="bibr" target="#b25">18</ref> Given the current obesity and type 2 diabetes epidemics, it is important to develop clinical screening tools to identify individuals with high cardiovascular risk early in the disease process. In our study, among individuals without diabetes or CVD at baseline, NCEP-MetS identified individuals at increased risk of cardiovascular mortality; hence, the MetS indicates a modest increase in cardiovascular risk but not equivalent to the risk associated with diabetes or a history of coronary heart disease. Furthermore, the simpler NCEP definition tended to be more predictive in lower risk subjects. </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>TABLE 1 . Prevalence (%) of Individual Metabolic Syndrome Components in the Study Population and Stratified by Those With and Those Without Metabolic Syndrome</head><label>1</label><figDesc></figDesc><table><row><cell></cell><cell></cell><cell cols="2">Metabolic</cell></row><row><cell></cell><cell></cell><cell cols="2">Syndrome*</cell></row><row><cell></cell><cell>Total</cell><cell>Yes</cell><cell>No</cell></row><row><cell>General study population</cell><cell></cell><cell></cell><cell></cell></row><row><cell>NCEP-IFG †</cell><cell>11.3</cell><cell>37.7</cell><cell>2.4</cell></row><row><cell>NCEP-Abdominal obesity</cell><cell>33.5</cell><cell>76.9</cell><cell>19.0</cell></row><row><cell>NCEP-High triglycerides</cell><cell>34.1</cell><cell>82.0</cell><cell>18.1</cell></row><row><cell>NCEP-Low HDL cholesterol</cell><cell>53.1</cell><cell>86.8</cell><cell>41.8</cell></row><row><cell>NCEP-HBP</cell><cell>29.0</cell><cell>66.9</cell><cell>16.3</cell></row><row><cell>WHO-IN/GLU</cell><cell>39.4</cell><cell>100</cell><cell>19.0</cell></row><row><cell>WHO-Abdominal obesity</cell><cell>62.0</cell><cell>97.3</cell><cell>50.1</cell></row><row><cell>WHO-Dyslipidemia</cell><cell>43.9</cell><cell>91.1</cell><cell>28.1</cell></row><row><cell>WHO-HBP</cell><cell>17.1</cell><cell>40.7</cell><cell>9.1</cell></row><row><cell>Primary prevention population ‡</cell><cell></cell><cell></cell><cell></cell></row><row><cell>NCEP-IFG</cell><cell>2.2</cell><cell>9.6</cell><cell>0.6</cell></row><row><cell>NCEP-Abdominal obesity</cell><cell>29.5</cell><cell>79.8</cell><cell>18.8</cell></row><row><cell>NCEP-High triglycerides</cell><cell>29.6</cell><cell>84.3</cell><cell>18.0</cell></row><row><cell>NCEP-Low HDL cholesterol</cell><cell>49.8</cell><cell>88.7</cell><cell>41.5</cell></row><row><cell>NCEP-HBP</cell><cell>24.8</cell><cell>68.2</cell><cell>15.6</cell></row><row><cell>WHO-IN/GLU</cell><cell>31.2</cell><cell>100</cell><cell>16.2</cell></row><row><cell>WHO-Abdominal obesity</cell><cell>58.3</cell><cell>97.9</cell><cell>49.7</cell></row><row><cell>WHO-Dyslipidemia</cell><cell>39.5</cell><cell>92.0</cell><cell>28.0</cell></row><row><cell>WHO-HBP</cell><cell>13.8</cell><cell>36.9</cell><cell>8.7</cell></row></table><note>*Metabolic syndrome is defined on the basis of NCEP criteria for NCEP-MetS components and WHO criteria for WHO-MetS components.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>TABLE 2 . Age-and Gender-Adjusted Characteristics (Means or Proportions and 95% CIs) of the Study Population Stratified by NCEP and WHO Metabolic Syndrome blood</head><label>2</label><figDesc>pressure levels than WHO-MetS identified. Furthermore, high-normal blood pressure (systolic, 130 to 139 mm Hg, or diastolic, 85 to 89 mm Hg) included as HBP by the NCEP-MetS was shown to be associated with increased CVD in the Framingham Study.</figDesc><table /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>TABLE 3 . Age-Adjusted, Gender-Adjusted, and Ethnic Group-Adjusted Hazard Ratios (and 95% CIs) From Cox Models for the Presence Versus the Absence of a Given Risk Factor for All-Cause and Cardiovascular Mortality</head><label>3</label><figDesc>Limited to those without CVD. †Limited to those without diabetes or CVD. ‡In the general population as well as in individuals without CVD, the NCEP-IFG category includes all individuals with a fasting glucose level Ն110 mg/dL as well as individuals taking medications for diabetes.</figDesc><table><row><cell></cell><cell cols="2">General Population</cell><cell cols="2">Individuals Without CVD*</cell><cell cols="2">Primary Prevention Population †</cell></row><row><cell></cell><cell>All-Cause</cell><cell>Cardiovascular</cell><cell>All-Cause</cell><cell>Cardiovascular</cell><cell>All-Cause</cell><cell>Cardiovascular</cell></row><row><cell>NCEP-MetS</cell><cell cols="6">1.47 (1.13-1.92) 2.53 (1.74-3.67) 1.45 (1.07-1.96) 2.71 (1.74-4.20) 1.06 (0.71-1.58) 2.01 (1.13-3.57)</cell></row><row><cell>WHO-MetS</cell><cell cols="6">1.27 (0.97-1.66) 1.63 (1.13-2.36) 1.23 (0.90-1.66) 1.63 (1.06-2.52) 0.81 (0.53-1.24) 0.74 (0.37-1.48)</cell></row><row><cell>NCEP-MetS components</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>IFG ‡</cell><cell cols="6">1.89 (1.41-2.52) 2.87 (1.96-4.20) 1.88 (1.35-2.63) 3.32 (2.12-5.20) 0.88 (0.32-2.39) 1.62 (0.50-5.25)</cell></row><row><cell>Abdominal obesity</cell><cell cols="6">1.13 (0.86-1.49) 1.43 (0.98-2.09) 1.22 (0.90-1.65) 1.72 (1.10-2.68) 1.10 (0.76-1.59) 1.81 (1.02-3.20)</cell></row><row><cell>High triglycerides</cell><cell cols="6">1.07 (0.82-1.39) 1.42 (0.98-2.05) 1.04 (0.77-1.40) 1.35 (0.87-2.08) 0.84 (0.58-1.21) 0.96 (0.54-1.71)</cell></row><row><cell>Low HDL cholesterol</cell><cell cols="6">1.18 (0.91-1.54) 1.46 (1.00-2.13) 1.20 (0.90-1.62) 1.46 (0.94-2.27) 1.13 (0.81-1.60) 1.37 (0.78-2.39)</cell></row><row><cell>HBP</cell><cell cols="6">1.24 (0.94-1.63) 1.71 (1.15-2.54) 1.20 (0.88-1.64) 1.88 (1.67-3.02) 1.25 (0.87-1.81) 2.47 (1.31-4.64)</cell></row><row><cell>WHO-MetS components</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>IN/GLU</cell><cell cols="6">1.42 (1.08-1.86) 1.80 (1.22-2.66) 1.33 (0.99-1.79) 1.78 (1.14-2.80) 1.03 (0.72-1.47) 1.03 (0.58-1.83)</cell></row><row><cell>Abdominal obesity</cell><cell cols="6">0.81 (0.60-1.10) 0.94 (0.60-1.47) 0.82 (0.59-1.15) 1.00 (0.59-1.69) 0.68 (0.46-1.01) 0.84 (0.42-1.68)</cell></row><row><cell>Dyslipidemia</cell><cell cols="6">1.13 (0.87-1.47) 1.53 (1.04-2.24) 1.10 (0.82-1.47) 1.45 (0.93-2.25) 0.89 (0.63-1.26) 1.05 (0.60-1.83)</cell></row><row><cell>HBP</cell><cell cols="6">1.26 (0.95-1.67) 1.76 (1.20-2.59) 1.19 (0.86-1.65) 1.81 (1.15-2.83) 1.06 (0.71-1.57) 1.81 (1.01-3.27)</cell></row></table><note>*</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>TABLE 4 . Gender-Specific Adjusted Hazard Ratios (and 95% CIs) From Cox Models for Cardiovascular Mortality in the General Population</head><label>4</label><figDesc>Model 1: NCEP-MetS 4.65 (2.35-9.21) 1.82 (1.14-2.91) 0.03 3.93 (1.87-8.28) 1.81 (0.72-4.57) 0.21</figDesc><table><row><cell></cell><cell cols="2">General Population</cell><cell></cell><cell cols="2">Individuals Without CVD</cell><cell></cell></row><row><cell>Adjusted for Age and Ethnic Group</cell><cell>Women</cell><cell>Men</cell><cell>P</cell><cell>Women</cell><cell>Men</cell><cell>P</cell></row><row><cell>Model 2: WHO-MetS</cell><cell>2.83 (1.55-5.17)</cell><cell cols="5">1.15 (0.72-1.86) 0.02 2.70 (1.36-5.37) 1.15 (0.65-2.06) 0.06</cell></row><row><cell>Model 3</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>No DM and no NCEP</cell><cell>1.00</cell><cell>1.00</cell><cell></cell><cell>1.00</cell><cell>1.00</cell><cell></cell></row><row><cell>No DM and yes NCEP</cell><cell>2.49 (0.98-6.29)</cell><cell cols="5">1.55 (0.85-2.81) 0.40 2.07 (0.72-6.00) 1.96 (0.99-3.88) 0.93</cell></row><row><cell>Yes DM and no NCEP</cell><cell>3.32 (0.72-15.4)</cell><cell cols="5">1.69 (0.60-4.78) 0.47 3.53 (0.75-16.7) 2.34 (0.70-7.82) 0.68</cell></row><row><cell>Yes DM and yes NCEP</cell><cell>9.40 (4.36-20.3)</cell><cell cols="5">2.50 (1.40-4.52)Ͻ0.01 8.19 (3.51-19.1) 3.09 (1.49-6.43) 0.08</cell></row><row><cell>DM indicates diabetes mellitus.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">Downloaded from http://ahajournals.org by on June 30, 2021</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">Circulation September 7, 2004 Downloaded from http://ahajournals.org by on June 30, 2021</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">Circulation September 7, 2004Downloaded from http://ahajournals.org by on June 30,</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgments</head><p>Grants from the NHLBI (R01-HL24799 and R01-HL36820) supported this work. The research and writing of the manuscript were conducted under the sponsorship of an American Heart Association Texas Affiliate Postdoctoral Fellowship, a National Research Service Award (T32-HL07446) for the NHLBI, an NIDDK K01 Award (1K01 DK064867), and an American Diabetes Association Mentorbased Award.</p></div>
+			</div>
+
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<idno>1-10.2) 11.5 (9.7-13.2) 25.5 (23.9-27.2) † 28.7 (27.4-30</idno>
+		<title level="m">‡ IU/mL 9</title>
+				<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Triglycerides</surname></persName>
+		</author>
+		<idno>mg/dL 111 (107-115) 199 (187-211) 174 (162-187) † 245</idno>
+		<imprint>
+			<biblScope unit="page" from="237" to="253" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title/>
+		<idno>852-862) 984 (968-1000) 954 (937-970) † 1028</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Waist circumference, mm</title>
+		<imprint>
+			<biblScope unit="volume">857</biblScope>
+			<biblScope unit="page" from="1018" to="1038" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title/>
+		<idno>kg/m 2 26.1 (25.8-26.3) 30.9 (30.2-31.6) 30.3 (29.6-31.0) 33.1 (32.7-33</idno>
+	</analytic>
+	<monogr>
+		<title level="j">BMI</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Triglycerides</surname></persName>
+		</author>
+		<idno>mg/dL 111 (107-115) 202 (190-215) 177 (165-189) † 243</idno>
+		<imprint>
+			<biblScope unit="page" from="233" to="253" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title/>
+		<idno>851-861) 979 (962-996) 955 (938-971) † 1029</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Waist circumference, mm</title>
+		<imprint>
+			<biblScope unit="volume">856</biblScope>
+			<biblScope unit="page" from="1016" to="1043" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title/>
+		<idno>kg/m 2 26.1 (25.9-26.3) 30.5 (29.8-31.3) 30.7 (29.9-31.4) 33.6 (33.0-34.2</idno>
+	</analytic>
+	<monogr>
+		<title level="j">BMI</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<author>
+			<persName><forename type="first">*</forename><surname>Unadjusted</surname></persName>
+		</author>
+		<title level="m">†PϽ0.05 between NCEP-MetS only and WHO-MetS only</title>
+				<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Banting lecture 1988: role of insulin resistance in human disease</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Reaven</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="1595" to="1607" />
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">Definition, Diagnosis and Classification of Diabetes Mellitus and its Complications. Part 1: Diagnosis and Classification of Diabetes Mellitus. Geneva: World Health Organization, Department of Noncommunicable Disease Surveillance</title>
+		<editor>Alwan A, King H</editor>
+		<imprint>
+			<biblScope unit="volume">1999</biblScope>
+			<biblScope unit="page" from="1" to="59" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Executive Summary of the Third Report of the National Cholesterol Education Program (NCEP) Expert Panel on Detection, Evaluation, and Treatment of High Blood Cholesterol in Adults (Adult Treatment Panel III)</title>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">285</biblScope>
+			<biblScope unit="page" from="2486" to="2497" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">The metabolic syndrome and total and cardiovascular disease mortality in middle-aged men</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">M</forename><surname>Lakka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Laaksonen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Lakka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">288</biblScope>
+			<biblScope unit="page" from="2709" to="2716" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Metabolic syndrome: major impact on coronary risk in a population with low cholesterol levels-a prospective and cross-sectional evaluation</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Onat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ceyhan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Basar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Atherosclerosis</title>
+		<imprint>
+			<biblScope unit="volume">165</biblScope>
+			<biblScope unit="page" from="285" to="292" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Cardiovascular morbidity and mortality associated with the metabolic syndrome</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Isomaa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Almgren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Tuomi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="683" to="689" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">A comparison of three indicators for identifying Mexican Americans in epidemiologic research: methodological findings from the San Antonio Heart Study</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">P</forename><surname>Hazuda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Comeaux</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Stern</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">123</biblScope>
+			<biblScope unit="page" from="96" to="112" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Myocardial infarction in Mexican-Americans and non-Hispanic whites: the San Antonio Heart Study</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">D</forename><surname>Mitchell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">P</forename><surname>Hazuda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Haffner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">83</biblScope>
+			<biblScope unit="page" from="45" to="51" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Sex difference in the effects of sociocultural status on diabetes and cardiovascular risk factors in Mexican Americans: the San Antonio Heart Study</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Stern</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rosenthal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Haffner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">120</biblScope>
+			<biblScope unit="page" from="834" to="851" />
+			<date type="published" when="1984">1984</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">The role of behavioral variables and fat patterning in explaining ethnic differences in serum lipids and lipoproteins</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Haffner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Stern</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">P</forename><surname>Hazuda</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">123</biblScope>
+			<biblScope unit="page" from="830" to="839" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Rose</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Blackburn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">F</forename><surname>Gillum</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cardiovascular Survey Methods</title>
+		<imprint>
+			<date type="published" when="1982">1982</date>
+			<publisher>World Health Organization</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Diabetes and cardiovascular disease: the Framingham study</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">B</forename><surname>Kannel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Mcgee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">241</biblScope>
+			<biblScope unit="page" from="2035" to="2038" />
+			<date type="published" when="1979">1979</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">of blood pressure on the risk of cardiovascular disease</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Vasan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Larson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">P</forename><surname>Leip</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">345</biblScope>
+			<biblScope unit="page" from="1291" to="1297" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">NCEP-defined metabolic syndrome, diabetes, and prevalence of coronary heart disease among NHANES III participants age 50 years and older</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Alexander</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">B</forename><surname>Landsman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Teutsch</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="1210" to="1214" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Central adiposity determines prevalence differences of the metabolic syndrome</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lorenzo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Serrano-Rios</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>Martinez-Larrad</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Obes Res</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="1480" to="1487" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Relatively more atherogenic coronary heart disease risk factors in prediabetic women than in prediabetic men</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Haffner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Miettinen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Stern</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="711" to="717" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Identification of subjects with insulin resistance and beta-cell dysfunction using alternative definitions of the metabolic syndrome</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Hanley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">E</forename><surname>Wagenknecht</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D'agostino</forename><surname>Rb</surname><genName>Jr</genName></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="2740" to="2747" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Comment on the provisional report from the WHO consultation: European Group for the Study of Insulin Resistance (EGIR)</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Balkau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Charles</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabet Med</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="442" to="443" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

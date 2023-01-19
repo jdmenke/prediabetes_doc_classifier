@@ -1,0 +1,971 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Fasting plasma glucose and HbA 1c in cardiovascular risk prediction: a sex-specific comparison in individuals without diabetes mellitus</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2012-09-19">19 September 2012</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">B</forename><surname>Schöttker</surname></persName>
+							<email>b.schoettker@dkfz-heidelberg.de</email>
+						</author>
+						<author>
+							<persName><forename type="first">H</forename><surname>Müller</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">D</forename><surname>Rothenbacher</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">H</forename><surname>Brenner</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department">Division of Clinical Epidemiology and Aging Research</orgName>
+								<orgName type="institution">German Cancer Research Center</orgName>
+								<address>
+									<addrLine>Im Neuenheimer Feld 581</addrLine>
+									<postCode>69120</postCode>
+									<settlement>Heidelberg</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="department">Institute of Epidemiology and Medical Biometry</orgName>
+								<orgName type="institution">Ulm University</orgName>
+								<address>
+									<settlement>Ulm</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Fasting plasma glucose and HbA 1c in cardiovascular risk prediction: a sex-specific comparison in individuals without diabetes mellitus</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2012-09-19">19 September 2012</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">93CE7473E8CE685479C74F64F6B65C4C</idno>
+					<idno type="DOI">10.1007/s00125-012-2707-x</idno>
+					<note type="submission">Received: 2 May 2012 / Accepted: 9 August 2012 /</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.1" ident="GROBID" when="2022-07-19T22:45+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Blood glucose</term>
+					<term>Cardiovascular diseases</term>
+					<term>Cohort study</term>
+					<term>Diabetes mellitus, type 2</term>
+					<term>Epidemiology</term>
+					<term>HbA 1c</term>
+					<term>Prediabetes</term>
+					<term>Prediction</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Aims/hypothesis This study aimed to assess the cardiovascular risk of individuals with fasting plasma glucose (FPG)and/or HbA 1c -defined prediabetes (5.6-6.9 mmol/l and 39-47 mmol/mol [5.7-6.4%], respectively) or manifest diabetes mellitus and to evaluate whether FPG or HbA 1c can improve risk prediction beyond that estimated by the Systematic Coronary Risk Evaluation (SCORE) chart in individuals without diabetes mellitus. Methods Cox regression was employed to estimate HRs for primary incident cardiovascular events (CVEs) in a cohort of 8,365 individuals aged 50-74 years. Furthermore, HbA 1c and FPG were added individually to the variables of the SCORE and measures of model discrimination and reclassification were assessed. Results During 8 years of follow-up, 702 individuals had a primary CVE. After adjusting for conventional cardiovascular risk factors, HRs were attenuated close to one for the prediabetes groups (especially for women), whereas a 1.7and a 1.9-fold increased risk persisted for men and women with diabetes, respectively. Extension of the SCORE variables by either FPG or HbA 1c did not improve its predictive abilities in individuals without diabetes. There was a non-significant net reclassification improvement for men when HbA 1c was added (2.2%, p00.16). Conclusions/interpretation The increased cardiovascular risk of individuals with FPG-or HbA 1c -defined prediabetes can mainly be explained by other cardiovascular risk factors. Adding FPG or HbA 1c did not significantly improve CVE risk prediction by the SCORE variables in individuals without diabetes mellitus.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>Diabetes mellitus is a well-established independent risk factor for cardiovascular events (CVEs), and patients with longlasting diabetes carry a similar risk of a CVE as patients with a previous non-fatal myocardial infarction <ref type="bibr">[1]</ref>. As an increase in cardiovascular risk is already present below the diagnostic threshold for diabetes <ref type="bibr" target="#b1">[2]</ref>, individuals with prediabetes come into focus as a target of CVE prevention, although it is not established whether prediabetes should be considered a coronary risk equivalent <ref type="bibr" target="#b2">[3]</ref>.</p><p>Since 2010, the ADA has expanded the prediabetes definitions of 'impaired fasting glucose' (IFG) (gained from a fasting plasma glucose [FPG] test) and 'impaired glucose tolerance' (IGT) (gained from an OGTT) with a prediabetes definition based on HbA 1c levels of 39-47 mmol/mol (5.7-6.4%), acknowledging the international harmonisation of HbA 1c analytics <ref type="bibr" target="#b3">[4,</ref><ref type="bibr" target="#b4">5]</ref>. Individuals with IFG, IGT and HbA 1c levels below 48 mmol/mol (6.5%) have been shown to be at increased risk for adverse cardiovascular outcomes <ref type="bibr" target="#b1">[2,</ref><ref type="bibr" target="#b5">6,</ref><ref type="bibr" target="#b6">7]</ref>, but estimates were mostly non-significant and studies comparing the cardiovascular risk of individuals with IFG or IGT with the new HbA 1c -defined prediabetes definition are sparse <ref type="bibr" target="#b7">[8]</ref>. There is a need for detailed comparisons in large-scale cohorts because the overlap of prediabetes definitions is low <ref type="bibr" target="#b8">[9]</ref><ref type="bibr" target="#b9">[10]</ref><ref type="bibr" target="#b10">[11]</ref><ref type="bibr" target="#b11">[12]</ref>. The comparison of IFGand HbA 1c -defined prediabetes has the greatest relevance for clinical practice because the OGTT is unlikely to be used in primary prevention programmes because of its poor reproducibility, time requirement and costs <ref type="bibr" target="#b12">[13,</ref><ref type="bibr" target="#b13">14]</ref>.</p><p>For cardiovascular risk prediction in Europe, the Systematic Coronary Risk Evaluation (SCORE) chart of the European Society of Cardiology is a well-calibrated risk score, but it does not contain a glucose measure <ref type="bibr" target="#b14">[15]</ref>.</p><p>A first study applying the recently developed measures of reclassification <ref type="bibr" target="#b15">[16]</ref><ref type="bibr" target="#b16">[17]</ref><ref type="bibr" target="#b17">[18]</ref> suggested that HbA 1c has a higher value in CVE prediction in non-diabetic men than in women <ref type="bibr" target="#b8">[9]</ref>. To date, reclassification by FPG has been investigated only in men and women without diabetes combined and the authors concluded that FPG does not have an additional predictive value above conventional cardiovascular risk factors <ref type="bibr" target="#b18">[19,</ref><ref type="bibr" target="#b19">20]</ref>. To shed further light on the deviating results for HbA 1c and FPG, and to specifically evaluate potential sex differences, we provide a sex-specific comparison of the predictive value of both serum glucose markers in individuals without diabetes from a cohort that reflects a representative sample of the German population aged 50 and over.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head><p>Study design This investigation is based on the 'Epidemiologische Studie zu Chancen der Verhütung, Früherkennung und optimierten Therapie chronischer Erkrankungen in der älteren Bevölkerung' [Epidemiological investigations of the chances of preventing, recognising early and optimally treating chronic diseases in an elderly population] (ESTHER) study, an ongoing cohort study, details of which have been reported elsewhere <ref type="bibr" target="#b20">[21,</ref><ref type="bibr" target="#b22">22]</ref>. Briefly, 9,949 individuals, aged 50-74 years at baseline, were recruited by their general practitioners during a routine health check-up between 2000 and 2002 in the German federal state of Saarland. The ESTHER study has been approved by the ethics committees of the Medical Faculty of the University of Heidelberg and the Medical Association of Saarland and is being conducted in accordance with the Declaration of Helsinki. Informed consent has been obtained from all study participants. Data collection Information on sociodemographic characteristics, lifestyle and prevalent diseases was obtained by a comprehensive questionnaire sent to the study participants at baseline. Plasma glucose, history of diabetes and hypertension, currently prescribed drugs, height, weight, systolic BP and HDL-and LDL-cholesterol were assessed and documented on a standardised form by the general practitioners during the health check-up, together with information on whether the study participant had fasted overnight as requested. Blood and urine samples were taken during the health check-up, centrifuged, sent to the study centre and stored at −80°C until analysis. HbA 1c , total cholesterol and triacylglycerols were measured from blood samples in the central laboratory of the University Clinic of Heidelberg by standard high-performance liquid-chromatography methods, C-reactive protein (CRP) was measured by turbidimetry and urinary albumin was determined by immunonephelometry. HbA 1c was measured with the Bio-Rad Variant II (Bio-Rad Laboratories, Hercules, CA, USA) that used the DCCT standard. This method is certified by the National Glycohemoglobin Standardisation Program.</p><p>Predictors Individuals with prevalent diabetes were identified by recorded diagnoses, prescribed glucose-lowering drugs in the medical records of the general practitioner, new diagnoses during the health check-up (reported by the general practitioner) and if both FPG and HbA 1c were above the ADA thresholds for a diabetes diagnosis (FPG ≥7 mmol/l, HbA 1c ≥48 mmol/mol [6.5%]) <ref type="bibr" target="#b4">[5]</ref>. Individuals with prediabetes were identified according to the current ADA recommendations by FPG 5.6-6.9 mmol/l (IFG) and HbA 1c 39-47 mmol/mol (5.7-6.4%) (HbA 1c -defined pre-diabetes) <ref type="bibr" target="#b4">[5]</ref>.</p><p>Endpoint We defined a composite endpoint of CVE of myocardial infarction, stroke or cardiovascular death. Deaths in the years from 2000 to 2010 were identified by enquiry at the residents' registration offices (registration at such offices is mandatory in Germany). Information about the vital status of 99.9% of the cohort's participants could be obtained. Death certificates were provided by public health departments for 97.7% of those who had died. A specific code for the underlying cause of death was provided for 95.9% of deaths, and the remaining were coded by ICD-10 (www.who.int/ classifications/icd/en) code R99 (unknown cause of death).</p><p>All deaths coded with ICD-10 code I00-I99 were considered cardiovascular deaths. Incidence of non-fatal myocardial infarction and non-fatal stroke were ascertained in mailed standardised questionnaires to the study participants at 2, 5 and 8 year follow-up, covering a follow-up period until the end of 2010. Self-reported cases were validated by medical records obtained from the study participants' general practitioners. In the total cohort, 553 self-reported incident cases were confirmed by the general practitioner. Validation was not possible because of non-response of the general practitioners for 93 self-reported cases. Only physician-validated non-fatal cases and fatal cases with death certificates were considered for the composite endpoint in our analysis.</p><p>Study population Participants of the ESTHER Study baseline examination (n09,949) were excluded from this investigation if they had missing information on HbA 1c and FPG (n 0134) or uncertain diabetes status (either HbA 1c ≥48 mmol/mol [6.5%] or FPG ≥7 mmol/l, but not both; n0368), which resulted in a total sample size of 9,451 individuals for the cross-sectional analysis. For the longitudinal analyses, individuals with a stroke or myocardial infarction before baseline (n0761), lost to follow-up right after baseline (n0272) and with a non-validated primary CVE (n062) were excluded, resulting in a sample size of 8,365 individuals.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analyses</head><p>The burden of cardiovascular risk factors of individuals with IFG, HbA 1c -defined prediabetes, and diabetes were compared with those of respective control groups (normal FPG, normal HbA 1c and no diabetes, respectively) by a χ 2 test (categorical variables) or Wilcoxon rank-sum test (continuous variables). Cox proportional hazards models were employed to estimate HRs for the comparison of the same groups with respect to the composite cardiovascular endpoint in crude models and in models adjusted for the variables of the SCORE: age (continuous), sex, systolic blood pressure (continuous), total cholesterol/ HDL-cholesterol ratio (continuous) and current smoking (dichotomous) <ref type="bibr" target="#b14">[15]</ref>. In addition, HbA 1c and FPG were modelled as linear predictors of CVE in individuals with diabetes. Multiple imputation was employed for the longitudinal analyses to adequately deal with missing covariate values; details are provided in the electronic supplementary material (ESM) text.</p><p>To assess the predictive value of HbA 1c and FPG for incident CVE in individuals without diabetes above established variables for cardiovascular risk prediction, they were added individually to a model comprising the individual variables of the SCORE <ref type="bibr" target="#b14">[15]</ref>. In a sensitivity analysis, instead of the individual variables, the single SCORE result for each study participant was calculated by published equations that are based on β coefficients for the SCORE variables from the original SCORE cohorts <ref type="bibr" target="#b23">[23]</ref>. Measures of overall model fit, model discrimination, reclassification and model calibration were assessed with Cox proportional hazards regression. Model fit was assessed by the likelihood ratio (LR) test and Akaike's information criterion (AIC). Whereas the LR usually increases with the addition of variables to a risk score, the AIC is reduced by the addition of variables that do not substantially increase the model fit. Ultimately, the model with the lowest AIC is the best. Discrimination of the models was compared on the basis of the AUCs of the receiver-operating characteristic (ROC) graphs (synonymous to the c-statistic). However, the AUC has limitations in the detection of an improvement of a risk score by an additional biomarker, even if it is strongly associated with the disease <ref type="bibr" target="#b16">[17]</ref>. Therefore, the net reclassification improvement (NRI) by adding FPG or HbA 1c was calculated <ref type="bibr" target="#b15">[16]</ref> according to the recommended 10 year riskprediction strata: 0-5%, &gt;5-10%, &gt;10-20% and &gt;20% of predicted probability for a cardiovascular event <ref type="bibr" target="#b16">[17]</ref>. For an improved net reclassification, adding FPG or HbA 1c to a cardiovascular risk score should lead to more cases that move up in risk category than cases that move down and, if possible, also to more controls that move down in risk category than controls that move up. Furthermore, the integrated discrimination improvement (IDI) was assessed. The IDI estimates the extended model's improvement in the difference in predicted probabilities for cases (which should increase) and controls (which should decrease) across all possible cut-points <ref type="bibr" target="#b15">[16,</ref><ref type="bibr" target="#b17">18]</ref>. Calibration of all assessed risk scores was verified by May-Hosmer's simplification of the Gronnesby-Borgan test <ref type="bibr" target="#b24">[24]</ref>. The study sample was divided into quintiles according to the study participants' ranks in the estimated risk score; p values above 0.05 for the comparison of observed and expected cases indicate good model calibration.</p><p>All statistical tests were two-sided using an α level of 0.05 and all analyses were conducted with the software package SAS, version 9.2 (SAS, Cary, NC, USA).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>At baseline, the median age of the 9,451 study participants was 62 years (25th percentile, 57 years; 75th percentile, 67 years) and 5,210 (55.1%) were female. The prevalence of diabetes mellitus was 16.1%. In individuals without diabetes, a higher proportion of individuals were classified as having HbA 1c -defined prediabetes (37.3%) than having IFG (21.6%). had concurrently increased values for most cardiovascular risk factors compared with individuals without prediabetes. However, in contrast to individuals with IFG, individuals with HbA 1c -defined prediabetes were significantly older, had higher total cholesterol levels, were more frequently physically inactive and consumed less alcohol than individuals without prediabetes. On the other hand, significantly more men in the prediabetes group had IFG only. With only a few exceptions, cardiovascular risk factors were strongly increased (HDL-cholesterol decreased) in individuals with diabetes compared with individuals without diabetes and also when compared with individuals with prediabetes. Particularly remarkable were the differences in the cardiovascular risk factors HDL-cholesterol, triacylglycerol, CRP, male sex, kidney damage and physical activity.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Distribution of cardiovascular risk factors in individuals with prediabetes and diabetes</head><p>Risk for major CVEs of individuals with prediabetes or diabetes During a median follow-up duration of 7.9 years (interquartile range 5.4-8.2), 338 study participants had a non-fatal stroke, 154 had a non-fatal myocardial infarction and 256 had a fatal cardiovascular event. Overall, 702 individuals (310 women, 44%) met the criteria for the composite cardiovascular endpoint. The sum for the individual events exceeds 702 because of multiple events in single individuals of which only the first event was considered. Table <ref type="table" target="#tab_1">2</ref> shows HRs for CVEs during follow-up of women and men with prediabetes (classified by FPG, HbA 1c or both) and diabetes. Crude HRs for comparing individuals with IFG and HbA 1c -defined prediabetes with individuals with normal FPG or HbA 1c levels, respectively, were only slightly increased and HRs were attenuated towards the null effect value of one by adjustment for established cardiovascular risk factors (especially in women). In contrast, women and men with diabetes had a statistically significantly increased CVE risk compared with individuals without diabetes. The pattern of results did not change when using a control group that had both normal HbA 1c and FPG levels and increasing the certainty about the prediabetes definition by defining it by both FPG and HbA 1c in the prediabetic range.</p><p>In individuals with diabetes, the HR for a 1 mmol/l increase in FPG was 1.09 (95% CI 1.01, 1.18) for women and 1.11 (95% CI 1.03, 1.19) for men and the HR for a 1% increase in HbA 1c was 1.26 (95% CI 1.07, 1.48) in women and 1.22 (95% CI 1.08, 1.37) in men.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Prediction of incident cardiovascular events in individuals without diabetes</head><p>The evaluation of the SCORE variables when extended by FPG or HbA 1c with respect to the prediction of CVE during follow-up in women and men without diabetes mellitus is shown in Table <ref type="table" target="#tab_2">3</ref>. The SCORE variables already had good overall model fit and calibration that were not further improved by adding FPG or HbA 1c . The results for the measures of model fit of the models with FPG cannot be directly compared with those with HbA 1c because of a smaller sample size. AUCs were higher in women than in men and did not increase significantly by adding FPG or HbA 1c to the SCORE. The highest NRI and IDI were observed for men when HbA 1c was added to the SCORE. However, none of the reclassification measures was statistically significant.</p><p>Applying SCORE results, calculated by equations obtained from the SCORE cohorts with individuals younger than 65 years, to our study population with 30% of study participants older than 65 years, AUC, model fit and calibration were worse than fitting the SCORE variables to the cohort data (ESM Table <ref type="table" target="#tab_0">1</ref>). Nevertheless, results for AUC differences, NRIs and IDIs for adding FPG or HbA 1c were similar in the main analysis with fitted SCORE variables and the sensitivity analysis with calculated SCORE values.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>In this large cohort, reflecting the general elderly German population, prediabetes and diabetes were very common and were associated with an increased burden of conventional cardiovascular risk factors. The observed higher risk for a major CVE of individuals with IFG and HbA 1c -defined prediabetes could mainly be explained by other cardiovascular risk factors, whereas strong associations persisted after adjustment for individuals with manifest diabetes mellitus. Adding FPG or HbA 1c to the variables of the SCORE did not improve its predictive abilities for CVE in individuals without diabetes mellitus (except for a statistically non-significant slight improvement for men when adding HbA 1c ).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Cardiovascular risk profiles</head><p>In agreement with other studies <ref type="bibr" target="#b9">[10,</ref><ref type="bibr" target="#b10">11,</ref><ref type="bibr" target="#b25">25]</ref>, we showed in a previous analysis of the ESTHER data that the new HbA 1c -based prediabetes definition and IFG have a low proportion of overlap <ref type="bibr" target="#b11">[12]</ref>. Nevertheless, individuals with IFG and those with HbA 1cdefined prediabetes showed a similarly increased burden of cardiovascular risk factors. In concordance with findings from a recently published study, the most important difference was that more men were classified with prediabetes by FPG than by HbA 1c <ref type="bibr" target="#b26">[26]</ref>. Although most of the cardiovascular risk factors were statistically significantly increased in the prediabetes groups, the clinical importance of the differences was small when compared with the large differences observed between individuals with and without manifest diabetes mellitus.</p><p>Risk for incident cardiovascular events The observed HRs for CVEs in the following 8 years for individuals with IFG, HbA 1c -defined prediabetes and manifest diabetes were in line with estimates from previous studies. The pooled risk Adjusted for age, sex, systolic blood pressure, current smoking and total cholesterol/HDL-cholesterol ratio IR, incidence rate per 1,000 person-years; PY, person-years at risk; Ref., reference ratio from three studies on the association of IFG and cardiovascular outcomes was slightly higher in women (1.16, 95% CI 0.99, 1.36) and comparable in men (1.23, 95% CI 1.06, 1.42) <ref type="bibr" target="#b5">[6]</ref>. To our knowledge, the association of the new HbA 1c -defined prediabetes definition and CVE has only been investigated in a study from northern Finland <ref type="bibr" target="#b7">[8]</ref>. The reported relative risks for women of 0.96 (95% CI 0.62, 1.49) and for men of 1.17 (95% CI 0.78, 1.74) are consistent with the estimates from our cohort. Moreover, our study confirmed higher HRs for men with prediabetes than for women with prediabetes, with estimates of HRs for the latter being very close to the null effect value of one. The sex difference was marginal for HbA 1c -defined prediabetes and more pronounced for IFG, which might be caused by the higher proportion of men in the IFG group. Nevertheless, the association of IFG and CVE in men was also weak and supports the hypothesis that cardiovascular risk, induced by an increased serum glucose load, starts to increase to a clinically relevant extent after the manifestation of diabetes mellitus. In our cohort, women and men with diabetes showed a 1.7-and 1.9-fold increased risk for CVE, respectively. These estimates are lower than those reported by roughly comparable sex-specific analyses in three other cohorts, which had risk-ratio point estimates ranging from 3.5 to 4.9 for women and from 2.1 to 3.0 for men <ref type="bibr" target="#b27">[27]</ref><ref type="bibr" target="#b28">[28]</ref><ref type="bibr" target="#b29">[29]</ref>, but agree with the approximately twofold increased risk for a wide range of vascular diseases estimated in 102 prospective studies of the Emerging Risk Factors Collaboration (ERFC) <ref type="bibr" target="#b19">[20]</ref>. The quite low CVE risk of individuals with diabetes in our cohort might be explained by the relatively short mean duration of diabetes reflecting the high proportion of individuals with newly diagnosed diabetes identified by the health check-up (21% of all diabetes diagnoses) <ref type="bibr">[1]</ref>. However, the sex-combined cardiovascular risk estimates for increasing FPG and HbA 1c levels in the individuals with diabetes in our study matched perfectly with estimates from meta-analyses of other prospective studies: HR for a 1 mmol/l FPG increase 1.10 (95% CI 1.05, 1.16) vs 1.12 (95% CI 1.08, 1.15) <ref type="bibr" target="#b19">[20]</ref> and for a 1% HbA 1c increase 1.23 (95% CI 1.12, 1.36) vs 1.18 (95% CI 1.10, 1.26) <ref type="bibr" target="#b30">[30]</ref>, respectively.</p><p>Utility of FPG and HbA 1c in cardiovascular risk prediction in individuals without diabetes mellitus Although AUCs for the SCORE variables were lower in individuals without diabetes in our cohort (women: 0.71, men: 0.63) compared with those estimated in a similar investigation in the EPIC-Norfolk cohort for the Framingham Score (women: 0.80, men: 0.72), the difference between the sexes was consistent <ref type="bibr" target="#b8">[9]</ref>. The overall lower AUCs may be explained by the higher mean baseline age of the ESTHER cohort (62.5 years) compared with the EPIC-Norfolk cohort (58 years), when keeping in mind the strong attenuation of the AUC of cardiovascular risk scores in individuals older than 65 years <ref type="bibr" target="#b31">[31]</ref>. Adding FPG or HbA 1c to the SCORE variables resulted in small non-significant NRIs and IDIs for both sexes. These patterns are consistent with the non-significant findings for adding FPG to the Framingham Score variables in the Whitehall II study (NRI 1.8%) <ref type="bibr" target="#b18">[19]</ref> and the ERFC (NRI −0.18%, IDI 0.04%) <ref type="bibr" target="#b19">[20]</ref>. Our data are also in agreement with findings from the EPIC-Norfolk cohort <ref type="bibr" target="#b8">[9]</ref> that HbA 1c could have a value in CVE prediction in non-diabetic men (NRI 2.2% vs 3.4%, respectively) but not women (NRI −0.2% vs −2.2%, respectively). Furthermore, the results for men are in line with findings from the ADDITION study <ref type="bibr" target="#b32">[32]</ref> that combined a SCORE result of ≥5 with an HbA 1c value ≥6.0% and identified 96.7% of those who would benefit from an intervention compared with 91.7% if the screening was performed with only those with a SCORE result ≥5. This is one possibility of how to implement the additional predictive value of HbA 1c for CVE for men into routine screening programmes with the SCORE. As screenings for cardiovascular diseases and undiagnosed diabetes are usually combined, HbA 1c or FPG could easily be added to a cardiovascular risk assessment. Furthermore, a diagnosis of prediabetes might be useful as a motivation to change diet and physical activity habits that could result in a decrease in both the diabetes and cardiovascular risk <ref type="bibr" target="#b33">[33,</ref><ref type="bibr" target="#b34">34]</ref>. However, it should be noted that the NRIs for adding HbA 1c in non-diabetic men were small and not statistically significant in our cohort (p00.16) and in the EPIC-Norfolk study (p00.06). Further research is required to explore whether this relatively small NRI of 2.2-3.4% can be confirmed and determine its clinical relevance.</p><p>Limitations and strengths When interpreting the results, the following limitations and strengths should be considered. The lack of an OGTT meant we could not compare all three prediabetes definitions (IGT, IFG and HbA 1c -defined prediabetes). However, the performance of the OGTT in prediabetes screening would have been only of theoretical interest because an OGTT is inconvenient for screening <ref type="bibr" target="#b12">[13]</ref>. The strengths are physician-confirmed event status and the high completeness of the mortality follow-up. A further strength of the ESTHER study is its representativeness of a population that attends screenings. Nevertheless, the distribution of sociodemographic baseline characteristics and common prevalent chronic diseases in our study were similar to the distribution in the respective age categories in the German National Health Survey, which is a representative sample of the German population <ref type="bibr" target="#b20">[21,</ref><ref type="bibr" target="#b22">22]</ref>, a fact supporting the external validity of our study. FPG screening has been performed under conditions of routine medical practice. A limitation might be that physicians and possibly also participants were aware of the FPG results but not the HbA 1c results. Individuals with IFG might have been counselled and changed their lifestyle and would therefore be at lower cardiovascular risk than individuals with HbA 1c -defined prediabetes. However, this theoretical limitation does not seem to have had much influence on the results because the estimated HR for CVE of participants with IFG (HR 1.11, 95% CI 0.88, 1.38 for both sexes combined) is concordant with the pooled HR of a metaanalysis of studies that had different recruitment procedures (HR 1.18, 95% CI 1.09, 1.28) <ref type="bibr" target="#b5">[6]</ref>. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Duality of interest</head><p>The authors declare that there is no duality of interest associated with this manuscript.</p><p>Contribution statement BS was responsible for the conception and design, the analyses, the interpretation of data and drafting of the article. HM, DR and HB acquired data and revised the article critically for important intellectual content. All authors gave final approval of the version of the manuscript to be published.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Table1shows the distribution of established cardiovascular risk factors in individuals with IFG, HbA 1c -defined prediabetes and diabetes at baseline. Individuals with IFG and HbA 1c -defined prediabetes Distribution of cardiovascular risk factors in individuals with IFG, HbA 1c -defined prediabetes and diabetes at baseline Numbers reflect the median (interquartile range) for continuously measured characteristics or the number of individuals with the characteristic (%) for categorically measured characteristics To convert mmol/l of total cholesterol or HDL-or LDL-cholesterol to mg/dl, multiply by 38.7, and for triacylglycerol multiply by 88.5</figDesc><table><row><cell>HbA 1c in individuals without diabetes Diabetes in total cohort</cell><cell>n Normal HbA 1c -defined p n No diabetes Diabetes p</cell><cell>HbA 1c pre-diabetes value (n07,932) (n01,519) value</cell><cell>(n04,955) (n02,942)</cell><cell>7,897 61 (56, 66) 63 (58, 68) &lt;0.01 9,451 62 (57, 67) 64 (60, 69) &lt;0.01</cell><cell>7,865 2,160 (43.6) 1,261 (42.9) 0.53 9,451 3,434 (43.3) 807 (53.1) &lt;0.01</cell><cell>7,892 27 (24, 29) 28 (25, 30) &lt;0.01 9,441 27 (25, 30) 29 (27, 32) &lt;0.01</cell><cell>7,872 5.7 (4.8, 6.5) 5.9 (5.1, 6.7) &lt;0.01 9,419 5.7 (4.9, 6.5) 5.5 (4.6, 6.3) &lt;0.01</cell><cell>4,932 1.4 (1.1, 1.7) 1.3 (1.1, 1.6) 0.01 5,910 1.4 (1.1, 1.7) 1.2 (1.0, 1.4) &lt;0.01</cell><cell>7,865 1.2 (0.8, 1.7) 1.3 (0.9, 2.0) &lt;0.01 9,412 1.2 (0.9, 1.8) 1.7 (1.2, 2.5) &lt;0.01</cell><cell>7,766 1.7 (0.9, 3.7) 2.4 (1.1, 5.0) &lt;0.01 9,306 2.0 (0.9, 4.2) 2.7 (1.4, 6.1) &lt;0.01</cell><cell>7,711 140 (125, 150) 140 (130, 150) &lt;0.01 9,229 140 (126, 150) 140 (130, 160) &lt;0.01</cell><cell>7,883 2,256 (45.6) 1,589 (54.1) &lt;0.01 9,437 3,862 (48.8) 1,155 (76.0) &lt;0.01</cell><cell>7,666 259 (5.4) 244 (8.5) &lt;0.01 9,142 507 (6.6) 254 (17.6) &lt;0.01</cell><cell>7,860 417 (8.5) 322 (11.0) &lt;0.01 9,404 743 (9.4) 366 (24.2) &lt;0.01</cell><cell>7,728 &lt;0.01 9,211 &lt;0.01</cell><cell>3,481 (71.7) 2,200 (76.6) 5,707 (73.5) 1,174 (81.1)</cell><cell>755 (15.5) 403 (14.0) 1,162 (15.0) 144 (9.9)</cell><cell>621 (12.8) 268 (9.3) 894 (11.5) 130 (9.0)</cell><cell>7,874 &lt;0.01 9,419 &lt;0.01</cell><cell>918 (18.6) 663 (22.6) 1,590 (20.0) 415 (27.5)</cell><cell>2,239 (45.3) 1,352 (46.1) 3,607 (45.6) 704 (46.6)</cell><cell>1,786 (36.1) 916 (31.3) 2,712 (34.3) 391 (25.9)</cell><cell>7,682 &lt;0.01 9,179 &lt;0.01</cell><cell>2,571 (53.3) 1,437 (50.4) 4,027 (52.2) 678 (46.3)</cell><cell>1,560 (32.3) 874 (30.6) 2,441 (31.6) 562 (38.4)</cell><cell>697 (14.4) 543 (19.0) 1,248 (16.2) 223 (15.2)</cell><cell>7,351 &lt;0.01 8,761 &lt;0.01</cell><cell>1,253 (27.0) 907 (33.5) 2,171 (29.4) 603 (43.8)</cell><cell>2,934 (63.1) 1,616 (59.8) 4,568 (61.9) 691 (50.2)</cell><cell>460 (9.9) 181 (6.7) 645 (8.7) 83 (6.0)</cell><cell>≥2 h of vigorous and ≥2 h of light physical activity/week; low, other</cell><cell>≥20 and men ≥40 g ethanol per day</cell></row><row><cell></cell><cell>p</cell><cell>value</cell><cell></cell><cell>0.09</cell><cell>&lt;0.01</cell><cell>&lt;0.01</cell><cell>0.34</cell><cell>&lt;0.01</cell><cell>&lt;0.01</cell><cell>&lt;0.01</cell><cell>&lt;0.01</cell><cell>&lt;0.01</cell><cell>&lt;0.01</cell><cell>&lt;0.01</cell><cell>0.02</cell><cell></cell><cell></cell><cell></cell><cell>0.157</cell><cell></cell><cell></cell><cell></cell><cell>&lt;0.01</cell><cell></cell><cell></cell><cell></cell><cell>0.36</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>FPG in individuals without diabetes</cell><cell>n Normal IFG</cell><cell>FPG (n01,414)</cell><cell>(n05,146)</cell><cell>6,560 62 (56, 66) 62 (57, 67)</cell><cell>6,560 2,077 (40.4) 728 (51.5)</cell><cell>6,556 26.4 (24, 29) 28 (26, 31)</cell><cell>6,540 5.8 (4.9, 6.6) 5.7 (4.9, 6.5)</cell><cell>4,325 1.4 (1.1, 1.7) 1.3 (1.1, 1.6)</cell><cell>6,536 1.2 (0.8, 1.7) 1.4 (0.9, 2.0)</cell><cell>6,452 1.9 (0.9, 4.0) 2.3 (1.1, 5.0)</cell><cell>6,469 140 (125, 150) 140 (130, 150)</cell><cell>6,558 2,397 (46.6) 802 (56.8)</cell><cell>6,358 312 (6.3) 123 (8.9)</cell><cell>6,534 427 (8.3) 188 (13.3)</cell><cell>6,414</cell><cell>3,658 (72.7) 1,057 (76.4)</cell><cell>785 (15.6) 189 (13.7)</cell><cell>587 (11.7) 138 (10.0)</cell><cell>6,542</cell><cell>985 (19.2) 300 (21.3)</cell><cell>2,368 (46.1) 649 (46.0)</cell><cell>1,779 (34.7) 461 (32.7)</cell><cell>6,380</cell><cell>2,685 (53.6) 646 (47.1)</cell><cell>1,516 (30.3) 494 (36.0)</cell><cell>808 (16.1) 231 (16.9)</cell><cell>6,126</cell><cell>1,423 (29.7) 389 (29.3)</cell><cell>2,970 (61.9) 808 (61.0)</cell><cell>407 (8.5) 129 (9.7)</cell><cell></cell><cell></cell></row><row><cell>Characteristic</cell><cell></cell><cell></cell><cell></cell><cell>Age (years)</cell><cell>Sex (male)</cell><cell>BMI (kg/m 2 )</cell><cell>Total cholesterol (mmol/l)</cell><cell>HDL-cholesterol (mmol/l)</cell><cell>Triacylglycerol (mmol/l)</cell><cell>CRP (mg/l)</cell><cell>Systolic BP (mmHg)</cell><cell>Hypertension a</cell><cell>CVE before baseline</cell><cell>Kidney damage b</cell><cell>Education (years)</cell><cell>≤9</cell><cell>10-11</cell><cell>≥12</cell><cell>Physical activity c</cell><cell>Inactive</cell><cell>Low</cell><cell>Medium or high</cell><cell>Smoking status</cell><cell>Never</cell><cell>Former</cell><cell>Current</cell><cell>Alcohol consumption d</cell><cell>Abstinent</cell><cell>Moderate</cell><cell>High</cell><cell></cell><cell></cell></row></table><note>a Prescribed anti-hypertensive drugs or recorded in medical records b Kidney damage defined by urinary albumin ≥0.02 g/l c Level of physical activity was determined from a simple enquiry of two lifestyle aspects: 'How many hours per week are you physically active at present: (1) vigorous physical activity (e.g. sport);(2) light physical activity (e.g. walking, cycling)?' Definition of: inactivity, &lt;1 h of physical activity/week; medium or high, d Definition of: moderate alcohol consumption, women &gt;0-19.99 and men &gt;0-39.99 g ethanol per day; and high alcohol consumption, women</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2</head><label>2</label><figDesc>Risk for major CVEs during follow-up of prediabetic women and men classified by FPG, HbA 1c or both and individuals with diabetes compared with various reference groups</figDesc><table><row><cell>Women</cell></row><row><cell>Classification</cell></row></table><note>a</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3</head><label>3</label><figDesc>Evaluation of the SCORE if extended by FPG or HbA 1c in the prediction of CVEs in non-diabetic older adults</figDesc><table><row><cell></cell><cell>Women</cell><cell></cell><cell></cell><cell>Men</cell><cell></cell><cell></cell></row><row><cell>Characteristic</cell><cell>SCORE</cell><cell>SCORE+FPG</cell><cell>SCORE+HbA 1c</cell><cell>SCORE</cell><cell>SCORE+FPG</cell><cell>SCORE+HbA 1c</cell></row><row><cell>Overall model fit</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>LR; df; p value</cell><cell>132.8; 4; &lt;0.001</cell><cell>111.0; 5; &lt;0.001</cell><cell>132.9; 5; &lt;0.001</cell><cell>62.6; 4; &lt;0.001</cell><cell>53.5; 5; &lt;0.001</cell><cell>64.3; 5; &lt;0.001</cell></row><row><cell>AIC</cell><cell>3,564</cell><cell>2,872</cell><cell>3,564</cell><cell>4,220</cell><cell>3,244</cell><cell>4,219</cell></row><row><cell>Discrimination</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>AUC</cell><cell>0.711</cell><cell>0.713</cell><cell>0.711</cell><cell>0.632</cell><cell>0.636</cell><cell>0.634</cell></row><row><cell>Reclassification of</cell><cell></cell><cell>195 cases/3,297</cell><cell>235 cases/3,918</cell><cell></cell><cell>223 cases/2,206</cell><cell>282 cases/2,679</cell></row><row><cell></cell><cell></cell><cell>controls</cell><cell>controls</cell><cell></cell><cell>controls</cell><cell>controls</cell></row><row><cell>Cases, n up /n down</cell><cell>Ref.</cell><cell>6/7</cell><cell>1/1</cell><cell></cell><cell>2/4</cell><cell>11/7</cell></row><row><cell>Controls, n up /n down</cell><cell>Ref.</cell><cell>76/64</cell><cell>12/6</cell><cell>Ref.</cell><cell>19/23</cell><cell>87/109</cell></row><row><cell>NRI % (p value)</cell><cell>Ref.</cell><cell>−0.9 (0.64)</cell><cell>−0.2 (0.80)</cell><cell>Ref.</cell><cell>−0.7 (0.53)</cell><cell>2.2 (0.16)</cell></row><row><cell>IDI % (p value)</cell><cell>Ref.</cell><cell>0.06 (0.21)</cell><cell>0.01 (0.32)</cell><cell>Ref.</cell><cell>−0.01 (0.48)</cell><cell>0.06 (0.25)</cell></row><row><cell cols="2">Calibration n obs /n exp (p value)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head></head><label></label><figDesc>In this large population-based cohort study, IFG and HbA 1c -defined prediabetes were not significantly associated with incident CVE after adjustment for conventional cardiovascular risk factors in both women and men. By contrast, strong associations with CVE persisted after adjustment among individuals with manifest diabetes mellitus. Cardiovascular risk prediction by the SCORE variables did not improve by adding FPG or HbA 1c in individuals without diabetes (except for a potential slight improvement in men by HbA 1c ). The ESTHER study was funded by the Baden-Württemberg state Ministry of Science, Research and Arts (Stuttgart, Germany), the Federal Ministry of Education and Research (Berlin, Germany) and the Federal Ministry of Family Affairs, Senior Citizens, Women and Youth (Berlin, Germany). No further specific funding for this analysis of the ESTHER study was obtained.</figDesc><table><row><cell>Funding</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">Diabetologia (2013) 56:92-100</note>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Impact of diabetes on cardiovascular disease risk and allcause mortality in older men: influence of age at onset, diabetes duration, and established and novel risk factors</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">G</forename><surname>Wannamethee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">G</forename><surname>Shaper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">H</forename><surname>Whincup</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Lennon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Sattar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ref., reference References</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="404" to="410" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note>Arch Intern Med</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Markers of dysglycaemia and risk of coronary heart disease in people without diabetes: Reykjavik prospective study and systematic review</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Sarwar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Aspelund</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Eiriksdottir</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS Med</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">e1000278</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Dysglycemia/prediabetes and cardiovascular risk factors</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Hanna-Moussa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Gardner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">R</forename><surname>Kurukulasuriya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Sowers</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev Cardiovasc Med</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="202" to="208" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">The American Diabetes Association, European Association for the Study of Diabetes, International Federation of Clinical Chemistry and Laboratory Medicine, and the International Diabetes Federation</title>
+	</analytic>
+	<monogr>
+		<title level="m">Consensus Committee</title>
+				<imprint>
+			<date type="published" when="2007">2007</date>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="2399" to="2400" />
+		</imprint>
+	</monogr>
+	<note>Consensus statement on the worldwide standardization of the hemoglobin A1C measurement</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Diagnosis and classification of diabetes mellitus</title>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="S64" to="S71" />
+			<date type="published" when="2012">2012</date>
+			<publisher>American Diabetes Association</publisher>
+		</imprint>
+	</monogr>
+	<note>Suppl</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Pre-diabetes and the risk for cardiovascular disease: a systematic review of the evidence</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Ford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Li</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Coll Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="1310" to="1317" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Glycated hemoglobin, diabetes, and cardiovascular risk in nondiabetic adults</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Selvin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">W</forename><surname>Steffes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Zhu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">362</biblScope>
+			<biblScope unit="page" from="800" to="811" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Postchallenge glucose, A1C, and fasting glucose as predictors of type 2 diabetes and cardiovascular disease: a 10-year prospective cohort study</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Cederberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Saukkonen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Laakso</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="2077" to="2083" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Evaluation of the Framingham risk score in the European Prospective Investigation of Cancer-Norfolk cohort: does adding glycated hemoglobin improve the prediction of coronary heart disease events?</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Simmons</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sharp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Boekholdt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">168</biblScope>
+			<biblScope unit="page" from="1209" to="1216" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Hemoglobin A1c testing alone does not sufficiently identify patients with prediabetes</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bersoux</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">B</forename><surname>Cook</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Wu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Clin Pathol</title>
+		<imprint>
+			<biblScope unit="volume">135</biblScope>
+			<biblScope unit="page" from="674" to="677" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">A1C between 5.7 and 6.4% as a marker for identifying pre-diabetes, insulin sensitivity and secretion, and cardiovascular risk factors: the Insulin Resistance Atherosclerosis Study (IRAS)</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lorenzo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">E</forename><surname>Wagenknecht</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Hanley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Rewers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Karter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Haffner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="2104" to="2109" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Prognostic value of haemoglobin A1c and fasting plasma glucose for incident diabetes and implications for screening</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Schöttker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Raum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Rothenbacher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Müller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Brenner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="779" to="787" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Standards of medical care in diabetes-2010</title>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="S11" to="S61" />
+			<date type="published" when="2010">2010</date>
+			<publisher>American Diabetes Association</publisher>
+		</imprint>
+	</monogr>
+	<note>Suppl</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">HbA 1c standardisation: history, science and politics</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">G</forename><surname>John</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mosca</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Weykamp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Goodall</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Biochem Rev</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="163" to="168" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Estimation of ten-year risk of fatal cardiovascular disease in Europe: the SCORE project</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Conroy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Pyorala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Fitzgerald</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur Heart J</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="987" to="1003" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Evaluating the added predictive ability of a new marker: from area under the ROC curve to reclassification and beyond</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Pencina</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D'agostino Rb</forename><surname>Sr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D'agostino Rb</forename><surname>Jr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Vasan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stat Med</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="157" to="172" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Use and misuse of the receiver operating characteristic curve in risk prediction</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">R</forename><surname>Cook</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">115</biblScope>
+			<biblScope unit="page" from="928" to="935" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Methods for evaluating novel biomarkers-a new paradigm</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">R</forename><surname>Cook</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Clin Pract</title>
+		<imprint>
+			<biblScope unit="volume">64</biblScope>
+			<biblScope unit="page" from="1723" to="1727" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Do the Joint British Society (JBS2) guidelines on prevention of cardiovascular disease with respect to plasma glucose improve risk stratification in the general population? Prospective cohort study</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Brunner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Shipley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Marmot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kivimaki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Witte</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabet Med</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="550" to="555" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Diabetes mellitus, fasting blood glucose concentration, and risk of vascular disease: a collaborative meta-analysis of 102 prospective studies</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Sarwar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Gao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Seshasai</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">375</biblScope>
+			<biblScope unit="page" from="2215" to="2222" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main">Epidemiological investigations of the chances of preventing, recognizing early and optimally treating chronic diseases in an elderly population</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Löw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Stegmaier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ziegler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Rothenbacher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Brenner</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+	<note>ESTHER study)</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Dtsch Med Wochenschr</title>
+		<imprint>
+			<biblScope unit="volume">129</biblScope>
+			<biblScope unit="page" from="2643" to="2647" />
+		</imprint>
+	</monogr>
+	<note>article in German</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Changes of cardiovascular risk factors and their implications in subsequent birth cohorts of older adults in Germany: a life course approach</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Raum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Rothenbacher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Löw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Stegmaier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ziegler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Brenner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Cardiovasc Prev Rehabil</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="809" to="814" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">How much does HDL cholesterol add to risk estimation? A report from the SCORE investigators</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>Cooney</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Dudina</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>De Bacquer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Cardiovasc Prev Rehabil</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="304" to="314" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">A cautionary note on the use of the Gronnesby and Borgan goodness-of-fit test for the Cox proportional hazards model</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>May</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Hosmer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lifetime Data Anal</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="283" to="291" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Impact of HbA1c screening criterion on the diagnosis of pre-diabetes among US adults</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Mann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Carson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Shimbo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Fonseca</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Fox</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Muntner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="2190" to="2195" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Are the same clinical risk factors relevant for incident diabetes defined by treatment, fasting plasma glucose, and HbA1c?</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Balkau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Soulimane</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lange</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gautier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tichet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Vol</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="957" to="959" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Myocardial infarction in diabetic and non-diabetic persons with and without prior myocardial infarction: the FINAMI study</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Pajunen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Koukkunen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ketonen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="2519" to="2524" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Sex differences in cardiovascular and total mortality among diabetic and non-diabetic individuals with or without history of myocardial infarction</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Hu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Jousilahti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Qiao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Katoh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tuomilehto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="856" to="861" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Sex differences in risk for coronary heart disease mortality associated with diabetes and established coronary heart disease</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Natarajan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Liao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Cao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Lipsitz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Mcgee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">163</biblScope>
+			<biblScope unit="page" from="1735" to="1740" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Metaanalysis: glycosylated hemoglobin and cardiovascular disease in diabetes mellitus</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Selvin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Marinopoulos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Berkenblit</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">141</biblScope>
+			<biblScope unit="page" from="421" to="431" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Utility of C-reactive protein for cardiovascular risk stratification across three age groups in subjects without existing cardiovascular diseases</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hamer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Chida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Stamatakis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">104</biblScope>
+			<biblScope unit="page" from="538" to="542" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">HbA1c and cardiovascular risk score identify people who may benefit from preventive interventions: a 7 year follow-up of a high-risk screening programme for diabetes in primary care (ADDITION)</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Lauritzen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sandbaek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Skriver</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Borch-Johnson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page" from="1318" to="1326" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">The long-term effect of lifestyle interventions to prevent diabetes in the China Da Qing Diabetes Prevention Study: a 20-year follow-up study</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">371</biblScope>
+			<biblScope unit="page" from="1783" to="1789" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Multiple risk factor interventions for primary prevention of coronary heart disease</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ebrahim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Taylor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ward</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Beswick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Burke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">G</forename><surname>Davey</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/14651858.CD001561.pub3</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Cochrane Database Syst Rev</title>
+		<imprint>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">D001561</biblScope>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

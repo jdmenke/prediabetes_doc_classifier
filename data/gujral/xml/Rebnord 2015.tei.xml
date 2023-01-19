@@ -1,0 +1,1698 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Glycated hemoglobin and long-term prognosis in patients with suspected stable angina pectoris without diabetes mellitus: A prospective cohort study</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2015-02-28">28 February 2015</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Eirik</forename><forename type="middle">Wilberg</forename><surname>Rebnord</surname></persName>
+							<email>eirik.rebnord@gmail.com</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Heart Disease</orgName>
+								<orgName type="institution">Haukeland University Hospital</orgName>
+								<address>
+									<postCode>5021</postCode>
+									<settlement>Bergen</settlement>
+									<country key="NO">Norway</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Clinical Science</orgName>
+								<orgName type="institution">University of Bergen</orgName>
+								<address>
+									<postCode>7804, 5021</postCode>
+									<settlement>Mailbox, Bergen</settlement>
+									<country key="NO">Norway</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Eva</forename><forename type="middle">Ringdal</forename><surname>Pedersen</surname></persName>
+							<email>eva.pedersen@k2.uib.no</email>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Clinical Science</orgName>
+								<orgName type="institution">University of Bergen</orgName>
+								<address>
+									<postCode>7804, 5021</postCode>
+									<settlement>Mailbox, Bergen</settlement>
+									<country key="NO">Norway</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Elin</forename><surname>Strand</surname></persName>
+							<email>elin.strand@k2.uib.no</email>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Clinical Science</orgName>
+								<orgName type="institution">University of Bergen</orgName>
+								<address>
+									<postCode>7804, 5021</postCode>
+									<settlement>Mailbox, Bergen</settlement>
+									<country key="NO">Norway</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Gard</forename><surname>Frodahl</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Tveitevåg</forename><surname>Svingen</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Clinical Science</orgName>
+								<orgName type="institution">University of Bergen</orgName>
+								<address>
+									<postCode>7804, 5021</postCode>
+									<settlement>Mailbox, Bergen</settlement>
+									<country key="NO">Norway</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Klaus</forename><surname>Meyer</surname></persName>
+							<email>klaus.meyer@farm.uib.no</email>
+							<affiliation key="aff2">
+								<orgName type="institution">BEVITAL</orgName>
+								<address>
+									<addrLine>9th Floor, Jonas Lies veg 87</addrLine>
+									<postCode>5021</postCode>
+									<settlement>Laboratoriebygget, Bergen</settlement>
+									<country key="NO">Norway</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Hall</forename><surname>Schartum-Hansen</surname></persName>
+							<email>hall.schartum-hansen@helse-bergen.no</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Heart Disease</orgName>
+								<orgName type="institution">Haukeland University Hospital</orgName>
+								<address>
+									<postCode>5021</postCode>
+									<settlement>Bergen</settlement>
+									<country key="NO">Norway</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Halvorsen</forename><surname>Løland</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Clinical Science</orgName>
+								<orgName type="institution">University of Bergen</orgName>
+								<address>
+									<postCode>7804, 5021</postCode>
+									<settlement>Mailbox, Bergen</settlement>
+									<country key="NO">Norway</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Reinhard</forename><surname>Seifert</surname></persName>
+							<email>reinhard.seifert@helse-bergen.no</email>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Clinical Science</orgName>
+								<orgName type="institution">University of Bergen</orgName>
+								<address>
+									<postCode>7804, 5021</postCode>
+									<settlement>Mailbox, Bergen</settlement>
+									<country key="NO">Norway</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>Per</roleName><forename type="first">Magne</forename><surname>Ueland</surname></persName>
+							<email>per.ueland@ikb.uib.no</email>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Clinical Science</orgName>
+								<orgName type="institution">University of Bergen</orgName>
+								<address>
+									<postCode>7804, 5021</postCode>
+									<settlement>Mailbox, Bergen</settlement>
+									<country key="NO">Norway</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="laboratory">Laboratory of Clinical Biochemistry</orgName>
+								<orgName type="institution">Haukeland University Hospital</orgName>
+								<address>
+									<postCode>5021</postCode>
+									<settlement>Bergen</settlement>
+									<country key="NO">Norway</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Dennis</forename><forename type="middle">W T</forename><surname>Nilsen</surname></persName>
+							<email>dnilsen1@getmail.no</email>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Clinical Science</orgName>
+								<orgName type="institution">University of Bergen</orgName>
+								<address>
+									<postCode>7804, 5021</postCode>
+									<settlement>Mailbox, Bergen</settlement>
+									<country key="NO">Norway</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="department">Division of Cardiology</orgName>
+								<orgName type="institution">Stavanger University Hospital</orgName>
+								<address>
+									<postCode>4011</postCode>
+									<settlement>Stavanger</settlement>
+									<country key="NO">Norway</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jan</forename><forename type="middle">Erik</forename><surname>Nordrehaug</surname></persName>
+							<email>jan.nordrehaug@k2.uib.no</email>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Clinical Science</orgName>
+								<orgName type="institution">University of Bergen</orgName>
+								<address>
+									<postCode>7804, 5021</postCode>
+									<settlement>Mailbox, Bergen</settlement>
+									<country key="NO">Norway</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="department">Division of Cardiology</orgName>
+								<orgName type="institution">Stavanger University Hospital</orgName>
+								<address>
+									<postCode>4011</postCode>
+									<settlement>Stavanger</settlement>
+									<country key="NO">Norway</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Ottar</forename><surname>Nygård</surname></persName>
+							<email>ottar.kjell.nygard@helse-bergen.no</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Heart Disease</orgName>
+								<orgName type="institution">Haukeland University Hospital</orgName>
+								<address>
+									<postCode>5021</postCode>
+									<settlement>Bergen</settlement>
+									<country key="NO">Norway</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Clinical Science</orgName>
+								<orgName type="institution">University of Bergen</orgName>
+								<address>
+									<postCode>7804, 5021</postCode>
+									<settlement>Mailbox, Bergen</settlement>
+									<country key="NO">Norway</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff5">
+								<orgName type="department" key="dep1">K. G. Jebsen Center for Diabetes Research</orgName>
+								<orgName type="department" key="dep2">Department of Clinical Science</orgName>
+								<orgName type="institution">University of Bergen</orgName>
+								<address>
+									<postCode>7804, 5021</postCode>
+									<settlement>Mailbox, Bergen</settlement>
+									<country key="NO">Norway</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff6">
+								<orgName type="department">Department of Heart Disease</orgName>
+								<orgName type="institution">Haukeland University Hospital</orgName>
+								<address>
+									<postCode>5021</postCode>
+									<settlement>Bergen</settlement>
+									<country key="NO">Norway</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Glycated hemoglobin and long-term prognosis in patients with suspected stable angina pectoris without diabetes mellitus: A prospective cohort study</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2015-02-28">28 February 2015</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">BDD13134169D63A658A2ACAD2B40E9FC</idno>
+					<idno type="DOI">10.1016/j.atherosclerosis.2015.02.053</idno>
+					<note type="submission">Received 16 June 2014 Received in revised form 23 January 2015 Accepted 23 February 2015</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.1" ident="GROBID" when="2022-07-19T22:45+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>Hemoglobin A Glycated HbA1c Pre-diabetes Coronary artery disease Myocardial infarction Mortality</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Objective: Associations of glycated hemoglobin A1c (HbA1c) levels to incident coronary and cardiovascular events among non-diabetic patients with coronary artery disease are unclear. We investigated relations of HbA1c to long-term prognosis in such patients. Methods: A prospective cohort of 2519 patients undergoing elective coronary angiography for suspected stable angina pectoris (SAP) was divided into pre-defined categories according to HbA1c (%) levels (&lt;5.0, 5.0e5.6 (reference), 5.7e6.4), and followed for median 4.9 years. The primary end-point was major coronary events (including non-fatal and fatal acute myocardial infarctions, and sudden cardiac death). Secondary end-points were death from cardiovascular disease (CVD) and all-cause mortality. Hazard ratios (HRs) (95% confidence intervals [CIs]) were obtained by Cox regression. Results: Median age at inclusion was 62 years, 73% were males, median HbA1c was 5.6% and random plasma-glucose 5.4 mmol/L. After multivariate adjustment, HbA1c levels within the pre-diabetic range were not associated with risk of major coronary events, HR (95% CI): 1.13 (0.79e1.62); P ¼ 0.49, death from CVD or all-cause mortality HR (95% CI): 0.95 (0.55e1.66) and 1.04 (0.70e1.53), respectively; P ! 0.85. Similarly, there was no significant association between HbA1c values within the lowest category and risk of study outcomes, (P ! 0.18). Conclusion: In non-diabetic patients with suspected SAP, there was no overall association between HbA1c levels and prognosis, questioning an independent role of glycemia in the pathogenesis of atherosclerotic complications in these patients.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Introduction</head><p>Hemoglobin A1c (HbA1c) is a marker of glycemia, reflecting the average plasma glucose concentration over the previous 8e12 weeks <ref type="bibr" target="#b0">[1]</ref>. It has been extensively applied for the monitoring and control of diabetes mellitus and was recently introduced as a diagnostic test defining a pre-diabetic state and overt diabetes, at 5.7% and 6.5%, respectively <ref type="bibr" target="#b0">[1]</ref>.</p><p>The INTERHEART study of multiple ethnicities, showed a strong doseeresponse relationship between HbA1c and risk of acute myocardial infarction (AMI), independent of the presence of selfreported diabetes <ref type="bibr" target="#b1">[2]</ref>. Further, elevated HbA1c levels, even within the pre-diabetic range, have been associated with increased risk of all-cause mortality and cardiovascular disease (CVD) in general populations <ref type="bibr" target="#b2">[3,</ref><ref type="bibr" target="#b3">4]</ref>. However, it is not established whether the associations to macrovascular disease reflect glucose levels per se, or is related to the frequent co-occurrence of pre-diabetes with the metabolic syndrome <ref type="bibr" target="#b4">[5]</ref>. Interestingly, low HbA1c levels have also been associated with increased risk of mortality <ref type="bibr" target="#b3">[4,</ref><ref type="bibr" target="#b5">6]</ref>, although results have been inconsistent <ref type="bibr" target="#b6">[7]</ref> and underlying mechanisms remain unknown.</p><p>The prognostic implications of HbA1c levels in patients without diabetes, but with pre-existent coronary artery disease (CAD) have not been extensively evaluated. Associations of HbA1c to all-cause mortality have been demonstrated in such patients <ref type="bibr" target="#b7">[8]</ref>, but it is not clear whether the unfavorable prognosis is attributable to CVD <ref type="bibr" target="#b8">[9]</ref>.</p><p>We therefore aimed to evaluate the relations of HbA1c levels with risk of major coronary events, CVD mortality and all-cause mortality in a large cohort of patients without diabetes, referred to coronary angiography for suspected stable angina pectoris (SAP).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1.">Study population</head><p>The source population consists of 4164 adults who underwent elective coronary angiography for suspected SAP in either of two Norwegian university hospitals between 2000 and 2004 <ref type="bibr" target="#b9">[10]</ref>. A total of 2573 (61.8%) were originally included in the Western Norway B-Vitamin Intervention Trial (WENBIT; ClinicalTrials.gov Identifier: NCT00354081) <ref type="bibr" target="#b10">[11]</ref>.</p><p>For the present prospective cohort study, 1603 (38.5%) patients with diabetes, defined according to American Diabetes Association criteria <ref type="bibr" target="#b0">[1]</ref>, and 42 (1.0%) patients with missing HbA1c measurements were excluded, leaving 2519 (60.5%) participants eligible for the final analyses.</p><p>The study fulfilled the Declaration of Helsinki and was approved by The Regional Committee for Medical and Health Research Ethics (approval number 2010/1880) and The Norwegian Data Protection Authority. All participants provided written informed consents.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.">Baseline data</head><p>Information on medical history, cardiovascular risk factors and current medication were provided through a self-administered questionnaire completed by each patient, as previously reported <ref type="bibr" target="#b10">[11]</ref>. Trained study personnel validated completed questionnaires against medical records. Fasting referred to not having ingested any food or beverage 6 h prior to blood sampling. Left ventricular ejection fraction, angiographic extent of CAD and smoking status was assessed as previously described <ref type="bibr" target="#b9">[10]</ref>. Body mass index (BMI) was calculated by dividing weight by height squared (kg/m 2 ).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.3.">Biochemical analyses</head><p>Standard blood laboratory parameters were analyzed in fresh samples according to routine protocols at the referring hospitals. Study specific samples were collected together with routine blood samples before coronary angiography, and stored at À80 C until analysis. Reagent kits of type Tina-quant ® were used for measurement of apolipoprotein A-I and apolipoprotein B. C-reactive protein (CRP) (latex, high sensitive assay) were obtained from Roche Diagnostics (GmbH, Mannheim, Germany) and serum measurements on these parameters were done on the Hitachi 917 system (Roche Diagnostics). HbA1c was determined by matrix-assisted laser desorption/ionization time-of-flight mass spectrometry <ref type="bibr" target="#b11">[12]</ref> and plasma cotinine by liquid chromatography/tandem mass spectrometry at BEVITAL AS, Bergen, Norway <ref type="bibr" target="#b12">[13]</ref>. We measured serum cardiac troponin T using a high sensitive cardiac troponin T assay on Modular E170 (Roche Diagnostics), with 3 ng/L as the lower detection limit. Cobalamin was measured using a microbiological assay <ref type="bibr" target="#b13">[14]</ref>. Estimated glomerular filtration rate (eGFR) was calculated using the Chronic Kidney Disease Epidemiology Collaboration equation <ref type="bibr" target="#b14">[15]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.4.">Follow-up and clinical end-points</head><p>Information on study end-points was collected as described previously <ref type="bibr" target="#b15">[16]</ref>. The primary end-point was major coronary events, which included non-fatal and fatal AMIs, and sudden cardiac death (diagnoses coded I21, I46 and R96 according to the International Statistical Classification of Diseases, 10th version [ICD-10]). Secondary end-points were CVD mortality (causes of death coded I00eI99 according to the ICD-10 system), and all-cause mortality.</p><p>Patients were followed up until they experienced an event, or throughout December 31, 2006.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.5.">Statistical analyses</head><p>The total cohort was divided into pre-defined categories according to HbA1c levels (%): &lt;5.0, 5.0e5.6 and 5.7e6.4 <ref type="bibr" target="#b16">[17]</ref>. Baseline continuous and categorical variables are listed as median (25th, 75th percentile) and counts (%), respectively. The linear trends across HbA1c categories were tested by median quantile regression models <ref type="bibr" target="#b17">[18]</ref> for continuous variables and logistic regression for categorical variables.</p><p>The associations between HbA1c and risk of study outcomes were explored by Cox proportional hazard regression with the HbA1c range 5.0e5.6% as the reference category. In addition, generalized additive modeling was performed to assess potential risk associations on a continuous scale. The simple model included age and sex as independent variables. Additional covariates for the multivariate model were selected on the basis of clinical relevance and included: current smoking (dichotomous), hypertension (dichotomous), number of significantly stenosed coronary arteries (0e3), left ventricular ejection fraction (continuous), revascularization following angiography (none, percutaneous coronary intervention or coronary artery bypass graft surgery: 0e1), previous AMI (dichotomous), eGFR (continuous), CRP (continuous), BMI (continuous), apolipoprotein A-I (continuous), apolipoprotein B (continuous), and treatment with statins or aspirin (both dichotomous). Additional adjustments for circulating levels of hemoglobin, cobalamin, alanine aminotransferase and aspartate aminotransferase, self-reported weekly alcohol consumption and use of beta-blockers, angiotensin-converting enzyme inhibitors or angiotensin receptor-blockers did not appreciably alter the results and were not included in the final model. We performed logelog plots and plotted Schoenfeld residuals <ref type="bibr" target="#b18">[19]</ref> to ensure that the assumption of proportional hazards was not violated.</p><p>Statistical power was assessed on the basis of a two-tailed c 2 test comparing an HbA1c of !5.7% versus &lt;5.7% (SamplePower 2.0, SPSS Inc., Chicago, IL). At a ¼ 0.05, a power of 97% was obtained for an increase in event rate from 10% to 15% (relative risk 1.5) for the primary end-point major coronary events.</p><p>All probability values are two-tailed, with a 5% significance level. Statistical analyses were performed with R 3.0.2 (The R-Foundation for Statistical Computing, Vienna, Austria) <ref type="bibr" target="#b19">[20]</ref>, the R-packages 'survival' <ref type="bibr" target="#b20">[21]</ref> and 'quantreg' <ref type="bibr" target="#b21">[22]</ref>, and IBM SPSS Statistics 21 (SPSS IBM, NY, USA).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1.">Patient characteristics at baseline</head><p>For the total cohort, median (25th, 75th percentile) age was 62 (53, 67) years, 1841 (73%) were men, 809 (32%) were current smokers and 750 (30%) had previously undergone a coronary artery revascularization procedure. Median (25th, 75th percentile) random plasma-glucose was 5.4 (5.0, 6.1) mmol/L, HbA1c 5.6 (5.0, 6.0) % and BMI 26.0 (23.9, 28.4) kg/m 2 . Baseline characteristics according to the pre-defined HbA1c categories are shown in Table <ref type="table" target="#tab_0">1</ref>.</p><p>As compared to the reference category, the proportion of women was higher among those having HbA1c levels within 5.7e6.4%, and the frequency of significant CAD and triple-vessel disease was lower. Correspondingly, a smaller proportion received revascularization therapy following baseline coronary angiography. Furthermore, trends were observed for lower left ventricular ejection fraction and less frequent use of aspirin and statins in the pre-diabetic category.</p><p>A total of 295 (11.7%) and 33 (1.3%) patients reported to have chronic pulmonary disease and cancer, respectively, at baseline, with no differences in prevalences according to HbA1c levels. Similarly, median values of BMI, serum triglycerides, cardiac troponin T, hemoglobin, and aminotransferases showed no substantial variation across categories of HbA1c (Table <ref type="table" target="#tab_0">1</ref>). Neither were there any differences in self-reported weekly alcohol consumption (data not shown), although information on the latter parameter was only available for 2011 (80%) of the participants.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2.">Clinical outcomes according to HbA1c levels</head><p>During a median (25th, 75th percentile) follow-up of 4.8 (3.7, 5.8) years, 178 (7.1%) patients experienced a major coronary event. CVD accounted for 75 (3.0%) deaths and 155 (6.2%) participants died from any cause. The age and gender adjusted relationships between the pre-defined HbA1c categories and end-points are shown in Table <ref type="table" target="#tab_1">2</ref>. Compared to the reference category (HbA1c 5.0e5.6%), multivariate hazard ratios (HRs) and 95% confidence intervals (CIs) for the HbA1c range 5.7e6.4% were 1.13 (0.79e1.62) for major coronary events, 0.95 (0.55e1.66) for CVD mortality, and 1.04 (0.70e1.53) for all-cause mortality (all P ! 0.49). Similarly, there were no significant increases in risk of clinical outcomes associated with the lowest HbA1c category (P ! 0.18; Table <ref type="table" target="#tab_1">2</ref>). Further, multivariate generalized additive regression, with HbA1c as a continuous parameter, did not reveal significant risk associations to the primary end-point, major coronary events (P ! 0.16; Fig. <ref type="figure">1</ref>), or the secondary end-points (P ! 0.20).</p><p>In a supplementary analysis, we included the subjects classified with diabetes mellitus (n ¼ 1603) at baseline <ref type="bibr" target="#b0">[1]</ref> to the study population. Notably, these patients were at significantly increased risk of major coronary events, as well as CVD e and all-cause mortality, with similar HRs in age and gender adjusted as in multivariate analyses (Supplemental Table <ref type="table" target="#tab_0">1</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Discussion</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.1.">Principal findings</head><p>In this large cohort of suspected SAP patients without diabetes, we observed no overall association between HbA1c levels and risk of incident coronary events or mortality during nearly 5 years of follow-up.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.2.">HbA1c levels and disease risk in previous studies</head><p>HbA1c correlates with micro-and macrovascular complications in patients with diabetes <ref type="bibr" target="#b0">[1]</ref>. HbA1c &gt;8.0% as compared to &lt;7.0% have been reported to increase the long-term risk of all-cause mortality in such patients <ref type="bibr" target="#b22">[23]</ref>. On the other hand, intensive glucose-lowering treatment (target HbA1c &lt;6.0%) has also been associated with all-cause mortality <ref type="bibr" target="#b23">[24]</ref>.</p><p>In initially healthy populations, elevated HbA1c was associated with increased risk of all-cause mortality, new onset diabetes and CVD <ref type="bibr" target="#b2">[3,</ref><ref type="bibr" target="#b3">4,</ref><ref type="bibr" target="#b6">7,</ref><ref type="bibr" target="#b24">25]</ref>, but added little value to CVD risk prediction models containing traditional risk factors <ref type="bibr" target="#b24">[25]</ref>. Regarding the lower end of the HbA1c distribution both J-shaped <ref type="bibr" target="#b3">[4,</ref><ref type="bibr" target="#b5">6,</ref><ref type="bibr" target="#b24">25]</ref> and no relations <ref type="bibr" target="#b25">[26]</ref> to all-cause mortality have been found. The studies are not easily comparable, however, as a variety of cut-off levels were applied.</p><p>The prognostic value of HbA1c in CAD patients without diabetes has not been extensively evaluated. Prior studies, including patients with acute coronary syndrome <ref type="bibr" target="#b7">[8,</ref><ref type="bibr" target="#b8">9,</ref><ref type="bibr" target="#b26">27]</ref>, showed that elevated levels predicted increased risk of all-cause mortality. One of these cohorts also demonstrated associations of elevated HbA1c levels to CVDe and cancer mortality. However, patients with newly diagnosed type 2 diabetes were not excluded from the study population <ref type="bibr" target="#b26">[27]</ref>, which may explain the discordance from our results.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.3.">Interpretation of findings</head><p>HbA1c has low intra-, but high inter-individual variability and a number of non-glycemic determinants <ref type="bibr" target="#b27">[28,</ref><ref type="bibr" target="#b28">29]</ref>. Heritability of HbA1c levels may be in the range of 40e60% <ref type="bibr" target="#b28">[29]</ref>, but genetic variants associated with HbA1c levels among patients without diabetes, have not been found to influence mortality <ref type="bibr" target="#b29">[30]</ref>. In addition to glucose concentrations, HbA1c levels can be affected by conditions associated with changes in erythrocyte life span, like hemoglobinopathies, vitamin B12 or iron deficiencies, liver or kidney disease <ref type="bibr" target="#b30">[31,</ref><ref type="bibr" target="#b31">32]</ref>. In addition, HbA1c values may be reduced as a consequence of heavy alcohol consumption <ref type="bibr" target="#b32">[33]</ref>. Fig. <ref type="figure">1</ref>. Plasma HbA1c levels and risk of major coronary events in 2519 non-diabetic patients with suspected coronary artery disease. The association between glycated hemoglobin (HbA1c) levels (%) and risk of major coronary events obtained by generalized additive regression. The simple model (left panel) is adjusted for age and gender. The multivariate model (right panel) is additionally adjusted for current smoking, hypertension, number of significantly stenosed coronary arteries (0e3), left ventricular ejection fraction, revascularization following angiography (none, percutaneous coronary intervention or coronary artery bypass graft surgery), previous acute myocardial infarction, estimated glomerular filtration rate, C-reactive protein, body mass index, apolipoprotein A-I, apolipoprotein B, and treatment with statins and aspirin. The solid lines denote hazard ratios and the shaded areas the 95% confidence interval. Density plots show the distribution of HbA1c, and vertical lines denote values of 5.0% and 5.7%.</p><p>In the present cohort, levels of hemoglobin, cobalamin, liver enzymes and eGFR were basically equally distributed across categories of HbA1c, and adjustment for these variables had only minor effects on the risk estimates. In addition, we found no association between self-reported alcohol consumption and HbA1c. Hence, in our cohort of clinically stable CAD patients, with a low frequency of other co-morbidities, glycemia is probably the main determinant of HbA1c levels.</p><p>According to the most recent diagnostic guidelines, an HbA1c cut-off at 5.7% defines a pre-diabetic state <ref type="bibr" target="#b0">[1]</ref>. Individuals with prediabetes were found to have increased intima media thickness of the carotids, an early marker of atherosclerosis <ref type="bibr" target="#b33">[34]</ref>. Pre-diabetes has also been associated with risk of diabetes development as well as future microvascular, and macrovascular complications <ref type="bibr" target="#b4">[5]</ref>. However, a substantial proportion of subjects classified with prediabetes will regress to normo-glycemia <ref type="bibr" target="#b34">[35]</ref>. It is currently not established whether the increased CVD risk is confined to the subset that eventually develops overt diabetes mellitus <ref type="bibr" target="#b35">[36]</ref>.</p><p>Insulin resistance is a key pathophysiologic feature of prediabetes <ref type="bibr" target="#b36">[37]</ref>, which is characterized by reduced insulin sensitivity in hepatocytes and muscle cells, accompanied by increased insulin secretion from the pancreas. According to prevailing theories, insulin resistance and the compensatory hyperinsulinemia promote hypertension and dyslipidemia, as well as a prothrombotic and pro-inflammatory state <ref type="bibr" target="#b37">[38]</ref>. Correspondingly, the prevalence of pre-diabetes overlaps substantially with the metabolic syndrome <ref type="bibr" target="#b38">[39]</ref>. The frequent co-occurrence with other CVD risk factors complicates the isolation of vascular effects from intermediate hyperglycemia in epidemiological studies <ref type="bibr" target="#b4">[5]</ref>. Hence, whether pre-diabetes per se is causally related to atherosclerosis and its complications is still uncertain <ref type="bibr" target="#b4">[5]</ref>. Interestingly, insulin resistance may also be present in normo-glycemic patients <ref type="bibr" target="#b35">[36]</ref>, and is shown to be particularly prevalent in individuals at high CVD risk <ref type="bibr" target="#b35">[36]</ref> and in patients with established CAD <ref type="bibr" target="#b37">[38]</ref>.</p><p>In the present cohort, we found no differences in BMI or levels of lipoproteins and CRP across categories of HbA1c. There was only a weak tendency towards a higher prevalence of hypertension in patients with pre-diabetes, and elevated HbA1c levels were actually associated with less extensive CAD at coronary angiography. Notably, however, risk estimates were similar in age and gender adjusted as in multivariate analyses, suggesting that confounding factors are unlikely to explain the lack of associations between HbA1c levels and clinical outcomes.</p><p>A community based prospective study, showed an adverse prognostic effect from the diagnosis of pre-diabetes, which was related to subclinical myocardial damage, evaluated by cardiac troponin T levels <ref type="bibr" target="#b39">[40]</ref>. In the present cohort, however, baseline troponin T values were similar across HbA1c categories in the nondiabetic range. Notably, these results are in accordance with prior cross-sectional findings <ref type="bibr" target="#b40">[41]</ref>.</p><p>The fact that HbA1c showed no relation to CVD prognosis in a patient population without diabetes, but with a high burden of other risk factors, adds to the evidence that moderate hyperglycemia is not an independent mediator of atherosclerotic complications <ref type="bibr" target="#b4">[5]</ref>. However, randomized clinical trials are needed to provide definite answers to this question. Prior studies have indicated that hypoglycemic agents can delay the conversion of pre-diabetes to diabetes <ref type="bibr" target="#b41">[42]</ref>, but showed no effects on surrogate markers of atherosclerosis <ref type="bibr" target="#b42">[43]</ref>. However, earlier trials have not been sufficiently powered to determine any effect on long-term risk of clinical CVD events <ref type="bibr" target="#b41">[42]</ref>.</p><p>Studies from the general population <ref type="bibr" target="#b3">[4,</ref><ref type="bibr" target="#b5">6]</ref>, as well among patients with diabetes <ref type="bibr" target="#b43">[44]</ref> have demonstrated increased risk of mortality among subjects with low HbA1c values, although it remains unclear whether these associations partly reflected residual confounding <ref type="bibr" target="#b44">[45]</ref>. Similar findings were not apparent in the present cohort. However, our study was not designed to detect potential adverse prognostic implications from HbA1c levels in the overt hypoglycemic range.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.4.">Strengths and limitations</head><p>The strengths of our work include its prospective design, the large sample size and detailed description of patient characteristics at baseline, as well as the thorough evaluation of clinical outcomes. As in any observational study, we cannot exclude the possibility of unmeasured confounders. Neither can we rule out that some under-reporting of clinical outcomes may have occurred, since the collection of end-points was based on registry data. However, we do not suspect that any misclassification differed according to HbA1c levels.</p><p>Blood samples were stored at À80 C, and HbA1c concentrations were analyzed in samples that had been thawed twice. Notably, however, HbA1c measurements were shown to be highly reliable for up to 18 years of storage at À70 C <ref type="bibr" target="#b45">[46]</ref>, and levels were stable even after several thawingefreezing cycles <ref type="bibr" target="#b46">[47]</ref>. In the present study, HbA1c values were only determined at baseline, but repeated analyses of HbA1c does not seem to improve CVD prediction beyond a single measurement for individuals without diabetes <ref type="bibr" target="#b47">[48]</ref>.</p><p>In addition to being classified based on HbA1c levels, prediabetes can be diagnosed from fasting glucose concentrations or oral glucose tolerance tests <ref type="bibr" target="#b0">[1]</ref>. Unfortunately, these measures were not available for our study population. Hence, we were not able to compare the prognostic implications from different definitions of pre-diabetes <ref type="bibr" target="#b48">[49]</ref>.</p><p>All the included patients underwent elective coronary angiography for suspected stable CAD, and the majority received medications for CVD risk reduction, including aspirin and statins. Consequently, our findings may not necessarily be generalizable to other patient groups or to healthy individuals. Racial disparities regarding HbA1c values have been reported <ref type="bibr" target="#b49">[50]</ref>. As our cohort consists almost exclusively of Caucasians, our results are unlikely to be confounded by ethnicity, but may not necessarily apply to non-Caucasian populations.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.">Conclusion</head><p>In a large cohort of suspected SAP patients without diabetes, there were no overall associations between HbA1c and long-term risk of coronary events or mortality. Thus, HbA1c measurements appear to have a limited value for clinical risk evaluation of such patients. Moreover, our data add to prior works questioning an independent role of intermediate hyperglycemia in mediating acute atherosclerotic complications.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Baseline characteristics of the study population (n ¼ 2519) according to HbA1c categories.</figDesc><table><row><cell></cell><cell>HbA1c (%)</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>&lt;5.0%</cell><cell>5.0e5.6%</cell><cell>5.7e6.4%</cell><cell>P for trend</cell></row><row><cell></cell><cell>n ¼ 637</cell><cell>n ¼ 771</cell><cell>n ¼ 1111</cell><cell></cell></row><row><cell>HbA1c (%)</cell><cell>4.6 (4.2, 4.8)</cell><cell>5.4 (5.2, 5.6)</cell><cell>6.1 (5.9, 6.3)</cell><cell>e</cell></row><row><cell>Age (years)</cell><cell>61 (54, 68)</cell><cell>62 (55, 69)</cell><cell>62 (55, 70)</cell><cell>0.20</cell></row><row><cell>Males [N (%)]</cell><cell>498 (78.2)</cell><cell>556 (72.1)</cell><cell>787 (70.8)</cell><cell>0.002</cell></row><row><cell>BMI (kg/m 2 )</cell><cell>26.0 (24.1, 28.1)</cell><cell>25.9 (23.7, 28.4)</cell><cell>26.2 (24.0, 28.6)</cell><cell>0.23</cell></row><row><cell>Left ventricular ejection fraction (%)</cell><cell>67 (60, 70)</cell><cell>65 (60, 70)</cell><cell>66 (60, 70)</cell><cell>0.02</cell></row><row><cell>Fasting [N (%)]</cell><cell>141 (22.1)</cell><cell>199 (25.8)</cell><cell>303 (27.3)</cell><cell>0.07</cell></row><row><cell>Random glucose (mmol/L)</cell><cell>5.4 (4.9, 6.0)</cell><cell>5.5 (5.0, 6.1)</cell><cell>5.5 (5.0, 6.1)</cell><cell>0.02</cell></row><row><cell>Triglycerides (mmol/L)</cell><cell>1.40 (1.09, 2.00)</cell><cell>1.46 (1.04, 2.07)</cell><cell>1.46 (1.07, 2.00)</cell><cell>0.27</cell></row><row><cell>Apolipoprotein A-I (g/L)</cell><cell>1.32 (1.14, 1.47)</cell><cell>1.30 (1.15, 1.49)</cell><cell>1.30 (1.14, 1.48)</cell><cell>0.36</cell></row><row><cell>Apolipoprotein B (g/L)</cell><cell>0.89 (0.75, 1.05)</cell><cell>0.87 (0.72, 1.06)</cell><cell>0.87 (0.72, 1.04)</cell><cell>0.04</cell></row><row><cell>Serum CRP (mg/L)</cell><cell>1.63 (0.79, 3.06)</cell><cell>1.65 (0.83, 3.33)</cell><cell>1.71 (0.86, 3.69)</cell><cell>0.39</cell></row><row><cell>eGFR (mL/min)</cell><cell>91 (79, 100)</cell><cell>91 (80, 100)</cell><cell>91 (79, 99)</cell><cell>1.00</cell></row><row><cell>Hgb (g/dL)</cell><cell>14.4 (13.6, 15.2)</cell><cell>14.4 (13.5, 15.1)</cell><cell>14.3 (13.4, 15.0)</cell><cell>0.25</cell></row><row><cell>ALT (IU/L)</cell><cell>28 (21, 39)</cell><cell>28 (21, 38)</cell><cell>27 (19, 37)</cell><cell>0.26</cell></row><row><cell>AST (IU/L)</cell><cell>25 (21, 31)</cell><cell>25 (21, 30)</cell><cell>25 (21, 30)</cell><cell>1.00</cell></row><row><cell>Cobalamin (pmol/L)</cell><cell>352 (273, 444)</cell><cell>358 (269, 445)</cell><cell>363 (274, 468)</cell><cell>0.18</cell></row><row><cell>Cardiac troponin T</cell><cell>4 (3, 9)</cell><cell>4 (3, 9)</cell><cell>4 (3, 9)</cell><cell>1.00</cell></row><row><cell>Cardiovascular history and risk factors [N (%)]</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Current smoking</cell><cell>212 (33.3)</cell><cell>250 (32.4)</cell><cell>347 (31.2)</cell><cell>0.36</cell></row><row><cell>Previous AMI</cell><cell>260 (40.8)</cell><cell>312 (40.5)</cell><cell>420 (37.8)</cell><cell>0.18</cell></row><row><cell>Previous PCI</cell><cell>138 (21.7)</cell><cell>137 (17.8)</cell><cell>188 (16.9)</cell><cell>0.02</cell></row><row><cell>Previous CABG</cell><cell>75 (11.8)</cell><cell>96 (12.5)</cell><cell>116 (10.4)</cell><cell>0.32</cell></row><row><cell>Hypertension</cell><cell>266 (41.8)</cell><cell>334 (43.3)</cell><cell>513 (46.2)</cell><cell>0.06</cell></row><row><cell>Cancer</cell><cell>5 (0.8)</cell><cell>10 (1.3)</cell><cell>18 (1.6)</cell><cell>0.15</cell></row><row><cell>Chronic pulmonary disease</cell><cell>61 (9.6)</cell><cell>97 (12.6)</cell><cell>137 (12.3)</cell><cell>0.12</cell></row><row><cell>Baseline coronary angiography [N (%)]</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>No significant stenosis</cell><cell>120 (18.8)</cell><cell>196 (25.4)</cell><cell>316 (28.4)</cell><cell>&lt;0.001</cell></row><row><cell>One-vessel disease</cell><cell>170 (26.7)</cell><cell>189 (24.5)</cell><cell>238 (21.4)</cell><cell>0.01</cell></row><row><cell>Two-vessel disease</cell><cell>141 (22.1)</cell><cell>170 (22.0)</cell><cell>265 (23.9)</cell><cell>0.36</cell></row><row><cell>Three-vessel disease</cell><cell>206 (32.3)</cell><cell>216 (28.0)</cell><cell>292 (26.3)</cell><cell>0.009</cell></row><row><cell>Baseline coronary intervention [N (%)]</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>None or medication only</cell><cell>264 (41.4)</cell><cell>355 (46.0)</cell><cell>520 (46.8)</cell><cell>0.04</cell></row><row><cell>PCI</cell><cell>210 (33.0)</cell><cell>261 (33.9)</cell><cell>361 (32.5)</cell><cell>0.77</cell></row><row><cell>CABG</cell><cell>152 (23.9)</cell><cell>141 (18.3)</cell><cell>209 (18.8)</cell><cell>0.02</cell></row><row><cell>Medications at discharge [N (%)]</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Statins</cell><cell>530 (83.2)</cell><cell>620 (80.4)</cell><cell>869 (78.2)</cell><cell>0.01</cell></row><row><cell>Aspirin</cell><cell>547 (85.9)</cell><cell>652 (84.6)</cell><cell>884 (79.6)</cell><cell>&lt;0.001</cell></row><row><cell>Dual anti-platelet therapy a</cell><cell>103 (16.2)</cell><cell>133 (17.3)</cell><cell>151 (13.6)</cell><cell>0.09</cell></row><row><cell>b-blocker</cell><cell>472 (74.1)</cell><cell>577 (74.8)</cell><cell>780 (70.2)</cell><cell>0.05</cell></row><row><cell>ACE inhibitor and/or ARB</cell><cell>161 (25.3)</cell><cell>208 (27.0)</cell><cell>354 (31.9)</cell><cell>0.002</cell></row></table><note>Abbreviations: HbA1c, glycated hemoglobin A1c; BMI, body mass index; CRP, C-reactive protein; eGFR, estimated glomerular filtration rate; Hgb, hemoglobin; ALT, alanine aminotransferase; AST, aspartate aminotransferase; AMI, acute myocardial infarction; PCI, percutaneous coronary intervention; CABG, coronary artery bypass graft surgery; ACE, angiotensin converting enzyme; ARB, angiotensin receptor blocker.a Dual anti-platelet therapy, any two anti-platelet agents.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2</head><label>2</label><figDesc>Risk associations between HbA1c categories and clinical outcomes in the study population (n ¼ 2519). Adjusted for age, gender, current smoking, hypertension, number of significantly stenosed coronary arteries (0e3), left ventricular ejection fraction, revascularization following angiography (none, percutaneous coronary intervention or coronary artery bypass graft surgery), previous acute myocardial infarction, estimated glomerular filtration rate, C-reactive protein, body mass index, apolipoprotein A-I, apolipoprotein B, and treatment with statins and aspirin.</figDesc><table><row><cell>End-point</cell><cell>HbA1c</cell><cell cols="2">Events Simple</cell><cell>P</cell><cell>Multivariate</cell><cell>P</cell></row><row><cell></cell><cell>category</cell><cell></cell><cell>model a</cell><cell></cell><cell>model b</cell></row><row><cell></cell><cell></cell><cell></cell><cell>HR (95% CI)</cell><cell></cell><cell>HR (95% CI)</cell></row><row><cell>Major</cell><cell cols="2">5.7e6.4% 79</cell><cell cols="4">1.13 (0.79e1.61) 0.50 1.13 (0.79e1.62) 0.49</cell></row><row><cell>coronary</cell><cell cols="2">5.0e5.6% 50</cell><cell>Ref.</cell><cell></cell><cell>Ref.</cell></row><row><cell>event</cell><cell>&lt;5.0%</cell><cell>49</cell><cell cols="4">1.19 (0.80e1.76) 0.39 1.16 (0.78e1.73) 0.46</cell></row><row><cell>CVD</cell><cell cols="2">5.7e6.4% 33</cell><cell cols="4">1.09 (0.63e1.88) 0.77 0.95 (0.55e1.66) 0.86</cell></row><row><cell>mortality</cell><cell cols="2">5.0e5.6% 21</cell><cell>Ref.</cell><cell></cell><cell>Ref.</cell></row><row><cell></cell><cell>&lt;5.0%</cell><cell>21</cell><cell cols="4">1.22 (0.67e2.24) 0.51 1.23 (0.66e2.26) 0.52</cell></row><row><cell>All-cause</cell><cell cols="2">5.7e6.4% 67</cell><cell cols="4">1.11 (0.76e1.64) 0.59 1.04 (0.70e1.53) 0.85</cell></row><row><cell>mortality</cell><cell cols="2">5.0e5.6% 42</cell><cell>Ref.</cell><cell></cell><cell>Ref.</cell></row><row><cell></cell><cell>&lt;5.0%</cell><cell>46</cell><cell cols="4">1.33 (0.88e2.03) 0.18 1.33 (0.87e2.04) 0.18</cell></row><row><cell cols="7">Abbreviations: HbA1c, glycated hemoglobin A1c; HR, hazard ratio; CI, confidence</cell></row><row><cell cols="4">interval; CVD, cardiovascular disease.</cell><cell></cell><cell></cell></row></table><note>a Adjusted for age and gender. b</note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">E.W. Rebnord et al. / Atherosclerosis 240 (2015) 115e120</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgments</head><p>We thank all WENBIT coworkers and participants.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosure statement</head><p>The authors declare that there is no conflict of interest.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Role of the funding sources</head><p>The study was funded by the Norwegian Health Association and the Norwegian Extra Foundation for Health and Rehabilitation through EXTRA funds (grant number: 2014/FOM5642), the Norwegian Heart and Lung Patient Organization, the Norwegian Ministry of Health and Care Services, the Western Norway Regional Health Authority and the Department of Heart Disease, Haukeland University Hospital, Bergen, Norway. None of the study sponsors were involved in study design, data collection, analysis and interpretation of data, writing, or in the decision to submit the paper.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Appendix A. Supplementary data</head><p>Supplementary data related to this article can be found at http:// dx.doi.org/10.1016/j.atherosclerosis.2015.02.053.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Diagnosis and classification of diabetes mellitus</title>
+	</analytic>
+	<monogr>
+		<title level="j">Diabet. Care</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="S67" to="S74" />
+			<date type="published" when="2013">2013</date>
+			<publisher>American Diabetes Association</publisher>
+		</imprint>
+	</monogr>
+	<note>Suppl. 1</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Dysglycaemia and the risk of acute myocardial infarction in multiple ethnic groups: an analysis of 15,780 patients from the INTERHEART study</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Gerstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Islam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Anand</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Almahmeed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Damasceno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Dans</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="2509" to="e2517" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Glycated haemoglobin and the risk of cardiovascular disease, diabetes and all-cause mortality in the Copenhagen City Heart Study</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Eskesen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>Jensen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Galatius</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Vestergaard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Hildebrandt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Marott</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Intern. Med</title>
+		<imprint>
+			<biblScope unit="volume">273</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="94" to="e101" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Glycated hemoglobin, diabetes, and cardiovascular risk in nondiabetic adults</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Selvin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">W</forename><surname>Steffes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Zhu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Matsushita</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Wagenknecht</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Pankow</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N. Engl. J. Med</title>
+		<imprint>
+			<biblScope unit="volume">362</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="800" to="e811" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Pre-diabetes, metabolic syndrome, and cardiovascular risk</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Grundy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Coll. Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">59</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="635" to="e643" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Low hemoglobin A1c and risk of all-cause mortality among US adults without diabetes</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Carson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Fox</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">K</forename><surname>Mcguire</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">B</forename><surname>Levitan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Laclaustra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Mann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circ. Cardiovasc. Qual. Outcomes</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="661" to="e667" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Association of hemoglobin A1c with cardiovascular disease and mortality in adults: the European prospective investigation into cancer in norfolk</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">T</forename><surname>Khaw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Wareham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bingham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Luben</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Welch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Day</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann. Intern. Med</title>
+		<imprint>
+			<biblScope unit="volume">141</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="413" to="e420" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Prognostic significance of hemoglobin A1c level in patients hospitalized with coronary artery disease. A systematic review and meta-analysis</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">M</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Zhu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">Q</forename><surname>Tan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Liang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Li</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cardiovasc. Diabetol</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">98</biblScope>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Impact of admission glycemia and glycosylated hemoglobin A1c on long-term clinical outcomes of non-diabetic patients with acute coronary syndrome</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Naito</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Miyauchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ogita</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Kasai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Kawaguchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Tsuboi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">63</biblScope>
+			<biblScope unit="page" from="106" to="e111" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Plasma dimethylglycine and risk of incident acute myocardial infarction in patients with stable angina pectoris</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">F</forename><surname>Svingen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Ueland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">K</forename><surname>Pedersen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Schartum-Hansen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Seifert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ebbing</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arterioscler. Thromb. Vasc. Biol</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="2041" to="e2048" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Mortality and cardiovascular events in patients treated with homocysteine-lowering B vitamins after coronary angiography: a randomized controlled trial</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ebbing</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Bleie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Ueland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Nordrehaug</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Nilsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Vollset</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Med. Assoc</title>
+		<imprint>
+			<biblScope unit="volume">300</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="795" to="e804" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">A quantitative method for the analysis of glycated and glutathionylated hemoglobin by matrix-assisted laser desorption ionization-time of flight mass spectrometry</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Biroccio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Urbani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Massoud</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Di Ilio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Sacchetta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bernardini</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anal. Biochem</title>
+		<imprint>
+			<biblScope unit="volume">336</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="279" to="e288" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Bevital As</surname></persName>
+		</author>
+		<idno>22.01.15</idno>
+		<ptr target="http://www.bevital.no/" />
+		<imprint>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Microbiological assay for vitamin B12 performed in 96-well microtitre plates</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">P</forename><surname>Kelleher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Broin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Clin. Pathol</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="592" to="e595" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">A new equation to estimate glomerular filtration rate</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Levey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Stevens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">H</forename><surname>Schmid</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">L</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">F</forename><surname>Castro 3rd</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">I</forename><surname>Feldman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann. Intern. Med</title>
+		<imprint>
+			<biblScope unit="volume">150</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="604" to="e612" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Serum osteoprotegerin levels and long-term prognosis in patients with stable angina pectoris</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">R</forename><surname>Pedersen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Ueland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Seifert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Aukrust</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Schartum-Hansen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ebbing</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Atherosclerosis</title>
+		<imprint>
+			<biblScope unit="volume">212</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="644" to="e649" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Low hemoglobin A(1c) in nondiabetic adults: an elevated risk state?</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Aggarwal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Schneider</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Selvin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabet. Care</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="2055" to="e2060" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<author>
+			<persName><forename type="first">R</forename><surname>Koenker</surname></persName>
+		</author>
+		<title level="m">Quantile Regression</title>
+				<meeting><address><addrLine>New York, USA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2011">2011</date>
+			<biblScope unit="page">366</biblScope>
+		</imprint>
+	</monogr>
+	<note>first ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Graphical methods for assessing violations of the proportional hazards assumption in cox regression</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">R</forename><surname>Hess</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stat. Med</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">15</biblScope>
+			<biblScope unit="page" from="1707" to="e1723" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">R: A Language and Environment for Statistical Computing (Version 3.0.2), R Foundation for Statistical Computing</title>
+		<author>
+			<persName><surname>R Core Team</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<pubPlace>Vienna, Austria</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main">A Package for Survival Analysis in S. R Package &apos;survival&apos; Version 2.36-14</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Therneau</surname></persName>
+		</author>
+		<ptr target="http://CRAN.R-project.org/package¼survival" />
+		<imprint>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title level="m" type="main">Quantile Regression. R Package &apos;quantreg&apos; Version 4.91</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Koenker</surname></persName>
+		</author>
+		<ptr target="http://CRAN.R-project.org/package¼quantreg" />
+		<imprint>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">10-year followup of intensive glucose control in type 2 diabetes</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Holman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Paul</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Bethel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Matthews</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">A</forename><surname>Neil</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N. Engl. J. Med</title>
+		<imprint>
+			<biblScope unit="volume">359</biblScope>
+			<biblScope unit="issue">15</biblScope>
+			<biblScope unit="page" from="1577" to="e1589" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Effect of intensive glucose lowering treatment on all cause mortality, cardiovascular death, and microvascular events in type 2 diabetes: meta-analysis of randomised controlled trials</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Boussageon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Bejan-Angoulvant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Saadatian-Elahi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lafont</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Bergeonneau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Kassai</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMJ</title>
+		<imprint>
+			<biblScope unit="volume">343</biblScope>
+			<biblScope unit="page">4169</biblScope>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Glycated hemoglobin measurement and prediction of cardiovascular disease</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Di Angelantonio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Gao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Khan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Butterworth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Wormser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kaptoge</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Med. Assoc</title>
+		<imprint>
+			<biblScope unit="volume">311</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="1225" to="e1233" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">No evidence of an increased mortality risk associated with low levels of glycated haemoglobin in a non-diabetic UK population</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Pfister</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Sharp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Luben</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">T</forename><surname>Khaw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">J</forename><surname>Wareham</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="2025" to="e2032" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Glycated hemoglobin predicts all-cause, cardiovascular, and cancer mortality in people without a history of diabetes undergoing coronary angiography, Diabet</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Silbernagel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">B</forename><surname>Grammer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">R</forename><surname>Winkelmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">O</forename><surname>Boehm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Marz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Care</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1355" to="e1361" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Biological variation of cardiovascular risk factors in patients with diabetes</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Dawson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Sathyapalan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Atkin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Kilpatrick</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabet. Med</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="1172" to="e1180" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Determinants of HbA1c in nondiabetic Dutch adults: genetic loci and clinical and lifestyle parameters, and their interactions in the Lifelines Cohort Study</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Jansen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Stolk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">M</forename><surname>Nolte</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">P</forename><surname>Kema</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">H</forename><surname>Wolffenbuttel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Snieder</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Intern. Med</title>
+		<imprint>
+			<biblScope unit="volume">273</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="283" to="e293" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Raceethnic differences in the association of genetic loci with HbA1c levels and mortality in U.S. adults: the third National Health and Nutrition Examination Survey (NHANES III)</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Grimsby</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">C</forename><surname>Porneala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Vassy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Florez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Dupuis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMC Med. Genet</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page">30</biblScope>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">HbA1c and iron deficiency: a review</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ahmad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Rafat</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabet. Metab. Syndr</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="118" to="e122" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Low glycated hemoglobin and liver disease in the U.S. population</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Christman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Lazo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Clark</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Selvin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabet. Care</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="2548" to="e2550" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Relation of cigarette smoking, alcohol use, and coffee consumption to glycated hemoglobin in Japanese men and women</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Maki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ikeda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Morita</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ohnaka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Kawate</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Adachi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabet. Metab. Syndr</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="69" to="e73" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Cardiovascular risk profile in subjects with prediabetes and new-onset type 2 diabetes identified by HbA(1c) according to American diabetes association criteria</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">Di</forename><surname>Pino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Scicali</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Calanna</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Urbano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Mantegna</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Rabuazzo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabet. Care</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="1447" to="e1453" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Regression from prediabetes to normal glucose regulation is associated with reduction in cardiovascular risk: results from the diabetes prevention program outcomes study</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Perreault</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Temprosa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename><surname>Mather</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Horton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kitabchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Larkin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabet. Care</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="2622" to="e2631" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Prediabetes: a high-risk state for diabetes development</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">G</forename><surname>Tabak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Herder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Rathmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Brunner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kivimaki</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">379</biblScope>
+			<biblScope unit="issue">9833</biblScope>
+			<biblScope unit="page" from="2279" to="e2290" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Assessment and treatment of cardiovascular risk in prediabetes: impaired glucose tolerance and impaired fasting glucose</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Defronzo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Abdul-Ghani</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am. J. Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">108</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="3B" to="e24" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note>Suppl. l.</note>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Insulin resistance and coronary heart disease in nondiabetic individuals</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Reaven</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arterioscler. Thromb. Vasc. Biol</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="1754" to="e1759" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Metabolic syndrome and hyperglycemia: congruence and divergence</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Alexander</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">B</forename><surname>Landsman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Grundy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am. J. Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">98</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="982" to="e985" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Diabetes mellitus, prediabetes, and incidence of subclinical myocardial damage</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Selvin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Lazo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Shen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Rubin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Mcevoy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">130</biblScope>
+			<biblScope unit="issue">16</biblScope>
+			<biblScope unit="page" from="1374" to="e1382" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Association between blood glucose levels and high-sensitivity cardiac troponin T in an overt cardiovascular disease-free community-based study</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Zheng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Ye</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Luo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Xiao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Wu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabet. Res. Clin. Pract</title>
+		<imprint>
+			<biblScope unit="volume">97</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="139" to="e145" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Reduction in the incidence of type 2 diabetes with lifestyle intervention or metformin</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">C</forename><surname>Knowler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Barrett-Connor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Fowler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">F</forename><surname>Hamman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Lachin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Walker</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N. Engl. J. Med</title>
+		<imprint>
+			<biblScope unit="volume">346</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="393" to="e403" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Metformin for non-diabetic patients with coronary heart disease (the CAM-ERA study): a randomised controlled trial</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Preiss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Lloyd</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Ford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Mcmurray</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Holman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Welsh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Diabet. Endocrinol</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="116" to="e124" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Survival as a function of HbA(1c) in people with type 2 diabetes: a retrospective cohort study</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Currie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Peters</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Tynan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Evans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Heine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">L</forename><surname>Bracco</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">375</biblScope>
+			<biblScope unit="issue">9713</biblScope>
+			<biblScope unit="page" from="481" to="e489" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Low HbA1c and mortality: causation and confounding</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Rutter</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="2307" to="e2311" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Measurement of HbA1c from stored whole blood samples in the atherosclerosis risk in communities study</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Selvin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Coresh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Zhu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Folsom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">W</forename><surname>Steffes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Diabet</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="118" to="e124" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Stability of haemoglobin A1c (HbA1c) measurements from frozen whole blood samples stored for over a decade</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Selvin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Coresh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Jordahl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Boland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">W</forename><surname>Steffes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabet. Med</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="1726" to="e1730" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Change in HbA1c over 3 years does not improve the prediction of cardiovascular disease over and above HbA1c measured at a single time point</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Chamnan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Simmons</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">T</forename><surname>Khaw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">J</forename><surname>Wareham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Griffin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="1004" to="e1011" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Limited overlap between intermediate hyperglycemia as defined by A1C 5.7e6.4%, impaired fasting glucose, and impaired glucose tolerance</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Saukkonen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Cederberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Jokelainen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Laakso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Harkonen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Keinanen-Kiukaanniemi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabet. Care</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="2314" to="e2316" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Disparities in HbA1c levels between AfricaneAmerican and non-hispanic white adults with diabetes: a meta-analysis</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Kirk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Agostino</surname><genName>Jr</genName></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Bell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">V</forename><surname>Passmore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Bonds</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Karter</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabet. Care</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="2130" to="e2136" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,793 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Diabetes and the risk of coronary heart disease in the general Japanese population: The Japan Public Health Center-based prospective (JPHC) study</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2011-01-22">22 January 2011</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Isao</forename><surname>Saito</surname></persName>
+							<email>saitoi@m.ehime-u.ac.jp</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Public Health, Social Medicine and Medical Informatics</orgName>
+								<orgName type="institution">Ehime University Graduate School of Medicine</orgName>
+								<address>
+									<addrLine>454 Shitsukawa</addrLine>
+									<postCode>791-0295</postCode>
+									<settlement>Toon City, Ehime</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Yoshihiro</forename><surname>Kokubo</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Preventive Cardiology</orgName>
+								<orgName type="institution">National Cerebral and Cardiovascular Center</orgName>
+								<address>
+									<settlement>Suita</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Kazumasa</forename><surname>Yamagishi</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department" key="dep1">Department of Public Health Medicine</orgName>
+								<orgName type="department" key="dep2">Graduate School of Comprehensive Human Sciences</orgName>
+								<orgName type="department" key="dep3">Institute of Community Medicine</orgName>
+								<orgName type="institution">University of Tsukuba</orgName>
+								<address>
+									<settlement>Tsukuba</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Hiroyasu</forename><surname>Iso</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department" key="dep1">Public Health, Department of Social and Environmental Medicine</orgName>
+								<orgName type="department" key="dep2">Graduate School of Medicine</orgName>
+								<orgName type="institution">Osaka University</orgName>
+								<address>
+									<settlement>Suita</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Manami</forename><surname>Inoue</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department" key="dep1">Epidemiology and Prevention Division</orgName>
+								<orgName type="department" key="dep2">Research Center for Cancer Prevention and Screening</orgName>
+								<orgName type="institution">National Cancer Center</orgName>
+								<address>
+									<settlement>Tokyo</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Shoichiro</forename><surname>Tsugane</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department" key="dep1">Epidemiology and Prevention Division</orgName>
+								<orgName type="department" key="dep2">Research Center for Cancer Prevention and Screening</orgName>
+								<orgName type="institution">National Cancer Center</orgName>
+								<address>
+									<settlement>Tokyo</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Diabetes and the risk of coronary heart disease in the general Japanese population: The Japan Public Health Center-based prospective (JPHC) study</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2011-01-22">22 January 2011</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">6769D6C76B5D6779FF351F086AD13921</idno>
+					<idno type="DOI">10.1016/j.atherosclerosis.2011.01.021</idno>
+					<note type="submission">Received 8 October 2010 Received in revised form 21 December 2010 Accepted 14 January 2011</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.1" ident="GROBID" when="2022-07-19T22:43+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>Diabetes Myocardial infarction Epidemiology Prospective study</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Objective: Although diabetes has a great impact on coronary heart disease (CHD) in Western populations, there is limited evidence that diabetes influences CHD in the Japanese population. Methods: The Japan Public Health Center-based prospective (JPHC) study conducted a follow-up of 31,192 individuals aged 40-69 years with no history of cardiovascular disease or cancer. Subjects were classified at baseline as normal, borderline diabetic or diabetic based on fasting and non-fasting blood glucose levels and the use of medication to treat diabetes. A Cox proportional hazards model was used to determine the association between diabetes and the risk of fatal and non-fatal CHD events after adjustment for potential confounders. Results: During 12.9 years of follow-up (1990)(1991)(1992)(1993)(1994)(1995)(1996)(1997)(1998)(1999)(2000)(2001)(2002)(2003)(2004)(2005)(2006), we identified 266 fatal and non-fatal coronary events using validated criteria. With normal individuals serving as a control, the hazard ratios for total incident CHD events after adjusting for sex, age, study community and fasting were 1.65 (95% CI, 1.19-2.29) and 3.05 (2.03-4.59) in the borderline and diabetic groups, respectively. These associations remained significant after adjustment for conventional risk factors. The population attributable fractions (PAF) of borderline diabetes and diabetes for CHD events were 6.9% and 6.3%, respectively. Furthermore, there was a trend for an association between an impaired fasting glucose (5.6-6.9 mmol/l) and an increased risk of CHD events. Conclusions: This prospective study suggests that diabetes and elevated glucose levels are associated with incident CHD in the general Japanese population. The PAF of diabetes for fatal and non-fatal coronary events was estimated to be moderate.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Introduction</head><p>Several epidemiological studies reported that diabetes was strongly associated with coronary heart disease (CHD), stroke and all-cause death <ref type="bibr" target="#b0">[1]</ref><ref type="bibr" target="#b1">[2]</ref><ref type="bibr" target="#b2">[3]</ref><ref type="bibr" target="#b3">[4]</ref><ref type="bibr" target="#b4">[5]</ref><ref type="bibr" target="#b5">[6]</ref>. However, evidence in the Japanese population is limited, because the frequency of CHD is much lower than in other ethnic populations <ref type="bibr" target="#b6">[7]</ref>.</p><p>Although population-based studies in Japan found that diabetes itself had a strong impact on cardiovascular disease and mortality <ref type="bibr" target="#b7">[8,</ref><ref type="bibr" target="#b8">9]</ref>, it is not yet clear whether impaired glucose regulation, defined as impaired fasting glucose (IFG) or impaired glucose tol-(n = 140,420). Two public health-center areas from Tokyo and Osaka (n = 23,524) were excluded because information on the incidence of CHD events was not available. The study population in cohort I was defined as all residents aged 40-59 years and in cohort II as residents aged 40-69 years.</p><p>Data on serum glucose were available for 11,046 men and 20,115 women at the baseline survey and for another 1654 men and 1917 women at the 5th-year survey. Subjects (n = 3491) were excluded if they reported a history of stroke, myocardial infarction (MI) or angina pectoris, or cancer at baseline. A total of 31,192 subjects were used for the final analysis. The study protocol was approved by the Human Ethics Review Committees of the National Cancer Center and Osaka University Graduate School of Medicine.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.">Measurements</head><p>A self-administered questionnaire was completed at baseline that included medical history, smoking and alcohol-drinking habits, and time since the last meal. Blood pressure was measured on the right arm in the sitting position after a rest of at least 5 min. The measurement was performed with a standard mercury sphygmomanometer by a trained technician. Body mass index (BMI, kg/m 2 ) was calculated as weight divided by square of height. The blood condition was defined as fasting if blood was collected more than 8 h after the last meal. Hypertension was defined as systolic and diastolic blood pressures ≥140/90 mmHg or the use of medication to treat hypertension. Dyslipidemia was defined as total cholesterol ≥5.70 mmol/l, triglycerides ≥1.70 mmol/l, HDL-cholesterol &lt;1.04 mmol/l, or the use of medication to treat dyslipidemia.</p><p>The internal quality control for the measurement of serum lipids and glucose was performed by the Standardization Program of Japan Medical Association. Serum total and high-density lipoprotein cholesterol was standardized by the Osaka Medical Center for Health Science and Promotion, a member of the Cholesterol Reference Method Laboratory Network (CRMLN) <ref type="bibr" target="#b11">[12]</ref>.</p><p>The subjects enrolled in the study were classified into normal, borderline and diabetic groups. Diabetes was defined as a fasting glucose level ≥7.0 mmol/l, a non-fasting glucose level ≥11.1 mmol/l or the use of medication to treat diabetes. Borderline diabetes was defined as a fasting glucose level of 5.6-6.9 mmol/l and a nonfasting glucose level of 7.8-11.0 mmol/l. Normal individuals were defined as having lower glucose levels than borderline diabetics.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.3.">Confirmation of incident CHD</head><p>The incidence of CHD and sudden cardiac death was documented using active patient notification by the local major hospitals, a review of hospital records for participants who reported a history of myocardial infarction in the follow-up questionnaires and a review of death certificate diagnoses for suspected coronary deaths [International Classification of Diseases, 10th Revision (ICD-10) I21-I23, I46 and I50]. CHD events were confirmed in the medical records according to the criteria of the MONICA project <ref type="bibr" target="#b12">[13]</ref>, which required findings from electrocardiograms, cardiac enzymes and/or autopsy. On the basis of a combination of all the findings available for review, the diagnosis of "definite MI" and "possible MI" was made. In the absence of a diagnosis for myocardial infarction, deaths that occurred within 1 h from onset were regarded as sudden cardiac deaths. Case-fatality rates were defined as the proportion of those who died within 28 days from the onset of MI.</p><p>Changes in residence status were identified through the residential registry in each area. Data from subjects who moved from their original residential area (4.2% of subjects) were censored at that time.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.4.">Statistical analyses</head><p>Statistical analyses were based on incidence rates of CHD during the median 12.9 years of follow-up from 1990 to the end of 2006. The person-years of follow-up were calculated from January 1, 1990 to the first endpoint, death, change of residence or December 31, 2006.</p><p>Age-adjusted incidence rates were computed by using indirect methods, in which the 5-year age-specific incidence rates by sex in the total cohort were used as the weighting factors for standardization. The hazard ratios and 95% confidence intervals were calculated after adjustments for sex, age, blood condition (fasting/non-fasting), JPHC study community, and other potential confounding factors using Cox proportional hazards models. Potential confounding factors used for adjustment were baseline values of body mass index, hypertension (yes/no), hyperlipidemia (yes/no), smoking conditions (non-smoker, &lt;20 cigarettes/day smoker, and ≥20 cigarettes/day), regular alcohol drinking (yes/no), and sports and physical exercise (≥1 day/week, other). After exclusion of individuals treated for diabetes, glucose levels were classified into three levels. These levels were &lt;5.6 mmol/l, 5.6-6.9 mmol/l and ≥7.0 mmol/l for fasting conditions, which were adapted from the lower limit of IFG <ref type="bibr" target="#b9">[10]</ref>; &lt;7.8 mmol/l, 7.8-11.0 mmol/l and ≥11.1 mmol/l for non-fasting conditions. Based on this classification, hazard ratios of CHD events were estimated for each group. To test for a linear trend in the association between glucose levels and the risk of CHD events, median glucose values or log-transformed continuous glucose values stratified by blood condition (fasting/non-fasting) in each category were used as an exploratory term in the regression model after excluding subjects treated for diabetes.</p><p>We also calculated the population attributable fraction (PAF) to examine the contribution of diabetes to CHD events using multivariate hazard ratios that were statistically significant and the proportion of cases in each category. The PAF was estimated as pd × (HR − 1)/HR, where pd is the proportion of cases falling into a category and HR is the hazard ratio for that category <ref type="bibr" target="#b13">[14]</ref>. All statistical tests were two-sided, and a P value &lt;0.05 was regarded as statistically significant. All statistical analyses were conducted using SAS, version 9.1 (SAS Institute, Inc., Cary, NC, USA).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Results</head><p>Table <ref type="table" target="#tab_0">1</ref> shows population characteristics at baseline according to diabetes status. When compared with normal, borderline diabetics and diabetics were older and had higher means for body mass index, systolic and diastolic blood pressures, serum total cholesterol and triglycerides, and higher percentages of hypertension and dyslipidemia. In addition, the mean level of HDL-cholesterol was lower in borderline diabetics and diabetics than in normal individuals.</p><p>During a median of 12.9 years of follow-up, we documented 266 MIs, including 199 definite MIs, 28 possible MIs, and 39 sudden cardiac deaths within 1 h (Table <ref type="table" target="#tab_1">2</ref>). Age-adjusted incidence rates of CHD for men were 1.00 per 1000 person-years in normal individuals, 1.37 in borderline diabetics and 2.06 in diabetics. Those for women were 0.30, 0.29, and 1.02, respectively. Case-fatality rates were 28.6% and 30.0% in normal men and women, respectively. The case-fatality rates of CHD events were not significantly different among the three groups.</p><p>Multivariable-adjusted hazard ratios for CHD events were linearly increased in borderline diabetics and diabetics, compared with normal subjects after adjusting for sex, age, blood condition and JPHC community (Table <ref type="table" target="#tab_2">3</ref>). The hazard ratios for CHD events were highest in the diabetics. After adjustment for traditional risk Hypertension was defined as systolic and diastolic blood pressures ≥140/90 mmHg, or the use of medication to treat hypertension. Dyslipidemia was defined as total cholesterol ≥5.70 mmol/l, triglycerides ≥1.70 mmol/l, HDL-cholesterol &lt;1.04 mmol/l, or the use of medication to treat dyslipidemia. factors, these hazard ratios were attenuated; however, the associations remained statistically significant. Multivariate-adjusted hazard ratios for CHD events in those with borderline diabetes and diabetes were 1.50 (95% CI, 1.07-2.10) and 2.38 (95% CI, 1.57-3.61), respectively. Hazard ratios of non-fatal and fatal CHD events were almost the same. The PAF of diabetes for fatal and non-fatal CHD events were 6.2% and 6.7%, respectively.</p><p>Fig. <ref type="figure">1</ref> shows the hazard ratios of CHD events for plasma glucose levels and treatment of diabetes stratified by fasting and non-fasting conditions. Two different multivariate regression models were used for this analysis. In the first model, the hazard ratios were adjusted for sex, age and JPHC study community; in the second model, the hazard ratios were further adjusted for traditional risk factors. Hazard ratios for CHD events in the first  Multivariable-adjusted hazard ratios for coronary heart disease events by fasting and non-fasting glucose levels in models 1 and 2. Adjusted variables in each model are the same as in Table <ref type="table" target="#tab_2">3</ref>. The P value for trend was calculated after exclusion of individuals treated for diabetes. *P &lt; 0.05, **P &lt; 0.01, †P &lt; 0.001 versus the lowest glucose level.</p><p>model were increased in individuals with fasting glucose levels of 5.6-6.9 mmol/l (HR = 1.61, 95% CI, 1.01-2.57) and ≥7.0 mmol/l (HR = 4.05, 95% CI, 2.16-7.56) in a linear manner (P for trend &lt;0.001). Although hazard ratios were diminished after adjusting for traditional risk factors, fasting glucose levels ≥7.0 mmol/l were independently associated with CHD events. Non-fasting glucose levels of 7.8-11.0 mmol/l were also associated with an increased risk of CHD events (HR = 1.77, 95% CI, 1.12-2.82; P for trend = 0.039); however, the inclusion of traditional risk factors in the multivariate models attenuated the risk. Treated diabetics also had an elevated risk of CHD events. In the multivariate model including a fasting condition, the log-transformed glucose level expressed as a continuous variable was associated with an increased risk of CHD events in individuals without treated diabetes (P for trend = 0.011).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Discussion</head><p>The results of this study showed that diabetes increases the risk of CHD events in Japan, regardless of the presence or absence of medication to treat diabetes. We showed that diabetes was strongly associated with both non-fatal and fatal CHD events. Moreover, fasting glucose levels in the range of 5.6-6.9 mmol/l, defined as IFG, increased the risk of CHD. PAF for fatal and non-fatal CHD events due to diabetes was around 6% in the general population.</p><p>The influence of a pre-diabetic state on the risk of CHD events in Japan has been difficult to demonstrate in the past because the low number of CHD events reduces the statistical power to show a significant association. The Hisayama study (n = 2421) in Japan reported that the risk of coronary heart disease for women with fasting glucose levels ≥7.0 mmol/l was increased 5.3-fold; however, the risk of diabetic men and individuals with IFG was not elevated <ref type="bibr" target="#b7">[8]</ref>. Similarly, the Funagata study (n = 2938) in Japan did not find that IFG increased the risk of CHD events <ref type="bibr" target="#b8">[9]</ref>.</p><p>Of note, our prospective study suggests that IFG was associated with CHD, although the presence of traditional risk factors such as smoking and hypertension diminished the strength of this association. Furthermore, fasting glucose levels were associated with CHD events in a linear manner. In contrast, non-fasting glucose levels of 7.8-11.0 mmol/l were moderately associated with CHD events. This implies that individuals with elevated glucose levels after the last meal are at increased risk, which supports the finding of a previous study that IGT was a predictor of death from cardiovascular disease <ref type="bibr" target="#b14">[15]</ref>.</p><p>In the JPHC study, treated diabetics had an elevated risk of CHD events that was similar to the risk of untreated diabetics. The explanation for this may be that treated diabetics had a higher glucose burden for a longer period of time and worse diabetes than untreated diabetics. Furthermore, although we did not assess the duration or severity of diabetes, treated diabetics, including individuals with insulin therapy, were likely to have other conditions that cause progression of atherosclerosis <ref type="bibr" target="#b15">[16]</ref>.</p><p>Previous studies have shown that trends in the incidence and mortality rates of MI declined in the last few decades in the US and Canada <ref type="bibr" target="#b16">[17,</ref><ref type="bibr" target="#b17">18]</ref>, and this was explained by a reduction of cholesterol levels and an improvement in lifestyle. In contrast, the rates in China have increased <ref type="bibr" target="#b18">[19]</ref>, and this is explained by an increase in blood cholesterol levels due to adoption of a Westernized diet and lifestyle. In Japan, an epidemiological study suggested that validated mortality rates from CHD were stable from 1987 to 1998 <ref type="bibr" target="#b19">[20]</ref>; however, the trend in CHD incidence appeared to increase in the 1960s and level off in the 1990s <ref type="bibr" target="#b20">[21]</ref>. Westernized lifestyles such as a high intake of animal fat and a low level of physical activity rapidly spread in Japan between the 1960s and the 1980s <ref type="bibr" target="#b21">[22]</ref>, and this may have contributed to the increase in rates during this time period. We found that the PAF of CHD events due to diabetes was 6.3%, which was similar to the effect of the metabolic syndrome <ref type="bibr" target="#b22">[23]</ref>. Recently, a Japanese urban cohort in 1989-1994 documented that the PAF of cardiovascular disease due to diabetes was 8.2% <ref type="bibr" target="#b23">[24]</ref>. Similarly, the Framingham Heart study reported that the PAF was 8.7% in the 1975-1998 cohort <ref type="bibr" target="#b24">[25]</ref>. Nonetheless, since the prevalence of diabetes has recently been increasing in Japan, the PAF observed in the present study might increase in the future.</p><p>The strength of this study is that it was a large, populationbased study that was representative of all of Japan, and systematic surveys of CHD events were performed. However, several limitations should be noted. First, we did not distinguish between type 1 and type 2 diabetes in the present study. However, our participants were recruited from individuals in the general population who received annual health checkups; therefore, we believe that the majority of participants treated for diabetes had type 2 diabetes. Second, the percentage of non-fasting blood samples was 57.5%. Therefore, the diagnosis of diabetes in these participants might have been underestimated, because there were fewer subjects with non-fasting glucose levels ≥11.1 mmol/l when compared with the prevalence of individuals with 2-h post-load glucose levels ≥11.1 mmol/l. Third, we analyzed data from both sexes combined, because the statistical power was not sufficient to compute sexspecific hazard ratios. However, we confirmed that there was no interaction of sex with the increased risk of CHD events.</p><p>In conclusion, diabetes was strongly associated with incident fatal and non-fatal CHD regardless of the use of medication to treat diabetes in middle-aged Japanese. Also, there was a trend for individuals with IFG to have an increased risk of CHD events in Japan.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head></head><label></label><figDesc>Fig.1. Multivariable-adjusted hazard ratios for coronary heart disease events by fasting and non-fasting glucose levels in models 1 and 2. Adjusted variables in each model are the same as in Table3. The P value for trend was calculated after exclusion of individuals treated for diabetes. *P &lt; 0.05, **P &lt; 0.01, †P &lt; 0.001 versus the lowest glucose level.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Population characteristics in normal individuals, borderline diabetics and diabetics.</figDesc><table><row><cell>Normal</cell><cell>Borderline</cell><cell>Diabetes</cell><cell>P values</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2</head><label>2</label><figDesc>Incident rates and case-fatality rates of coronary heart disease in normal individuals, borderline diabetics and diabetics.</figDesc><table><row><cell></cell><cell>Normal</cell><cell>Borderline</cell><cell>Diabetes</cell></row><row><cell>n</cell><cell>25,192</cell><cell>4744</cell><cell>1256</cell></row><row><cell>Person-years of follow-up</cell><cell>350,056</cell><cell>65,864</cell><cell>16,185</cell></row><row><cell>Number of total CHD</cell><cell>182</cell><cell>55</cell><cell>29</cell></row><row><cell>Definite MI</cell><cell>138 (75.8%)</cell><cell>42 (76.4%)</cell><cell>19 (65.5%)</cell></row><row><cell>Possible MI</cell><cell>20 (11.0%)</cell><cell>2 (3.6%)</cell><cell>6 (20.7%)</cell></row><row><cell>Sudden cardiac death, &lt;1 h</cell><cell>24 (13.2%)</cell><cell>11 (20.0%)</cell><cell>4 (13.8%)</cell></row><row><cell cols="2">Age-adjusted incident rate per 1000 person-years (# of cases)</cell><cell></cell><cell></cell></row><row><cell>Men</cell><cell>1.00 (112)</cell><cell>1.37 (45)</cell><cell>2.06 (19)</cell></row><row><cell>Women</cell><cell>0.30 (70)</cell><cell>0.29 (10)</cell><cell>1.02 (10)</cell></row><row><cell>Case-fatality rate (%)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Men</cell><cell>28.6</cell><cell>28.9</cell><cell>26.3</cell></row><row><cell>Women</cell><cell>30.0</cell><cell>40.0</cell><cell>40.0</cell></row><row><cell>CHD, coronary heart disease; MI, myocardial infarction.</cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3</head><label>3</label><figDesc>Multivariable-adjusted hazard ratios and population attributable fractions of non-fatal or fatal coronary heart disease events for borderline diabetics and diabetics compared with normal individuals.</figDesc><table><row><cell>Normal</cell><cell>Borderline</cell><cell>Diabetes</cell><cell>P for trend</cell></row></table><note>Model 1 was adjusted for sex, age, blood condition (fasting/non-fasting), and JPHC study community. Model 2 was further adjusted for body mass index, hypertension, dyslipidemia, smoking, regular alcohol drinking, and sports and exercise. P for trend was tested using the median glucose values in the different categories. CHD, coronary heart disease; HR, hazard ratio; CI, confidence interval; PAF, population-attributable fraction.</note></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgments</head><p>We thank all staff members in each study area and in the central office for their painstaking efforts to conduct the baseline survey and follow-up (Appendix A). This study was supported by grantsin-aid for Cancer Research and for the Third Term Comprehensive Ten-Year Strategy for Cancer Control from the Ministry of Health, Labor and Welfare of Japan.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Appendix A. Study group members</head><p>Members of JPHC study (principal investigator: S. Tsugane). S. Tsugane, M. Inoue, T. Sobue, and T. Hanaoka, National Cancer Center, Tokyo; J. Ogata, S. Baba, T. Mannami, A. Okayama, and Y. Kokubo </p></div>
+			</div>
+
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Diabetes mellitus, fasting blood glucose concentration, and risk of vascular disease: a collaborative meta-analysis of 102 prospective studies</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Sarwar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Gao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Seshasai</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">375</biblScope>
+			<biblScope unit="page" from="2215" to="2222" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Fasting plasma glucose in non-diabetic participants and the risk for incident cardiovascular events, diabetes, and mortality: results from WOSCOPS 15-year follow-up</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Preiss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Welsh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">M</forename><surname>Murray</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur Heart J</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="1230" to="1236" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">The independent effect of type 2 diabetes mellitus on ischemic heart disease, stroke, and death: a populationbased study of 13,000 men and women with 20 years of follow-up</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Almdal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Scharling</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Jensen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Vestergaard</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">164</biblScope>
+			<biblScope unit="page" from="1422" to="1426" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Diabetes and all-cause and coronary heart disease mortality among US male physicians</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Lotufo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Gaziano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">U</forename><surname>Chae</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">161</biblScope>
+			<biblScope unit="page" from="242" to="247" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Glucose intolerance and 23-year risk of coronary heart disease and total mortality: the Honolulu Heart Program</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">L</forename><surname>Rodriguez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Lau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Burchfiel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="1262" to="1265" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">A prospective study of coronary heart disease in relation to fasting insulin, glucose, and diabetes. The atherosclerosis risk in communities (ARIC) study</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Folsom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Szklo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Stevens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Liao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Eckfeldt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="935" to="942" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Changes in coronary heart disease risk among Japanese</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Iso</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">118</biblScope>
+			<biblScope unit="page" from="2725" to="2729" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Impact of glucose tolerance status on development of ischemic stroke and coronary heart disease in a general Japanese population: the Hisayama study</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Doi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Ninomiya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hata</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stroke</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="203" to="209" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Impaired glucose tolerance is a risk factor for stroke in a Japanese sample-the Funagata study</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Oizumi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Daimon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Jimbu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Metabolism</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="page" from="333" to="338" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Follow-up report on the diagnosis of diabetes mellitus</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Genuth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">G</forename><surname>Alberti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Bennett</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="3160" to="3167" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Impact of impaired fasting glucose on cardiovascular disease: the Framingham Heart study</title>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">S</forename><surname>Levitzky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Pencina</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Agostino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Coll Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="page" from="264" to="270" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Improvement in Japanese clinical laboratory measurements of total cholesterol and HDL-cholesterol by the US cholesterol reference method laboratory network</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Nakamura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sato</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Shimamoto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Atheroscler Thromb</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="145" to="153" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Myocardial infarction and coronary deaths in the World Health Organization MONICA project. Registration procedures, event rates, and case-fatality rates in 38 populations from 21 countries in four continents</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Tunstall-Pedoe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kuulasmaa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Amouyel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Arveiler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Rajakangas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Pajak</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">90</biblScope>
+			<biblScope unit="page" from="583" to="612" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Use and misuse of population attributable fractions</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Rockhill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Newman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Weinberg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Public Health</title>
+		<imprint>
+			<biblScope unit="volume">88</biblScope>
+			<biblScope unit="page" from="15" to="19" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Impaired glucose tolerance is a risk factor for cardiovascular disease, but not impaired fasting glucose. The Funagata diabetes study</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tominaga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Eguchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Manaka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Igarashi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Kato</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sekikawa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="920" to="924" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Nontraditional risk factors for coronary heart disease incidence among persons with diabetes: the atherosclerosis risk in communities (ARIC) study</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Saito</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Folsom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">L</forename><surname>Brancati</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">B</forename><surname>Duncan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">E</forename><surname>Chambless</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">G</forename><surname>Mcgovern</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">133</biblScope>
+			<biblScope unit="page" from="81" to="91" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Explaining the decrease in U.S. deaths from coronary disease</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Ford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><forename type="middle">A</forename><surname>Ajani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Croft</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">356</biblScope>
+			<biblScope unit="page" from="2388" to="2398" />
+			<date type="published" when="1980">1980-2000. 2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Association of temporal trends in risk factors and treatment uptake with coronary heart disease mortality</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Wijeysundera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Machado</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Farahati</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">2010</biblScope>
+			<biblScope unit="page" from="1841" to="1847" />
+			<date type="published" when="1994">1994-2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Explaining the increase in coronary heart disease mortality in Beijing between 1984 and 1999</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Critchley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Wei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Capewell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">110</biblScope>
+			<biblScope unit="page" from="1236" to="1244" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Trends in fatal coronary heart disease among people aged 25-74 years in Oita City</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Saito</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ozawa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Aono</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Ikebe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Yamashita</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Makino</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="469" to="476" />
+			<date type="published" when="1987">1987. 1998. 2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Trends in the incidence of coronary heart disease and stroke and their risk factors in Japan</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kitamura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sato</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kiyama</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Coll Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="71" to="79" />
+			<date type="published" when="1964">1964-2003. 2008</date>
+		</imprint>
+	</monogr>
+	<note>: the Akita-Osaka study</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">National nutrition survey in Japan</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Yoshiike</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Matsumura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Iwaya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sugiyama</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Yamaguchi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="S189" to="200" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+	<note>Suppl. 3</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">The impact of the metabolic syndrome and its components on the incidence of ischemic heart disease and stroke: the Japan public health center-based study</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Noda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Iso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Saito</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Konishi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Inoue</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Tsugane</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hypertens Res</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="289" to="298" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">The combined impact of blood pressure category and glucose abnormality on the incidence of cardiovascular diseases in a Japanese urban cohort: the Suita study</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Kokubo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Okamura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Watanabe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hypertens Res</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="1238" to="1243" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Increasing cardiovascular disease burden due to diabetes mellitus: the Framingham Heart study</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Fox</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Coady</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">D</forename><surname>Sorlie</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">115</biblScope>
+			<biblScope unit="page" from="1544" to="1550" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,925 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Impacts of Prediabetes Mellitus Alone or Plus Hypertension on the Coronary Severity and Cardiovascular Outcomes</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2018-06">Hypertension June 2018</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Jian-Jun</forename><surname>Li</surname></persName>
+							<email>lijianjun938@126.com</email>
+						</author>
+						<author>
+							<persName><forename type="first">Hui-Hui</forename><surname>Liu</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Ye-Xuan</forename><surname>Cao</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Sha</forename><surname>Li</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Yuan-Lin</forename><surname>Guo</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Cheng-Gang</forename><surname>Zhu</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Na-Qiong</forename><surname>Wu</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Ying</forename><surname>Gao</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Qiu-Ting</forename><surname>Dong</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Xi</forename><surname>Zhao</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Yan</forename><surname>Zhang</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Di</forename><surname>Sun</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Division of Dyslipidemia</orgName>
+								<orgName type="department" key="dep2">National Center for Cardiovascular Diseases</orgName>
+								<orgName type="laboratory">State Key Laboratory of Cardiovascular Disease</orgName>
+								<orgName type="institution">Chinese Academy of Medical Sciences and Peking Union Medical College</orgName>
+								<address>
+									<addrLine>Fu Wai Hospital</addrLine>
+									<settlement>Beijing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Division of Dyslipidemia</orgName>
+								<orgName type="department" key="dep2">National Center for Cardiovascular Disease</orgName>
+								<orgName type="laboratory">State Key Laboratory of Cardiovascular Disease</orgName>
+								<orgName type="institution">Chinese Academy of Medical Sciences and Peking Union Medical College</orgName>
+								<address>
+									<addrLine>Fu Wai Hospital, No 167 BeiLiShi Rd</addrLine>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="institution">XiCheng District</orgName>
+								<address>
+									<postCode>100037</postCode>
+									<settlement>Beijing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<orgName type="institution">National Center for Cardiovascular Diseases</orgName>
+								<address>
+									<settlement>Beijing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Impacts of Prediabetes Mellitus Alone or Plus Hypertension on the Coronary Severity and Cardiovascular Outcomes</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2018-06">Hypertension June 2018</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">D803322DE8774F8A1F07B8B49540BC15</idno>
+					<idno type="DOI">10.1161/HYPERTENSIONAHA.118.11063/-/DC1.</idno>
+					<note type="submission">Received February 20, 2018; first decision February 23, 2018; revision accepted March 13, 2018. This study complied with the Declaration of Helsinki and Title 45, US Code of Federal Regulations, Part 46, Protection of Human Subjects, Revised November 13, 2001, effective December 13, 2001, and was approved by the hospital&apos;s ethical review board (Fu Wai Hospital &amp;</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.1" ident="GROBID" when="2022-07-19T22:44+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>coronary artery disease ◼ diabetes mellitus ◼ hypertension ◼ prognosis ◼ risk factors</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>P rediabetes mellitus (Pre-DM) refers to an intermediate metabolic state between normal glucose regulation (NGR) and diabetes mellitus (DM), including those with impaired glucose tolerance and impaired fasting glucose (IFG). <ref type="bibr" target="#b1">1</ref> The growing obesity epidemic in the United States has been inescapably correlated with a surge in rates of pre-DM, and it has been called America's largest healthcare epidemic. <ref type="bibr" target="#b2">2</ref> The prevalence of pre-DM in the American adults is steadily increasing, with an estimated rate reaching 36.2% in 2010. <ref type="bibr" target="#b3">3</ref> Meanwhile, it was reported that ≈35.7% of the Chinese adult population had pre-DM and 10.9% had DM in a crosssectional survey conducted in 2013 in mainland China. <ref type="bibr" target="#b4">4</ref> The population with pre-DM is at a high risk of developing DM. Moreover, cardiovascular disease (CVD) is one of the most common chronic diseases worldwide with a high morbidity and mortality. The risk of CVD in patients with DM is 2 to 3 times higher than that of the NGR population. <ref type="bibr" target="#b5">5</ref> The predisposition of pre-DM to DM makes it a potential risk factor for CVD as well. However, studies on the association between the stage of pre-DM and CVD risk were insufficient and failed to reach a general consensus. <ref type="bibr" target="#b5">[5]</ref><ref type="bibr" target="#b6">[6]</ref><ref type="bibr" target="#b7">[7]</ref><ref type="bibr" target="#b8">[8]</ref><ref type="bibr" target="#b9">[9]</ref><ref type="bibr" target="#b10">[10]</ref> Noteworthily, few studies were found to combine pre-DM and hypertension together in the analysis for predicting CVD risk. <ref type="bibr" target="#b6">6,</ref><ref type="bibr" target="#b11">11</ref> Moreover, to the best of our knowledge, there have been no studies to explore the impact of hypertension on the association between pre-DM and CVD risk, including coronary severity and clinical outcomes in patients with angiography-proven stable, new-onset coronary artery disease (CAD). Therefore, we conducted this prospective study in a large cohort of this population with 2 aims: (1) to explore the association between pre-DM and coronary severity and CVD outcomes and (2) to investigate whether pre-DM alone or coexistent with hypertension, defined according to the Seventh Report of the Joint National Committee on Prevention, Detection, Evaluation, and Treatment of High Blood Pressure (JNC-7), 12 could significantly exacerbate CVD risk. Given the recent publication of 2017 American College of Cardiology/ American Heart Association (ACC/AHA) guideline, 13 which</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Definition of DM, Pre-DM, and Hypertension</head><p>Diagnosed DM was defined as a self-reported diagnosis that was determined previously by a specialist, or patients were being treated with hypoglycemic medications currently. Undiagnosed DM and pre-DM was defined according to the American Diabetes Association criteria. <ref type="bibr" target="#b1">1</ref> Undiagnosed DM was confirmed by a fasting plasma glucose level ≥7.0 mmol/L (126 mg/dL), 2-hour glucose level ≥11.1 mmol/L (200 mg/dL), or hemoglobin A1c (HbA1c) level ≥6.5%. <ref type="bibr" target="#b1">1</ref> Total DM was the sum of the number of patients with diagnosed DM and undiagnosed DM. Pre-DM was diagnosed as any participants who did not have DM but had a fasting plasma glucose ranges from 5.6 to &lt;7.0 mmol/L (100-126 mg/dL), 2-hour glucose ranges from 7.8 to &lt;11.1 mmol/L (140-200 mg/dL), or HbA1c level ranges from 5.7% to &lt;6.5%. <ref type="bibr" target="#b1">1</ref> NGR referred to the people who had neither pre-DM nor DM. Diagnosed hypertension was defined as a self-reported hypertension and currently taking antihypertensive drugs. Undiagnosed hypertension was defined according to the JNC-7 and 2017 ACC/ AHA guidelines, respectively. Based on the JNC-7 criteria, patients with systolic blood pressure (BP) ≥140 mm Hg or diastolic BP ≥90 mm Hg were diagnosed with hypertension. <ref type="bibr" target="#b12">12</ref> According to the 2017 ACC/AHA guideline, patients with systolic BP ≥130 mm Hg or diastolic BP ≥80 mm Hg were defined as having hypertension. <ref type="bibr" target="#b14">13</ref> Similarly, total hypertension was the sum of the number of patients with diagnosed hypertension and undiagnosed hypertension.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Follow-Up</head><p>After the initial appointment, all patients were actively followedup at 6-month intervals thorough telephone communications and/ or face-to-face interviews after hospital discharge by well-trained nurses or cardiologists who were blinded to the aim of this study. The follow-up time interval was counted from the enrollment till the last traceable hospital inpatient or outpatient record or telephone interview before August 2017. The primary end points were the all-cause death (death mainly caused by CVDs), nonfatal myocardial infarction, stroke, unplanned revascularization and hospitalized unstable angina. All available relevant data from any reported possible event were collected. Death of a participant was reported by relatives, the general practitioner, or the specialist who treated the participant. Three experienced cardiologists who were masked to any of the study data classified the events independently.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical Analysis</head><p>Continuous variables are expressed as mean±standard deviation (SD) or median with interquartile range as appropriate, and differences between groups were determined using the student's t test, analysis of variance, or nonparametric test where appropriate. Categorical variables were presented as number (percentage) and analyzed by chi-squared statistic test or fisher exact test. Linear regression was used to estimate the independent predictors for coronary severity as measured by Gensini score (GS). The event-free survival rates among subgroups according to DM status or both DM and hypertension status were estimated by the Kaplan-Meier method and compared by the log-rank test. Cox proportional hazard models were performed to calculate hazard ratios (HRs) for CVD events of participants with pre-DM or DM compared with those with NGR. HRs for CVD events were also computed for participants with pre-DM or DM, with or without the presence of hypertension, compared with participants with normal blood glucose and normal BP. The analyses were initially performed adjusting for age and sex in model 1 and model 4; further adjustments were subsequently made for current smoking, hypertension, GS, left ventricular ejection fraction, triglyceride, lowdensity lipoprotein cholesterol, and erythrocyte sedimentation rate The statistical analysis was performed with SPSS version 20.0 software (SPSS Inc., Chicago, IL). In chi-squared statistic test, for comparisons between any 2 of the 3 groups according to DM status, 2-tailed P values &lt;0.017 were considered statistically significant, while for comparisons between any 2 of the 6 groups according to DM and hypertension status, 2-tailed P values &lt;0.003 were considered statistically significant. Two-tailed P values &lt;0.05 were considered to be statistically significant in all the rest of the analyses.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Baseline Characteristics</head><p>Among the subjects, 43.0% were defined as pre-DM, 35.5% had DM, and the rest 21.5% had NGR (Figure <ref type="figure" target="#fig_0">1</ref>). The baseline demographics and clinical characteristics of the study population are shown in Table <ref type="table" target="#tab_0">1</ref>, both overall and according to DM status (NGR group, pre-DM group, and DM group). The prevalence of hypertension defined according to the JNC-7 criteria in NGR, pre-DM, and DM was 56.7%, 59.9%, and 71.6%, respectively. Meanwhile, the prevalence of hypertension diagnosed by the 2017 ACC/AHA guideline was 79.7%, 80.8%, and 88.1% in the 3 groups. The DM population had a significantly higher incidence of hypertension compared with the NGR or pre-DM individuals. The age, fasting plasma glucose, HbA1c, triglyceride, high-sensitivity C-reactive protein, fibrinogen, and ESR were positively associated with the DM status from NGR to DM (all P&lt;0.001). Participants in the NGR group were more likely to be males (P&lt;0.001) and smokers (P=0.008) compared with those of the other 2 groups. Meanwhile, individuals with DM had higher body mass index and systolic BP (P&lt;0.001, respectively) and lower left ventricular ejection fraction (P=0.023) and high-density lipoprotein cholesterol levels (P&lt;0.001) than participants with pre-DM or NGR. Moreover, pre-DM group had significantly higher total cholesterol and low-density lipoprotein cholesterol levels than the NGR group and higher lipoprotein (a) levels compared with the other 2 groups (all P&lt;0.05). The prescribed medications were similar among the 3 groups (all P&gt;0.05).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Pre-DM and Coronary Severity</head><p>The coronary severity was assessed in different subgroups according to DM status. As shown in Figure <ref type="figure" target="#fig_1">2A</ref> and 2B, DM group had significantly higher log-transformed GS and more patients with multivessel disease than in any other group (all P&lt;0.001). However, there was no significant difference of log-transformed GS and the proportion of multivessel disease between pre-DM and NGR groups (both P&gt;0.05). Meanwhile, using multivariate linear regression analysis adjusting for sex, age, body mass index, smoking, high-density lipoprotein cholesterol, low-density lipoprotein cholesterol, creatinine, ESR and hypertension, only DM group was independently associated with GS compared with NGR group (P&lt;0.001). Because of the high prevalence of hypertension in our population, especially according to the 2017 ACC/AHA criteria, we further evaluated the association of 3 subgroups based on DM status (NGR, pre-DM, and DM), with the coronary severity stratified according to the presence or absence of hypertension [NGR/−hypertension (HTN) as reference, pre-DM/−HTN, DM/−HTN, NGR/+HTN, pre-DM/+HTN, and DM/+HTN]. When the hypertension was defined according to the JNC-7 criteria, compared with the reference group (NGR/−HTN group), all the other groups (P&lt;0.01, respectively) excepting the pre-DM/-HTN group (P&gt;0.05) had significantly higher log-transformed GS and more patients with multivessel disease (Figure <ref type="figure" target="#fig_1">2C and 2D</ref>). Furthermore, the results were similar when the hypertension was diagnosed by the 2017 ACC/ AHA criteria (data not shown). After adjusting for sex, age, body mass index, smoking, high-density lipoprotein cholesterol, low-density lipoprotein cholesterol, creatinine, and ESR in multivariate linear regression analysis, DM/−HTN, NGR/+HTN, pre-DM/+HTN, and DM/+HTN group still had a positive association with GS compared with the reference group (all P&lt;0.05).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Pre-DM and CVD End Points</head><p>Over an average of 11 338 patient-years follow-up, 434 end point events were recorded (46 died, 39 suffered nonfatal myocardial infarction, 84 had strokes, 176 underwent unplanned revascularization procedures, and 89 had hospitalized unstable angina). Patients who suffered acute coronary syndrome and underwent revascularization procedures were assigned once in the analysis. The corresponding incidence rates of CVD events in NGR, pre-DM, and DM group were 7.8%, 9.8%, and 12.6%, respectively. Kaplan-Meier analysis with log-rank test (Figure <ref type="figure" target="#fig_2">3A</ref>) showed that participants with DM had the lowest cumulative event-free survival rate among the 3 groups (P&lt;0.05 for all comparisons), whereas there was no significant difference between pre-DM and NGR groups (P&gt;0.05). When the participants were categorized according to both DM and hypertension status (Figure <ref type="figure" target="#fig_2">3B</ref> and 3C), DM/−HTN, pre-DM/+HTN, and DM/+HTN groups had significantly lower cumulative event-free survival rates compared with the reference group (NGR/−HTN group) with the 2 guideline definitions of hypertension (all P&lt;0.05).</p><p>The adjusted HRs and 95% confidence interval (CI) of CVD end point events according to the DM status are shown in Table <ref type="table" target="#tab_1">2</ref>. A baseline DM had a 1.59× higher risk of CVD events occurrence in the crude model compared with the reference NGR group. Additional adjustment for multivariable in 3 models only slightly attenuated this association, and DM was still significantly and independently associated with CVD events risk. However, pre-DM did not increase CVD events risk significantly compared with the reference group in any adjusted model. Furthermore, adjusted Cox models were fitted with different DM status in normotensive and hypertensive participants in Table <ref type="table" target="#tab_2">3</ref>, with hypertension defined according to 2 criteria. In the JNC-7 criteria, after adjusting for potential confounding factors in Cox models, compared with the reference group (NGR/−HTN group), pre-DM alone, isolated DM, or hypertension alone was not associated with elevated CVD events risk (P&gt;0.05, all). However, pre-DM combined with hypertension did significantly increase the risk for developing CVD events when compared with the reference group, with adjusted HR of 1.58 (95% CI, 1.01-2.46). Moreover, coexistence of DM and hypertension was related to the most significant increase of the risk of CVD events compared with participants with normal plasma glucose and normal BP (HR, 1.69; 95% CI, 1.09-2.63).</p><p>When hypertension was diagnosed by the 2017 ACC/AHA guideline, the results were consistent with the JNC-7 criteria except that DM alone was also significantly associated with the CVD events risk (HR, 2.47; 95% CI, 1.03-5.95), and that the CVD events risk of coexistence of hypertension and pre-DM or DM was relatively higher (HR, 2.37; 95% CI, 1.11-5.07; HR, 2.85; 95% CI, 1.33-6.09; respectively).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>In this prospective study on new-onset CAD patients undergoing coronary angiography, we, interestingly, found that pre-DM was not associated with an increased CVD risk and had a similar risk with subjects with NGR. However, when it occurred in the hypertensive subjects defined by either JNC-7 or 2017 ACC/AHA criteria, the risk for more severe coronary lesions was significantly elevated compared with that for participants with normal plasma glucose and normal BP. Meanwhile, under the diagnostic criteria of JNC-7, the risk for CVD events of pre-DM combined with hypertension was increased by 1.58-fold compared with normoglycemic and normotensive participants. Moreover, when hypertension was diagnosed according to the 2017 ACC/AHA criteria, the risk of pre-DM plus hypertension for CVD events was significantly increased by 2.37-fold. Our results may provide new information and evidence for the relation of pre-DM status to severity and clinical prognosis of patients with stable, new-onset CAD. DM is a most important and common metabolic disease with an increasing morbidity worldwide. <ref type="bibr" target="#b8">8</ref> It represents a public health problem of epidemic proportions in both developed and developing countries. <ref type="bibr" target="#b15">14</ref> What's more, it is well determined that DM increases morbidity and mortality of CAD, which is the leading cause of death worldwide. <ref type="bibr" target="#b9">9</ref> The most important risk factor for DM is a condition called pre-DM, which is generally defined as IFG, impaired glucose tolerance, or both. Later, elevated HbA1c, which integrates plasma glucose over time, is promoted as another indicator of pre-DM. <ref type="bibr" target="#b1">1</ref> The predisposition of pre-DM to DM makes it a potential risk factor for CVD as well. <ref type="bibr" target="#b8">8</ref> The prevalence of pre-DM in the United States had increased to an estimated rate of 36.2% in 2010. <ref type="bibr" target="#b3">3</ref> Meanwhile, as noted in a report in 2017 by Wang et al, 4 ≈35.7% of the adults had pre-DM in China, and the incidence rate was as high as 50.1% in another report. <ref type="bibr" target="#b16">15</ref> Because of the high and widespread prevalence of pre-DM, ongoing debate is whether pre-DM is an independent risk factor of CVD and whether it deserves targeted identification and clinical intervention. Several studies indicated that dysglycemia within nondiabetic glucose range was associated with increased risk for CVD. <ref type="bibr" target="#b5">5,</ref><ref type="bibr" target="#b18">[16]</ref><ref type="bibr" target="#b19">[17]</ref><ref type="bibr" target="#b20">[18]</ref> However, recently, a systematic review 10 and 3 meta-analysis <ref type="bibr" target="#b10">10,</ref><ref type="bibr" target="#b21">19</ref> showed that pre-DM were only associated with a modest increase in the risk for CVD. Moreover, the first wave of the Nord-Trondelag Health Study concluded that DM, but not hyperglycemia below the current diagnostic threshold for DM, had a significantly higher risk for fatal CAD in both genders. <ref type="bibr" target="#b9">9</ref> Another large cohort study in Korea reported that the increased risk for myocardial infarction could not be observed in the IFG population and only be observed in the diabetic glucose level. <ref type="bibr" target="#b22">20</ref> Furthermore, Liu et al <ref type="bibr" target="#b7">7</ref> and Qiu et al <ref type="bibr" target="#b6">6</ref> indicated that pre-DM per se did not increase the CVD risk and was associated with it only when combined with other metabolic disorders. In our study, pre-DM was defined by an elevation of fasting plasma glucose, 2-hour glucose, or HbA1c levels. We also did not find an association between pre-DM alone and the severity and outcomes of stable, new-onset CAD, which provide more evidence for the lack of correlation between pre-DM and CVD risk.</p><p>Hypertension is another significant metabolic disease with powerful risk for CVD and is present in up to two-thirds of DM patients. <ref type="bibr" target="#b23">21</ref> It has much in common with DM, such as caused by unhealthy lifestyles associated with insulin resistance and leading to similar complications. <ref type="bibr" target="#b24">22</ref> Similarly, pre-DM also aggregates commonly with other CVD risk factors. <ref type="bibr" target="#b8">8</ref> In this study, the prevalence of hypertension defined according to the JNC-7 criteria in NGR, pre-DM, and DM was 56.7%, 59.9%, and 71.6%, respectively. Meanwhile, when diagnosed by the 2017 ACC/AHA guideline, it was 79.7%, 80.8%, and 88.1% in the 3 groups, respectively. The population with DM had a significantly higher prevalence of hypertension than other 2 groups, while the difference between pre-DM and NGR group was not significant. The relative higher coexistence of DM and hypertension compared with previous studies and the small difference of the prevalence of hypertension between subjects with pre-DM and NGR may both be ascribed to our CAD population, which is different from the general population. Meanwhile, close to 20% patients in our study population had newly diagnosed hypertension according to the 2017 ACC/AHA guideline, which was higher than the 13.7% reported in the guideline. The reason may be that patients with CAD have higher BP than the general population. What's more, it has been well demonstrated that the coexistence of DM and hypertension certainly increased the risk of CVD and other complications, regardless of the country. <ref type="bibr" target="#b24">22</ref> However, studies on whether pre-DM carries any additional CVD risk in patients with hypertension, or acts as an additional CVD risk independently of hypertension are insufficient and rare. Qiu et al 6 demonstrated that pre-DM, only when associated with hypertension, would significantly elevate CVD risk. Zhang et al <ref type="bibr" target="#b11">11</ref> found that there was no difference in the rate of incident CVD among normotensive participants with NGR, IFG, or impaired glucose tolerance, while IFG or impaired glucose tolerance plus prehypertension greatly increased the CVD risk. Up to now, there have been no studies to affirm the effects of hypertension on the association between pre-DM and CVD risk, including coronary severity and clinical outcomes in patients with stable, new-onset CAD. The current analysis indicated that compared with participants with NGR and normal BP, those with pre-DM alone had no significant increase of risk for coronary severity and CVD events, while pre-DM plus hypertension significantly elevated CVD risk. The results not only enhance our understanding of the role of pre-DM in the CAD population but also provide guidance for future prevention and treatment of patients with CAD. In addition, hypertension, as is well established, increased coronary severity significantly either alone or concurrent with pre-DM. Hypertension alone also had a higher HR for CVD events than pre-DM alone, though not reaching a statistical significance. Therefore, among patients with pre-DM and hypertension, clinicians may need to focus more on tight BP control.</p><p>Why does pre-DM combined with hypertension but not pre-DM alone increase the cardiovascular risk? To the best of our knowledge, hypertension damages endothelial function through hemodynamic changes, leading to endothelial dysfunction, <ref type="bibr" target="#b23">21,</ref><ref type="bibr" target="#b25">23,</ref><ref type="bibr" target="#b26">24</ref> increased oxidative stress <ref type="bibr" target="#b26">24</ref> and serum levels of inflammatory factors, such as IL-6 (interleukin-6) and TNFα (tumor necrosis factor-α), and upregulated expression of adhesion molecules, such as ICAM-1 (intercellular adhesion molecule-1) and P-selectin. <ref type="bibr" target="#b25">23</ref> These effects are the key initiator for arteriosclerosis, thrombosis, and their complications. <ref type="bibr" target="#b23">21,</ref><ref type="bibr" target="#b25">23</ref> Besides hypertension, dysglycemia is the second most common risk factor for endothelial dysfunction, oxidative stress, and inflammation. <ref type="bibr" target="#b25">23</ref> Thus, high BP and IGR have similar mechanisms to increase CVD risk, and it seems to be reasonable that pre-DM and hypertension together would have higher risk for CVD than either one alone. Moreover, it has been demonstrated by Huang et al <ref type="bibr" target="#b25">23</ref> that patients with both hypertension and pre-DM showed significantly higher levels of ICAM-1 and TNF-α compared with the subjects with hypertension alone, suggesting that the comorbidity of these diseases may aggravate endothelial dysfunction and inflammation by promoting the expression of ICAM-1 and TNF-α and, thus, increase the CVD risk. In this study, we compared inflammation markers including high-sensitivity C-reactive protein, fibrinogen, and ESR between different categories according to DM status or both DM and hypertension status. It is not surprising that pre-DM combined with hypertension had significantly higher high-sensitivity C-reactive protein, fibrinogen, and ESR than pre-DM alone or hypertension alone (data not shown), which lend support to the above explanation. In short, the coexistence of hypertension and DM or pre-DM may combine to multiply the risk of inciting endothelial damage and then increase the risk for adverse CVD events through multiple mechanisms, which need more studies to further clarify in future.</p><p>As for the strengths, our study is the first studying the impact of hypertension on the association between pre-DM and CVD risk, including coronary severity and clinical outcomes in patients with angiography-proven stable, new-onset CAD. Moreover, our participants were from a homogeneous population and had no intervention during the visit, which would be good enough to reflect human's natural development of disease. Last but not least, considering the recent publication of 2017 ACC/AHA guideline, we added the new definition criterion of hypertension into our analysis.</p><p>However, our study is limited by several facts: first, as inherent to the nature of any observational and prospective study, our findings are subject to confounding factors and also the level of risk factors at baseline examination might change during the follow up. Second, the follow-up time and sample size in this study needed to be longer and larger to examine the prognostic value of pre-DM alone or plus hypertension in the long-term outcomes. Third, this is a study in Chinese patients with established CAD, which may limit the generalizability of our findings. However, it is likely applicable to the many populations in China and around the world because of the high incidence of CAD.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Perspectives</head><p>CVD is still one of the most common chronic diseases worldwide with a high morbidity and mortality. Currently, whether pre-DM is an independent risk factor for CVD and requires intervention is a hot topic. Perhaps, pre-DM alone cannot predict CVD prognosis, and its adverse effect on CVD only exists when combined with hypertension (defined by the JNC-7 or 2017AHA/ACC criteria) or other metabolic problems. For CAD patients with pre-DM and normal BP, pharmacological intervention may not be appropriate, and moderate lifestyle modification and regular monitoring are recommended. Special attention should be paid to CAD population with both pre-DM and hypertension. Besides lifestyle modification, drug treatment for blood glucose and BP control may be indicated for the prevention of CVD events. Although this is a relatively short-term study, longer-term follow-up of this population will lead to better understanding of the effects of pre-DM alone or plus hypertension on CVD outcomes. Moreover, a prospective randomized control trial with a large sample size and long-term follow-up is urgently needed to further confirm our findings.  What Is New?</p><p>• Whether prediabetes mellitus alone or combined with other diseases, such as hypertension, is an independent predictor for cardiovascular risk has not been fully clarified.</p><p>• Moreover, relative studies have still been scarce, especially in patients with established stable coronary artery disease.</p><p>• Our study is the first to explore the impact of hypertension on the association between prediabetes mellitus and cardiovascular risk, including coronary severity and cardiovascular outcomes in patients with angiography-proven stable, new-onset coronary artery disease.</p><p>What Is Relevant?</p><p>• Prediabetes mellitus with or without hypertension showed different effects on coronary severity and cardiovascular outcomes, suggesting that prediabetes mellitus alone might not be an independent risk factor for cardiovascular disease.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Summary</head><p>This study provides strong evidence that among patients with stable, new-onset coronary artery disease, the increased cardiovascular risk with prediabetes mellitus is largely driven by the coexistence of hypertension rather than prediabetes per se. Our results suggest that in patients with coronary artery disease combined with both prediabetes and hypertension, their blood glucose and blood pressure need intensive management.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Novelty and Significance</head><p>Downloaded from http://ahajournals.org by on July 19, 2022</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. Flowchart illustrating study population. ACS indicates acute coronary syndrome; CABG, coronary artery bypass grafting; CAD, coronary artery disease; DM, diabetes mellitus; NGR, normal glucose regulation; and PCI, percutaneous coronary intervention. Downloaded from http://ahajournals.org by on July 19, 2022</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2 .</head><label>2</label><figDesc>Figure 2. Coronary severity according to DM or both DM and HTN status. A, Log-transformed Gensini score according to DM status; B, Coronary lesion vessels according to DM status; C, Log-transformed Gensini score according to DM and HTN status; D, Coronary lesion vessels according to DM and HTN status. DM indicates diabetes mellitus; HTN, hypertension; and NGR, normal glucose regulation. # Reference group; *P&lt;0.01; **P&lt;0.001.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 3 .</head><label>3</label><figDesc>Figure 3. The cumulative event-free survival analysis according to (A) DM status, (B) DM and HTN status, with HTN defined according to the JNC-7 criteria, and (C) DM and HTN status, with HTN defined according to the 2017 ACC/AHA guideline. DM indicates diabetes mellitus; HTN, hypertension; JNC-7, Joint National Committee on Prevention, Detection, Evaluation, and Treatment of High Blood Pressure; and NGR, normal glucose regulation. Downloaded from http://ahajournals.org by on July 19, 2022</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 . Characteristics of the Study Participants According to DM Status at Baseline</head><label>1</label><figDesc>Continuous values are summarized as mean±SD, median (interquartile range) and categorical variables as percentage. ACC/AHA indicates American College of Cardiology/American Heart Association; ACEI, angiotensin-converting enzyme inhibitors; ARB, angiotensin receptor blockers; BMI, body mass index; CCB, calcium channel blockers; DBP, diastolic blood pressure; DM, diabetes mellitus; ESR, erythrocyte sedimentation rate; FPG, fasting plasma glucose; HbA1c, glycosylated hemoglobin; HDL-C, high-density lipoprotein cholesterol; HsCRP, high-sensitivity C-reactive protein; JNC-7, Joint National Committee on Prevention, Detection, Evaluation, and Treatment of High Blood Pressure; LDL-C, low-density lipoprotein cholesterol; Lp(a), lipoprotein(a); LVEF, left ventricular ejection fraction; SBP, systolic blood pressure; TC, total cholesterol; and TG, triglyceride.*Hypertension defined by the JNC-7 criteria. †Hypertension diagnosed according to the 2017 ACC/AHA guideline. Downloaded from http://ahajournals.org by onJuly 19, 2022  </figDesc><table><row><cell></cell><cell></cell><cell cols="2">DM Status</cell><cell></cell><cell></cell></row><row><cell>Variable</cell><cell>Overall (n=4193)</cell><cell>NGR (n=898)</cell><cell>Pre-DM (n=1805)</cell><cell>DM (n=1490)</cell><cell>P Value</cell></row><row><cell>Age, y</cell><cell>57.7±10.0</cell><cell>54.6±10.5</cell><cell>58.2±9.6</cell><cell>58.9±9.7</cell><cell>&lt;0.001</cell></row><row><cell>Male, %</cell><cell>71.8</cell><cell>77.7</cell><cell>70.9</cell><cell>69.3</cell><cell>&lt;0.001</cell></row><row><cell>Hypertension,* %</cell><cell>63.4</cell><cell>56.7</cell><cell>59.9</cell><cell>71.6</cell><cell>&lt;0.001</cell></row><row><cell>Hypertension, † %</cell><cell>83.1</cell><cell>79.7</cell><cell>80.8</cell><cell>88.1</cell><cell>&lt;0.001</cell></row><row><cell>Current smokers, %</cell><cell>42.9</cell><cell>46.8</cell><cell>43.2</cell><cell>40.2</cell><cell>0.008</cell></row><row><cell>BMI, kg/m 2</cell><cell>25.83±3.14</cell><cell>25.41±3.12</cell><cell>25.63±3.12</cell><cell>26.32±3.11</cell><cell>&lt;0.001</cell></row><row><cell>SBP, mm Hg</cell><cell>126.8±17.0</cell><cell>125.2±16.9</cell><cell>126.0±16.9</cell><cell>128.8±17.0</cell><cell>&lt;0.001</cell></row><row><cell>DBP, mm Hg</cell><cell>77.7±10.8</cell><cell>78.1±11.3</cell><cell>77.4±10.7</cell><cell>77.9±10.7</cell><cell>0.218</cell></row><row><cell>LVEF, %</cell><cell>64.7±6.7</cell><cell>64.8±6.6</cell><cell>64.9±6.5</cell><cell>64.3±6.9</cell><cell>0.023</cell></row><row><cell>FPG, mmol/L</cell><cell>5.80±1.72</cell><cell>4.77±0.41</cell><cell>5.21±0.59</cell><cell>7.13±2.23</cell><cell>&lt;0.001</cell></row><row><cell>HbA1c, %</cell><cell>6.34±1.12</cell><cell>5.38±0.22</cell><cell>5.94±0.25</cell><cell>7.39±1.26</cell><cell>&lt;0.001</cell></row><row><cell>TC, mmol/L</cell><cell>4.19±1.15</cell><cell>4.08±1.10</cell><cell>4.26±1.15</cell><cell>4.18±1.16</cell><cell>0.001</cell></row><row><cell>HDL-C, mmol/L</cell><cell>1.06±0.29</cell><cell>1.06±0.31</cell><cell>1.08±0.29</cell><cell>1.02±0.27</cell><cell>&lt;0.001</cell></row><row><cell>LDL-C, mmol/L</cell><cell>2.55±0.99</cell><cell>2.48±1.04</cell><cell>2.60±0.94</cell><cell>2.53±1.03</cell><cell>0.014</cell></row><row><cell>TG, mmol/L</cell><cell>1.51 (1.12-2.13)</cell><cell>1.40 (1.02-1.99)</cell><cell>1.52 (1.12-2.12)</cell><cell>1.58 (1.19-2.25)</cell><cell>&lt;0.001</cell></row><row><cell>Lp(a), mg/L</cell><cell>149.86 (66.67-358.65)</cell><cell>149.15 (68.63-361.37)</cell><cell>163.40 (70.43-384.20)</cell><cell>139.07 (61.60-330.16)</cell><cell>0.007</cell></row><row><cell>Creatinine, μmol/L</cell><cell>76.86±15.66</cell><cell>78.11±15.57</cell><cell>76.52±14.79</cell><cell>76.51±16.67</cell><cell>0.026</cell></row><row><cell>HsCRP, mg/L</cell><cell>1.45 (0.76-2.98)</cell><cell>1.17 (0.65-2.36)</cell><cell>1.44 (0.77-3.01)</cell><cell>1.65 (0.84-3.49)</cell><cell>&lt;0.001</cell></row><row><cell>Fibrinogen, g/L</cell><cell>3.24±0.78</cell><cell>3.06±0.73</cell><cell>3.25±0.77</cell><cell>3.34±0.80</cell><cell>&lt;0.001</cell></row><row><cell>ESR, mm/h</cell><cell>7 (3-14)</cell><cell>6 (2-11)</cell><cell>7 (3-13)</cell><cell>8 (4-16)</cell><cell>&lt;0.001</cell></row><row><cell>Medications</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Aspirin, %</cell><cell>83.7</cell><cell>82.5</cell><cell>84.6</cell><cell>83.1</cell><cell>0.465</cell></row><row><cell>Statins, %</cell><cell>9.7</cell><cell>8.4</cell><cell>10.4</cell><cell>9.7</cell><cell>0.267</cell></row><row><cell>ACEI/ARB, %</cell><cell>22.1</cell><cell>19.1</cell><cell>22.5</cell><cell>23.4</cell><cell>0.155</cell></row><row><cell>β-Blockers, %</cell><cell>45.1</cell><cell>43.4</cell><cell>16.3</cell><cell>44.7</cell><cell>0.514</cell></row><row><cell>CCB, %</cell><cell>19.2</cell><cell>18.9</cell><cell>18.6</cell><cell>20.0</cell><cell>0.710</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 . Cox Regression Models in Predicting Cardiovascular Events According to DM Status at Baseline</head><label>2</label><figDesc>Model 1 adjusted for age and sex; model 2 adjusted for age, sex, current smoking, hypertension, Gensini score, left ventricular ejection fraction, triglyceride, low-density lipoprotein cholesterol, and erythrocyte sedimentation rate; Model 3 adjusted for hypertension defined by the 2017 ACC/AHA criteria and other risk factors in the model 2. ACC/AHA indicates American College of Cardiology/American Heart Association; CI, confidence interval; DM, diabetes mellitus; and NGR, normal glucose regulation.</figDesc><table><row><cell></cell><cell></cell><cell cols="2">Hazards Ratio (95% CI)</cell><cell></cell></row><row><cell>Category (n, Events/Subjects)</cell><cell>Unadjusted Model</cell><cell>Model 1</cell><cell>Model 2</cell><cell>Model 3</cell></row><row><cell>NGR* (70/898)</cell><cell>1.00</cell><cell>1.00</cell><cell>1.00</cell><cell>1.00</cell></row><row><cell>Pre-DM (177/1805)</cell><cell>1.20 (0.91-1.59)</cell><cell>1.15 (0.86-1.52)</cell><cell>1.16 (0.87-1.56)</cell><cell>1.17 (0.87-1.56)</cell></row><row><cell>DM (187/1490)</cell><cell>1.59(1.20-2.01) †</cell><cell>1.49(1.13-1.98) †</cell><cell>1.42(1.06-1.90) ‡</cell><cell>1.43(1.07-1.91) ‡</cell></row><row><cell>*Reference group.</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>†P&lt;0.01.</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>‡P&lt;0.05.</cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3 . Cox Regression Models in Predicting Cardiovascular Events According to Diabetic Status and Hypertension at Baseline</head><label>3</label><figDesc></figDesc><table><row><cell></cell><cell></cell><cell>Hazard Ratio (95% CI)</cell><cell></cell></row><row><cell>Category (n, Events/Subjects)</cell><cell>Unadjusted Model</cell><cell>Model 4</cell><cell>Model 5</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">Downloaded from http://ahajournals.org by onJuly 19, 2022   </note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">Pre-DM, Hypertension, and CAD</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">HypertensionJune 2018</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgments</head><p>We thank the staff of the Cardiac Catheterization Laboratory at Fu Wai Hospital for their assistance in performing the studies. We also thank all the study investigators, staff, and patients.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sources of Funding</head><p>This work was partially supported by the Capital Health Development Fund (201614035) and CAMS Major Collaborative Innovation Project (2016-I2M-1-011) awarded to J.-J. Li.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosures</head><p>None.</p></div>
+			</div>
+
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Model 4 adjusted for age and sex; model 5 adjusted for age, sex, current smoking, Gensini score, left ventricular ejection fraction, triglyceride, low-density lipoprotein cholesterol, and erythrocyte sedimentation rate</title>
+	</analytic>
+	<monogr>
+		<title level="m">DM, diabetes mellitus; HTN, hypertension; JNC-7, Joint National Committee on Prevention, Detection, Evaluation, and Treatment of High Blood Pressure; NGR, normal glucose regulation</title>
+				<imprint/>
+	</monogr>
+	<note>*Reference group. †P&lt;0.05. ‡P&lt;0.01</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Diagnosis and classification of diabetes mellitus</title>
+		<idno type="DOI">10.2337/dc10-S062</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes care</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="S62" to="S69" />
+			<date type="published" when="2011">2011</date>
+			<publisher>American Diabetes Association</publisher>
+		</imprint>
+	</monogr>
+	<note>suppl</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Effect of pre-diabetes on future risk of stroke: meta-analysis</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Saver</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">S</forename><surname>Hong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Song</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">H</forename><surname>Chang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Ovbiagele</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMJ</title>
+		<imprint>
+			<biblScope unit="volume">344</biblScope>
+			<biblScope unit="page">e3564</biblScope>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Secular changes in U.S. Prediabetes prevalence defined by hemoglobin A1c and fasting plasma glucose: National Health and Nutrition Examination Surveys</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Bullard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Saydah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Imperatore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Cowie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">W</forename><surname>Gregg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">S</forename><surname>Geiss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">J</forename><surname>Cheng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Rolka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Caspersen</surname></persName>
+		</author>
+		<idno type="DOI">10.2337/dc12-2563</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="2286" to="2293" />
+			<date type="published" when="1999">1999-2010. 2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Prevalence and ethnic pattern of diabetes and prediabetes in China in 2013</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Gao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Deng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Qin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jin</forename><forename type="middle">D</forename><surname>Zhou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Hu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename></persName>
+		</author>
+		<idno type="DOI">10.1001/jama.2017.7596</idno>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">317</biblScope>
+			<biblScope unit="page" from="2515" to="2523" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">China National Diabetes and Metabolic Disorders Study Group. Prevalence of cardiovascular disease and risk factors in the Chinese population with impaired glucose regulation: the 2007-2008 China National Diabetes and Metabolic Disorders Study</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Xing</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Xiao</surname></persName>
+		</author>
+		<idno type="DOI">10.1055/s-0033-1341520</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Exp Clin Endocrinol Diabetes</title>
+		<imprint>
+			<biblScope unit="volume">121</biblScope>
+			<biblScope unit="page" from="372" to="374" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Effects of prediabetes mellitus alone or plus hypertension on subsequent occurrence of cardiovascular disease and diabetes mellitus: longitudinal study</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Qiu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Shen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Song</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Ju</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Tong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Zheng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Jin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tian</surname></persName>
+		</author>
+		<idno type="DOI">10.1161/HYPERTENSIONAHA.114.04632</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Hypertension</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="page" from="525" to="530" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Ten-year risk of cardiovascular incidence related to diabetes, prediabetes, and the metabolic syndrome</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Grundy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Smith</surname><genName>Jr</genName></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">L</forename><surname>Vega</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Zeng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Zhao</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.ahj.2007.01.003</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Am Heart J</title>
+		<imprint>
+			<biblScope unit="volume">153</biblScope>
+			<biblScope unit="page" from="552" to="558" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Pre-diabetes, metabolic syndrome, and cardiovascular risk</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Grundy</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jacc.2011.08.080</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Coll Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">59</biblScope>
+			<biblScope unit="page" from="635" to="643" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Abnormal glucose regulation and gender-specific risk of fatal coronary artery disease in the HUNT 1 study</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Madssen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Vatten</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">I</forename><surname>Nilsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Midthjell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Wiseth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Dale</surname></persName>
+		</author>
+		<idno type="DOI">10.3109/14017431.2012.664646</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Scand Cardiovasc J</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="219" to="225" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Pre-diabetes and the risk for cardiovascular disease: a systematic review of the evidence</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Ford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Li</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jacc.2009.10.060</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Coll Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="1310" to="1317" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Prehypertension, diabetes, and cardiovascular disease risk in a population-based sample: the Strong Heart Study</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">T</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Devereux</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Yeh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">G</forename><surname>Best</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Fabsitz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">V</forename><surname>Howard</surname></persName>
+		</author>
+		<idno type="DOI">10.1161/01.HYP.0000205119.19804.08</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Hypertension</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="410" to="414" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">V</forename><surname>Chobanian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">L</forename><surname>Bakris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">R</forename><surname>Black</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">C</forename><surname>Cushman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Green</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Izzo</surname><genName>Jr</genName></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Jones</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Materson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Oparil</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Wright</surname><genName>Jr</genName></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Roccella</surname></persName>
+		</author>
+		<title level="m">National Heart, Lung, and Blood Institute Joint National Committee on Prevention, Detection, Evaluation, and Treatment of High Blood Pressure; National High Blood Pressure Education Program Coordinating Committee. The seventh report of the Joint National Committee on Prevention, Detection, Evaluation, and Treatment of High Blood Pressure: the JNC 7 report</title>
+				<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title/>
+		<idno type="DOI">10.1001/jama.289.19.2560</idno>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">289</biblScope>
+			<biblScope unit="page" from="2560" to="2572" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">PCNA guideline for the prevention, detection, evaluation, and management of high blood pressure in adults: a report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">K</forename><surname>Whelton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Carey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">S</forename><surname>Aronow</surname></persName>
+		</author>
+		<idno type="DOI">10.1161/HYP.0000000000000065</idno>
+		<ptr target="ACC/AHA/AAPA/ABC/ACPM/AGS/APhA/ASH/ASPC/NMA/" />
+	</analytic>
+	<monogr>
+		<title level="j">Hypertension</title>
+		<imprint>
+			<biblScope unit="volume">71</biblScope>
+			<biblScope unit="page" from="e13" to="e115" />
+			<date type="published" when="2017">2017. 2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">How should we treat hypertension and dyslipidemia in patients with prediabetes?</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Tsimihodimos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Florentin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Elisaf</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Curr Pharm Des</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="3773" to="3787" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>He</surname></persName>
+		</author>
+		<title level="m">China Noncommunicable Disease Surveillance Group. Prevalence and control of diabetes in Chinese adults</title>
+				<imprint>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title/>
+		<idno type="DOI">10.1001/jama.2013.168118</idno>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">310</biblScope>
+			<biblScope unit="page" from="948" to="959" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Framingham Offspring Study. Fasting and postchallenge glycemia and cardiovascular disease risk: the Framingham Offspring Study</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Meigs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Nathan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D'agostino Rb</forename><surname>Sr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">W</forename><surname>Wilson</surname></persName>
+		</author>
+		<idno type="DOI">10.2337/diacare.25.10.1845</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="1845" to="1850" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Effects of diabetes and level of glycemia on all-cause and cardiovascular mortality. The San Antonio Heart Study</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Wei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Gaskill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Haffner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Stern</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="1167" to="1172" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Impaired fasting plasma glucose and type 2 diabetes are related to the risk of outof-hospital sudden cardiac death and all-cause mortality</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Laukkanen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">H</forename><surname>Mäkikallio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ronkainen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Karppi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kurl</surname></persName>
+		</author>
+		<idno type="DOI">10.2337/dc12-0110</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="1166" to="1171" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Association between prediabetes and risk of cardiovascular disease and all cause mortality: systematic review and meta-analysis</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Cai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Mai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Hu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMJ</title>
+		<imprint>
+			<biblScope unit="volume">355</biblScope>
+			<biblScope unit="page">5953</biblScope>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Fasting blood glucose and the risk of stroke and myocardial infarction</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Sung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">M</forename><surname>Song</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ebrahim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Lawlor</surname></persName>
+		</author>
+		<idno type="DOI">10.1161/CIRCULATIONAHA.108.776989</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">119</biblScope>
+			<biblScope unit="page" from="812" to="819" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Addressing hypertension in the patient with type 2 diabetes mellitus: pathogenesis, goals, and therapeutic approach</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Rizvi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur Med J Diabetes</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="84" to="92" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Hypertension with diabetes mellitus: significance from an epidemiological perspective for Japanese</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Tatsumi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Ohkubo</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/hr.2017.67</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Hypertens Res</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="795" to="806" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Serum markers of endothelial dysfunction and inflammation increase in hypertension with prediabetes mellitus</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Kong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Shan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Huang</surname></persName>
+		</author>
+		<idno type="DOI">10.1089/gtmb.2015.0255</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Genet Test Mol Biomarkers</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="322" to="327" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Endothelial dysfunction in diabetes and hypertension: cross talk in RAS, BMP4, and ROS-dependent COX-2-derived prostanoids</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">T</forename><surname>Wong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><forename type="middle">Y</forename><surname>Tian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Huang</surname></persName>
+		</author>
+		<idno type="DOI">10.1097/FJC.0b013e31827fe46e</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J Cardiovasc Pharmacol</title>
+		<imprint>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="page" from="204" to="214" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

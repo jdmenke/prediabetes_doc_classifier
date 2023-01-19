@@ -1,0 +1,806 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Intensity of Glycemic Control Affects Long-Term Survival After Coronary Artery Bypass Graft Surgery</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><roleName>MD, MSPH</roleName><forename type="first">Michael</forename><forename type="middle">P</forename><surname>Robich</surname></persName>
+							<email>mrobich@mmc.org</email>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Alexander</forename><surname>Iribarne</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MS</roleName><forename type="first">Bruce</forename><forename type="middle">J</forename><surname>Leavitt</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">David</forename><forename type="middle">J</forename><surname>Malenka</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Reed</forename><forename type="middle">D</forename><surname>Quinn</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Elaine</forename><forename type="middle">M</forename><surname>Olmstead</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>BA</roleName><forename type="first">Cathy</forename><forename type="middle">S</forename><surname>Ross</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MS</roleName><forename type="first">Douglas</forename><forename type="middle">B</forename><surname>Sawyer</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>PhD</roleName><forename type="first">John</forename><forename type="middle">D</forename><surname>Klemperer</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Robert</forename><forename type="middle">A</forename><surname>Clough</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Robert</forename><forename type="middle">S</forename><surname>Kramer</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Yvon</forename><forename type="middle">R</forename><surname>Baribeau</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Gerald</forename><forename type="middle">L</forename><surname>Sardella</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Anthony</forename><forename type="middle">W</forename><surname>Discipio</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>Dr</roleName><surname>Robich</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="institution">Maine Medical Center</orgName>
+								<address>
+									<settlement>Portland</settlement>
+									<region>Maine</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="institution">Dartmouth-Hitchcock Medical Center</orgName>
+								<address>
+									<settlement>Lebanon</settlement>
+									<region>New Hampshire</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="department">Eastern Maine Medical Center</orgName>
+								<orgName type="institution">University of Vermont Medical Center</orgName>
+								<address>
+									<settlement>Burlington, Vermont, Bangor, Maine</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<orgName type="department" key="dep1">Catholic Medical School</orgName>
+								<orgName type="department" key="dep2">Department of Surgery</orgName>
+								<orgName type="department" key="dep3">Section of Cardiac Surgery</orgName>
+								<orgName type="institution">New England Heart and Vascular Institute</orgName>
+								<address>
+									<settlement>Manchester</settlement>
+									<region>New Hampshire</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff4">
+								<orgName type="institution">Concord Hospital</orgName>
+								<address>
+									<settlement>Concord</settlement>
+									<region>New Hampshire</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff5">
+								<orgName type="institution">Maine Medical Center</orgName>
+								<address>
+									<addrLine>818 Congress St</addrLine>
+									<postCode>04102</postCode>
+									<settlement>Portland</settlement>
+									<region>ME</region>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Intensity of Glycemic Control Affects Long-Term Survival After Coronary Artery Bypass Graft Surgery</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">6947C00B99127282703050C29D4FE55B</idno>
+					<idno type="DOI">10.1016/j.athoracsur.2018.07.078</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.1" ident="GROBID" when="2022-07-19T22:44+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Background. A patient's hemoglobin (Hb) A 1c level, regardless of diabetic status, is a measure of glycemic control. Studies have found it is an independent predictor of short-term death in patients undergoing coronary artery bypass grafting <ref type="bibr">(CABG)</ref>. In this study, we used preoperative HbA 1c to assess whether levels are associated with short-term and long-term survival after CABG.</p><p>Methods. From a regional registry of consecutive cases, we identified 6,415 patients undergoing on-pump isolated CABG from 2008 to 2015 with documented preoperative HbA 1c level. We defined four HbA 1c groups: less than 5.7% (n [ 1,713), 5.7% to 6.4% (n [ 2,505), 6.5% to 8.0% (n <ref type="bibr" target="#b0">[ 1,</ref><ref type="bibr">377)</ref>, and more than 8% (n [ 820). Relationship to in-hospital outcomes and long-term survival was assessed. Outcome rates and hazard ratios were adjusted for patient and disease risk factors using multivariable logistic regression and Cox models.</p><p>Results. The study included 3,740 patients (58%) not diagnosed as having diabetes and 2,674 with diabetes.</p><p>Prediabetes (HbA 1c 5.7% to 6.4%) was documented in 52% (n [ 1,933) of nondiabetic patients. Higher HbA 1c values were associated with younger age, female sex, greater body mass index, more comorbid diseases, lower ejection fraction, more 3-vessel coronary disease, and recent myocardial infarction (p &lt; 0.05 trend for all). After adjustment for patient risk, greater HbA 1c values were not associated with higher rates of in-hospital death or morbidity. Long-term survival was significantly worse as HbA 1c increased. Risk of death increased by 13% for every unit increase in HbA 1c (adjusted hazard ratio, 1.13; 95% confidence interval, 1.07 to 1.19; p &lt; 0.001).</p><p>Conclusions. Preadmission glycemic control, as assessed by HbA 1c , is predictive of long-term survival, with higher levels associated with poorer prognosis. Whether this risk can be modified by better glycemic control postoperatively remains to be determined.</p><p>(Ann Thorac Surg 2019;107:477-85) Ó 2019 by The Society of Thoracic Surgeons W hen blood glucose levels are elevated, the sugar binds to hemoglobin in a nonenzymatic reaction. The hemoglobin molecule remains glycosylated for the remainder of its lifespan (about 117 days for men and 106 days in women) <ref type="bibr" target="#b0">[1]</ref>. Measurement of hemoglobin glycosylation (HbA 1c ) allows for the estimation of the average blood glucose level for the preceding 3 months <ref type="bibr" target="#b1">[2]</ref>. The glycosylated hemoglobin can lead to a number of detrimental effects in the body. Free radical formation is increased, inflammation increased, and the endothelium is damaged, increasing vessel permeability and decreasing nitric oxide production <ref type="bibr" target="#b2">[3]</ref>. Clinically, elevated HbA 1c is an independent risk factor for development of coronary artery disease and stroke <ref type="bibr" target="#b3">[4,</ref><ref type="bibr" target="#b4">5]</ref>. There is growing Accepted for publication July 23, 2018.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Presented at the Poster Session of the Fifty-fourth Annual Meeting of</head><p>The Society of Thoracic Surgeons, Fort Lauderdale, FL, Jan 27-31, 2018. literature which suggests that the degree of long-term preoperative blood glucose control affects short-term and long-term outcomes of patients undergoing cardiac operations. It has been suggested that increased HbA 1c in patients undergoing cardiac operations may increase complications, including vasoplegia, infection, renal insufficiency/failure, stroke, blood product usage, length of stay, and death <ref type="bibr" target="#b5">[6]</ref><ref type="bibr" target="#b6">[7]</ref><ref type="bibr" target="#b7">[8]</ref>.</p><p>Most studies present small, single-center experiences examining the role of HbA 1c in postoperative outcomes. A 2008 study from Emory compared patients with HbA 1c greater or less than 6.5%. Patients with HbA 1c greater than 6.5% had no in-hospital death difference but did have more respiratory complications and sternal dehiscence <ref type="bibr" target="#b8">[9]</ref>. This was one of the first studies on this topic and provided the groundwork for many others. The results have been mixed, with some studies showing differences in morbidity and death and others showing HbA 1c levels made no difference.</p><p>In this retrospective study, we used preoperative HbA 1c to assess to what extent differing levels were associated with short-term and long-term survival after coronary artery bypass grafting (CABG) using a large multicenter clinical quality database. We hypothesized that shortterm and long-term outcomes would be worse in patients presenting from home for isolated CABG with increased HbA 1c levels.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patients and Methods</head><p>Patients for this study were drawn from the Northern New England Cardiovascular Disease Study Group (NNECDSG) Cardiac Surgery Registry. The NNECDSG is a voluntary regional consortium of physicians, nurses, allied health professionals, hospital administrators, and research scientists from most of the hospitals in northern New England that provide cardiac surgery and percutaneous coronary interventions. Data on consecutive surgical and percutaneous coronary intervention cases are collected from all participating hospitals and analyzed in a retrospective fashion. The data in the registries are validated against billing data from each hospital every 2 years to ensure complete capture of cases and accurate vital status at discharge. Data collected includes patient age and sex, comorbid disease, cardiac anatomy, history and function, acuity at the time of the procedure, intraoperative and postprocedure clinical information, and inhospital outcomes. The Institutional Review Boards at 6 of the 7 hospitals have designated the NNECDSG as quality improvement registry and, for this reason, patient consent is waived. One hospital obtains patient consent.</p><p>For information about patient survival beyond hospital discharge, the NNECDSG data were linked to the National Death Index (through 2001) and the Social Security Administration Master Death File with complete data through the end of 2010. In 2012, the NNECDSG became a certified user of the Social Security Administration data and thus receives monthly updates of death data from the Social Security Administration.</p><p>Because not all Maine, New Hampshire, and Vermont deaths after 2010 are released by the Social Security Death Master File, we contacted the New Hampshire, Vermont, and Maine Departments of Vital Statistics for records of deaths among patients in those states (the vast majority of NNECDSG patients). The "date last known alive" for nondeaths that do not appear in the lists is calculated based on the most current death data for that state.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patients</head><p>Using the NNECDSG Cardiac Surgery Registry, we identified 6,415 patients from 6 hospitals who underwent on-pump, isolated CABG operations from 2008 to 2015. Patients had to have available data for preoperative HbA 1c to be included. We excluded 530 patients with additional surgical procedures, such as ventricular septal defect or atrial septal defect repair, carotid endarterectomy, left ventricular aneurysm repair, surgical treatment for arrhythmias or left ventricular assist device, and 10 patients with HbA 1c values below 4% or above 20%. Current targets at the hospitals are a blood glucose level of less than 150 mg/dL in the intensive care unit (ICU) and then 180 mg/dL on the floor. The NNECDSG collects glucose measures on all patents at different times: on bypass pump, on arrival to the ICU, and then on postoperative days 1 and 2. These measures are reported back to centers. Data from 1 hospital could not be included because of missing data for HbA 1c .</p><p>By definition, HbA 1c was measured before the cardiac operation and before any red blood cell transfusion. Four HbA 1c groups were defined for this analysis: nondiabetic (HbA 1c &lt;5.7%, n ¼ 17,113); pre-diabetic (HbA 1c ¼ 5.7% to 6.4%, n ¼ 2,505); diabetic (HbA 1c ¼ 6.5% to 8.0%, n ¼ 1,377); and uncontrolled diabetic (HbA 1c &gt;8.0%, n ¼ 820; <ref type="bibr">Fig 1)</ref>. The definitions used to categorize acuity at the time of the operation have been previously published <ref type="bibr" target="#b9">[10]</ref>.</p><p>"Elective" priority is defined as: "Medical factors indicate the need for operation but the clinical picture allows discharge from the hospital with readmission at a later date for more elective surgery. Little risk of incurring morbidity or death outside of the hospital with good medical management and restricted physical activities."</p><p>"Urgent" priority is defined as: "Medical factors require patient to stay in hospital to have operation before discharge. The risk of immediate morbidity and death are not present. Examples: threatening pathologic anatomy such as high grade Left Main Coronary Disease, particularly with moderately severe symptoms or history of life threatening arrhythmia related to ischemia. May have intra-aortic balloon pump or intravenous nitroglycerin as part of treatment program. This case might be done in the next available surgical slot but would not necessarily take precedence over an elective case and could possibly wait for several days."</p><p>An "Emergency" case is defined as: "Medical factors relating to the patient's cardiac disease dictate that surgery should be performed within hours to avoid unnecessary morbidity or death. Examples: failed percutaneous coronary intervention with acute coronary insufficiency and/or hemodynamic instability, similar situation in absence of percutaneous coronary intervention. This case should take precedence in time over an elective case, open a new room, or be done at night, if necessary."</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study End Points</head><p>The aim of the study was to better understand the relationship between preoperative HbA 1c levels and in-hospital outcomes and long-term survival after adjusting for other patient risk factors. In-hospital outcomes examined were death, low output failure, stroke, acute kidney injury, return to the operating room for bleeding, and postoperative atrial fibrillation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical Analysis</head><p>Demographic and disease characteristics of patients across the four HbA 1c categories were compared using c 2 tests for categorical variables. Nonparametric tests of trend were used to examine the change in continuous values, such as age and body mass index, as well as in rates of comorbid disease across HbA 1c categories. Crude and adjusted rates of in-hospital outcomes were calculated using logistic regression and direct standardization methods.</p><p>Unadjusted survival curves were generated by the Kaplan-Meier method and compared using a log-rank test. Crude and adjusted hazard ratios (HRs) and 95% confidence intervals (CIs) were calculated using Cox proportional hazard regression models.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Risk Adjustment</head><p>To account for differences in patient case-mix across the HbA 1c categories, adjusted rates of in-hospital adverse outcomes were calculated using a multivariable logistic model and direct standardization methods using deciles of predicted risk. The risk model included age, sex, body mass index, preoperative white blood cell count, prior CABG, vascular disease, chronic obstructive pulmonary disease, preoperative dialysis or creatinine of 2 mg/dL or higher, ejection fraction, left main coronary stenosis, recent (within 7 days) myocardial infarction (MI), and acuity at the time of the operation (refer to the Supplemental Material for further information). A multivariable Cox model with the same covariates was used calculate adjusted HRs and 95% confidence bounds. The NNECDSG has previously published its risk models for in-hospital death, stroke, and mediastinitis among isolated CABG patients <ref type="bibr" target="#b10">[11]</ref>. These models have been accepted by American Heart Association and were included in this report <ref type="bibr" target="#b11">[12]</ref>. The variables used in this analysis come directly from those risk models. All data were analyzed using Stata 14.1 software (StataCorp, College Station, TX).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patient Characteristics</head><p>Among all isolated, on-pump CABG patients from 2008 to mid-2015 at 6 medical centers, 84% had data for preoperative HbA 1c . After exclusions, the resulting study population of 6,415 contained 3,740 patients (58%) who were not diagnosed as diabetic and 2,674 diabetic patients. HbA 1c values were below 6.5% in 95% of the nondiabetic patients and were at 6.5% or higher in 76% of the diabetic patients. According to HbA 1c levels, 52% of the nondiabetic patients would fall into the prediabetic group (5.7% to 6.4%). Higher HbA 1c values were associated with younger age, female sex, greater body mass indexes, higher white blood cell counts, more comorbid disease, lower ejection fractions, more 3-vessel coronary disease, and recent MIs (p trend &lt; 0.05 for all; Table <ref type="table" target="#tab_0">1</ref>)</p><formula xml:id="formula_0">Fig 1.</formula><p>Distribution of glycosylated hemoglobin (HbA 1c ) levels among the patients in the study. The vertical dashed lines denote HbA 1c categories &lt;5.7%, 5.7% to 6.4%, 6.5% to 8%, and &gt;8%.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>In-Hospital Outcomes</head><p>Before adjustment for case mix, higher preoperative HbA 1c values were associated with higher rates of in-hospital death (Fig <ref type="figure" target="#fig_0">2</ref>). As the HbA 1c category increased, death rates went from 1.1% (n ¼ 19) to 1.7% (n ¼ 43) to 2.0% (n ¼ 27) and to 2.1% (n ¼ 17; (p trend ¼ 0.041). Similarly, unadjusted stroke rates increased across the HbA 1c categories from 1.1% (n ¼ 18) in the &lt;5.7% group to 2.1% (n ¼ 17) in the &gt;8.0% group (p trend ¼ 0.028; Table <ref type="table" target="#tab_1">2</ref>). An increased trend in acute kidney injury was also seen, with a rate of 20.1% (n ¼ 331) in the &lt;5.7% group to 29.5% (n ¼ 229) in the &gt;8.0% group (p trend &lt; 0.001). No significant trend was seen for low output failure, return to the operating room for bleeding or for postoperative atrial fibrillation.</p><p>After risk adjustment, there was no significant trend in adverse outcome rates across HbA 1c categories for any of the outcomes except acute kidney injury, where the positive trend with higher HbA 1c was still significant (p trend &lt; 0.001).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Long-Term Survival</head><p>For all patients, mean follow-up time was 2.6 years (range, 0 to 7.7 years). By HbA 1c group, the mean followup times were 2.9, 2.7, 2.4, and 2.3 years, respectively. Higher HbA 1c values were associated with worse After adjustment for patient risk, adjusted (adj) HRs for each category compared with HbA 1c &lt;5.7% were 5.7% to 6.4%: adjHR, 1.15 (95% CI, 0.92 to 1.44; p ¼ 0.229); 6.5% to 8.0%: adjHR, 1.41 (95% CI, 1.10 to 1.81; p ¼ 0.008); and &gt;8.0%: adjHR, 1.87 (95% CI, 1.41 to 2.49; p &lt; 0.001; Table <ref type="table" target="#tab_2">3</ref>). When continuous values of HbA 1c (rather than categorized values) are examined in a multivariable risk-adjusted model, the adjHR for a 1-unit increase in HbA 1c was 13% (adjHR, 1.13; 95% CI, 1.07 to 1.19; p &lt; 0.001). Even when adjusted for differences in risk between the groups, long-term survival decreased as HbA 1c increased.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Comment</head><p>In this multicenter study of HbA 1c levels in more than 6,000 patients undergoing CABG, we demonstrated that the preoperative 3-month glucose control did not affect short-term morbidity and death, but long-term outcomes were worse with higher levels of glycosylated hemoglobin. For each percentage increase in HbA 1c longterm death increased 13%. In this modern series, we stratified HbA 1c by American Diabetes Association categories that correlate with clinically relevant levels of blood glucose control. We hypothesized that patients with increased glycosylated hemoglobin would have worse in-hospital outcomes; however, the data showed that there was no difference. It does appear that perioperative management of patients has improved overall. In our cohort over the same period, in-hospital death was decreased for patients with peripheral vascular disease, renal failure, congestive heart failure, ejection fraction below 0.40, prior CABG, and patients undergoing operations urgently.</p><p>A number of studies have examined the role of HbA 1c in complications after cardiac operations. One of the first was a single-center study of 3,555 patients undergoing  CABG. They examined HbA 1c as a continuous variable and showed that higher levels were associated with increases in in-hospital death and complications. In-hospital death was 1.6% in patients with an HbA 1c exceeding 7% and 0.8% for those patients with HbA 1c below 7% (p ¼ 0.048). For each unit increase in HbA 1c , there was an increase in postoperative MI (odds ratio, 1.55; p ¼ 0.05) and deep sternal wound infection (odds ratio, 1.38; p ¼ 0.014). All patients were treated with an aggressive perioperative insulin regimen. The authors concluded that elevated HbA 1c is an independent risk factor for adverse events after CABG <ref type="bibr" target="#b5">[6]</ref>. This group went on to show that each unit increase in HbA 1c reduces long-term survival (odds ratio, 1.15; p &lt; 0.001) <ref type="bibr" target="#b12">[13]</ref>.</p><p>A recent report by Kuhl and colleagues <ref type="bibr" target="#b13">[14]</ref> used the Swedish National Diabetes Register to assess the longterm outcomes of 6,313 patients with type 2 diabetes. As in our study, they showed that patients with higher HbA 1c levels were more likely to be younger and female compared with patients with lower HbA 1c . With a mean follow-up of 5.5 years, that the risk of death was increased for patients with an HbA 1c of 9.1% to 10% (HR, 1.26; 95% CI, 1.04 to 1.53) and more than 10% (HR, 1.33; 95% CI, 1.05 to 1.69). They also demonstrated an increase in major adverse cardiac events and death as HbA 1c levels climbed. This study mainly examined patients with high HgbA 1c , because the lowest group was those below 7%, thereafter with groups in 1% intervals to those exceeding 10%. As in our study, they did have data on how HbA 1c levels changed postoperatively. Finally, they noted that HbA 1c did not affect the relative risk of death in diabetic patients treated with insulin.</p><p>A 2010 study from Poland looked at how HbA 1c levels affected 2,665 diabetic patients undergoing CABG <ref type="bibr" target="#b6">[7]</ref>. Thirty eight percent of diabetic patients had an HbA 1c exceeding 7% and had an increase in perioperative MI (1.3% vs 4.3%; p ¼ 0.01). There was no difference in stroke, renal failure, wound infection, prolonged ventilation, sepsis, or death. In their study, operations were cancelled in patients with an HbA 1c level exceeding 8%. This strategy may have limited potential complications, although it has not been clearly shown that preoperative lowering of HbA 1c will change postoperative outcomes. Some authors have advocated for this approach <ref type="bibr" target="#b14">[15]</ref>; however, our data suggest this may not be necessary. Even so, the postoperative period presents an opportunity to work with patients to change behavior and provide education that may result in improved long-term outcomes.  A 2015 study by Nystrom and colleagues <ref type="bibr" target="#b15">[16]</ref> examined the outcomes of 764 type 1 diabetic patients undergoing surgical revascularization with a median follow-up of 4.7 years. They showed that increasing levels of HbA 1c resulted in increasing rates of death and major cardiovascular events (MI, heart failure, stroke, or repeat revascularization). Each percentage increase in HbA 1c represented a 1.18-fold increase in long-term complications (95% CI, 1.06 to 1.32; p ¼ 0.002). Indeed, a number of studies have shown that diabetes increases the risk of complications and long-term death <ref type="bibr" target="#b16">[17,</ref><ref type="bibr" target="#b17">18]</ref>. Interestingly, 3% of patients in our study with an HbA 1c &gt;8% did not have a diagnosis of diabetes. We felt that understanding the role of long-term hyperglycemia was more important than the presence or absence of a diabetes diagnosis.</p><p>A "best evidence" review article on the role of HbA 1c in predicting morbidity and death after CABG was published in 2013 <ref type="bibr" target="#b18">[19]</ref>. This review examined 11 studies involving diabetic, nondiabetic, and mixed patient cohorts. Some studies showed increased morbidity and death <ref type="bibr" target="#b6">[7,</ref><ref type="bibr" target="#b7">8,</ref><ref type="bibr" target="#b12">13,</ref><ref type="bibr" target="#b19">20,</ref><ref type="bibr" target="#b20">21]</ref> and others did not <ref type="bibr">[22]</ref><ref type="bibr" target="#b21">[23]</ref><ref type="bibr" target="#b22">[24]</ref>. One report demonstrated that increasing levels of HbA 1c were inversely proportional to postoperative rates of atrial fibrillation <ref type="bibr" target="#b23">[25]</ref>. Our data did not show a similar result. Drawing definitive conclusions can be difficult because there are significant differences among these reports with respect to time period studied, patient populations, length of follow-up, methods of blood glucose control, changes in management based on HbA 1c levels, and postoperative interventions to improve glucose control. The authors concluded that the risk of death is fourfold higher for patients with HbA 1c levels exceeding 8.6% and that patients in this category should have their operation delayed, if possible.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study Limitations</head><p>This is a large retrospective clinical database, and it has all the limitations inherent to a retrospective study. We were only able to use data points collected for the Northern New England database, and there may be factors that we did not account for that may affect outcomes. For this study, we only examined isolated CABG patients, and these results may not be applicable to patients undergoing other cardiac operations.</p><p>From a clinical perspective, there was no follow-up of blood glucose control after discharge from the hospital. As part of clinical practice, each hospital calls for an endocrine consult on all patients with newly diagnosed diabetes. For patients with high HbA 1c a diabetic nurse educator is asked to meet with the patients. A note is also sent to the patient's provider, detailing the diagnosis and treatment. However, the clinical effect of these interventions on postoperative glucose control is not known. It is certainly possible that a patient could make significant lifestyle changes in the wake of a major heart operation. However, this study does represent the largest on the effect of preoperative HbA 1c in patients undergoing CABG in a real-world multicenter setting.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>In patients undergoing isolated CABG, the degree of preoperative glycemic control, based on HbA 1c , is not a risk factor for in-hospital death. However, poor glycemic control is a risk factor for long-term death. This offers an opportunity for improvement by education and ensuring appropriate postoperative follow-up.</p><p>Funding was provided by The Northern New England Cardiovascular Disease Study Group (NNECDSG).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>INVITED COMMENTARY</head><p>Sugar consumption and elevated blood glucose concentrations have become an obsession in this country with the rise of high glucose-containing soft drinks and foods. The nation is awash with increasing diabetes mellitus, obesity, and the knowledge that HbgA1c remains a marker of long-term poor health outcomes.</p><p>The article in this issue of The Annals of Thoracic Surgery by Robich and colleagues <ref type="bibr" target="#b0">[1]</ref>, a retrospective review of the effects of intensity of outpatient glycemic control in the 3 months preceding surgery on long-term outcomes, is from a regional registry of 6,415 consecutive patients undergoing on-pump coronary artery bypass grafting (CABG) during the years 2008 to 2015. This cohort of patients was subdivided into four HbA1c groups: less than 5.7 (n ¼ 1,713), 5.7 to 6.4 (n ¼ 2,505), 6.5 to 8.0 (n ¼ 1,377), and greater than 8 (n ¼ 820). These groups were then compared with regard to in-hospital outcomes and long-term survival. Outcome rates and hazard ratios (HR) were adjusted using multivariable logistic regression and Cox models. On the basis of the compared groups, although before risk adjustment, multiple comorbidities seemed to be significant after adjustment for patients' risk, and greater HbA1c values were not associated with higher rates of adverse in-hospital outcomes, including death, low output heart failure, stroke, return to the operating room for bleeding, or postoperative atrial fibrillation.</p><p>Long-term survival was significantly worse as HbA1c increased. Compared with patients with a normal HgbA1c (&lt;5.7), the adjusted HR (adj HR) was increased for each higher level: 5.7 to 6.4, adj HR, 1.15 (95% confidence interval [CI], 0.92 to 1.44, p ¼ 0.229); 6.5 to 8.0, adj HR, 1.41 (95% CI, 1.10 to 1.81, p ¼ 0.008); greater than 8.0, adj HR, 1.87 (95% CI, 1.41 to 2.49, p &lt; 0.001). Risk of death increased by 13% for every unit increase in HbA1c (adj HR, 1.13; 95% CI, 1.07 to 1.19, p &lt; 0.001).</p><p>Robich and colleagues <ref type="bibr" target="#b0">[1]</ref> concluded that preoperative 3-month glucose control did not affect short-term death and morbidity, but for each percentage increase in HbA1c there was a 13% increase in long-term death. Furthermore, they found that protocol-driven perioperative management of patients has improved overall because over the same period of time, in-hospital death decreased for patients with peripheral vascular disease, renal failure, congestive heart failure, ejection fraction less than 40%, and previous CABG, as well as patients having urgent operations.</p><p>The study has tried to put in perspective the influence of varying levels of HgA1c and its effect on and significance in long-term death. Unfortunately, because of the study's retrospective nature and the relatively scant follow-up data on out of hospital glucose management in any group, the study does not have enough granularity to provide an understanding of the importance of glucose control either in the hospital or outside.</p><p>Robich and colleagues <ref type="bibr" target="#b0">[1]</ref> have, however, provided the reader with another surrogate marker for risk in patients who are undergoing CABG. It is clear that high HgbA1c levels remain a marker of total body disease, which, depending on the level and duration of poor management, can and will influence long-term CABG outcome. The article does not give us specific information about improved management protocols or, importantly, new insight into the effects of decreasing HgbA1c levels long term. The study alerts us all to the importance of continued monitoring and care of the high-risk outpatient after CABG. Perhaps the use of HbgA1c levels to intensify patients and primary care providers' management protocols and surveillance could minimize readmissions, as well as long-term adverse events secondary to continued high glucose levels and their destructive effects on the body. In the end, the message that high HbgA1c levels long term</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig 2 .</head><label>2</label><figDesc>Fig 2. Unadjusted in-hospital death by glycosylated hemoglobin (HbA 1c ) categories.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig 3 .</head><label>3</label><figDesc>Fig 3. Unadjusted survival by glycosylated hemoglobin (HbA 1c ) categories.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 .</head><label>1</label><figDesc>Baseline Patient and Disease Characteristics</figDesc><table><row><cell>Variable</cell></row></table><note>a p value for c 2 test or test of trend.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 .</head><label>2</label><figDesc>In-Hospital Adjusted Outcomes a</figDesc><table><row><cell>Outcome</cell><cell>Total No.</cell><cell cols="2">HbA 1c ADA Categories</cell><cell></cell><cell>p for Trend</cell></row><row><cell></cell><cell>&lt;5.7%</cell><cell>5.7%-6.4%</cell><cell>6.5%-8.0%</cell><cell>&gt;8.0%</cell><cell></cell></row><row><cell>Number of procedures</cell><cell>1,713</cell><cell>2,505</cell><cell>1,377</cell><cell>820</cell><cell>.</cell></row><row><cell>In-hospital death, %</cell><cell>106</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Crude</cell><cell>1.1</cell><cell>1.7</cell><cell>2.0</cell><cell>2.1</cell><cell>0.041</cell></row><row><cell>Adjusted</cell><cell>1.7</cell><cell>1.6</cell><cell>1.6</cell><cell>1.7</cell><cell>0.208</cell></row><row><cell>Low output failure, %</cell><cell>326</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Crude</cell><cell>5.5</cell><cell>5.7</cell><cell>5.4</cell><cell>6.0</cell><cell>0.790</cell></row><row><cell>Adjusted</cell><cell>5.7</cell><cell>5.6</cell><cell>5.5</cell><cell>5.8</cell><cell>0.216</cell></row><row><cell>Stroke, %</cell><cell>85</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Crude</cell><cell>1.1</cell><cell>1.2</cell><cell>1.5</cell><cell>2.1</cell><cell>0.028</cell></row><row><cell>Adjusted</cell><cell>1.3</cell><cell>1.3</cell><cell>1.3</cell><cell>1.3</cell><cell>0.959</cell></row><row><cell>Acute kidney injury, %</cell><cell>1,510</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Crude</cell><cell>20.1</cell><cell>22.5</cell><cell>31.6</cell><cell>29.5</cell><cell>&lt;0.001</cell></row><row><cell>Adjusted</cell><cell>26.3</cell><cell>24.5</cell><cell>24.4</cell><cell>26.1</cell><cell>&lt;0.001</cell></row><row><cell>Return to operating room for bleeding, %</cell><cell>116</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Crude</cell><cell>1.5</cell><cell>2.3</cell><cell>1.6</cell><cell>1.3</cell><cell>0.591</cell></row><row><cell>Adjusted</cell><cell>1.9</cell><cell>1.7</cell><cell>1.8</cell><cell>1.5</cell><cell>0.717</cell></row><row><cell>Postoperative atrial fibrillation, %</cell><cell>1,532</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Crude</cell><cell>23.8</cell><cell>24.5</cell><cell>25.9</cell><cell>20.4</cell><cell>0.359</cell></row><row><cell>Adjusted</cell><cell>25.4</cell><cell>22.4</cell><cell>26.1</cell><cell>23.0</cell><cell>0.239</cell></row></table><note>a Adjusted for age, sex, body mass index, preoperative white blood cell count, vascular disease, renal failure/insufficiency, chronic obstructive pulmonary disease, prior coronary artery bypass grafting, ejection fraction, left main stenosis, three vessel disease, recent myocardial infarction, priority at operation. ADA ¼ American Diabetes Association; HbA 1c ¼ glycosylated hemoglobin; No. ¼ number.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3 .</head><label>3</label><figDesc>Crude and Adjusted Hazard Ratios</figDesc><table><row><cell></cell><cell></cell><cell>Hazard Ratio</cell><cell></cell><cell></cell></row><row><cell>HbA 1c Categories</cell><cell>Crude (95% CI)</cell><cell>p Value</cell><cell>Adjusted (95% CI)</cell><cell>p Value</cell></row><row><cell>HbA 1c &lt;5.7%</cell><cell>Reference</cell><cell></cell><cell>Reference</cell><cell></cell></row><row><cell>HbA 1c 5.7%-6.4%</cell><cell>1.31 (1.05-1.64)</cell><cell>.015</cell><cell>1.15 (0.92-1.44)</cell><cell>0.229</cell></row><row><cell>HbA 1c 6.5%-8.0%</cell><cell>1.60 (1.25-2.04)</cell><cell>&lt;0.001</cell><cell>1.41 (1.10, 1.81)</cell><cell>0.008</cell></row><row><cell>HbA 1c &gt;8.0%</cell><cell>1.88 (1.43-2.50)</cell><cell>&lt;0.001</cell><cell>1.87 (1.40, 2.49)</cell><cell>&lt;0.001</cell></row></table><note>ADA ¼ American Diabetes Association; CI ¼ confidence interval; HbA 1c ¼ glycosylated hemoglobin.</note></figure>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Drugs affecting HbA1c levels</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Unnikrishnan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Anjana</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Mohan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Indian J Endocrinol Metab</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="528" to="531" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Correlation of glucose regulation and hemoglobin AIc in diabetes mellitus</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Koenig</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Peterson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Jones</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Saudek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Lehrman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Cerami</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">295</biblScope>
+			<biblScope unit="page" from="417" to="420" />
+			<date type="published" when="1976">1976</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Glycated hemoglobin and its spinoffs: cardiovascular disease markers or risk factors?</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Saleh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">World J Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="449" to="453" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Type 2 diabetes and cardiovascular disease: have all risk factors the same strength</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Martin-Timon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Sevillano-Collantes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Segura-Galindo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Del</forename><surname>Canizo-Gomez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">J</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">World J Diabetes</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="444" to="470" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Glycated hemoglobin, diabetes, and cardiovascular risk in nondiabetic adults</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Selvin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">W</forename><surname>Steffes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Zhu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">362</biblScope>
+			<biblScope unit="page" from="800" to="811" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Elevated preoperative hemoglobin A1c level is predictive of adverse events after coronary artery bypass surgery</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Halkos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Puskas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">M</forename><surname>Lattouf</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Thorac Cardiovasc Surg</title>
+		<imprint>
+			<biblScope unit="volume">136</biblScope>
+			<biblScope unit="page" from="631" to="640" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Prevalence and clinical significance of elevated preoperative glycosylated hemoglobin in diabetic patients scheduled for coronary artery surgery</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Knapik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Ciesla</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Filipiak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Knapik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Zembala</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Cardiothorac Surg</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page" from="484" to="489" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">The association of preoperative glycemic control, intraoperative insulin sensitivity, and outcomes after cardiac surgery</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Sato</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Carvalho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Sato</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Lattermann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Matsukawa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Schricker</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Endocrinol Metab</title>
+		<imprint>
+			<biblScope unit="volume">95</biblScope>
+			<biblScope unit="page" from="4338" to="4344" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Preoperative glycosylated hemoglobin: a risk factor for patients undergoing coronary artery bypass</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Narayan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">N</forename><surname>Kshirsagar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">K</forename><surname>Mandal</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Thorac Surg</title>
+		<imprint>
+			<biblScope unit="volume">104</biblScope>
+			<biblScope unit="page" from="606" to="612" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">A regional prospective study of in-hospital mortality associated with coronary artery bypass grafting. The Northern New England Cardiovascular Disease Study Group</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">T</forename><surname>O'connor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Plume</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Olmstead</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">266</biblScope>
+			<biblScope unit="page" from="803" to="809" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Multivariate prediction of in-hospital mortality associated with coronary artery bypass graft surgery. Northern New England Cardiovascular Disease Study Group</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">T</forename><surname>O'connor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Plume</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Olmstead</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">85</biblScope>
+			<biblScope unit="page" from="2110" to="2118" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Prediction of survival after coronary revascularization: modeling shortterm, mid-term, and long-term survival</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Mackenzie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Malenka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Olmstead</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Thorac Surg</title>
+		<imprint>
+			<biblScope unit="volume">87</biblScope>
+			<biblScope unit="page" from="463" to="472" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Elevated preoperative hemoglobin A1c level is associated with reduced long-term survival after coronary artery bypass surgery</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Halkos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">M</forename><surname>Lattouf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Puskas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Thorac Surg</title>
+		<imprint>
+			<biblScope unit="volume">86</biblScope>
+			<biblScope unit="page" from="1431" to="1437" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Relationship between preoperative hemoglobin A1c levels and long-term mortality after coronary artery bypass grafting in patients with type 2 diabetes mellitus</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kuhl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Sartipy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Eliasson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Nystrom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Holzmann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">202</biblScope>
+			<biblScope unit="page" from="291" to="296" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Towards evidence-based medicine in cardiothoracic surgery: best BETS</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Dunning</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Prendergast</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mackway-Jones</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Interact CardioVasc Thorac Surg</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="405" to="409" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Glycemic control in type 1 diabetes and long-term risk of cardiovascular events or death after coronary artery bypass grafting</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Nystrom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Holzmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Eliasson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kuhl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Sartipy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Coll Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">66</biblScope>
+			<biblScope unit="page" from="535" to="543" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Diabetes mellitus increases short-term mortality and morbidity in patients undergoing coronary artery bypass graft surgery</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Carson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Scholz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">Y</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">D</forename><surname>Peterson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Gold</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Schneider</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Coll Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="418" to="423" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Effect of risk-adjusted diabetes on mortality and morbidity after coronary artery bypass surgery</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Kubal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Srinivasan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>Grayson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">M</forename><surname>Fabri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Chalmers</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Thorac Surg</title>
+		<imprint>
+			<biblScope unit="volume">79</biblScope>
+			<biblScope unit="page" from="1570" to="1576" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Is there a role for HbA1c in predicting mortality and morbidity outcomes after coronary artery bypass graft surgery?</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Tennyson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Attia</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Interact CardioVasc Thorac Surg</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="1000" to="1008" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Elevated glycosylated haemoglobin (HbA1c) is a risk marker in coronary artery bypass surgery</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Alserius</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Hammar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Nordqvist</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Ivert</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Scand Cardiovasc J</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="392" to="398" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Is elevated HbA1c a risk factor for infection after coronary artery bypass grafting surgery</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Hudson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">J</forename><surname>Welsby</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Phillips-Bute</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Turk J Thorac Cardiovasc Surg</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="page" from="252" to="258" />
+			<date type="published" when="2010">2010. 2010</date>
+		</imprint>
+	</monogr>
+	<note>Can J Anaesth</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Off-pump coronary artery bypass grafting for poorly controlled diabetic patients</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Matsuura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Imamaki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ishida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Shimura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Niitsuma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Miyazaki</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Thorac Cardiovasc Surg</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="18" to="22" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Effect of preoperative hemoglobin A1c levels on long-term outcomes for diabetic patients after off-pump coronary artery bypass grafting</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Tsuruta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Miyauchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Yamamoto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="page" from="181" to="186" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Preoperative hemoglobin A1c predicts atrial fibrillation after off-pump coronary bypass surgery</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Kinoshita</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Asai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Suzuki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kambara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Matsubayashi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Cardiothorac Surg</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="102" to="107" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,769 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Glycated Hemoglobin Predicts All-Cause, Cardiovascular, and Cancer Mortality in People Without a History of Diabetes Undergoing Coronary Angiography</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><roleName>MD</roleName><forename type="first">Guenther</forename><surname>Silbernagel</surname></persName>
+							<email>guenther.silbernagel@med.uni-tuebingen.de.</email>
+							<affiliation key="aff0">
+								<orgName type="laboratory">Ludwigshafen Risk and Cardiovascular Study non-profit LLC</orgName>
+								<address>
+									<settlement>Freiburg</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Division of Endocrinology</orgName>
+								<orgName type="department" key="dep2">Vascular Disease, and Clinical Chemistry</orgName>
+								<orgName type="department" key="dep3">Department of In-ternal Medicine</orgName>
+								<orgName type="institution">Eberhard-Karls-University Tübingen</orgName>
+								<address>
+									<settlement>Diabetology, Tübingen</settlement>
+									<region>Nephrology</region>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Tanja</forename><forename type="middle">B</forename><surname>Grammer</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department" key="dep1">Institute of Public Health, Social and Preventive Medicine</orgName>
+								<orgName type="department" key="dep2">Mannheim Medical Faculty</orgName>
+								<orgName type="institution">University of Heidelberg</orgName>
+								<address>
+									<settlement>Mannheim</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Bernhard</forename><forename type="middle">R</forename><surname>Winkelmann</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="institution">Cardiology Group Frankfurt-Sachsenhausen</orgName>
+								<address>
+									<settlement>Frankfurt</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Bernhard</forename><forename type="middle">O</forename><surname>Boehm</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department" key="dep1">Division of Endocri-nology</orgName>
+								<orgName type="department" key="dep2">Department of Internal Medicine</orgName>
+								<orgName type="institution">Ulm University</orgName>
+								<address>
+									<settlement>Ulm</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Winfried</forename><surname>März</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department" key="dep1">Institute of Public Health, Social and Preventive Medicine</orgName>
+								<orgName type="department" key="dep2">Mannheim Medical Faculty</orgName>
+								<orgName type="institution">University of Heidelberg</orgName>
+								<address>
+									<settlement>Mannheim</settlement>
+								</address>
+							</affiliation>
+							<affiliation key="aff5">
+								<orgName type="department">Clinical Institute of Medical and Chemical Laboratory Diagnostics</orgName>
+								<orgName type="institution">Medical University of Graz</orgName>
+								<address>
+									<settlement>Graz</settlement>
+									<country key="AT">Austria</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff6">
+								<orgName type="department">Synlab Center of Laboratory Diagnostics Heidelberg</orgName>
+								<address>
+									<settlement>Heidelberg</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Glycated Hemoglobin Predicts All-Cause, Cardiovascular, and Cancer Mortality in People Without a History of Diabetes Undergoing Coronary Angiography</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">898660187FAAA4F74CB33D97B844D24D</idno>
+					<idno type="DOI">10.2337/dc10-2010</idno>
+					<note type="submission">Received 27 October 2010 and accepted 9 March 2011.</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.1" ident="GROBID" when="2022-07-19T22:44+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>OBJECTIVE-Glycated hemoglobin has been suggested to be superior to fasting glucose for the prediction of vascular disease and death from any cause. The aim of the present work was to analyze and compare the predictive value of glycated hemoglobin and fasting glucose on all-cause and cause-specific mortality in subjects who underwent coronary angiography.</p><p>RESEARCH DESIGN AND METHODS-We studied 2,686 participants of the Ludwigshafen Risk and Cardiovascular health study without a history of diabetes. The majority of this cohort had coronary artery disease. Glycated hemoglobin was measured at the baseline examination. The mean (6 SD) duration of the follow-up for all-cause, cardiovascular, and cancer mortality was 7.54 6 2.1 years.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>RESULTS-A total of 508 deaths occurred during the follow-up. Of those, 299 were accounted for by cardiovascular diseases and 79 by cancer. Baseline glycated hemoglobin was predictive of all-cause, cardiovascular, and cancer mortality. The multivariable-adjusted hazard ratios (HR) (95% CI) for glycated hemoglobin values of ,5.0, 5.0-5.4, 5.5-5.9, 6.0-6.4, 6.5-7.4, and $7.5% for all-cause mortality were 1.36 (0.85-2.18), 1.00 (0.76-1.32), 1.00 (reference), 1.11 (0.88-1.41), 1.39 (1.07-1.82), and 2.15 <ref type="bibr">(1.32-3.53)</ref>, respectively. Similar J-shaped relationships were found between glycated hemoglobin and cardiovascular and cancer mortality. The associations of glycated hemoglobin with all-cause and cardiovascular mortality remained significant after inclusion of fasting glucose as a covariate. However, fasting glucose was not significantly related to mortality when adjusting for glycated hemoglobin.</p><p>CONCLUSIONS-Glycated hemoglobin significantly and independently of fasting glucose predicts all-cause and cardiovascular mortality in whites at intermediate to high cardiovascular risk.</p><p>Diabetes Care 34:1355-1361, 2011 T he glycated hemoglobin concentration is a measure of the 2-3-month average endogenous exposure to glucose. It has low intraindividual variability and can be determined in the nonfasting state <ref type="bibr" target="#b0">(1)</ref>. Therefore, glycated hemoglobin is used for the estimation of glucose control in subjects with known diabetes <ref type="bibr" target="#b1">(2,</ref><ref type="bibr" target="#b2">3)</ref>. Recently, glycated hemoglobin has also been included in the diagnosis algorithm of diabetes because it indicates the risk of microvascular disease (4).</p><p>Selvin et al. <ref type="bibr" target="#b4">(5)</ref> demonstrated in participants of the Atherosclerosis Risk In Communities study who did not have a history of diabetes that glycated hemoglobin was also a strong predictor of future diabetes, cardiovascular disease, and allcause mortality. In this community-based cohort of middle-aged white and black subjects, the predictive value of glycated hemoglobin was superior to the prognostic information of fasting glucose <ref type="bibr" target="#b4">(5)</ref>. It was of particular interest that they found a J-shaped association between glycated hemoglobin and death from any cause <ref type="bibr" target="#b4">(5)</ref>. Compelling explanations for this observation have not been provided. Thus, the authors suggested further exploration of health risks associated with low-normal glycemia and of confounders affecting glycated hemoglobin values.</p><p>This work aimed to investigate and compare the predictive values of glycated hemoglobin and fasting glucose on allcause and cardiovascular mortality in whites who underwent coronary angiography. Another objective was to analyze the relationship of glycated hemoglobin with death from cancer. Furthermore, we were interested in metabolic traits and comorbidity associated with low-normal glycemic state that might implicate increased risk of mortality. We studied participants of the Ludwigshafen Risk and Cardiovascular (LURIC) health study without a history of diabetes <ref type="bibr" target="#b5">(6)</ref>. The majority of this cohort had coronary artery disease (CAD) <ref type="bibr" target="#b5">(6)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESEARCH DESIGN AND METHODS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study design and participants</head><p>LURIC was designed to investigate metabolic and genetic cardiovascular risk factors. A total of 3,316 patients were recruited between July 1997 and January 2000 at the Ludwigshafen Heart Center in South-West Germany <ref type="bibr" target="#b5">(6)</ref>. Inclusion criteria were as follows: German ancestry; clinical stability, with the exception of acute coronary syndromes; and the availability of a coronary angiogram. The indications for angiography in individuals in clinically stable condition were chest pain and/or noninvasive test results consistent with myocardial ischemia. Individuals suffering from any acute illness other than acute coronary syndromes, chronic noncardiac diseases, or malignancy within the past 5 years and those unable to understand the purpose of the study were excluded. Subjects with a history of type 1 or type 2 diabetes and subjects with incomplete laboratory measurements were additionally excluded, resulting in 2,686 subjects for the present analyses. The cause of death was not known in 15 decedents, and these subjects were excluded when the associations of glycated hemoglobin with cardiovascular mortality and cancer mortality were investigated. The study was approved by the ethics committee at the Ärztekammer Rheinland-Pfalz and was conducted in accordance with the Declaration of Helsinki. Informed written consent was obtained from all participants <ref type="bibr" target="#b5">(6)</ref>. CAD was diagnosed if the coronary angiograms showed stenoses of one or more vessels $50%. The severity of CAD was quantified with the Friesinger score (FS) <ref type="bibr" target="#b6">(7)</ref>. Maximal luminal narrowing was estimated by visual analysis <ref type="bibr" target="#b5">(6)</ref>. Oral glucose tolerance tests (OGTT) were performed in 1,772 subjects with fasting glucose ,126 mg/dL. Diabetes was diagnosed according to the 2009 criteria of the American Diabetes Association (ADA) <ref type="bibr" target="#b7">(8)</ref>. Hypertension was diagnosed if the systolic and/or diastolic blood pressure exceeded 140 and/or 90 mmHg or if there was a history of hypertension, evident through the use of antihypertensive drugs <ref type="bibr" target="#b5">(6)</ref>. We used the Charlson comorbidity index, which has been shown to be a valid and reliable instrument to assess comorbidity, to form three groups of patients with 0 score points (group 0), 1 score point (group 1), and 2 or more score points (group 2) <ref type="bibr" target="#b8">(9)</ref>. The study participants were asked to selfassess the degree of their physical activity on a semiquantitative scale ranging from 1 to 11, whereby the extremes of this scale were labeled as sedentary (avoid walking or exertion) or regular heavy exercise. They were grouped according to the following three categories of physical activity: below average (score, 1-3), average (score, 4-7), and above average (score, 8-11).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Follow-up</head><p>There was a follow-up for all-cause, cardiovascular, and cancer mortality. The mean (6 SD) time of the follow-up was 7.54 6 2.1 years. Information on the vital status was obtained from local person registries. Death certificates were used for the classification of the causes of death. Two experienced clinicians who were blinded to any data of the study participants independently classified the causes of death. In cases of a disagreement or uncertainty concerning the coding of a specific cause of death, classification was made by a principal investigator of the LURIC study (W.M.) <ref type="bibr" target="#b5">(6)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Laboratory analyses</head><p>The standard laboratory methods have been described <ref type="bibr" target="#b5">(6)</ref>. Glycated hemoglobin was measured with an immunoassay (hemoglobin A 1c UNIMATE 5; Hoffmann-LaRoche, Grenzach-Whylen, Germany). Glucose was measured enzymatically on a Hitachi 717 analyzer (Roche, Mannheim, Germany). Insulin was analyzed with an immunoenzymometric assay on an AIA pack IRI/AIA 1200 analyzer (Eurogenetics, Eschborn, Germany).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analysis</head><p>We formed six categories of glycated hemoglobin (,5, 5-5.4, 5.5-5.9, 6.0-6.4, 6.5-7.4, and $7.5%). The baseline clinical and biochemical characteristics are presented according to the categories of glycated hemoglobin. In the case of continuous variables, we report means with standard deviations or medians with interquartile ranges. Categorical data are expressed as numbers and percentages. Comparisons among the glycated hemoglobin categories were made with the x 2 -test for categorical data and with ANOVA for continuous data. The association of glycated hemoglobin with newly diagnosed type 2 diabetes was also analyzed with logistic regression using three predefined models of adjustment (model 1: unadjusted; model 2: adjusted for sex and age; and model 3: adjusted for sex, age, and BMI). The results for these analyses are presented as odds ratios with 95% CI. We additionally analyzed the associations of glycated hemoglobin with fasting glucose with linear regression. Triglycerides, insulin, and C-reactive protein (Shapiro-Wilk W test) were transformed logarithmically before being used in parametric statistical procedures. Cox proportional hazards models were used to test the relationships of the glycated hemoglobin categories with all-cause, cardiovascular, and cancer mortality. Four predefined models of adjustment were used (model 1: unadjusted; model 2: adjusted for sex and age; model 3: adjusted for sex, age, BMI, hypertension, smoking, glomerular filtration rate, triglycerides, LDL cholesterol, HDL cholesterol, and FS; and model 4: model 3 with additional adjustment for fasting glucose). Glycated hemoglobin category 5.5-5.9% was used as reference because this subgroup was the largest. The results for these analyses are presented as hazard ratios (HR) with 95% CI. We also analyzed the relationships of fasting glucose categories (,100, 100-125, and $126 mg/dL) with mortality data using Cox proportional hazards models. Again, four predefined models of adjustment were used (model 1-3: as mentioned above; model 4: model 3 with additional adjustment for glycated hemoglobin), and the results are presented as HR with 95% CI. In addition, adjusted survival curves based on Cox proportional hazards models (model 3) were calculated for the relationships of the glycated hemoglobin and fasting glucose categories with all-cause and cardiovascular mortality. All statistical tests were two-sided, and P , 0.05 was considered significant. The SPSS 15.0 statistical package (SPSS, Inc., Chicago, IL) was used.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Baseline characteristics according to categories of glycated hemoglobin</head><p>The distribution of sex was similar among the five categories of glycated hemoglobin (Table <ref type="table" target="#tab_0">1</ref>). Age, BMI, waist circumference, fasting glucose and insulin, triglycerides, and C-reactive protein increased across the categories of glycated hemoglobin (Table <ref type="table" target="#tab_0">1</ref>). In agreement, glycated hemoglobin used as a continuous variable was significantly correlated with fasting glucose (r = 0.470; P , 0.001; Supplementary Fig. <ref type="figure">1</ref>). Glomerular filtration rate and HDL cholesterol were inversely related to the categories of glycated hemoglobin (Table <ref type="table" target="#tab_0">1</ref>). Hypertension was more frequent in subjects with high glycated hemoglobin (Table <ref type="table" target="#tab_0">1</ref>). Type 2 diabetes was newly diagnosed in 468 (17.4%) of the 2,686 LURIC participants without a history of diabetes based on fasting glucose and OGTT. There was a strong association of elevated glycated hemoglobin with increased risk of new onset type 2 diabetes. This relationship was independent of sex, age, and BMI (Table <ref type="table" target="#tab_0">1</ref> and Supplementary Table <ref type="table" target="#tab_0">1</ref>). The proportion of subjects with CAD (stenoses of one or more vessels $50%) was higher than 60% for all glycated hemoglobin categories. Prevalent CAD (stenoses of one or more vessels $50%) was not significantly related to the categories of glycated hemoglobin. However, the FS as a more precise measure of CAD was significantly increased in subjects with high glycated hemoglobin (Table <ref type="table" target="#tab_0">1</ref>). The Charlson comorbidity index was positively correlated with the glycated hemoglobin categories (Table <ref type="table" target="#tab_0">1</ref>). The proportion of subjects with physical activity below average was increased in subjects with high glycated hemoglobin (Table <ref type="table" target="#tab_0">1</ref>). The use of statins, ACE inhibitors, and diuretics was more frequent in subjects with high glycated hemoglobin (Table <ref type="table" target="#tab_0">1</ref>). This association remained significant after multivariate adjustment (Table <ref type="table" target="#tab_2">2</ref> and Fig. <ref type="figure">1</ref>).</p><p>Even inclusion of fasting glucose as a covariate did not affect the significance of the results (Table <ref type="table" target="#tab_2">2</ref>). We observed a trend for a J-shaped relationship between the glycated hemoglobin categories and death from any cause (Table <ref type="table" target="#tab_2">2</ref>). Fasting glucose categories were also significantly related to all-cause mortality in multivariate models (Table <ref type="table" target="#tab_3">3</ref> and Supplementary Fig. <ref type="figure">2</ref>). However, significance was lost when we additionally adjusted for glycated hemoglobin (Table <ref type="table" target="#tab_3">3</ref>). Cardiovascular mortality. A total of 11 (9.8%), 50 (10.4%), 72 (8.4%), 92 (12.3%), 57 (14.4%), and 17 (23.3%) subjects of the glycated hemoglobin categories ,5, 5-5.4, 5.5-5.9, 6.0-6.4, 6.5-7.4, and $7.5%, respectively, died from cardiovascular diseases. Compared with glycated hemoglobin category 5.5-5.9%, subjects in the highest category of glycated hemoglobin were more likely to die from cardiovascular diseases using univariate and multivariate models, including the FS and fasting glucose as covariates (Table <ref type="table" target="#tab_2">2</ref> and Fig. <ref type="figure">1</ref>). Fasting glucose categories were also predictive of cardiovascular mortality (Table <ref type="table" target="#tab_3">3</ref>). However, the associations of fasting glucose categories with cardiovascular mortality did not remain significant after multivariate adjustment (Table <ref type="table" target="#tab_3">3</ref> and Supplementary Fig. <ref type="figure">2</ref>). Cancer mortality. Death from cancer occurred in 5 (4.5%), 10 (2.1%), 23 (2.7%), 18 (2.4%), 19 (4.8%), and 4 (5.5%) subjects of the of the glycated hemoglobin categories ,5, 5-5.4, 5.5-5.9, 6.0-6.4, 6.5-7.4, and $7.5%, respectively. Increased glycated hemoglobin was significantly correlated with higher cancer mortality (Table <ref type="table" target="#tab_2">2</ref>).When fasting glucose was included as an additional covariate, the association of the glycated hemoglobin categories with cancer mortality reached borderline significance (Table <ref type="table" target="#tab_2">2</ref>). The relationship of the fasting glucose categories with cancer mortality did not reach statistical significance (Table <ref type="table" target="#tab_3">3</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CONCLUSIONS-</head><p>The main findings of this study in patients who predominantly had CAD are as follows. First, glycated hemoglobin is a significant predictor of all-cause, cardiovascular, and cancer mortality showing trends toward J-shaped associations with all three end points. Second, the relationships of glycated hemoglobin with all-cause and cardiovascular mortality are independent of fasting glucose. Third, the association of fasting glucose with mortality is not significant when glycated hemoglobin is included as a covariate. Finally, high glycated hemoglobin is strongly associated with increased risk of new onset diabetes diagnosed according to the ADA criteria of 2009 <ref type="bibr" target="#b7">(8)</ref>.</p><p>Several previous studies have demonstrated continuous positive correlations of glycated hemoglobin with mortality and even subclinical cardiovascular disease in subjects without a history of diabetes <ref type="bibr" target="#b9">(10)</ref><ref type="bibr" target="#b10">(11)</ref><ref type="bibr" target="#b11">(12)</ref><ref type="bibr" target="#b12">(13)</ref><ref type="bibr" target="#b13">(14)</ref><ref type="bibr" target="#b14">(15)</ref>. However, in the Atherosclerosis Risk In Communities study, a J-shaped relationship between glycated hemoglobin and all-cause mortality was observed <ref type="bibr" target="#b4">(5)</ref>. Similarly, U-shaped relationships of glycated hemoglobin with all-cause and cause-specific mortality, including death from cardiovascular diseases and cancer, were found in a large New Zealand collective <ref type="bibr" target="#b15">(16)</ref>. These data were supported by a study in insurance applicants <ref type="bibr" target="#b16">(17)</ref>. We also observed a trend toward a J-shaped correlation between glycated hemoglobin and mortality in our cohort of subjects at intermediateto-high cardiovascular risk. In agreement, analyses in the Aerobics Center Longitudinal Study and the San Antonio Heart Study showed an association between low fasting glucose and increased allcause and cardiovascular mortality <ref type="bibr" target="#b17">(18)</ref>. Low glycated hemoglobin and low fasting glucose potentially reflect chronic consuming illness that may lead to early death <ref type="bibr" target="#b17">(18)</ref>. Apart from that, the lowest glycated hemoglobin quintile was prima vista characterized by a favorable cardiovascular risk factor profile and low comorbidity Figure <ref type="figure">1</ref>-Survival curves for (A) all-cause and (B) cardiovascular mortality calculated with Cox proportional hazards models (model 3) according to categories of glycated hemoglobin (1: ,5%, 2: 5-5.4%, 3: 5.5-5.9%, 4: 6.0-6.4%, 5: 6.5-7.4%, and 6: $7.5%). as reflected by the Charlson comorbidity index.</p><p>A main objective was to compare the predictive value of fasting glucose and glycated hemoglobin in participants of the LURIC study. It is noteworthy that we were able to confirm that the association of glycated hemoglobin with mortality is independent of fasting glucose but not vice versa. This finding suggests that glycated hemoglobin may be superior to fasting glucose in the prediction of mortality <ref type="bibr" target="#b4">(5)</ref>.</p><p>Finally, our data confirm that glycated hemoglobin is strongly correlated with new onset or future type 2 diabetes diagnosed according to the ADA criteria of 2009 <ref type="bibr" target="#b4">(5,</ref><ref type="bibr" target="#b18">(19)</ref><ref type="bibr" target="#b19">(20)</ref><ref type="bibr" target="#b20">(21)</ref><ref type="bibr" target="#b21">(22)</ref>. However, type 2 diabetes was also diagnosed in 7.1% of the LURIC participants belonging to the lowest glycated hemoglobin category. This proportion is markedly increased compared with the 0.8% reported by Selvin et al. <ref type="bibr" target="#b4">(5)</ref>. The difference between the two studies is accounted for by the fact that we performed OGTT in the majority of the LURIC participants with fasting glucose levels ,126 mg/dL. Based on fasting glucose levels, new onset type 2 diabetes would have been diagnosed in 1.8% of the LURIC participants in the lowest glycated hemoglobin category only <ref type="bibr" target="#b4">(5)</ref>. Because postchallenge glucose is associated with prognosis <ref type="bibr" target="#b22">(23)</ref>, our data confirm the findings by Woerle et al. <ref type="bibr" target="#b23">(24)</ref> that OGTT will help to identify subjects with increased cardiovascular risk.</p><p>Some limitations pertain to our study. Considering the racial and ethnic differences in the glycated hemoglobin concentration, our findings are restricted to whites <ref type="bibr" target="#b24">(25)</ref>. Furthermore, the LURIC participants have been recruited at a tertiary referral center and underwent coronary angiography; therefore, the results may not be representative of a random population sample. However, the aim of this work was to specifically address the question whether glycated hemoglobin was a significant and independent predictor of mortality in subjects with elevated cardiovascular risk. Because this study was observational in design, we are not able to prove causality either. In addition, the number of participants in the subgroup with the lowest glycated hemoglobin values was not very large. This may account for the nonsignificant association of lownormal glycemic state with mortality. Nevertheless, the number of participants in the highest glycated hemoglobin category was even smaller compared with the lowest category, and a high level of significance was achieved by analyzing the mortality data for this subgroup. Another aspect to be mentioned is that glycated hemoglobin was only measured once at baseline. Hence, we were not able to control for possible alterations of glycated hemoglobin during the follow-up. Finally, the questionnaire used to estimate physical activity has not been stringently validated. The major strengths of the LURIC cohort are the precise clinical and metabolic characterization of the participants, including the availability of coronary angiograms, its cross-sectional and prospective design, and the completeness of the follow-up.</p><p>In conclusion, we found that glycated hemoglobin significantly and independently of fasting glucose predicts all-cause and cardiovascular mortality in individuals who underwent coronary angiography.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 -</head><label>1</label><figDesc>Baseline characteristics according to categories of glycated hemoglobin</figDesc><table><row><cell></cell><cell>,5%</cell><cell>5-5.4%</cell><cell>5.5-5.9%</cell><cell>6.0-6.4%</cell><cell>6.5-7.4%</cell><cell>$7.5%</cell><cell>P*</cell></row><row><cell>Number</cell><cell>112</cell><cell>481</cell><cell>868</cell><cell>752</cell><cell>400</cell><cell>73</cell><cell></cell></row><row><cell>Glycated hemoglobin (%)</cell><cell>4.7 6 0.2</cell><cell>5.2 6 0.1</cell><cell>5.7 6 0.1</cell><cell>6.2 6 0.1</cell><cell>6.8 6 0.3</cell><cell>8.3 6 0.9</cell><cell>-</cell></row><row><cell>Sex: male</cell><cell>88 (78.6)</cell><cell>347 (72.1)</cell><cell>618 (71.2)</cell><cell>504 (67.0)</cell><cell>286 (71.5)</cell><cell>54 (74.0)</cell><cell>0.097</cell></row><row><cell>Age (years)</cell><cell>55.5 6 13.0</cell><cell>59.7 6 11.2</cell><cell>61.5 6 10.7</cell><cell>62.8 6 10.6</cell><cell>64.0 6 9.1</cell><cell cols="2">66.1 6 9.4 ,0.001</cell></row><row><cell>BMI (kg/m 2 )</cell><cell>26.1 6 3.9</cell><cell>26.8 6 3.9</cell><cell>27.0 6 3.7</cell><cell>27.3 6 3.8</cell><cell>28.3 6 4.2</cell><cell cols="2">28.6 6 4.1 ,0.001</cell></row><row><cell>Waist circumference (cm) †</cell><cell>95 6 12</cell><cell>97 6 12</cell><cell>97 6 12</cell><cell>99 6 11</cell><cell>101 6 11</cell><cell>104 6 12</cell><cell>,0.001</cell></row><row><cell>Fasting glucose (mg/dL)</cell><cell>96 6 13</cell><cell>97 6 13</cell><cell>100 6 14</cell><cell>103 6 14</cell><cell>113 6 20</cell><cell>144 6 39</cell><cell>,0.001</cell></row><row><cell>Fasting insulin (mU/L) ‡</cell><cell cols="5">7.0 (5.0-13.0) 9.0 (6.0-13.0) 8.0 (6.0-12.0) 9.0 (6.0-14.0) 11 (7-17)</cell><cell>10 (6-19)</cell><cell>,0.001 §</cell></row><row><cell>Newly diagnosed type 2 diabetes</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>All</cell><cell>8 (7.1)</cell><cell>43 (8.9)</cell><cell>89 (10.3)</cell><cell>113 (15.0)</cell><cell>158 (39.5)</cell><cell>57 (78.1)</cell><cell>,0.001</cell></row><row><cell>Fasting glucose $126 mg/dL</cell><cell>2 (1.8)</cell><cell>14 (2.9)</cell><cell>23 (2.6)</cell><cell>47 (6.3)</cell><cell>91 (22.8)</cell><cell>53 (72.6)</cell><cell>,0.001</cell></row><row><cell>Glucose 2 h $200 mg/dL||</cell><cell>6 (5.4)</cell><cell>29 (6.0)</cell><cell>66 (7.6)</cell><cell>66 (8.8)</cell><cell>67 (16.7)</cell><cell>4 (7.0)</cell><cell>,0.001</cell></row><row><cell>Systemic hypertension</cell><cell>64 (57.1)</cell><cell>308 (64.0)</cell><cell>592 (68.2)</cell><cell>546 (72.6)</cell><cell>304 (76.0)</cell><cell>63 (86.3)</cell><cell>,0.001</cell></row><row><cell>Blood lipid level (mg/dL)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>LDL cholesterol</cell><cell>109 6 29</cell><cell>117 6 34</cell><cell>117 6 33</cell><cell>121 6 35</cell><cell>118 6 34</cell><cell>112 6 34</cell><cell>0.004</cell></row><row><cell>HDL cholesterol</cell><cell>41 6 12</cell><cell>39 6 11</cell><cell>40 6 11</cell><cell>40 6 11</cell><cell>38 6 10</cell><cell>37 6 10</cell><cell>,0.001</cell></row><row><cell>Triglycerides</cell><cell cols="7">139 (100-195) 138 (101-188) 136 (104-190) 147 (109-197) 153 (114-207) 151 (121-228) ,0.001 §</cell></row><row><cell>Glomerular filtration rate</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>(mL/min/1.73 m 2 )</cell><cell>9 0 6 19</cell><cell>85 6 17</cell><cell>84 6 18</cell><cell>80 6 18</cell><cell>79 6 17</cell><cell>78 6 16</cell><cell>,0.001</cell></row><row><cell>C-reactive protein (mg/L) ¶</cell><cell cols="7">3.8 (0.7-7.7) 3.1 (0.8-7.7) 3.4 (0.6-8.7) 4.0 (1.2-9.7) 5.3 (1.8-12.2) 5.7 (2.7-14.3) ,0.001 §</cell></row><row><cell>Smoking</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>0.255</cell></row><row><cell>Never smoking</cell><cell>31 (27.7)</cell><cell>170 (35.3)</cell><cell>331 (38.1)</cell><cell>278 (37.0)</cell><cell>128 (32.0)</cell><cell>22 (30.1)</cell><cell>-</cell></row><row><cell>Past smoking</cell><cell>54 (48.2)</cell><cell>207 (43.0)</cell><cell>372 (42.9)</cell><cell>310 (41.2)</cell><cell>186 (46.5)</cell><cell>38 (52.1)</cell><cell>-</cell></row><row><cell>Current smoking</cell><cell>27 (24.1)</cell><cell>104 (21.6)</cell><cell>165 (19.0)</cell><cell>164 (21.8)</cell><cell>86 (21.5)</cell><cell>13 (17.8)</cell><cell>-</cell></row><row><cell>Charlson comorbidity index#</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>,0.001</cell></row><row><cell>Group 0</cell><cell>36 (33.6)</cell><cell>163 (35.9)</cell><cell>272 (34.9)</cell><cell>212 (31.8)</cell><cell>92 (26.0)</cell><cell>9 (12.9)</cell><cell>-</cell></row><row><cell>Group 1</cell><cell>45 (42.1)</cell><cell>169 (37.2)</cell><cell>287 (36.8)</cell><cell>221 (33.2)</cell><cell>127 (35.9)</cell><cell>33 (47.1)</cell><cell>-</cell></row><row><cell>Group 2</cell><cell>26 (24.3)</cell><cell>122 (26.9)</cell><cell>220 (28.2)</cell><cell>233 (35.0)</cell><cell>135 (38.1)</cell><cell>28 (40.0)</cell><cell>-</cell></row><row><cell>History of myocardial</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>infarction</cell><cell>47 (42.0)</cell><cell>190 (39.5)</cell><cell>340 (39.2)</cell><cell>288 (38.3)</cell><cell>160 (40.0)</cell><cell>39 (53.4)</cell><cell>0.242</cell></row><row><cell>CAD (50% stenosis)</cell><cell>69 (61.6)</cell><cell>304 (63.2)</cell><cell>550 (63.4)</cell><cell>500 (66.5)</cell><cell>277 (69.3)</cell><cell>56 (76.7)</cell><cell>0.063</cell></row><row><cell>FS</cell><cell>5 (1-7)</cell><cell>4 (1-8)</cell><cell>5 (1-8)</cell><cell>5 (2-8)</cell><cell>6 (3-8)</cell><cell>6 (3-10)</cell><cell>0.001</cell></row><row><cell>NYHA functional class</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>0.057</cell></row><row><cell>1</cell><cell>56 (50.0)</cell><cell>268 (55.7)</cell><cell>503 (57.9)</cell><cell>379 (50.4)</cell><cell>196 (49.0)</cell><cell>32 (43.8)</cell><cell>-</cell></row><row><cell>2</cell><cell>36 (32.1)</cell><cell>143 (29.7)</cell><cell>230 (26.5)</cell><cell>221 (29.4)</cell><cell>131 (32.8)</cell><cell>22 (30.1)</cell><cell>-</cell></row><row><cell>3</cell><cell>18 (16.1)</cell><cell>58 (12.1)</cell><cell>110 (12.7)</cell><cell>130 (17.3)</cell><cell>62 (15.5)</cell><cell>16 (21.9)</cell><cell>-</cell></row><row><cell>4</cell><cell>2 (1.8)</cell><cell>12 (2.5)</cell><cell>25 (2.9)</cell><cell>22 (2.9)</cell><cell>11 (2.8)</cell><cell>3 (4.1)</cell><cell>-</cell></row><row><cell>Physical activity**</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>0.010</cell></row><row><cell>Below average</cell><cell>10 (9.2)</cell><cell>34 (7.2)</cell><cell>38 (4.5)</cell><cell>38 (5.2)</cell><cell>29 (7.4)</cell><cell>11 (15.3)</cell><cell>-</cell></row><row><cell>Average</cell><cell>76 (69.7)</cell><cell>326 (69.2)</cell><cell>610 (72.0)</cell><cell>547 (74.5)</cell><cell>283 (72.0)</cell><cell>45 (62.5)</cell><cell>-</cell></row><row><cell>Above average</cell><cell>23 (21.1)</cell><cell>111 (23.6)</cell><cell>199 (23.5)</cell><cell>149 (20.3)</cell><cell>81 (20.6)</cell><cell>16 (22.2)</cell><cell>-</cell></row><row><cell>Medication use</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>b-Blocker</cell><cell>71 (63.4)</cell><cell>301 (62.6)</cell><cell>558 (64.3)</cell><cell>485 (64.5)</cell><cell>251 (62.8)</cell><cell>44 (60.3)</cell><cell>0.952</cell></row><row><cell>ACE inhibitor</cell><cell>49 (43.8)</cell><cell>211 (43.9)</cell><cell>438 (50.5)</cell><cell>407 (54.1)</cell><cell>214 (53.5)</cell><cell>50 (68.5)</cell><cell>,0.001</cell></row><row><cell>Calcium antagonist</cell><cell>10 (8.9)</cell><cell>71 (14.8)</cell><cell>116 (13.4)</cell><cell>116 (15.4)</cell><cell>56 (14.0)</cell><cell>15 (20.5)</cell><cell>0.263</cell></row><row><cell>Diuretic</cell><cell>25 (22.3)</cell><cell>87 (18.1)</cell><cell>168 (19.4)</cell><cell>204 (27.1)</cell><cell>137 (34.3)</cell><cell>32 (43.8)</cell><cell>,0.001</cell></row><row><cell>Statin</cell><cell>47 (42.0)</cell><cell>222 (46.2)</cell><cell>397 (45.7)</cell><cell>388 (51.6)</cell><cell>210 (52.5)</cell><cell>40 (54.8)</cell><cell>0.032</cell></row><row><cell>Acetyl salicylic acid</cell><cell>78 (69.6)</cell><cell>343 (71.3)</cell><cell>603 (69.5)</cell><cell>536 (71.3)</cell><cell>284 (71.0)</cell><cell>56 (76.7)</cell><cell>0.822</cell></row><row><cell cols="8">Values are means (SD) or medians (interquartile ranges) in cases of continuous variables and numbers (percentages) in cases of categorical variables. *x 2 -Test for</cell></row><row><cell cols="8">categorical data and ANOVA for continuous data;  †number: 108/475/852/741/397/73;  ‡number: 111/463/849/738/395/71;  §ANOVA of logarithmically transformed</cell></row><row><cell cols="8">values; ||number: 86/348/613/504/208/13;  ¶number: 112/481/867/750/399/73; #number: 107/454/779/666/354/70; **number: 109/471/847/734/393/72. NYHA,</cell></row><row><cell>New York Heart Association.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table><note>care.diabetesjournals.org DIABETES CARE, VOLUME 34, JUNE 2011</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 2 -</head><label>2</label><figDesc>Mortality according to categories of glycated hemoglobin</figDesc><table><row><cell></cell><cell>Model 1*</cell><cell></cell><cell>Model 2 †</cell><cell></cell><cell>Model 3 ‡</cell><cell></cell><cell>Model 4 §</cell><cell></cell></row><row><cell>HbA 1c (%)</cell><cell>HR (95% CI)</cell><cell>P</cell><cell>HR (95% CI)</cell><cell>P</cell><cell>HR (95% CI)</cell><cell>P</cell><cell>HR (95% CI)</cell><cell>P</cell></row><row><cell>All-cause mortality</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>,5.0</cell><cell>1.08 (0.68-1.72)</cell><cell cols="2">0.751 1.48 (0.92-2.36)</cell><cell cols="2">0.105 1.36 (0.85-2.19)</cell><cell cols="3">0.198 1.36 (0.85-2.18) 0.200</cell></row><row><cell>5.0-5.4</cell><cell>0.93 (0.71-1.23)</cell><cell cols="2">0.621 1.02 (0.77-1.35)</cell><cell cols="2">0.888 1.00 (0.76-1.32)</cell><cell cols="3">0.996 1.00 (0.76-1.32) 0.992</cell></row><row><cell>5.5-5.9</cell><cell>1.0 reference</cell><cell>-</cell><cell>1.0 reference</cell><cell>-</cell><cell>1.0 reference</cell><cell>-</cell><cell>1.0 reference</cell><cell>-</cell></row><row><cell>6.0-6.4</cell><cell>1.24 (0.98-1.56)</cell><cell cols="2">0.072 1.17 (0.92-1.47)</cell><cell cols="2">0.196 1.11 (0.88-1.41)</cell><cell cols="3">0.365 1.11 (0.88-1.41) 0.364</cell></row><row><cell>6.5-7.4</cell><cell cols="3">1.59 (1.23-2.06) ,0.001 1.43 (1.10-1.85)</cell><cell cols="2">0.007 1.39 (1.07-1.81)</cell><cell cols="3">0.014 1.39 (1.07-1.82) 0.015</cell></row><row><cell>$7.5</cell><cell cols="5">2.64 (1.74-4.02) ,0.001 2.12 (1.39-3.22) ,0.001 2.12 (1.39-3.25)</cell><cell cols="3">0.001 2.15 (1.32-3.53) 0.002</cell></row><row><cell>Cardiovascular mortality||</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>,5.0</cell><cell>1.16 (0.61-2.18)</cell><cell cols="2">0.657 1.55 (0.82-2.92)</cell><cell cols="2">0.179 1.43 (0.75-2.71)</cell><cell cols="3">0.275 1.42 (0.75-2.70) 0.279</cell></row><row><cell>5.0-5.4</cell><cell>1.20 (0.84-1.72)</cell><cell cols="2">0.325 1.32 (0.92-1.89)</cell><cell cols="2">0.137 1.29 (0.90-1.85)</cell><cell cols="3">0.168 1.29 (0.90-1.85) 0.173</cell></row><row><cell>5.5-5.9</cell><cell>1.0 reference</cell><cell>-</cell><cell>1.0 reference</cell><cell>-</cell><cell>1.0 reference</cell><cell>-</cell><cell>1.0 reference</cell><cell>-</cell></row><row><cell>6.0-6.4</cell><cell>1.51 (1.11-2.05)</cell><cell cols="2">0.009 1.44 (1.05-1.96)</cell><cell cols="2">0.022 1.34 (0.98-1.83)</cell><cell cols="3">0.063 1.35 (0.99-1.84) 0.066</cell></row><row><cell>6.5-7.4</cell><cell>1.84 (1.30-2.60)</cell><cell cols="2">0.001 1.66 (1.17-2.35)</cell><cell cols="2">0.004 1.58 (1.11-2.24)</cell><cell cols="3">0.011 1.59 (1.11-2.28) 0.011</cell></row><row><cell>$7.5</cell><cell cols="8">3.36 (1.98-5.71) ,0.001 2.73 (1.61-4.64) ,0.001 2.72 (1.59-4.66) ,0.001 2.86 (1.54-5.31) 0.001</cell></row><row><cell>Cancer mortality||</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>,5.0</cell><cell>1.67 (0.63-4.38)</cell><cell cols="2">0.302 2.24 (0.85-5.93)</cell><cell cols="2">0.103 1.98 (0.75-5.27)</cell><cell cols="3">0.170 2.03 (0.76-5.40) 0.156</cell></row><row><cell>5.0-5.4</cell><cell>0.76 (0.36-1.59)</cell><cell cols="2">0.460 0.83 (0.39-1.74)</cell><cell cols="2">0.617 0.81 (0.38-1.70)</cell><cell cols="3">0.575 0.82 (0.39-1.72) 0.595</cell></row><row><cell>5.5-5.9</cell><cell>1.0 reference</cell><cell>-</cell><cell>1.0 reference</cell><cell>-</cell><cell>1.0 reference</cell><cell>-</cell><cell>1.0 reference</cell><cell>-</cell></row><row><cell>6.0-6.4</cell><cell>0.93 (0.50-1.71)</cell><cell cols="2">0.803 0.88 (0.47-1.63)</cell><cell cols="2">0.685 0.94 (0.50-1.75)</cell><cell cols="3">0.845 0.93 (0.50-1.74) 0.824</cell></row><row><cell>6.5-7.4</cell><cell>1.93 (1.05-3.54)</cell><cell cols="2">0.035 1.73 (0.94-3.18)</cell><cell cols="2">0.077 1.97 (1.06-3.65)</cell><cell cols="3">0.032 1.85 (0.98-3.48) 0.058</cell></row><row><cell>$7.5</cell><cell>2.53 (0.88-7.32)</cell><cell cols="2">0.087 2.07 (0.72-6.01)</cell><cell cols="2">0.180 2.32 (0.79-6.86)</cell><cell cols="3">0.127 1.67 (0.46-6.11) 0.438</cell></row></table><note>HR (95% CI) calculated with Cox proportional hazards model. *Unadjusted. †Adjusted for sex and age. ‡Adjusted for sex, age, BMI, hypertension, smoking, glomerular filtration rate, triglycerides, LDL cholesterol, HDL cholesterol, and FS. §Adjusted for sex, age, BMI, hypertension, smoking, glomerular filtration rate, triglycerides, LDL cholesterol, HDL cholesterol, FS, and fasting glucose. ||Death certificates were missing for 15 subjects.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 3 -</head><label>3</label><figDesc>Mortality according to categories of fasting glucose</figDesc><table><row><cell></cell><cell>Model 1*</cell><cell></cell><cell>Model 2 †</cell><cell></cell><cell>Model 3 ‡</cell><cell></cell><cell>Model 4 §</cell><cell></cell></row><row><cell>Fasting glucose (mg/dL)</cell><cell>HR (95% CI)</cell><cell>P</cell><cell>HR (95% CI)</cell><cell>P</cell><cell>HR (95% CI)</cell><cell>P</cell><cell>HR (95% CI)</cell><cell>P</cell></row><row><cell>All-cause mortality</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>,100</cell><cell>1.0 reference</cell><cell>-</cell><cell>1.0 reference</cell><cell>-</cell><cell>1.0 reference</cell><cell>-</cell><cell>1.0 reference</cell><cell>-</cell></row><row><cell>100-125</cell><cell cols="8">1.18 (0.98-1.42) 0.080 1.08 (0.90-1.30) 0.417 1.12 (0.93-1.36) 0.228 1.10 (0.91-1.33) 0.350</cell></row><row><cell>$126</cell><cell cols="8">1.56 (1.17-2.08) 0.002 1.33 (0.99-1.77) 0.055 1.39 (1.03-1.87) 0.034 1.16 (0.83-1.63) 0.379</cell></row><row><cell>Cardiovascular mortality||</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>,110</cell><cell>1.0 reference</cell><cell>-</cell><cell>1.0 reference</cell><cell>-</cell><cell>1.0 reference</cell><cell>-</cell><cell>1.0 reference</cell><cell>-</cell></row><row><cell>100-125</cell><cell cols="8">1.25 (0.98-1.59) 0.067 1.14 (0.90-1.45) 0.288 1.17 (0.92-1.50) 0.203 1.14 (0.89-1.46) 0.304</cell></row><row><cell>$126</cell><cell cols="8">1.55 (1.06-2.27) 0.024 1.31 (0.90-1.92) 0.165 1.35 (0.90-2.01) 0.143 1.09 (0.70-1.71) 0.693</cell></row><row><cell>Cancer mortality||</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>,100</cell><cell>1.0 reference</cell><cell>-</cell><cell>1.0 reference</cell><cell>-</cell><cell>1.0 reference</cell><cell>-</cell><cell>1.0 reference</cell><cell>-</cell></row><row><cell>100-125</cell><cell cols="8">1.39 (0.87-2.22) 0.168 1.27 (0.79-2.03) 0.322 1.40 (0.87-2.27) 0.170 1.34 (0.83-2.18) 0.231</cell></row><row><cell>$126</cell><cell cols="8">1.71 (0.82-3.56) 0.153 1.47 (0.70-3.06) 0.308 1.81 (0.84-3.90) 0.131 1.34 (0.56-3.21) 0.507</cell></row></table><note>HR (95% CI) calculated with Cox proportional hazards model. *Unadjusted. †Adjusted for sex and age. ‡Adjusted for sex, age, BMI, hypertension, smoking, glomerular filtration rate, triglycerides, LDL cholesterol, HDL cholesterol, and FS. §Adjusted for sex, age, BMI, hypertension, smoking, glomerular filtration rate, triglycerides, LDL cholesterol, HDL cholesterol, FS, and glycated hemoglobin. ||Death certificates were missing for 15 subjects. care.diabetesjournals.org DIABETES CARE, VOLUME 34, JUNE 2011</note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">DIABETES CARE, VOLUME 34, JUNE 2011 care.diabetesjournals.org</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Acknowledgments-LURIC has received funding through the 6th Framework Program (integrated project Bloodomics, grant No potential conflicts of interest relevant to this article were reported.</p><p>G.S. performed statistical analysis and wrote the manuscript. T.B.G. performed statistical analysis, contributed to the interpretation of the results, and reviewed the manuscript. B.R.W. designed the study and reviewed the manuscript. B.O.B. designed the study and wrote the manuscript. W.M. designed the study, performed statistical analysis, and wrote the manuscript.</p><p>The authors extend appreciation to the participants of the LURIC study. Without their collaboration, this article would not have been written. The authors also thank the LURIC study team either temporarily or permanently involved in patient recruitment and sample and data handling, the laboratory staff at the Ludwigshafen General Hospital, and the Universities of Freiburg and Ulm.</p></div>
+			</div>
+
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Short-term variability in measures of glycemia and implications for the classification of diabetes</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Selvin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Crainiceanu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">L</forename><surname>Brancati</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Coresh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">167</biblScope>
+			<biblScope unit="page" from="1545" to="1551" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Standards of medical care in diabetes-2009. Diabetes Care</title>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<publisher>American Diabetes Association</publisher>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="S13" to="S61" />
+		</imprint>
+	</monogr>
+	<note>Suppl. 1</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">A1c-Derived Average Glucose Study Group. Translating the A1C assay into estimated average glucose values</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Nathan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kuenen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Borg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Zheng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Schoenfeld</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Heine</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="1473" to="1478" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Diagnosis and classification of diabetes mellitus. Diabetes Care</title>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<publisher>American Diabetes Association</publisher>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="S62" to="S69" />
+		</imprint>
+	</monogr>
+	<note>Suppl. 1</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Glycated hemoglobin, diabetes, and cardiovascular risk in nondiabetic adults</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Selvin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">W</forename><surname>Steffes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Zhu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">362</biblScope>
+			<biblScope unit="page" from="800" to="811" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">and Cardiovascular Health). Rationale and design of the LURIC study-a resource for functional genomics, pharmacogenomics and long-term prognosis of cardiovascular disease</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">R</forename><surname>Winkelmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Marz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">O</forename><surname>Boehm</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">LURIC Study Group</title>
+				<meeting><address><addrLine>Ludwigshafen Risk</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="S1" to="S73" />
+		</imprint>
+	</monogr>
+	<note>Suppl. 1</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Prognostic significance of coronary arteriography</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">C</forename><surname>Friesinger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">E</forename><surname>Page</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Ross</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Trans Assoc Am Physicians</title>
+		<imprint>
+			<biblScope unit="volume">83</biblScope>
+			<biblScope unit="page" from="78" to="92" />
+			<date type="published" when="1970">1970</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Diagnosis and classification of diabetes mellitus</title>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="S62" to="S67" />
+			<date type="published" when="2009">2009</date>
+			<publisher>American Diabetes Association</publisher>
+		</imprint>
+	</monogr>
+	<note>Suppl. 1</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">How to measure comorbidity: a critical review of available methods</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>De Groot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Beckerman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">J</forename><surname>Lankhorst</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Bouter</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="page" from="221" to="229" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Hyperglycaemia is associated with allcause and cardiovascular mortality in the Hoorn population: the Hoorn Study</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>De Vegt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Dekker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">G</forename><surname>Ruhé</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="926" to="931" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Association of hemoglobin A1c with cardiovascular disease and mortality in adults: the European Prospective Investigation into Cancer in Norfolk</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">T</forename><surname>Khaw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Wareham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bingham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Luben</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Welch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Day</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">141</biblScope>
+			<biblScope unit="page" from="413" to="420" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">HbA1c measured in stored erythrocytes and mortality rate among middle-aged and older women</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">B</forename><surname>Levitan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Stampfer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="page" from="267" to="275" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">The hemoglobin A1c level as a progressive risk factor for cardiovascular death, hospitalization for heart failure, or death in patients with chronic heart failure: an analysis of the Candesartan in Heart failure: Assessment of Reduction in Mortality and Morbidity (CHARM) program</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Gerstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Swedberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Carlsson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">CHARM Program Investigators</title>
+				<imprint>
+			<date type="published" when="2008">2008</date>
+			<biblScope unit="volume">168</biblScope>
+			<biblScope unit="page" from="1699" to="1704" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Markers of dysglycaemia and risk of coronary heart disease in people without diabetes: Reykjavik prospective study and systematic review</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Sarwar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Aspelund</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Eiriksdottir</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS Med</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">e1000278</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">The association between A1C and subclinical cardiovascular disease: the multi-ethnic study of atherosclerosis</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Mcneely</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Mcclelland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Bild</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Care</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="1727" to="1733" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">A New Zealand linkage study examining the associations between A1C concentration and mortality</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Brewer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Wright</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Travier</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="1144" to="1149" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Relationship of hemoglobin A1c to mortality in nonsmoking insurance applicants</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Stout</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Fulks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">F</forename><surname>Dolan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Magee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Suarez</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Insur Med</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page" from="174" to="181" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Low fasting plasma glucose level as a predictor of cardiovascular disease and all-cause mortality</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Wei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">W</forename><surname>Gibbons</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">L</forename><surname>Mitchell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Kampert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Stern</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">N</forename><surname>Blair</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">101</biblScope>
+			<biblScope unit="page" from="2047" to="2052" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Elevated A1C in adults without a history of diabetes in the U</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Selvin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Zhu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">L</forename><surname>Brancati</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">S. Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="828" to="833" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">A1C level and future risk of diabetes: a systematic review</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">W</forename><surname>Gregg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">F</forename><surname>Williamson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="1665" to="1673" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Comparison of A1C and fasting glucose criteria to diagnose diabetes among U.S. adults</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Carson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Reynolds</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">A</forename><surname>Fonseca</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Muntner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="95" to="97" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Performance of A1C for the classification and prediction of diabetes</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Selvin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">W</forename><surname>Steffes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Gregg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">L</forename><surname>Brancati</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Coresh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="84" to="89" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Framingham Offspring Study. Fasting and postchallenge glycemia and cardiovascular disease risk: the Framingham Offspring Study</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Meigs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Nathan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D'agostino Rb</forename><surname>Sr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">W</forename><surname>Wilson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="1845" to="1850" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Diagnostic and therapeutic implications of relationships between fasting, 2-hour postchallenge plasma glucose and hemoglobin A1c values</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Woerle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">P</forename><surname>Pimenta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Meyer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">164</biblScope>
+			<biblScope unit="page" from="1627" to="1632" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Diabetes Prevention Program Research Group. Differences in A1C by race and ethnicity among patients with impaired glucose tolerance in the Diabetes Prevention Program</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">H</forename><surname>Herman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Ma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Uwaifo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="2453" to="2457" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">care.diabetesjournals.org DIABETES CARE</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<date type="published" when="2011">JUNE 2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

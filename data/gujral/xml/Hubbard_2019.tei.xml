@@ -1,0 +1,1059 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Prediabetes and Risk for Cardiovascular Disease by Hypertension Status in Black Adults: The Jackson Heart Study</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Demetria</forename><surname>Hubbard</surname></persName>
+							<email>dhubbar8@uab.edu</email>
+							<affiliation key="aff0">
+								<orgName type="institution">University of Alabama at Birmingham</orgName>
+								<address>
+									<addrLine>Birming-ham</addrLine>
+									<country>AL</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Lisandro</forename><forename type="middle">D</forename><surname>Colantonio</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">University of Alabama at Birmingham</orgName>
+								<address>
+									<addrLine>Birming-ham</addrLine>
+									<country>AL</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Rikki</forename><forename type="middle">M</forename><surname>Tanner</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">University of Alabama at Birmingham</orgName>
+								<address>
+									<addrLine>Birming-ham</addrLine>
+									<country>AL</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">April</forename><forename type="middle">P</forename><surname>Carson</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">University of Alabama at Birmingham</orgName>
+								<address>
+									<addrLine>Birming-ham</addrLine>
+									<country>AL</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Swati</forename><surname>Sakhuja</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">University of Alabama at Birmingham</orgName>
+								<address>
+									<addrLine>Birming-ham</addrLine>
+									<country>AL</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Byron</forename><forename type="middle">C</forename><surname>Jaeger</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">University of Alabama at Birmingham</orgName>
+								<address>
+									<addrLine>Birming-ham</addrLine>
+									<country>AL</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Robert</forename><forename type="middle">M</forename><surname>Carey</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution">University of Virginia</orgName>
+								<address>
+									<settlement>Charlottesville</settlement>
+									<region>VA</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Laura</forename><forename type="middle">P</forename><surname>Cohen</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="institution" key="instit1">Columbia Hypertension Center</orgName>
+								<orgName type="institution" key="instit2">Columbia Uni-versity</orgName>
+								<address>
+									<settlement>New York</settlement>
+									<region>NY</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Daichi</forename><surname>Shimbo</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="institution" key="instit1">Columbia Hypertension Center</orgName>
+								<orgName type="institution" key="instit2">Columbia Uni-versity</orgName>
+								<address>
+									<settlement>New York</settlement>
+									<region>NY</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Mark</forename><surname>Butler</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="institution">NYU School of Medicine</orgName>
+								<address>
+									<settlement>New York</settlement>
+									<region>NY</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Alain</forename><forename type="middle">G</forename><surname>Bertoni</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department">Division of Public Health Sciences</orgName>
+								<orgName type="institution">Wake Forest School of Medicine</orgName>
+								<address>
+									<settlement>Winston-Salem</settlement>
+									<region>NC</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Aisha</forename><forename type="middle">T</forename><surname>Langford</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="institution">NYU School of Medicine</orgName>
+								<address>
+									<settlement>New York</settlement>
+									<region>NY</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">John</forename><forename type="middle">N</forename><surname>Booth</surname><genName>III</genName></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">University of Alabama at Birmingham</orgName>
+								<address>
+									<addrLine>Birming-ham</addrLine>
+									<country>AL</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jolaade</forename><surname>Kalinowski</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="institution">NYU School of Medicine</orgName>
+								<address>
+									<settlement>New York</settlement>
+									<region>NY</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Paul</forename><surname>Muntner</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">University of Alabama at Birmingham</orgName>
+								<address>
+									<addrLine>Birming-ham</addrLine>
+									<country>AL</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Prediabetes and Risk for Cardiovascular Disease by Hypertension Status in Black Adults: The Jackson Heart Study</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">090DD83F5F3519227E82218DB2E50CC9</idno>
+					<idno type="DOI">10.2337/dc19-1074</idno>
+					<note type="submission">Received 28 May 2019 and accepted 13 September 2019</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.1" ident="GROBID" when="2022-07-19T22:45+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Recent studies have suggested that prediabetes is associated with an increased risk for cardiovascular disease (CVD) only among individuals with concomitant hypertension.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESEARCH DESIGN AND METHODS</head><p>We analyzed the association between prediabetes and CVD by hypertension status among 3,313 black adults in the Jackson Heart Study (JHS) without diabetes or a history of CVD at baseline (2000)(2001)(2002)(2003)(2004). Prediabetes was defined as fasting plasma glucose between 100 and 125 mg/dL or hemoglobin A 1c between 5.7 and 6.4% (39 and 46 mmol/mol). Hypertension was defined as systolic/diastolic blood pressure ‡140/90 mmHg and/or self-reported antihypertensive medication use. Participants were followed for incident CVD events and all-cause mortality through 31 December 2014.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head><p>Overall, 35% of JHS participants did not have prediabetes or hypertension, 18% had prediabetes alone, 22% had hypertension alone, and 25% had both prediabetes and hypertension. Compared with participants without either condition, the multivariableadjusted hazard ratios for CVD events among participants with prediabetes alone, hypertension alone, and both prediabetes and hypertension were 0.86 (95% CI 0.51, 1.45), 2.09 (1.39, 3.14), and 1.93 (1.28, 2.90), respectively. Among participants with and without hypertension, there was no association between prediabetes and an increased risk for CVD (0.78 [0.46, 1.34] and 0.94 [0.70, 1.26], respectively). No association was present between prediabetes and all-cause mortality among participants with or without hypertension.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CONCLUSIONS</head><p>Regardless of hypertension status, prediabetes was not associated with an increased risk for CVD or all-cause mortality in this cohort of black adults.</p><p>Prediabetes is an intermediate glycemic state between normal glycemia and diabetes that is characterized by impaired fasting glucose (100-125 mg/dL), impaired glucose tolerance (2-h plasma glucose concentration 140-199 mg/dL after an oral glucose challenge), or a hemoglobin A 1c (HbA 1c ) between 5.7 and 6.4% (39 and 46 mmol/mol) (1,2). Approximately 84.1 million U.S. adults $18 years of age had prediabetes in 2015 (3). A higher proportion of non-Hispanic blacks in the U.S. have prediabetes compared with non-Hispanic whites and Hispanics (1).</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Prediabetes has been associated with a higher risk for cardiovascular disease (CVD) in some, but not all, studies <ref type="bibr" target="#b3">(4)</ref><ref type="bibr" target="#b4">(5)</ref><ref type="bibr" target="#b5">(6)</ref><ref type="bibr" target="#b6">(7)</ref><ref type="bibr" target="#b7">(8)</ref>. One reason for the inconsistent association between prediabetes and CVD events in prior studies may be explained by whether concomitant hypertension was present. In two studies from China, participants with prediabetes and hypertension had a higher risk for CVD events compared with their counterparts without prediabetes or hypertension <ref type="bibr" target="#b8">(9,</ref><ref type="bibr" target="#b9">10)</ref>. In contrast, participants with prediabetes but without hypertension did not have an increased risk for CVD events compared with those who did not have prediabetes or hypertension. These data suggest that the association between prediabetes and CVD may only be present among individuals with hypertension. However, these prior studies did not report the association between prediabetes and CVD among participants with and without hypertension, separately <ref type="bibr" target="#b8">(9,</ref><ref type="bibr" target="#b9">10)</ref>. Addressing this knowledge gap will help to determine whether and under what physiologic conditions prediabetes is associated with an increased risk for CVD. Furthermore, few data are available on whether the risk for CVD associated with prediabetes differs among black adults with versus without hypertension <ref type="bibr" target="#b10">(11)</ref>. This question is important given the high prevalence of both prediabetes and hypertension among black adults <ref type="bibr" target="#b2">(3,</ref><ref type="bibr" target="#b11">12)</ref>. Therefore, we examined the association between prediabetes and incident CVD and all-cause mortality among black adults with and without hypertension using data from the Jackson Heart Study (JHS). In a secondary analysis, we examined the association of prediabetes with incident diabetes among JHS participants with and without hypertension.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESEARCH DESIGN AND METHODS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study Population</head><p>The JHS is a community-based prospective cohort study designed to identify factors that explain the high rate of CVD among black adults and to find approaches for reducing this risk <ref type="bibr" target="#b12">(13)</ref>. The JHS enrolled 5,306 black adults $20 years of age between 2000 and 2004 from the three counties that comprise the Jackson, Mississippi, metropolitan area <ref type="bibr" target="#b13">(14)</ref>. For the analysis of the association between prediabetes and CVD events and all-cause mortality, the study population was first restricted to 4,606 JHS participants with complete information on fasting blood glucose, HbA 1c , blood pressure (BP), and self-reported glucose-lowering and antihypertensive medication use at the baseline examination (i.e., exam 1). Next, the study sample was further restricted to 3,725 participants without diabetes. Diabetes was defined as fasting blood glucose $126 mg/dL, HbA 1c $6.5% ($48mmol/mol),orself-reporteddiagnosis of diabetes with the use of glucoselowering medication at baseline. Additionally, 286 participants with a history of CVD, including coronary heart disease (CHD) or stroke, at baseline and 126 participants without follow-up data for CVD events were excluded from this analysis. After these exclusion criteria were applied, 3,313 JHS participants were included in the primary analysis. For the analysis of prediabetes and risk for incident diabetes, we further restricted the study population to 2,786 participants who completed at least one of the two follow-up examinations (i.e., exam 2 between 2005 and 2009 or exam 3 between 2009 and 2012). The institutional review boards governing research in human subjects at the University of Mississippi Medical Center (Jackson, MS), Jackson State University (Jackson, MS), and Tougaloo College (Tougaloo, MS) approved the JHS protocol, and all participants provided written informed consent at each study visit.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data Collection</head><p>Baseline data were collected during an in-home interview and a study examination at the JHS clinic <ref type="bibr" target="#b14">(15)</ref>. During the in-home interview, trained staff administered questionnaires to collect information on demographics, health behaviors, and previously diagnosed conditions, including diabetes and a history of CHD, myocardial infarction, or stroke. During the clinic visit, an inventory of prescription and over-the-counter medications taken within 2 weeks before the study examination was conducted; height, weight, and BP were measured; and blood and urine specimens were collected <ref type="bibr" target="#b14">(15)</ref>.</p><p>Age, sex, education, current cigarette smoking status, aspirin use, and antihypertensive medication use were selfreported <ref type="bibr" target="#b15">(16)</ref>. Statin use was determined from the medication inventory. Income level was based on family income and family size. Low income was defined as an income lower than the calendar-yearspecific poverty level on the basis of the U.S. census. Low physical activity was defined as ,75 min of vigorous physical activity per week or ,150 min of combined moderate/vigorous physical activity per week <ref type="bibr" target="#b16">(17)</ref>. Using measurements obtained during the baseline examination, BMI was calculated as weight in kilograms divided by height in meters squared. Obesity was defined as a BMI $30 kg/m 2 .</p><p>Total and HDL cholesterol, serum creatinine, serum glucose, and HbA 1c were measured using the blood collected during the baseline examination. Total and HDL cholesterol were measured using a Roche Cobas Fara analyzer. Serum creatinine was measured by multipoint enzymatic spectrophotometric assay on a Vitros 950 analyzer (Ortho Clinical Diagnostics, Raritan, NJ). Serum creatinine values were biochemically calibrated to the Cleveland Clinic-equivalent Minnesota Beckman CX3 assay <ref type="bibr" target="#b17">(18)</ref>. HbA 1c was measured using a TOSOH high-performance liquid chromatography system at the University of Minnesota Department of Laboratory Medicine and Pathology. Fasting serum glucose was measured using a glucose oxidase method on a Vitros 950 or 250 analyzer at the University of Mississippi Medical Center. Using the urine collected during the study examination, albumin and creatinine were measured, and albuminuria was defined as an albumin-to-creatinine ratio .30 mg/g. Estimated glomerular filtration (eGFR) was calculated on the basis of serum creatinine using the Chronic Kidney Disease Epidemiology equation. Chronic kidney disease was defined as either albuminuria or reduced eGFR (i.e., eGFR ,60 mL/min/1.73 m 2 ). Prediabetes was defined as a fasting ($8 h) serum glucose between 100 and 125 mg/dL or an HbA 1c between 5.7 and 6.4% (39 and 46 mmol/mol). An oral glucose tolerance test was not performed in the JHS.</p><p>During the baseline and second examination, systolic and diastolic BP were measured manually two times by trained staff using a Hawksley random zero sphygmomanometer and Littman stethoscope following a standardized protocol. For a subset of participants at the second examination, BP was measured using both a random zero sphygmomanometer and an oscillometric device simultaneously. The random zero BP measurements from exams 1 and 2 were calibrated to a semiautomated device using robust regression as described previously, and the calibrated data were used in the current analysis <ref type="bibr" target="#b18">(19,</ref><ref type="bibr" target="#b19">20)</ref>. BP was measured using an oscillometric device at exam 3. The average of two systolic and diastolic BP measurements at each examination were used in the current analyses <ref type="bibr" target="#b15">(16)</ref>. Hypertension was defined according to the Seventh Report of the Joint National Committee on Prevention, Detection, Evaluation, and Treatment of High Blood Pressure guideline as systolic BP $140 mmHg, diastolic BP $90 mmHg, or self-reported antihypertensive medication use <ref type="bibr" target="#b20">(21)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Outcome Definitions</head><p>The primary outcome in the current analysis was the occurrence of an incident CVD event. The composite CVD outcome included incident CHD (nonfatal myocardial infarction or CHD death), fatal and nonfatal stroke, and incident heart failure hospitalization. Additionally, all-cause mortality was examined as a separate outcome. A detailed description of the adjudication process in JHS has been published previously <ref type="bibr" target="#b21">(22)</ref>. We analyzed data on adjudicated CHD and stroke events and all-cause mortality from the baseline examination through 31 December 2014. Heart failure adjudication was available from 1 January 2005 through 31 December 2014.</p><p>Incident diabetes was examined as a secondary outcome. At exams 2 and 3, participants were asked whether they had been diagnosed with diabetes and were taking glucose-lowering medication. Additionally, blood samples were collected, and fasting serum glucose and HbA 1c were measured following identical procedures as used at baseline. For the outcome of incident diabetes, participants were followed from baseline until their first visit with diabetes, which was defined as a self-reported diagnosis of diabetes with glucose-lowering medication use, a fasting blood glucose $126 mg/dL, or an HbA 1c $6.5% ($48 mmol/ mol). For the outcome of incident diabetes, participants who did not develop diabetes were censored at the last examination they attended.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical Analyses</head><p>We calculated baseline characteristics of the overall study population and among the following four participant groups: 1) those without either prediabetes or hypertension, 2) those with prediabetes alone, 3) those with hypertension alone, and 4) those with both prediabetes and hypertension. Incidence rates and cumulative incidence for the composite CVD outcome, its individual components (CHD, stroke, and heart failure), and all-cause mortality were calculated for participants in these four groups. Cox proportional hazard regression models were used to calculate hazard ratios (HRs) for each outcome, comparing participants with prediabetes alone, hypertension alone, and both prediabetes and hypertension, separately, versus those without either prediabetes or hypertension. Model 1 included adjustment for age, sex, income, and education. Model 2 included adjustment for the variables in model 1 and obesity, current smoking, physical activity, total cholesterol, HDL cholesterol, chronic kidney disease, and statin and aspirin use. HRs for CVD events were calculated comparing participants with versus without prediabetes among those with and without hypertension, separately. Tests for interaction between prediabetes and hypertension were performed using Cox proportional hazard regression models, including the full population and main effect terms for prediabetes and hypertension and a multiplicative interaction term between hypertension and prediabetes. For the above analysis, we did not update participants' prediabetes status during follow-up. In a separate analysis, we updated prediabetes and hypertension status at exams 2 and 3 (i.e., modeling prediabetes and hypertension as timevarying exposures) and calculated HRs for each outcome. When modeling prediabetes as a time-varying exposure, participants who developed diabetes at either exam 2 or exam 3 were censored at the first examination where they met the definition of incident diabetes. In secondary analyses, we calculated the proportion of participants who developed diabetes at exam 2 or 3 among those without prediabetes or hypertension, with prediabetes alone, with hypertension alone, and with both prediabetes and hypertension at baseline. We used interval-censored Weibull regression to calculate the HRs for incident diabetes among participants with prediabetes alone, with hypertension alone, and with both prediabetes and hypertension, separately, versus those without prediabetes or hypertension <ref type="bibr" target="#b22">(23)</ref>. Two models with progressive statistical adjustment were fitted as described above. In addition, we calculated HRs for incident diabetes among participants with versus without prediabetes stratified by hypertension status at baseline and conducted tests for interaction between prediabetes and hypertension as described above.</p><p>To confirm the robustness of the findings, we conducted sensitivity analyses by repeating all the calculations described above, defining hypertension in accordance with the following BP levels in the 2017 American College of Cardiology/American Heart Association (ACC/AHA) guideline for the prevention, detection, evaluation, and management of high BP in adults: systolic BP $130 mmHg, diastolic BP $80 mmHg, or self-reported antihypertensive medication use <ref type="bibr" target="#b23">(24)</ref>. P , 0.05 was used to denote statistical significance. Analyses were conducted using SAS 9.4 statistical software (SAS Institute, Cary, NC) except for the interval-censored regression models, which were conducted using Stata 13 (StataCorp, College Station, TX).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Participant Characteristics</head><p>At baseline, 1,162 (35%) participants did not have prediabetes or hypertension, 592 (18%) had prediabetes alone, 723 (22%) had hypertension alone, and 836 (25%) had both prediabetes and hypertension. Participants with both prediabetes and hypertension were older, had less education, and were more likely to be obese and to be taking a statin and aspirin compared with their counterparts in the other three groups 1).</p><p>for Incident CVD and All-Cause Mortality Overall, 294 participants had a CVD event (rate 8.03/1,000 person-years), and 307 participants died (7.90/1,000 person-years) during follow-up. Without adjustment for confounders, the cumulative incidence for CVD and all-cause mortality increased progressively from participants without prediabetes or hypertension to those with prediabetes alone, with hypertension alone, and with both prediabetes and hypertension (Fig. <ref type="figure" target="#fig_0">1</ref>). Supplementary Figs. <ref type="figure" target="#fig_0">1-3</ref> show for CHD, stroke, and heart failure, separately. After multivariable adjustment, participants with prediabetes alone did not have an increased risk for the composite CVD outcome, CHD, stroke, heart failure, or all-cause mortality compared with those without prediabetes or hypertension (Table <ref type="table" target="#tab_1">2</ref>). In contrast, participants with hypertension alone and those with both prediabetes and hypertension had a higher risk for the composite CVD outcome and CHD compared with their counterparts without prediabetes or hypertension both before and after multivariable adjustment. Compared with participants without prediabetes or hypertension, the multivariableadjusted HR for stroke and heart failure was 2.10 (95% CI 1.03, 4.30) and 1.69 (0.98, 2.91), respectively, among those with hypertension alone and 1.88 (0.91, 3.88) and 1.48 (0.86, 2.56), respectively, among those with both prediabetes and hypertension. Prediabetes was not associated with an increased risk for the composite CVD outcome, its individual components, all-cause in analyses stratified by hypertension status (Supplementary Table <ref type="table" target="#tab_0">1</ref>). There was no evidence of an interaction between prediabetes and hypertension status on the composite CVD outcome, its individual components, or allcause mortality (all P-interactions . 0.20). When prediabetes and hypertension status were updated at exams 2 and 3, participants with hypertension alone or with both prediabetes and hypertension had a higher risk for CVD events compared with their counterparts without prediabetes or hypertension (Supplementary Table <ref type="table" target="#tab_1">2</ref>). There was no evidence that participants with prediabetes alone had an increased risk for CVD compared with their counterparts without prediabetes or hypertension. There was no evidence of effect modification between prediabetes and hypertension status when these variables were updated at exams 2 and 3 (all P-interactions . 0.10) (Supplementary Table <ref type="table" target="#tab_2">3</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Secondary Analysis: Risk for Incident Diabetes</head><p>Overall, 474 participants developed diabetes during follow-up. The proportion of participants who developed diabetes was higher among those with both prediabetes and hypertension (36.3%) compared with their counterparts with prediabetes alone (25.6%), with hypertension alone (7.6%), and without prediabetes or hypertension (5.0%) (Table <ref type="table" target="#tab_2">3</ref>). After multivariable adjustment, participants with prediabetes alone, hypertension alone, and both prediabetes and hypertension each had a higher risk for incident diabetes versus their counterparts without prediabetes or hypertension. Prediabetes was associated with an increased risk for incident diabetes among participants with and without Mean follow-up for composite CVD events was 11.1 years. Maximum follow-up for composite CVD events was 14.3 years. CVD is defined as a composite of CHD, stroke, and heart failure events. Hypertension is defined as a systolic BP $140 mmHg, diastolic BP $90 mmHg, or self-reported use of antihypertensive medication. Model 1 includes adjustment for age, sex, income, and education. Model 2 includes adjustment for the variables in model 1 and obesity, current smoking, physical activity, total cholesterol, HDL cholesterol, chronic kidney disease, and statin and aspirin use. ref, reference.</p><p>hypertension, with no evidence of effect modification by hypertension status (Supplementary Table <ref type="table">4</ref>).</p><p>Sensitivity Analyses: Defining Hypertension Using the 2017 ACC/AHA BP Guideline</p><p>When hypertension was defined according to BP levels in the 2017 ACC/AHA guidelines, participants with hypertension alone and with both prediabetes and hypertension had a higher risk for CVD compared with their counterparts without prediabetes or hypertension (Supplementary Table <ref type="table">5</ref>). There was no evidence for an increased risk for CVD or all-cause mortality among participants with prediabetes alone compared with their counterparts without prediabetes or hypertension. There was no evidence of effect modification between prediabetes and hypertension on CVD or all-cause mortality (each P-interaction . 0.5) (Supplementary Table <ref type="table">6</ref>). Prediabetes was associated with an increased risk for diabetes among participants with and without hypertension (Supplementary Tables <ref type="table">7 and 8</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CONCLUSIONS</head><p>In the current study, there was no evidence that participants with prediabetes but not hypertension had an increased risk for CVD or all-cause mortality compared with their counterparts without prediabetes or hypertension. However, participants with hypertension alone and with both prediabetes and hypertension had an increased risk for CVD and allcause mortality compared with their counterparts without prediabetes or hypertension. Furthermore, when participants were stratified by hypertension status, there was no evidence of an association between prediabetes and the risk for CVD events or all-cause mortality after multivariable adjustment.</p><p>Results were consistent when using the Seventh Report of the Joint National Committee on Prevention, Detection, Evaluation, and Treatment of High Blood Pressure or the 2017 ACC/AHA BP guideline definition of hypertension. In a secondary analysis, prediabetes was associated with an increased risk for diabetes among participants with and without hypertension.</p><p>An association between prediabetes and increased risk for CVD has been reported in some, but not all, studies <ref type="bibr" target="#b3">(4,</ref><ref type="bibr" target="#b5">6,</ref><ref type="bibr" target="#b26">25,</ref><ref type="bibr" target="#b27">26)</ref>. In a meta-analysis of five studies (n 5 29,893 participants), the relative risk for CVD among participants with versus without prediabetes, defined by either impaired fasting glucose or impaired glucose tolerance, was modest in magnitude (1.10 [95% CI 0.99, 1.23]) (4). Another meta-analysis of 53 prospective cohort studies (n 5 1,611,339 participants) reported prediabetes to be associated with a modestly increased risk for composite CVD outcomes, which included angina, percutaneous coronary intervention/coronary revascularization, and peripheral artery disease in addition to CHD, stroke, and heart failure, when prediabetes was defined by impaired fasting glucose (relative risk 1.13 [95% CI 1.06, 1.20]) and when prediabetes was defined by impaired glucose tolerance <ref type="bibr">(1.32 [1.23, 1.40]</ref>). Participants with impaired fasting glucose and impaired glucose tolerance also had a higher risk for CHD, stroke, and all-cause mortality in this meta-analysis. In the same meta-analysis, prediabetes defined as HbA 1c between 5.7 and 6.4% (39 and 46 mmol/mol) was associated with an increased risk for composite CVD outcomes and CHD but not for stroke or all-cause mortality <ref type="bibr" target="#b5">(6)</ref>.</p><p>In a prospective cohort study of 1,609 Chinese adults, the adjusted odds ratios for CVD among those with prediabetes alone and those with both prediabetes and hypertension were 1.10 (95% CI 0.47, 0.58) and 2.41 <ref type="bibr">(1.35, 4.46)</ref>, respectively, compared with those without prediabetes or hypertension <ref type="bibr" target="#b8">(9)</ref>. In a second prospective cohort study, also conducted in China (n <ref type="bibr">5 4,193)</ref>, the multivariableadjusted HR for CVD among participants with prediabetes and hypertension versus those without prediabetes or hypertension was 1.58 (95% CI 1.01, 2.46). There was no evidence of an increased risk for CVD among participants with prediabetes alone versus those without prediabetes or hypertension (HR 0.94 [0.57, 1.55]) <ref type="bibr" target="#b9">(10)</ref>. The authors concluded that the apparent association between prediabetes and CVD may be attributable to the existence of concomitant hypertension <ref type="bibr" target="#b8">(9,</ref><ref type="bibr" target="#b9">10)</ref>. Results from the current analysis are consistent with the prior studies in China, showing an increased risk for CVD events and all-cause mortality associated with hypertension. In the current analysis, no association was present between prediabetes and CVD or all-cause mortality among participants with and without hypertension, separately, and there was no evidence of interaction between prediabetes and hypertension.</p><p>Although there was no evidence of an association between prediabetes and an increased risk for CVD in the current study, prediabetes was associated with an increased risk for diabetes among participants with and without hypertension. Additionally, a higher proportion of participants with both and hypertension versus those with prediabetes alone developed diabetes. This is consistent with prior studies. For example, in an In the U.S., black adults have a higher prevalence of prediabetes compared with other racial/ethnic groups (3). Prediabetes is associated with an increased risk for diabetes, which is a well-known risk factor for CVD <ref type="bibr" target="#b20">(21,</ref><ref type="bibr" target="#b29">28)</ref>. Prior studies have reported that black adults are two times more likely to develop diabetes; have higher rates of stroke, heart failure, and acute coronary syndrome; and are 30% more likely to die as a result of heart disease compared with other racial/ ethnic groups <ref type="bibr" target="#b30">(29,</ref><ref type="bibr" target="#b31">30)</ref>. Because of this increased risk, black adults with prediabetes may benefit from lifestyle modification, including a heart-healthy diet and increased physical activity, which could reduce their risk for developing diabetes and CVD <ref type="bibr" target="#b32">(31)</ref>.</p><p>Hypertension is a well-established risk factor for CVD <ref type="bibr" target="#b33">(32,</ref><ref type="bibr" target="#b34">33)</ref>. In the current study, hypertension was associated with an increased risk for CVD and all-cause mortality regardless of prediabetes status. There are many evidence-based approaches for preventing hypertension, including losing weight among those who are overweight or obese, following a hearthealthy diet, increasing physical activity, and reducing sodium intake <ref type="bibr" target="#b23">(24)</ref>. Additionally, antihypertensive medication is effective in reducing CVD and mortality risk among people with hypertension and prediabetes. In a secondary analysis of participants with prediabetes in the Systolic Blood Pressure Intervention Trial (n 5 3,898), those randomized to a systolic BP goal of 120 mmHg had a lower risk for CVD (HR 0.69 [95% CI 0.53, 0.89]) compared with their counterparts randomized to a systolic BP goal of 140 mmHg <ref type="bibr" target="#b35">(34)</ref>.</p><p>The current study has several strengths. The JHS enrolled a large population-based cohort of black adults. Standardized protocols were used for data collection, including BP, HbA 1c , and fasting plasma glucose. Additionally, long-term follow-up was available during which CVD events were identified and adjudicated by trained staff. Despite these strengths, the results of the current study need to be interpreted in the context of known and potential limitations. The JHS enrolled participants at a single site in Jackson, Mississippi, and only enrolled black adults. The generalizability of the current results to other geographic regions and to people of other racial/ethnic groups is not known. Furthermore,several covariates, including physical activity and cigarette smoking, were determined using self-report. There may be some misclassification in defining prediabetes and incident diabetes because of the use of only a single measurement of HbA 1c or serum glucose, lack of glucose tolerance testing, and reliance on self-reported diabetes status and glucose-lowering medication use.</p><p>In conclusion, there was no evidence in the current study of an association between prediabetes and an increased risk for CVD events or all-cause mortality, regardless of hypertension status, among black adults. In contrast, hypertension alone or concomitant with prediabetes was associated with an increased risk for CVD events and all-cause mortality. These findings suggest that black adults with hypertension may benefit from lifestyle and/or pharmacological interventions to lower their risk for CVD and all-cause mortality. Among black adults with prediabetes, interventions should be implemented to prevent the development of diabetes, which is a risk factor for CVD.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 -</head><label>1</label><figDesc>Figure 1-Cumulative incidence of CVD outcomes and all-cause mortality among JHS participants with and without prediabetes stratified by hypertension status.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 -</head><label>1</label><figDesc>Baseline characteristics among JHS participants overall and with and without prediabetes stratified by hypertension status</figDesc><table><row><cell></cell><cell></cell><cell cols="2">No hypertension</cell><cell cols="2">Hypertension</cell></row><row><cell></cell><cell>Overall population</cell><cell>No prediabetes</cell><cell>Prediabetes</cell><cell>No prediabetes</cell><cell>Prediabetes</cell></row><row><cell></cell><cell>(N 5 3,313)</cell><cell>(n 5 1,162)</cell><cell>(n 5 592)</cell><cell>(n 5 723)</cell><cell>(n 5 836)</cell></row><row><cell>Age (years)</cell><cell>53.1 6 12.9</cell><cell>45.8 6 11.8</cell><cell>52.4 6 11.4</cell><cell>57.2 6 11.7</cell><cell>60.2 6 10.7</cell></row><row><cell>Female sex</cell><cell>63.1</cell><cell>62.9</cell><cell>55.7</cell><cell>69.9</cell><cell>62.7</cell></row><row><cell>Low income</cell><cell>13.1</cell><cell>13.2</cell><cell>13.2</cell><cell>12.6</cell><cell>13.6</cell></row><row><cell>Less than high school education</cell><cell>15.9</cell><cell>8.6</cell><cell>15.5</cell><cell>17.3</cell><cell>25.0</cell></row><row><cell>Low physical activity</cell><cell>78.3</cell><cell>72.8</cell><cell>79.2</cell><cell>79.9</cell><cell>83.6</cell></row><row><cell>Current smoking</cell><cell>12.7</cell><cell>13.2</cell><cell>13.7</cell><cell>12.5</cell><cell>11.7</cell></row><row><cell>Obesity</cell><cell>48.9</cell><cell>39.4</cell><cell>53.7</cell><cell>47.0</cell><cell>60.2</cell></row><row><cell>Total cholesterol (mg/dL)</cell><cell>199.6 6 38.5</cell><cell>193.3 6 37.8</cell><cell>203.7 6 40.7</cell><cell>200.2 6 36.6</cell><cell>205.1 6 38.5</cell></row><row><cell>HDL cholesterol (mg/dL)</cell><cell>52.4 6 14.6</cell><cell>52.8 6 14.5</cell><cell>49.1 6 12.9</cell><cell>55.2 6 15.9</cell><cell>51.6 6 14.4</cell></row><row><cell>Chronic kidney disease</cell><cell>7.7</cell><cell>3.7</cell><cell>4.2</cell><cell>10.7</cell><cell>13.3</cell></row><row><cell>Statin use</cell><cell>8.0</cell><cell>2.5</cell><cell>5.2</cell><cell>9.7</cell><cell>16.3</cell></row><row><cell>Aspirin use</cell><cell>18.1</cell><cell>8.7</cell><cell>12.4</cell><cell>25.4</cell><cell>28.9</cell></row><row><cell>Antihypertensive medication use</cell><cell>39.1</cell><cell>0.0</cell><cell>0.0</cell><cell>83.7</cell><cell>82.4</cell></row><row><cell>Systolic BP (mmHg)</cell><cell>126.0 6 16.5</cell><cell>117.0 6 10.6</cell><cell>120.0 6 10.0</cell><cell>134.0 6 17.3</cell><cell>135.0 6 18.2</cell></row></table><note>Diastolic BP (mmHg) 76.0 6 8.6 74.0 6 7.1 75.0 6 7.3 79.0 6 9.3 78.0 6 9.4 Data are mean 6 SD or %. Hypertension is defined as systolic BP $140 mmHg, diastolic BP $90 mmHg, or self-reported use of antihypertensive medication.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 -</head><label>2</label><figDesc>Risk for cardiovascular events and all-cause mortality among JHS participants without prediabetes or hypertension, with prediabetes alone, with hypertension alone, and with both prediabetes and hypertension</figDesc><table><row><cell></cell><cell cols="2">Participants without hypertension</cell><cell cols="2">Participants with hypertension</cell></row><row><cell></cell><cell></cell><cell>Prediabetes</cell><cell></cell><cell>Prediabetes</cell></row><row><cell></cell><cell>No</cell><cell>Yes</cell><cell>No</cell><cell>Yes</cell></row><row><cell>N</cell><cell>1,162</cell><cell>592</cell><cell>723</cell><cell>836</cell></row><row><cell>CVD events</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Number of events</cell><cell>40</cell><cell>28</cell><cell>99</cell><cell>127</cell></row><row><cell>Follow-up (person-years)</cell><cell>13,325</cell><cell>6,721</cell><cell>7,678</cell><cell>8,876</cell></row><row><cell>Rate (per 1,000 years) (95% CI)</cell><cell>3.0 (2.1, 4.0)</cell><cell>4.2 (2.8, 5.8)</cell><cell>12.9 (10.5, 15.6)</cell><cell>14.3 (11.9, 16.9)</cell></row><row><cell>HR (95% CI)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Model 1</cell><cell>(ref)</cell><cell>0.84 (0.50, 1.41)</cell><cell>2.11 (1.41, 3.17)</cell><cell>1.92 (1.29, 2.85)</cell></row><row><cell>Model 2</cell><cell>1 (ref)</cell><cell>0.86 (0.51, 1.45)</cell><cell>2.09 (1.39, 3.14)</cell><cell>1.93 (1.28, 2.90)</cell></row><row><cell>CHD</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Number of events</cell><cell>11</cell><cell>13</cell><cell>39</cell><cell>52</cell></row><row><cell>Follow-up (person-years)</cell><cell>13,435</cell><cell>6,799</cell><cell>7,896</cell><cell>9,192</cell></row><row><cell>Rate (per 1,000 years) (95% CI)</cell><cell>0.8 (0.4, 1.4)</cell><cell>1.9 (1.0, 3.1)</cell><cell>4.9 (3.5, 6.6)</cell><cell>5.7 (4.2, 7.3)</cell></row><row><cell>HR (95% CI)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Model 1</cell><cell>1 (ref)</cell><cell>1.59 (0.62, 4.03)</cell><cell>3.96 (1.81, 8.65)</cell><cell>3.33 (1.53, 7.24)</cell></row><row><cell>Model 2</cell><cell>1 (ref)</cell><cell>1.58 (0.62, 4.03)</cell><cell>3.99 (1.81, 8.78)</cell><cell>3.25 (1.47, 7.21)</cell></row><row><cell>Stroke</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Number of events</cell><cell>12</cell><cell>10</cell><cell>31</cell><cell>41</cell></row><row><cell>Follow-up (person-years)</cell><cell>13,441</cell><cell>6,812</cell><cell>7,961</cell><cell>9,247</cell></row><row><cell>Rate (per 1,000 years) (95% CI)</cell><cell>0.9 (0.5, 1.5)</cell><cell>1.5 (0.7, 2.5)</cell><cell>3.9 (2.6, 5.4)</cell><cell>4.4 (3.2, 5.9)</cell></row><row><cell>HR (95% CI)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Model 1</cell><cell>1 (ref)</cell><cell>1.11 (0.48, 2.59)</cell><cell>2.08 (1.03, 4.23)</cell><cell>1.83 (0.91, 3.69)</cell></row><row><cell>Model 2</cell><cell>1 (ref)</cell><cell>1.13 (0.48, 2.64)</cell><cell>2.10 (1.03, 4.30)</cell><cell>1.88 (0.91, 3.88)</cell></row><row><cell>Heart failure</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Number of events</cell><cell>23</cell><cell>10</cell><cell>53</cell><cell>68</cell></row><row><cell>Follow-up (person-years)</cell><cell>13,417</cell><cell>6,835</cell><cell>7,886</cell><cell>9,237</cell></row><row><cell>Rate (per 1,000 years) (95% CI)</cell><cell>1.7 (1.1, 2.5)</cell><cell>1.5 (0.7, 2.5)</cell><cell>6.7 (5.0, 8.6)</cell><cell>7.4 (5.7, 9.2)</cell></row><row><cell>HR (95% CI)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Model 1</cell><cell>1 (ref)</cell><cell>0.51 (0.24, 1.12)</cell><cell>1.70 (0.99, 2.92)</cell><cell>1.51 (0.89, 2.55)</cell></row><row><cell>Model 2</cell><cell>1 (ref)</cell><cell>0.53 (0.24, 1.16)</cell><cell>1.69 (0.98, 2.91)</cell><cell>1.48 (0.86, 2.56)</cell></row><row><cell>All-cause mortality</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Number of events</cell><cell>45</cell><cell>40</cell><cell>103</cell><cell>119</cell></row><row><cell>Follow-up (person-years)</cell><cell>13,762</cell><cell>7,056</cell><cell>8,336</cell><cell>9,692</cell></row><row><cell>Rate (per 1,000 years) (95% CI)</cell><cell>3.3 (2.4, 4.3)</cell><cell>5.7 (4.1, 7.6)</cell><cell>12.4 (10.1, 14.9)</cell><cell>12.3 (10.2, 14.6)</cell></row><row><cell>HR (95% CI)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Model 1</cell><cell>1 (ref)</cell><cell>0.97 (0.60, 1.57)</cell><cell>1.94 (1.31, 2.87)</cell><cell>1.46 (0.98, 2.16)</cell></row><row><cell>Model 2</cell><cell>1 (ref)</cell><cell>1.00 (0.61, 1.62)</cell><cell>1.81 (1.22, 2.69)</cell><cell>1.43 (0.96, 2.15)</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3 -</head><label>3</label><figDesc>Risk for incident diabetes among JHS participants with and without prediabetes cross-classified by hypertension status</figDesc><table><row><cell></cell><cell cols="2">Participants without hypertension</cell><cell cols="2">Participants with hypertension</cell></row><row><cell></cell><cell></cell><cell>Prediabetes</cell><cell></cell><cell>Prediabetes</cell></row><row><cell></cell><cell>No</cell><cell>Yes</cell><cell>No</cell><cell>Yes</cell></row><row><cell>N</cell><cell>993</cell><cell>512</cell><cell>592</cell><cell>689</cell></row><row><cell>Participants who developed diabetes, n (%)</cell><cell>48 (5.0)</cell><cell>131 (25.6)</cell><cell>45 (7.6)</cell><cell>250 (36.3)</cell></row><row><cell>HR (95% CI)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Model 1</cell><cell>1 (ref)</cell><cell>5.97 (4.17, 8.56)</cell><cell>1.86 (1.20, 2.89)</cell><cell>10.90 (7.66, 15.50)</cell></row><row><cell>Model 2</cell><cell>1 (ref)</cell><cell>5.08 (3.50, 7.36)</cell><cell>1.60 (1.02, 2.52)</cell><cell>8.19 (5.66, 11.85)</cell></row><row><cell cols="5">Hypertension is defined as systolic BP $140 mmHg, diastolic BP $90 mmHg, or self-reported use of antihypertensive medication. Model</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">care.diabetesjournals.orgHubbard and Associates 2323</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2324">Prediabetes, Hypertension, CVD Diabetes Care Volume 42, December 2019</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">care.diabetesjournals.orgHubbard and Associates 2325</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2326">Prediabetes, Hypertension, CVD Diabetes Care Volume 42, December 2019</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="1">includes adjustment for age, sex, income, and education. Model 2 includes adjustment for the variables in model 1 and obesity, current smoking, physical activity, total cholesterol, HDL cholesterol, chronic kidney disease, and statin and aspirin use. ref, reference. care.diabetesjournals.org Hubbard and Associates 2327</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2328">Prediabetes, Hypertension, CVD Diabetes Care Volume 42, December 2019</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">care.diabetesjournals.orgHubbard and Associates 2329</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Acknowledgments. The authors thank the staff and participants of the JHS. Funding. The JHS is supported and conducted in collaboration with Jackson State University (HHSN268201800013I), Tougaloo College (HHSN268201800014I), the Mississippi State Department of Health (HHSN268201800015I), and the University of Mississippi Medical Center (HHSN268201800010I, HHSN268201800011I, and HHSN268201800012I) contracts from the National Heart, Lung, and Blood Institute and the National Institute on Minority Health and Health Disparities. D.S., J.N.B., and P.M. receive support through grant 15SFRN2390002 from the American Heart Association. This work was also supported by K24-HL-125704 (D.S.) and R01-HL-117323 (D.S. and P.M.).</p><p>The views expressed in this article are those of the authors and do not necessarily represent the views of the National Heart, Lung, and Blood Institute. Duality of Interest. A.P.C. receives investigatorinitiated research support unrelated to this work from Amgen, Inc. No other potential conflicts of interest relevant to this article were reported.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Author Contributions. D.H. wrote the manuscript and researched the data. L.D.C. contributed to the discussion and reviewed/edited the manuscript. R.M.T. reviewed/edited the manuscript. A.P.C. reviewed/edited the manuscript. S.S. researched the data and reviewed/edited the manuscript. B.C.J. reviewed/edited the manuscript. R.M.C. contributed to the discussion and reviewed/edited the manuscript. L.P.C. reviewed/edited the manuscript. D.S. contributed to the discussion and reviewed/edited the manuscript. M.B. reviewed/edited the A.G.B. reviewed/edited the manuscript. A.T.L. reviewed/edited the manuscript. J.N.B. reviewed/ edited the manuscript. J.K. reviewed/edited the manuscript. P.M. contributed to the discussion and reviewed/edited the manuscript. P.M. is the guarantor of this work and, as such, had full access to all the data in the study and takes responsibility for the integrity of the data and the accuracy of the data analysis.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Impaired fasting glucose and impaired glucose tolerance: implications for care</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Nathan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Davidson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Defronzo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="753" to="759" />
+			<date type="published" when="2007">2007</date>
+			<publisher>American Diabetes Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Diagnosis and classification of diabetes mellitus</title>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="S62" to="S69" />
+			<date type="published" when="2010">2010</date>
+			<publisher>American Diabetes Association</publisher>
+		</imprint>
+	</monogr>
+	<note>Suppl. 1</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Estimates of Diabetes and Its Burden in the United States [Internet]. US Department of Health and Human Services</title>
+		<ptr target="https://www.cdc.gov/diabetes/pdfs/data/statistics/national-diabetes-statistics-report.pdf" />
+	</analytic>
+	<monogr>
+		<title level="j">Centers for Disease Control and Prevention. National diabetes statistics report</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<date type="published" when="2017-09">2017. 2017. September 2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Pre-diabetes and the risk for cardiovascular disease: a systematic review of the evidence</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Ford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Li</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Coll Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="1310" to="1317" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Impaired fasting glucose and the risk of incident diabetes mellitus and cardiovascular events in an adult population: MESA (Multi-Ethnic Study of Atherosclerosis)</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Yeboah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">G</forename><surname>Bertoni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Herrington</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">S</forename><surname>Post</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">L</forename><surname>Burke</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Coll Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="page" from="140" to="146" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Association between prediabetes and risk of cardiovascular disease and all cause mortality: systematic review and meta-analysis</title>
+		<author>
+			<persName><forename type="first">Y</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mai</forename><forename type="middle">W</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMJ</title>
+		<imprint>
+			<biblScope unit="volume">355</biblScope>
+			<biblScope unit="page">5953</biblScope>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Japan Epidemiology Collaboration on Occupational Health Study Group. Prediabetes and cardiovascular disease risk: a nested case-control study</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Hu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Mizoue</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Sasaki</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Atherosclerosis</title>
+		<imprint>
+			<biblScope unit="volume">278</biblScope>
+			<biblScope unit="page" from="1" to="6" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Cardiovascular of prediabetes in the USA: analysis of data from serial cross-sectional surveys</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Ali</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Bullard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Saydah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Imperatore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">W</forename><surname>Gregg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Diabetes Endocrinol</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="392" to="403" />
+			<date type="published" when="1988">1988-2014. 2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Effects of prediabetes mellitus alone or plus hypertension on subsequent occurrence of cardiovascular disease and diabetes mellitus: longitudinal study</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Qiu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Shen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Song</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hypertension</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="page" from="525" to="530" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Impacts of prediabetes mellitus alone or plus hypertension on the coronary severity and cardiovascular outcomes</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">H</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">X</forename><surname>Cao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Li</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hypertension</title>
+		<imprint>
+			<biblScope unit="volume">71</biblScope>
+			<biblScope unit="page" from="1039" to="1046" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Secular changes in U.S. Prediabetes prevalence defined by hemoglobin A1c and fasting plasma glucose: National Health and Nutrition Examination Surveys</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Bullard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Saydah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Imperatore</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="2286" to="2293" />
+			<date type="published" when="1999">1999-2010. 2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Hypertension prevalence and control among adults: United States</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Yoon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Carroll</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Fryar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">NCHS Data Brief</title>
+		<imprint>
+			<biblScope unit="issue">220</biblScope>
+			<biblScope unit="page" from="1" to="8" />
+			<date type="published" when="2011">2011-2014. 2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Adherence to antihypertensive medications and associations with blood pressure among African Americans with hypertension in the Jackson Heart Study</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Butler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Tanner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Muntner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Soc Hypertens</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="581" to="588" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note>e5</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Relation of obesity to circulating B-type natriuretic peptide concentrations in blacks: the Jackson Heart Study</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">R</forename><surname>Fox</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Musani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bidulescu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">124</biblScope>
+			<biblScope unit="page" from="1021" to="1027" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Overview of the Jackson Heart Study: a study of cardiovascular diseases in African American men and women</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">T</forename><surname>Sempos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Bild</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Manolio</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Med Sci</title>
+		<imprint>
+			<biblScope unit="volume">317</biblScope>
+			<biblScope unit="page" from="142" to="146" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Toward resolution of cardiovascular health disparities in African Americans: design and methods of the Jackson Heart Study</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">A</forename><surname>Taylor</surname><genName>Jr</genName></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Wilson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Jones</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ethn Dis</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="S6" to="10" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Physical activity and cardiovascular disease in African Americans in Atherosclerosis Risk in Communities</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Bell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">L</forename><surname>Lutsey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">G</forename><surname>Windham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Folsom</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Med Sci Sports Exerc</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page">901</biblScope>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Effects of serum creatinine calibration on estimated renal function in African Americans: the Jackson heart study</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Young</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Fülöp</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Med Sci</title>
+		<imprint>
+			<biblScope unit="volume">349</biblScope>
+			<biblScope unit="page" from="379" to="384" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Masked hypertension and incident clinic hypertension among blacks in the Jackson Heart Study</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Abdalla</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">N</forename><surname>Booth</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Iii</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Seals</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hypertension</title>
+		<imprint>
+			<biblScope unit="volume">68</biblScope>
+			<biblScope unit="page" from="220" to="226" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Calibration of blood pressure measurements in the Jackson Heart Study</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Seals</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">D</forename><surname>Colantonio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">V</forename><surname>Tingle</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood Press Monit</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="130" to="136" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">National Heart, Lung, and Blood Institute Joint National Committee on Prevention, Detection, Evaluation, and Treatment of High Blood Pressure; National High Blood Pressure Education Program Coordinating Committee</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">V</forename><surname>Chobanian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">L</forename><surname>Bakris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">R</forename><surname>Black</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Seventh Report of the Joint National Committee on Prevention, Detection, Evaluation, and Treatment of High Blood Pressure: the JNC 7 report</title>
+				<imprint>
+			<date type="published" when="2003">2003</date>
+			<biblScope unit="volume">289</biblScope>
+			<biblScope unit="page" from="2560" to="2572" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">disease event classification in the Jackson Heart Study: methods and procedures</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Keku</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rosamond</forename><forename type="middle">W</forename><surname>Taylor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">A</forename><genName>Jr</genName></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ethn Dis</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="S6" to="62" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Maximum likelihood estimation for intervalcensored data using a Weibull-based accelerated failure time model</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Odell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Agostino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biometrics</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="951" to="959" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">K</forename><surname>Whelton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Carey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">S</forename><surname>Aronow</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">PCNA guideline for the prevention, detection, evaluation, and management of high blood pressure in adults: a report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines</title>
+		<ptr target="ACC/AHA/AAPA/ABC/ACPM/AGS/APhA/ASH/ASPC/NMA/" />
+	</analytic>
+	<monogr>
+		<title level="j">Hypertension</title>
+		<imprint>
+			<biblScope unit="volume">71</biblScope>
+			<biblScope unit="page" from="e140" to="e144" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note>published correction appears in</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Hypertension</title>
+		<imprint>
+			<biblScope unit="volume">71</biblScope>
+			<biblScope unit="page" from="e13" to="e115" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Diabetes Prevention Program Research Group. Regression from prediabetes to normal glucose regulation is associated with reduction in cardiovascular risk: results from the Diabetes Prevention Program outcomes study</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Perreault</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Temprosa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename><surname>Mather</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="2622" to="2631" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">The combined impact of blood pressure category and glucose abnormality on the incidence of cardiovascular diseases in a Japanese urban cohort: the Suita Study</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Kokubo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Okamura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Watanabe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hypertens Res</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="1238" to="1243" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Progression to type 2 diabetes, healthcare utilization, and cost among pre-diabetic patients with or without comorbid hypertension</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">H</forename><surname>Francis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Song</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Andrews</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Curr Med Res Opin</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="809" to="819" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Prediabetes: a high-risk state for diabetes development</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">G</forename><surname>Tabák</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Herder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Rathmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Brunner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kivimäki</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">379</biblScope>
+			<biblScope unit="page" from="2279" to="2290" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Disparities in cardiovascular disease risk in the United States</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Graham</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Curr Cardiol Rev</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="238" to="245" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Racial and ethnic differences in cardiovascular disease risk factors: a systematic review</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Kurian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Cardarelli</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ethn Dis</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="143" to="152" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Diabetes Prevention Program Research Group. Reduction in the incidence of type 2 diabetes with lifestyle intervention or metformin</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">C</forename><surname>Knowler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Barrett-Connor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Fowler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">346</biblScope>
+			<biblScope unit="page" from="393" to="403" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Blood pressure lowering for prevention of cardiovascular disease and death: a systematic review and meta-analysis</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Ettehad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Emdin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kiran</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">387</biblScope>
+			<biblScope unit="page" from="957" to="967" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Blood pressure and incidence of twelve cardiovascular diseases: lifetime risks, healthy lifeyears lost, and age-specific associations in 1z25 million people</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Rapsomaniki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Timmis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>George</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">383</biblScope>
+			<biblScope unit="page" from="1899" to="1911" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Effect of intensive versus standard blood pressure treatment according to baseline prediabetes status: a post hoc analysis of a randomized trial</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Bress</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>King</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">E</forename><surname>Kreider</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="1401" to="1408" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+		<respStmt>
+			<orgName>SPRINT Research Group</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

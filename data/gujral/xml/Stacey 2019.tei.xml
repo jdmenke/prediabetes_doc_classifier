@@ -1,0 +1,1617 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Abnormal Fasting Glucose Increases the Risk of Unrecognized Myocardial Infarctions in an Elderly Cohort</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2020-01-01">2020 January 01.</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><roleName>MD, MS</roleName><forename type="first">R</forename><forename type="middle">Brandon</forename><surname>Stacey</surname></persName>
+							<email>bstacey@wakehealth.edu</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Internal Medicine Section on Cardiology</orgName>
+								<orgName type="institution">Wake Forest University School of Medicine</orgName>
+								<address>
+									<settlement>Winston-Salem</settlement>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">North Carolina</orgName>
+								<address>
+									<postCode>27157</postCode>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>RPh, PhD</roleName><forename type="first">Janice</forename><surname>Zgibor</surname></persName>
+							<affiliation key="aff6">
+								<orgName type="department" key="dep1">Department of Epidemiology and Biostatistics</orgName>
+								<orgName type="department" key="dep2">College of Public Health</orgName>
+								<orgName type="institution">University of South Florida</orgName>
+								<address>
+									<settlement>Tampa</settlement>
+									<region>Florida</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>PhD</roleName><forename type="first">Paul</forename><forename type="middle">E</forename><surname>Leaverton</surname></persName>
+							<affiliation key="aff6">
+								<orgName type="department" key="dep1">Department of Epidemiology and Biostatistics</orgName>
+								<orgName type="department" key="dep2">College of Public Health</orgName>
+								<orgName type="institution">University of South Florida</orgName>
+								<address>
+									<settlement>Tampa</settlement>
+									<region>Florida</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Douglas</forename><forename type="middle">D</forename><surname>Schocken</surname></persName>
+							<affiliation key="aff7">
+								<orgName type="department" key="dep1">Division of Cardiology</orgName>
+								<orgName type="department" key="dep2">Department of Medicine</orgName>
+								<orgName type="institution">Duke University Medical Center</orgName>
+								<address>
+									<settlement>Durham</settlement>
+									<region>North Carolina</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MPH</roleName><forename type="first">Jennifer</forename><forename type="middle">A</forename><surname>Peregoy</surname></persName>
+							<affiliation key="aff6">
+								<orgName type="department" key="dep1">Department of Epidemiology and Biostatistics</orgName>
+								<orgName type="department" key="dep2">College of Public Health</orgName>
+								<orgName type="institution">University of South Florida</orgName>
+								<address>
+									<settlement>Tampa</settlement>
+									<region>Florida</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Mary</forename><forename type="middle">F</forename><surname>Lyles</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Gerontology</orgName>
+								<orgName type="institution">Wake Forest University School of Medicine</orgName>
+								<address>
+									<settlement>Winston-Salem</settlement>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="institution">North Carolina</orgName>
+								<address>
+									<postCode>27157</postCode>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MD, MPH</roleName><forename type="first">Alain</forename><forename type="middle">G</forename><surname>Bertoni</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department">Department of Public Health Sciences</orgName>
+								<orgName type="institution">Wake Forest University School of Medicine</orgName>
+								<address>
+									<settlement>Winston-Salem</settlement>
+								</address>
+							</affiliation>
+							<affiliation key="aff5">
+								<orgName type="institution">North Carolina</orgName>
+								<address>
+									<postCode>27157</postCode>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Gregory</forename><forename type="middle">L</forename><surname>Burke</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department">Department of Public Health Sciences</orgName>
+								<orgName type="institution">Wake Forest University School of Medicine</orgName>
+								<address>
+									<settlement>Winston-Salem</settlement>
+								</address>
+							</affiliation>
+							<affiliation key="aff5">
+								<orgName type="institution">North Carolina</orgName>
+								<address>
+									<postCode>27157</postCode>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Cardiology</forename><surname>Section</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Watlington</forename><surname>Hall</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff8">
+								<orgName type="department">Medical Center Boulevard</orgName>
+								<orgName type="institution">Wake Forest University School of Medicine</orgName>
+								<address>
+									<addrLine>Winston-Salem</addrLine>
+									<postCode>27157-1045</postCode>
+									<region>North Carolina</region>
+									<country>Phone</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Abnormal Fasting Glucose Increases the Risk of Unrecognized Myocardial Infarctions in an Elderly Cohort</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2020-01-01">2020 January 01.</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">5931D98C081CC3A4204255E48031CE22</idno>
+					<idno type="DOI">10.1111/jgs.15604</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.1" ident="GROBID" when="2022-07-19T22:45+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>RBS: study design, statistical analyses, manuscript writing/editing</term>
+					<term>JCZ: study design, manuscript writing/ editing</term>
+					<term>PEL: study design, statistical analyses, manuscript writing/editing</term>
+					<term>DDS: study design, manuscript writing/editing</term>
+					<term>JP: manuscript writing/editing</term>
+					<term>ML: study design, manuscript writing/editing</term>
+					<term>AB: study design, manuscript writing/editing</term>
+					<term>GB: study design, statistical analyses, manuscript writing/editing</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Background: Up to 45% of initial myocardial infarctions (MI) may be unrecognized (UMI). Diabetes mellitus (DM) is a risk factor for UMI, therefore further investigation of glucose levels as a risk factor for UMI is warranted.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods:</head><p>The relationship between glucose levels and UMI was examined in the Cardiovascular Health Study (CHS): a cohort study of individuals aged ≥ 65 years old. Those with prior coronary heart disease (CHD) or a UMI on initial ECG were excluded. The study population consisted of 4,355 participants with fasting glucose measurements (normal fasting glucose, (NFG): n = 2,041; impaired fasting glucose (IFG): n=1,706; DM: n=608). Using Minnesota codes, UMI was identified by the presence of pathological Q-waves or minor Q-waves with ST-T abnormalities. Crude and adjusted hazard ratios (HRs) were calculated. Analyses were adjusted for age, gender,</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>Up to 45% of initial myocardial infarctions (MI) are unrecognized. <ref type="bibr" target="#b0">1</ref> These unrecognized myocardial infarctions (UMI) are problematic since they are asymptomatic and are usually detected during a routine electrocardiogram, post-event. This delayed diagnosis may delay medical management for prevention of future MI.</p><p>In 2015, there were more than 84 million adults with prediabetes and 30.3 million adults with diabetes in the US. <ref type="bibr" target="#b1">2</ref> Among individuals with diabetes, UMIs account for almost 40% of all myocardial infarctions. <ref type="bibr" target="#b2">3</ref> Coronary heart disease (CHD) is the leading cause of death among people with diabetes and this population is at particularly high risk for UMI. <ref type="bibr" target="#b3">4,</ref><ref type="bibr" target="#b4">5</ref> Identifying UMI early in the course of CHD may prevent future progression. While some studies suggest a more benign course for UMIs, <ref type="bibr" target="#b5">6</ref> more studies suggest that UMIs may carry the same <ref type="bibr" target="#b5">[6]</ref><ref type="bibr" target="#b6">[7]</ref><ref type="bibr" target="#b7">[8]</ref><ref type="bibr" target="#b8">[9]</ref><ref type="bibr" target="#b9">[10]</ref><ref type="bibr" target="#b10">[11]</ref> or even higher risk <ref type="bibr" target="#b11">12,</ref><ref type="bibr" target="#b12">13</ref> for subsequent cardiovascular events and mortality as a clinically recognized myocardial infarction. In the United Kingdom Prospective Diabetes Study (UKPDS), <ref type="bibr" target="#b5">6</ref> UMI at the time of diagnosis of type 2 diabetes was associated with a 58% increased risk for having a fatal MI, and a 31% increased risk for all-cause mortality over a median follow-up of 17 years. While diabetes is a known risk factor for UMI, <ref type="bibr" target="#b2">3,</ref><ref type="bibr" target="#b13">14,</ref><ref type="bibr" target="#b14">15</ref> the role of prediabetes as a risk factor is largely unknown. Almost 40% of patients who present with their first ST-segment elevation MI are found to be prediabetic. <ref type="bibr" target="#b15">16</ref> To explore the relationship between prediabetes and UMI in the elderly, we turned to the Cardiovascular Health Study (CHS). <ref type="bibr" target="#b16">17</ref> CHS is a cohort study of participants aged 65 or older. This analysis sought to determine whether prediabetes, as manifested by impaired fasting glucose (IFG), is associated with an increased risk of UMI during study follow-up. A significant association would mean that the ongoing epidemic of prediabetes predisposes a substantial number of individuals to an increased risk for an UMI, which represents a critical public health issue. In addition, CHS provides us with the opportunity to test whether a 2hour oral glucose tolerance test can forecast UMIs</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The Cardiovascular Health Study Population -Study Participants</head><p>The methods used in the Cardiovascular Health Study (CHS) have been previously published. <ref type="bibr" target="#b16">17</ref> Briefly, the CHS is an observational study of risk factors for cardiovascular disease in adults 65 years or older. Participants were recruited from Medicare eligibility lists in four geographical areas. <ref type="bibr" target="#b16">17</ref> Starting in 1989 and continuing through 1999, <ref type="bibr" target="#b17">18</ref> participants underwent extensive annual clinical examinations. Measurements included traditional risk factors such as blood pressure and lipids, as well as measures of subclinical disease. At sixmonth intervals between clinic visits, and when clinic visits ended, participants were contacted by phone to ascertain hospitalizations and health status. The primary outcomes were incident CHD, angina, heart failure, stroke, transient ischemic attack, claudication, and mortality. CHS participants continue to be followed for these events. 5,888 participants were followed through 1999. <ref type="bibr" target="#b17">18</ref> Of these participants, 178 who had a Qwave MI on their baseline ECG were excluded; 157 were excluded for not having a baseline ECG; 1,154 were excluded for having a prior history of coronary artery disease; and 44 were excluded for having missing fasting glucose data. As a result, the final analytic study sample consisted of 4,355 study participants.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Fasting Blood Glucose</head><p>Individuals in the study were initially classified into one of three groups based on the fasting glucose criteria established by the American Diabetes Association. <ref type="bibr" target="#b18">19</ref> These groups included normal fasting glucose (NFG; fasting glucose level &lt; 100 mg/dL), impaired fasting glucose (IFG; fasting glucose level 100-125 mg/dL), and diabetes mellitus (DM; fasting glucose level &gt; 125 mg/dL, former diagnosis of diabetes, or taking insulin). For the purposes of this study, impaired fasting glucose is referred to as prediabetes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>2-Hour Oral Glucose Tolerance Test</head><p>Excluding those participants with diagnosed DM, participants underwent a 2-hour oral glucose tolerance test. After fasting blood samples were taken, a 75-g oral dextrose was given to the participants, followed by a second venipuncture 2 hours after glucose load. Participants were divided into different oral glucose tolerance groups based on the World Health Organization criteria: normal glucose tolerance (NGT), 139 mg/dL; impaired glucose tolerance (IGT), 140 to 199 mg/dL; and diabetes mellitus (DM), 200 mg/dL or more. <ref type="bibr" target="#b19">20</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Electrocardiography</head><p>Standard 12 lead ECGs were digitally acquired using a Marquette MAC-PC electrocardiograph (Marquette electronics, Milwaukee, Wisconsin) at 10 mm/mV calibration and speed of 25 mm/secs. All ECGs were read centrally and visually inspected for technical errors or inadequate quality. Standard 12 lead ECGs were obtained during the baseline exam (1989-1990) and on an annual basis thereafter.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Unrecognized Myocardial Infarction</head><p>The definition used for UMI was consistent with previous publications. <ref type="bibr" target="#b20">21</ref> An unrecognized myocardial infarction was defined as the presence of major Q waves that met the specific standards for the Minnesota code (codes 1 -1 through 1 -2, except 1 -2 -8) or the combined presence of smaller Q waves (code 1 -2 -8 or 1 -3) and significant ST-T-wave abnormalities (codes 4-1 through 4-3 or codes 4-2 through 5-3). <ref type="bibr" target="#b21">22</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Definitions</head><p>During baseline exam, medical histories and physical exams were performed to obtain clinical information. Fasting blood samples and physical measurements were obtained at the baseline examination. <ref type="bibr" target="#b22">23</ref> Resting, seated systolic and diastolic blood pressure were measured using the auscultatory method while having the mid-height of the cuff at heart level. <ref type="bibr" target="#b23">24</ref> The seated (right arm) blood pressure (BP) reading was an average of two systolic and diastolic measurements with at least 30 seconds between measurements. Hypertension was defined as the use of an antihypertensive medication or BP&gt;= 140/90 mmHg. Smoking status was divided into 3 groups: never, former, and current, which was defined as having smoked within the past 30 days.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical Analysis</head><p>Baseline characteristics were described for NFG, IFG, and DM. ANOVA and chi-square tests were performed to test for differences in baseline characteristics between the groups, with NFG serving as our reference. A p value of &lt;0.05 was considered statistically significant. All statistical analyses were performed using SAS software version 9.1 (SAS Institute, Inc.; Cary, NC).</p><p>The unadjusted relationship between fasting glucose status and incident UMI was initially described by Kaplan-Meier curves generated to compare survival free from UMI by fasting glucose category. If a participant had a clinically-recognized coronary event or death, the participant was censored at last known ECG prior to the clinical event. These relationships were further explored and described using both crude and adjusted hazard ratios. Cox proportional hazard models were used to adjust for covariates that differed significantly between groups at baseline. These variables included: age, gender, body mass index, hypertension, anti-hypertensive medication use, total cholesterol, HDL cholesterol, lipidlowering medication use, and smoking status.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>After exclusions, the study population consisted of 4,355 participants. Their characteristics by fasting glucose status are shown in Table <ref type="table">1</ref>. The overall cohort was 84% Caucasian with a mean age of 72 ± 5.6 years. Participants with normal fasting glucose had a significantly lower mean BMI than those with IFG or DM (25, 27.2, and 28.4 kg/m 2 , respectively). In addition, they also had significantly lower fasting triglycerides (126, 143, and 174 mmol/L), prevalence of hypertension (47%, 62%, 71%), and anti-hypertensive medication use (30%, 41% 56%). Among those with diabetes, there were more males, whereas more women were present in the NFG group compared with the other groups. In addition, there were more African-Americans represented in the DM group than in the NFG (25% vs 15%). Four hundred fifty-nine participants (11%) experienced an incident UMI. Figure <ref type="figure" target="#fig_0">1</ref> shows the test for trend for UMI among those with NFG, prediabetes, and diabetes. Overall, there was a borderline significant trend for higher incidence of UMI by glucose status (p=0.059). This trend was not significant in women (p=0.4) or men (p=0.09) in stratified analyses.</p><p>Over a mean follow-up of 6 years, there were 202 UMIs among NFG subjects, 183 among IFG subjects, and 74 among DM subjects. Using Kaplan-Meier curves, a dose response relationship was observed, where DM had the lowest event-free survival without an UMI, and NFG had the highest event-free survival without an UMI (Figure <ref type="figure" target="#fig_1">2</ref>). From Cox proportional hazard models, relative to NFG, the crude risk ratio estimates for UMI with IFG and DM (Model 1) were 1.11 (95% CI: 0.91-1.41, p=0.30) and 1.65 (1.25-2.14, p&lt;0.001), respectively (Table <ref type="table" target="#tab_0">2</ref>). With adjustment for age and hypertension status (Model 2), and age, gender, BMI, hypertension status, smoking status, and total cholesterol (Model 3), the HR were attenuated, and remained significant for UMI with DM compared with NFG. When we stratified the models by sex, women with IFG were not significantly more likely to experience a UMI compared with NFG. Both men and women with DM were significantly more likely to have a UMI compared with NFG. After multivariable adjustment, the association remained significant among men only.</p><p>Due to the asymptomatic nature of UMIs, additional subgroup analyses were performed. Limiting these analyses to those no clinically-recognized MI during the follow-up period yielded a total of 2,678 participants that included 306 incident UMIs. Relative to NFG, the crude risk ratio estimates for UMI with IFG and DM were 1.36 (95% CI: 1.07-1.74) and 1.87 (1.32-2.61), respectively. With further adjustment for covariates for model 3, the HR for UMI in IFG compared with NFG was 1.18 (95% CI: 0.92-1.53; p=0.18), and the HR for UMI in DM compared with NFG was 1.51 (95% CI: 1.04-2.16; p=0.03).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>This longitudinal analysis showed a significant association between diabetes and UMI but no association between IFG and UMI over eight years of follow-up. Our data suggest a potential dose response relationship between glucose status and risk of UMI, where diabetes was associated with highest risk followed by prediabetes and normal glucose levels. While the results of the glucose tolerance test were not significant, the most plausible explanation remains the imprecise nature of the ECG to fully capture those with an UMI. In comparing the patterns between fasting glucose status and the glucose tolerance test, those with IFG were more closely associated with NFG, while those with IGT behaved more like those found to have DM during their glucose tolerance test, which parallels previous publications about the prognostication based on fasting glucose as opposed to glucose tolerance. <ref type="bibr" target="#b24">25,</ref><ref type="bibr" target="#b25">26</ref> It can be difficult to appreciate the true burden and scope of UMI due to their asymptomatic or atypical nature. In a multi-ethnic population free of known cardiovascular disease, almost 2% had ECG findings suggestive of a myocardial infarction. <ref type="bibr" target="#b26">27</ref> During a subsequent cohortrelated exam with cardiac magnetic resonance (CMR), nearly 6% of those who underwent CMR imaging had late gadolinium enhancement, which identified previously unrecognized infarcts. <ref type="bibr" target="#b27">28</ref> In the Irbesartan Diabetic Nephropathy Trial, 14% of myocardial infarctions during follow-up were unrecognized. <ref type="bibr" target="#b28">29</ref> In the original baseline analysis of UMI in the Cardiovascular Health Study, Sheifer et al. found that over 20% of all MIs in the elderly were UMIs. <ref type="bibr" target="#b20">21</ref> Other cohort studies, including the Framingham study, found that a quarter of all myocardial infarctions were UMIs. <ref type="bibr" target="#b13">14,</ref><ref type="bibr" target="#b29">30,</ref><ref type="bibr" target="#b30">31</ref> ; in the Atherosclerotic Risk in Communities Study (ARIC) 45% of MIs were UMIs. <ref type="bibr" target="#b0">1</ref> Given that diabetes mellitus, hypertension, and aging are all established risk factors for UMI, it should come as no surprise that as these risk factors become more prevalent incident UMIs will increase.</p><p>While the identification of UMIs remains challenging, their significance should not be under-estimated as most studies have observed an increase in subsequent cardiovascular risk after UMI. <ref type="bibr" target="#b0">1,</ref><ref type="bibr" target="#b14">15,</ref><ref type="bibr" target="#b29">[30]</ref><ref type="bibr" target="#b30">[31]</ref><ref type="bibr" target="#b31">[32]</ref><ref type="bibr" target="#b32">[33]</ref> In the UKDPS, those who had an UMI had an increased risk of subsequent fatal MI and all-cause mortality with hazard ratios of 1.58 and 1.31, respectively compared with those who did not have a UMI. <ref type="bibr" target="#b5">6</ref> Findings from the Rotterdam Study found that the long-term prognosis in those with an UMI was worse than those without an MI. In certain subgroups, such as men, the prognosis of an UMI was no different than a recognized MI. <ref type="bibr" target="#b6">7</ref> In a study of UMI among the ICELAND MI cohort of elderly participants, UMI detected by CMR was associated with an 8% increase in absolute risk of mortality over a median follow-up time of 6.4 years. <ref type="bibr" target="#b32">33</ref> In an aged population, those with an UMI had mortality which was the same as a recognized MI. <ref type="bibr" target="#b20">21</ref> Kwong et al. studied patients without prior MI, undergoing cardiac magnetic resonance imaging (CMR). They found that those with an UMI had a 7-fold increase in subsequent cardiovascular events and mortality. <ref type="bibr" target="#b7">8</ref> Subsequent studies from the same group showed that there was a 4-fold increase in cardiovascular risk and mortality among people with diabetes and UMI relative to those with UMI and no diabetes. <ref type="bibr" target="#b33">34</ref> One possible mechanism underlying the asymptomatic nature of many UMIs may be neuropathic, either peripheral neuropathy or cardiac autonomic neuropathy (CAN), particularly among people with diabetes. <ref type="bibr" target="#b34">35</ref> Diabetes likely contributes to UMIs through cardiac autonomic neuropathy, <ref type="bibr" target="#b35">36</ref> which may lead to a loss of pain sensation. <ref type="bibr" target="#b36">37</ref> One such example of this pathophysiology has been in people with diabetes who have radiographic evidence of significant osteoarthritis yet report relatively little pain. <ref type="bibr" target="#b37">38</ref> In the Tromso Study, investigators conducted cold pressor tests on 4849 participants. Eight percent had UMI and 4.7% had recognized MI. Subjects with UMI endured the cold pressor test significantly longer than those with recognized MI, indicating reduced sensory perception. When stratified by sex, this association was statistically significant only in women. <ref type="bibr" target="#b38">39</ref> Comparing normal glucose patients with IGT patients, Ziegler and associates noted that neuropathic pain and polyneuropathy were more common in IGT patients than those with normal glucose metabolism. <ref type="bibr" target="#b39">40</ref> In a subsequent study, they found MI patients with IGT had increased prevalence of neuropathy relative to patients with normal glucose metabolism. <ref type="bibr" target="#b40">41</ref> While neuropathic pain among those with IGT and IFG tends not to be as severe as those with diabetes, the first fibers affected are small sensory nerves. Loss of sensory function <ref type="bibr" target="#b41">42,</ref><ref type="bibr" target="#b42">43</ref> may occur along with other adverse pathophysiological changes that occur during the prediabetic phase including hyperglycemia, microvascular abnormalities, dyslipidemia, hypertension, or other factors associated with the metabolic syndrome. <ref type="bibr" target="#b43">44</ref> These factors increase risk for UMI and may be present for many years prior to diagnosis. Approximately 11-25% of people with prediabetes have peripheral neuropathy <ref type="bibr" target="#b36">37</ref> and more than 25% of IGT patients were identified as already having manifestations of autonomic dysfunction in the Finnish Diabetes Prevention Study, <ref type="bibr" target="#b44">45</ref> which may increase the risk for UMI. <ref type="bibr" target="#b41">42,</ref><ref type="bibr" target="#b45">46</ref> In a meta-analysis, the prevalence of MI among those with diabetes was twice as high in those with CAN compared to those without CAN (1.96, 95% CI: 1.53-2.51). <ref type="bibr" target="#b46">47</ref> Mechanistically, adrenergic innervation defects and lower heart rate variability are more common in those with prediabetes compared to those with NFG, <ref type="bibr" target="#b47">48</ref> supporting this hypothesis.</p><p>Several questions remain to help guide clinicians in developing strategies to further address the relationship between prediabetes and UMI. First, which strategy would best serve to screen patients for UMI? While CMR represents the gold standard in infarct imaging for UMI, <ref type="bibr" target="#b32">33</ref> it lacks widespread availability and is cost-prohibitive on a public health scale. While screening ECGs may not be as sensitive as CMR for detecting UMI, they represent a highly cost-effective method of detecting MI. <ref type="bibr" target="#b48">49,</ref><ref type="bibr" target="#b49">50</ref> Conversely, since neuropathy seems to be under-diagnosed, should screening for neuropathy be performed to determine who should undergo screening for UMI? While there are many parallels between recognized MI and UMI, it is unclear at this point which intervention would serve best to specifically prevent UMI except for effective risk factor modification. While IFG was not independently associated with UMI in this elderly cohort, it may have resulted from significant age-related glycosylation, which would mean higher levels of glucose would be needed to further increase the risk. <ref type="bibr" target="#b50">51</ref> There are limitations related to this study. First, a limiting factor in our analyses is the use of the 12-lead electrocardiogram to identify UMI. Recent studies have suggested that other diagnostic means, such as CMR, are a more sensitive instrument to detect unrecognized myocardial infarctions. <ref type="bibr" target="#b27">28,</ref><ref type="bibr" target="#b32">33</ref> As noted above, CMR is logistically impractical and very expensive. Our sample size may not have been large enough to detect an association between IFG or IGT and UMI using primarily ECGs. Second, statin use is much more prevalent today than at the time this data was collected.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Public Health Implications</head><p>Prevention remains the best strategy to mitigate the cardiovascular risks and mortality associated with UMI. The rising prevalence of prediabetes means that a substantial portion of the general population is at risk for CV outcomes. The increasing prevalence of prediabetes is noted in both the developed and developing world. <ref type="bibr" target="#b51">52,</ref><ref type="bibr" target="#b52">53</ref> In the United States, the prevalence of IFG has increased substantially over the past 20 to 30 years. In the mid-1990s, almost 15% of people had impaired fasting glucose. By the late 2000's, this number had risen to almost 30%. In older individuals, the prevalence of prediabetes is higher than 40%. While much of the risk associated with IFG is usually attributed to the progression to diabetes mellitus, <ref type="bibr" target="#b53">54</ref> this study highlights that significant clinical pathology can and does already exist in those with prediabetes.</p><p>While we did not find a significant between prediabetes and UMI over a six-year follow-up period in this study, there is a trend between glucose status and UMI. Given the substantial increase in estimated incidence rates of UMI, it may be useful to investigate prediabetes as an indicator to screen for UMI in larger sample size. The extremely high prevalence of prediabetes (35-50%) <ref type="bibr" target="#b54">55,</ref><ref type="bibr" target="#b55">56</ref> among adults worldwide may further justify such an effort. In the universe of prevention of heart disease, the enormous population at risk for diabetes represents an extremely important target for public health efforts to detect and prevent heart disease.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>Glucose status forecasts, particularly in the diabetic range, unrecognized myocardial infarctions during follow-up in the elderly. Further studies are needed to clarify the level of glucose necessary to increase subsequent risk of an unrecognized myocardial infarction. Bar chart demonstrating difference in incident unrecognized myocardial infarctions by fasting glucose status in the total cohort and stratified by gender (NFG: Normal Fasting Glucose; IFG: Impaired Fasting Glucose; DM: Diabetes Mellitus).  </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2 .</head><label>2</label><figDesc>Figure 2. Kaplan-Meier Curve showing event-free survival of an Unrecognized Myocardial Infarction by Fasting Glucose Status. (NFG: Normal Fasting Glucose; IFG: Impaired Fasting Glucose; DM: Diabetes Mellitus).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 2 .</head><label>2</label><figDesc>Crude and adjusted hazard ratios for unrecognized myocardial infarction: Overall Cohort: Excluding individuals with a prior history of a clinical MI or MI on EKG at baseline. Adjusted for age and hypertension status Model 3: Adjusted for age, race, gender, body mass index, hypertension, anti-hypertensive medication use, total cholesterol, HDL cholesterol, lipid-lowering medication use, and smoking status.</figDesc><table><row><cell></cell><cell>Model 1</cell><cell cols="2">P-Value Model 2</cell><cell cols="2">P-Value Model 3</cell><cell>P-Value</cell></row><row><cell></cell><cell>Unadjusted HR</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">Fasting Glucose Status</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>IFG vs NFG</cell><cell>1.11 (0.91-1.41)</cell><cell>0.30</cell><cell>1.03 (0.84-1.27)</cell><cell>0.73</cell><cell>1.01 (0.82-1.24)</cell><cell>0.93</cell></row><row><cell>DM vs NFG</cell><cell>1.65 (1.25-2.14)</cell><cell>&lt;0.001</cell><cell>1.39 (1.05-1.82)</cell><cell>0.02</cell><cell>1.37 (1.02-1.81)</cell><cell>0.035</cell></row><row><cell cols="2">2 Hour Glucose Tolerance</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>IGT vs NGT</cell><cell>1.18 (0.94-1.45)</cell><cell>0.15</cell><cell>1.04 (0.84-1.30)</cell><cell>0.73</cell><cell>1.03 (0.83-1.30)</cell><cell>0.77</cell></row><row><cell>DM vs NGT</cell><cell>1.25 (0.93-1.66)</cell><cell>0.14</cell><cell>1.04 (0.77-1.39)</cell><cell>0.79</cell><cell>1.03 (0.82-1.29)</cell><cell>0.84</cell></row><row><cell cols="2">Fasting Glucose Level</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Unit Risk Ratio</cell><cell cols="2">1.004 (1.001-1.006) 0.003</cell><cell cols="2">1.003 (1.001-1.006) 0.012</cell><cell cols="2">1.003 (1.001-1.006) 0.01</cell></row><row><cell cols="2">Range Risk Ratio 9.80 (2.38-31.68)</cell><cell>0.003</cell><cell>7.98 (1.83-34.74)</cell><cell>0.012</cell><cell>7.18 (1.59-32.47)</cell><cell>0.01</cell></row><row><cell cols="2">Normal fasting glucose is the reference group.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Model 1: Unadjusted</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Model 2:</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table><note>Number of silent MIs = 459Total number of participants included: 4,355</note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">J Am Geriatr Soc. Author manuscript; available in PMC 2020 January 01.</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgement:</head><p>Sponsor's Role: This study funded by the National Institutes of Health, which conducted and administered this cohort. There are no pharmaceutical or device investigations in this study. This research was supported by contracts HHSN268201200036C, HHSN268200800007C, HHSN268201800001C, N01HC55222, N01HC85079, N01HC85080, N01HC85081, N01HC85082, N01HC85083, N01HC85086, and grants U01HL080295 and U01HL130114 from the National Heart, Lung, and Blood Institute (NHLBI), with additional contribution from the National Institute of Neurological Disorders and Stroke (NINDS). Additional support was provided by R01AG023629 from the National Institute on Aging (NIA). A full list of principal CHS investigators and institutions can be found at CHS-NHLBI.org.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Impact Statement:</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>1.</head><p>We certify that this relates (not necessarily confirmatory) to recently published works investigating whether prediabetes has a higher association with subclinical myocardial damage </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>2.</head><p>The potential impact of this research on clinical care or health policy includes the following:</p><p>a.</p><p>Justifies more sensitive and specific measurements to better describe the relationship between prediabetes and unrecognized myocardial infarctions.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>b.</head><p>If prediabetes is found to have an increased risk, then more aggressive intervention may be needed.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>c.</head><p>Our study confirms the significant role of diabetes mellitus in unrecognized myocardial infarctions. Hence, consideration should be made for designing studies to determine the best strategy for prevention and screening. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Author Manuscript</head></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Race and Sex Differences in the Incidence and Prognostic Significance of Silent Myocardial Infarction in the Atherosclerosis Risk in Communities (ARIC) Study</title>
+		<author>
+			<persName><forename type="first">Z</forename><forename type="middle">M</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Rautaharju</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Prineas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">133</biblScope>
+			<biblScope unit="page" from="2141" to="2148" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 27185168</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Centers for Disease Control and Prevention. National Diabetes Statistics Report</title>
+		<imprint>
+			<date type="published" when="2017">2017. 2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Incidence and predictors of silent myocardial infarction in type 2 diabetes and the effect of fenofibrate: an analysis from the Fenofibrate Intervention and Event Lowering in Diabetes (FIELD) study</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Burgess</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Hunt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Li</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">European heart journal</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="92" to="99" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 19797259</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">The relationship between glucose and incident cardiovascular events. A metaregression analysis of published data from 20 studies of 95,783 individuals followed for 12.4 years</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Coutinho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Gerstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Yusuf</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes care</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="233" to="240" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 10333939</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Silent myocardial infarction in women with impaired glucose tolerance: the Northern Sweden MONICA study</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Lundblad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Eliasson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cardiovascular diabetology</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 14498994</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Prognostic significance of silent myocardial infarction in newly diagnosed type 2 diabetes mellitus: United Kingdom Prospective Diabetes Study (UKPDS) 79</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">M</forename><surname>Davis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Coleman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Holman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">127</biblScope>
+			<biblScope unit="page" from="980" to="987" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 23362315</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">Comparison of prognosis in unrecognized versus recognized myocardial infarction in men versus women &gt;55 years of age (from the Rotterdam Study). The American journal of cardiology</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Dehghan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Leening</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Solouki</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<biblScope unit="volume">113</biblScope>
+			<biblScope unit="page" from="1" to="6" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 24216125</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Impact of unrecognized myocardial scar detected by cardiac magnetic resonance imaging on event-free survival in patients presenting with signs or symptoms of coronary artery disease</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">Y</forename><surname>Kwong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Chan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Brown</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">113</biblScope>
+			<biblScope unit="page" from="2733" to="2743" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 16754804</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">New coronary events at four-year follow-up in elderly patients with recognized or unrecognized myocardial infarction</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">S</forename><surname>Aronow</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">63</biblScope>
+			<biblScope unit="page" from="621" to="622" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 2919565</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Prevalence, incidence and prognosis of recognized and unrecognized myocardial infarction in persons aged 75 years or older: The Bronx Aging Study</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Nadelmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">H</forename><surname>Frishman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">L</forename><surname>Ooi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">66</biblScope>
+			<biblScope unit="page" from="533" to="537" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 2392974</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Unrecognized myocardial infarction: epidemiology, clinical characteristics, and the prognostic role of angina pectoris. The Reykjavik Study</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Sigurdsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Thorgeirsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Sigvaldason</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Sigfusson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annals of internal medicine</title>
+		<imprint>
+			<biblScope unit="volume">122</biblScope>
+			<biblScope unit="page" from="96" to="102" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 7993002</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title level="m" type="main">A silent myocardial infarction in the diabetes outpatient clinic: case report and review of the literature. Endocrinology, diabetes &amp; metabolism case reports</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Draman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Thabit</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Kiernan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>O'neill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sreenan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Mcdermott</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013">2013. 2013</date>
+			<biblScope unit="page">130058</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">The incidence and prognosis of unrecognized myocardial infarction in the Honolulu, Hawaii, Heart Program</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Yano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Maclean</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">149</biblScope>
+			<biblScope unit="page" from="1528" to="1532" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 2742427</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">Prevalence, extent, and independent predictors of silent myocardial infarction. The American journal of medicine</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Arenja</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Mueller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">F</forename><surname>Ehl</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<biblScope unit="volume">126</biblScope>
+			<biblScope unit="page" from="515" to="522" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 23597799</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">Prevalence, incidence, predictive factors and prognosis of silent myocardial infarction: a review of the literature. Archives of cardiovascular diseases</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Valensi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Lorgis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Cottin</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<biblScope unit="volume">104</biblScope>
+			<biblScope unit="page" from="178" to="188" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 21497307</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Impact of newly diagnosed abnormal glucose regulation on long-term prognosis in low risk patients with ST-elevation myocardial infarction: A follow-up study</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">C</forename><surname>Knudsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Seljeflot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Abdelnoor</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMC Endocr Disord</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">14</biblScope>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 21801387</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m" type="main">The Cardiovascular Health Study</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Center</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>Internet</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title level="m" type="main">The Cardiovascular Health Study</title>
+		<author>
+			<persName><surname>Chs-Nhlbi</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">Erratum Classification and diagnosis of diabetes.Sec. 2. In Standards of Medical Care in Diabetes-2016 Diabetes Care</title>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page" from="S13" to="S22" />
+		</imprint>
+	</monogr>
+	<note>Suppl. 1. PubMed: 26696675</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Lack of agreement between the World Health Organization Category of impaired glucose tolerance and the American Diabetes Association category of impaired fasting glucose</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">J</forename><surname>Gomez-Perez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Aguilar-Salinas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Lopez-Alvarenga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Perez-Jauregui</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">E</forename><surname>Guillen-Pineda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Rull</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes care</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="1886" to="1888" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 9802737</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Prevalence, predisposing factors, and prognosis of clinically unrecognized infarction in the elderly</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Sheifer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Gersh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">D</forename><surname>Yanez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Ades</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">L</forename><surname>Burke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Manolio</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American College of Cardiology</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="119" to="126" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 10636269</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title level="m" type="main">The Minnesota Code Manual of Electrocardiographic Findings</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Prineas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Crow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z-M</forename><surname>Zhang</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<publisher>Springer</publisher>
+			<pubPlace>London; London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Eligibility for cholesterol referral in communitydwelling older adults. The Cardiovascular Health Study</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Manolio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Furberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">W</forename><surname>Wahl</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annals of internal medicine</title>
+		<imprint>
+			<biblScope unit="volume">116</biblScope>
+			<biblScope unit="page" from="641" to="649" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 1546864</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Ankle-arm index as a marker of atherosclerosis in the Cardiovascular Health Study. Cardiovascular Heart Study (CHS) Collaborative Research Group</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">B</forename><surname>Newman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Siscovick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Manolio</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">88</biblScope>
+			<biblScope unit="page" from="837" to="845" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 8353913</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Impaired glucose tolerance, but not impaired fasting glucose, is associated with increased levels of coronary heart disease risk factors: results from the Baltimore Longitudinal Study on Aging</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Blake</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Meigs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Muller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Najjar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Andres</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Nathan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="2095" to="2100" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 15277391</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Newly diagnosed glucose intolerance and prognosis after acute myocardial infarction: comparison of post-challenge versus fasting glucose concentrations</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Tamita</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Katayama</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Takagi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Heart</title>
+		<imprint>
+			<biblScope unit="volume">98</biblScope>
+			<biblScope unit="page" from="848" to="854" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 22581733</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Prediabetes and the association with unrecognized myocardial infarction in the multi-ethnic study of atherosclerosis</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Stacey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">E</forename><surname>Leaverton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">D</forename><surname>Schocken</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Peregoy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">G</forename><surname>Bertoni</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am Heart J</title>
+		<imprint>
+			<biblScope unit="volume">170</biblScope>
+			<biblScope unit="page" from="923" to="928" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 26542500</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Prevalence and Correlates of Myocardial Scar in a US Cohort</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">B</forename><surname>Turkbey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Nacif</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Guo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Jama</title>
+		<imprint>
+			<biblScope unit="volume">314</biblScope>
+			<biblScope unit="page" from="1945" to="1954" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 26547466</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<title level="m" type="main">Clinically unrecognized Q-wave myocardial infarction in patients with diabetes mellitus, systemic hypertension, and nephropathy. The American journal of cardiology</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Aguilar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">Z</forename><surname>Goldhaber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Gans</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+			<biblScope unit="volume">94</biblScope>
+			<biblScope unit="page" from="337" to="339" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 15276098</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Incidence and prognosis of unrecognized myocardial infarction. An update on the Framingham study</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">B</forename><surname>Kannel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Abbott</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The New England journal of medicine</title>
+		<imprint>
+			<biblScope unit="volume">311</biblScope>
+			<biblScope unit="page" from="1144" to="1147" />
+			<date type="published" when="1984">1984</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 6482932</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Clinical features of unrecognized myocardial infarction--silent and symptomatic. Eighteen year follow-up: the Framingham study</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Margolis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">S</forename><surname>Kannel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Feinleib</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">R</forename><surname>Dawber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Mcnamara</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The American journal of cardiology</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="1" to="7" />
+			<date type="published" when="1973">1973</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 4713110</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Silent myocardial infarction and its prognosis in a community-based cohort of Type 2 diabetic patients: the Fremantle Diabetes Study</title>
+		<author>
+			<persName><forename type="first">Tme</forename><surname>Davis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Fortun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mulder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">A</forename><surname>Davis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">G</forename><surname>Bruce</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="395" to="399" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 14963648</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Prevalence and prognosis of unrecognized myocardial infarction determined by cardiac magnetic resonance in older adults</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">B</forename><surname>Schelbert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Cao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sigurdsson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Jama</title>
+		<imprint>
+			<biblScope unit="volume">308</biblScope>
+			<biblScope unit="page" from="890" to="896" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 22948699</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Incidence and prognostic implication of unrecognized myocardial scar characterized by cardiac magnetic resonance in diabetic patients without clinical evidence of myocardial infarction</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">Y</forename><surname>Kwong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Sattar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Wu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">118</biblScope>
+			<biblScope unit="page" from="1011" to="1020" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 18725488</note>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Silent coronary artery disease in diabetic patients with cardiac autonomic neuropathy</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Jermendy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Davidovits</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Khoor</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes care</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="1231" to="1232" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 7821155</note>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Diabetic cardiac autonomic neuropathy, inflammation and cardiovascular disease</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">I</forename><surname>Vinik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Erbas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Casellini</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of diabetes investigation</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="4" to="18" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 23550085</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Diabetic neuropathies: clinical manifestations and current treatment options</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Vinik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ullal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">K</forename><surname>Parson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Casellini</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature clinical practice Endocrinology &amp; metabolism</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="269" to="281" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<title level="m" type="main">Does diabetes hide osteoarthritis pain? Medical hypotheses</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">E</forename><surname>Leaverton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Peregoy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Fahlman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Sangeorzan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Barrett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jr</forename></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<biblScope unit="volume">78</biblScope>
+			<biblScope unit="page">22305707</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Pain Tolerance in Persons With Recognized and Unrecognized Myocardial Infarction: A Population-Based, Cross-Sectional Study</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Ohrn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Nielsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Schirmer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Stubhaug</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Wilsgaard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Lindekleiv</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Heart Association</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Prevalence of polyneuropathy in pre-diabetes and diabetes is associated with abdominal obesity and macroangiopathy: the MONICA/KORA Augsburg Surveys S2 and S3</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Ziegler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Rathmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Dickhaus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Meisinger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mielck</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes care</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="464" to="469" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 18039804</note>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Prevalence and risk factors of neuropathic pain in survivors of myocardial infarction with pre-diabetes and diabetes. The KORA Myocardial Infarction Registry</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Ziegler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Rathmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Meisinger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Dickhaus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mielck</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">European journal of pain</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="582" to="587" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Neuropathy in prediabetes: does the clock start ticking early?</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Papanas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">I</forename><surname>Vinik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Ziegler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat Rev Endocrinol</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="682" to="690" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 21750507</note>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<monogr>
+		<title level="m" type="main">Prediabetic neuropathy: does it exist? Current diabetes reports</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Papanas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Ziegler</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="376" to="383" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 22562652</note>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Diabetic neuropathy in older adults</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">I</forename><surname>Vinik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Strotmeyer Nakave</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">V</forename><surname>Patel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clinics in geriatric medicine</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="407" to="435" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 18672180</note>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<monogr>
+		<title level="m" type="main">Cardiovascular autonomic dysfunction is associated with central obesity in persons with impaired glucose tolerance. Diabetic medicine : a journal of the British Diabetic Association</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Laitinen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lindstrom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Eriksson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="699" to="704" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 21388444</note>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<monogr>
+		<title level="m" type="main">Silent myocardial infarction and diabetic cardiovascular autonomic neuropathy. Archives of internal medicine</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Niakan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Harati</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Rolak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Comstock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Rokey</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1986">1986</date>
+			<biblScope unit="volume">146</biblScope>
+			<biblScope unit="page" from="2229" to="2230" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 3778054</note>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Diabetic cardiovascular autonomic neuropathy</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">I</forename><surname>Vinik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Ziegler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">115</biblScope>
+			<biblScope unit="page" from="387" to="397" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 17242296</note>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<monogr>
+		<title level="m" type="main">Association between silent coronary artery disease, diabetes, and autonomic neuropathy. Fact of fallacy? Diabetes care</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">E</forename><surname>Airaksinen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Koistinen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1992">1992</date>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="288" to="292" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 1547688</note>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Costeffectiveness of screening for coronary artery disease in asymptomatic patients with Type 2 diabetes and additional atherogenic risk factors</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Hayashino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Nagata-Kobayashi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Morimoto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Maeda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Shimbo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Fukui</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of general internal medicine</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="1181" to="1191" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 15610328</note>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Economic outcomes of treatment strategies for type 2 diabetes mellitus and coronary artery disease in the Bypass Angioplasty Revascularization Investigation 2 Diabetes trial</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Hlatky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Boothroyd</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Melsop</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">120</biblScope>
+			<biblScope unit="page" from="2550" to="2558" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 19920002</note>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Modification of the effect of glycemic status on aortic distensibility by age in the multi-ethnic study of atherosclerosis</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Stacey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">G</forename><surname>Bertoni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Eng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Bluemke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">G</forename><surname>Hundley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Herrington</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hypertension</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="26" to="32" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 19933927</note>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Plasma glucose regulation and mortality in Korea: a pooled analysis of three community-based cohort studies</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">H</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">W</forename><surname>Park</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes &amp; metabolism journal</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="44" to="50" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 24627827</note>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">To assess the prevalence of impaired glucose tolerance and impaired fasting glucose in Western Indian population</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Shah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">R</forename><surname>Sheth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Solanki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Shah</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Journal of the Association of Physicians of India</title>
+		<imprint>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="page" from="179" to="184" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 24475680</note>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Impaired fasting glucose and the risk of incident diabetes mellitus and cardiovascular events in an adult population: MESA (Multi-Ethnic Study of Atherosclerosis)</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Yeboah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">G</forename><surname>Bertoni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Herrington</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">S</forename><surname>Post</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">L</forename><surname>Burke</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American College of Cardiology</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="page" from="140" to="146" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 21718910</note>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Prevalence of prediabetes in England from 2003 to 2011: population-based, cross-sectional study</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">G</forename><surname>Mainous</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Tanner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Baker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Zayas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Harle</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMJ open</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page">e005002</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Prevalence and control of diabetes in Chinese adults</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>He</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Jama</title>
+		<imprint>
+			<biblScope unit="volume">310</biblScope>
+			<biblScope unit="page" from="948" to="959" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 24002281</note>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<monogr>
+		<title level="m">Men: N=1</title>
+				<imprint>
+			<biblScope unit="volume">726</biblScope>
+			<biblScope unit="page">187</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">Adjusted for age, race, gender, body mass index, hypertension, anti-hypertensive medication use, total cholesterol, HDL cholesterol, lipid-lowering medication use, and smoking status</title>
+	</analytic>
+	<monogr>
+		<title level="j">Model</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

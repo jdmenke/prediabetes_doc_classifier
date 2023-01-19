@@ -1,0 +1,1128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Clinical and Experimental Hypertension</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2017-06-07">07 Jun 2017.</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Ryoma</forename><surname>Michishita</surname></persName>
+							<email>rmichishita@med.uoeh-u.ac.jp</email>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Health Development</orgName>
+								<orgName type="department" key="dep2">Institute of Industrial Ecological Sciences</orgName>
+								<orgName type="institution">University of Occupational and Environmental Health</orgName>
+								<address>
+									<settlement>Kitakyushu</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">Fukuoka University Institute for Physical Activity</orgName>
+								<address>
+									<settlement>Fukuoka</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Takuro</forename><surname>Matsuda</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution">Fukuoka University Institute for Physical Activity</orgName>
+								<address>
+									<settlement>Fukuoka</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Physical Medicine and Rehabilitation</orgName>
+								<orgName type="institution">Fukuoka University Hospital</orgName>
+								<address>
+									<settlement>Fukuoka</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Shotaro</forename><surname>Kawakami</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Faculty of Health and Sports Science</orgName>
+								<orgName type="laboratory">Laboratory of Exercise Physiology</orgName>
+								<orgName type="institution">Fukuoka University</orgName>
+								<address>
+									<settlement>Fukuoka</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Satoshi</forename><surname>Tanaka</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Faculty of Health and Sports Science</orgName>
+								<orgName type="laboratory">Laboratory of Exercise Physiology</orgName>
+								<orgName type="institution">Fukuoka University</orgName>
+								<address>
+									<settlement>Fukuoka</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Akira</forename><surname>Kiyonaga</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution">Fukuoka University Institute for Physical Activity</orgName>
+								<address>
+									<settlement>Fukuoka</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Hiroaki</forename><surname>Tanaka</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution">Fukuoka University Institute for Physical Activity</orgName>
+								<address>
+									<settlement>Fukuoka</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">Faculty of Health and Sports Science</orgName>
+								<orgName type="laboratory">Laboratory of Exercise Physiology</orgName>
+								<orgName type="institution">Fukuoka University</orgName>
+								<address>
+									<settlement>Fukuoka</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Natsumi</forename><surname>Morito</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="institution">Fukuoka University Health Care Center</orgName>
+								<address>
+									<settlement>Fukuoka</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff5">
+								<orgName type="department">Department of Cardiology</orgName>
+								<orgName type="institution">Fukuoka University School of Medicine</orgName>
+								<address>
+									<settlement>Fukuoka</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Yasuki</forename><surname>Higaki</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution">Fukuoka University Institute for Physical Activity</orgName>
+								<address>
+									<settlement>Fukuoka</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">Faculty of Health and Sports Science</orgName>
+								<orgName type="laboratory">Laboratory of Exercise Physiology</orgName>
+								<orgName type="institution">Fukuoka University</orgName>
+								<address>
+									<settlement>Fukuoka</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><surname>Yasuki</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff6">
+								<orgName type="department" key="dep1">Department of Health Development</orgName>
+								<orgName type="department" key="dep2">Institute of Industrial Ecological Sciences</orgName>
+								<orgName type="institution">University of Occupational and Environmental Health</orgName>
+								<address>
+									<addrLine>1-1 Iseigaoka, Yahatanishi-ku</addrLine>
+									<postCode>807-8555</postCode>
+									<settlement>Kitakyushu</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Clinical and Experimental Hypertension</title>
+					</analytic>
+					<monogr>
+						<idno type="ISSN">1064-1963 (Print) 1525-6006</idno>
+						<imprint>
+							<date type="published" when="2017-06-07">07 Jun 2017.</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">0405B37976D934B01CDDBBE3B428DCDC</idno>
+					<idno type="DOI">10.1080/10641963.2017.1306541</idno>
+					<note type="submission">Received 13 December 2016 Revised 1 March 2017 Accepted 2 March 2017</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.1" ident="GROBID" when="2022-07-19T22:45+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Cardiovascular risk factors</term>
+					<term>diabetes mellitus</term>
+					<term>highnormal blood pressure</term>
+					<term>hypertension</term>
+					<term>impaired fasting glucose</term>
+					<term>incidence of CKD</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Aim: Chronic kidney disease (CKD) may be an etiologic cause of aging, hypertension, diabetes mellitus (DM), and metabolic syndrome. However, the influence of these cardiovascular risk factors and their combination on the development of CKD remains controversial. This retrospective study evaluated the influence of cardiovascular risk factors and their combination on the incidence of CKD during a 6-year follow-up period in middle-aged and older males. Methods: The subjects were 303 males without a history of cardiovascular disease, stroke, renal dysfunction, or dialysis treatment. A biochemical analysis, blood pressure (BP) analysis, and anthropometry measurements were performed every year, and the classification of CKD was also assessed based on the estimated glomerular filtration rate (&lt;60 ml/min/ 1.73 m 2 ) and/or presence of proteinuria. Results: After 6 years, the incidence of CKD was noted in 32 subjects. According to a multivariable analysis, hypertension (hazard ratio [HR]: 3.95, 95% confidence of interval [CI]: 1.64-9.49, p = 0.002) and hyperglycemia (HR: 3.27, 95% CI: 1.42-7.56, p = 0.006) were significantly associated with the incidence of CKD. According to a Cox proportional hazards model, the HR for the incidence of CKD was significantly higher in the combination of high-normal BP/hypertension and impaired fasting glucose/DM group than in the combination of normotensive and normal glucose tolerance group (HR: 7.16, 95% CI: 2.43-17.25, p = 0.001). Conclusions: These results suggest that the hypertension and hyperglycemia and their combination may be associated with the incidence of CKD.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>The number of patients with end-stage renal disease (ESRD) in Japan is continuously increasing <ref type="bibr" target="#b0">(1)</ref>. Chronic kidney disease (CKD) has been associated with the development of ESRD and cardiovascular disease (CVD) morbidity and mortality <ref type="bibr" target="#b1">(2,</ref><ref type="bibr" target="#b2">3)</ref>. The large number of ESRD patients at present is believed to be related to the increasing number of patients with CKD.</p><p>On the other hand, it is well known that noncommunicable diseases, namely characterized by metabolic syndrome, diabetes mellitus (DM), hypertension, and dyslipidemia, are common disorders <ref type="bibr" target="#b3">(4)</ref>. Additionally, at the present, the risk factors for CKD are thought to be aging, hypertension, DM, and metabolic syndrome <ref type="bibr" target="#b4">(5)</ref><ref type="bibr" target="#b5">(6)</ref><ref type="bibr" target="#b6">(7)</ref>. The aim of CKD treatment is not only to improve the renal function but also to prevent the development of ESRD and CVD. However, at present, the influence of these cardiovascular risk factors alone and in combination on the development of CKD remains controversial, despite the fact that the accumulation of above risk factors has been shown to be associated with cardiovascular morbidity and mortality <ref type="bibr" target="#b7">(8)</ref><ref type="bibr" target="#b8">(9)</ref><ref type="bibr" target="#b9">(10)</ref>.</p><p>We therefore hypothesized that the above cardiovascular risk factors and their combination might predict the incidence of CKD. The clarification of the influence of cardiovascular risk factors, such as obesity, hypertension, dyslipidemia and hyperglycemia, and their combination on the incidence of CKD, may highlight the importance of CKD prevention. This retrospective study evaluated the influence of cardiovascular risk factors and their combination on the incidence of CKD during a 6-year follow-up period in middle-aged and older males.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Subjects and methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Subjects</head><p>A total of 773 middle-aged and older adults received their periodic health checkup at a health-care center in Fukuoka University in 2008. The study diagram of the participants included in this study is shown in Figure <ref type="figure" target="#fig_0">1</ref>. Among the 434 subjects who provided informed consent, 178 females were excluded from this study to remove the influence of gender. Subjects with a previous history of CVD, such as angina and myocardial infarction (n = 4), stroke (n = 2), renal dysfunction (glomerular filtration rate estimated by the Japanese glomerular filtration rate inference formula [eGFR] &lt;60 ml/ min/1.73 m 2 , or proteinuria, or both) <ref type="bibr" target="#b10">(11)</ref>, and/or dialysis treatment (n = 45), were also excluded from the analysis. Subjects taking antihypertensive drugs, antihyperlipidemic agents, or hypoglycemic agents were included in this study (antihypertensive drugs users, 43 subjects; antihyperlipidemic agents users, 25 subjects; hypoglycemic agents users, 7 subjects). A total of 303 males (age: 52.2 ± 6.7 years, body mass index [BMI]: 23.4 ± 2.8 kg/m 2 , serum creatinine: 0.84 ± 0.09 mg/dl, and eGFR: 77.0 ± 10.3 ml/min/1.73 m 2 ) with no missing information over the previous 6 years were eligible for the present study.</p><p>All subjects gave their informed consent to participate after agreeing with the purpose, methods, and significance of the study. The study conforms to the Declaration of Helsinki guidelines and was approved by the Ethics Committee of Fukuoka University (No. 11-08-01).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Blood sampling, blood pressure, and anthropometry measurements</head><p>Blood samples were collected early in the morning by venipuncture from an antecubital vein after at least 12 h of fasting. The blood samples were analyzed by Special Reference Laboratories (SRL Inc., Tokyo, Japan). The serum creatinine, high-density lipoprotein cholesterol (HDL-C), and low-density lipoprotein cholesterol (LDL-C) levels were measured by the direct method. The triglyceride levels were measured by the enzyme method. The plasma glucose level was measured by an ultraviolet/hexokinase method and hemoglobin A 1 c (HbA 1 c) was measured by high-performance liquid chromatography. HbA 1 c is presented as the National Glycohemoglobin Standardization Program (NGSP) value, which was calculated using the conversion equation for HbA 1 c derived from the Japan Diabetes Society (JDS): HbA 1 c (NGSP value; %) = 1.02 × JDS value (%) + 0.25% <ref type="bibr" target="#b11">(12)</ref>.</p><p>The grade of CKD was classified according to the eGFR and presence of proteinuria. The eGFR level was calculated using the Japanese GFR inference formula: eGFR (ml/min/1.73 m 2 ) = 194 × serum creatinine (mg/dl) −1.094 × age (years) −0.287 <ref type="bibr" target="#b12">(13)</ref>. The GFR is a more accurate measure of the renal function than serum creatinine <ref type="bibr" target="#b13">(14)</ref> and identifies patients with mild renal impairment despite normal or nearly normal creatinine levels. In addition, the eGFR is a strong predictor of cardiovascular events and is more useful for this purpose than serum creatinine <ref type="bibr" target="#b14">(15,</ref><ref type="bibr" target="#b15">16)</ref>. A urinalysis was performed using a dipstick, and the urine test results were classified as (−), (±), (1+), (2+), and (3+) <ref type="bibr" target="#b16">(17)</ref>. In this study, the CKD was defined according to definition of the Japanese Society of Nephrology; eGFR &lt; 60 ml/min/1.73 m 2 , positive proteinuria (1+ or greater), or both <ref type="bibr" target="#b10">(11)</ref>. The breakdown of subjects' CKD grade at baseline <ref type="bibr" target="#b10">(11)</ref> was as follows: G1 (eGFR ≥ 90 ml/ min/1.73 m 2 ), n = 29 (9.6%); and G2 (eGFR 60-89 ml/ min/1.73 m 2 ), n = 274 (90.4%).</p><p>Blood pressure (BP) was measured in the right arm with the subject sitting in a chair, after at least 5 min of rest, and was expressed as an average of duplicate measurements. The height and body weight were measured, and the BMI was calculated as the ratio of the body weight (kg) to the height squared (m 2 ). The waist circumference was measured at the level of the umbilicus. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Classification of cardiovascular risk factors</head><p>A biochemical analysis, BP and anthropometry measurements, and an assessment of lifestyle behaviors were performed every year, and the classification of each cardiovascular risk factor was also assessed. Overweight and abdominal obesity were classified according to the guideline of the Japan Society for the Study of Obesity as follows: overweight, BMI ≥ 25.0 kg/m 2 ; abdominal obesity, waist circumference ≥85 cm <ref type="bibr" target="#b17">(18)</ref>. High-normal BP and hypertension were defined according to the criteria of the Japanese Society of Hypertension as follows: high-normal BP, resting systolic BP (SBP) 130-139 mmHg and/or diastolic BP (DBP) 85-89 mmHg; hypertension, resting SBP ≥ 140 mmHg and/ or DBP ≥ 90 mmHg and/or taking antihypertensive drugs <ref type="bibr" target="#b18">(19)</ref>. Hypercholesterolemia and dyslipidemia were defined according to the criteria of the Japan Atherosclerosis Society as follows: hypercholesterolemia, LDL-C ≥ 140 mg/dl and/or taking antihyperlipidemic agents; dyslipidemia, HDL-C &lt; 40 mg/dl and/or triglycerides ≥150 mg/dl and/or taking antihyperlipidemic agents <ref type="bibr" target="#b19">(20)</ref>. Impaired fasting glucose (IFG) and type 2 DM based on the fasting plasma glucose and HbA 1 c levels were defined according to the criteria of the JDS as follows: IFG, fasting glucose 110-125; DM, fasting glucose ≥126 mg/dl and/or HbA 1 c (NGSP values) ≥6.5% and/or taking hypoglycemic drugs <ref type="bibr" target="#b20">(21)</ref>. Metabolic syndrome was defined according to the metabolic syndrome diagnostic criteria of the Japanese Society for Internal Medicine <ref type="bibr" target="#b21">(22,</ref><ref type="bibr" target="#b22">23)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Assessment of lifestyle behaviors</head><p>The subjects' lifestyle behaviors regarding drinking and smoking habits were selected for the present study based on the standardized self-administered questionnaire of the National Health Promotion Program <ref type="bibr" target="#b23">(24,</ref><ref type="bibr" target="#b24">25)</ref>. Previous studies have noted that the combination of lifestyle behaviors regarding exercise, physical activity, and diet is related to the incidence/ prevalence of CKD in middle-aged and older males <ref type="bibr" target="#b25">(26)</ref><ref type="bibr" target="#b26">(27)</ref><ref type="bibr" target="#b27">(28)</ref>. The subjects' drinking and smoking habits were assessed by "yes" or "no" responses to questions about their drinking habit (not drinking everyday) and smoking habit (recently not smoking).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analyses</head><p>The data were expressed as the means and the standard deviation (SD). The StatView J-5.0 software package (SAS Institute, Cary, NC, USA) was used for all of the statistical analyses. In this study, the subjects' drinking and smoking habits and their presence of cardiovascular risk factors were expressed as categorical variables, and the biochemical, BP, and anthropometric indices were shown as continuous variables. As a result, the present study only analyzed data from participants who received their periodic health checkup in a 6-year period. The intergroup comparisons were performed using Mann-Whitney's U test for continuous variables and the chi-squared test for categorical variables. The cumulative incidence of CKD was determined using the Kaplan-Meier survival curves and log-rank test. A Cox proportional hazards model was used to predict the incidence of CKD using the parameters as categorical variables. In this Cox proportional hazards model, age, BMI, eGFR, and the smoking and drinking habits at baseline were entered as adjusted factors. A probability value &lt;0.05 was considered to indicate statistical significance.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>After 6 years, the incidence of CKD (eGFR &lt; 60 ml/min/1.73 m 2 and/or proteinuria) was observed in 32 subjects (10.6%). The breakdown of the subjects by CKD grade (11) after 6 years was as follows: G1 (eGFR ≥ 90 ml/min/1.73 m 2 ), n = 10 (3.3%); G2 (eGFR 60-89 ml/min/1.73 m 2 ), n = 261 (86.1%); and G3a (eGFR 45-59 ml/min/1.73 m 2 ), n = 32 (10.6%; including 2 with proteinuria). Table <ref type="table" target="#tab_0">1</ref> first mention.≥ compares the baseline characteristics in subject who did and did not develop CKD. The serum creatinine level, age, SBP, DBP, fasting glucose, HbA 1 c levels, and rate of taking antihypertensive drugs or hypoglycemic agents were significantly higher and the eGFR and HDL-C levels significantly lower in the CKD group than in the non-CKD group (p &lt; 0.05, respectively). No significant differences between these groups were noted in other coronary risk factors.</p><p>Figure <ref type="figure">2</ref> first mention.≥ shows the influence of cardiovascular risk factors on the incidence of CKD. In this analysis, cardiovascular risk factors such as overweight/abdominal obesity, normal-high BP/hypertension, hypercholesterolemia, dyslipidemia, hyperglycemia, and metabolic syndrome were dependent variables, and the incidence of CKD was an independent variable. In a univariable analysis, high-normal BP/ hypertension (hazard ratio [HR]: 3.44, 95% confidence of interval [CI]: 1.49-7.98, p = 0.004), hypercholesterolemia (HR: 2.26, 95% CI: 1.04-4.90, p = 0.039), and hyperglycemia (HR: 2.56, 95% CI: 1.13-5.82, p = 0.025) were significantly associated with the incidence of CKD. In a multivariable analysis, age, BMI, eGFR, and smoking and drinking habits at baseline were entered as adjusted factors, because age, BMI, and smoking and drinking habits potentially influence on the renal function. After adjusting for age, BMI, eGFR level, and smoking and drinking habits at baseline, high-normal BP/ hypertension (HR: 3.95, 95% CI: 1.64-9.49, p = 0.002) and hyperglycemia (HR: 3.27, 95% CI: 1.42-7.56, p = 0.006) were found to be significantly associated with the incidence of CKD.</p><p>Figures <ref type="figure">3 and 4</ref> and Table <ref type="table" target="#tab_1">2</ref> first mention.≥ show the cumulative incidence and relative risk of developing CKD over a 6-year follow-up period in subjects with and without high-normal BP/hypertension and IFG/DM. On categorization by BP, the Kaplan-Meier survival curve showed that the cumulative incidence of CKD was significantly higher in normotensive than in hypertensive, and in hypertensive than in high-normal BP subjects (log-rank test: p = 0.002, Figure <ref type="figure">3A</ref>). In a univariable analysis, high-normal BP (HR: 3.93, 95% CI: 1.52-9.19, p = 0.005) and hypertension (HR: 3.59, 95% CI: 1.52-8.46, p = 0.004) were significantly associated with the incidence of CKD. Furthermore, after adjusting for age, BMI, eGFR, and smoking and drinking habits at baseline, high-normal BP (HR: 3.40, 95% CI: 1.28-9.06, p = The data are expressed as the mean ± standard deviation and the number of subjects. The classifications of CKD grade were defined according to the definition of the Japanese Society of Nephrology <ref type="bibr" target="#b10">(11)</ref>. CKD: chronic kidney disease; eGFR: estimated glomerular filtration rate; BMI: body mass index; SBP: systolic blood pressure; DBP: diastolic blood pressure; LDL-C: low-density lipoprotein cholesterol; HDL-C: high-density lipoprotein cholesterol; HbA 1 c: hemoglobin A 1 c; NGSP: national glycohemoglobin standardization program.</p><p>0.014) and hypertension (HR: 2.97, 95% CI: 1.17-7.54, p = 0.022) remained significantly associated with the prevalence of CKD.</p><p>In the categorized glucose tolerance states, the cumulative incidence of CKD was significantly higher in NGT than in IFG, and in IFG than in DM subjects (log-rank test: p = 0.013, Figure <ref type="figure">3B</ref>). In a univariable analysis, IFG (HR: 2.67, 95% CI: 1.08-6.21, p = 0.031) and DM (HR: 3.03, 95% CI: 1.14-8.02, p = 0.026) were significantly associated with the incidence of CKD. In a multivariable analysis, IFG (HR: 2.31, 95% CI: 1.09-5.83, p = 0.040) and DM (HR: 2.91, 95% CI: 1.16-8.00, p = 0.031) remained significantly associated with the prevalence of CKD (Table <ref type="table" target="#tab_1">2</ref>).</p><p>Additionally, the subjects were divided into four categories based on the combination with and without high-normal BP/hypertension and IFG/DM. The cumulative incidence of CKD was significantly higher in the order of combination of high-normal BP/hypertension and IFG/ DM, IFG/DM only, high-normal BP/hypertension only, and combination of normotensive and NGT groups (logrank test: p = 0.0005, Figure <ref type="figure">4</ref>). In a univariable analysis, the high-normal BP/hypertension only (HR: 4.70, 95% CI: 1.72-9.82, p = 0.003), IFG/DM only (HR: 6.08, 95% CI: 1.45-19.46, p = 0.013), and the combination of high-normal BP/hypertension and IFG/DM (HR: 7.50, 95% CI: 2.45-16.95, p = 0.0004) were significantly associated with the incidence of CKD. In a multivariable analysis, highnormal BP/hypertension only (HR: 3.78, 95% CI: 1.32-9.32, p = 0.013), IFG/DM only (HR: 3.90, 95% CI: 1.09-12.89, p = 0.043), and the combination of high-normal BP/ Figure <ref type="figure">2</ref>. Influence of cardiovascular risk factors on the incidence of CKD. The data are expressed as the hazard ratio (95% CI). In this analysis, each risk factor was a dependent variable, and the incidence of CKD was an independent variable. Metabolic syndrome was defined according to the metabolic syndrome diagnostic criteria described by the Japanese Society for Internal Medicine <ref type="bibr" target="#b25">(26,</ref><ref type="bibr" target="#b26">27)</ref>. Open circle: univariable model, filled circle: multivariable model, adjusted for age, BMI, eGFR, and smoking and drinking habits at baseline. The abbreviations are the same as those in Table <ref type="table" target="#tab_0">1</ref>.</p><p>Figure <ref type="figure">3</ref>. The cumulative incidence of CKD after a 6-year follow-up period in subjects with and without high-normal BP/hypertension (A) and IFG/DM (B). BP: blood pressure; NGT: normal-glucose tolerance; IFG: impaired fasting glucose; DM: diabetes mellitus.</p><p>hypertension and IFG/DM (HR: 7.16, 95% CI: 2.43-17.25, p = 0.001) were significantly associated with the incidence of CKD (Table <ref type="table" target="#tab_1">2</ref>).</p><p>The subjects were divided into two categories based on CKD subjects with and without high-normal BP/hypertension or IFG/DM. Table <ref type="table">3</ref> compares the baseline characteristics in CKD subject with and without high-normal BP/hypertension or IFG/DM. On categorization by BP, SBP, DBP, and rate of taking antihypertensive drugs were significantly higher in the CKD subjects with high-normal BP/hypertension than in the CKD subjects without high-normal BP/hypertension (p ≤ 0.05, respectively). In the categorized glucose tolerance states, fasting glucose, HbA 1 c levels, and rate of taking hypoglycemic agents were significantly higher in the CKD subjects with IFG/DM than in the CKD subjects without IFG/DM (p ≤ 0.05, respectively) No significant differences between these groups were noted in other coronary risk factors.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>The major findings of our study were that hypertension and hyperglycemia were significantly associated with the incidence of CKD. In addition, the relative risk for incidence of CKD was found to be significantly higher in the combination of high-normal BP/hypertension and IFG/DM group than in the combination of normotensive and NGT group. The results of the present study suggest that hypertension and hyperglycemia alone and in combination are independent risk factors for the incidence of CKD.</p><p>The CKD is widely suspected of being an etiologic cause of aging, hypertension, DM, and metabolic syndrome <ref type="bibr" target="#b4">(5)</ref><ref type="bibr" target="#b5">(6)</ref><ref type="bibr" target="#b6">(7)</ref>. However, at present, the influence of combined with hypertension and hyperglycemia on the development of CKD remains controversial, despite this combination being shown to be associated with cardiovascular morbidity and mortality <ref type="bibr" target="#b28">(29)</ref><ref type="bibr" target="#b29">(30)</ref><ref type="bibr" target="#b30">(31)</ref>. Pascual et al. <ref type="bibr" target="#b31">(32)</ref> invested the impact of factors related to the development of microalbuminuria during a follow-up study of young adults and showed that the development of microalbuminuria was linked to insufficient BP control and to a progressive increase in glucose values. Torffvit et al. <ref type="bibr" target="#b32">(33)</ref> reported that poor glycemic and BP controls were associated with the development of nephropathy and high BP with progression of nephropathy in type 2 diabetic patients. In the present study, the cumulative incidence of CKD was significantly higher in the combination of high-normal BP/hypertension and IFG/DM group than in the combination of normotensive and NGT group, which is consistent with the findings from previous studies. Thus, the results of the present study support the possibility that the combination of hypertension and hyperglycemia is important for preventing the development of CKD. Based on these findings, hypertension and hyperglycemia not only alone but also in combination may be associated with the development of CKD, ESRD, and CVD.</p><p>Hypertension and hyperglycemia have been thought to induce nephropathy, a leading cause of microvascular complications, through an increase in productions of oxidative stress, inflammation, advanced glycation end products The data are expressed as the hazard ratio (95% confidence interval [CI]).</p><p>In this analysis, the prevalence of high-normal blood pressure (BP)/hypertension and impaired fasting glucose (IFG)/diabetes mellitus (DM) at baseline was a dependent variable, and the incidence of CKD was an independent variable. In the multivariable model, age, BMI, eGFR, and smoking and drinking habits at baseline were entered as adjusted factors. The abbreviations are the same as those in Figure <ref type="figure">3</ref>. The data are expressed as the mean ± standard deviation and the number of subjects.</p><p>The subjects were divided into two categories based on CKD subjects with and without high-normal BP/hypertension or IFG/DM. The abbreviations are the same as those in Table <ref type="table" target="#tab_0">1</ref>.</p><p>(AGE), and vascular endothelial dysfunction <ref type="bibr" target="#b33">(34,</ref><ref type="bibr" target="#b34">35)</ref>. Ogawa et al. <ref type="bibr" target="#b35">(36)</ref> examined the blockade of angiotensin II type I receptors, which reduces oxidative stress markers in parallel with urinary albumin, and found that increases in oxidative stress caused by angiotensin II play an important role in the progression of diabetic nephropathy. Unfortunately, we were unable to clarify the causality of the incidence of CKD and the combination of hypertension and hyperglycemia, as the present study was performed within the constraints of a health checkup. However, given these present and previous findings, microvascular complications, such as increases in production of oxidative stress, inflammation, AGE, and vascular endothelial dysfunction, may cause hypertension and/or hyperglycemia, representing a possible mechanism underlying the association between the incidence of CKD and the combination of hypertension and hyperglycemia. On the other hand, in the present study, SBP, DBP, and rate of taking antihypertensive drugs were significantly higher in the CKD subjects with high-normal BP/hypertension than in the CKD subjects without high-normal BP/hypertension, while fasting glucose, HbA 1 c levels, and rate of taking hypoglycemic agents were significantly higher in the CKD subjects with IFG/DM than in the CKD subjects without IFG/DM. From the current findings, it was impossible to clarify the specific characteristics of nondiabetic and non-hypertensive CKD subjects. Therefore, we can envision that different mechanisms are responsible for the development of CKD in non-hypertensive or non-hyperglycemic subjects compared to hypertensive or hyperglycemic subjects.</p><p>According to our data, the cumulative incidence of CKD was similar in the high-normal BP and hypertensive groups, and a similar tendency was also observed in the IFG and DM groups. Elevations of BP and blood glucose levels are known to be major independent risk factors for the development of subsequent ESRD and CVD, even in subjects with high-normal BP and/or IFG <ref type="bibr" target="#b30">(31,</ref><ref type="bibr" target="#b36">(37)</ref><ref type="bibr" target="#b37">(38)</ref><ref type="bibr" target="#b38">(39)</ref><ref type="bibr" target="#b39">(40)</ref>. A sub-analysis of the CASE-J trial <ref type="bibr" target="#b38">(39)</ref> that examined the relationship between the achieved BP and incidence of CVD found that a high-normal BP was associated with an increased risk of cardiovascular events in patients with DM and CKD. Fox et al. <ref type="bibr" target="#b39">(40)</ref> also reported that the odds ratio for developing CKD was significantly higher in subjects with IFG or impaired glucose tolerance and DM than in normal subjects and noted that prediabetes was an independent risk factor for the development of kidney disease. Given these findings, hypertension and hyperglycemia, especially early stage of high-normal BP and IFG, may be predictive factors for incidence of the CKD and may indirectly help prevent the development of ESRD or CVD or the introduction of dialysis in middle-aged and older males. Therefore, we believe that administering lifestyle counseling to improve in early stage of hypertension and hyperglycemia is necessary to prevent the development of CKD, ESRD, and CVD.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study limitations and clinical implications</head><p>There are several limitations associated with this study. First, the limited study population resulted in a small number of male subjects, who were predominantly middle-aged and older, and did not have any health complications. Thus, there is potential selection bias in this study, as our limited study population may have included more CKD subjects with slowly declining renal function than CKD subjects with rapid deterioration. As such, whether or not our findings are generalizable to females, patients with ESRD, or those with other complications remains unclear. Second, although this study was performed within the constraints of the health checkup, it was not possible to clarify the causality of the incidence of CKD with the combination of high-normal BP/hypertension and IFG/ DM. Third, the indices of glucose tolerance in this study were evaluated using the fasting glucose and HbA 1 c levels. Impaired glucose tolerance, as measured with an oral glucose tolerance test, was associated with an increased risk of CVD compared with IFG (41), which could not be evaluated in our subjects. Fourth, there were many dropout subjects (n = 80) with missing information over the previous 6 years who were eligible for the present study. Age was significantly higher in the subjects without follow-up assessments than in the subjects with follow-up assessments (52.2 ± 6.7 years vs. 58.7 ± 4.2 years, p = 0.021, data not shown). We considered that above reason was that there were many retired in subjects without follow-up assessments because this study was performed within the constraints of the health checkup in our university. Finally, we calculated the eGFR using the Japanese GFR inference formula <ref type="bibr" target="#b12">(13)</ref> and used proteinuria as an index of the renal function. To fully clarify the influence of hypertension and hyperglycemia and the combination thereof on the renal function, other indices of the renal function, such as urinary protein excretion, microalbuminuria, or cystatin C, should be simultaneously assessed. However, we were unable to measure any additional markers of the renal function in this study.</p><p>However, it is well known that hypertension and hyperglycemia play a pivotal role in the pathogenesis of various stages of renal dysfunction <ref type="bibr" target="#b33">(34,</ref><ref type="bibr" target="#b34">35)</ref> and that they are closely correlated with the future development of CKD, ESRD, and CVD <ref type="bibr" target="#b30">(31,</ref><ref type="bibr" target="#b36">(37)</ref><ref type="bibr" target="#b37">(38)</ref><ref type="bibr" target="#b38">(39)</ref><ref type="bibr" target="#b39">(40)</ref>. Furthermore, the serum creatinine level can be easily measured as part of a routine clinical evaluation. In addition, eGFR is a strong predictor of cardiovascular events and is more useful for this purpose than the serum creatinine level <ref type="bibr" target="#b13">(14,</ref><ref type="bibr" target="#b15">16)</ref>. The results of the present study therefore show a relationship between hypertension and hyperglycemia and the combination thereof with the incidence of CKD and may support the hypothesis that the accumulation of cardiovascular risk factors leads to an increase in the incidence of CVD and the development of ESRD. Given our results, we believe that performing early stage of lifestyle counseling to improve hypertension and hyperglycemia is necessary to prevent the development of CKD, ESRD, and CVD. Further investigations in a large number of subjects, including subjects with other complications, are necessary to more precisely clarify the mechanisms, clinical implications, and associations of several cardiovascular risk factors and their combination with the incidence of CKD following long-term intervention.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusions</head><p>This retrospective study was evaluated the influence of cardiovascular risk factors on the incidence of CKD during a 6year follow-up period in middle-aged and older males. We found that hypertension and hyperglycemia were significantly associated with the incidence of CKD. Furthermore, the cumulative incidence of CKD was found to be significantly higher in the combination of high-normal BP/hypertension and hyperglycemia group than in the combination of normotensive and NGT group. These results suggest that the hypertension and hyperglycemia and their combination may be associated with the incidence of CKD.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. A flowchart of the subjects included in the study. CVD: Cardiovascular disease; eGFR: estimated glomerular filtration rate.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 4 . 3 . 3 . 2 ) 2 )</head><label>43322</label><figDesc>Figure 4. The cumulative incidence of CKD after a 6-year follow-up period according to the combination of hypertension and hyperglycemia. The abbreviations are the same as those in Figure3.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 .</head><label>1</label><figDesc>The baseline characteristics in subjects with and without the development of CKD.</figDesc><table><row><cell>p Value</cell><cell>&lt;0.0001</cell><cell>0.052</cell><cell></cell><cell>&lt;0.0001</cell><cell>0.030</cell><cell>0.902</cell><cell>0.921</cell><cell>0.379</cell><cell>0.007</cell><cell>0.038</cell><cell>0.819</cell><cell>0.043</cell><cell>0.145</cell><cell>0.030</cell><cell>0.031</cell><cell>0.446</cell><cell>0.122</cell><cell>0.017</cell><cell>0.003</cell><cell>0.117</cell></row><row><cell>Did not develop CKD (n = 271)</cell><cell>78.2 ± 10.1</cell><cell>29 (10.7)</cell><cell>242 (89.3)</cell><cell>0.83 ± 0.09</cell><cell>51.9 ± 6.7</cell><cell>67.5 ± 9.4</cell><cell>23.4 ± 2.8</cell><cell>83.4 ± 7.6</cell><cell>126.0 ± 15.2</cell><cell>82.6 ± 10.5</cell><cell>118.3 ± 25.1</cell><cell>58.7 ± 13.5</cell><cell>113.0 ± 60.4</cell><cell>99.7 ± 16.1</cell><cell>5.6 ± 0.7</cell><cell>58 (21.4)/213 (78.6)</cell><cell>211 (77.9)/60 (22.1)</cell><cell>34 (12.5)/237 (87.5)</cell><cell>18 (6.6)/253 (93.4)</cell><cell>5 (1.8)/266 (98.2)</cell></row><row><cell>Developed CKD (n = 32)</cell><cell>66.8 ± 5.3</cell><cell>0 (0)</cell><cell>32 (100)</cell><cell>0.93 ± 0.06</cell><cell>54.6 ± 6.5</cell><cell>67.7 ± 9.0</cell><cell>23.3 ± 2.7</cell><cell>84.6 ± 7.2</cell><cell>133.7 ± 15.2</cell><cell>86.6 ± 9.4</cell><cell>119.4 ± 25.3</cell><cell>53.7 ± 11.0</cell><cell>132.0 ± 124.0</cell><cell>107.1 ± 30.1</cell><cell>5.9 ± 0.9</cell><cell>5 (15.6)/27 (84.4)</cell><cell>21 (65.6)/11 (34.4)</cell><cell>9 (28.1)/23 (71.9)</cell><cell>7 (21.9)/25 (78.1)</cell><cell>2 (6.3)/30 (93.7)</cell></row><row><cell>All (n = 303)</cell><cell>77.0 ± 10.3</cell><cell>29 (9.6)</cell><cell>274 (90.4)</cell><cell>0.84 ± 0.09</cell><cell>52.2 ± 6.7</cell><cell>67.6 ± 9.3</cell><cell>23.4 ± 2.8</cell><cell>83.5 ± 7.6</cell><cell>126.8 ± 15.4</cell><cell>83.0 ± 10.4</cell><cell>118.4 ± 25.2</cell><cell>58.2 ± 13.3</cell><cell>115.0 ± 69.9</cell><cell>100.5 ± 18.1</cell><cell>5.6 ± 0.7</cell><cell>63 (20.8)/240 (79.2)</cell><cell>232 (76.6)/71 (23.4)</cell><cell>43 (14.2)/260 (85.8)</cell><cell>25 (8.3)/278 (91.7)</cell><cell>7 (2.3)/296 (97.7)</cell></row><row><cell></cell><cell>eGFR (ml/min/1.73m 2 )</cell><cell cols="2">Classifications of CKD grade ≥ 90 ml/min/1.73 m 2 G1 (n, %; eGFR ) G2 (n, %; eGFR 60-89 ml/min/1.73 m 2 )</cell><cell>Serum creatinine (mg/dl)</cell><cell>Age (years)</cell><cell cols="2">Body weight (kg) BMI (kg/m 2 )</cell><cell>Waist circumference (cm)</cell><cell>SBP (mmHg)</cell><cell>DBP (mmHg)</cell><cell>LDL-C (mg/dl)</cell><cell>HDL-C (mg/dl)</cell><cell>Triglyceride (mg/dl)</cell><cell>Fasting glucose (mg/dl)</cell><cell>HbA 1 c (NGSP values; %)</cell><cell>Smoking habit (yes/no; n, %)</cell><cell>Drinking habit (yes/no; n, %)</cell><cell>Anti-hypertensive drugs (yes/no; n, %)</cell><cell>Anti-hyperlipidemic agents (yes/no; n, %)</cell><cell>Hypoglycemic drugs (yes/no; n, %)</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 .</head><label>2</label><figDesc>The influence of combined hypertension and hyperglycemia on the incidence of CKD.</figDesc><table><row><cell></cell><cell></cell><cell></cell><cell>Univariable model</cell><cell></cell><cell cols="2">Multivariable model</cell></row><row><cell></cell><cell>Total</cell><cell>Developed CKD (n, %)</cell><cell>Hazard ratio (95% CI)</cell><cell>p Value</cell><cell>Hazard ratio (95% CI)</cell><cell>p Value</cell></row><row><cell>High-normal BP/hypertensive</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Normotensive</cell><cell>161</cell><cell>8 (5.0)</cell><cell>1.00 (Ref.)</cell><cell>-</cell><cell>1.00 (Ref.)</cell><cell>-</cell></row><row><cell>Normal-high BP</cell><cell>49</cell><cell>9 (18.4)</cell><cell>3.93 (1.52-9.19)</cell><cell>0.005</cell><cell>3.40 (1.28-9.06)</cell><cell>0.014</cell></row><row><cell>Hypertensive</cell><cell>93</cell><cell>15 (16.1)</cell><cell>3.59 (1.52-8.46)</cell><cell>0.004</cell><cell>2.97 (1.17-7.54)</cell><cell>0.022</cell></row><row><cell>IFG/DM</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>NGT</cell><cell>253</cell><cell>21 (8.3)</cell><cell>1.00 (Ref.)</cell><cell>-</cell><cell>1.00 (Ref.)</cell><cell>-</cell></row><row><cell>IFG</cell><cell>29</cell><cell>6 (20.7)</cell><cell>2.67 (1.08-6.21)</cell><cell>0.031</cell><cell>2.31 (1.09-5.83)</cell><cell>0.040</cell></row><row><cell>DM</cell><cell>21</cell><cell>5 (23.8)</cell><cell>3.03 (1.14-8.02)</cell><cell>0.026</cell><cell>2.91 (1.16-8.00)</cell><cell>0.031</cell></row><row><cell>Combination of hypertension and hyperglycemia</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Normotensive + NGT</cell><cell>146</cell><cell>5 (3.4)</cell><cell>1.00 (Ref.)</cell><cell>-</cell><cell>1.00 (Ref.)</cell><cell>-</cell></row><row><cell>High-normal BP/hypertensive only</cell><cell>107</cell><cell>16 (15.0)</cell><cell>4.70 (1.72-9.82)</cell><cell>0.003</cell><cell>3.78 (1.32-9.32)</cell><cell>0.013</cell></row><row><cell>IFG/DM only</cell><cell>15</cell><cell>3 (20.0)</cell><cell>6.08 (1.45-19.46)</cell><cell>0.013</cell><cell>3.90 (1.09-12.89)</cell><cell>0.043</cell></row><row><cell>High-normal BP/hypertensive + IFG/DM</cell><cell>35</cell><cell>8 (22.9)</cell><cell>7.50 (2.45-16.95)</cell><cell>0.0004</cell><cell>7.16 (2.43-17.25)</cell><cell>0.001</cell></row></table></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgments</head><p>We would like to thank Drs. Masaki Munekiyo, Kazunori Mine, Tatsuhiko Kawarabayashi, Eiichi Yoshimura, Noriko Takeda, Tomoe Horita, and the members of the Laboratory of Exercise Physiology and Health Care Center of Fukuoka University for their assistance with the data evaluation. We are grateful to the participants of this study.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Declaration of interest</head><p>The authors declare no conflicts of interest in association with this study.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Funding</head><p>This work was performed with the supports of Grants-in-Aid from the Ministry of Education, Science, Sports and Culture of Japan (No. 15H03082) and the Fukuoka University Institute for Physical Activity.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<ptr target="http://docs.jsdt.or.jp/overview/pdf2014/p003.pdf." />
+		<title level="m">The Japanese Society for Dialysis Therapy. Current Status of Dialysis Therapy in Japan</title>
+				<imprint>
+			<date type="published" when="2015-12-02">accessed 2 December, 2015</date>
+		</imprint>
+	</monogr>
+	<note>in Japanese</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Chronic kidney disease and the risks of death, cardiovascular events, and hospitalization</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Go</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Chertow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Fan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">351</biblScope>
+			<biblScope unit="page" from="1296" to="1305" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Longitudinal follow-up and outcomes among a population with chronic kidney disease in a large managed care organization</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Keith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Nichols</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Gullion</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">164</biblScope>
+			<biblScope unit="page" from="659" to="663" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Adult mortality attributable to preventable risk factors for non-communicable diseases and injuries in Japan: A comparative risk assessment</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Ikeda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Inoue</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Iso</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Plos Med</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page">e1001160</biblScope>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Prevalence of chronic kidney disease (CKD) in the Japanese general population predicted by the NDRD equation modified by a Japanese coefficient</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Imai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Horio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Iseki</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Exp Nephrol</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="156" to="163" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Preserving renal function in adults with hypertension and diabetes: A consensus approach. National Kidney Foundation Hypertension and Diabetes Executive Committees Working Group</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">L</forename><surname>Bakris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Dworkin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Kidney Dis</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="646" to="661" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Metabolic syndrome and CKD in a general Japanese population: the Hisayama Study</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Ninomiya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Kiyohara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kubo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Kidney Dis</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="383" to="391" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Group of the research for the association between host origin and atherosclerotic diseases under the preventive measure for work-related diseases of the Japanese labor ministry. Magnitude of sustained multiple risk factors for ischemic heart disease in Japanese employees: A case-control study</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Nakamura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Tsubono</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kameda-Takemura</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Jpn Circ J</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="page" from="11" to="17" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Impact of abnormal glucose tolerance, hypertension and other risk factors on coronary artery disease</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Nakamura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Saitoh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Takagi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circ J</title>
+		<imprint>
+			<biblScope unit="volume">71</biblScope>
+			<biblScope unit="page" from="20" to="25" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Metabolic syndrome and the risk of ischemic heart disease and stroke among Japanese men and women</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Iso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sato</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kitamura</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stroke</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="1744" to="1751" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Japanese Society of Nephrology. Evidence-based clinical practice guideline for CKD 2013</title>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Exp Nephrol</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="346" to="423" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Committee on the standardization of diabetes mellitus-related laboratory testing of japan diabetes society. International clinical harmonization of glycated hemoglobin in japan: From japan diabetes society to national glycohemoglobin standardization program values</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kashiwagi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kasuga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Araki</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Diabetes Investig</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="39" to="40" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Collaborators developing the Japanese equation for estimated GFR. Revised Equations for Estimated GFR from Serum Creatinine in Japan</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Matsuo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Imai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Horio</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Kidney Dis</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="982" to="992" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">CKD Prognosis consortium. Decline in estimated glomerular filtration rate and subsequent risk of end-stage renal disease and mortality</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Coresh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">C</forename><surname>Turin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Matsushita</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">311</biblScope>
+			<biblScope unit="page" from="2518" to="2531" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Relation between renal dysfunction and cardiovascular outcomes after myocardial infarction</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">S</forename><surname>Anavekar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Mcmurray</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Velazquez</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">351</biblScope>
+			<biblScope unit="page" from="1285" to="1295" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Estimated glomerular filtration rate as a predictor of secondary outcomes in Japanese patients with coronary artery disease</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Matsuo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Inoue</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Node</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="232" to="239" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Proteinuria-what value is the dipstick?</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">A</forename><surname>Harrison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Rainford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>White</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Urol</title>
+		<imprint>
+			<biblScope unit="volume">63</biblScope>
+			<biblScope unit="page" from="202" to="208" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Japan Society for the Study of Obesity guideline for the treatment of obesity in Japan −2016 version</title>
+	</analytic>
+	<monogr>
+		<title level="m">Japan Society for the Study of Obesity</title>
+				<meeting><address><addrLine>Tokyo</addrLine></address></meeting>
+		<imprint>
+			<publisher>Life Science Publishing Co., Ltd</publisher>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note>Japan Society for the Study of Obesity). in Japanese</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Chapter 2. Measurement and clinical evaluation of blood pressure</title>
+	</analytic>
+	<monogr>
+		<title level="m">The Japanese Society of Hypertension Guidelines for the Management of Hypertension</title>
+				<imprint>
+			<date type="published" when="2014">2014. 2014</date>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="266" to="278" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">JAS) guidelines for the diagnosis and prevention of atherosclerotic cardiovascular diseases in Japan −2012 version</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Teramoto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Sasaki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ishibashi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Atheroscler Thromb</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="517" to="523" />
+			<date type="published" when="2013">2013</date>
+			<publisher>Japan Atherosclerosis Society</publisher>
+		</imprint>
+	</monogr>
+	<note>Japan atherosclerosis society. Executive summary of the</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Evidence-based practice guideline for the treatment for diabetes in Japan</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Tajima</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Noda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Origasa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetol Int</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="151" to="187" />
+			<date type="published" when="2013">2013. 2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Syndrome-definition and diagnostic criteria in Japan</title>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">M</forename><surname>Matsuzawa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Jpn Soc J Int Med</title>
+		<imprint>
+			<biblScope unit="volume">94</biblScope>
+			<biblScope unit="page" from="794" to="809" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+	<note>in Japanese</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Metabolic syndrome</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Teramoto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Sasaki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ueshima</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Atheroscler Thromb</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="1" to="5" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main">Labour and Welfare. Standardized health check-up and intervention program</title>
+		<author>
+			<persName><surname>Ministry</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Health</surname></persName>
+		</author>
+		<ptr target="http://www.mhlw.go.jp/bunya/kenkou/seikatsu/pdf/02.pdf" />
+		<imprint>
+			<date type="published" when="2007-12-23">2007. accessed 23 December, 2014</date>
+		</imprint>
+	</monogr>
+	<note>in Japanese</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">The Japanese national health screening and intervention program aimed at preventing worsening of the metabolic syndrome</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Kohro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Furui</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Mitsutake</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int Heart J</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="193" to="203" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">The association between unhealthy lifestyle behaviors and the prevalence of chronic kidney disease (CKD) in middle-aged and older men</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Michishita</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Matsuda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kawakami</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="378" to="385" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">The accumulation of healthy lifestyle behaviors prevents the incidence of chronic kidney disease (CKD) in middle-aged and older males</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Michishita</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Matsuda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kawakami</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Environ Health Prev Med</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="129" to="137" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">The association between changes in lifestyle behaviors and the incidence of chronic kidney disease (CKD) in middle-aged and older men</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Michishita</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Matsuda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kawakami</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Epidemiol</title>
+		<imprint/>
+	</monogr>
+	<note>Epub ahead of print</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">The impact of history of hypertension and type 2 diabetes at baseline on the incidence of stroke and stroke mortality</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Hu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Sarti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Jousilahti</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stroke</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="2538" to="2543" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Joint effects of history of hypertension at baseline and type 2 diabetes at baseline and during follow-up on the risk of coronary heart disease</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Hu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Jousilahti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tuomilehto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur Heart J</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="3059" to="3066" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">The combined impact of blood pressure category and glucose abnormality on the incidence of cardiovascular diseases in a Japanese urban cohort: the Suita Study</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Kokubo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Okamura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Watanabe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hypertens Res</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="1238" to="1243" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Long-term impact of systolic blood pressure and glycemia on the development of microalbuminuria in essential hypertension</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Pascual</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Rodilla</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Gonzalez</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hypertension</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="1125" to="1130" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">The impact of metabolic and blood pressure control on incidence and progression of nephropathy. A 10-Year Study of 385 Type 2 Diabetic Patients</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Torffvit</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Agardh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Diabetes Complications</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="307" to="313" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Chronic kidney disease: Effects on the cardiovascular system</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">L</forename><surname>Schiffrin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Lipman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Mann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">116</biblScope>
+			<biblScope unit="page" from="85" to="97" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Oxidative stress in diabetic nephropathy</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Kashihara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Haruna</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">K</forename><surname>Kondeti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">S</forename><surname>Kanwar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Curr Med Chem</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="4256" to="4269" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Angiotensin II type 1 receptor blockers reduce urinary oxidative stress markers in hypertensive diabetic nephropathy</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ogawa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Mori</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Nako</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hypertension</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="699" to="705" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Impact of high-normal blood pressure on the risk of cardiovascular disease</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Vasan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Larson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">P</forename><surname>Leip</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">345</biblScope>
+			<biblScope unit="page" from="1291" to="1297" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Association between chronic kidney disease and carotid intima-media thickening in individuals with hypertension and impaired glucose metabolism</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Ishizaka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Ishizaka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Toda</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hypertens Res</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="1035" to="1041" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Relationship between the achieved blood pressure and the incidence of cardiovascular events in Japanese hypertensive patients with complications: a sub-analysis of the CASE-J trial</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Ogihara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Saruta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Rakugi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hypertens Res</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="248" to="254" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Glycemic status and development of kidney disease: The Framingham Heart Study</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Fox</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Larson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">P</forename><surname>Leip</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="2436" to="2440" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Impaired glucose tolerance is a risk factor for cardiovascular disease, but not impaired fasting glucose. The Funagata Diabetes Study</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tominaga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Eguchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Manaka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="920" to="924" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

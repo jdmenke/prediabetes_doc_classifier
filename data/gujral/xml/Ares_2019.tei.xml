@@ -1,0 +1,1040 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Mortality risk in adults according to categories of impaired glucose metabolism after 18 years of follow-up in the North of Spain: The Asturias Study</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2019-01-31">January 31, 2019</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Jessica</forename><surname>Ares</surname></persName>
+							<email>jessiaresb@gmail.com</email>
+							<idno type="ORCID">0000-0002-4307-8145</idno>
+						</author>
+						<author>
+							<persName><forename type="first">Sergio</forename><surname>Valde</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Endocrinology and Nutrition Department</orgName>
+								<orgName type="institution">Ma ´laga Regional University Hospital</orgName>
+								<address>
+									<addrLine>Ma ´laga, Andalucı ´a</addrLine>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Patricia</forename><surname>Botas</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Endocrinology and Nutrition Department</orgName>
+								<orgName type="institution">Asturias Central University Hospital</orgName>
+								<address>
+									<settlement>Oviedo, Asturias</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Endocrinology Department</orgName>
+								<orgName type="institution">San Agustı ´n University Hospital</orgName>
+								<address>
+									<addrLine>Avile ´s</addrLine>
+									<settlement>Asturias</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Cecilia</forename><surname>Sa ´nchez- Ragnarsson</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Endocrinology and Nutrition Department</orgName>
+								<orgName type="institution">Asturias Central University Hospital</orgName>
+								<address>
+									<settlement>Oviedo, Asturias</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Sandra</forename><surname>Rodrı ´guez-Rodero</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Endocrinology and Nutrition Department</orgName>
+								<orgName type="institution">Asturias Central University Hospital</orgName>
+								<address>
+									<settlement>Oviedo, Asturias</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Paula</forename><surname>Morales-Sa ´nchez</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Endocrinology and Nutrition Department</orgName>
+								<orgName type="institution">Asturias Central University Hospital</orgName>
+								<address>
+									<settlement>Oviedo, Asturias</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Edelmiro</forename><surname>Mene ´ndez-Torre</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Endocrinology and Nutrition Department</orgName>
+								<orgName type="institution">Asturias Central University Hospital</orgName>
+								<address>
+									<settlement>Oviedo, Asturias</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Elı</forename><surname>´as Delgado</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Endocrinology and Nutrition Department</orgName>
+								<orgName type="institution">Asturias Central University Hospital</orgName>
+								<address>
+									<settlement>Oviedo, Asturias</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<orgName type="institution" key="instit1">ISPA</orgName>
+								<orgName type="institution" key="instit2">Principality of Asturias Health Research Institute</orgName>
+								<address>
+									<settlement>Oviedo, Asturias</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff4">
+								<orgName type="institution">University of Oviedo</orgName>
+								<address>
+									<settlement>Asturias</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff5">
+								<orgName type="institution">Temple University</orgName>
+								<address>
+									<settlement>Lewis</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff6">
+								<orgName type="institution" key="instit1">Katz School of Medicine</orgName>
+								<orgName type="institution" key="instit2">UNITED STATES</orgName>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Mortality risk in adults according to categories of impaired glucose metabolism after 18 years of follow-up in the North of Spain: The Asturias Study</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2019-01-31">January 31, 2019</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">48D7196D7D2A1DF655E7BF9C517D80D9</idno>
+					<idno type="DOI">10.1371/journal.pone.0211070</idno>
+					<note type="submission">Received: September 26, 2018 Accepted: January 7, 2019</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.1" ident="GROBID" when="2022-07-19T22:44+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>T2D, Type 2 diabetes</term>
+					<term>HR, Hazard ratio</term>
+					<term>MR, Mortality Rate</term>
+					<term>HbA1c, Glycohemoglobin</term>
+					<term>BMI, Body mass index</term>
+					<term>BP, Blood pressure</term>
+					<term>OGTT, Oral glucose tolerance test</term>
+					<term>HDL, High-density cholesterol</term>
+					<term>LDL, Low-density cholesterol</term>
+					<term>HPLC, High power liquid chromatography</term>
+					<term>ADA, American Association of Diabetes</term>
+					<term>IGT, Impaired glucose tolerance</term>
+					<term>IFG, Impaired fasting glucose</term>
+					<term>NGT, Normal glucose tolerance</term>
+					<term>BF, Body fat</term>
+					<term>RR, Relative risk</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>People who develop type 2 diabetes (T2D) are known to have a higher mortality risk. We estimated all-cause, cardiovascular, and cancer mortality-risks in our patient cohort according to categories of impaired glucose metabolism. This 18-year retrospective analysis included a region-wide, representative sample of a population aged 30-75 years. Age-and sex-stratified hazard ratios (HRs) were calculated for 48 participants with diagnosed T2D, 83 with undiagnosed T2D (HbA1c �6.5%, fasting glycemia �126 mg/dL, or glycemia after 75 g glucose load �200 mg/dL); 296 with prediabetes (HbA1c 5.7%-6.4%, fasting glycemia 100-125 mg/dL, or glycemia after 75 g glucose load 140-199 mg/dL), and 607 with normoglycemia. Over 18,612 person-years, 32 individuals with undiagnosed T2D, 30 with diagnosed T2D, 62 with prediabetes, and 80 with normoglycemia died. Total sample crude mortality rate (MR) was 10.96 deaths per 1,000 person-years of follow-up. MR of the diagnosed T2D group was more than 3-times higher and that of newly diagnosed T2D was 2times higher (34.72 and 21.42, respectively)  than total sample MR. Adjusted HR for allcause mortality was 2.02 (95% confidence interval 1.29-3.16) and 1.57 (95% CI 1.00-2.28) in the diagnosed T2D group and the newly diagnosed T2D group, respectively. Adjusted HR for cardiovascular mortality in the T2D group was 2.79 (95% CI 1.35-5.75); this risk was greatly increased in women with T2D: 6.72 (95% CI 2.50-18.07). In Asturias, age-and sexstandardized all-cause mortality is more than 2-times higher for adults with T2D than for adults without T2D. The HR for cardiovascular mortality is considerably higher in T2D women than in normoglycemic women.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>Worldwide mortality caused by diabetes reached four million in 2017 <ref type="bibr" target="#b0">[1]</ref>. About half of diabetes-related mortality (48%) occurs in people younger than 60 years. Although a decrease in mortality caused by diabetes has been observed in Europe and North America <ref type="bibr" target="#b1">[2]</ref>, diabetes continues to reduce life expectancy by 6-8 years in people diagnosed at the age of 50 years. The majority (&gt;50%) of diabetes-caused mortality is from cardiovascular diseases.</p><p>The association between diabetes and premature death has been confirmed by a review of 97 prospective trials with 820,900 people <ref type="bibr" target="#b2">[3]</ref>. As a high percentage of type 2 diabetes (T2D) has not been diagnosed, the mortality risk in this population has not been sufficiently investigated. The DECODE study (13 European cohorts) defined the proportion of unknown diabetes to be between 39% and 70%, depending on sex and age <ref type="bibr" target="#b3">[4]</ref>. According to the latest International Diabetes Federation Diabetes Atlas <ref type="bibr" target="#b0">[1]</ref>, it has been estimated that, globally, as many as 212.4 million people or half (50.0%) of all people aged 20-79 years with T2D are unaware of their disease.</p><p>T2D increases both cardiovascular and all-cause mortality <ref type="bibr" target="#b4">[5]</ref>. Both appear to have a directly proportional relationship with glycemia <ref type="bibr" target="#b5">[6]</ref>. Despite this, there is no homogeneity in different studies regarding the magnitude of the potential risks.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Materials and methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The asturias study</head><p>The Asturias Study is a population-based prospective cohort study of T2D and cardiovascular risk factors whose framework is the population of Asturias (a region in the north of Spain). The first phase was conducted in 1998-1999, with the aim to determine the prevalence of T2D (both diagnosed and undiagnosed) in the Asturias population. Asturias is home to approximately 1 million people, mostly white. More than half of the population lives in urban areas. A two-stage, probability cluster sampling procedure was applied. First, we selected 15 of 75 Asturias districts for analysis. Second, we selected age-and sex-stratified random samples of adults aged 30-75 years from each district <ref type="bibr" target="#b6">[7]</ref>. Participants were randomly selected from the general population.</p><p>The resulting sample included 1,875 people; 87 were excluded due to pre-specified criteria (e.g., type 1 diabetes mellitus, pregnancy, severe disease, hospitalization, and treatment with hyperglycemic drugs) and 162 were excluded due to lack of contact data. Our final sample included 1,626 people but only 1,034 (63.6% response rate) participated. Healthcare Principality of Asturias Ethics Committee approved the study, and all participants gave written informed consent. A health survey was conducted within the sample to collect relevant information, including demographic data, smoking habits, physical activity, socioeconomic status, and family history of T2D. Cardiovascular risk factors were assessed using standardized methods based on World Health Organization (WHO) recommendations <ref type="bibr" target="#b8">[8]</ref>. Height and weight were measured with the participant wearing light clothing and without shoes, and body mass index (BMI) was calculated (weight in kilograms divided by the square of the height in meters). Blood pressure (BP) was measured using a digital sphygmomanometer (OMROM MX3, OMROM Healthcare, Tokyo, Japan) with the person seated and at rest. The mean of two BP measurements, taken 1-2 min apart, was used for this analysis.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Measurements</head><p>As we used data collected in 1998, the methodology is similar to that described by Valde ´s et al. in 2009 <ref type="bibr" target="#b9">[9]</ref>. Oral glucose tolerance tests (OGTTs) were performed in all individuals without previously known T2D. Fifteen minutes after each blood extraction, the blood was centrifuged in situ using a portable centrifuge. The samples were transported daily in a portable refrigerator (4-6˚C) for processing at the Clinical Biochemistry laboratory of the Hospital Universitario Central de Asturias. Glucose levels were measured after fasting and after the OGTT (glucosehexokinase enzyme method, Hitachi 747 analyzer, Roche Diagnostics, Mannheim, Germany). Measurements were also made of concentrations of total cholesterol, high-density lipoprotein cholesterol, triglycerides (colorimetric enzyme method, Hitachi 747 analyzer, Roche Diagnostics, Mannheim, Germany), low-density lipoprotein cholesterol (LDL-C) (Friedewald equation), and glycohemoglobin (HbA1c) (high-performance liquid chromatography, Jokoh HS-10 automated HbA1c analyzer, computer interface RS232). Initial Japanese HbA1c measurements were standardized to International Federation of Clinical Chemistry (IFCC) values (Japanese Society of Clinical Chemistry HbA1c = 0.927 (IFCC HbA1c) + 1.73).</p><p>Diagnosed diabetes was defined according to self-reported medical diagnosis or the use of antidiabetic drugs. We used ADA (American Association of Diabetes) 2018 criteria to define categories of glucose metabolism: newly diagnosed diabetes (�126 mg/dL/�7.0 mmol/L fasting, �200 mg/dL/�11.1 mmol/L 2-h post-glucose load, or HbA1c �6.5%); impaired glucose tolerance (IGT) (2-h post-glucose load during 75-g OGTT 140 mg/dL [7.8 mmol/L] to 199 mg/dL [11.0 mmol/L]); impaired fasting glucose (IFG) (fasting plasma glucose 100 mg/dL [5.6 mmol/L] to 125 mg/dL [6.9 mmol/L]); and NGT. Prediabetes includes IFG and/or IGT and/or HbA1c 5.7%-6.4% (39-47 mmol/mol).</p><p>Previous reports about the Asturias Study <ref type="bibr" target="#b6">[7,</ref><ref type="bibr" target="#b9">9,</ref><ref type="bibr" target="#b10">10]</ref> used WHO 1999 criteria to define categories of glucose metabolism; the difference from the criteria used in this study is that IFG is between 6.1 and 7.0 mmol/L, and HbA1c is not considered a diagnostic parameter. Body fat percentage (BF%) was calculated by applying the Clinica Universidad de Navarra-Body Adiposity Estimator (CUN-BAE) predictive equation <ref type="bibr" target="#b11">(11)</ref> <ref type="bibr" target="#b11">(11)</ref> <ref type="bibr" target="#b11">(11)</ref> <ref type="bibr" target="#b11">(11)</ref> <ref type="bibr" target="#b11">(11)</ref> <ref type="bibr" target="#b11">(11)</ref> <ref type="bibr" target="#b11">(11)</ref> <ref type="bibr" target="#b11">[11]</ref>. Obesity was taken to be a BF%�25% in men and�35% in women.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Follow up and mortality</head><p>In December 2016, the vital status of the initial cohort (studied in 1998-1999) was updated. Deaths were recorded by healthcare card data of Principality of Asturias. Cause of death for the 18-year follow-up was ascertained by our register of mortality. All deaths were coded according to the International Classification of Diseases, 10th Revision (WHO) <ref type="bibr">[12]</ref>. Codes I00-I99 (cardiovascular diseases) or R96 (sudden death, unknown cause) defined cardiovascular mortality because, generally, sudden death is due to cardiovascular disease <ref type="bibr" target="#b12">[13]</ref>. Codes C00-D48 defined cancer death.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analysis</head><p>All calculations were performed with SPSS version 21.0 (SPPS Inc, 2013). The reported P-values were based on a two-tailed test with a limit of statistical significance set to P&lt;0.05. Evaluation of the risk of death in the different categories of dysglycemia was done by classifying the people included in the registry of deaths into four groups according to the results of the OGTT during the first study (ADA 2018 criteria). Comparisons between groups for quantitative variables were done with an analysis of variance. The person-years of follow-up were estimated for each group, as was the number of events (deaths), by calculating the mortality rates for every 1000 inhabitant-years (95% confidence interval [CI]).</p><p>Cox regression analysis was used to analyze the accumulated impact curves and the corresponding hazard ratios (HRs) of death, adjusted for age, sex, and multivariable (adjusted for age, sex, BMI, history of high BP, smoking habits, LDL-C, glomerular filtration rate, and the prior presence of cardiovascular disease) in the different groups. Hazard ratios represent the ratio of death probabilities. For example, a hazard ratio of 2 for the diagnosed diabetes group means that this group has twice the risk of dying than the normoglycemia group.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Baseline characteristics</head><p>The Asturias Study cohort included 1,034 individuals (58.7% with normoglycemia, 28.1% with prediabetes, 4.6% with known T2D, and 9.6% with newly diagnosed T2D). Individuals with previously known T2D were significantly older, less likely to smoke, had higher systolic BP, more previous history of cardiovascular disease, higher triglycerides, and lower glomerular filtration rate than individuals in the other groups. However, they had similar or even lower figures for total cholesterol and LDL-C than the general population without dysglycemia; these values were highest in the groups with prediabetes and undiagnosed DM. Likewise, there was a progressive increase in LDL-C across the groups of fasting hyperglycemia and HbA1c. Of note was the fact that the mean levels of HbA1c in the group with undiagnosed T2D were almost within the range of normality. Newly diagnosed T2D had the highest BF% (Table <ref type="table" target="#tab_1">1</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Mortality by glucose tolerance categories</head><p>Over the 18 years of follow-up, 204 (19.8%) deaths were recorded. Deaths were classified in three groups according to etiology: cardiovascular, 74 (36.3%); cancer, 72 (35.3%); and other causes, 58 (28.4%). The crude rate for all-cause mortality was 10.96% (95% CI 9.55-12.57) per 1,000 person-years. Crude mortality rates for people without carbohydrate metabolism disorders were the lowest compared to those of people with prediabetes, known T2D, and unknown T2D (Table <ref type="table" target="#tab_2">2 and Fig 1)</ref>.</p><p>The age-and sex-adjusted mortality risks were almost equal in the NGT and prediabetes groups and higher in subjects with previously undiagnosed T2D; however, the risks were not as high as for known T2D at baseline (Table <ref type="table" target="#tab_2">2</ref>). After multivariable adjustment, people with known T2D had a mortality rate (MR) more than two-fold greater than people in the NGT group (2.02 [95% CI 1.29-3.16]); whereas, for people with undiagnosed T2D, the MR was 1.51-times higher (95% CI 1.00-2.28) (Fig <ref type="figure">2</ref>).</p><p>The risk of death in those with T2D, both diagnosed and undiagnosed, versus those without dysglycemia was 1.71 (95% CI 1.25-2.34) in the multivariate model and 1.78 (95% CI 1.31-2.42) in the model adjusted for age and sex.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Cause of death, age, and sex differences</head><p>Individuals with T2D presented with higher risks of cardiovascular and cancer death in the 18-year follow-up. In adjusted models, cancer mortality was slightly increased in subjects with known and undiagnosed T2D, whereas cardiovascular mortality was highly increased in both groups (Table <ref type="table" target="#tab_3">3</ref>).</p><p>Individuals who died of cancer were younger than those who died from other causes. Previous cardiovascular disease, a higher level of HbA1c, and a history of hypertension predicted deaths from cardiovascular events. Furthermore, smoking was more common in people who died of cancer (Table <ref type="table" target="#tab_4">4</ref>).</p><p>Moreover, persons with a history of cardiovascular disease had a higher risk of all-cause (and especially cardiovascular) mortality, with statistical significance. HRs for persons with previously known T2D compared to those in the NGT group were higher in women than in men (2.56 vs. 1.76). Furthermore, men with newly diagnosed T2D had a higher risk of cardiovascular death than men with previously diagnosed T2D.</p><p>The HR for cardiovascular mortality in women with known T2D was 6.72 (95% CI 2.50-18.07) vs. 1.66 (95% CI 0.46-5.95) in men with the same condition (Fig <ref type="figure">3</ref>).</p><p>Cancer mortality was also increased in people with known T2D, especially in men; however, it was not statistically different <ref type="bibr">(Fig 4)</ref>.</p><p>People younger than 45 years with T2D (both diagnosed and unknown) had a strongly increased mortality risk compared to the NGT group of the same age. This risk decreased with increasing age (Table <ref type="table" target="#tab_6">5</ref>). </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>In this Spanish population-based sample, regionally representative with up to 18-year followup, mortality risk was more than two-times higher (2.02) among adults with known T2D than among adults in the NGT group. Risk of death associated with T2D was especially increased in younger age groups. Moreover, mortality risk was notably higher in women with T2D than in men (both with known and undiagnosed T2D) because of an increase in cardiovascular mortality.</p><p>Although previous studies reported different data, comparability is limited because of differences in numbers, age, and sex structures. In 2017, Ro ¨ckl et al. <ref type="bibr" target="#b13">[14]</ref> published a similar study with 6550 participants (575 with T2D) that showed that mortality was almost twice as high in the T2D group than in the NGT group; however, mortality tended to be higher in men than in women in the case of undiagnosed T2D. Tancredi et al. <ref type="bibr" target="#b14">[15]</ref> followed 435,369 Swedish persons with T2D aged �18 years from 1998-2011 and compared their mortality to matched controls. The HR for mortality was 1.77 (95% CI 1.03-3.04) in the T2D group. The KORA S4 study compared a population of 1466 German adults aged 55-74 years and reported higher mortality rates in people with known T2D than for those in the NGT group: 2.6 (95% CI 1.7-3.8) <ref type="bibr" target="#b16">[16]</ref>. The ERFORT study (1125 German men aged 40-59 years) compared men with known T2D and normoglycemia. Mortality risks ranged from 1.86 (95% CI 1.22-2.84) to 2.22 (95% CI 1.36-3.63) depending on the duration of follow-up <ref type="bibr" target="#b17">[17]</ref>.</p><p>Lind et al. <ref type="bibr" target="#b18">[18]</ref> used healthcare databases in Canada and the United Kingdom (UK) to calculate annual MRs for adults aged �20 years with and without T2D from 1996-2009. HRs for mortality were higher for those with T2D: 2.68 (95% CI  <ref type="bibr" target="#b19">[19,</ref><ref type="bibr" target="#b20">20]</ref>, the HR for cardiovascular mortality was smaller in undiagnosed diabetes than in diagnosed diabetes (1.54 [95% CI 0.85-2.79] and 2.62 [95% CI 1.81-3.78], respectively). The results of our analysis of cardiovascular death risk showed a significant association with known T2D but not with newly diagnosed T2D. This finding could be due to the small sample size and the limited duration of diabetes mellitus.</p><p>As stated earlier, comparability with other studies is problematic because our sample size was smaller; however, HRs for mortality in T2D groups were similar to those obtained in the UK. Our analyses showed higher HRs for mortality in women with T2D than in men, specifically due to cardiovascular disease as reported previously <ref type="bibr" target="#b21">[21]</ref><ref type="bibr" target="#b22">[22]</ref><ref type="bibr" target="#b24">[23]</ref><ref type="bibr" target="#b25">[24]</ref>.  Furthermore, our study showed a similar increase in cancer mortality in both the previously known and unknown T2D groups, and this finding was not significantly different from that of the NHANES II study. FRESCO <ref type="bibr" target="#b26">[25]</ref>, a Spanish study of 55,292 individuals, showed that diabetes was associated with premature death from cardiovascular disease and cancer, in keeping with our results.</p><p>According to our data, subjects with newly diagnosed T2D have a lower mortality risk than those with known T2D. This may be due in part to the shorter time of evolution and the improved profile of metabolic and lifestyle risk factors at baseline. Subjects with undiagnosed T2D had lower systolic and diastolic blood pressure and better eGFR than those with previously known T2D, but higher LDL-cholesterol. A possible explanation for the last finding is the greater use of lipid-lowering drugs in persons with diagnosed T2D.</p><p>Mortality risk in this cohort was studied in 2005 by Valde ´s et al. <ref type="bibr" target="#b9">[9]</ref> after 6 years of followup. According to their results at that time, both individuals with diagnosed diabetes and those with undiagnosed diabetes had a risk of mortality around 2.5-3-times greater than individuals with normoglycemia. Compared with our results, the increase in mortality in persons with T2D was maintained. The importance of the time of evolution of diabetes became even more evident in our study, as people who were diagnosed in 1998 had lower MRs than those diagnosed before 1998.</p><p>In addition, according to a previous study <ref type="bibr" target="#b28">[26]</ref>, prediabetes (IGT or IFG according to IFG-ADA or IFG-WHO criteria) is associated with an increased risk of composite cardiovascular disease (relative risk 1.13, 1.26, and 1.30 for IFG-ADA, IFG-WHO, and IGT, respectively) and all-cause mortality (1.13, 1.13, and 1.32, respectively). However, another previous study <ref type="bibr" target="#b29">[27]</ref> found that prediabetes (those who did not indicate diagnosed diabetes and had HbA1C 5.7%-&lt;6.5% [39-&lt;48 mmol/mol]) was not associated with increased mortality, and raised HbA1c did not appear to have a statistically significant impact upon cancer mortality. Our data showed similar results; the prediabetes group did not have an increased MR compared to the NGT group using ADA 2018 criteria. This absence of association may be because we sent letters to all individuals with their results, encouraging them to incorporate lifestyle changes if they had any alterations in glucose metabolism.</p><p>Several limitations apply to this study. The main limitation is the small sample size, with a limited number of events available for analysis. Thus, it was difficult to demonstrate statistical differences. Nevertheless, for cases in which we able to show statistical significance, the effect can be considered large. However, this study has several strengths, including that it was population-based, and the mortality follow-up was relatively long. Moreover, cardiovascular and lifestyle risk factors were included to calculate the multivariate adjustment of the regression models.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>Individuals with diabetes (especially those with diagnosed diabetes) had a significantly higher mortality risk than those with NGT after 18 years of follow-up even after adjusting for multiple confounders. Excess mortality was especially noticeable in younger women, predominantly due to cardiovascular disease.</p><p>Our results highlight the need for an early diagnosis and intensive multifactorial treatment considering the present diabetes pandemic.</p><p>We also thank the primary care teams of the selected areas, Ismael Huerta, Shura Rozada, Mortality Register of the Principality of Asturias (especially Dr. Jose ´Ramo ´n Quiro ´s) and the Endocrinology Group of Asturias.</p><p>Special thanks to Christopher Parkin, who kindly contributed in the edition of the manuscript.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig 1 .</head><label>1</label><figDesc>Fig 1. Accumulated all-cause mortality Kaplan-Meier curves for the groups with normoglycemia, prediabetes, unknown T2D and known T2D. Not adjusted model. https://doi.org/10.1371/journal.pone.0211070.g001</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig 4 .</head><label>4</label><figDesc>Fig 4. HR (95% CI) for Cancer mortality depending on gender and presence of known or undiagnosed T2D. https://doi.org/10.1371/journal.pone.0211070.g004</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head></head><label></label><figDesc>Mortality risk in adults according to categories of impaired glucose metabolism done by Alicia Cobo, C.S. and J. A.) in 2010 and 2016 by grants. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</figDesc><table /><note>PLOS ONE | https://doi.org/10.1371/journal.pone.0211070 January 31, 2019 2 / 13 and fieldwork (</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 1 . Metabolic and cardiovascular risk parameters according to the different clinical categories of dysglycemia during the first phase of the study (1998-1999).</head><label>1</label><figDesc></figDesc><table><row><cell></cell><cell>Total population</cell><cell>Normoglycemia</cell><cell>Prediabetes</cell><cell>Unknown diabetes</cell><cell>Diagnosed diabetes</cell><cell>P-value</cell></row><row><cell>Patients (n)</cell><cell>1034</cell><cell>607</cell><cell>296</cell><cell>83</cell><cell>48</cell><cell>&lt;0.001</cell></row><row><cell>Men (%)</cell><cell>473 (45.7)</cell><cell>238 (39.2)</cell><cell>160 (54.1)</cell><cell>47 (57.6)</cell><cell>28 (58.3)</cell><cell>&lt;0.001</cell></row><row><cell>Age (years)</cell><cell>52.1±13.4</cell><cell>49.4±3</cell><cell>56.5±12</cell><cell>61.5±11.2</cell><cell>65.6±8.6</cell><cell>&lt;0.001</cell></row><row><cell>Smokers (%)</cell><cell>293 (28.3)</cell><cell>177 (29.2)</cell><cell>65 (22)</cell><cell>19 (22.9)</cell><cell>10 (20.8)</cell><cell>&lt;0.001</cell></row><row><cell>Previous CVD (%)</cell><cell>49 (4.7)</cell><cell>12 (2)</cell><cell>19 (6.4)</cell><cell>9 (10.8)</cell><cell>9 (18.8)</cell><cell>0.001</cell></row><row><cell>Estimated body fat (%)</cell><cell>34.6±8.1</cell><cell>33.6±7.7</cell><cell>35.6±8.4</cell><cell>37.7±7.7</cell><cell>36.0±9.7</cell><cell>&lt;0.001</cell></row><row><cell>BMI (kg/m 2 )</cell><cell>27.6±4.7</cell><cell>26.5±4.3</cell><cell>28.9±4.4</cell><cell>30.5±4.8</cell><cell>28.9±5.7</cell><cell>&lt;0.001</cell></row><row><cell>SBP (mmHg)</cell><cell>134.2±22.1</cell><cell>127.4±19.4</cell><cell>139.9±21</cell><cell>151.6±21.1</cell><cell>155.3±22.8</cell><cell>&lt;0.001</cell></row><row><cell>DBP (mmHg)</cell><cell>83.7±13.5</cell><cell>80.1±12.4</cell><cell>87.5±13.7</cell><cell>91±13.2</cell><cell>91.8±11.6</cell><cell>&lt;0.001</cell></row><row><cell>Total cholesterol (mg/dL)</cell><cell>223.45.5</cell><cell>223.9±40.6</cell><cell>236.4±43.4</cell><cell>240.7±38.4</cell><cell>235.9±95.4</cell><cell>&lt;0.001</cell></row><row><cell>HDL cholesterol (mg/dL)</cell><cell>56.3±14.2</cell><cell>58.3±14.7</cell><cell>54.2±12.6</cell><cell>51.8±14.2</cell><cell>51.7±12.9</cell><cell>&lt;0.001</cell></row><row><cell>LDL cholesterol (mg/dL)</cell><cell>149.6±37.0</cell><cell>145.7±36.6</cell><cell>156.3±38.4</cell><cell>158.6±33.5</cell><cell>141.3±30.9</cell><cell>&lt;0.001</cell></row><row><cell>TG (mg/dL)</cell><cell>125.0±61.3</cell><cell>102.8±66.1</cell><cell>130.5±65.7</cell><cell>154.3±78.3</cell><cell>152.5±77.8</cell><cell>&lt;0.001</cell></row><row><cell>eGFR (ml/min)</cell><cell>78.6±19.3</cell><cell>83.1±18.9</cell><cell>73.6±18.1</cell><cell>71.5±17</cell><cell>65.6±19.1</cell><cell>&lt;0.001</cell></row><row><cell>Fasting glucose (mg/dL)</cell><cell>100.2±23.5</cell><cell>89.6±6.2</cell><cell>104.6±9.0</cell><cell>123.4±23.3</cell><cell>168±56.2</cell><cell>&lt;0.001</cell></row><row><cell>HbA1c (%)</cell><cell>5.3±0.8</cell><cell>5±0.4</cell><cell>5.3±0.4</cell><cell>6±1</cell><cell>7.5±1.7</cell><cell>&lt;0.001</cell></row></table><note>Abbreviations: CVD, cardiovascular disease; BMI, body mass index; SBP, systolic blood pressure; DBP, diastolic blood pressure; HDL, high-density lipoprotein; LDL, low-density lipoprotein; TG, triglycerides; eGFR, estimated glomerular filtration rate; HbA1c, glycohemoglobin. https://doi.org/10.1371/journal.pone.0211070.t001</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 2 . Crude and standardized hazard ratios and rates for all-cause mortality.</head><label>2</label><figDesc></figDesc><table><row><cell></cell><cell></cell><cell cols="2">Normoglycemia Prediabetes</cell><cell></cell><cell>T2D</cell><cell></cell><cell>Total</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>Unknown T2D</cell><cell>Known T2D</cell><cell>Total T2D</cell></row><row><cell>Patients (n)</cell><cell></cell><cell>607</cell><cell>296</cell><cell>83</cell><cell>48</cell><cell>131</cell><cell>1034</cell></row><row><cell>Deaths (n)</cell><cell></cell><cell>80</cell><cell>62</cell><cell>32</cell><cell>30</cell><cell>62</cell><cell>204</cell></row><row><cell cols="2">Deaths/1,000 person-years (95% CI)</cell><cell cols="2">7.32 (5.72-8.92) 11.64 (8.74-</cell><cell>21.42 (14.00-</cell><cell>34.72 (22.3-</cell><cell>27.12 (21.14-</cell><cell>10,96 (9.55-</cell></row><row><cell></cell><cell></cell><cell></cell><cell>14.54)</cell><cell>28.84)</cell><cell>47.13)</cell><cell>34.79)</cell><cell>12.57)</cell></row><row><cell>HR (95% CI)</cell><cell></cell><cell>1</cell><cell cols="2">1.68 (1.20-2.33) 3.53 (2.34-5.32)</cell><cell>7 (4.60-10.67)</cell><cell>3.82 (2.83-5.15)</cell></row><row><cell cols="2">Age-and sex-adjusted HR (95% CI) for all-cause</cell><cell>1</cell><cell cols="2">1.05 (0.75-1.47) 1.57 (1.04-2.39)</cell><cell cols="2">2.20 (1.43-4.00) 1.78 (1.31-2.42)</cell></row><row><cell>mortality</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Multivariate �</cell><cell>for all-cause mortality</cell><cell>1</cell><cell cols="2">0.99 (0.71-1.39) 1.51 (1.00-2.28)</cell><cell cols="2">2.02 (1.29-3.16) 1.71 (1.25-2.34)</cell></row></table><note>� Previously adjusted by age, sex, previous cardiovascular disease, smoking habits, history of high blood pressure, low-density lipoprotein cholesterol, estimation of glomerular filtration rate and body mass index. Abbreviations: T2D, type 2 diabetes; CI, confidence interval; HR, hazard ratio. https://doi.org/10.1371/journal.pone.0211070.t002</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 3 . Hazard ratios for all-cause, cardiovascular, and cancer mortality based on dysglycemia categories. All-cause mortality CV mortality Cancer mortality</head><label>3</label><figDesc></figDesc><table><row><cell>1.51-4.74) in Canada and 2.41 (95%</cell></row></table><note>Fig 2. HR (95% CI) for all-cause mortality depending on gender and presence of known or undiagnosed T2D. Model adjusted for gender, age, body mass index, history of previous cardiovascular disease, history of high blood pressure, smoking, low density lipoprotein cholesterol and estimated glomerular filtration rate. https://doi.org/10.1371/journal.pone.0211070.g002 Abbreviations: CV, cardiovascular; HR, hazard ratio; CI, confidence interval; T2D, type 2 diabetes. The statistically significant results are marked in bold. https://doi.org/10.1371/journal.pone.0211070.t003</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Table 4 . Differences in metabolic and biochemical data according to causes of mortality.</head><label>4</label><figDesc></figDesc><table><row><cell></cell><cell>CV mortality (74)</cell><cell>Cancer mortality (72)</cell><cell>Others (58)</cell><cell>P-value</cell></row><row><cell>Age at death, years</cell><cell>77.64±9.78</cell><cell>73.75±10.95</cell><cell>77.91±11.65</cell><cell>0.041</cell></row><row><cell>eGFR (ml/min)</cell><cell>68.40±18.13</cell><cell>69.01±16.28</cell><cell>69.32±16.49</cell><cell>0.453</cell></row><row><cell>LDL cholesterol (mg/mL)</cell><cell>160.58±45.75</cell><cell>149.15±42.86</cell><cell>156.47±42.13</cell><cell>0.291</cell></row><row><cell>BMI (kg/m 2 )</cell><cell>28.87±5.33</cell><cell>28.11±4.14</cell><cell>28.65±4.41</cell><cell>0.602</cell></row><row><cell>HbA1c (%)</cell><cell>6.03±1.56</cell><cell>5.43±0.83</cell><cell>5.53±1.14</cell><cell>0.007</cell></row><row><cell>Previous CVD (%)</cell><cell>18 (24.3)</cell><cell>8 (11.1)</cell><cell>4 (6.9)</cell><cell>0.011</cell></row><row><cell>Men (%)</cell><cell>35 (47.3)</cell><cell>47 (65.3)</cell><cell>29 (50)</cell><cell>0.07</cell></row><row><cell>Smokers (%)</cell><cell>11 (14.9)</cell><cell>19 (26.4)</cell><cell>8 (13.8)</cell><cell>0.08</cell></row><row><cell>Previous HBP (%)</cell><cell>39 (52.7)</cell><cell>24 (33.3)</cell><cell>17 (29.3)</cell><cell>0.01</cell></row><row><cell>No sport (%)</cell><cell>70 (94.6)</cell><cell>64 (88.9)</cell><cell>52 (89.6)</cell><cell>0.43</cell></row><row><cell>SBP (mmHg)</cell><cell>151.35±20.65</cell><cell>148.74±22.16</cell><cell>144.36±25.24</cell><cell>0.21</cell></row><row><cell>DBP (mmHg)</cell><cell>88.62±13.27</cell><cell>89.64±14.87</cell><cell>86.60±13.86</cell><cell>0.46</cell></row><row><cell>Total cholesterol</cell><cell>240.59±50.04</cell><cell>227.42±47.03</cell><cell>241.31±45.85</cell><cell>0.16</cell></row><row><cell>HDL cholesterol (mg/dL)</cell><cell>53.02±13.20</cell><cell>53.87±14.23</cell><cell>58.30±14.40</cell><cell>0.08</cell></row><row><cell>Triglycerides (mg/dL)</cell><cell>141.04±77.22</cell><cell>123.39±56.70</cell><cell>132.69±70.25</cell><cell>0.31</cell></row><row><cell>Estimated fat index (%)</cell><cell>37.40±8.73</cell><cell>34.21±8.50</cell><cell>36.80±8.55</cell><cell>0.06</cell></row><row><cell cols="5">CV, cardiovascular; eGFR, estimated glomerular filtration rate,; LDL, low-density lipoprotein; BMI, body mass index; HbA1c, glycohemoglobin; CVD, cardiovascular</cell></row><row><cell cols="5">disease; HBP, high blood pressure; SBP, systolic blood pressure; DBP, diastolic blood pressure; HDL, high-density lipoprotein. The statistically significant results are</cell></row><row><cell>marked in bold.</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">https://doi.org/10.1371/journal.pone.0211070.t004</cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_5"><head>HR (95% CI) for cardiovascular mortality depending on gender and presence of known or undiagnosed T2D.</head><label></label><figDesc></figDesc><table><row><cell>CI 1.28-4.53) in the UK. As reported previously in the National Health and Nutrition Exami-</cell></row><row><cell>nation Survey (NHANES) II study</cell></row><row><cell>https://doi.org/10.1371/journal.pone.0211070.g003</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_6"><head>Table 5 . Hazard ratios (95% confidence interval) for all-cause mortality in persons with type 2 diabetes depending on age group.</head><label>5</label><figDesc></figDesc><table><row><cell></cell><cell>T2D</cell><cell></cell><cell>Known T2D</cell><cell></cell><cell>Unknown T2D</cell><cell></cell><cell>N</cell></row><row><cell></cell><cell>Adjusted HR all-cause mortality</cell><cell cols="2">N  † n Adjusted HR for all-cause mortality</cell><cell cols="2">N  † n Adjusted HR for all-cause mortality</cell><cell cols="2">N  † n</cell></row><row><cell></cell><cell>(CI 95%)</cell><cell></cell><cell>(CI 95%)</cell><cell></cell><cell>(CI 95%)</cell><cell></cell></row><row><cell cols="2">30-45 years 15.91</cell><cell>2</cell><cell>10 38.02</cell><cell>1</cell><cell>1 8.19</cell><cell>1</cell><cell>9 338</cell></row><row><cell></cell><cell>(2.4-105.58)</cell><cell></cell><cell>(2.79-518.33)</cell><cell></cell><cell>(0.6-111.85)</cell><cell></cell></row><row><cell cols="2">45-60 years 1.48</cell><cell>7</cell><cell>30 3.67</cell><cell>3</cell><cell>8 0.81</cell><cell>4</cell><cell>22 323</cell></row><row><cell></cell><cell>(0.5-4.36)</cell><cell></cell><cell>(0.76-17.68)</cell><cell></cell><cell>(0.22-2.97)</cell><cell></cell></row><row><cell>�60 years</cell><cell>1.64</cell><cell cols="2">53 91 1.94</cell><cell cols="2">26 39 1.4</cell><cell cols="2">27 52 373</cell></row><row><cell></cell><cell>(1.16-2.31)</cell><cell></cell><cell>(1.19-3.18)</cell><cell></cell><cell>(0.86-2.29)</cell><cell></cell></row><row><cell>N</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table><note>† : Number of dead participants in each age group. Abbreviations: T2D, type 2 diabetes; HR, hazard ratio; CI, confidence interval. https://doi.org/10.1371/journal.pone.0211070.t005</note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">PLOS ONE | https://doi.org/10.1371/journal.pone.0211070 January 31, 2019</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">© 2019 Ares et al. This is an open access article distributed under the terms of the Creative Commons Attribution License: http://creativecommons.org/licenses/by/4.0/ (the "License"), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited. Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgments</head><p>We thank all the volunteers who participated in the study, without whose help they would have been impossible to perform.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Author Contributions</head><p>Conceptualization: Jessica Ares, Edelmiro Mene ´ndez-Torre.</p><p>Data curation: Jessica Ares, Sandra Rodrı ´guez-Rodero. </p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Federacio ´n Internacional de Diabetes</title>
+	</analytic>
+	<monogr>
+		<title level="m">Comite ´de la 8va edicio ´n de Diabetes Atlas</title>
+				<imprint>
+			<date type="published" when="2017">2017</date>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="0" to="148" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Diabetes in Europe: An update</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Tamayo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Rosenbauer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Wild</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Amw</forename><surname>Spijkerman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Baan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">G</forename><surname>Forouhi</surname></persName>
+		</author>
+		<idno type="PMID">24300019</idno>
+		<ptr target="http://www.ncbi.nlm.nih.gov/pubmed/24300019" />
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Res Clin Pract</title>
+		<imprint>
+			<biblScope unit="volume">103</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="206" to="217" />
+			<date type="published" when="2014-02">2014 Feb. 2017 Apr 1</date>
+		</imprint>
+	</monogr>
+	<note>Internet</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Diabetes Mellitus, Fasting Glucose, and Risk of Cause-Specific Death Centers for Disease Control and Prevention</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Rao Kondapally Seshasai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kaptoge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Thompson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Di</forename><surname>Angelantonio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Gao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Sarwar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename></persName>
+		</author>
+		<ptr target="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4109980/pdf/nihms-606545.pdf" />
+	</analytic>
+	<monogr>
+		<title level="j">Atlanta. N Engl J Med March</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">3649</biblScope>
+			<biblScope unit="page" from="829" to="841" />
+			<date type="published" when="2011">2011. 2018 Jan 21</date>
+		</imprint>
+	</monogr>
+	<note>Internet</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Age-and sex-specific prevalences of diabetes and impaired glucose regulation in 13 European cohorts. Diabetes Care [Internet</title>
+		<idno type="PMID">12502659</idno>
+		<ptr target="http://www.ncbi.nlm.nih.gov/pubmed/12502659" />
+		<imprint>
+			<date type="published" when="2003-01">2003 Jan [. 2018 Jan 21</date>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="61" to="69" />
+		</imprint>
+		<respStmt>
+			<orgName>DECODE Study Group</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Diabetes mellitus, fasting blood glucose concentration, and risk of vascular disease: a collaborative meta-analysis of 102 prospective studies</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Sarwar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Gao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Srk</forename><surname>Seshasai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Gobin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kaptoge</surname></persName>
+		</author>
+		<idno type="PMID">20609967</idno>
+		<ptr target="http://www.ncbi.nlm.nih.gov/pubmed/20609967" />
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">375</biblScope>
+			<biblScope unit="issue">9733</biblScope>
+			<biblScope unit="page" from="2215" to="2222" />
+			<date type="published" when="2010-06-26">2010 Jun 26. 2018 Jan 21</date>
+		</imprint>
+	</monogr>
+	<note>The Emerging Risk Factors Collaboration. Internet</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Impaired glucose tolerance and impaired fasting mia: the current status on definition and intervention</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Unwin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Shaw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Zimmet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kgmm</forename><surname>Alberti</surname></persName>
+		</author>
+		<idno type="PMID">12207806</idno>
+		<ptr target="http://www.ncbi.nlm.nih.gov/pubmed/12207806" />
+	</analytic>
+	<monogr>
+		<title level="j">Diabet Med</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="708" to="723" />
+			<date type="published" when="2002-09">2002 Sep. 2018 Jan 21</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Dı ´az Cado ´rniga FJ. Prevalencia de diabetes Mellitus e intolerancia a la glucosa en poblacio ´n entre 30 y 75 años en Asturias</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Botas Cervero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Delgado A ´lvarez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Castaño</forename><surname>Ferna ´ndez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dı</forename><surname>´az De Greñu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Prieto</forename><surname>Santiago</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">España. Rev Clı ´nica Española</title>
+		<imprint/>
+	</monogr>
+	<note>Internet</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m" type="main">Editorial Cientifı ´co Mı ´dica</title>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+			<biblScope unit="page">2017</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main">Myocardial infarction and coronary deaths in the World Health Organization MONICA Project. Registration procedures, event rates, and case-fatality rates in 38 populations from 21 countries in four continents</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Tunstall-Pedoe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kuulasmaa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Amouyel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Arveiler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Rajakangas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Pajak</surname></persName>
+		</author>
+		<idno type="PMID">8026046</idno>
+		<ptr target="http://www.ncbi.nlm.nih.gov/pubmed/8026046" />
+		<imprint>
+			<date type="published" when="1994-07">1994 Jul [cited 2018 Mar 17</date>
+			<biblScope unit="volume">90</biblScope>
+			<biblScope unit="page" from="583" to="612" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Riesgo de mortalidad en diabetes diagnosticada, diabetes no diagnosticada y prediabetes en poblacio ´n adulta española. Estudio Asturias</title>
+		<author>
+			<persName><forename type="first">Sergio</forename><surname>Valde ´s</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Patricia</forename><surname>Botas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">D</forename><surname>Fdc</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev Española Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">62</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="528" to="534" />
+			<date type="published" when="1998">1998-2004. 2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">Population-Based Incidence of Type 2 Diabetes in Northern Spain: The Asturias Study. Diabetes Care [Internet</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Valdes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Botas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Delgado</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Alvarez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">D</forename><surname>Cadorniga</surname></persName>
+		</author>
+		<idno type="PMID">17536076</idno>
+		<ptr target="http://www.ncbi.nlm.nih.gov/pubmed/17536076" />
+		<imprint>
+			<date type="published" when="2007-09-01">2007 Sep 1. 2017 Apr 9</date>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="2258" to="2263" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title level="m" type="main">Clinical Usefulness of a New Equation for Estimating Body Fat. Diabetes Care</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Gomez-Ambrosi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Silva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Catalan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rodriguez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Galofre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Escalada</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012-02-01">2012 Feb 1</date>
+		</imprint>
+	</monogr>
+	<note>Internet. cited 2018 Mar 29</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Cardiac failure and sudden death in the Framingham Study</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">B</forename><surname>Kannel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Plehn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Cupples</surname></persName>
+		</author>
+		<idno type="PMID">3354416</idno>
+		<ptr target="http://www.ncbi.nlm.nih.gov/pubmed/3354416" />
+	</analytic>
+	<monogr>
+		<title level="j">Am Heart J</title>
+		<imprint>
+			<biblScope unit="volume">115</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="869" to="875" />
+			<date type="published" when="1988-04">1988 Apr. 2017 Apr 22</date>
+		</imprint>
+	</monogr>
+	<note>Internet</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">All-cause mortality in adults with and without type 2 diabetes: findings from the national health monitoring in Germany</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ro ¨ckl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Brinks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Baumert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Paprott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Du</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Heidemann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMJ open diabetes Res care</title>
+		<imprint/>
+	</monogr>
+	<note>Internet</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Excess Mortality among Persons with Type 2 Diabetes</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tancredi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rosengren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A-M</forename><surname>Svensson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kosiborod</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Pivodic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Gudbjo ¨rnsdottir</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint/>
+	</monogr>
+	<note>Internet</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title/>
+		<idno type="DOI">10.1056/NEJMoa1504347</idno>
+		<idno type="PMID">26510021</idno>
+		<ptr target="http://www.nejm.org/doi/10.1056/NEJMoa1504347" />
+	</analytic>
+	<monogr>
+		<title level="j">Massachusetts Medical Soci</title>
+		<imprint>
+			<biblScope unit="volume">373</biblScope>
+			<biblScope unit="issue">18</biblScope>
+			<biblScope unit="page" from="1720" to="1732" />
+			<date type="published" when="2015-10-29">2015 Oct 29. 2018 Feb 22</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Categories of glucose tolerance and continuous glycemic measures and mortality</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Kowall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Rathmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Heier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Giani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Peters</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Thorand</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Epidemiol</title>
+		<imprint/>
+	</monogr>
+	<note>Internet</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Postload Plasma Glucose and 30-Year Mortality Among Nondiabetic Middle-Aged Men From the General Population: The ERFORT Study</title>
+		<author>
+			<persName><surname>Meisinger C</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Wolke G</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Brasche</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Strube</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Heinrich</forename><forename type="middle">J</forename></persName>
+		</author>
+		<idno type="PMID">16406244</idno>
+		<ptr target="http://www.ncbi.nlm.nih.gov/pubmed/16406244" />
+	</analytic>
+	<monogr>
+		<title level="j">Ann Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="534" to="539" />
+			<date type="published" when="2006-07">2006 Jul [cited 2018 Mar 29</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Mortality trends in patients with and without diabetes in Ontario, Canada and the UK from 1996 to 2009: a populationbased study</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Lind</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Garcia-Rodriguez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">L</forename><surname>Booth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Cea-Soriano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">R</forename><surname>Shah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Ekeroth</surname></persName>
+		</author>
+		<idno type="PMID">24114114</idno>
+		<ptr target="http://www.ncbi.nlm.nih.gov/pubmed/24114114" />
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="2601" to="2608" />
+			<date type="published" when="2013-12-11">2013 Dec 11. 2018 Feb 26</date>
+		</imprint>
+	</monogr>
+	<note>Internet</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Abnormal glucose tolerance and the risk of cancer death in the United States</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Saydah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Loria</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Eberhardt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">L</forename><surname>Brancati</surname></persName>
+		</author>
+		<idno type="PMID">12796045</idno>
+		<ptr target="http://www.ncbi.nlm.nih.gov/pubmed/12796045" />
+	</analytic>
+	<monogr>
+		<title level="j">Am J Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">157</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="1092" to="1100" />
+			<date type="published" when="2003-06-15">2003 Jun 15. 2018 Jan 21</date>
+		</imprint>
+	</monogr>
+	<note>Internet</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main">Subclinical states of glucose intolerance and risk of death in the U.S. Diabetes Care [Internet</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Saydah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Loria</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Eberhardt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">L</forename><surname>Brancati</surname></persName>
+		</author>
+		<idno type="PMID">11289466</idno>
+		<ptr target="http://www.ncbi.nlm.nih.gov/pubmed/11289466" />
+		<imprint>
+			<date type="published" when="2001-03">2001 Mar. 2018 Mar 30</date>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="447" to="453" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Sex Differences in the Cardiovascular Consequences of Diabetes Mellitus: A Scientific Statement From the American Heart Association</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Regensteiner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Golden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">G</forename><surname>Huebschmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Barrett-Connor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">Y</forename><surname>Chang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Chyun</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint/>
+	</monogr>
+	<note>Internet</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title level="m" type="main">Sex Differences in the Excess Risk of Cardiovascular Diseases Associated with Type 2 Potential Explanations and Clinical Implications. Curr Cardiovasc Risk Rep</title>
+		<author>
+			<persName><forename type="first">Sae</forename><surname>Peters</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Huxley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Sattar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Woodward</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>Internet</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">U</forename><forename type="middle">S</forename><surname>Springer</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s12170-015-0462-5</idno>
+		<idno type="PMID">26029318</idno>
+		<ptr target="http://link.springer.com/10.1007/s12170-015-0462-5" />
+		<imprint>
+			<date type="published" when="2015-07-26">2015 Jul 26. 2018 Mar 29</date>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page">36</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Mortality trends in men and women with diabetes</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">W</forename><surname>Gregg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Gu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">J</forename><surname>Cheng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kmv</forename><surname>Narayan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Cowie</surname></persName>
+		</author>
+		<idno type="PMID">17576993</idno>
+		<ptr target="http://www.ncbi.nlm.nih.gov/pubmed/17576993" />
+	</analytic>
+	<monogr>
+		<title level="j">Ann Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">147</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="149" to="155" />
+			<date type="published" when="1971">1971 to 2000. 2007 Aug 7</date>
+		</imprint>
+	</monogr>
+	<note>cited 2018 Mar 29</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title level="m" type="main">Mortality Trends Among People With Type 1 and Type 2 Diabetes in Australia: 1997-2010. Diabetes Care</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Harding</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Shaw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Peeters</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Guiver</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Davidson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Magliano</surname></persName>
+		</author>
+		<idno type="PMID">24947787</idno>
+		<ptr target="http://www.ncbi.nlm.nih.gov/pubmed/24947787" />
+		<imprint>
+			<date type="published" when="2014-09">2014 Sep [cited 2018 Mar 29</date>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="2579" to="2586" />
+		</imprint>
+	</monogr>
+	<note>Internet</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<title level="m" type="main">Risk of Cause-Specific Death in Individuals With Diabetes: A Competing Risks Analysis. Diabetes Care</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Baena-Dı ´ez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Peñafiel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Subirana</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Ramos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Elosua</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Marı ´n-Ibañez</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note>Internet</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Nov</surname></persName>
+		</author>
+		<idno type="PMID">27493134</idno>
+		<ptr target="http://www.ncbi.nlm.nih.gov/pubmed/27493134" />
+		<imprint>
+			<date type="published" when="2018-03-30">2018 Mar 30</date>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page" from="1987" to="1995" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Association between prediabetes and risk of cardiovascular disease and all cause mortality: systematic review and meta-analysis</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Cai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Mai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Hu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMJ</title>
+		<imprint>
+			<publisher>BMJ Publishing Group</publisher>
+		</imprint>
+	</monogr>
+	<note>Internet</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title level="m" type="main">Impaired Glucose Metabolism among Those with and without Diagnosed Diabetes and Mortality: A Cohort Study Using Health Survey for England Data</title>
+		<author>
+			<persName><forename type="first">Vlz</forename><surname>Gordon-Dseagu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Mindell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Steptoe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Moody</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wardle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Demakakos</surname></persName>
+		</author>
+		<editor>Obukhov AG</editor>
+		<imprint>
+			<date type="published" when="2015-03-18">2015 Mar 18. 2018</date>
+		</imprint>
+	</monogr>
+	<note>cited</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

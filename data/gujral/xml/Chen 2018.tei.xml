@@ -1,0 +1,1318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Prognostic Impact of Fasting Plasma Glucose on Mortality and Re-Hospitalization in Patients with Acute Heart Failure</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Yu-Yang</forename><surname>Chen</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Cardiology</orgName>
+								<orgName type="laboratory">Guangdong Province Key Laboratory of Arrhythmia and Electrophysiology</orgName>
+								<orgName type="institution">Sun Yat-sen Memorial Hospital of Sun Yat-sen University</orgName>
+								<address>
+									<postCode>510120</postCode>
+									<settlement>Guangzhou</settlement>
+									<region>Guangdong</region>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Yuan</forename><surname>Chen</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Cardiology</orgName>
+								<orgName type="institution">Hainan Provincial People&apos;s Hospital</orgName>
+								<address>
+									<postCode>570311</postCode>
+									<settlement>Haikou</settlement>
+									<region>Hainan</region>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Shu-Min</forename><surname>Liang</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Cardiology</orgName>
+								<orgName type="laboratory">Guangdong Province Key Laboratory of Arrhythmia and Electrophysiology</orgName>
+								<orgName type="institution">Sun Yat-sen Memorial Hospital of Sun Yat-sen University</orgName>
+								<address>
+									<postCode>510120</postCode>
+									<settlement>Guangzhou</settlement>
+									<region>Guangdong</region>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Zi-Zhuo</forename><surname>Su</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Cardiology</orgName>
+								<orgName type="laboratory">Guangdong Province Key Laboratory of Arrhythmia and Electrophysiology</orgName>
+								<orgName type="institution">Sun Yat-sen Memorial Hospital of Sun Yat-sen University</orgName>
+								<address>
+									<postCode>510120</postCode>
+									<settlement>Guangzhou</settlement>
+									<region>Guangdong</region>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Xiao-Rong</forename><surname>Shu</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Hai-Feng</forename><surname>Zhang</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Cardiology</orgName>
+								<orgName type="laboratory">Guangdong Province Key Laboratory of Arrhythmia and Electrophysiology</orgName>
+								<orgName type="institution">Sun Yat-sen Memorial Hospital of Sun Yat-sen University</orgName>
+								<address>
+									<postCode>510120</postCode>
+									<settlement>Guangzhou</settlement>
+									<region>Guangdong</region>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Siu-Hin</forename><surname>Wan</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Cardiology</orgName>
+								<orgName type="laboratory">Guangdong Province Key Laboratory of Arrhythmia and Electrophysiology</orgName>
+								<orgName type="institution">Sun Yat-sen Memorial Hospital of Sun Yat-sen University</orgName>
+								<address>
+									<postCode>510120</postCode>
+									<settlement>Guangzhou</settlement>
+									<region>Guangdong</region>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Cardiology</orgName>
+								<orgName type="institution">Mayo Clinic</orgName>
+								<address>
+									<postCode>55905</postCode>
+									<settlement>Rochester</settlement>
+									<region>Minnesota</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jing-Feng</forename><surname>Wang</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Cardiology</orgName>
+								<orgName type="laboratory">Guangdong Province Key Laboratory of Arrhythmia and Electrophysiology</orgName>
+								<orgName type="institution">Sun Yat-sen Memorial Hospital of Sun Yat-sen University</orgName>
+								<address>
+									<postCode>510120</postCode>
+									<settlement>Guangzhou</settlement>
+									<region>Guangdong</region>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName><roleName>Dr</roleName><forename type="first">Shuang-Lun</forename><surname>Xie</surname></persName>
+							<email>xieshuanglun@sina.com</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Cardiology</orgName>
+								<orgName type="laboratory">Guangdong Province Key Laboratory of Arrhythmia and Electrophysiology</orgName>
+								<orgName type="institution">Sun Yat-sen Memorial Hospital of Sun Yat-sen University</orgName>
+								<address>
+									<postCode>510120</postCode>
+									<settlement>Guangzhou</settlement>
+									<region>Guangdong</region>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Xin</forename><surname>Chen</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Chen</forename><surname>Yy</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Liang</forename><surname>Sm</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Su</forename><surname>Zz</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Shu</forename><surname>Xr</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Cardiology</orgName>
+								<orgName type="institution">Sun Yat-sen Memorial Hospital of Sun Yat-sen University</orgName>
+								<address>
+									<postCode>510120</postCode>
+									<settlement>Guangzhou</settlement>
+									<region>Guangdong</region>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Prognostic Impact of Fasting Plasma Glucose on Mortality and Re-Hospitalization in Patients with Acute Heart Failure</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">D36F8839413F01DF1C82A17099F2CC4A</idno>
+					<idno type="DOI">10.4103/0366-6999.239310</idno>
+					<note type="submission">Received: 13-04-2018</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.1" ident="GROBID" when="2022-07-19T22:45+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Diabetes Mellitus</term>
+					<term>Heart Failure</term>
+					<term>Hyperglycemia</term>
+					<term>Prognosis</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Diabetes mellitus (DM) commonly coexists with heart failure (HF), and the prevalence, costs, and morbidity of this condition are increasing rapidly. <ref type="bibr" target="#b0">[1]</ref><ref type="bibr" target="#b1">[2]</ref><ref type="bibr" target="#b2">[3]</ref> DM is also an important risk factor for new-onset HF, suggesting that glycemic control may influence the development of new-onset HF. <ref type="bibr" target="#b3">[4]</ref> Some studies showed that the DM was related to worse survival and higher re-hospitalization rates in patients with acute HF. <ref type="bibr" target="#b4">[5]</ref><ref type="bibr" target="#b5">[6]</ref><ref type="bibr" target="#b6">[7]</ref> Elevated fasting plasma glucose (FPG) at admission, which is recognized as prediabetes (pre-DM), has also been shown to be both a common comorbidity and risk of HF in individuals without DM. <ref type="bibr" target="#b7">[8,</ref><ref type="bibr" target="#b8">9]</ref> Different results were reported by several studies which investigated elevated FPG with adverse outcomes of acute HF, <ref type="bibr" target="#b9">[10]</ref><ref type="bibr" target="#b10">[11]</ref><ref type="bibr" target="#b11">[12]</ref><ref type="bibr" target="#b12">[13]</ref> and the appropriate goal of glycemic control in this group of patients remains unclear. Moreover, few studies have focused on the impact of different levels of FPG on HF prognosis, which included strictly controlled, moderately controlled, and poorly controlled FPG in known DM.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Recent clinical trials have supported that strict glycemic control provided limited benefits on all-cause mortality in patients with type 2 diabetes. <ref type="bibr" target="#b13">[14]</ref> Treatment-related hypoglycemia has been shown to be a factor of adverse prognosis in DM patients. <ref type="bibr" target="#b14">[15]</ref> However, few studies have explored the impact of intensive glucose lowering treatment on the risk of acute decompensated HF. Despite the evidence of a significant association between hyperglycemia and poor prognosis in patients with HF, <ref type="bibr" target="#b15">[16,</ref><ref type="bibr" target="#b16">17]</ref> there are no recommendations to set specific glycemic goals in high-risk patient groups, as well as the establishment of glycemic control strategies, mainly on account of the absence of evidence on the benefit of universally achieving a strict glycemic control. <ref type="bibr" target="#b17">[18]</ref> Although some evidences indicated the association between hyperglycemia and HF-related survival outcomes, the relationship between FPG and risk of HF remains uncertain. This retrospective study aimed to explore the role of admission FPG on long-term survival outcomes and the re-hospitalization rates in patients hospitalized with acute HF and determine whether the intensity of glycemic treatment differentially influences this relationship.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Ethical approval</head><p>The study was conducted in accordance with the Declaration of Helsinki and was approved by the Ethics Committee of Sun Yat-sen Memorial Hospital of Sun Yat-sen University. Informed written consent was obtained from all patients before their enrollment in this study.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study population</head><p>This original cohort consisted of 624 outpatients seen and acutely admitted to Sun Yat-sen Memorial Hospital of Sun Yat-sen University or Hainan Provincial People's Hospital from October 2000 to April 2014. Inclusion criteria were as follows: (1) acute attack of chronic HF diagnosed according to history and examination; (2) acute HF induced by other noncardiogenic factors; and (3) a need for an intravenous therapy (diuretics, vasodilators, or inotropes) and intensive cardiac care. Exclusion criteria were as follows: age ≤18 years old. The sample size was evaluated by formula which represented comparisons among rates of multiple sets of sample: N = 2λ/(2 sin −1 [P max 0.5 ] -2 sin −1 [P min 0.5 ]). If α = 0.05, β = 0.10, κ = 3, λ α, β, κ−1 = λ 0.05, 0.10, 3−1 = 12.65, P max = 0.364 represented that mortality of DM with HF was 36.4% per-year according to DIABHYCAR (type 2 DIABetes, Hypertension, CArdiovascular Events and Ramipril) study, <ref type="bibr" target="#b18">[19]</ref> and P min = 0.200 represented that mortality of HF was 20% per-year according to epidemiology study. Finally, n = 68 meant that there were 68 patients in one subgroup at least. Patient visits were performed every 6 months after enrollment through clinical visit or telephone interview for patients or their caregivers who did not visit the clinic. Causes of death and re-hospitalization were ascertained by the hospital records or the records from patients' physicians or caregivers. The primary end points were all-cause mortality and cardiovascular mortality (death from HF, myocardial infarction, or sudden death from cardiovascular disease). The secondary end point was re-hospitalization for HF, defined as admission with worsening signs and/or symptoms of HF, including dyspnea, peripheral edema, and/or congestion on the chest radiograph and the need for treatment with intravenous diuretics or an increase in oral diuretics.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Diagnosis of diabetes mellitus, impaired fasting glucose, and other clinical and laboratory data</head><p>According to diagnostic criteria of DM, <ref type="bibr" target="#b19">[20,</ref><ref type="bibr" target="#b20">21]</ref> the presence of DM was defined as self-reported physician-diagnosis of DM and current use of medications for diabetes. In the absence of a previous diagnosis of diabetes, the nondiabetes and the newly diagnosed DM groups were defined as FPG level &lt;3.9 mmol/L or ≥7.0 mmol/L, respectively. Impaired fasting glucose (IFG) was defined as FPG between 5.6 mmol/L and 6.9 mmol/L by the average of two tests on different days.</p><p>Demographic data included clinical status (e.g., body mass index [BMI], previous history of hypertension, stroke or transient ischemic attack, coronary heart disease, cardiomyopathy, and smoking) and New York Heart Association (NYHA) class. Patients were diagnosed with hypertension if their blood pressure was ≥140/90 mmHg or if they were taking any antihypertensive drugs. The estimated glomerular filtration rate (eGFR) were calculated by the abbreviated Modification of Diet in Renal disease equation: eGFR (ml/min) = 186.3 × (serum creatinine) −1.154 × age −0.203 × (0.742 if female). Other biochemical serum measurements were obtained from all patients after an overnight fast through standard laboratory tests during the first 2 days of admission. Outpatient medications for each patient were recorded at admission. Conventional transthoracic echocardiography was used to measure the left ventricular end-diastolic diameter (LVEDD) and left ventricular ejection fraction (LVEF). Optimal drugs and device implantation therapeutic strategies were individualized following established guidelines upon patient discharge.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analysis</head><p>Continuous data with normal distribution were presented as a mean ± standard deviation, continuous data with nonnormal distribution were presented as median (Q1, Q3), and categorical data were presented as numbers and percentages. One-way analysis of variance test was used to compare normally distributed data and Kruskal-Wallis H-test was used to compare nonnormally distributed data. Categorical variables were reported and compared using a Chi-square test or a Fisher's exact test if any expected cell count was &lt;5. To explore the predictors of all-cause mortality, cardiovascular event mortality, and re-hospitalization event, multivariable Cox regression models with forward stepwise approach were constructed with age, sex, BMI, hypertension, previous stroke, coronary heart disease, smoking, NYHA class, LVEF, LVEDD, FPG, eGFR, and medical and device implantation treatments as predictive variables, respectively. In addition, Kaplan-Meier curves were also produced for both primary and secondary end points and compared among different groups by the log-rank tests. All analyses were performed with PASW Statistics for Windows, version 18.0 (SPSS Inc., Chicago, Illinois, USA). A P &lt; 0.05 was considered statistically significant.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Baseline characteristics of the study population</head><p>Among the 624 patients, 37 patients were excluded from the study, since 10 patients had the diagnosis of acute HF changed at the time of discharge and 27 patients were lost to follow-up. The rate of lost to follow-up was 4.3%. The 587 patients (including 388 males and 199 females) completed the entire study. The age ranged from 19 years to 103 years, with a mean age of 64.9 ± 12.6 years. There were 146 subjects (24.9%) with LVEF &lt;40%, 55 (9.4%) with LVEF of 40-49%, and 386 (65.7%) with LVEF ≥50%. The prevalence of DM, IFG, and non-DM in the study cohort was 29.5% (173), 11.4% (67), and 59.1% (347), respectively.</p><p>Table <ref type="table" target="#tab_0">1</ref> shows the baseline characteristics of the study cohort stratified by glycemic categories at hospital admission.  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Relationships between fasting plasma glucose levels in diabetes mellitus group at admission and prognosis of patients with acute heart failure</head><p>The patients with DM were categorized into three subgroups according to controlled FPG levels: FPG &lt;3.9 mmol/L, 3.9 mmol/L≤ FPG &lt;7.0 mmol/L, and FPG ≥7.0 mmol/L, which denoted strictly controlled, moderately controlled, and poorly controlled subgroups. As shown in Table <ref type="table" target="#tab_2">3</ref>, β-blockers and alpha-glucosidase inhibitors were used more in the moderately controlled subgroup; diuretics were used more in the strictly controlled subgroup; and insulin was used more in both of strictly controlled and poorly controlled subgroups. For outpatient antidiabetic strategies, single use of insulin (76.9%) was more frequent in the strictly controlled subgroup, while the single use of oral hypoglycemic agents was more frequent in the moderately controlled subgroup.</p><p>The relationships among different FPG levels and prognosis of acute HF are shown in Figure <ref type="figure" target="#fig_2">2</ref>. DM patients had a significantly lower overall survival rate than non-DM patients (log rank test, χ 2 = 7.424, P = 0.006, Figure <ref type="figure" target="#fig_2">2a</ref>). In DM patients, subgroup of FPG&lt; 3.9 mmol/L had a lower overall survival rate than those of non-DM group (log rank test, χ 2 = 6.261, P = 0.012), IFG group (log rank test, χ 2 = 7.233, P = 0.007), and subgroup of 3.9 mmol/L≤ FPG &lt;7.0 mmol/L (log rank test, χ 2 = 11.159, P = 0.001). Subgroup of FPG ≥7.0 mmol/L also had a lower overall survival rate than those of non-DM group (log rank test, χ 2 = 17.272, P &lt; 0.001), IFG group (log rank test, χ 2 = 9.857, P = 0.002), and subgroup of 3.9 mmol/L≤ FPG &lt;7.0 mmol/L (log rank test, χ 2 = 13.352, P &lt; 0.001; Figure <ref type="figure" target="#fig_2">2b</ref>). It suggested that DM individuals who had strictly controlled or poorly controlled FPG had poor overall survival, whereas DM individuals with moderately controlled FPG had an undifferentiated overall survival rate, compared with non-DM and IFG groups. Furthermore, DM patients had a lower free survival rate of cardiovascular event than that of non-DM group (log rank test, χ 2 = 5.033, P = 0.025, Figure <ref type="figure" target="#fig_2">2c</ref>). In DM patients, subgroup of FPG ≥7.0 mmol/L had a lower survival rate than those of non-DM group (log rank test, χ 2 = 15.612, P &lt; 0.001), IFG group (log rank test, χ 2 = 8.260, P = 0.004), and subgroup of 3.9 mmol/L≤ FPG &lt;7.0 mmol/L (log rank test, χ 2 = 13.048, P &lt; 0.001; Figure <ref type="figure" target="#fig_2">2d</ref>).</p><p>As for free survival rate of HF re-hospitalization event, neither IFG group nor DM group had worse result than non-DM group [Figure <ref type="figure" target="#fig_2">2e</ref>]. DM patients with poorly controlled FPG (FPG ≥7.0 mmol/L) still had a higher HF re-hospitalization rate than those of non-DM group (log-rank test, χ 2 = 9.756, P = 0.002), IFG group (log-rank test, χ 2 = 4.222, P = 0.040), and DM with moderately controlled FPG (log rank test, χ 2 = 8.585, P = 0.003; Figure <ref type="figure" target="#fig_2">2f</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>dIscussIon</head><p>The main findings of this retrospective study were as follows: (1) in DM patients with acute HF, all-cause mortality Among the three groups, the patients with IFG had a lower percentage of male and higher total cholesterol. Patients with DM had a higher prevalence of coronary heart disease and levels of triglycerides.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Impaired fasting glucose, diabetes mellitus, and poor prognosis of patients with acute heart failure</head><p>The mean period of follow-up was 2558 ± 1243 days. During the follow-up period, all-cause mortality was 44.1% (259 patients), cardiac mortality was 82.6% (214 patients), and HF re-hospitalization rate was 65.4% (384 patients). As shown in Figure <ref type="figure" target="#fig_1">1</ref>, the all-cause mortality of patients with DM, IFG, and non-DM were 55.5% (96/173), 40.3% (27/67), and 39.2% (136/347), with significant difference ( χ 2 = 12.887, P = 0.001). Moreover, compared with those with IFG (23/67, 34.3%) and non-DM (113/347, 32.6%), patients with DM also had significantly higher rate of cardiovascular mortality (78/173, 45.1%, χ 2 = 7.962, P = 0.019). However, there was no significant difference in HF re-hospitalization rate among the DM (124/173, 71.7%), IFG (44/67, 65.7%), and non-DM (216/347, 62.2%) groups ( χ 2 = 4.538, P = 0.106).</p><p>Table <ref type="table" target="#tab_1">2</ref> shows the variables for the prognosis of patients with acute HF. Univariate analysis indicated that patients with IFG had a 1.8-fold increased risk of all-cause mortality and a 1.9-fold increased risk for cardiovascular mortality, compared with patients with non-DM. Likewise, compared with patients with non-DM, DM patients had 2.0-fold increased risk of all-cause mortality and 1.9-fold increased risk in cardiovascular mortality. However, neither IFG nor DM was associated with HF re-hospitalization. The robustness of these associations held in multiple Cox regression analysis even after adjustment for multiple clinical risk factors, with adjusted hazard ratio of 1.672 (95% confidence interval [CI]: 1.088-2.570, P = 0.019) in IFG and 1.936 (95% CI: 1.472-2.547; P &lt; 0.001) in DM for all-cause mortality, as well as 1.817 (95% CI: 1.135-2.909, P = 0.013) in IFG and 1.739 (95% CI: 1.285-2.354, P &lt; 0.001) in DM for the cardiovascular mortality. Nevertheless, both of IFG and DM were not risk factors for HF re-hospitalization after adjusting for other risk factors. rate and cardiovascular mortality were both higher than those with IFG and non-DM; (2) DM and IFG were both risk factors of all-cause mortality and cardiovascular mortality even in patients with acute HF after adjustment for multiple established risk factors and potential confounding variables, but not for HF re-hospitalization; (3) DM individuals who had strictly controlled or poorly controlled FPG both worse outcomes; and (4) overuse of insulin might be associated with a worse prognosis of DM patients with acute HF due to hypoglycemia risk. There were limited studies examining the association between elevated admission FPG and adverse outcomes in patients with acute HF, and these studies reported conflicting results. The findings of this study were consistent with previous observations that patients with acute HF and DM had worse all-cause mortality compared to those without DM. Mebazaa et al. <ref type="bibr" target="#b12">[13]</ref> reported that blood glucose levels of patients with acute HF at hospital admission were powerfully prognostic risks for 30-day mortality, independent of previous DM. Similarly, Targher et al. <ref type="bibr" target="#b21">[22]</ref> showed that, among patients hospitalized for acute HF, the presence of DM was independently associated with an increased risk of in-hospital mortality, 1-year all-cause mortality, and 1-year re-hospitalizations for HF. However, the results of this study were contrast with those from other previous studies which suggested that elevated blood glucose or DM was not associated with medium-and long-term adverse outcomes. For instance, in the analysis of short-term clinical outcomes in the OPTIMIZE-HF registry, Greenberg et al. <ref type="bibr" target="#b22">[23]</ref> found that acute HF patients with known DM had similar in-hospital and postdischarge mortality rates compared to patients without DM but had a higher re-hospitalization rate. Moreover, in a nationally representative cohort of 50,532 elderly patients with acute HF in the United States, Kosiborod et al. <ref type="bibr" target="#b23">[24]</ref> reported that blood glucose levels at hospital admission were not significantly related to an increased risk of 30-day and 1-year all-cause mortality. Finally, the presence of diabetes was strongly associated with higher rates of in-hospital mortality, but it did not significantly predict 1-year mortality or re-hospitalization rates in the cohort of 1176 inpatients from the Italian Network on HF Outcome registry. <ref type="bibr" target="#b10">[11]</ref> Hence, as noted above, there were limited and differing data about the role of blood glucose levels at admission on adverse outcomes in patients with acute HF. The paradox may be explained by the following two reasons. First, as previous studies reported, most studies consisted of patients with various demographic characteristics and different degrees of baseline cardiovascular risk. Therefore, the components of different studies were quite heterogeneous such as population age, gender, HF etiology, blood pressure, kidney function, cardiac function, and treatments. The slight differences of any above components could influence the whole result. Second, "stress-induced hyperglycemia", which is characterized by an abrupt and transient increase in blood glucose levels, <ref type="bibr" target="#b24">[25]</ref> is associated with higher short-term mortality rates than either previously known DM or normal glucose regulation. <ref type="bibr" target="#b25">[26]</ref> Thus, stress-induced hyperglycemia is a confounder to real hyperglycemia caused by IFG or DM. If so, it was possible that some misclassification of IFG or DM under single blood glucose measurement, and this misclassification could have partly overestimated the true prevalence of IFG or DM. However, transient stress-induced hyperglycemia has not been reported to be significantly associated with long-term adverse clinical outcomes. <ref type="bibr" target="#b26">[27]</ref> The main possible mechanisms for elevated levels of FPG in patients with acute HF are central obesity, insulin resistance, acute renal dysfunction, and diuretics use. <ref type="bibr" target="#b27">[28]</ref><ref type="bibr" target="#b28">[29]</ref><ref type="bibr" target="#b29">[30]</ref> Furthermore, long-term hyperglycemic can impair endothelial function, leading to arteriosclerosis, a major cause of coronary heart disease. Hyperglycemia induces secretion of higher levels of plasma insulin, which may increase ventricular mass and decrease cardiac output, and the insulin resistance-associated hyperglycemia is associated with the poor prognosis. <ref type="bibr" target="#b30">[31]</ref> In addition, elevated levels of FPG and insulin activate the sympathetic nervous system, which has been implicated in the development of HF.</p><p>Recent guidelines for the treatment of DM emphasize the importance of individualization of therapy based on patient demands, comorbid conditions, and potential side effects. <ref type="bibr" target="#b20">[21]</ref> Strict glycemic control is prone to higher risk of hypoglycemia and has been related to higher morbidity and mortality. Several studies have found a U-shaped relationship between HbA1c values and mortality. In a cohort of 5815 patients with HF and DM treated in ambulatory clinics, individuals with modest glycemic control (7.1%&lt; HbA1c ≤7.8%) had the lowest risk of death. Moreover, an inverse association between HbA1c values and adverse outcomes also has been reported in patients with DM and advanced HF. <ref type="bibr" target="#b31">[32]</ref> In the present study, DM individuals with modest FPG level (3.9 mmol/L≤ FPG &lt;7.0 mmol/L) had the lowest risk of all-cause mortality and cardiovascular event, and a higher all-cause mortality was found in low FPG level group (FPG &lt;3.9 mmol/L), where the rate of insulin use was significantly higher than oral glycemic agents (76.9% vs. 15.7%, P &lt; 0.01). Although low FPG at admission could not completely represent the stable state of glycemic control, it reflected a higher risk of mortality or morbidity caused by hypoglycemia.</p><p>Several mechanisms for the association above have been proposed. First, acute hypoglycemia induces catecholamine release due to sympathetic nervous activation that leads to Ca 2+ overload of the cardiomyocyte and hypokalemia, both of which cause prolongation of the QT interval and can trigger ), free survival rates of cardiovascular event (c and d), and HF re-hospitalization event (e and f) among different groups of acute HF patients, who were stratified by FPG levels. Non-DM, IFG, and DM groups corresponded to groups G1, G2, and G3 in Figure <ref type="figure" target="#fig_2">2a</ref>, 2c and 2e; DM groups were further subdivided into three subgroups according to controlled FPG levels: FPG &lt;3.9 mmol/L, 3.9 mmol/L≤ FPG &lt;7.0 mmol/L and FPG ≥7.0 mmol/L corresponding to groups g3, g4 and g5; non-DM and IFG groups corresponded to groups g1 and g2 in Figure <ref type="figure" target="#fig_2">2b</ref>, 2d and 2f. IFG: Impaired fasting glucose; DM: Diabetes mellitus; HF: Heart failure. lethal arrhythmias. <ref type="bibr" target="#b32">[33]</ref> Second, hypoglycemia has harmful effects on myocardial metabolism with insulin resistance and may lead to increased heart rate and systolic blood pressure, myocardial ischemia, water-sodium retention, and reduced left ventricular contraction. <ref type="bibr" target="#b33">[34]</ref> Furthermore, hypoglycemia induces a hypercoagulant state through platelet aggregation and changes of plasma coagulant factors. <ref type="bibr" target="#b34">[35]</ref> All of these factors are linked to HF decompensations. However, there were no randomized controlled trials aiming for optimal glycemic targets, specifically in acute HF patients with DM. It is controversial whether low FPG is an epiphenomenon caused by brittleness of DM or a treatment-related effect due to strict glycemic control. Therefore, further studies assessing the effect of modulating FPG in DM patients on acute HF are warranted.</p><p>Our study had several strengths and limitations. Patients were selected from two independent centers, with a high follow-up rate. Patients were prospectively monitored using established databases for hospital admission and telephone interview. The follow-up period was sufficiently long to obtain the risk for HF in the general population. In addition, our registry provided evidence of the impact of different FPG levels on the risk of all-cause mortality and cardiovascular mortality as well as the association between glucose control and prognostic outcomes for DM. However, some important limitations of this registry include sample size, lack of HbA1c data, and lack of glucose tolerance test data. First, the sample size of this study was relatively small, which slightly increased the sampling error and reduced the statistical power. Second, FPG was volatile and influenced by many factors. The lack of comprehensive HbA1c data precluded exploring the combination of HbA1c and FPG, which might represent a better state of glycemic control than FPG alone. Third, the hyperglycemic state would be change with the increase of age and inappropriate treatment such as non-DM might become IFG or DM in the future during follow-up. However, these data were not available. Classification of IFG or DM based on a single FPG measurement might underestimate the impact of In conclusion, the present study indicated that IFG and DM were associated with higher all-cause mortality and cardiovascular mortality in patients with acute HF. No significant differences in HF re-hospitalization were observed among patients with IFG, DM, and non-DM. DM patients with lower (FPG &lt;3.9 mmol/L) or higher controlled FPG (FPG ≥7.0 mmol/L) both had worse survival outcomes. These results demonstrated the importance of proper glycemic targets in HF patients with DM. There remains a need for evidence-based guidelines for the management of in-hospital hyperglycemia among patients with acute HF, and the impact of aggressive treatment of admission hyperglycemia on outcomes in this patient population needs to be further explored in randomized controlled trials.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>7 )</head><label>7</label><figDesc>The data were shown as mean ± SD, median (Q1, Q3), or n (%). *One-way analysis of variance; † Chi-square test; ‡ Fisher exact test;§  Kruskal-Wallis H-test. IFG: Impaired fasting glucose; DM: Diabetes mellitus; BMI: Body mass index; NYHA class: New York Heart Association class; LVEF: Left ventricular ejection fraction; LVEDD: Left ventricular end-diastolic dimension; FPG: Fasting plasma glucose; AST: Aspartate transaminase; CK-MB: Creatine kinase-MB; eGFR: Estimated glomerular filtration rate; TG: Triglyceride; TC: Total cholesterol; HDL-C: High density lipoprotein-cholesterol; LDL-C: Low density lipoprotein -cholesterol; ACEI: Angiotensin-converting enzyme inhibitors; ARB: Angiotensin receptor blocker; CRT: Cardiac resynchronization therapy; CRT-D: Cardiac resynchronization therapy-cardioverter-defibrillator; ICD: Implantable cardioverter defibrillator; SD: Standard deviation.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 1 :</head><label>1</label><figDesc>Figure 1: Cumulative incidence rates of all-cause mor tality, cardiovascular mortality, and HF re-hospitalization in patients with acute HF. IFG: Impaired fasting glucose; DM: Diabetes mellitus; HF: Heart failure.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 2 :</head><label>2</label><figDesc>Figure 2:Kaplan-Meier curves for overall survival rate (a and b), free survival rates of cardiovascular event (c and d), and HF re-hospitalization event (e and f) among different groups of acute HF patients, who were stratified by FPG levels. Non-DM, IFG, and DM groups corresponded to groups G1, G2, and G3 in Figure2a, 2c and 2e; DM groups were further subdivided into three subgroups according to controlled FPG levels: FPG &lt;3.9 mmol/L, 3.9 mmol/L≤ FPG &lt;7.0 mmol/L and FPG ≥7.0 mmol/L corresponding to groups g3, g4 and g5; non-DM and IFG groups corresponded to groups g1 and g2 in Figure2b, 2d and 2f. IFG: Impaired fasting glucose; DM: Diabetes mellitus; HF: Heart failure.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 : Baseline characteristics of acute HF patients with non-DM, IFG or DM in this study Variables Non-DM (n = 347) IFG (n = 67) DM (n = 173) Statistical values P</head><label>1</label><figDesc></figDesc><table><row><cell>Demographic data</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Age (years)</cell><cell>65.1 ± 13.6</cell><cell>63.3 ± 12.1</cell><cell>65.2 ± 10.4</cell><cell>0.599*</cell><cell>0.550</cell></row><row><cell>Male</cell><cell>243 (70.0)</cell><cell>34 (50.7)</cell><cell>111 (64.2)</cell><cell>9.729  †</cell><cell>0.008</cell></row><row><cell>BMI (kg/m 2 )</cell><cell>23.0 ± 3.4</cell><cell>23.4 ± 3.6</cell><cell>23.3 ± 3.5</cell><cell>0.881*</cell><cell>0.415</cell></row><row><cell>Hypertension</cell><cell>135 (38.9)</cell><cell>25 (37.3)</cell><cell>81 (46.8)</cell><cell>3.427  †</cell><cell>0.181</cell></row><row><cell>Stroke/TIA history</cell><cell>27 (7.8)</cell><cell>4 (6.0)</cell><cell>10 (5.8)</cell><cell>0.831  †</cell><cell>0.648</cell></row><row><cell>Coronary heart disease</cell><cell>218 (62.8)</cell><cell>40 (59.7)</cell><cell>130 (75.1)</cell><cell>9.201  †</cell><cell>0.010</cell></row><row><cell>Cardiomyopathy</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Dilated cardiomyopathy</cell><cell>60 (17.3)</cell><cell>6 (9.0)</cell><cell>17 (9.8)</cell><cell>- ‡</cell><cell>0.091</cell></row><row><cell>Hypertrophic cardiomyopathy</cell><cell>15 (4.3)</cell><cell>3 (4.5)</cell><cell>5 (2.9)</cell><cell></cell><cell></cell></row><row><cell>Smoking history</cell><cell>102 (29.4)</cell><cell>19 (28.4)</cell><cell>34 (19.7)</cell><cell>5.786  †</cell><cell>0.057</cell></row><row><cell>NYHA class</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>NYHA class I</cell><cell>33 (9.5)</cell><cell>4 (6.0)</cell><cell>9 (5.2)</cell><cell>10.247  †</cell><cell>0.115</cell></row><row><cell>NYHA class II</cell><cell>152 (43.8)</cell><cell>41 (61.2)</cell><cell>86 (49.7)</cell><cell></cell><cell></cell></row><row><cell>NYHA class III</cell><cell>99 (28.5)</cell><cell>12 (17.9)</cell><cell>43 (24.9)</cell><cell></cell><cell></cell></row><row><cell>NYHA class IV</cell><cell>63 (18.2)</cell><cell>10 (14.9)</cell><cell>35 (20.2)</cell><cell></cell><cell></cell></row><row><cell>Clinical data</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>LVEF (%)</cell><cell>62 (37, 71)</cell><cell>67 (48, 74)</cell><cell>61 (43, 72)</cell><cell>5.870  §</cell><cell>0.053</cell></row><row><cell>LVEDD (mm)</cell><cell>50 (47, 61)</cell><cell>50 (45, 55)</cell><cell>51 (47, 58)</cell><cell>4.763  §</cell><cell>0.092</cell></row><row><cell>FPG (mmol/L)</cell><cell>4.65 (4.25, 5.00)</cell><cell>5.80 (5.33, 6.07)</cell><cell>7.08 (5.46, 8.92)</cell><cell>244.3  §</cell><cell>&lt;0.001</cell></row><row><cell>AST (U/L)</cell><cell>28 (22, 38)</cell><cell>31 (25, 41)</cell><cell>32 (23, 45)</cell><cell>5.955  §</cell><cell>0.051</cell></row><row><cell>CK-MB (U/L)</cell><cell>13 (9, 16)</cell><cell>11 (9, 16)</cell><cell>13 (9, 17)</cell><cell>1.327  §</cell><cell>0.515</cell></row><row><cell>eGFR (ml/min)</cell><cell>88 (61, 111)</cell><cell>89 (70, 127)</cell><cell>87 (63, 122)</cell><cell>2.171  §</cell><cell>0.338</cell></row><row><cell>TG (mmol/L)</cell><cell>1.29 (0.95, 1.85)</cell><cell>1.44 (1.08, 2.00)</cell><cell>1.50 (1.01, 2.08)</cell><cell>6.482  §</cell><cell>0.039</cell></row><row><cell>TC (mmol/L)</cell><cell>4.52 (3.85, 5.34)</cell><cell>5.00 (4.09, 5.80)</cell><cell>4.70 (4.08, 5.40)</cell><cell>7.354  §</cell><cell>0.025</cell></row><row><cell>HDL-C (mmol/L)</cell><cell>1.20 (1.01, 1.45)</cell><cell>1.23 (1.01, 1.65)</cell><cell>1.14 (0.97, 1.37)</cell><cell>5.009  §</cell><cell>0.082</cell></row><row><cell>LDL-C (mmol/L)</cell><cell>2.88 (2.36, 3.61)</cell><cell>3.30 (2.48, 3.91)</cell><cell>3.13 (2.53, 3.86)</cell><cell>5.944  §</cell><cell>0.051</cell></row><row><cell>Use of drug at admission</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>β-blocker</cell><cell>223 (64.3)</cell><cell>45 (67.2)</cell><cell>103 (59.5)</cell><cell>1.620  †</cell><cell>0.443</cell></row><row><cell>ACEI/ARB</cell><cell>234 (67.4)</cell><cell>45 (61.2)</cell><cell>135 (78.0)</cell><cell>8.847  †</cell><cell>0.012</cell></row><row><cell>Diuretics</cell><cell>179 (51.6)</cell><cell>30 (44.8)</cell><cell>98 (56.6)</cell><cell>2.902  †</cell><cell>0.234</cell></row><row><cell>Digoxin</cell><cell>104 (30.0)</cell><cell>12 (17.9)</cell><cell>60 (34.7)</cell><cell>6.471  †</cell><cell>0.041</cell></row><row><cell>Treatments</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>CRT + optimal drugs</cell><cell>25 (7.2)</cell><cell>4 (6.0)</cell><cell>14 (8.1)</cell><cell>- ‡</cell><cell>0.203</cell></row><row><cell>CRT-D + optimal drugs</cell><cell>22 (6.3)</cell><cell>4 (6.0)</cell><cell>13 (7.5)</cell><cell></cell><cell></cell></row><row><cell>ICD + optimal drugs</cell><cell>62 (17.9)</cell><cell>10 (14.9)</cell><cell>15 (8.7)</cell><cell></cell><cell></cell></row><row><cell>No device but optimal drugs</cell><cell>238 (68.6)</cell><cell>49 (73.1)</cell><cell>131 (75.</cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 : Univariate and multivariate Cox regression models of HF patients for overall mortality, cardiovascular event, and HF worsening re-hospitalization</head><label>2</label><figDesc></figDesc><table><row><cell>Variables</cell><cell></cell><cell cols="2">All-cause mortality</cell><cell></cell><cell cols="3">Cardiovascular mortality</cell><cell></cell></row><row><cell></cell><cell>Univariate</cell><cell></cell><cell>Multivariate</cell><cell></cell><cell>Univariate</cell><cell></cell><cell>Multivariate</cell><cell></cell></row><row><cell></cell><cell>HR (95% CI)</cell><cell>P</cell><cell>HR (95% CI)</cell><cell>P</cell><cell>HR (95% CI)</cell><cell>P</cell><cell>HR (95% CI)</cell><cell>P</cell></row><row><cell>Age</cell><cell cols="4">1.081 (1.064-1.099) &lt;0.001 1.081 (1.064-1.098) &lt;0.001</cell><cell>1.059 (1.042-1.077)</cell><cell cols="3">&lt;0.001 1.062 (1.045-1.080) &lt;0.001</cell></row><row><cell>Male</cell><cell cols="2">1.072 (0.790-1.455) 0.655</cell><cell>-</cell><cell>-</cell><cell>0.925 (0.656-1.304)</cell><cell>0.655</cell><cell>-</cell><cell>-</cell></row><row><cell>BMI</cell><cell cols="4">0.956 (0.919-0.995) 0.027 0.955 (0.919-0.993) 0.022</cell><cell>0.970 (0.929-1.013)</cell><cell>0.169</cell><cell>-</cell><cell>-</cell></row><row><cell>Hypertension</cell><cell cols="2">0.997 (0.768-1.295) 0.984</cell><cell>-</cell><cell>-</cell><cell>1.004 (0.753-1.340)</cell><cell>0.976</cell><cell>-</cell><cell>-</cell></row><row><cell>Stroke/TIA</cell><cell cols="2">0.973 (0.613-1.544) 0.908</cell><cell>-</cell><cell>-</cell><cell>1.005 (0.617-1.639)</cell><cell>0.983</cell><cell>-</cell><cell>-</cell></row><row><cell>CHD</cell><cell cols="2">1.121 (0.828-1.518) 0.459</cell><cell>-</cell><cell>-</cell><cell>1.395 (0.988-1.969)</cell><cell cols="3">0.059 1.411 (1.022-1.947) 0.036</cell></row><row><cell>Smoke history</cell><cell cols="2">1.055 (0.769-1.448) 0.738</cell><cell>-</cell><cell>-</cell><cell>1.166 (0.830-1.638)</cell><cell>0.376</cell><cell>-</cell><cell>-</cell></row><row><cell>Normal FBG</cell><cell>Reference</cell><cell>-</cell><cell>Reference</cell><cell>-</cell><cell>Reference</cell><cell>-</cell><cell>Reference</cell><cell>-</cell></row><row><cell>IFG</cell><cell cols="4">1.803 (1.160-2.802) 0.009 1.672 (1.088-2.570) 0.019</cell><cell>1.940 (1.198-3.143)</cell><cell cols="3">0.007 1.817 (1.135-2.909) 0.013</cell></row><row><cell>DM</cell><cell cols="4">2.027 (1.528-2.689 &lt;0.001 1.936 (1.472-2.547) &lt;0.001</cell><cell>1.903 (1.394-2.598)</cell><cell cols="3">&lt;0.001 1.739 (1.285-2.354) &lt;0.001</cell></row><row><cell>NYHA class I</cell><cell>Reference</cell><cell>-</cell><cell>Reference</cell><cell>-</cell><cell>Reference</cell><cell>-</cell><cell>Reference</cell><cell>-</cell></row><row><cell>NYHA class II</cell><cell cols="2">0.892 (0.457-1.739) 0.736</cell><cell>-</cell><cell>-</cell><cell>0.959 (0.421-2.196)</cell><cell cols="3">0.920 1.248 (0.568-2.744) 0.581</cell></row><row><cell cols="3">NYHA class III 1.195 (0.611-2.340) 0.603</cell><cell>-</cell><cell>-</cell><cell>1.520 (0.668-3.458)</cell><cell cols="3">0.318 2.025 (0.922-4.446) 0.079</cell></row><row><cell cols="3">NYHA class IV 1.320 (0.651-2.676) 0.441</cell><cell>-</cell><cell>-</cell><cell>1.706 (0.731-3.985)</cell><cell cols="3">0.217 2.435 (1.104-5.371) 0.027</cell></row><row><cell>eGFR</cell><cell cols="4">0.996 (0.993-1.000) 0.027 0.996 (0.993-0.999) 0.017</cell><cell>0.995 (0.991-0.999)</cell><cell cols="3">0.010 0.995 (0.992-0.999) 0.015</cell></row><row><cell>LVEDD</cell><cell cols="2">1.014 (0.995-1.033) 0.142</cell><cell>-</cell><cell>-</cell><cell>1.019 (0.999-1.040)</cell><cell>0.060</cell><cell>-</cell><cell>-</cell></row><row><cell>LVEF</cell><cell cols="4">0.970 (0.960-0.980) &lt;0.001 0.967 (0.960-0.974) &lt;0.001</cell><cell>0.962 (0.951-0.973)</cell><cell cols="3">&lt;0.001 0.960 (0.952-0.967) &lt;0.001</cell></row><row><cell>No device</cell><cell>Reference</cell><cell>-</cell><cell>Reference</cell><cell>-</cell><cell>Reference</cell><cell>-</cell><cell>Reference</cell><cell>-</cell></row><row><cell>CRT + drugs</cell><cell cols="2">0.887 (0.533-1.478) 0.646</cell><cell>-</cell><cell>-</cell><cell cols="2">0.561 (0.314-1.005) 00) 0.052</cell><cell>-</cell><cell>-</cell></row><row><cell>CRTD + drugs</cell><cell cols="2">0.682 (0.379-1.229) 0.203</cell><cell>-</cell><cell>-</cell><cell>0.562 (0.306-1.034)</cell><cell>0.064</cell><cell>-</cell><cell>-</cell></row><row><cell>ICD + drugs</cell><cell cols="2">0.825 (0.541-1.258) 0.372</cell><cell>-</cell><cell>-</cell><cell>0.681 (0.427-1.084)</cell><cell>0.105</cell><cell>-</cell><cell>-</cell></row><row><cell>Variables</cell><cell></cell><cell></cell><cell></cell><cell cols="2">HF worsening re-hospitalization</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell>Univariate</cell><cell></cell><cell></cell><cell cols="2">Multivariate</cell><cell></cell></row><row><cell></cell><cell cols="2">HR (95% CI)</cell><cell></cell><cell>P</cell><cell cols="2">HR (95% CI)</cell><cell></cell><cell>P</cell></row><row><cell>Age</cell><cell cols="3">1.035 (1.024-1.046)</cell><cell>&lt;0.001</cell><cell cols="2">1.038 (1.028-1.048)</cell><cell></cell><cell>&lt;0.001</cell></row><row><cell>Male</cell><cell cols="3">1.063 (0.831-1.361)</cell><cell>0.625</cell><cell></cell><cell>-</cell><cell></cell><cell>-</cell></row><row><cell>BMI</cell><cell cols="3">0.973 (0.943-1.004)</cell><cell>0.093</cell><cell></cell><cell>-</cell><cell></cell><cell>-</cell></row><row><cell>Hypertension</cell><cell cols="3">1.104 (0.892-1.366)</cell><cell>0.362</cell><cell></cell><cell>-</cell><cell></cell><cell>-</cell></row><row><cell>Stroke/TIA</cell><cell cols="3">0.936 (0.643-1.363)</cell><cell>0.730</cell><cell></cell><cell>-</cell><cell></cell><cell>-</cell></row><row><cell>CHD</cell><cell cols="3">1.146 (0.901-1.456)</cell><cell>0.266</cell><cell></cell><cell>-</cell><cell></cell><cell>-</cell></row><row><cell>Smoke history</cell><cell cols="3">1.005 (0.773-1.307)</cell><cell>0.969</cell><cell></cell><cell>-</cell><cell></cell><cell>-</cell></row><row><cell>Normal FBG</cell><cell></cell><cell>Reference</cell><cell></cell><cell>-</cell><cell cols="2">Reference</cell><cell></cell><cell>-</cell></row><row><cell>IFG</cell><cell cols="3">1.324 (0.943-1.858)</cell><cell>0.105</cell><cell></cell><cell>-</cell><cell></cell><cell>-</cell></row><row><cell>DM</cell><cell cols="3">1.273 (1.013-1.599)</cell><cell>0.038</cell><cell></cell><cell>-</cell><cell></cell><cell>-</cell></row><row><cell>NYHA class I</cell><cell></cell><cell>Reference</cell><cell></cell><cell>-</cell><cell cols="2">Reference</cell><cell></cell><cell>-</cell></row><row><cell>NYHA class II</cell><cell cols="3">2.285 (1.174-4.447)</cell><cell>0.015</cell><cell cols="2">2.419 (1.246-4.695)</cell><cell></cell><cell>0.009</cell></row><row><cell>NYHA class III</cell><cell cols="3">3.160 (1.607-6.214)</cell><cell>0.001</cell><cell cols="2">3.252 (1.662-6.365)</cell><cell></cell><cell>0.001</cell></row><row><cell>NYHA class IV</cell><cell cols="3">3.650 (1.811-7.356)</cell><cell>&lt;0.001</cell><cell cols="2">3.833 (1.981-7.662)</cell><cell></cell><cell>&lt;0.001</cell></row><row><cell>eGFR</cell><cell cols="3">0.998 (0.995-1.000)</cell><cell>0.094</cell><cell></cell><cell>-</cell><cell></cell><cell>-</cell></row><row><cell>LVEDD</cell><cell cols="3">1.004 (0.988-1.020)</cell><cell>0.624</cell><cell></cell><cell>-</cell><cell></cell><cell>-</cell></row><row><cell>LVEF</cell><cell cols="3">0.973 (0.964-0.983)</cell><cell>&lt;0.001</cell><cell cols="2">0.971 (0.964-0.978)</cell><cell></cell><cell>&lt;0.001</cell></row><row><cell>No device</cell><cell></cell><cell>Reference</cell><cell></cell><cell>-</cell><cell cols="2">Reference</cell><cell></cell><cell>-</cell></row><row><cell>CRT + drugs</cell><cell cols="3">0.590 (0.380-0.915)</cell><cell>0.018</cell><cell cols="2">0.635 (0.419-0.961)</cell><cell></cell><cell>0.032</cell></row><row><cell>CRTD + drugs</cell><cell cols="3">0.432 (0.261-0.715)</cell><cell>0.001</cell><cell cols="2">0.457 (0.283-0.736)</cell><cell></cell><cell>0.001</cell></row><row><cell>ICD + drugs</cell><cell cols="3">0.559 (0.386-0.811)</cell><cell>0.002</cell><cell cols="2">0.582 (0.409-0.829)</cell><cell></cell><cell>0.003</cell></row></table><note>IFG: Impaired fasting glucose; DM: Diabetes mellitus; BMI: Body mass index; NYHA class: New York Heart Association class; eGFR: Estimated glomerular filtration rate; LVEF: Left ventricular ejection fraction; LVEDD: Left ventricular end-diastolic dimension; CRT: Cardiac resynchronization therapy; CRT-D: resynchronization therapy-cardioverter-defibrillator; ICD: Implantable cardioverter defibrillator; HR: Hazard ratio; CI: Confidence interval; HF: Heart failure; -: Not applicable.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3 : Long-term pharmacological treatments outside the hospital for HF patients with DM according to controlled FPG levels at admission, n (%)</head><label>3</label><figDesc>Fisher exact test. DM: Diabetes mellitus; HF: Heart failure; FPG: Fasting plasma glucose; ACEI: Angiotensin-converting enzyme inhibitors; ARB: Angiotensin receptor blocker; DPP-4: Dipeptidyl peptidase-4.</figDesc><table><row><cell>Agents</cell><cell>All</cell><cell>FPG &lt;3.9</cell><cell>3.9 mmol/L≤ FPG</cell><cell>FPG ≥7.0 mmol/L</cell><cell>Statistical</cell><cell>P</cell></row><row><cell></cell><cell>(n = 173)</cell><cell>mmol/L (n = 13)</cell><cell>&lt;7.0 mmol/L (n = 70)</cell><cell>(n = 90)</cell><cell>values</cell><cell></cell></row><row><cell>β-blocker</cell><cell>103 (59.5)</cell><cell>8 (61.5)</cell><cell>50 (71.4)</cell><cell>45 (50.0)</cell><cell>7.529*</cell><cell>0.023</cell></row><row><cell>ACEI/ARB</cell><cell>135 (78.0)</cell><cell>11 (84.6)</cell><cell>51 (72.9)</cell><cell>73 (81.1)</cell><cell>- †</cell><cell>0.414</cell></row><row><cell>Diuretics</cell><cell>98 (56.6)</cell><cell>11 (84.6)</cell><cell>32 (45.7)</cell><cell>55 (61.1)</cell><cell>8.278*</cell><cell>0.014</cell></row><row><cell>Digoxin</cell><cell>60 (34.7)</cell><cell>8 (61.5)</cell><cell>20 (28.6)</cell><cell>32 (35.6)</cell><cell>- †</cell><cell>0.073</cell></row><row><cell>Insulin</cell><cell>71 (41.0)</cell><cell>7 (53.8)</cell><cell>17 (24.3)</cell><cell>47 (52.2)</cell><cell>13.652*</cell><cell>0.001</cell></row><row><cell>Metformin</cell><cell>38 (22.0)</cell><cell>1 (7.7)</cell><cell>20 (28.6)</cell><cell>17 (18.9)</cell><cell>- †</cell><cell>0.171</cell></row><row><cell>Alpha glucosidase inhibitors</cell><cell>73 (42.2)</cell><cell>2 (15.4)</cell><cell>37 (52.9)</cell><cell>34 (37.8)</cell><cell>7.814*</cell><cell>0.020</cell></row><row><cell>Insulin secretagogues</cell><cell>42 (24.3)</cell><cell>1 (7.7)</cell><cell>17 (24.3)</cell><cell>24 (26.7)</cell><cell>- †</cell><cell>0.408</cell></row><row><cell>Glitazones</cell><cell>11 (6.4)</cell><cell>0 (0)</cell><cell>5 (7.1)</cell><cell>6 (6.7)</cell><cell>- †</cell><cell>1.000</cell></row><row><cell>DPP-4 inhibitors</cell><cell>3 (1.7)</cell><cell>0 (0)</cell><cell>1 (1.4)</cell><cell>2 (2.2)</cell><cell>- †</cell><cell>1.000</cell></row><row><cell>Antidiabetic strategies</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>None</cell><cell>18 (10.4)</cell><cell>0 (0.0)</cell><cell>1 (1.4)</cell><cell>17 (18.9)</cell><cell>- †</cell><cell>&lt;0.001</cell></row><row><cell>Single insulin</cell><cell>46 (26.6)</cell><cell>10 (76.9)</cell><cell>10 (15.7)</cell><cell>25 (27.8)</cell><cell></cell><cell></cell></row><row><cell>Single oral hypoglycemic agents</cell><cell>80 (46.2)</cell><cell>2 (15.4)</cell><cell>52 (74.3)</cell><cell>26 (28.9)</cell><cell></cell><cell></cell></row><row><cell>Insulin + hypoglycemic agents</cell><cell>29 (16.8)</cell><cell>1 (7.7)</cell><cell>6 (8.6)</cell><cell>22 (24.4)</cell><cell></cell><cell></cell></row><row><cell>*Chi-square test;  †</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Financial support and sponsorship</head><p>This study was supported by grants from the National Natural Science Foundation Project (No. 81670364 and No. 81600238) and the Natural Science Foundation of Guangdong Province (No. 2016A030313356). </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conflicts of interest</head></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Glycemic control and heart failure among adult patients with diabetes</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Iribarren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Karter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Go</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ferrara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">Y</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sidney</surname></persName>
+		</author>
+		<idno type="DOI">10.1161/01.CIR.103.22.2668</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">103</biblScope>
+			<biblScope unit="page" from="2668" to="2673" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Impact of diabetes mellitus on hospitalization for heart failure, cardiovascular events, and death: Outcomes at 4 years from the reduction of atherothrombosis for continued health (REACH) registry</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Cavender</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">G</forename><surname>Steg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Smith</surname><genName>Jr</genName></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Eagle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Ohman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Goto</surname></persName>
+		</author>
+		<idno>doi: 10.1161/ CIRCULATIONAHA.114.014796</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">132</biblScope>
+			<biblScope unit="page" from="923" to="931" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Impact of diabetes on epidemiology, treatment, and outcomes of patients with heart failure</title>
+		<author>
+			<persName><forename type="first">Dei</forename><surname>Cas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Khan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Butler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mentz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Bonow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">O</forename><surname>Avogaro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jchf.2014.08.004</idno>
+	</analytic>
+	<monogr>
+		<title level="j">JACC Heart Fail</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="136" to="145" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Heart failure in diabetes: Effects of anti-hyperglycaemic drug therapy</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Gilbert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Krum</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S0140-6736(14)61402-1</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">385</biblScope>
+			<biblScope unit="page" from="2107" to="2117" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Discordant short-and long-term outcomes associated with diabetes in patients with heart failure: Importance of age and sex: A population study of 5.1 million people in Scotland</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Macdonald</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">S</forename><surname>Jhund</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Petrie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Lewsey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">M</forename><surname>Hawkins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bhagra</surname></persName>
+		</author>
+		<idno type="DOI">10.1161/CIRCHEARTFAILURE.108.794008</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Circ Heart Fail</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="234" to="241" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Long-term survival after hospitalization for acute heart failure -Differences in prognosis of acutely decompensated chronic and new-onset acute heart failure</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Lassus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Siirilä-Waris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Nieminen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tolonen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Tarvasmäki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Peuhkurinen</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.ijcard.2012.09.128</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">168</biblScope>
+			<biblScope unit="page" from="458" to="462" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Association between diabetes mellitus and post-discharge outcomes in patients hospitalized with heart failure: Findings from the EVEREST trial</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sarma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Mentz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Kwasny</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Fought</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Huffman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Subacius</surname></persName>
+		</author>
+		<idno>doi: 10.1093/ eurjhf/hfs153</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Heart Fail</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="194" to="202" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Prevalence of prediabetes and undiagnosed diabetes in patients with HFpEF and HFrEF and associated clinical outcomes</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Kristensen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">S</forename><surname>Jhund</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mmy</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Køber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Solomon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">B</forename><surname>Granger</surname></persName>
+		</author>
+		<idno>doi: 10.1007/ s10557-017-6754-x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Cardiovasc Drugs Ther</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="545" to="549" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Prognostic impact of diabetes and prediabetes on survival outcomes in patients with chronic heart failure: A Post hoc analysis of the GISSI-HF (Gruppo Italiano Per lo Studio della Sopravvivenza nella Insufficienza Cardiaca-Heart Failure) trial</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Dauriz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Targher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">L</forename><surname>Temporelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Lucci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Gonzini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">L</forename><surname>Nicolosi</surname></persName>
+		</author>
+		<idno type="DOI">10.1161/JAHA.116.005156</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Heart Assoc</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page">e005156</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Risk related to pre-diabetes mellitus and diabetes mellitus in heart failure with reduced ejection fraction: Insights from prospective comparison of ARNI with ACEI to determine impact on global mortality and morbidity in heart failure trial</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Kristensen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Preiss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">S</forename><surname>Jhund</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Squire</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Cardoso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Merkely</surname></persName>
+		</author>
+		<idno type="DOI">10.1161/CIRCHEARTFAILURE.115.002560</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Circ Heart Fail</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page">e002560</biblScope>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Prognostic impact of in-hospital hyperglycemia in hospitalized patients with acute heart failure: Results of the IN-HF (Italian Network on Heart Failure) outcome registry</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Targher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Dauriz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Tavazzi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">L</forename><surname>Temporelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Lucci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Urso</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.ijcard.2015.10.207</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">203</biblScope>
+			<biblScope unit="page" from="587" to="593" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Presentation blood glucose and death, hospitalization, and future diabetes risk in patients with acute heart failure syndromes</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sud</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">C</forename><surname>Austin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">L</forename><surname>Lipscombe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Newton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">V</forename><surname>Tu</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/eurheartj/ehu462</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Eur Heart J</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="924" to="931" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Association between elevated blood glucose and outcome in acute heart failure: Results from an international observational cohort</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mebazaa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Gayat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lassus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Meas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Mueller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Maggioni</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jacc.2012.11.054</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Coll Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="page" from="820" to="829" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Effect of intensive glucose lowering treatment on all cause mortality, cardiovascular death, and microvascular events in type 2 diabetes: Meta-analysis of randomised controlled trials</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Boussageon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Bejan-Angoulvant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Saadatian-Elahi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lafont</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Bergeonneau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Kassaï</surname></persName>
+		</author>
+		<idno type="DOI">10.1136/bmj.d4169</idno>
+	</analytic>
+	<monogr>
+		<title level="j">BMJ</title>
+		<imprint>
+			<biblScope unit="volume">343</biblScope>
+			<biblScope unit="page">4169</biblScope>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Severe hypoglycemia and risks of vascular events and death</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Zoungas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Patel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Chalmers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">E</forename><surname>De Galan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Billot</surname></persName>
+		</author>
+		<idno type="DOI">10.1056/NEJMoa1003795</idno>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">363</biblScope>
+			<biblScope unit="page" from="1410" to="1418" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Elevated glycated haemoglobin is a strong predictor of mortality in patients with left ventricular systolic dysfunction who are not receiving treatment for diabetes mellitus</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Goode</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>John</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Rigby</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Kilpatrick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Atkin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Bragadeesh</surname></persName>
+		</author>
+		<idno type="DOI">10.1136/hrt.2008.156646</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Heart</title>
+		<imprint>
+			<biblScope unit="volume">95</biblScope>
+			<biblScope unit="page" from="917" to="923" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Glucose levels predict hospitalization for congestive heart failure in patients at high cardiovascular risk</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Held</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Gerstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Yusuf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Hilbrich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Anderson</surname></persName>
+		</author>
+		<idno type="DOI">10.1161/CIRCULATIONAHA.106.661405</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">115</biblScope>
+			<biblScope unit="page" from="1371" to="1375" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Relationship of hemoglobin A1C and mortality in heart failure patients with diabetes</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Aguilar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Bozkurt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ramasubbu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Deswal</surname></persName>
+		</author>
+		<idno>doi: 10.1016/j. jacc.2009.04.049</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Coll Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page" from="422" to="428" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">DIABHYCAR Study Group (type 2 DIABetes, Hypertension, CARdiovascular Events and Ramipril) study. et al. Development of congestive heart failure in type 2 diabetic patients with microalbuminuria or proteinuria: Observations from the DIABHYCAR (type 2 DIABetes, hypertension, CArdiovascular Events and Ramipril) study</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Vaur</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Gueret</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Lievre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Chabaud</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Passa</surname></persName>
+		</author>
+		<idno type="DOI">10.2337/diacare.26.3.855</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="855" to="860" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Pharmacologic therapy for type 2 diabetes: Synopsis of the 2017 American Diabetes Association Standards of medical care in diabetes</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Chamberlain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">H</forename><surname>Herman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Leal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Rhinehart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Shubrook</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Skolnik</surname></persName>
+		</author>
+		<idno>doi: 10.7326/ M16-2937</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">166</biblScope>
+			<biblScope unit="page" from="572" to="578" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Standards of medical care in diabetes-2017: Summary of revisions</title>
+		<idno type="DOI">10.2337/dc17-S003</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="S4" to="5" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">In-hospital and 1-year mortality associated with diabetes in patients with acute heart failure: Results from the ESC-HFA heart failure long-term registry</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Targher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Dauriz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Laroche</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">L</forename><surname>Temporelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hassanein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Seferovic</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/ejhf.679</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Heart Fail</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="54" to="65" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Influence of diabetes on characteristics and outcomes in patients hospitalized with heart failure: A report from the organized program to initiate lifesaving treatment in hospitalized patients with heart failure (OPTIMIZE-HF)</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">H</forename><surname>Greenberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">T</forename><surname>Abraham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">M</forename><surname>Albert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Chiswell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Clare</forename><forename type="middle">R</forename><surname>Stough</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">G</forename></persName>
+		</author>
+		<idno type="DOI">10.1016/j.ahj.2007.05.001</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Am Heart J</title>
+		<imprint>
+			<biblScope unit="volume">154</biblScope>
+			<biblScope unit="page" from="277" to="e278" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Elevated admission glucose and mortality in elderly patients hospitalized with heart failure</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kosiborod</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Inzucchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Spertus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">A</forename><surname>Masoudi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">P</forename><surname>Havranek</surname></persName>
+		</author>
+		<idno type="DOI">10.1161/CIRCULATIONAHA.108.821843</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">119</biblScope>
+			<biblScope unit="page" from="1899" to="1907" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Stress hyperglycaemia</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Dungan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Braithwaite</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Preiser</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S0140-6736(09)60553-5</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">373</biblScope>
+			<biblScope unit="page" from="1798" to="1807" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Short-term mortality of myocardial infarction patients with diabetes or hyperglycaemia during admission</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Sala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Masiá</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">González</forename><surname>De Molina</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">J</forename><surname>Fernández-Real</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Gil</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bosch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename></persName>
+		</author>
+		<idno type="DOI">10.1136/jech.56.9.707</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J Epidemiol Community Health</title>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="page" from="707" to="712" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">An independent marker of in-hospital mortality in patients with undiagnosed diabetes</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Umpierrez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Isaacs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Bazargan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>You</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Thaler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Kitabchi</surname></persName>
+		</author>
+		<idno type="DOI">10.1210/jcem.87.3.8341</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Endocrinol Metab</title>
+		<imprint>
+			<biblScope unit="volume">87</biblScope>
+			<biblScope unit="page" from="978" to="982" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Impact of oxidative stress and peroxisome proliferator-activated receptor gamma coactivator-1alpha in hepatic insulin resistance</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Kumashiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Tamura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Uchida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Ogihara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Fujitani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Hirose</surname></persName>
+		</author>
+		<idno type="DOI">10.2337/db08-0144</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="page" from="2083" to="2091" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Thiazide diuretics, potassium, and the development of diabetes: A quantitative review</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Zillich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Garg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Basu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">L</forename><surname>Bakris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">L</forename><surname>Carter</surname></persName>
+		</author>
+		<idno type="DOI">10.1161/01.HYP.0000231552.10054.aa</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Hypertension</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="219" to="224" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Prevalence, predictors, and prognostic value of renal dysfunction in adults with congenital heart disease</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Dimopoulos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">P</forename><surname>Diller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Koltsida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Pijuan-Domenech</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Papadopoulou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">V</forename><surname>Babu-Narayan</surname></persName>
+		</author>
+		<idno>doi: 10.1161/ CIRCULATIONAHA.107.734921</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">117</biblScope>
+			<biblScope unit="page" from="2320" to="2328" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Impaired insulin sensitivity as an independent risk factor for mortality in patients with stable chronic heart failure</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Doehner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rauchhaus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Ponikowski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">F</forename><surname>Godsland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Von Haehling</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">O</forename><surname>Okonko</surname></persName>
+		</author>
+		<idno>doi: 10.1016/j. jacc.2005.02.093</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Coll Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="1019" to="1026" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Relation between hemoglobin a(1c) and outcomes in heart failure patients with and without diabetes mellitus</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">S</forename><surname>Tomova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Nimbal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">B</forename><surname>Horwich</surname></persName>
+		</author>
+		<idno>doi: 10.1016/j. amjcard.2012.02.022</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">109</biblScope>
+			<biblScope unit="page" from="1767" to="1773" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Altered ventricular repolarization during hypoglycaemia in patients with diabetes</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Marques</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>George</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Peacey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">D</forename><surname>Harris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">A</forename><surname>Macdonald</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Cochrane</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/(SICI)1096-9136(199708)14:8&lt;648::AID-DIA41</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Diabet Med</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="648" to="654" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Hypoglycemia and cardiovascular risks</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">M</forename><surname>Frier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Schernthaner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Heller</surname></persName>
+		</author>
+		<idno type="DOI">10.2337/dc11-s220</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="S132" to="137" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note>Suppl</note>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Vascular disease and diabetes: Is hypoglycaemia an aggravating factor?</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Wright</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">M</forename><surname>Frier</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/dmrr.865</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Metab Res Rev</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="353" to="363" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

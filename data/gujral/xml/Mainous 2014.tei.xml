@@ -1,0 +1,1016 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Prediabetes, elevated iron and all-cause mortality: a cohort study</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2014-12-11">11 December 2014</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Arch</forename><forename type="middle">G</forename><surname>Mainous Iii</surname></persName>
+							<email>arch.mainous@ufl.edu</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Health Services Research</orgName>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Management and Policy</orgName>
+								<orgName type="institution">University of Florida</orgName>
+								<address>
+									<settlement>Gainesville</settlement>
+									<region>Florida</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Community Health and Family Medicine</orgName>
+								<orgName type="institution">University of Florida</orgName>
+								<address>
+									<settlement>Gainesville</settlement>
+									<region>Florida</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Rebecca</forename><forename type="middle">J</forename><surname>Tanner</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Health Services Research</orgName>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Management and Policy</orgName>
+								<orgName type="institution">University of Florida</orgName>
+								<address>
+									<settlement>Gainesville</settlement>
+									<region>Florida</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Thomas</forename><forename type="middle">D</forename><surname>Coates</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department" key="dep1">Department of Pediatrics and Pathology</orgName>
+								<orgName type="department" key="dep2">Keck School of Medicine</orgName>
+								<orgName type="institution">University of Southern California</orgName>
+								<address>
+									<settlement>Los Angeles</settlement>
+									<region>California</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Richard</forename><surname>Baker</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department">Department of Health Sciences</orgName>
+								<orgName type="institution">University of Leicester</orgName>
+								<address>
+									<settlement>Leicester</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Prediabetes, elevated iron and all-cause mortality: a cohort study</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2014-12-11">11 December 2014</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">ADEA203C0E6AEF15DC2EB97279EF0E94</idno>
+					<idno type="DOI">10.1136/bmjopen-2014-006491</idno>
+					<note type="submission">Received 28 August 2014 Revised 16 October 2014 Accepted 24 October 2014 Setting: Data collected by the third National Health and Nutrition Examination Survey 1988-1994</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.1" ident="GROBID" when="2022-07-19T22:44+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Objectives: Data have indicated low to non-existent increased mortality risk for individuals with prediabetes, but it is unclear if the risk is increased when the patient has elevated iron markers. Our purpose was to examine the mortality risk among adults with prediabetes in the context of coexisting elevated transferrin saturation (TS) or serum ferritin.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>INTRODUCTION</head><p>Prediabetes is defined by blood glucose concentrations that are higher than normal, but lower than established thresholds for diabetes. <ref type="bibr" target="#b0">1</ref> Prediabetes is a high-risk state for the development of not only diabetes, but also associated complications. Recent data have shown that in developed countries such as the USA and the UK more than a third of adults have prediabetes but the vast majority of these do not realise it. <ref type="bibr" target="#b1">[2]</ref><ref type="bibr" target="#b2">[3]</ref><ref type="bibr" target="#b3">[4]</ref> Several studies have shown that prediabetes is a mortality risk. <ref type="bibr">5 6</ref> On the other hand, other studies have found that prediabetes is not a mortality risk. <ref type="bibr" target="#b6">[7]</ref><ref type="bibr" target="#b7">[8]</ref><ref type="bibr" target="#b8">[9]</ref><ref type="bibr" target="#b9">[10]</ref> Still other studies showed that the relationship was not very robust and was dependent on the measure of prediabetes. <ref type="bibr" target="#b10">11</ref> Three different meta-analyses of observational studies have concluded that elevated iron indices like serum ferritin and transferrin saturation (TS) are strongly associated with increased risk for developing diabetes. <ref type="bibr" target="#b11">[12]</ref><ref type="bibr" target="#b12">[13]</ref><ref type="bibr" target="#b13">[14]</ref> Some evidence exists to indicate that pancreatic β cells are killed in the presence of iron. <ref type="bibr" target="#b14">15</ref> In addition to increased risk of diabetes, elevated TS or elevated ferritin is associated with increased mortality in the general population. <ref type="bibr" target="#b15">[16]</ref><ref type="bibr" target="#b16">[17]</ref><ref type="bibr" target="#b17">[18]</ref><ref type="bibr" target="#b18">[19]</ref><ref type="bibr" target="#b19">[20]</ref><ref type="bibr" target="#b20">[21]</ref><ref type="bibr" target="#b21">[22]</ref> Further, recent evidence suggests that among patients with diabetes, mortality risk increases in the presence of elevated ferritin or elevated TS. <ref type="bibr" target="#b22">23</ref>  <ref type="bibr" target="#b23">24</ref> We therefore hypothesise that the mortality risk of individuals with prediabetes will be increased in the presence of elevated iron markers.</p><p>Considering that only about 10% of the US population with prediabetes realise that they have prediabetes, a better understanding of the potential mortality risk is warranted. Consequently, the purpose of this study was to evaluate the association between prediabetes, elevated serum ferritin, elevated TS and mortality in a large, nationally representative cohort.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>METHODS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>We conducted longitudinal analyses of the third National Health and Nutrition Examination</head><p>Strengths and limitations of this study ▪ This study utilises a nationally representative population-based cohort that allows generalisation of results to the non-institutionalised civilian population of the USA. ▪ Mortality was left-censored to control for the potential misclassification of people who were very ill at baseline. ▪ Biomarkers for elevated iron and prediabetes were available only at baseline. ▪ We were able to only observe individuals for 12 years, which may be insufficient to adequately see an effect on mortality for prediabetes. The NHANES III used complex, multistage, stratified, clustered samples of civilian, non-institutionalised population and is designed and conducted for the purpose of making health-related prevalence estimates that are nationally generalisable. To make accurate population estimates, analysis of the NHANES requires the use of weight and design variables that account for this complex design. The use of sampling weights is necessary to account for differences in probability of selection for each participant and also accounts for non-coverage and non-response. <ref type="bibr" target="#b24">25</ref> The NHANES III oversampled different groups, including older individuals, African-Americans and Mexican-Americans. The application of sampling weights allows us to conduct analyses on the individuals who were sampled in the NHANES and extrapolate those results to the population at large. According to the technical reports provided by the National Center for Health Statistics, without the use of sampling weights, misinterpretation of population estimates based on NHANES III is likely. This strategy of basing the analyses on population estimates is a characteristic that makes the NHANES different from many other cohort designs that do not use weighted population estimates, and provides national generalisability.</p><p>Of the 39 695 individuals eligible to participate, a total of 30 818 persons of all ages were examined in their homes or in mobile examination centres which visited 89 communities across the USA (a participation rate of 77.6%). The health examination included collection of blood and urine specimens for the conduct of various laboratory analyses.</p><p>The NHANES III data merged with the National Death Index are a prospective cohort study that passively followed up on the participants in the NHANES III. The linked mortality file uses a probabilistic matching method. <ref type="bibr" target="#b25">26</ref> The National Death Index involves searching national databases containing information about mortality and causes of death. Mortality status was ascertained by computerised matching to national databases and evaluation of the resulting matches. Persons not found to be deceased were assumed alive for analytic purposes.</p><p>The NHANES III is pre-existing de-identified public use data which do not need specific approval from the National Center for Health Statistics.</p><p>We limited our study to individuals 40 years old and older at baseline, the time of their NHANES III interview. All analyses were based on the population estimates generated by applying variables accounting for the design and sampling methodology of the NHANES. The results presented here are generalisable to the noninstitutionalised civilian population of the USA aged 40 and older from 1998 to 1994.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Previously diagnosed diabetes</head><p>The NHANES III assessed participants for diagnosed diabetes using the questions, "Have you ever been told by a doctor that you have diabetes or sugar diabetes?", "Were you pregnant when you were told that you had diabetes?" and "Other than during pregnancy, has a doctor ever told you that you have diabetes or sugar diabetes?" We defined participants as having diagnosed diabetes if they answered 'yes' to ever having been told they had diabetes, excluding pregnancy. Individuals with previously diagnosed diabetes were removed from the analysis. We also removed individuals with a glycated haemoglobin (HbA1c) of 6.5% or greater, to account for undiagnosed diabetes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Normoglycaemia and prediabetes</head><p>We defined normoglycaemia as an HbA1c level between 4.0% and 5.6% (20-38 mmol/mol). To control for any potential effect of low HbA1c, we also removed individuals with an HbA1c below 4.0% (20 mmol/mol), a level associated with increased all-cause mortality in adults without diabetes. <ref type="bibr" target="#b26">27</ref> We defined prediabetes among individuals without previously diagnosed diabetes using HbA1c ranges as specified by the American Diabetes Association, 5.7-6.4% (39-46 mmol/mol). <ref type="bibr" target="#b0">1</ref> This range has been shown in a meta-analysis to be predictive of progression to diabetes. <ref type="bibr" target="#b18">19</ref> We excluded individuals with previously diagnosed diabetes because the current glycaemic status of those patients may simply represent diabetes control. Prediabetes status was missing for 1637 of the NHANES respondents over the age of 40.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Transferrin saturation</head><p>Serum iron and total iron-binding capacity (TIBC) were measured in serum, and calculated by dividing serum iron by TIBC and multiplying by 100. For the analyses, elevated TS was categorised as TS &gt;50%. Individuals with TS below 25% were removed from the analysis, as low TS has been linked to increased risk of mortality. <ref type="bibr" target="#b22">23</ref> Despite the lack of universal agreement on the upper and lower limits of normal TS, these cut points have been used in several studies evaluating diabetes, TS and mortality. <ref type="bibr">23 28</ref> Data were missing for TS level for 536 of the NHANES respondents over the age of 40.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Serum ferritin</head><p>Serum ferritin was used as a measure of body iron stores and was measured using the QuantImune Ferritin IRMA kit. Serum ferritin was categorised for the analyses as elevated if it was &gt;674.1 pmol/L (300 ng/mL) for males and &gt;449.4 pmol/L (200 ng/mL) for females. <ref type="bibr" target="#b28">29</ref> Individuals with serum ferritin below 56.175 pmol/L (25 ng/mL) were removed from the analysis, as low ferritin has been linked to an increased risk of mortality. <ref type="bibr" target="#b22">23</ref> Data were missing for serum ferritin level for 539 of the NHANES respondents over the age of 40.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Mortality</head><p>Mortality was measured as all-cause mortality. Mortality status was ascertained solely by computerised matching to national databases and evaluation of the resulting matches. All living survey participants examined in this study had been observed for 146 months, and our survival analysis was carried out to 31 December 2006.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Covariates</head><p>Covariates used in our analyses included: age at baseline in the NHANES III, gender, race/ethnicity (non-Hispanic Caucasian, non-Hispanic African-American, Mexican-American and other), health insurance status, obesity (body mass index computed in the examination of &gt;30), previous diagnosis of a heart attack, previous diagnosis of a stroke, previous diagnosis of hypertension, previous diagnosis of hypercholesterolaemia, previous diagnosis of cancer, family history of diabetes, family history of myocardial infarction before age 50 and current smoking status. Respondents were considered non-smokers if they reported smoking less than 100 cigarettes in their life or if they had smoked more than 100 cigarettes and were not currently smoking.</p><p>In the analysis of serum ferritin, we also controlled for C reactive protein. Ferritin is an acute phase reactant as well as an indicator of iron stores and as such may indicate inflammation. Consequently, we controlled for inflammation by adjusting for C reactive protein. C reactive protein was considered elevated at levels above 3.0 mg/L. <ref type="bibr" target="#b29">30</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Analysis</head><p>In an effort to control for potential misclassification of persons who were very ill at baseline thereby affecting mortality risk of prediabetes, we left-censored the analysis to exclude any mortality events that occurred in the first 3 years following the individuals examination for the first 3 years of the cohort. Because of the complex sampling design of the survey, we performed statistical analyses using the statistical software package SUDAAN (Research Triangle Institute, Raleigh, North Carolina, USA), as recommended by the National Center for Health Statistics (NCHS). Using SAS (Cary, North Carolina, USA), we computed Kaplan-Meier plots to show graphically the unadjusted relationship between all-cause mortality and prediabetes.</p><p>We followed the NCHS recommendations for assessing the reliability of estimates in the context of a limited sample size. If the SE of an estimate was greater than 30% of an estimate it would be considered unreliable. All estimates met the criteria for reliability.</p><p>To accomplish our goals of examining a possible synergistic effect of having elevated iron with prediabetes, we classified the population into four groups based on prediabetes or normoglycaemia and normal or elevated TS. The population was also classified into four groups based on prediabetes or normoglycaemia and normal or elevated serum ferritin.</p><p>We performed Cox proportional hazards analyses to measure the associations between all-cause mortality and prediabetes controlling for all of the studied covariates using listwise deletion to account for missing data. In these models, survival time was a continuous variable measured in 1-month increments from the date of the examination.</p><p>We also performed adjusted Cox proportional hazards analysis with all-cause mortality for prediabetes in the four part variables with TS adjusting for the aforementioned covariates. For the adjusted Cox proportional hazards analysis with ferritin, we adjusted for the aforementioned covariates and also C reactive protein.</p><p>We evaluated the proportionality of the hazards through examination of the Schoenfeld residuals.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head><p>A total of 8003 (unweighted) individuals were over 40 years old and had HbA1c levels between 4.0% and 6.4%, or 80 653 788 individuals nationally. Baseline characteristics for the sample are shown in table <ref type="table" target="#tab_1">1</ref>. Table <ref type="table" target="#tab_1">1</ref> indicates that 23.2% of the weighted sample had prediabetes, 15.6% of the sample exhibited elevated serum ferritin, and 3.3% had elevated TS.</p><p>Of the respondents that had prediabetes, 38.8% died within 12 years (723 702 died; 11 431 597 survived), Table <ref type="table" target="#tab_2">2</ref> shows the results the adjusted Cox proportional hazards model for prediabetes. Table <ref type="table" target="#tab_2">2</ref> indicates prediabetes alone has a small increased mortality risk. The Kaplan-Meier curve of the survival and prediabetes over the length of the time under observation is shown in figure <ref type="figure">1</ref>.</p><p>Table <ref type="table" target="#tab_3">3</ref> presents results of the analyses combining prediabetes with iron markers. In models that examined the impact of a prediabetes state combined with markers of low iron, the HRs were similar to that of prediabetes alone. However, when combined with prediabetes, there was an increased mortality risk among individuals with TS &gt;50, as well as with individuals who had increased ferritin. The risk was most increased when individuals had elevated ferritin and elevated TS together. Figure <ref type="figure">2</ref> represents the relationship of survival of the four groups over the 12 years under observation. Individuals with prediabetes in the presence of elevated iron have lower survival probabilities than other groups. An examination of the Schoenfeld residuals suggested proportionality of hazards and appropriateness of the statistical model for these analyses.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCUSSION</head><p>The results of this study in a nationally representative cohort that followed individuals for 12 years confirm that the mortality risk of prediabetes is probably low. This is not unexpected based on the mixed results from previous studies, several of which found either no future mortality risk or risk that was not robust across measures. However, we found that the presence of TS and serum ferritin is associated with increased mortality risk of individuals with prediabetes. Among individuals with normal iron levels, those with prediabetes had low mortality risk levels similar to the adjusted risk of prediabetes alone. On the other hand, in adjusted survival analyses, individuals with prediabetes who also had elevated TS had substantially increased mortality risk. These findings extend previous work on iron markers and diabetes to the previously uninvestigated area of prediabetes. These results suggest that additional stratification of individuals with prediabetes on the basis of iron markers would be useful to identify those with higher risk and who might benefit from iron-lowering therapies. Previous data have indicated that elevated iron markers are associated with the development of diabetes and that among individuals with diabetes the co-occurrence of elevated TS increases those patients' mortality risk. Early identification of individuals with both conditions ( prediabetes, elevated iron) may help in slowing the development of diabetes as well as decreasing mortality risk. It is important for early identification of these individuals because much like individuals with prediabetes, the vast majority of individuals with elevated iron do not know it. <ref type="bibr" target="#b30">31</ref> These individuals need to be identified to mitigate the increased risk posed by elevated iron in combination with prediabetes. Such individuals would be targets for intensive interventions to reduce risk, including typical lifestyle interventions shown to help avoid the onset of diabetes in people at high risk. <ref type="bibr" target="#b31">32</ref> Although more research is needed into the ability of interventions on iron in prediabetes to affect development of diabetes and mortality risk, some data suggest that reduction of TS improves HbA1c and glucose control. <ref type="bibr" target="#b32">33</ref> These associations of TS and ferritin with mortality in the context of prediabetes are not surprising, especially if elevations of these parameters are interpreted in light of current understanding of iron toxicity. <ref type="bibr" target="#b33">34</ref> Iron, whether absorbed as iron salts or in dietary haeme, is processed by enterocytes and released into the plasma where it is transported in a non-reactive state bound to transferrin. Iron that is bound to transferrin is in the Fe +3 state and is not reactive and, therefore, not toxic. However, when TS is above 40-50%, free iron or so-called non-transferrin-bound iron (NTBI) is released into the plasma as the buffering ability of transferrin is exceeded. <ref type="bibr" target="#b34">35</ref> Labile plasma iron (LPI) is a highly reactive subspecies of NTBI that interacts with hydrogen peroxide through Fenton chemistry to form the extremely powerful oxidants, hydroxyl radical and singlet oxygen. These are the free radicals that ultimately directly damage protein and DNA. Perhaps more importantly, NTBI/LPI species are able to enter cells via ion channels. These channels, unlike the transferrin receptor, are not regulated so this reactive iron freely enters the cytoplasm of the pancreas, pituitary and heart.</p><p>The current results suggest that exposure to excessive free iron is dangerous in the context of prediabetes. Furthermore, elevated ferritin and TS predict poor diabetes control and phlebotomy to reduce iron even over short periods of time improve HbA1c in parallel with changes in TS, even though ferritin is not changed. <ref type="bibr" target="#b32">33</ref> NTBI/LPI reflected by TS is the proximal cause of the toxicity. Several strategies are available to decrease iron, including chelation therapy and phlebotomy. Phlebotomy is an easy, inexpensive and well-tolerated intervention.</p><p>Reduction in TS by phlebotomy has been shown to improve measures of diabetic control. <ref type="bibr" target="#b32">33</ref> Furthermore, correction of severe iron overload can significantly improve glucose tolerance. <ref type="bibr" target="#b35">36</ref> Thus, the finding that a baseline measure of high TS as point measure of toxicfree iron plus elevation of ferritin, evidence of elevated cytosolic iron over a longer period of time, predicts increased risk of mortality among individuals with prediabetes supports the premise that toxic-free iron is a health risk.</p><p>The normoglycaemic group with elevated iron markers did not show increased mortality risk in comparison to the reference group of normoglycaemic and normal iron marker levels. This may seem inconsistent with other data on the increased mortality risk due to elevated TS by itself. However, there is the potential that the effect of TS on mortality is modified by the presence of other variables. <ref type="bibr">19 21</ref> This effect has been shown in the past. Rather than being inconsistent with the TS alone and mortality findings, these new findings enhance our understanding of elevated iron markers and morbidity and mortality and allow us to consider the more complex, but real, situation of patients by considering multiple variables together rather than independently.</p><p>This study has several limitations. First, although we have a nationally representative, population-based cohort followed through the National Death Index, the biomarkers are measured only at baseline. There is the possibility that either the hyperglycaemia or elevated iron measures were identified and interventions were implemented to lower these biomarkers. If that were the case and a substantial number of individuals did drop their levels due to interventions thereby decreasing the potential mortality risk, the observed adjusted risk individuals elevated at baseline is even more concerning. Second, we were only to follow these individuals for 12 years. It is possible that this time frame may have been too short to adequately see an effect for a biomarker like prediabetes. However, we did censor the first 3 years of mortality so that any deaths in that time frame would not be attributed to prediabetes. The model still found a substantial mortality risk for the prediabetes plus iron markers in this length of time. Third, we were unable to evaluate the relationship between being elevated on both TS and serum ferritin with prediabetes on the risk of mortality. We attempted such an analysis but the number of individuals in the group with prediabetes and elevation on both iron markers was small and the population estimates were deemed unreliable.</p><p>In conclusion, this study representative of the population of the USA helps to clarify the current evidence on the mortality risk of prediabetes and provides further support for the role of elevated iron markers in health risk. Future screening and intervention programmes for prediabetes may benefit from additional strategies to recognise and treat iron elevations, particularly TS.</p><p>Contributors AGM was involved in conception, design, analysis and drafting of manuscript. RJT was involved in design, analysis and drafting of manuscript. TDC was involved in conception, design and drafting of manuscript. RB was involved in design and analysis. Open Access This is an Open Access article distributed in accordance with the Creative Commons Attribution Non Commercial (CC BY-NC 4.0) license, which permits others to distribute, remix, adapt, build upon this work noncommercially, and license their derivative works on different terms, provided the original work is properly cited and the use is non-commercial. See: http:// creativecommons.org/licenses/by-nc/4.0/</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Funding</head><label></label><figDesc>Funded in part by cooperative agreement 1U01DD000754-01 from the Centers for Disease Control and Prevention. Competing interests None. Provenance and peer review Not commissioned; externally peer reviewed. Data sharing statement Data from this study are publicly available on the Internet through the National Center for Health Statistics.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head></head><label></label><figDesc>Survey, 1988-1994 (NHANES III) linked to mortality data collected through the National Death Index. Mortality data were available through 31 December 2006. The NHANES III survey provides population estimates of the USA and was conducted from October 1988 through October 1994.</figDesc><table /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 1</head><label>1</label><figDesc>Baseline characteristics of the sample</figDesc><table><row><cell>Study sample</cell></row><row><cell>(%)</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 2</head><label>2</label><figDesc>Adjusted HRs from Cox regression for mortality risk of individuals with prediabetes</figDesc><table><row><cell>Adjusted model*</cell><cell>HR</cell><cell>95% CI</cell></row><row><cell>Prediabetes</cell><cell>1.04</cell><cell>1.00 to 1.08</cell></row><row><cell>Normoglycaemia</cell><cell>1.0</cell><cell>-</cell></row><row><cell cols="3">*Adjusted for: age, gender, race/ethnicity, health insurance status,</cell></row><row><cell cols="3">obesity, current smoking status, diagnosed heart attack,</cell></row><row><cell cols="3">diagnosed stroke, diagnosed hypertension, diagnosed high</cell></row><row><cell cols="3">cholesterol, diagnosis of cancer, family history of diabetes and</cell></row><row><cell>family history of early heart attack.</cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 3</head><label>3</label><figDesc>Adjusted HRs from Cox regression for mortality risk of individuals with prediabetes and iron markers Adjusted for: age, gender, race/ethnicity, health insurance status, obesity, current smoking status, diagnosed heart attack, diagnosed stroke, diagnosed hypertension, diagnosed high cholesterol, diagnosis of cancer, family history of diabetes and family history of early heart attack. †Adjusted for: age, gender, race/ethnicity, health insurance obesity, current smoking status, diagnosed heart attack, diagnosed stroke, diagnosed hypertension, diagnosed high cholesterol, diagnosis of cancer, family history of diabetes, family history of early heart attack and elevated C reactive protein.</figDesc><table><row><cell></cell><cell>HR 95% CI</cell></row><row><cell>Adjusted model*</cell><cell></cell></row><row><cell>Normal transferrin saturation/</cell><cell>1.00 -</cell></row><row><cell>normoglycaemia</cell><cell></cell></row><row><cell>Normal transferrin saturation/</cell><cell>1.13 1.08 to 1.19</cell></row><row><cell>prediabetes</cell><cell></cell></row><row><cell>Elevated transferrin saturation/</cell><cell>0.98 0.90 to 1.07</cell></row><row><cell>normoglycaemia</cell><cell></cell></row><row><cell>Elevated transferrin saturation/</cell><cell>1.88 1.06 to 3.30</cell></row><row><cell>prediabetes</cell><cell></cell></row><row><cell>Adjusted model †</cell><cell></cell></row><row><cell>Normal ferritin/normoglycaemia</cell><cell>1.00 -</cell></row><row><cell>Normal ferritin/prediabetes</cell><cell>1.15 1.09 to1.20</cell></row><row><cell>Elevated ferritin/normoglycaemia</cell><cell>1.05 1.00 to 1.12</cell></row><row><cell>Elevated ferritin/prediabetes</cell><cell>1.14 1.04 to 1.24</cell></row></table><note>*</note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">Mainous AG , et al. BMJ Open 2014;4:e006491. doi:10.1136/bmjopen-2014-006491</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">Mainous AG , et al. BMJ Open 2014;4:e006491. doi:10.1136/bmjopen-2014-006491 Open Access on April 29, 2022 by guest. Protected by copyright. http://bmjopen.bmj.com/ BMJ Open: first published as 10.1136/bmjopen-2014-006491 on 11 December 2014. Downloaded from</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">on April 29, 2022 by guest. Protected by copyright. http://bmjopen.bmj.com/ BMJ Open: first published as 10.1136/bmjopen-2014-006491 on 11 December 2014. Downloaded from</note>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Diagnosis and classification of diabetes mellitus</title>
+		<idno type="DOI">10.2337/dc12-s064</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="S64" to="71" />
+			<date type="published" when="2012">2012</date>
+			<publisher>American Diabetes Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Secular changes in U.S. Prediabetes prevalence defined by hemoglobin A1c and fasting plasma glucose: National Health and Nutrition Examination Surveys</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Bullard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Saydah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Imperatore</surname></persName>
+		</author>
+		<idno type="DOI">10.2337/dc12-2563</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="2286" to="2293" />
+			<date type="published" when="1999">1999-2010. 2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Prevalence of prediabetes in England from 2003 to 2011: population-based, cross-sectional study</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">G</forename><surname>Mainous</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Iii</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Tanner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Baker</surname></persName>
+		</author>
+		<idno type="DOI">10.1136/bmjopen-2014-005002</idno>
+	</analytic>
+	<monogr>
+		<title level="j">BMJ Open</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page">29</biblScope>
+			<date type="published" when="2014-06">2014. Jun 2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Awareness of prediabetes--United States</title>
+	</analytic>
+	<monogr>
+		<title level="j">Centers for Disease Control and Prevention (CDC)</title>
+		<imprint>
+			<biblScope unit="volume">62</biblScope>
+			<biblScope unit="page" from="209" to="212" />
+			<date type="published" when="2005">2005-2010. 2013</date>
+		</imprint>
+	</monogr>
+	<note>MMWR Morb Mortal Wkly Rep</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Hyperglycaemia is associated with all-cause and cardiovascular mortality in the Hoorn population: the Hoorn Study</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>De Vegt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Dekker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">G</forename><surname>Ruhé</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s001250051249</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="926" to="931" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Coronary-heart-disease risk and impaired glucose tolerance. The Whitehall study</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Fuller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Shipley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Rose</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S0140-6736(80)92651-3</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="1373" to="1376" />
+			<date type="published" when="1980">1980</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Mortality risk in Spanish adults with diagnosed diabetes, undiagnosed diabetes, or pre-diabetes. The asturias study 1998-2004</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Valdés</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Botas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Delgado</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S0300-8932(09)71033-4</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Rev Esp Cardiol (Engl Ed)</title>
+		<imprint>
+			<biblScope unit="volume">62</biblScope>
+			<biblScope unit="page" from="528" to="534" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Prediabetes is not an independent risk factor for incident heart failure, other cardiovascular events or mortality in older adults: findings from a population-based cohort study</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Deedwania</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Patel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">C</forename><surname>Fonarow</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.ijcard.2013.05.038</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">168</biblScope>
+			<biblScope unit="page" from="3616" to="3622" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Categories of glucose tolerance and continuous glycemic measures and mortality</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Kowall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Rathmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Heier</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10654-011-9609-y</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="637" to="645" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Diabetes, prediabetes and cancer mortality</title>
+		<author>
+			<persName><forename type="first">X</forename><forename type="middle">H</forename><surname>Zhou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Qiao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Zethelius</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s00125-010-1796-7</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="1867" to="1876" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Risk of cardiovascular and all-cause mortality in individuals with diabetes mellitus, impaired fasting glucose, and impaired glucose tolerance: the Australian Diabetes, Obesity, and Lifestyle Study (AusDiab)</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">L</forename><surname>Barr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">Z</forename><surname>Zimmet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Welborn</surname></persName>
+		</author>
+		<idno type="DOI">10.1161/CIRCULATIONAHA.106.685628</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">116</biblScope>
+			<biblScope unit="page" from="151" to="157" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Association of iron indices and type 2 diabetes: a meta-analysis of observational studies</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Orban</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Schwab</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Thorand</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/dmrr.2506</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Metab Res Rev</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="372" to="394" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Dietary iron intake, body iron stores, and the risk of type 2 diabetes: a systematic review and meta-analysis</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Bao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Rong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Rong</surname></persName>
+		</author>
+		<idno type="DOI">10.1186/1741-7015-10-119</idno>
+	</analytic>
+	<monogr>
+		<title level="j">BMC Med</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page">119</biblScope>
+			<date type="published" when="2012-07">2012. Jul 2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Total and cause-specific mortality by elevated transferrin saturation and hemochromatosis genotype in individuals with diabetes: two general population studies</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Ellervik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Mandrup-Poulsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Tybjaerg-Hansen</surname></persName>
+		</author>
+		<idno type="DOI">10.2337/dc13-1198</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="444" to="452" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">At pharmacologically relevant concentrations intravenous iron preparations cause pancreatic beta cell death</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Masuda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ichii</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">D</forename><surname>Vaziri</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Transl Res</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="64" to="70" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Total mortality by transferrin saturation levels: two general population studies and a meta analysis</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Ellervik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Tybjaerg-Hansen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">G</forename><surname>Nordestgaard</surname></persName>
+		</author>
+		<idno type="DOI">10.1373/clinchem.2010.156802</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Chem</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="page" from="459" to="466" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Associations of serum ferritin and transferrin % saturation with all-cause, cancer, and cardiovascular disease mortality: third National Health and Nutrition Examination Survey follow-up study</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">S</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">G</forename><surname>Son</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">S</forename><surname>Hong</surname></persName>
+		</author>
+		<idno type="DOI">10.3961/jpmph.2012.45.3.196</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J Prev Med Public Health</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="196" to="203" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Elevated transferrin saturation and mortality</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">G</forename><surname>Mainous</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Iii</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Gill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Carek</surname></persName>
+		</author>
+		<idno type="DOI">10.1370/afm.25</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Fam Med</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="133" to="138" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">The mortality risk of elevated serum transferrin saturation and consumption of dietary iron</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">G</forename><surname>Mainous</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Iii</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Wells</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Carek</surname></persName>
+		</author>
+		<idno type="DOI">10.1370/afm.82</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Fam Med</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="139" to="144" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Transferrin saturation ratio and risk of total and cardiovascular mortality in the general population</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">G</forename><surname>Stack</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">I</forename><surname>Mutwali</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">T</forename><surname>Nguyen</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/qjmed/hcu045</idno>
+	</analytic>
+	<monogr>
+		<title level="j">QJM</title>
+		<imprint>
+			<biblScope unit="volume">107</biblScope>
+			<biblScope unit="page" from="623" to="633" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">The combined effect of transferrin saturation and low density lipoprotein on mortality</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Wells</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">G</forename><surname>Mainous</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Iii</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>King</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Fam Med</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="324" to="329" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Total and cause-specific mortality by moderately and markedly increased ferritin concentrations: general population study and metaanalysis</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Ellervik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Marott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Tybjaerg-Hansen</surname></persName>
+		</author>
+		<idno type="DOI">10.1373/clinchem.2014.229013</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Chem</title>
+		<imprint>
+			<biblScope unit="volume">60</biblScope>
+			<biblScope unit="page" from="1419" to="1428" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Iron status and survival in diabetic patients with coronary artery disease</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Ponikowska</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Suchocki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Paleczny</surname></persName>
+		</author>
+		<idno type="DOI">10.2337/dc13-0528</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="4147" to="4156" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Progression rates from HbA (1c) 6.0-6.4% and other prediabetes definitions to type 2 diabetes: a meta-analysis</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H</forename><surname>Morris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Khunti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Achana</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s00125-013-2902-4</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="page" from="1489" to="1493" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Plan and operation of the Third National Health and Nutrition Examination Survey</title>
+		<ptr target="http://www.cdc.gov/nchs/data/series/sr_01/sr01_032.pdf" />
+	</analytic>
+	<monogr>
+		<title level="j">Vital Health Stat</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page">15</biblScope>
+			<date type="published" when="1988">1988-1994. 1994. Oct 2014</date>
+		</imprint>
+		<respStmt>
+			<orgName>National Center for Health Statistics</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<ptr target="http://www.cdc.gov/nchs/data/datalinkage/2011_linked_mortality_file_matching_methodology.pdf" />
+		<title level="m">NCHS 2011 Linked Mortality Files Matching Methodology</title>
+				<meeting><address><addrLine>Hyattsville, Maryland</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2013-09">September, 2013. Aug 2014</date>
+			<biblScope unit="page">20</biblScope>
+		</imprint>
+		<respStmt>
+			<orgName>National Center for Health Statistics. Office of Analysis and Epidemiology</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Low hemoglobin A1c and risk of all-cause mortality among US adults without diabetes</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Carson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Fox</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">K</forename><surname>Mcguire</surname></persName>
+		</author>
+		<idno type="DOI">10.1161/CIRCOUTCOMES.110.957936</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Circ Cardiovasc Qual Outcomes</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="661" to="667" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Total mortality by elevated transferrin saturation in patients with diabetes</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Ellervik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">U</forename><surname>Andersen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Tybjaerg-Hansen</surname></persName>
+		</author>
+		<idno type="DOI">10.2337/dc12-2032</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="2646" to="2654" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Hemochromatosis and Iron Overload Screening (HEIRS) Study Research Investigators. Hemochromatosis and iron-overload screening in a racially diverse population</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">C</forename><surname>Adams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Reboussin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Barton</surname></persName>
+		</author>
+		<idno type="DOI">10.1056/NEJMoa041534</idno>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">352</biblScope>
+			<biblScope unit="page" from="1769" to="1778" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Markers of inflammation and cardiovascular disease: application to clinical and public health practice. A statement for healthcare professionals from the Centers for Disease Control and Prevention and the American Heart Association</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Pearson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Mensah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Alexander</surname></persName>
+		</author>
+		<idno type="DOI">10.1161/01.CIR.0000052939.59093.45</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">107</biblScope>
+			<biblScope unit="page" from="499" to="511" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Elevated transferrin saturation, health-related quality of life and telomere length</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">G</forename><surname>Mainous</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Iii</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">U</forename><surname>Wright</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Hulihan</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10534-013-9693-4</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Biometals</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="135" to="141" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Therapeutic interventions to reduce the risk of progression from prediabetes to type 2 diabetes mellitus</title>
+		<author>
+			<persName><forename type="first">Portero</forename><surname>Mclellan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">C</forename><surname>Wyne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Villagomez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">T</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ther Clin Risk Manag</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="173" to="188" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Blood letting in high-ferritin type 2 diabetes: effects on insulin sensitivity and beta-cell function</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Fernández-Real</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Peñarroja</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Castro</surname></persName>
+		</author>
+		<idno type="DOI">10.2337/diabetes.51.4.1000</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="page" from="1000" to="1004" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Iron: the hard player in diabetes pathophysiology</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Hansen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">W</forename><surname>Moen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Mandrup-Poulsen</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/apha.12256</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Physiol</title>
+		<imprint>
+			<biblScope unit="volume">210</biblScope>
+			<biblScope unit="page" from="717" to="732" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Physiology and pathophysiology of iron in hemoglobin-associated diseases</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">D</forename><surname>Coates</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.freeradbiomed.2014.03.039</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Free Radic Biol Med</title>
+		<imprint>
+			<biblScope unit="volume">72</biblScope>
+			<biblScope unit="page" from="23" to="40" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Normalisation total body iron load with very intensive combined chelation reverses cardiac and endocrine complications of thalassaemia major</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Farmaki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Tzoumari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Pappa</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1365-2141.2009.07970.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Haematol</title>
+		<imprint>
+			<biblScope unit="volume">148</biblScope>
+			<biblScope unit="page" from="466" to="475" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">G</forename><surname>Mainous</surname></persName>
+		</author>
+		<idno type="DOI">10.1136/bmjopen-2014-0064917</idno>
+	</analytic>
+	<monogr>
+		<title level="j">BMJ Open</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page">e006491</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title/>
+		<idno type="DOI">10.1136/bmjopen-2014-006491on11</idno>
+		<ptr target="http://bmjopen.bmj.com/BMJOpen" />
+	</analytic>
+	<monogr>
+		<title level="j">Open Access on</title>
+		<imprint>
+			<date type="published" when="2014-12">April 29. December 2014</date>
+		</imprint>
+	</monogr>
+	<note>Downloaded from</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

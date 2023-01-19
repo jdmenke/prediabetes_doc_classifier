@@ -1,0 +1,1473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Association of Prediabetes With CKD Progression and Adverse Cardiovascular Outcomes: An Analysis of the CRIC Study</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2020-01-16">16 January 2020.</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">João</forename><surname>Sérgio Neves</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Simon</forename><surname>Correa</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Miguel</forename><forename type="middle">Bigotte</forename><surname>Vieira</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Sushrut</forename><forename type="middle">S</forename><surname>Waikar</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Finnian</forename><forename type="middle">R</forename><surname>Mc Causland</surname></persName>
+							<idno type="ORCID">0000-0002-0299-0533</idno>
+						</author>
+						<author>
+							<affiliation>
+								<orgName>1 Department of Endocrinology, Diabetes and Metabolism, Centro Hospitalar Universitário de São João, Faculdade de Medicina, Universidade do Porto, </orgName>
+								<address><addrLine>4200-319 Porto, Portugal</addrLine></address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation>
+								<orgName> 2 Departamento de Cirurgia e Fisiologia, Unidade de Investigação Cardiovascular, Faculdade de Medicina, Universidade do Porto, </orgName>
+								<address><addrLine> 4200-319 Porto, Portugal</addrLine></address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation>
+								<orgName> 3 Renal Division, Department of Medicine, Brigham and Women&apos;s Hospital, </orgName>
+								<address><addrLine> Boston, MA 02115</addrLine></address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation>
+								<orgName> 4 Harvard Medical School, </orgName>
+								<address><addrLine> Boston, MA 02115</addrLine></address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation>
+								<orgName> 5 Pediatrics Department, Hospital de Dona Estefânia, Centro Hospitalar Universitário de Lisboa Central, </orgName>
+								<address><addrLine> 1163-045, Portugal</addrLine></address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation>
+								<orgName> 6 Faculdade de Medicina, Universidade de Lisboa, </orgName>
+								<address><addrLine> 1649-028 Lisbon, Portugal</addrLine></address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation>
+								<orgName> 7 Nephrology Department, Hospital Curry Cabral, Centro Hospitalar Universitário de Lisboa Central,</orgName>
+								<address><addrLine> 1050-099 Lisboa, Portugal</addrLine></address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Association of Prediabetes With CKD Progression and Adverse Cardiovascular Outcomes: An Analysis of the CRIC Study</title>
+					</analytic>
+					<monogr>
+						<idno type="ISSN">Print 0021-972X</idno>
+						<imprint>
+							<date type="published" when="2020-01-16">16 January 2020.</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">514395037D2605D44F4582F12E34F31F</idno>
+					<idno type="DOI">10.1210/clinem/dgaa017</idno>
+					<note type="submission">Received 2 November 2019. Accepted 14 January 2020.</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.1" ident="GROBID" when="2022-07-19T22:44+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>aHR, adjusted hazard ratio</term>
+					<term>BMI, body mass index</term>
+					<term>BNP, brain natriuretic peptide</term>
+					<term>CHF, congestive heart failure</term>
+					<term>CI, confidence interval</term>
+					<term>CKD, chronic kidney disease</term>
+					<term>CRIC, Chronic Renal Insufficiency Cohort</term>
+					<term>CV, cardiovascular</term>
+					<term>eGFR, estimated glomerular filtration rate</term>
+					<term>ESRD, end-stage renal disease</term>
+					<term>HbA1c, glycated hemoglobin A1c</term>
+					<term>HF, heart failure</term>
+					<term>hsCRP, high-sensitivity C-reactive protein</term>
+					<term>hsTnT, high-sensitivity troponin T</term>
+					<term>MI, myocardial infarction</term>
+					<term>SGLT2, sodium glucose co-transporter 2 prediabetes, diabetes, chronic kidney disease, cardiovascular outcomes, renal outcomes, all-cause mortality</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Despite our understanding of diabetes as an established risk factor for progressive kidney disease and cardiac complications, the prognostic significance of prediabetes in patients with chronic kidney disease (CKD) remains largely unknown.</p><p>Methods: Participants of the Chronic Renal Insufficiency Cohort (CRIC) were categorized as having normoglycemia, prediabetes, or diabetes according to fasting plasma glucose, glycated hemoglobin A1c (HbA1c), and treatment with antidiabetic drugs at baseline. Unadjusted and adjusted proportional hazards models were fit to estimate the association of prediabetes and diabetes (versus normoglycemia) with: (1) composite renal outcome (end-stage renal disease, 50% decline in estimated glomerular filtration rate to ≤ 15 mL/min/1.73 m 2 , or doubling of urine protein-to-creatinine ratio to ≥ 0.22 g/g creatinine); (2) composite cardiovascular (CV) outcome (congestive heart failure, myocardial infarction or stroke); and (3) all-cause mortality.</p><p>Results: Of the 3701 individuals analyzed, 945 were normoglycemic, 847 had prediabetes and 1909 had diabetes. The median follow-up was 7.5 years. Prediabetes was not associated with the composite renal outcome (adjusted hazard ratio [aHR] 1.13; 95% confidence interval [CI], 0.96-1.32; P = 0.14), but was associated with proteinuria progression (aHR 1.23; 95% CI, 1.03-1.47; P = 0.02). Prediabetes was associated with a higher risk of the composite CV outcome (aHR 1.38; 95% CI, 1.05-1.82; P = 0.02) and a trend towards all-cause mortality (aHR 1.28; 95% CI, 0.99-1.66; P = 0.07). Participants with diabetes had an increased risk of the composite renal outcome, the composite CV outcome, and all-cause mortality.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusions:</head><p>In individuals with CKD, prediabetes was not associated with composite renal outcome, but was associated with an increased risk of proteinuria progression and adverse CV outcomes.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>P</head><p>rediabetes is a highly prevalent condition, affecting about one-third of adults in the United States (1). Patients with prediabetes have an increased risk for diabetes, with 2% to 10% progressing to diabetes each year <ref type="bibr" target="#b0">(2,</ref><ref type="bibr" target="#b1">3)</ref>. Although prediabetes is frequently considered an intermediary stage in the progression between normoglycemia and diabetes, many individuals may have prediabetes for several years, while some may never progress.</p><p>Chronic kidney disease (CKD) is a heterogeneous group of disorders characterized by alterations in kidney structure and function <ref type="bibr" target="#b2">(4)</ref>, and is associated with an increased risk of end-stage renal disease (ESRD) and adverse cardiovascular (CV) outcomes <ref type="bibr" target="#b2">(4)</ref>. In the United States, the prevalence of CKD is estimated to be approximately 14% <ref type="bibr" target="#b3">(5)</ref>. In patients with CKD, diabetes has been clearly associated with an increased risk of progression to ESRD and adverse CV outcomes <ref type="bibr" target="#b4">(6)</ref>; however, the prognostic significance of prediabetes remains uncertain.</p><p>The Chronic Renal Insufficiency Cohort (CRIC) includes participants with CKD followed up to 10 years. This cohort includes a high proportion of participants with prediabetes and includes adjudicated renal and CV outcomes, providing a unique opportunity to evaluate the associations of prediabetes with these outcomes among patients with CKD. We hypothesized that prediabetes would be associated with an increased risk of CKD progression and adverse CV outcomes in patients with CKD.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study participants</head><p>The Chronic Renal Insufficiency Cohort (CRIC) Study is a multicenter prospective cohort that recruited an ethnically and racially diverse group of subjects with prevalent CKD across 7 clinical centers in the United States from 2003 to 2008. CRIC was designed to elucidate risk factors for progression of CKD, development of ESRD, and development of CV disease among patients with varying stages of CKD, half of whom had diabetes. Entry criteria included estimated glomerular filtration rate (eGFR) from 20 to 70 mL/min/1.73 m 2 and age of 21 to 74 years. Individuals with polycystic kidney disease, New York Heart Association class (NYHA) III or IV heart failure (HF), known cirrhosis, HIV/AIDS, multiple myeloma or renal cancer were excluded. Further exclusions included active immunosuppression, recent chemotherapy or immunosuppressive therapy; institutionalization; organ transplantation; pregnancy; or dialysis for a month prior to screening. For this secondary analysis, we excluded participants with missing fasting glucose or glycated hemoglobin (HbA1c) measurements at baseline (n = 238) (Supplementary Figure <ref type="figure" target="#fig_0">1</ref>) <ref type="bibr" target="#b5">(7)</ref>. The study design, baseline characteristics and main results of CRIC have been published previously <ref type="bibr" target="#b6">(8)</ref>. The CRIC study was approved by the institutional review board at each participating study site, and written informed consent was obtained from all participants.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Exposure</head><p>The main exposure of the current analysis was prediabetes at baseline, defined as either HbA1c of 5.7% to 6.4% or fasting plasma glucose of 100 to 125 mg/dL and no treatment with antidiabetic drugs. Diabetes was defined as one of the following: HbA1c ≥ 6.5%, fasting plasma glucose ≥ 126 mg/dL, or treatment with antidiabetic drugs at baseline.</p><p>In sensitivity analyses, the definitions of prediabetes and diabetes according to HbA1C alone or fasting plasma glucose alone were also evaluated. Previous studies have shown that the association of prediabetes with renal and CV outcomes may differ according to the definition used for classifying prediabetes <ref type="bibr" target="#b7">(9,</ref><ref type="bibr" target="#b8">10)</ref>. In this classification, patients treated with antidiabetic drugs were classified as having diabetes and the remaining patients were defined as having normoglycemia, prediabetes, or diabetes, according to fasting plasma glucose or HbA1c cutoffs.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study outcomes</head><p>The prespecified primary endpoints of the present analysis were: (1) composite renal outcome defined as either the development of ESRD (renal transplantation or dialysis initiation), a 50% decline in baseline eGFR (CKD-EPI equation) to ≤ 15 mL/min/1.73 m 2 , or doubling of urine protein to creatinine ratio to ≥ 0.22 g/g creatinine (this cutoff corresponds to an urinary protein excretion of 300 mg/day and has been used in previous studies assessing progression of CKD) (11); (2) a composite CV outcome of congestive heart failure (CHF), myocardial infarction (MI), or stroke; and (3) all-cause mortality. Individual components of the composite outcomes were also assessed. As exploratory outcomes we also evaluated (1) the composite endpoint of a 50% decline in baseline eGFR (with or without decrease to ≤ 15 mL/min/1.73 m 2 ) or development of ESRD; and (2) peripheral artery disease events (amputation due to vascular disease, or peripheral surgical or percutaneous revascularization). For the primary renal endpoint, the development of ESRD and eGFR decline were prespecified endpoints in CRIC. For the purpose of the present analyses, we also included proteinuria in order to more comprehensively capture CKD progression. The CV composite of CHF, MI, or stroke was also prespecified in CRIC. The inclusion of CHF is highly relevant, given the body of literature stressing the increased risk of HF among patients with diabetes <ref type="bibr" target="#b10">(12)</ref><ref type="bibr" target="#b11">(13)</ref><ref type="bibr" target="#b12">(14)</ref>, and the growing evidence favoring new therapies (e.g., sodium glucose co-transporter 2 [SGLT2] inhibitors) to prevent HF events in those with and without diabetes <ref type="bibr" target="#b13">(15)</ref><ref type="bibr" target="#b14">(16)</ref><ref type="bibr" target="#b16">(17)</ref>. Clinical endpoints were adjudicated by an independent clinical events committee and outcomes definitions are presented in Supplementary Table 1 <ref type="bibr" target="#b5">(7)</ref>. Participants were followed until March 2013, withdrawal of consent, loss to follow-up, or death. Outcomes for both prediabetes and diabetes at baseline (compared with normoglycemic individuals), and for alternative definitions of prediabetes and diabetes by HbA1c criteria alone, and fasting plasma glucose alone, are presented.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analyses</head><p>Continuous variables are described as mean ± standard deviation or median (25 th -75 th percentiles) and categorical variables as proportions (percentages). Baseline characteristics of the study population were compared with ANOVA or the Kruskall-Wallis test for normal and nonnormal continuous variables respectively, and the chi-square test for categorical variables.</p><p>The associations of prediabetes and diabetes with CKD progression, composite CV outcome and all-cause mortality were assessed through unadjusted and adjusted Cox proportional hazards models. All adjusted models were stratified by clinic center. Model 1 included age, sex, and race/ethnicity. Model 2 (main model) included those variables in model 1 plus body mass index (BMI), antiplatelet therapy, lipid lowering therapy, systolic blood pressure at baseline, coronary artery disease (CAD, defined as prior MI or prior coronary revascularization), peripheral vascular disease, congestive heart failure, hematocrit, baseline eGFR (CKD-EPI formula), serum albumin, 24-hour urine protein (log-transformed), and inhibition of renin-angiotensin-aldosterone axis (treatment with angiotensin converting enzyme inhibitors, angiotensin receptor blockers, or aldosterone antagonists). The choice of covariates was based on prior knowledge of risk factors/confounders and biological plausibility. The log-rank test was used to compare the survival distribution of outcomes for normoglycemia, prediabetes, and diabetes at baseline, and Kaplan-Meier curves were generated to represent the survival distribution of outcomes by glycemic control at baseline. An additional exploratory model with further adjustment for biomarkers associated with CKD progression and adverse CV outcomes was performed. For this analysis, we included the variables in model 2 plus highsensitive C reactive protein (hsCRP, log-transformed), brain natriuretic peptide (BNP, log-transformed), and high-sensitivity troponin T (hsTnT, log-transformed), based on prior literature demonstrating the association of these biomarkers with adverse renal and CV outcomes <ref type="bibr" target="#b18">(18)</ref><ref type="bibr" target="#b19">(19)</ref><ref type="bibr" target="#b20">(20)</ref>.</p><p>The presence of effect modification (interaction) of the association of glycemic control at baseline with the primary outcomes according to race (white, black, other), sex (women or men), baseline eGFR (as continuous variable), and 24-hour urine protein (as continuous variable, log-transformed) was tested via inclusion of cross-product terms in Cox proportional hazard model, adjusting for the variables in the model 2. Subgroup analyses were performed only if there was evidence for effect modification (P for interaction &lt; 0.1). The proportional hazards assumption was tested for all models. For covariates that violated the proportionality assumption, the corresponding time interaction term was included in the model. An adjusted model (model 2) using a restricted cubic spline with 3 knots was constructed to flexibly display the continuous association between HbA1c or glucose and the hazards of CKD progression, composite CV outcome or all-cause mortality. All analyses were conducted with the statistical software package Stata IC version 14.2 (College Station, TX) using a dataset obtained from the National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK) Data Repository. A two-sided P-value &lt; 0.05 was considered statistically significant.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Baseline characteristics</head><p>A total of 3701 individuals were included in the present analysis. The mean HbA1c was 5.3% in normoglycemic subjects (n = 945), 5.9% in participants with prediabetes (n = 847) and 7.6% in participants with diabetes (n = 1909). Relative to those with normoglycemia, participants with diabetes and prediabetes were more likely to be black, and to have a history of CAD, stroke, congestive heart failure, peripheral vascular disease, or hypertension. Participants with diabetes and prediabetes tended to have lower eGFR, higher systolic blood pressure, proteinuria, and BMI at baseline, and were more likely to use antiplatelet and lipid-lowering agents (Table <ref type="table" target="#tab_0">1</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Association with outcomes</head><p>Composite renal outcome. The median follow-up was 7.5 years (25 th -75 th percentile, 6.2-8.6 years). During this period, 989 had a 50% decline in baseline eGFR to ≤ 15 mL/min/1.73 m 2 or developed ESRD (896 developed ESRD), and 1238 had a doubling of urine protein to creatinine ratio to ≥ 0.22 g/g creatinine (Table <ref type="table" target="#tab_1">2</ref>). In unadjusted analyses, prediabetes (versus normoglycemia) was not associated with composite renal outcome, whereas diabetes was associated with an increase of the composite renal outcome (hazard ratio [HR] 1.88; 95% confidence interval [CI], 1.66-2.12; P &lt; 0.001) (Figure <ref type="figure" target="#fig_0">1A</ref>). The pattern of association was similar in adjusted models (model 2 adjusted hazard ratio [aHR] 1.13; 95% CI, 0.96-1.32; P = 0.14 for prediabetes; and 1.47; 95% CI, 1.27-1.70; P &lt; 0.001 for diabetes). In relation to the components of the composite, prediabetes was not associated with a decline in eGFR &gt; 50% or ESRD (model 2 aHR 0.88; 95% CI, 0.71-1.10; P = 0.26), or ESRD alone (Model 2 aHR 1.01; 95% CI, 0.79-1.29; P = 0.94), but was associated with increased risk of proteinuria progression (model 2 aHR 1.23; 95% CI, 1.03-1.47; P = 0.02) (Supplementary Table <ref type="table" target="#tab_1">2</ref>) <ref type="bibr" target="#b5">(7)</ref>. Diabetes was associated with increased risk of ESRD and proteinuria progression (Supplementary Table <ref type="table" target="#tab_1">2</ref>) <ref type="bibr" target="#b5">(7)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Composite cardiovascular outcome.</head><p>Compared with normoglycemia, prediabetes was associated with an 85% increased risk of the composite CV outcome (HR 1.85; 95% CI, 1.43-2.40; P &lt; 0.001), while diabetes was associated with a 3.6-fold increased risk of the composite CV outcome (HR 3.60; 95% CI, 2.89-4.49; P &lt; 0.001) in unadjusted models (Figure <ref type="figure" target="#fig_0">1B</ref>). In model 2, prediabetes was consistently associated with a 38% increased risk of composite CV outcome (HR 1.38; 95% CI, 1.05-1.82; P = 0.02), and diabetes with a 63% increased risk of composite CV outcome (HR 1.63; 95% CI, 1.27-2.11; P &lt; 0.001) (Table <ref type="table" target="#tab_1">2</ref>). The association of prediabetes and diabetes with individual components of the composite CV endpoint are presented in Supplementary Table <ref type="table">3</ref>  <ref type="bibr" target="#b5">(7)</ref>. Both prediabetes and diabetes were more strongly associated with an increased risk of heart failure.</p><p>In an exploratory model evaluating peripheral artery disease as the outcome of interest, prediabetes and diabetes were associated with a 2.33-fold (HR 2.36; 95% CI, 1.05-5.18; P = 0.037) and a 4.34-fold higher risk of peripheral artery disease (HR 4.34; 95% CI, 2.12-8.91; P &lt; 0.001), respectively (Supplementary Table <ref type="table">4</ref>) <ref type="bibr" target="#b5">(7)</ref>.</p><p>All-cause mortality. Compared with normoglycemic individuals, the risk of all-cause mortality was increased in both prediabetes (HR 1.63; 95% CI, 1.27-2.09; P &lt; 0.001) and diabetes (HR 2.56; 95% CI, 2.07-3.17; P &lt; 0.001) in unadjusted models (Figure <ref type="figure" target="#fig_0">1C</ref>). In model 1, prediabetes was associated with a 36% increased risk of all-cause mortality, while diabetes was associated with a 2.07-fold increased risk. In model 2, there was a trend for increased all-cause mortality with prediabetes (HR 1.28; 95% CI, 0.98-1.66; P = 0.07), while diabetes was associated with a 53% increased risk of this outcome (HR 1.53; 95% CI, 1.20-1.95; P = 0.001).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Effect modification and subgroup analyses.</head><p>There was no evidence for effect modification of the association of glycemic control at baseline with the primary outcomes according to race, sex, or 24-hour urine protein (P-interactions &gt; 0.1). We did find evidence for effect modification for the association of prediabetes/ diabetes with all-cause mortality according to baseline eGFR (P-interaction &lt; 0.001). In individuals with eGFR &gt; 45 mL/min/1.73 m 2 , prediabetes at baseline was associated with a 2.2-fold adjusted risk of allcause mortality (aHR 2.20; 95% CI, 1.31-3.70) and diabetes with a 2.59-fold adjusted risk of all-cause mortality (aHR 2.59; 95% CI, 1.57-4.26); in individuals with eGFR ≤ 45 mL/min/1.73 m 2 , the aHR for all-cause mortality in prediabetes was 1.04 (95% CI, 0.76-1.42) and 1.26 (95% CI, 0.95-1.67) for diabetes. Sensitivity analyses: association with outcomes according to the classification of prediabetes and diabetes by HbA1c or fasting plasma glucose. The number of participants diagnosed with prediabetes and diabetes according to HbA1c and fasting plasma glucose is shown in Supplementary Table 5 <ref type="bibr" target="#b5">(7)</ref>. The states of glucose tolerance at the end of follow-up in each baseline group are shown in Supplementary Table 6 <ref type="bibr" target="#b5">(7)</ref>. In sensitivity analyses that defined prediabetes as baseline HbA1c 5.7% to 6.4% and diabetes as HbA1c ≥ 6.5%,  regardless of baseline fasting plasma glucose, the associations of prediabetes and diabetes with clinical outcomes were consistent with those in the main results. On the other hand, when participants were classified only according to fasting plasma glucose levels, there were no significant associations of prediabetes with composite renal outcome, composite CV outcome, or all-cause mortality (Supplementary Table <ref type="table">7</ref>) <ref type="bibr" target="#b5">(7)</ref>. These associations are more clearly apparent in restricted cubic spline analyses, where the associations of HbA1c and fasting plasma glucose are modeled in a continuous fashion (Figure <ref type="figure" target="#fig_2">2</ref>). Exploratory model. Similar patterns of association were noted after adjusting for hsCRP, BNP, and hsTnT, such that prediabetes was associated with a 34% higher risk of the composite CV outcome (HR 1.34; 95% CI, 1.01-1.77; P = 0.04), but not with progression of CKD or all-cause mortality (Supplementary Table <ref type="table">8</ref>) <ref type="bibr" target="#b5">(7)</ref>. Diabetes continued to be associated with an increased risk of all outcomes examined.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>In this cohort of patients with CKD, prediabetes was not associated with increased risk of eGFR decrease or ESRD development, but was associated with an increased risk of proteinuria progression, increased risk of adverse CV outcomes and a trend towards increased all-cause mortality. These patterns of association persisted when prediabetes was defined according to HbA1c, but not when defined according to fasting plasma glucose. In subgroup analyses, the association of prediabetes with all-cause mortality appeared to be restricted to those with higher baseline eGFR.</p><p>Hyperglycemia is known to increase the production of reactive oxygen species, promote the accumulation of advanced glycation end products, activate intracellular signaling molecules such as protein kinase C, and increase the effects of the renin-angiotensin system <ref type="bibr" target="#b21">(21,</ref><ref type="bibr" target="#b22">22)</ref>. In patients with diabetes these effects lead to glomerular hyperfiltration, mesangial expansion, glomerular basement membrane thickening, podocyte injury, and glomerular sclerosis, thereby promoting the development of albuminuria and the progression of CKD <ref type="bibr" target="#b22">(22)</ref>. Whether the milder hyperglycemia of prediabetes results in similar adverse renal effects is uncertain.</p><p>The association of prediabetes with the risk of kidney disease has not been consistent across studies. Some studies have suggested an increased risk of kidney disease among participants with prediabetes, although most of those were cross-sectional <ref type="bibr" target="#b23">(23)</ref><ref type="bibr" target="#b24">(24)</ref><ref type="bibr" target="#b25">(25)</ref><ref type="bibr" target="#b26">(26)</ref>. In a prospective cohort study of Korean adults, impaired glucose FasƟng plasma glucose (mg/dL) FasƟng plasma glucose (mg/dL) FasƟng plasma glucose (mg/dL)</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Composite cardiovascular outcome A ll-cause mortality</head><p>Hemoglobin A1c (%) H emoglobin A1c (%) Hemoglobin A1c (%) tolerance and HbA1C 5.7% to 6.4%, but not impaired fasting glucose, were independent predictors of incident CKD <ref type="bibr" target="#b8">(10)</ref>. In a post hoc analysis of the Systolic Blood Pressure Intervention Trial (SPRINT) impaired fasting glucose was also not associated with a higher incidence of CKD, incident albuminuria, or worsening kidney function <ref type="bibr" target="#b27">(27)</ref>. A meta-analysis of 9 cohort studies reported a modest increased risk of CKD development in participants with prediabetes, but there was a significant heterogeneity across the included studies and a limited adjustment for potential confounders <ref type="bibr" target="#b28">(28)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>HbA1c (Model 2)</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Fasting plasma glucose (Model 2)</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Composite renal outcome</head><p>Few studies have assessed the effects of prediabetes in participants with CKD at baseline. A cohort study of 1165 adults with nondialysis CKD stages 1 to 5 and without diabetes <ref type="bibr" target="#b29">(29)</ref> reported that HbA1c in the prediabetes range was not associated with increased progression to ESRD. In our study, although prediabetes was not associated with the composite renal outcome, it was associated with a higher risk of proteinuria progression. The use of change in albuminuria or proteinuria as a surrogate endpoint for progression of CKD and increased risk of ESRD in clinical trials has recently gained support <ref type="bibr" target="#b30">(30)</ref>. In diabetic kidney disease, hyperfiltration and proteinuria are proposed to be the early clinical manifestations of kidney damage <ref type="bibr" target="#b31">(31)</ref>. We hypothesize that, in patients with nondiabetic CKD, prediabetes might also contribute to hyperfiltration, glomerular dysfunction, and proteinuria. Although prediabetes was not associated with eGFR decrease or ESRD, with a median follow-up of 7.5 years, it might have contributed to these outcomes if the follow-up had been longer. Furthermore, proteinuria has been associated with increased CV risk <ref type="bibr" target="#b32">(32)</ref>, suggesting the possibility that the increased risk of adverse CV outcomes in our study may have been partly mediated by the proteinuria progression.</p><p>Many mechanistic theories have been postulated to explain the association of prediabetes with higher CV risk. These include associations with endothelial dysfunction <ref type="bibr" target="#b33">(33)</ref>, changes in myocardial substrate utilization <ref type="bibr" target="#b34">(34)</ref>, microvascular dysfunction <ref type="bibr" target="#b35">(35)</ref>, increased in proinflammatory cytokines <ref type="bibr" target="#b36">(36)</ref>, impaired fibrinolysis and hypercoagulability <ref type="bibr" target="#b37">(37)</ref>. However, in the general population, the association of prediabetes with adverse CV events is not consistent. Some studies have suggested an increased CV risk <ref type="bibr" target="#b38">(38,</ref><ref type="bibr" target="#b39">39)</ref>, while other have not found significant associations <ref type="bibr" target="#b40">(40,</ref><ref type="bibr" target="#b41">41)</ref>, suggesting that the CV risk may be dependent on the population studied. Perhaps the most robust observational evidence comes from a meta-analysis including 53 prospective cohort studies, which reported that prediabetes was associated with an increased risk of composite CV events, coronary heart disease, stroke, and all-cause mortality <ref type="bibr" target="#b42">(42)</ref>. Importantly, most studies evaluated in this metaanalysis included only a small portion of patients with CKD. Regarding patients with CKD, in a study by Huang et al. including non-dialysis CKD participants without diabetes, HbA1c values in the prediabetes range were associated with increased all-cause mortality (adverse CV events were not assessed in this study) <ref type="bibr" target="#b29">(29)</ref>. In this study, HbA1c was associated with increased mortality even after adjustment for fasting glucose levels <ref type="bibr" target="#b29">(29)</ref>. The observation in our study, that prediabetes defined by hemoglobin HbA1c, but not defined by fasting plasma glucose, was associated with increased risk of adverse CV outcomes, suggests that HbA1c may be a better predictor of CV events in patients with CKD. Interestingly, in our study, there was evidence for effect modification of the association of prediabetes with all-cause mortality according to baseline eGFR, such that the association appeared to be restricted to those with higher baseline eGFR. This suggests that while prediabetes may be an important risk factor for all-cause mortality in early phases of CKD, in patients with more advanced CKD (and higher CV risk), prediabetes may not further increase the risk of mortality.</p><p>In our study, prediabetes was also associated with a higher risk of peripheral artery disease events, which is in agreement with previous reports in the general population <ref type="bibr" target="#b38">(38)</ref>. However, the component of the composite CV outcome that was more strongly associated with prediabetes was heart failure. Our results are consistent with the higher risk of heart failure in prediabetes reported in the general population <ref type="bibr" target="#b43">(43)</ref>. Furthermore, in the Atherosclerosis Risk in the Community Study (ARIC) including participants without prevalent CV disease, prediabetes was associated with increased left ventricular mass, diastolic dysfunction, and subtle reduction in left ventricular systolic function <ref type="bibr" target="#b44">(44)</ref>. The identification of prediabetes as a risk factor for heart failure in CKD is important given the high incidence of heart failure in this group <ref type="bibr" target="#b45">(45)</ref>.</p><p>From a clinical perspective, our study reports a high prevalence of prediabetes in a representative cohort of participants with CKD, and highlights the risk of CV events in such individuals. Recently, SGLT2 inhibitors have been shown to decrease the risk of adverse CV and renal outcomes in diabetes <ref type="bibr" target="#b46">(46,</ref><ref type="bibr" target="#b47">47)</ref>. The mechanism of benefit of SGLT2 inhibitors is likely to be independent of glucose levels and may involve a reduction in intraglomerular pressure. Whether treatment with SGLT2 can also reduce adverse CV and renal outcomes in patients with CKD and prediabetes is unknown. Our finding that diabetes is associated with higher risk for adverse CV and CKD progression is concordant with most previous studies <ref type="bibr" target="#b48">(48)</ref><ref type="bibr" target="#b49">(49)</ref><ref type="bibr" target="#b50">(50)</ref><ref type="bibr" target="#b51">(51)</ref>.</p><p>Regarding the strengths of our study, we performed an analysis of a large prospective cohort with rigorous data collection. Furthermore, we evaluated an ethnically and racially diverse population of participants with varying stages of CKD with adjudicated renal and CV outcomes. There are limitations to our analysis. First, despite the adjustment for several biologically plausible confounders, there may still be residual confounding due to the observational design. We cannot exclude that some associations of prediabetes or diabetes with CV or renal outcomes could have been different if we were able to further reduce residual confounding. Second, the classification of prediabetes and diabetes was performed based on a single baseline analysis. Although this approach is common in similar studies, we cannot exclude the possibility of misclassification of some participants. Third, our classification of glucose metabolism status was based only on the fasting plasma glucose and HbA1c levels. Some participants might have been classified differently if the oral glucose tolerance test had also been evaluated. Finally, our study might have been not powered enough to detect small differences between prediabetes and normoglycemia regarding renal outcomes.</p><p>In summary, in participants of CRIC, prediabetes is common, is not associated with an increased risk of eGFR decrease or ESRD development, but is associated with proteinuria progression, and an increased risk of adverse CV outcomes. Given the high CV risk profile of patients with CKD, future studies targeting risk reduction for individuals with CKD and prediabetes are warranted.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. Kaplan-Meier curves for composite renal outcome (A), composite CV outcome (B), and all-cause mortality (C) in participants with normoglycemia, prediabetes, or diabetes. Composite renal outcome: development of ESRD (renal transplantation or dialysis initiation), a 50% decline in baseline eGFR (CKD-EPI equation) to ≤ 15 mL/min/1.73 m 2 , or doubling of urine protein to creatinine ratio to ≥ 0.22 g/g creatinine. Composite CV outcome: CHF, MI, or stroke. P values were calculated with the use of log-rank tests. Abbreviations: CHF, congestive heart failure; CKD, chronic kidney disease; CV, cardiovascular; eGFR, estimated glomerular filtration rate; ESRD, end-stage renal disease; MI, myocardial infarction.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 2 .</head><label>2</label><figDesc>Figure 2. Composite renal outcome and composite CV outcome or all-cause mortality according to baseline fasting plasma glucose and HbA1c levels. Composite renal outcome: development of ESRD (renal transplantation or dialysis initiation), a 50% decline in baseline eGFR (CKD-EPI equation) to ≤ 15 mL/min/1.73 m 2 , or doubling of urine protein to creatinine ratio to ≥ 0.22 g/g creatinine. Composite CV outcome: CHF, MI, or stroke. Model 2: age, sex, race/ethnicity, body mass index, antiplatelet therapy, lipid lowering therapy, systolic blood pressure at baseline, coronary artery disease (defined as prior MI or prior coronary revascularization), peripheral vascular disease, congestive heart failure, hematocrit, baseline eGFR, serum albumin and 24-hour urine protein. Dashed lines indicate the upper and lower 95% CI for the regression line (solid black line). Vertical dashed lines indicate the cutoffs for transition from normoglycemia to prediabetes range and to diabetes range. Prediabetes range is shaded in gray. Abbreviations: CHF, congestive heart failure; CI, confidence interval; CKD, chronic kidney disease; CV, cardiovascular; eGFR, estimated glomerular filtration rate; ESRD, end-stage renal disease; MI, myocardial infarction.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 . Baseline Characteristics of Study Participants</head><label>1</label><figDesc></figDesc><table><row><cell>Normoglycemia</cell><cell>Prediabetes</cell><cell>Diabetes</cell><cell></cell></row><row><cell>(n = 945)</cell><cell>(n = 847)</cell><cell>(n = 1,909)</cell><cell>P-value</cell></row></table><note>Categorical variables are presented as counts (percentages). Continuous variables are presented as mean ± standard deviation or median<ref type="bibr" target="#b25">(25</ref> th , 75 th percentile). P-values refer to a test for difference (analysis of variance for normally distributed continuous variables; Kruskal-Wallis test for nonnormally distributed continuous variables; and chi-square test for categorical variables). Abbreviations: BNP, brain natriuretic peptide; CRP, C-reactive protein; TnT, troponin T; eGFR, estimated glomerular filtration rate (CKD-EPI equation); RAA, renin-angiotensin-aldosterone. Downloaded from https://academic.oup.com/jcem/article/105/4/e1772/5707316 by guest on 19 July 2022</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 . Association of Prediabetes and Diabetes With Outcomes (HR [95% CI])</head><label>2</label><figDesc></figDesc><table><row><cell></cell><cell>Normoglycemia</cell><cell>Prediabetes</cell><cell>Diabetes</cell></row><row><cell></cell><cell>(n = 945)</cell><cell>(n = 847)</cell><cell>(n = 1909)</cell></row><row><cell>Composite renal outcome</cell><cell></cell><cell></cell><cell></cell></row><row><cell>No. Events/No. Pts</cell><cell>351/896 (39.2%)</cell><cell>340/800 (42.5%)</cell><cell>1094/1781 (61.4%)</cell></row><row><cell>Unadjusted HR</cell><cell>(reference)</cell><cell>1.12 (0.96-1.30)</cell><cell>1.88 (1.66-2.12)</cell></row><row><cell></cell><cell></cell><cell>P = 0.15</cell><cell>P &lt; 0.001</cell></row><row><cell>Model 1 HR</cell><cell>(reference)</cell><cell>1.12 (0.96-1.31)</cell><cell>1.86 (1.64-2.11)</cell></row><row><cell></cell><cell></cell><cell>P = 0.13</cell><cell>P &lt; 0.001</cell></row><row><cell>Model 2 HR</cell><cell>(reference)</cell><cell>1.13 (0.96-1.32)</cell><cell>1.47 (1.27-1.70)</cell></row><row><cell></cell><cell></cell><cell>P = 0.14</cell><cell>P &lt; 0.001</cell></row><row><cell>Composite cardiovascular outcome</cell><cell></cell><cell></cell><cell></cell></row><row><cell>No. Events/No. Pts</cell><cell>93/943 (9.9%)</cell><cell>151/844 (17.9%)</cell><cell>579/1901 (30.5%)</cell></row><row><cell>Unadjusted HR</cell><cell>(reference)</cell><cell>1.85 (1.43-2.40)</cell><cell>3.60 (2.89-4.49)</cell></row><row><cell></cell><cell></cell><cell>P &lt; 0.001</cell><cell>P &lt; 0.001</cell></row><row><cell>Model 1 HR</cell><cell>(reference)</cell><cell>1.59 (1.23-2.07)</cell><cell>2.97 (2.37-3.71)</cell></row><row><cell></cell><cell></cell><cell>P &lt; 0.001</cell><cell>P &lt; 0.001</cell></row><row><cell>Model 2 HR</cell><cell>(reference)</cell><cell>1.38 (1.05-1.82)</cell><cell>1.63 (1.27-2.11)</cell></row><row><cell></cell><cell></cell><cell>P = 0.021</cell><cell>P &lt; 0.001</cell></row><row><cell>All-cause mortality</cell><cell></cell><cell></cell><cell></cell></row><row><cell>No. Events/No. Pts</cell><cell>104/945 (11.0%)</cell><cell>151/847 (17.8%)</cell><cell>520/1909 (27.2%)</cell></row><row><cell>Unadjusted HR</cell><cell>(reference)</cell><cell>1.63 (1.27-2.09)</cell><cell>2.56 (2.07-3.17)</cell></row><row><cell></cell><cell></cell><cell>P &lt; 0.001</cell><cell>P &lt; 0.001</cell></row><row><cell>Model 1 HR</cell><cell>(reference)</cell><cell>1.36 (1.06-1.76)</cell><cell>2.07 (1.67-2.57)</cell></row><row><cell></cell><cell></cell><cell>P = 0.016</cell><cell>P &lt; 0.001</cell></row><row><cell>Model 2 HR</cell><cell>(reference)</cell><cell>1.28 (0.98-1.66)</cell><cell>1.53 (1.20-1.95)</cell></row><row><cell></cell><cell></cell><cell>P = 0.071</cell><cell>P = 0.001</cell></row></table><note>Composite renal outcome: Development of ESRD (renal transplantation or dialysis initiation), 50% decline in baseline eGFR (CKD-EPI equation) and eGFR ≤ 15 mL/min/1.73 m 2 , or doubling of urine protein to creatinine ratio to ≥ 0.22 g/g creatinine. Composite cardiovascular outcome: Congestive heart failure, myocardial infarction or stroke. Model 1: age, sex and race/ethnicity. Model 2: variables in model 1 plus body mass index, antiplatelet therapy, lipid lowering therapy, systolic blood pressure at baseline, coronary artery disease (defined as prior myocardial infarction or prior coronary revascularization), peripheral vascular disease, congestive heart failure, hematocrit, baseline eGFR, serum albumin and 24-hour urine protein. Abbreviations: CI, confidence interval; eGFR, estimated glomerular filtration rate; ESRD, end-stage renal disease; HR, hazard ratio; Pts, patients A.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Composite renal outcome B. Composite cardiovascular outcome C . All-cause mortality</head><label></label><figDesc></figDesc><table><row><cell></cell><cell cols="2">0.80</cell><cell></cell><cell>Diabetes</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">0.80</cell><cell></cell><cell></cell><cell>Diabetes</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">0.80</cell><cell></cell><cell>Diabetes</cell></row><row><cell></cell><cell></cell><cell></cell><cell cols="2">Prediabetes</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">Prediabetes</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">Prediabetes</cell></row><row><cell>Probability of event</cell><cell cols="2">0.20 0.40 0.60</cell><cell cols="2">Normoglycemia</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>Probability of event</cell><cell cols="2">0.20 0.40 0.60</cell><cell></cell><cell cols="2">Normoglycemia</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>Probability of event</cell><cell cols="2">0.20 0.40 0.60</cell><cell cols="2">Normoglycemia</cell></row><row><cell></cell><cell cols="2">0.00</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">P&lt;0.001</cell><cell></cell><cell cols="2">0.00</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">P&lt;0.001</cell><cell></cell><cell cols="2">0.00</cell><cell></cell><cell></cell><cell>P&lt;0.001</cell></row><row><cell></cell><cell></cell><cell>0</cell><cell>1</cell><cell>2</cell><cell>3</cell><cell>4</cell><cell>5 Years</cell><cell>6</cell><cell>7</cell><cell>8</cell><cell>9</cell><cell></cell><cell></cell><cell></cell><cell>0</cell><cell>1</cell><cell>2</cell><cell>3</cell><cell>4</cell><cell>5 Years</cell><cell>6</cell><cell>7</cell><cell>8</cell><cell>9</cell><cell></cell><cell></cell><cell>0</cell><cell>1</cell><cell>2</cell><cell>3</cell><cell>4</cell><cell>5 Years</cell><cell>6</cell><cell>7</cell><cell>8</cell><cell>9</cell></row><row><cell cols="2">Normoglycemia Number at risk</cell><cell cols="10">896 841 743 646 558 468 416 275 187 57</cell><cell cols="3">Normoglycemia Number at risk</cell><cell cols="10">943 903 869 822 781 717 674 484 338 118</cell><cell cols="2">Normoglycemia Number at risk</cell><cell cols="4">945 929 913 890 877 836 787 583 415 145</cell></row><row><cell cols="2">Diabetes Prediabetes</cell><cell cols="10">1781 1605 1262 991 785 619 502 322 175 61 800 757 660 570 483 412 354 271 158 4 8</cell><cell cols="2">Diabetes Prediabetes</cell><cell cols="11">1901 1726 1537 1400 1267 1125 987 721 416 148 844 803 760 716 680 629 575 469 282 92</cell><cell cols="2">Diabetes Prediabetes</cell><cell cols="4">1909 1858 1780 1705 1624 1509 1366 1040 627 233 847 832 807 787 766 735 693 577 364 119</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">Downloaded from https://academic.oup.com/jcem/article/105/4/e1772/5707316 by guest on 19 July 2022</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">Downloaded from https://academic.oup.com/jcem/article/105/4/e1772/5707316 by guest on 19 July 2022 doi:10.1210/clinem/dgaa017 https://academic.oup.com/jcem e1775</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">Downloaded from https://academic.oup.com/jcem/article/105/4/e1772/5707316 by guest on 19 July 2022 doi:10.1210/clinem/dgaa017 https://academic.oup.com/jcem e1777</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">Downloaded from https://academic.oup.com/jcem/article/105/4/e1772/5707316 by guest on 19 July 2022 doi:10.1210/clinem/dgaa017 https://academic.oup.com/jcem e1779</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgments</head><p>CRIC was conducted by the CRIC Investigators and supported by the NIDDK. The funders of this study had no role in the analysis, interpretation of data, writing of the report, or the decision to submit the report for publication. Dr Mc Causland is supported by National Institute of Diabetes and Digestive and Kidney Diseases grant K23DK102511 and R03DK122240.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Additional Information</head><p>Correspondence and Reprint Requests: Finnian R. Mc Causland, Brigham and Women's Hospital-Renal Division, 75 Francis St, Boston, MA. Email: fmccausland@bwh.harvard.edu. ORCID: 0000-0002-0299-0533 Disclosure Summary: The authors declare that there are no conflicts of interest relevant to this article.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data Availability:</head><p>The dataset analyzed during the current study is available in the National Institute of Diabetes and Digestive and Kidney Diseases Central Repository: https://repository.niddk.nih.gov/studies/cric/.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Development of type 2 diabetes mellitus in people with intermediate hyperglycaemia</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Richter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Hemmingsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">I</forename><surname>Metzendorf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Takwoingi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cochrane Database Syst Rev</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">D012661</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Annual incidence and relative risk of diabetes in people with various categories of dysglycemia: a systematic overview and meta-analysis of prospective studies</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Gerstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Santaguida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Raina</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Res Clin Pract</title>
+		<imprint>
+			<biblScope unit="volume">78</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="305" to="312" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">KDIGO 2012 clinical practice guideline for the evaluation and management of chronic kidney disease</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Eknoyan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Lameire</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Eckardt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Kidney Int</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="5" to="14" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">US renal data system 2016 annual data report: epidemiology of kidney disease in the United States</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Saran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Robinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">C</forename><surname>Abbott</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Kidney Dis</title>
+		<imprint>
+			<biblScope unit="volume">69</biblScope>
+			<biblScope unit="issue">3S1</biblScope>
+			<biblScope unit="page" from="A7" to="A8" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<author>
+			<persName><forename type="first">V</forename><surname>Perkovic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Agarwal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Fioretto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Conference Participants. Management of patients with diabetes and CKD: conclusions from a &quot;Kidney Disease: Improving Global Outcomes&quot; (KDIGO) Controversies Conference</title>
+				<imprint>
+			<date type="published" when="2016">2016</date>
+			<biblScope unit="volume">90</biblScope>
+			<biblScope unit="page" from="1175" to="1183" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">Supplementary Material of &quot;Association of prediabetes with CKD progression and adverse cardiovascular outcomes: an analysis of the CRIC (Chronic Renal Insufficiency Cohort Study)</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Neves</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Correa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Baeta</forename><surname>Baptista</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bigotte</forename><surname>Vieira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Waikar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mc</forename><surname>Causland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">R</forename></persName>
+		</author>
+		<idno type="DOI">10.7910/DVN/7KSPDT</idno>
+		<ptr target="https://doi.org/10.7910/DVN/7KSPDT" />
+		<imprint>
+			<date type="published" when="2019-12-10">10 December 2019</date>
+		</imprint>
+	</monogr>
+	<note>Harvard Dataverse Digital Repository</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Chronic Renal Insufficiency Cohort (CRIC) Study Group. Chronic Renal Insufficiency Cohort (CRIC) Study: baseline characteristics and associations with kidney function</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Lash</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Go</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">J</forename><surname>Appel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin J Am Soc Nephrol</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="1302" to="1311" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Comparative prognostic performance of definitions of prediabetes: a prospective cohort analysis of the Atherosclerosis Risk in Communities (ARIC) study</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Warren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Pankow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Matsushita</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Diabetes Endocrinol</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="34" to="42" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Association between prediabetes (defined by HbA1C, fasting plasma glucose, and impaired glucose tolerance) and the development of chronic kidney disease: a 9-year prospective cohort study</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">S</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">H</forename><surname>Oh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">O</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">S</forename><surname>Byun</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMC Nephrol</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">130</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">APOL1 risk variants, incident proteinuria, and subsequent eGFR decline in blacks with hypertension-attributed CKD</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">K</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Tin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Peralta</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin J Am Soc Nephrol</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="1771" to="1777" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Impact of diabetes on epidemiology, treatment, and outcomes of patients with heart failure</title>
+		<author>
+			<persName><forename type="first">Dei</forename><surname>Cas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Khan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Butler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JACC Heart Fail</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="136" to="145" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Diabetes and cardiovascular disease. The Framingham study</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">B</forename><surname>Kannel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Mcgee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Jama</title>
+		<imprint>
+			<biblScope unit="volume">241</biblScope>
+			<biblScope unit="issue">19</biblScope>
+			<biblScope unit="page" from="2035" to="2038" />
+			<date type="published" when="1979">1979</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Role of diabetes in congestive heart failure: the Framingham study</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">B</forename><surname>Kannel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hjortland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">P</forename><surname>Castelli</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="29" to="34" />
+			<date type="published" when="1974">1974</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">DAPA-HF Trial Committees and Investigators. Dapagliflozin in patients with heart failure and reduced ejection fraction</title>
+		<author>
+			<persName><forename type="first">Jjv</forename><surname>Mcmurray</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Solomon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Inzucchi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">381</biblScope>
+			<biblScope unit="issue">21</biblScope>
+			<biblScope unit="page" from="1995" to="2008" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Wiviott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Raz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Bonaca</surname></persName>
+		</author>
+		<idno>DECLARE-TIMI 58</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Dapagliflozin and cardiovascular outcomes in type 2 diabetes</title>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">380</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="347" to="357" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Neves et al Prediabetes in Chronic Kidney Disease</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Zinman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Wanner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Lachin</surname></persName>
+		</author>
+		<ptr target="https://academic.oup.com/jcem/article/105/4/e1772/5707316bygueston" />
+	</analytic>
+	<monogr>
+		<title level="m">EMPA-REG OUTCOME Investigators. Empagliflozin</title>
+				<imprint>
+			<date type="published" when="2020-04">19 July 2022 e1780. April 2020</date>
+			<biblScope unit="volume">105</biblScope>
+			<biblScope unit="page" from="e1772" to="e1780" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">and mortality in type 2 diabetes</title>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">373</biblScope>
+			<biblScope unit="issue">22</biblScope>
+			<biblScope unit="page" from="2117" to="2128" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">High-sensitivity troponin T predicts worsening of albuminuria in hypertension; results of a nested case-control study with confirmation in diabetes</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Hellemons</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lambers</forename><surname>Heerspink</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Gansevoort</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">T</forename><surname>De Zeeuw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Bakker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Hypertens</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="805" to="812" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Do cardiac biomarkers NT-proBNP and hsTnT predict microvascular events in patients with type 2 diabetes? Results from the ADVANCE trial</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Welsh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Woodward</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">S</forename><surname>Hillis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="2202" to="2210" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Cardiac and inflammatory biomarkers are associated with worsening renal outcomes in patients with type 2 diabetes mellitus: observations from SAVOR-TIMI 53</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Zelniker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Morrow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Mosenzon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Chem</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="781" to="790" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Diabetic nephropathy: where are we on the journey from pathophysiology to treatment?</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Gallagher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Suckling</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Obes Metab</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="641" to="647" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Diabetic kidney disease: challenges, progress, and possibilities</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">Z</forename><surname>Alicic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>Rooney</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">R</forename><surname>Tuttle</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin J Am Soc Nephrol</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="2032" to="2045" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Microalbuminuria in a middle-aged workforce. Effect of hyperglycemia and ethnicity</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Metcalf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Baker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Scragg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Dryson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Scott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Wild</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="1485" to="1493" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Association of the insulin resistance syndrome and microalbuminuria among nondiabetic native Americans. The Inter-Tribal Heart Project</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Hoehner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename><surname>Greenlund</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Rith-Najarian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Casper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">M</forename><surname>Mcclellan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Soc Nephrol</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1626" to="1634" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">CDC CKD Surveillance Team. Prevalence of chronic kidney disease in US adults with undiagnosed diabetes or prediabetes</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">C</forename><surname>Plantinga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Crews</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Coresh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin J Am Soc Nephrol</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="673" to="682" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">A comparison of urinary albumin excretion rate and microalbuminuria in various glucose tolerance subjects</title>
+		<author>
+			<persName><forename type="first">X</forename><forename type="middle">L</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Lu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">Y</forename><surname>Pan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Tian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Li</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabet Med</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="332" to="335" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Impaired fasting glucose and chronic kidney disease, albuminuria, or worsening kidney function: a secondary analysis of the SPRINT</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Vieira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Neves</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Leitao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Endocrinol Metab</title>
+		<imprint>
+			<biblScope unit="volume">104</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="4024" to="4032" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Association between prediabetes and risk of chronic kidney disease: a systematic review and meta-analysis</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Echouffo-Tcheugui</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Narayan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Weisman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Golden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">G</forename><surname>Jaar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabet Med</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="1615" to="1624" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Glycated hemoglobin level and mortality in a nondiabetic population with CKD</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Trivin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Metzger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Haymann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin J Am Soc Nephrol</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="957" to="964" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+		<respStmt>
+			<orgName>NephroTest Study Group</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Change in albuminuria and subsequent risk of end-stage kidney disease: an individual participant-level consortium meta-analysis of observational studies</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Coresh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hjl</forename><surname>Heerspink</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Sang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Diabetes Endocrinol</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="115" to="127" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note>Chronic Kidney Disease Prognosis Consortium and Chronic Kidney Disease Epidemiology Collaboration</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Glomerular hyperfiltration in diabetes: mechanisms, clinical significance, and treatment</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Tonneijck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Muskiet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Smits</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Soc Nephrol</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1023" to="1039" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Cardiovascular implications of proteinuria: an indicator of chronic kidney disease</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Agrawal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Marinescu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Agarwal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Mccullough</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat Rev Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="301" to="311" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Endothelial dysfunction in (pre)diabetes: characteristics, causative mechanisms and pathogenic role in type 2 diabetes</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">C</forename><surname>Eringa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">H</forename><surname>Serne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">I</forename><surname>Meijer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev Endocr Metab Disord</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="39" to="48" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Heart failure patients with prediabetes and newly diagnosed diabetes display abnormalities in myocardial metabolism</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Nielsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Jorsal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Iversen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Nucl Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="169" to="176" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Prediabetes and type 2 diabetes are associated with generalized microvascular dysfunction: the maastricht study</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">M</forename><surname>Sörensen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Houben</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">T</forename><surname>Berendschot</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">134</biblScope>
+			<biblScope unit="issue">18</biblScope>
+			<biblScope unit="page" from="1339" to="1352" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Profile of the immune and inflammatory response in individuals with prediabetes and type 2 diabetes</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Grossmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">H</forename><surname>Schmitt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Zeller</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="1356" to="1364" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Hyperinsulinemia, hyperglycemia, and impaired hemostasis: the Framingham Offspring Study</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Meigs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Mittleman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Nathan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Jama</title>
+		<imprint>
+			<biblScope unit="volume">283</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="221" to="228" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Comparative prognostic performance of definitions of prediabetes: a prospective cohort analysis of the Atherosclerosis Risk in Communities (ARIC) study</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Warren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Pankow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Matsushita</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Diabetes Endocrinol</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="34" to="42" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Associations between prediabetes, by three different diagnostic criteria, and incident CVD differ in South Asians and Europeans</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">V</forename><surname>Eastwood</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Tillin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Sattar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">G</forename><surname>Forouhi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>Hughes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Chaturvedi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="2325" to="2332" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Fasting plasma glucose and HbA1c in cardiovascular risk prediction: a sex-specific comparison in individuals without diabetes mellitus</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Schöttker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Müller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Rothenbacher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Brenner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="92" to="100" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Prediabetes is not an independent risk factor for incident heart failure, other cardiovascular events or mortality in older adults: findings from a populationbased cohort study</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Deedwania</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Patel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">C</forename><surname>Fonarow</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">168</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="3616" to="3622" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Association between prediabetes and risk of cardiovascular disease and all cause mortality: systematic review and meta-analysis</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Cai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Mai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Hu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bmj</title>
+		<imprint>
+			<biblScope unit="volume">355</biblScope>
+			<biblScope unit="page">5953</biblScope>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Blood glucose and heart failure in nondiabetic patients</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Nielson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Lange</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="607" to="611" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Cardiac structure and function across the glycemic spectrum in elderly men and women free of prevalent heart disease: the Atherosclerosis Risk In the Community study</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Skali</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Shah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">K</forename><surname>Gupta</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circ Heart Fail</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="448" to="454" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Reduced kidney function as a risk factor for incident heart failure: the atherosclerosis risk in communities (ARIC) study</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kottgen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Russell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">R</forename><surname>Loehr</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Soc Nephrol</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1307" to="1315" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">EMPA-REG OUTCOME Investigators. Empagliflozin and progression of kidney disease in type 2 diabetes</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Wanner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Inzucchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Lachin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">375</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="323" to="334" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Canagliflozin and renal outcomes in type 2 diabetes and nephropathy</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Perkovic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Jardine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Neal</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">CREDENCE Trial Investigators</title>
+				<imprint>
+			<date type="published" when="2019">2019</date>
+			<biblScope unit="volume">380</biblScope>
+			<biblScope unit="page" from="2295" to="2306" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Risk factors for development and progression of chronic kidney disease: a systematic review and exploratory meta-analysis</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">C</forename><surname>Tsai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">Y</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">S</forename><surname>Peng</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Medicine</title>
+		<imprint>
+			<biblScope unit="volume">95</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page">e3013</biblScope>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">The natural history of chronic renal failure: results from an unselected, population-based, inception cohort in Sweden</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Evans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Fryzek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">G</forename><surname>Elinder</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Kidney Dis</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="863" to="870" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Diabetes and end-stage renal disease synergistically contribute to increased incidence of cardiovascular events: a nationwide follow-up study during</title>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">T</forename><surname>Chang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Hsu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Sung</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="277" to="285" />
+			<date type="published" when="1998">1998-2009. 2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Alberta Kidney Disease Network. Risk of coronary events in people with chronic kidney disease compared with those with diabetes: a population-level cohort study</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tonelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Muntner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Lloyd</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">380</biblScope>
+			<biblScope unit="issue">9844</biblScope>
+			<biblScope unit="page" from="807" to="814" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

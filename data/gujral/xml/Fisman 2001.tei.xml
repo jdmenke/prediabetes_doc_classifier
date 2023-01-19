@@ -1,0 +1,1252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Impaired fasting glucose concentrations in nondiabetic patients with ischemic heart disease: A marker for a worse prognosis</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><roleName>MD</roleName><forename type="first">Enrique</forename><forename type="middle">Z</forename><surname>Fisman</surname></persName>
+							<email>zfisman@post.tau.ac.il</email>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Michael</forename><surname>Motro</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Alexander</forename><surname>Tenenbaum</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MS</roleName><forename type="first">Valentina</forename><surname>Boyko</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Bezafibrate Infarction Prevention Study Coordinating Center</orgName>
+								<orgName type="institution" key="instit1">Neufeld Cardiac Research Institute</orgName>
+								<orgName type="institution" key="instit2">Chaim Sheba Med-ical Center</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MPH.</roleName><forename type="first">Lori</forename><surname>Mandelzweig</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Bezafibrate Infarction Prevention Study Coordinating Center</orgName>
+								<orgName type="institution" key="instit1">Neufeld Cardiac Research Institute</orgName>
+								<orgName type="institution" key="instit2">Chaim Sheba Med-ical Center</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Solomon</forename><surname>Behar</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Bezafibrate Infarction Prevention Study Coordinating Center</orgName>
+								<orgName type="institution" key="instit1">Neufeld Cardiac Research Institute</orgName>
+								<orgName type="institution" key="instit2">Chaim Sheba Med-ical Center</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Jacob</forename><surname>Agmon</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Yisrael</forename><surname>Bar-Yehuda</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Daniel</forename><surname>Brunner</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>PhD</roleName><forename type="first">Uri</forename><surname>Goldbourt</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Elieser</forename><surname>Kaplinsky</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Henrietta</forename><surname>Reicher-Reiss</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MD.</roleName><forename type="first">Avra- Ham</forename><surname>Shotan</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>PhD (director</roleName><forename type="first">Eran</forename><surname>Graff</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MSc</roleName><forename type="first">Sara</forename><surname>Schwartz</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Joshua</forename><surname>Waysbort</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>BSc</roleName><forename type="first">Shoshana</forename><surname>Schwartz</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>BSc</roleName><forename type="first">Tova</forename><surname>Haimi</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Rachel</forename><surname>Lingel</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Frima</forename><surname>Nir</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Chaim</forename><surname>Almog</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Alexander</forename><surname>Battler</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MD.</roleName><forename type="first">Monty</forename><surname>Zion</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MD.</roleName><forename type="first">David</forename><surname>Tanne</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Siegfrid</forename><surname>Heimstra</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>PhD.</roleName><forename type="first">Eugene</forename><surname>Heyman</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MSc</roleName><forename type="first">Michal</forename><surname>Benderly</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Miriam</forename><surname>Cohen</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Mark</forename><surname>Goldberg Ba</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="department">Sackler Faculty of Medicine</orgName>
+								<orgName type="institution">Tel-Aviv University</orgName>
+								<address>
+									<settlement>Tel-Aviv</settlement>
+									<country key="IL">Israel</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="institution" key="instit1">Cardiac Rehabilitation Institute</orgName>
+								<orgName type="institution" key="instit2">Chaim Sheba Medical Center</orgName>
+								<address>
+									<postCode>52621</postCode>
+									<settlement>Tel-Hashomer</settlement>
+									<country key="IL">Israel</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Impaired fasting glucose concentrations in nondiabetic patients with ischemic heart disease: A marker for a worse prognosis</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">5019967390E2E13682EFFA89FFC3CD08</idno>
+					<idno type="DOI">10.1067/mhj.2001.113219</idno>
+					<note type="submission">Submitted June 5, 2000; accepted November 29, 2000.</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.1" ident="GROBID" when="2022-07-19T22:45+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>nondiabetic patients were directly related to cardiovascular risk. <ref type="bibr" target="#b2">3,</ref><ref type="bibr" target="#b3">4</ref> The current American Diabetes Association (ADA) criteria for defining diabetes from fasting blood glucose levels of ≥126 mg/dL (7 mmol/L) were based on the fact that both the incidence and prevalence of microvascular disease-such as retinopathy and nephropathy-that represent a specific complication of diabetes, increased at this concentration. <ref type="bibr" target="#b4">5</ref> These criteria replaced the previous World Health Organization (WHO) ones, which required fasting glucose levels of ≥140 mg/dL (7.7 mmol/L) for the diagnosis of diabetes 6 and were provisionally agreed to by a WHO consultation. <ref type="bibr" target="#b6">7</ref> In addition, in an attempt to simplify the diagnosis of diabetes, the need for an oral glucose tolerance test in routine practice was removed from the ADA recommendations. Levels of 110 to 125 mg/dL were designated impaired fasting glucose (IFG), a new category that partially overlaps positive tolerance tests. <ref type="bibr" target="#b4">5</ref> This new ADA category for diabetes is not based on Glucose concentrations that are higher than the diabetes threshold constitute a well-established risk factor for heart disease. However, whether values below this threshold may be predictive of increased cardiovascular risk has not yet been fully elucidated and the issue is controversial. Although both early 1 and recent 2 observations did not find a consistent association between asymptomatic fasting hyperglycemia and coronary disease, other studies have argued that glucose levels in From the a Cardiac Rehabilitation Institute and the</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>the prevalence of macrovascular complications such as ischemic heart disease, and the long-term prognostic significance of IFG in coronary patients is unclear. The current study evaluates the prognosis of nondiabetic subjects with known ischemic heart disease (IHD) and IFG over a 7.7-year follow-up period.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Subjects</head><p>The initial population consisted of 12,402 patients. Of these, 549 were excluded from analysis because of missing data. Thus the final study sample comprised 11,853 patients aged 45 to 74 years with a previous myocardial infarction (0.5 to 5 years before commencement of follow-up) or documented coronary disease (within 2 years preceding the examination), screened for participation but not included in the Bezafibrate Infarction Prevention (BIP) study. <ref type="bibr" target="#b7">8</ref> The design, major features, and ethical guidelines of the BIP study have been previously reported. <ref type="bibr" target="#b7">8</ref> In brief, between February 1, 1990, and October 30, 1992, all eligible patients underwent a complete medical examination and biochemical blood tests; historic medical data, as well as data on drug therapy, were recorded. The major exclusion criteria for the BIP study were permanent pacemaker implantation, cerebrovascular disease, chronic hepatic or renal disease, peripheral vascular disease, malignant diseases, estrogen replacement therapy, and insulin-dependent diabetes mellitus.</p><p>The patients included in the current analysis were divided into 3 groups on the basis of their fasting blood glucose concentrations at screening: (1) nondiabetic patients (glucose up to 109 mg/dL), (2) patients with IFG (glucose 110-125 mg/dL) and (3) undiagnosed diabetic patients (glucose ≥126 mg/dL). Subjects who were on any type of pharmacologic antidiabetic treatment were excluded from this analysis.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Laboratory methods</head><p>Cooled blood samples, collected in the 18 participating centers by standard equipment and procedures, were transferred to the study's central laboratory; all analyses were performed on a Boehringer Hitachi 704 random access analyzer as detailed in a previous report. <ref type="bibr" target="#b8">9</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Determination of additional variables and definitions</head><p>Data on medical history, clinical findings, and drug intake were recorded by the interviewing physician. The diagnosis of IHD was made in patients with either documented myocardial infarction or in whom there was also a positive exercise test, evidence of myocardial ischemia revealed by radionuclear studies, or angiographic evidence of at least 60% stenosis of one major coronary artery. <ref type="bibr" target="#b7">8</ref> Patients without a previous history of type 2 diabetes who were hyperglycemic (fasting blood glucose concentration of ≥126 mg/dL) were defined as undiagnosed diabetics, and individuals with fasting concentrations of 110 to 125 mg/dL were considered as patients with IFG. This allocation is in keeping with the criteria of the Expert Committee on the Diagnosis and Classification of Diabetes Mellitus of the ADA. <ref type="bibr" target="#b4">5</ref> Hypertension in undiagnosed diabetic patients was defined according to the criteria of the Working Group on Hypertension in Diabetes. <ref type="bibr" target="#b9">10</ref> Mortality data were obtained by matching the patients' identification numbers with their life status in the Population Registry. Each matched record was checked for correct identification. Death certificates and diagnosis on hospital discharge were coded according to the system described in the International Classification of Diseases, Ninth Revision (ICD-9), in which ischemic heart disease is denoted by codes 410 to 414. <ref type="bibr" target="#b10">11</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analysis</head><p>To evaluate the prognosis of nondiabetic subjects with known coronary artery disease and IFG over the 7.7-year follow-up period, data were analyzed with SAS software (SAS Institute, Cary, NC). <ref type="bibr" target="#b11">12</ref> Continuous variables were reported as mean values ± SD. Significance was determined with the chisquare test for categorical variables and analysis of variance for continuous variables. Age-adjusted mortality rates per 1000 person years were computed with a special SAS macro. <ref type="bibr" target="#b12">13</ref> Actuarial survival curves by treatment groups were produced with use of the LIFETEST procedure. <ref type="bibr" target="#b13">14</ref> The log-rank test was used for comparing the curves. Multivariate analysis of mortality was performed with the stepwise Cox proportional hazard model (PHREG procedure) to account for differing lengths of follow-up and correlation with covariates. Adjustment was made for age, sex, total cholesterol, triglycerides, previous myocardial infarction, functional class, hypertension, peripheral vascular disease, anginal syndrome, chronic obstructive pulmonary disease, smoking status, and body mass index. Hazard ratio and 95% confidence limits were calculated. The significance levels for entering and removing an explanatory variable were set at .15 and .10, respectively.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Baseline data</head><p>The nondiabetic population consisted of 9773 individuals (82.4% of the total population), 1258 patients (10.6%) had IFG levels, and 822 were diabetic (7%).</p><p>The main clinical characteristics and laboratory values of all patients are presented in Table <ref type="table" target="#tab_1">I</ref>. The majority of the patients in all groups were men and had sustained a myocardial infarction in the past. The prevalence of peripheral vascular disease was low in all groups but relatively higher in undiagnosed diabetic patients. No differences among groups were documented with respect to chronic lung disease and past or current smoking.</p><p>Total cholesterol was higher in the undiagnosed diabetics, but no differences were documented for lowdensity lipoprotein cholesterol. High-density lipoprotein was higher in nondiabetic patients. Triglycerides were significantly higher in the undiagnosed diabetic individuals.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Mortality data</head><p>Patients were followed up from 6.2 to 9.0 years (mean follow-up period 7.7 ± 1.5 years). During this period, crude all-cause and IHD mortality were lower in nondiabetic subjects than in the 2 other groups (Table <ref type="table" target="#tab_1">II</ref>). All-cause and IHD mortality were 14.3% and 4.8% in nondiabetic patients, 20.1% and 6.3% in IFG, and 24.3% and 9.2% in undiagnosed subjects, respectively (P &lt; .001, Figure <ref type="figure">1</ref>).</p><p>Actuarial survival curves for all-cause mortality for the three study groups are presented in Figure <ref type="figure">2</ref>. Multivariate adjustment showed the lowest mortality in nondiabetic subjects, who exhibited a survival rate of 0.86 at the end of the follow-up, whereas the lower survival-0.75-was seen in undiagnosed diabetics (P = .0001). An intermediate value of 0.78 was documented for patients with IFG (P &lt; .01).</p><p>A multivariate analysis was performed, adjusting for age, sex, total cholesterol, triglycerides, previous myocardial infarction, cerebrovascular accident, functional class, peripheral vascular disease, anginal syndrome, chronic obstructive pulmonary disease, smoking status, and body mass index (  Table <ref type="table" target="#tab_1">II</ref>. Crude mortality during an average 7.7-year follow-up period among the study patients</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Figure 1</head><p>Crude all-cause and IHD mortality in nondiabetic subjects, patients with IFG, and undiagnosed diabetic patients. Mortality in the undiagnosed group was significantly higher than in the nondiabetic group; intermediate values were seen in IFG (P &lt; .001).</p><p>patients as the reference group, IFG was identified as an independent predictor of increased all-cause and IHD mortality with hazard ratios of 1.39 (95% confidence interval 1.21-1.59) and 1.29 (95% confidence interval 1.01-1.64), respectively.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>The recent redefinition of diabetes <ref type="bibr" target="#b4">5</ref> was not based on either the risk for cardiovascular disease or for all-cause mortality. Therefore there is no a priori reason for the diabetes glucose thresholds to be relevant to the risk for these outcomes, and there is no reason that the glucose-cardiovascular relationship should not extend below the diabetes thresholds. <ref type="bibr" target="#b14">15</ref> The prognostic significance of IFG on macrovascular complications is still unclear.</p><p>The rate of cardiovascular disease has decreased in the general population, but it has remained stable or even increased in diabetics. Coronary patients with undiagnosed diabetes present a significantly increased long-term mortality. <ref type="bibr" target="#b15">16</ref> Subjects with diabetes have increased morbidity and early mortality related to cardiovascular and microvascular complications. <ref type="bibr" target="#b16">17</ref> The current report deals with long-term survival in a cohort of nondiabetic coronary patients with IFG. The main observation derived from the results of this study is the substantially increased mortality rate among these individuals.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Survival</head><p>It is well established that all major cardiovascular risk factors-hypertension, hyperlipidemia-act as independent contributors to heart disease in both diabetic and nondiabetic patients. Several additional factors simultaneously affect the development of coronary disease and diabetes, such as insulin resistance, coagulation abnormalities, obesity, physical inactivity, heredity, sex, and advancing age. These predisposing conditions constitute the metabolic syndrome and exacerbate the major risk factors. <ref type="bibr" target="#b17">18</ref> The role of hyperglycemia in this context was recently highlighted. Although there is no evidence that mild hyperglycemia per se promotes atherogenesis or plaque rupture, a 20year follow-up in the Whitehall Study, the Paris Prospective Study, and the Helsinki Policemen Study determined that a high blood glucose concentration is a risk factor for mortality in middle-aged nondiabetic subjects. <ref type="bibr" target="#b18">19</ref> Most studies have provided support for a strong association between hyperglycemia and cardiovascular mortality. <ref type="bibr" target="#b4">[5]</ref><ref type="bibr" target="#b5">[6]</ref><ref type="bibr" target="#b6">[7]</ref><ref type="bibr" target="#b19">[20]</ref><ref type="bibr" target="#b20">[21]</ref><ref type="bibr" target="#b21">[22]</ref><ref type="bibr" target="#b22">[23]</ref><ref type="bibr" target="#b23">[24]</ref> Previous findings of our laboratory showed that, after adjustment for all other risk factors, both men and women with asymptomatic hyperglycemia had the same elevated mortality rate as those with confirmed diabetes. <ref type="bibr" target="#b24">25</ref> In the current study coronary patients with IFG were characterized by a worse outcome, with a greater hazard ratio for both all-cause and IHD mortality. Some early prospective studies of hyperglycemia and coronary disease showed no association between them, and other studies showed a positive association that was not persistent after adjustment for covariates. <ref type="bibr" target="#b25">26</ref> On the contrary, later studies <ref type="bibr" target="#b18">19,</ref><ref type="bibr" target="#b26">27</ref> are in keeping with our findings. The main cause of the discrepancies is that current diagnostic criteria were not in use when the early studies were conducted. <ref type="bibr" target="#b27">28</ref> Thus, regardless of the underlying mechanisms that could explain the findings of this report, our results are in accordance with growing epidemiologic evidence that the risk for cardiovascular events does extend below the diabetic microvascular threshold. <ref type="bibr" target="#b28">29,</ref><ref type="bibr" target="#b29">30</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study limitations</head><p>This was a prospective observational study where data were collected for different purposes, and we were aware of certain limitations. First, the majority of patients were men, so the degree to which the conclu-</p><note type="other">American Heart Journal March 2001 Fisman et al Figure 2</note><p>Multivariate adjusted survival curves for all-cause mortality in nondiabetic subjects, patients with IFG, and undiagnosed diabetic patients. Note that at the end of the follow-up patients with IFG had a significantly higher mortality than nondiabetic individuals did (P &lt; .01). </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Table III.</head><p>Hazard ratios for all-cause and IHD mortality in the hyperglycemic groups during an average 7.7-year follow-up period sions apply to women is unclear. An earlier report from the same register showed a relative risk of death of 1.6 for all hyperglycemic patients, which rose to 2.4 when women were analyzed separately. <ref type="bibr" target="#b24">25</ref> However, this finding probably does not affect the results because in the current study sex distribution was similar in all groups. Second, coding errors of ICD-9 are conceivable. Third, only a single glucose determination was performed at entry and no information was available regarding duration of hyperglycemia. In this context, it should be noted that some population studies indicate that cardiovascular mortality may not be dependent on duration of hyperglycemia because it is equally prevalent in both established and newly diagnosed diabetes. <ref type="bibr" target="#b30">31,</ref><ref type="bibr" target="#b31">32</ref> Thus, despite these limitations, the results of our study may contribute to characterize the epidemiology of individuals with impaired levels of fasting glucose among a population with clinically established coronary disease.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Clinical implications</head><p>A body of evidence is accumulating that suggests that all levels of dysglycemia, even those below current WHO and ADA diagnostic levels, are associated with increased cardiovascular risk. <ref type="bibr" target="#b2">3,</ref><ref type="bibr" target="#b29">30,</ref><ref type="bibr" target="#b32">[33]</ref><ref type="bibr" target="#b33">[34]</ref><ref type="bibr" target="#b34">[35]</ref><ref type="bibr" target="#b35">[36]</ref><ref type="bibr" target="#b36">[37]</ref> These levels may be as low as 5.5 mmol/L (100 mg/dL). <ref type="bibr" target="#b14">15</ref> Our study is in keeping with this concept. The principal finding of the current report is the substantially increased mortality rate among nondiabetic coronary patients with IFG, who had fasting glucose levels markedly lower than hitherto acknowledged as defining overt diabetes. Thus the current study indicates that this new ADA category is a marker for worse prognosis in nondiabetic coronary patients, further supporting the hypothesis that there is a close-albeit not necessarily linear-relationship between glucose and cardiovascular disease that begins at normal levels and rises into the diabetic range. Problem-oriented prospective clinical trials are necessary to determine whether modification of dysglycemia translates into improved clinical outcomes or whether elevated glucose levels are simply markers of an underlying metabolic syndrome.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head></head><label></label><figDesc>Table III). After adjustment for these variables, with nondiabetic</figDesc><table><row><cell>American Heart Journal</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Volume 141, Number 3</cell><cell></cell><cell></cell><cell></cell><cell>Fisman et al 487</cell></row><row><cell></cell><cell>Nondiabetics</cell><cell>IFG</cell><cell>Undiagnosed diabetics</cell><cell>P</cell></row><row><cell></cell><cell>(n = 9773)</cell><cell>(n = 1258)</cell><cell>(n = 822)</cell><cell>value</cell></row><row><cell>Age (y)</cell><cell>59.6 ± 7.2</cell><cell>60.3 ± 6.6</cell><cell>60.2 ± 6.8</cell><cell>NS</cell></row><row><cell>Weight (kg)</cell><cell>74.7 ± 11.3</cell><cell>77.3 ± 11.8</cell><cell>78.2 ± 12.4</cell><cell>&lt;.001</cell></row><row><cell>Body mass index (kg/m 2 )</cell><cell>26.4 ± 3.4</cell><cell>27.3 ± 3.5</cell><cell>27.7 ± 3.7</cell><cell>&lt;.001</cell></row><row><cell>Men</cell><cell>7990 (82)</cell><cell>1050 (84)</cell><cell>700 (85)</cell><cell>NS</cell></row><row><cell>Myocardial infarction</cell><cell>6993 (72)</cell><cell>909 (72)</cell><cell>587 (72)</cell><cell>NS</cell></row><row><cell>Peripheral vascular disease</cell><cell>303 (3)</cell><cell>35 (3)</cell><cell>41 (5)</cell><cell>.02</cell></row><row><cell>NYHA class ≥2</cell><cell>2455 (26)</cell><cell>370 (30)</cell><cell>239 (30)</cell><cell>&lt;.001</cell></row><row><cell>Hypertension</cell><cell>2945 (30)</cell><cell>431 (34)</cell><cell>299 (36)</cell><cell>&lt;.001</cell></row><row><cell>Chronic lung disease</cell><cell>287 (3)</cell><cell>27 (2)</cell><cell>28 (3.5)</cell><cell>NS</cell></row><row><cell>Current smokers</cell><cell>1139 (12)</cell><cell>152 (12)</cell><cell>109 (13)</cell><cell>NS</cell></row><row><cell>Past smokers</cell><cell>5191 (53)</cell><cell>695 (55)</cell><cell>459 (56)</cell><cell>NS</cell></row><row><cell>Glucose (mg/dL)</cell><cell>93 ± 9</cell><cell>117 ± 5</cell><cell>160 ± 43</cell><cell>&lt;.001</cell></row><row><cell>Total cholesterol (mg/dL)</cell><cell>224 ± 39</cell><cell>226 ± 41</cell><cell>227 ± 40</cell><cell>.005</cell></row><row><cell>HDL cholesterol (mg/dL)</cell><cell>38.3 ± 10.2</cell><cell>36.7 ± 9.6</cell><cell>36.2 ± 9.6</cell><cell>.01</cell></row><row><cell>LDL cholesterol (mg/dL)</cell><cell>155.9 ± 33.9</cell><cell>156.6 ± 34.8</cell><cell>153.9 ± 34.4</cell><cell>NS</cell></row><row><cell>Triglycerides (mg/dL)</cell><cell>146.5 ± 77</cell><cell>168.3 ± 100</cell><cell>189.9 ± 114</cell><cell>&lt;.001</cell></row></table><note>Values in parentheses indicate percentage. NS, Not significant; NYHA, New York Heart Association; HDL, high-density lipoprotein; LDL, low-density lipoprotein.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table I .</head><label>I</label><figDesc>Baseline characteristics of the study populations</figDesc><table><row><cell></cell><cell></cell><cell></cell><cell>Undiagnosed</cell><cell></cell></row><row><cell></cell><cell>Nondiabetics</cell><cell>IFG</cell><cell>diabetics</cell><cell></cell></row><row><cell>Mortality types</cell><cell>(n = 9773)</cell><cell>(n = 1258)</cell><cell>(n = 822)</cell><cell>P value</cell></row><row><cell>All-cause</cell><cell>1398 (14.3)</cell><cell>253 (20.1)</cell><cell>200 (24.3)</cell><cell>&lt;.001</cell></row><row><cell>IHD</cell><cell>469 (4.8)</cell><cell>79 (6.3)</cell><cell>76 (9.2)</cell><cell>&lt;.001</cell></row><row><cell>Others</cell><cell>627 (6.4)</cell><cell>116 (9.2)</cell><cell>84 (10.2)</cell><cell>&lt;.001</cell></row><row><cell>Unknown</cell><cell>302 (3.1)</cell><cell>58 (4.6)</cell><cell>40 (4.9)</cell><cell>&lt;.001</cell></row></table><note>Values in parentheses indicate percentage.</note></figure>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Appendix</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Bezafibrate Infarction Prevention (BIP) Study Group</head><p>Participating Centers and Committee Membership Scientific Committee:</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Asymptomatic hyperglycemia and coronary heart disease: a series of papers by the International Collaborative Group based on studies in fifteen populations</title>
+	</analytic>
+	<monogr>
+		<title level="j">J Chronic Dis</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="829" to="837" />
+			<date type="published" when="1979">1979</date>
+		</imprint>
+		<respStmt>
+			<orgName>International Collaborative Group</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Impaired glucose tolerance is a risk factor for cardiovascular disease, but not impaired fasting glucose</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tominaga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Eguchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Manaka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="920" to="924" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Cardiovascular disease in older adults with glucose disorders: comparison of American Diabetes Association criteria for diabetes mellitus with WHO criteria</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">I</forename><surname>Barzilay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">F</forename><surname>Spiekerman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">W</forename><surname>Wahl</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">354</biblScope>
+			<biblScope unit="page" from="622" to="625" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Diabetes mellitus and macrovascular complications: an epidemiological perspective</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Donahue</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Orchard</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="1141" to="1155" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Report of the Expert Committee on the Diagnosis and Classification of Diabetes Mellitus</title>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="1183" to="1197" />
+			<date type="published" when="1997">1997</date>
+			<publisher>American Diabetes Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Geneva: WHO</title>
+	</analytic>
+	<monogr>
+		<title level="j">World Health Organization Expert Committee on Diabetes Mellitus: second Report</title>
+		<imprint>
+			<biblScope unit="page">646</biblScope>
+			<date type="published" when="1980">1980</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">for the WHO consultation. Definition, diagnosis and classification of diabetes mellitus and its complications, 1: diagnosis and classification of diabetes mellitus: provisional report of a WHO consultation</title>
+		<author>
+			<persName><forename type="first">Kgmm</forename><surname>Alberti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">Z</forename><surname>Zimmet</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Med</title>
+		<imprint>
+			<biblScope unit="volume">128</biblScope>
+			<biblScope unit="page" from="539" to="553" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Rationale and design of a secondary prevention trial of increasing serum high-density lipoprotein cholesterol and reducing triglycerides in patients with clinically manifest atherosclerotic heart disease (the Bezafibrate Infarction Prevention Trial)</title>
+		<author>
+			<persName><forename type="first">U</forename><surname>Goldbourt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Behar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Reicher-Reiss</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">71</biblScope>
+			<biblScope unit="page" from="909" to="915" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Fibrinogen is a predictor of mortality in coronary artery disease patients</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Benderly</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Graff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Reicher-Reiss</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arterioscler Thromb Vasc Biol</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="351" to="356" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Working Group on Hypertension in Diabetes Mellitus. Final report. Arch Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">147</biblScope>
+			<biblScope unit="page" from="830" to="842" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">International Classification of Diseases. Clinical modification, 9th revision</title>
+		<imprint>
+			<date type="published" when="1981">1981</date>
+			<publisher>Edwards Bros</publisher>
+			<biblScope unit="volume">1</biblScope>
+			<pubPlace>Ann Arbor</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">SAS/STAT: user&apos;s guide, version 6</title>
+		<author>
+			<persName><surname>Sas Institute</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">SAS Institute</title>
+				<meeting><address><addrLine>Cary (NC</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1987">1987</date>
+			<biblScope unit="volume">2</biblScope>
+		</imprint>
+	</monogr>
+	<note>4th ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">A SAS program for evaluating person-years of risk on cohort studies</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Yaari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Goldbourt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Comp Biol Med</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="353" to="359" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m">SAS/STAT software: changes and enhancements, release 6.07. Cary (NC): SAS Institute; 1992. SAS technical report P-229</title>
+				<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Is glucose a continuous risk factor for cardiovascular mortality?</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Gerstein</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="659" to="660" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Clinical impact of borderline and undiagnosed diabetes mellitus in patients with coronary artery disease</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Tenenbaum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Motro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">Z</forename><surname>Fisman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">86</biblScope>
+			<biblScope unit="page" from="1363" to="1366" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Diabetes and decline in heart disease mortality in US adults</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Gu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Cowie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">I</forename><surname>Harris</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">281</biblScope>
+			<biblScope unit="page" from="1291" to="1297" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Diabetes and cardiovascular disease: a statement for healthcare professionals from the American Heart Association</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Grundy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">J</forename><surname>Benjamin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">L</forename><surname>Burke</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">100</biblScope>
+			<biblScope unit="page" from="1134" to="1146" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">High blood glucose concentration is a risk factor for mortality in middle-aged nondiabetic men</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Balkau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Shipley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Jarrett</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="360" to="367" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Relationship of clinical diabetes and asymptomatic hyperglycemia to risk of coronary heart disease in men and women</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">H</forename><surname>Pan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">B</forename><surname>Cedres</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Liu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">123</biblScope>
+			<biblScope unit="page" from="504" to="516" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m">National Diabetes Information Clearinghouse. Bethesda: The Clearinghouse; 1999. NIH publication</title>
+				<imprint>
+			<biblScope unit="page" from="99" to="3926" />
+		</imprint>
+	</monogr>
+	<note>Diabetes statistics</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Insulin resistance and its consequences: non-insulin dependent diabetes mellitus and coronary heart</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Reaven</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Diabetes mellitus: a fundamental and clinical text</title>
+				<editor>
+			<persName><forename type="first">D</forename><surname>Leroith</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">S</forename><forename type="middle">I</forename><surname>Taylor</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Olefsky</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Philadelphia: Lippincott-Raven</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1996">1996</date>
+			<biblScope unit="page" from="500" to="519" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Rapid rise in the incidence of type 2 diabetes from 1987 to 1996: results from the San Antonio Heart Study</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Burke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Gaskill</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">159</biblScope>
+			<biblScope unit="page" from="1450" to="1456" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Prevalence of diabetes, impaired fasting glucose, and impaired glucose tolerance in US adults: the Third National Health and Nutrition Examination Survey</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">I</forename><surname>Harris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Flegal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Cowie</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="518" to="524" />
+			<date type="published" when="1988">1988-1994. 1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Asymptomatic hyperglycemia in coronary heart disease: frequency and associated lipid and lipoprotein levels in the Bezafibrate Infarction Prevention (BIP) register</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Behar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Boyko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Benderly</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Cardiovasc Risk</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="241" to="246" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Hyperglycaemia as a risk factor for coronary heart disease</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">H</forename><surname>Epstein</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Monogr Atheroscler</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="92" to="97" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Cardiovascular risk profile in individuals with borderline glycemia</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Lim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Tai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">Y</forename><surname>Tan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="278" to="282" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Does hyperglycemia really cause coronary heart disease?</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Barrett-Connor</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="1620" to="1623" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">High glucose concentration is a risk factor for mortality in middle-aged non-diabetic men</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Balkau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Shipley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Jarrett</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="360" to="374" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">The importance of hyperglycemia in the nonfasting state to the development of cardiovascular disease</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Haffner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Endocr Rev</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="583" to="592" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Differences in cardiovascular morbidity and mortality between previously known and newly diagnosed adult diabetics</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Herman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Medalie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Goldbourt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="229" to="234" />
+			<date type="published" when="1977">1977</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Type-2 (non-insulin dependent) diabetes mellitus and cardiovascular disease-putative association via common antecedents: further evidence from the Whitehall Study</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Jarrett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Shipley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="737" to="740" />
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Fasting blood glucose: an underestimated risk for cardiovascular death</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">V</forename><surname>Bjornholt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Erikssen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Aaser</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="45" to="49" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">The relationship between glucose and incident cardiovascular events</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Coutinho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Gerstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="233" to="240" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Glucose tolerance and mortality: comparison of WHO and American Diabetes Association criteria</title>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">354</biblScope>
+			<biblScope unit="page" from="617" to="621" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+		<respStmt>
+			<orgName>DECODE Study Group</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">New diagnostic criteria for diabetes: are they doing what they should?</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Davies</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">354</biblScope>
+			<biblScope unit="page" from="610" to="611" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Relationship of glucose and insulin levels to the risk of myocardial infarction: a case-control study</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Gerstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Pais</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Pogue</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Coll Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="612" to="619" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<author>
+			<persName><forename type="first">Jacob</forename><surname>Agmon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Solomon</forename><surname>Md</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Behar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Avraham</forename><surname>Md</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Shotan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Uri</forename><surname>Md</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Goldbourt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Eran</forename><surname>Phd</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Graff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Eliezer</forename><surname>Phd</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Kaplinsky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yehezkiel</forename><surname>Md</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Kishon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Henrietta</forename><surname>Md</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Reicher-Reiss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Joshua</forename><surname>Waysbort</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Daniel</forename><surname>Brunner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Centers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">;</forename><surname>Md</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Aharon</forename><surname>Friedenson</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Md; Barzilai Medical</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ashkelon: Leonardo</forename><surname>Center</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Reisin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jamal</forename><surname>Jafari</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Md; Beilinson Medical</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Petach</forename><surname>Center</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Tikva: Samuel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Sclarovsky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yaakov</forename><surname>Friedman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bruno</forename><surname>Ostfeld</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Haifa: Edward</forename><surname>Md; Bnei-Zion Hospital</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Abinader</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Shmuel</forename><surname>Rochfleish</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Md; Carmel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Haifa: Abraham</forename><surname>Hospital</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Palant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hanan</forename><surname>Schneider</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Md; Central Haemek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Afula: Tiberio</forename><surname>Hospital</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Rosenfeld</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Suleiman</forename><surname>Khalid</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Md; Edith Wolfson Medical</forename><surname>Center</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Responsible Investigators and Physicians: Assaf Harofe Hospital</title>
+				<editor>
+			<persName><forename type="first">Shlomo</forename><surname>Laniado</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Libi</forename><surname>Md</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Sherf</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Shimon</forename><surname>Md</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Braun</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Yemima</forename><surname>Eschar</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename></persName>
+		</editor>
+		<meeting><address><addrLine>Holon; Hadera; Joseph Pardu, MD, and Jacob Galamidi, MD; Tel-Aviv</addrLine></address></meeting>
+		<imprint>
+			<publisher>Benyamin Pelled MD</publisher>
+		</imprint>
+	</monogr>
+	<note>Sourasky Medical Center</note>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<author>
+			<persName><forename type="first">Kaplan</forename><surname>Hospital</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Caspi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alexander</forename><surname>Arditi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Shulamit</forename><surname>Md</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Botwin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lydia</forename><surname>Md</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Arkavi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Moshe</forename><surname>Ziv</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Md; Meir</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Hospital</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Sapir Medical</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kfar-Saba: Daniel</forename><surname>Center</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>David</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Daniel</forename><surname>Weisenberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mira</forename><surname>Md</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Kohanovski</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Md; Naharia</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Hospital</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Tzfat: Alon Marmour</title>
+				<meeting><address><addrLine>Naharia: Nathan Rougin, MD, and Alicia Glusman-Vazan, MD; Haifa; MD, and Diav Motlak, MD; MD, Michael Flich, MD, and Rachel Solomon, MD</addrLine></address></meeting>
+		<imprint>
+			<publisher>Walter Markiewitz</publisher>
+		</imprint>
+	</monogr>
+	<note>Rivka Ziv Hospital</note>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Shaare Zedek Medical</forename><surname>Center</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jerusalem: Dan</forename><surname>Tzivoni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jonathan</forename><surname>Balkin</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Md; Sheba Medical</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tel</forename><surname>Center</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Hashomer: Babeth Rabinowitz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Eddy</forename><surname>Barasch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Zohar</forename><surname>Brill</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Md; Soroka Medical</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Center</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sheba ; Alexander</forename><surname>Be'er</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Battler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Noa</forename><surname>Liel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bronislav</forename><surname>Tsatskis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Review and Advisory Board: Gerd Assmann</title>
+		<imprint/>
+	</monogr>
+	<note>and James Schoenberger, MD. Principal Investigators</note>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Steering Committee: Members of the Scientific Committee and Directors of Participating Centers</title>
+		<author>
+			<persName><forename type="first">Daniel</forename><surname>Brunner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jacob</forename><surname>Md</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Agmon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Elieser</forename><surname>Kaplinsky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Scientific Committee: Jacob Agmon</title>
+				<meeting><address><addrLine>MD, Israel Bar Yehuda, Solomon Behar, MD, Daniel Brunner, MD (chairman), Avraham Caspi, MD, Uri Goldbourt, PhD, Eran Graff, PhD, Elieser Kaplinsky, MD, Yehezekiel Kishon, MD, P. Dieter Lang, MD, Henrietta Reicher-Reiss, MD, Avraham Shotan, MD, Joachim Vollmar, MSc, and Joshua Waysbort, MD</addrLine></address></meeting>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,933 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Postchallenge Glucose, A1C, and Fasting Glucose as Predictors of Type 2 Diabetes and Cardiovascular Disease A 10-year prospective cohort study</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2010-06-23">23 June 2010</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><roleName>MD</roleName><forename type="first">Henna</forename><surname>Cederberg</surname></persName>
+							<email>henna.cederberg@oulu.fi.</email>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Institute of Health Sciences</orgName>
+								<orgName type="department" key="dep2">Faculty of Medicine</orgName>
+								<orgName type="institution">University of Oulu</orgName>
+								<address>
+									<settlement>Oulu</settlement>
+									<country key="FI">Finland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Tuula</forename><surname>Saukkonen</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Institute of Health Sciences</orgName>
+								<orgName type="department" key="dep2">Faculty of Medicine</orgName>
+								<orgName type="institution">University of Oulu</orgName>
+								<address>
+									<settlement>Oulu</settlement>
+									<country key="FI">Finland</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">Oulu Occupational Health Centre</orgName>
+								<address>
+									<settlement>Hallituskatu, Oulu</settlement>
+									<country key="FI">Finland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Mauri</forename><surname>Laakso</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Institute of Health Sciences</orgName>
+								<orgName type="department" key="dep2">Faculty of Medicine</orgName>
+								<orgName type="institution">University of Oulu</orgName>
+								<address>
+									<settlement>Oulu</settlement>
+									<country key="FI">Finland</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Unit of General Practice</orgName>
+								<orgName type="institution">Oulu University Hospital</orgName>
+								<address>
+									<settlement>Oulu</settlement>
+									<country key="FI">Finland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MSC</roleName><forename type="first">Jari</forename><surname>Jokelainen</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Institute of Health Sciences</orgName>
+								<orgName type="department" key="dep2">Faculty of Medicine</orgName>
+								<orgName type="institution">University of Oulu</orgName>
+								<address>
+									<settlement>Oulu</settlement>
+									<country key="FI">Finland</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Unit of General Practice</orgName>
+								<orgName type="institution">Oulu University Hospital</orgName>
+								<address>
+									<settlement>Oulu</settlement>
+									<country key="FI">Finland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Härk</forename><surname>Pirjo</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MNSC</roleName><surname>Önen</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="institution">Oulu Deaconess Institute/Diapolis Oy Research Unit</orgName>
+								<address>
+									<settlement>Oulu</settlement>
+									<country key="FI">Finland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Markku</forename><surname>Timonen</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Institute of Health Sciences</orgName>
+								<orgName type="department" key="dep2">Faculty of Medicine</orgName>
+								<orgName type="institution">University of Oulu</orgName>
+								<address>
+									<settlement>Oulu</settlement>
+									<country key="FI">Finland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Sirkka</forename><surname>Keinänen-Kiukaanniemi</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Institute of Health Sciences</orgName>
+								<orgName type="department" key="dep2">Faculty of Medicine</orgName>
+								<orgName type="institution">University of Oulu</orgName>
+								<address>
+									<settlement>Oulu</settlement>
+									<country key="FI">Finland</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Unit of General Practice</orgName>
+								<orgName type="institution">Oulu University Hospital</orgName>
+								<address>
+									<settlement>Oulu</settlement>
+									<country key="FI">Finland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Ulla</forename><surname>Rajala</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Institute of Health Sciences</orgName>
+								<orgName type="department" key="dep2">Faculty of Medicine</orgName>
+								<orgName type="institution">University of Oulu</orgName>
+								<address>
+									<settlement>Oulu</settlement>
+									<country key="FI">Finland</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="department">Diabetes Unit</orgName>
+								<orgName type="institution">Oulu Health Center</orgName>
+								<address>
+									<settlement>Saaristonkatu, Oulu</settlement>
+									<country key="FI">Finland</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Postchallenge Glucose, A1C, and Fasting Glucose as Predictors of Type 2 Diabetes and Cardiovascular Disease A 10-year prospective cohort study</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2010-06-23">23 June 2010</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">C4F7CE738144D4CA04909F6C44000360</idno>
+					<idno type="DOI">10.2337/dc10-0262</idno>
+					<note type="submission">Received 9 February 2010 and accepted 16 June 2010.</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.1" ident="GROBID" when="2022-07-19T22:44+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>OBJECTIVE -A1C has been proposed as a new indicator for high risk of type 2 diabetes. The long-term predictive power and comparability of elevated A1C with the currently used high-risk indicators remain unclear. We assessed A1C, impaired glucose tolerance (IGT), and impaired fasting glucose (IFG) as predictors of type 2 diabetes and cardiovascular disease (CVD) at 10 years. Finland, born in 1935Finland, born in  , was conducted between 1996Finland, born in   and 2008.  .   An oral glucose tolerance test (OGTT) was conducted at baseline and follow-up, and A1C was determined at baseline. Those with a history of diabetes were excluded from the study. Elevated A1C was defined as 5.7-6.4%. Incident type 2 diabetes was confirmed by two OGTTs. Cardiovascular outcome was measured as incident CVD or CVD mortality. Multivariate log-binomial regression models were used to predict diabetes, CVD, and CVD mortality at 10 years. Receiver operating characteristic curves compared predictive values of A1C, IGT, and IFG.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESEARCH DESIGN AND METHODS -This prospective population-based study of 593 inhabitants from northern</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head><p>-Incidence of diabetes during the follow-up was 17.1%. Two of three of the cases of newly diagnosed diabetes were predicted by a raise in Ն1 of the markers. Elevated A1C, IGT, or IFG preceded diabetes in 32.8, 40.6, and 21.9%, respectively. CVD was predicted by an intermediate and diabetic range of 2-h glucose but only by diabetic A1C levels in women.</p><p>CONCLUSIONS -A1C predicted 10-year risk of type 2 diabetes at a range of A1C 5.7-6.4% but CVD only in women at A1C Ն6.5%.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>arly detection of high risk for type 2 diabetes is fundamental for prevention of diabetes and associated cardiovascular complications. Impaired fasting glucose (IFG) and impaired glucose tolerance (IGT) are currently used for diagnosis of high-risk glucose levels below the diabetic range. The International Expert Committee proposed A1C Ն6.5% as a diagnostic tool for diabetes in 2009 <ref type="bibr" target="#b0">(1)</ref> and in January 2010 an intermediate range of A1C 5.7-6.4% (elevated A1C) was proposed by the American Diabetes Association (ADA) to detect individuals at high risk for developing type 2 diabetes (2).</p><p>To date, however, limited data exist to support the use of A1C in predicting type 2 diabetes <ref type="bibr" target="#b2">(3)</ref><ref type="bibr" target="#b3">(4)</ref><ref type="bibr" target="#b4">(5)</ref><ref type="bibr" target="#b5">(6)</ref><ref type="bibr" target="#b7">(7)</ref><ref type="bibr" target="#b8">(8)</ref>. Importantly, the long-term predictive power of elevated A1C as defined above has not yet been investigated. Previous data on the association between A1C and incident type 2 diabetes in unselected populations have relied on self-reporting, fasting glucose measurements, and use of antidiabetes medication to determine the outcomes. An oral glucose tolerance test (OGTT) has not been used to determine the outcome <ref type="bibr" target="#b2">(3)</ref><ref type="bibr" target="#b3">(4)</ref><ref type="bibr" target="#b4">(5)</ref><ref type="bibr" target="#b5">(6)</ref><ref type="bibr" target="#b7">(7)</ref><ref type="bibr" target="#b8">(8)</ref>.</p><p>Deterioration of glucose homeostasis reflects a continuum of glycemia, some of which is reversible if detected early <ref type="bibr" target="#b9">(9,</ref><ref type="bibr" target="#b10">10)</ref>. Importantly, the risk of cardiovascular disease is increased already before glycemia reaches the levels of diabetes, and 2-h glucose appears to be a better predictor of cardiovascular disease (CVD) than fasting glucose <ref type="bibr" target="#b11">(11)</ref>. Recently, A1C was shown to be a better predictor of CVD than fasting glucose <ref type="bibr" target="#b12">(12)</ref>.</p><p>Data directly comparing 2-h glucose and A1C as long-term predictors of newonset cardiovascular disease are scarce, and results are controversial <ref type="bibr" target="#b13">(13,</ref><ref type="bibr" target="#b14">14)</ref>. Therefore, we compared A1C, 2-h glucose, and fasting glucose as predictors of type 2 diabetes, CVD, and CVD mortality during a prospective population-based study with a 10-year follow-up.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESEARCH DESIGN AND</head><p>METHODS -This study conducted in 1996 -2008 is part of a longer follow-up study assessing type 2 diabetes and IGT, in which all inhabitants of city of Oulu, Finland, born in 1935 were invited to participate. Between 1996 and 1998, 831 were invited, of whom 593 (245 men) enrolled. Formation of the study population is shown in Fig. <ref type="figure" target="#fig_0">1</ref>. Recruitment process and methods have been described previously <ref type="bibr" target="#b15">(15)</ref>. Type 2 diabetes was confirmed by two diabetic 2-h and/or fasting values. There were no significant differences in sex, baseline glucose status, anthropometric measurements, blood pressure, or lipid profile between the participants and nonparticipants. A higher prevalence of current smoking was observed among nonparticipants (28.9 vs. </p><formula xml:id="formula_0">• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •</formula><p>14.0%; P Ͻ 0.05). The study protocol was approved by the Ethics Committee of the Faculty of Medicine, University of Oulu, Oulu, Finland.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Procedures</head><p>A standardized 75-g OGTT was performed in <ref type="bibr">1996 -1998 and 2007-2008</ref>. After a 12-h overnight fast, venous blood samples were drawn between 8:00 and 10:00 AM for fasting glucose and also for A1C at baseline. After ingestion of a 75-g liquid glucose load, a blood sample was drawn for 2-h glucose. At baseline, the fasting value was determined from whole blood and 2-h glucose was determined from a capillary sample in accordance with contemporary guidelines <ref type="bibr" target="#b16">(16)</ref>. Capillary samples were analyzed immediately after collection. At follow-up, venous plasma, drawn in containers with glycolytic inhibitors and centrifuged immediately to separate plasma, according to the World Health Organization (WHO) 2006 recommendations <ref type="bibr" target="#b17">(17)</ref>, was used for both glucose measurements. Glucose concentration was determined using the hexokinaseglucose-6-phosphate dehydrogenase method. A1C was analyzed with a Bayer DCA2000 analyzer, calibrated to the Diabetes Control and Complications Trial standard <ref type="bibr" target="#b18">(18)</ref>.</p><p>Clinical examination was conducted by a trained research nurse. Height (centimeters) and weight (kilograms) were measured with the individual in light clothing, and BMI (weight in kilograms divided by the square of height in meters) was calculated. Participants completed questionnaires on smoking, alcohol consumption, and exercise. Smoking was quantified (number of cigarettes and years smoked), and smoking status was classified into current or nonsmokers. Alcohol consumption was quantified (units per week), and alcohol status was classified as abstainer or user. Exercise behavior was determined by asking participants about the frequency and duration of exercise and was classified as active or inactive, as described elsewhere <ref type="bibr" target="#b19">(19)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Cardiovascular and mortality outcomes</head><p>Incidence of CVD and CVD mortality was evaluated from date of the baseline OGTT in 1996 -1998 to 1 May 2009. Cardiovascular diagnoses (coded according to ICD-10: I00 -I99) were obtained from the Oulu University Hospital discharge register for inpatient and outpatient visits. The prevalence of CVD was self-reported by participants at baseline. All participants live in the catchment area of the same tertiary care center, and any cardiovascular symptoms requiring hospital care were thus treated in the same center. Information on deaths was obtained from official death certificates (obtained from Statistics, Finland), coded according to ICD-10.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analysis</head><p>Glucose tolerance status was classified according to the WHO 1999 criteria <ref type="bibr" target="#b16">(16)</ref>. Because of the low number of individuals with combined IFG and IGT, this group was included in the IGT group for analysis. Baseline characteristics of groups were compared with t tests and the Mann-Whitney U test, where appropriate. Categorical variables, presented as percentages, were compared with a 2 test. Associations between fasting and 2-h glucose, A1C and incident type 2 diabetes, and CVD were analyzed with log-binomial regression. Crude and adjusted relative risks with 95% CI are presented. Predictive properties of fasting and 2-h glucose and A1C for incident type 2 diabetes were evaluated with receiver operating characteristic curves. Areas under the receiver operating characteristic curves (AUCs) were calculated and compared with a nonparametric method <ref type="bibr" target="#b20">(20)</ref>. All data were analyzed with Stata (version 11MP).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head><p>-Breakdown of glucose tolerance status of the cohort at baseline was 74.1, 18.7, 7.2, and 2.7% for normal glucose tolerance, IGT, IFG, and combined IGT and IFG, respectively. During the follow-up (mean Ϯ SD time of 9.7 Ϯ 0.7 years), incidence of type 2 diabetes was 17.1% (n ϭ 64).</p><p>Characteristics of the cohort at baseline and follow-up are shown (Table <ref type="table" target="#tab_2">1</ref>). Participants who developed type 2 diabetes had higher fasting glucose, 2-h glucose, and A1C at baseline (P Ͻ 0.0001) and higher BMI at baseline (P Ͻ 0.0005) compared with those who remained nondiabetic.</p><p>The proportion of individuals who developed diabetes during the follow-up was similar in all groups (37.8% of subjects with IFG, 37.1% with IGT, and 37.5% with elevated A1C, respectively). Crude risk ratios (RRs) of risk of diabetes were relatively similar for IFG (RR Breakdown of type 2 diabetes as predicted by the three tests is illustrated in Fig. <ref type="figure" target="#fig_1">2</ref>. In total, 65.7% of the cases of newly diagnosed diabetes were predicted by a raise in Ն1 markers at baseline. The most common condition to precede diabetes was IGT (40.6%), followed by elevated A1C (32.8%), followed by IFG (21.9%). An elevation in an isolated marker predicted type 2 diabetes in a remarkable number of subjects. Percentages of isolated IGT, isolated elevated A1C, and isolated IFG preceding diabetes were 23.4, 14.1% and 6.3%, respectively (P ϭ 0.31). A relatively small percentage of cases of diabetes were preceded by a combination of two markers, with all three elevated in only 7.8% of participants who developed diabetes. Specificity of IGT, IFG, and A1C for incident type 2 diabetes was 85.9 -92.6% (Fig. <ref type="figure" target="#fig_2">3</ref>). AUC ranged from 0.69 for 2-h glucose to 0.61 for fasting glucose (P ϭ 0.36 for equality).</p><p>Total incidence of new CVD was 37.6% and according to sex, 34.3% in women and 42.7% in men. In women, 32% with A1C 5.7-6. <ref type="bibr" target="#b3">4</ref>   <ref type="bibr" target="#b21">(21,</ref><ref type="bibr" target="#b22">22)</ref>. The pathophysiology of isolated IFG includes reduced hepatic insulin sensitivity, ␤-cell dysfunction, and reduced ␤-cell mass <ref type="bibr" target="#b23">(23)</ref>. With isolated IGT, peripheral insulin sensitivity is reduced with a near-normal hepatic insulin sensitivity and progressive loss of ␤-cell function <ref type="bibr" target="#b23">(23)</ref>. In contrast with acute-phase markers, A1C is a widely used marker of chronic glycemia, reflecting average blood glucose levels over 2-3 months.</p><p>Our results lend support to the recent suggestion that an intermediate range of A1C may indicate high risk for type 2 diabetes (2), particularly if combined with fasting glucose <ref type="bibr" target="#b2">(3,</ref><ref type="bibr" target="#b7">7)</ref>. The range of A1C used in previous studies assessing the risk of future diabetes has varied, and elevated risk has been shown in ranges between 5.5 and 6.5% <ref type="bibr" target="#b5">(6,</ref><ref type="bibr" target="#b8">8)</ref>. A1C of 5.6 -6.4% carried a hazard ratio of 13.7 for use of antidiabetes drug treatment at 3 years in Japanese <ref type="bibr" target="#b8">(8)</ref>, lending support to our findings in a similar range, but with a markedly longer follow-up period in our study. To our knowledge, this is the first longitudinal study of the nondiabetic A1C range and incident type 2 diabetes, as measured by an OGTT, in which the recently proposed A1C range of 5.7-6.4% has been evaluated.</p><p>Here, A1C, IGT, and IFG were all specific, but not sensitive, predictors of 10year risk of type 2 diabetes. The proportion of participants who developed diabetes with IGT, elevated A1C, and IFG was observed to be similar, approximately one-third. IGT had the highest prevalence in this population, and thus the actual number of participants who developed diabetes was greatest in the IGT group. It has also been observed in the National Health and Nutrition Examination Surveys that the 2-h glucose value is more sensitive for detecting impaired glucose regulation and type 2 diabetes in elderly individuals <ref type="bibr" target="#b24">(24)</ref>.</p><p>The ultimate importance of a predictive test for type 2 diabetes is determined by its ability to indicate high risk for CVD. Risk of CVD is increased already before glycemia reaches levels of diabetes, and 2-h glucose seems to be a better predictor of CVD than fasting glucose <ref type="bibr" target="#b11">(11)</ref>.</p><p>Longitudinal data on cardiovascular risk comparing 2-h glucose and A1C in the nondiabetic range have been scarce, and results are controversial. An association was observed between 2-h glucose and, to lesser extent, between A1C and cardiovascular mortality in Dutch adults <ref type="bibr" target="#b14">(14)</ref>, but in U.S. adults, A1C was a better predictor of CVD than postchallenge glucose in women without diabetes <ref type="bibr" target="#b13">(13)</ref>. Cardiovascular mortality, however, is a late end point, and we therefore examined the incidence of new-onset CVD. In our study IGT was the only marker in the nondiabetic range significantly associated with incident CVD in women. A1C was significantly associated with incident CVD in women in the higher range of Ն6.5%. To our knowledge, this is the first longitudinal report comparing elevated A1C as defined by the recently proposed ADA criteria and 2-h glucose at a nondiabetic level as predictors of new-onset CVD.</p><p>Hyperglycemia was a risk factor for CVD in women but not in men, independent of BMI, smoking, blood pressure, lipids, and family history of diabetes in this age-standardized cohort. Our finding of CVD risk conveyed by hyperglycemia in women but not in men is consistent with previous data <ref type="bibr" target="#b13">(13,</ref><ref type="bibr" target="#b25">25)</ref>, but the reason for it remains unclear <ref type="bibr" target="#b25">(25)</ref>.</p><p>Our study has several strengths. Diagnosis of CVD was confirmed from tertiary care hospital records. The broad range of CVD included coronary heart disease, ischemic stroke, carotid artery disease, and peripheral vascular disease (ICD-10 codes I00 -I99). Incident diabetes was a clinical diagnosis, confirmed by two results. We investigated the predic-tive power of elevated A1C using the criteria recently proposed by the ADA.</p><p>Findings from this study are, however, limited because of its aging Caucasian population and generalizing them must be done with caution. Baseline CVD status was self-reported, and mild degrees of CVD cannot be excluded. We were unable to analyze CVD mortality in relation to glycemic subgroups because of the low numbers. Because samples for glucose measurements were drawn in accordance with the contemporary guidelines (WHO 1999 and WHO 2006, respectively) <ref type="bibr" target="#b16">(16,</ref><ref type="bibr" target="#b17">17)</ref>, capillary samples were used for 2-h glucose at baseline, but plasma was used at follow-up. It is recognized that capillary samples in the nonfasting state will give slightly higher results than venous samples <ref type="bibr" target="#b17">(17)</ref>, but the effect at the population level, with values used only for classification of glucose status and not measuring an absolute change in glucose, is likely to be marginal.</p><p>In summary, A1C and 2-h glucose, but not fasting glucose, were associated with incident CVD in women, but not in men. Among women with screendetected diabetes, both A1C and 2-h glucose were significant predictors of incident diagnosis of CVD. Finally, among nondiabetic women, 2-h glucose was the only glycemic marker significantly associated with incident CVD.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 -</head><label>1</label><figDesc>Figure 1-Formation of the study population for diabetes and CVD analysis.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2 -</head><label>2</label><figDesc>Figure 2-Venn diagram representing the percentage of elevated A1C, IGT, and IFG at baseline among participants who developed diabetes during the 10-year follow-up (n ϭ 64). Area outside the circles indicates those with no elevated markers at baseline. Percentages in brackets indicateparticipants with either an isolated marker or a combination of markers. Surface area of region is proportional to the percentage.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 3 -</head><label>3</label><figDesc>Figure3-Receiver operating characteristic curves for IGT, elevated A1C, and IFG. Sensitivity (Sens) and specificity (Spec) were calculated for A1C 5.7% and lower limits of IFG and IGT. For 2-h glucose AUC ϭ 0.689, for A1C AUC ϭ 0.659, and for fasting glucose AUC ϭ 0.612. For differences between AUCs, P ϭ 0.359. F, 2-h glucose; ‫,ء‬ A1C; ‚, fasting glucose.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 1 -Characteristics of the cohort by sex at baseline (1996 -1998) and at follow-up (2007-2008)</head><label>1</label><figDesc>and 100% with A1C Ն6.5% developed CVD (RR 0.96 [95% CI 0.62-1.49] and 2.99 [2.50 -</figDesc><table><row><cell>Men</cell><cell>Women</cell><cell>P value</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">DIABETES CARE, VOLUME 33, NUMBER 9, SEPTEMBER 2010 care.diabetesjournals.org</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">care.diabetesjournals.org DIABETES CARE, VOLUME 33, NUMBER 9, SEPTEMBER 2010</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgments -No potential conflicts</head></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>of interest relevant to this article were reported.</p><p>H.C. contributed to data collection, analyzed data, wrote the manuscript, and revised/ edited the manuscript. T.S., J.J., and M.T. analyzed data, wrote the manuscript, and revised/edited the manuscript. M.L., S.K-K., and U.R. designed the study, sought approval for the study, contributed to data collection, analyzed data, wrote the manuscript, and revised/ edited the manuscript. P.H. contributed to data collection, wrote the manuscript, and revised/edited the manuscript.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">International Expert Committee report on the role of the A1C assay in the diagnosis of diabetes</title>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="1327" to="1334" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Diagnosis and classification of diabetes mellitus</title>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="S62" to="S67" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note>Suppl. 1</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Use of HbA1c in predicting progression to diabetes in French men and women: data from an Epidemiological Study on the Insulin Resistance Syndrome (DESIR)</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Droumaguet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Balkau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Simon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Caces</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tichet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Charles</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Eschwege</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="1619" to="1625" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Utility of hemoglobin A1c in predicting diabetes risk</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Edelman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Olsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">K</forename><surname>Dudley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Harris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">Z</forename><surname>Oddone</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Gen Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="1175" to="1180" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Combined use of fasting plasma glucose and HbA1c predicts the progression to diabetes in Chinese subjects</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">T</forename><surname>Ko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Chan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">W</forename><surname>Tsang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Cockram</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="1770" to="1773" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">Ridker Figure 4-Percentage of participants with incident cardiovascular disease and RR (95% CI) of cardiovascular disease in women and men according to glucose status at baseline</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>Pradhan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Rifai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Buring</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>n ϭ 516</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Hemoglobin A1c predicts diabetes but not cardiovascular disease in nondiabetic women</title>
+		<author>
+			<persName><surname>Pm</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Med</title>
+		<imprint>
+			<biblScope unit="volume">120</biblScope>
+			<biblScope unit="page" from="720" to="727" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Combined measurement of fasting plasma glucose and A1C is effective for the prediction of type 2 diabetes: the Kansai Healthcare Study</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">K</forename><surname>Sato</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Hayashi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Harita</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Yoneda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Nakamura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Endo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Kambe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="644" to="646" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Hemoglobin A1c (HbA1c) predicts future drug treatment for diabetes mellitus: a follow-up study using routine clinical data in a Japanese university hospital</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Shimazaki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Kadowaki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Ohyama</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ohe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kubota</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Transl Res</title>
+		<imprint>
+			<biblScope unit="volume">149</biblScope>
+			<biblScope unit="page" from="196" to="204" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Prevention of type 2 diabetes mellitus by changes in lifestyle among subjects with impaired glucose tolerance</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tuomilehto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lindstro ¨m</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Eriksson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">T</forename><surname>Valle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ha ¨ma ¨la ¨inen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Ilanne-Parikka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Keina ¨nen-Kiukaanniemi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Laakso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Louheranta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rastas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Salminen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Uusitupa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">344</biblScope>
+			<biblScope unit="page" from="1343" to="1350" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Diabetes Prevention Program (DPP) Research Group. The Diabetes Prevention Program (DPP): description of lifestyle intervention</title>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="2165" to="2171" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Glucose tolerance and mortality: comparison of WHO and American Diabetes Association diagnostic criteria. The DECODE study group</title>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">354</biblScope>
+			<biblScope unit="page" from="617" to="621" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+	<note>European Diabetes Epidemiology Group. Diabetes Epidemiology: Collaborative analysis of Diagnostic criteria in Europe</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Glycated hemoglobin, diabetes, and cardiovascular risk in nondiabetic adults</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Selvin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">W</forename><surname>Steffes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Zhu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Matsushita</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Wagenknecht</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Pankow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Coresh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">L</forename><surname>Brancati</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">362</biblScope>
+			<biblScope unit="page" from="800" to="811" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">GHb is a better predictor of cardiovascular disease than fasting or postchallenge plasma glucose in women without diabetes. The Rancho Bernardo Study</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Barrett-Connor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Wingard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Shan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Edelstein</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="450" to="456" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Hyperglycaemia is associated with allcause and cardiovascular mortality in the Hoorn population: the Hoorn Study</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>De Vegt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Dekker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">´hg</forename><surname>Ruhe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Stehouwer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Nijpels</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Bouter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Heine</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="926" to="931" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Keina ¨nen-Kiukaanniemi S. Low insulin sensitivity measured by both quantitative insulin sensitivity check index and homeostasis model assessment method as a risk factor of increased intima-media thickness of the carotid artery</title>
+		<author>
+			<persName><forename type="first">U</forename><surname>Rajala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Laakso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Pa</forename><surname>¨iva ¨nsalo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Pelkonen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Suramo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Endocrinol Metab</title>
+		<imprint>
+			<biblScope unit="volume">87</biblScope>
+			<biblScope unit="page" from="5092" to="5097" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Definition, diagnosis and classification of diabetes mellitus and its complications. Part 1: diagnosis and classification of diabetes mellitus provisional report of a WHO consultation</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">G</forename><surname>Alberti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">Z</forename><surname>Zimmet</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabet Med</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="539" to="553" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title level="m" type="main">World Health Organization. Definition and Diagnosis of Diabetes Mellitus and Intermediate Hyperglycemia: Report of a WHO/IDF Consultation</title>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<pubPlace>Geneva, Switzerland, World Health Organization</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Consensus statement on the worldwide standardization of the hemoglobin A1C measurement: the American Diabetes Association, European Association for the Study of Diabetes, International Federation of Clinical Chemistry and Laboratory Medicine, and the International Diabetes Federation</title>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="2399" to="2400" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Prevalence of diabetes mellitus and impaired glucose tolerance in a middle-aged Finnish population</title>
+		<author>
+			<persName><forename type="first">U</forename><surname>Rajala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Keina ¨nen-Kiukaanniemi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Uusima ¨ki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Reijula</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">¨sl</forename><surname>Kivela</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Scand J Prim Health Care</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="222" to="228" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Comparing the areas under two or more correlated receiver-operating characteristic curves; a nonparametric approach</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">R</forename><surname>Delong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Delong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Clarke</forename><surname>Pearson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biometrics</title>
+		<imprint>
+			<biblScope unit="page" from="837" to="845" />
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Insulin sensitivity, insulin release and glucagon-like peptide-1 levels in persons with impaired fasting glucose and/or impaired glucose tolerance in the EUGENE2 study</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Laakso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Zilinskaite</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Hansen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">W</forename><surname>Boesgaard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Va ¨nttinen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">´a</forename><surname>Stanca ´kova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Jansson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">´f</forename><surname>Pellme</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Holst</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Kuulasmaa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Hribal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Sesti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Stefan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Fritsche</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ha ¨ring</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Pedersen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Smith</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="page" from="502" to="511" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Impaired fasting glucose and impaired glucose tolerance: implications for care</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Nathan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Davidson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Defronzo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Heine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Henry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Pratley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Zinman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="753" to="759" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Pathophysiology and aetiology of impaired fasting glycaemia and impaired glucose tolerance: does it matter for prevention and treatment of type 2 diabetes?</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Faerch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Borch-Johnsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Holst</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Vaag</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="1714" to="1723" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Full accounting of diabetes and pre-diabetes in the U.S. population in 1988</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Cowie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">F</forename><surname>Rust</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Ford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Eberhardt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">D</forename><surname>Byrd-Holt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">W</forename><surname>Gregg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">E</forename><surname>Bainbridge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Saydah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">S</forename><surname>Geiss</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="287" to="294" />
+			<date type="published" when="1994">1994 and 2005-2006. 2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Gender difference in all-cause and cardiovascular mortality related to hyperglycaemia and newly-diagnosed diabetes</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Hu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="608" to="617" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>
