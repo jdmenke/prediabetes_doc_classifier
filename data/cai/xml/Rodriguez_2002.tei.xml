@@ -1,0 +1,783 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">The American Diabetes Association and World Health Organization Classifications for Diabetes</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><roleName>MD</roleName><forename type="first">Beatriz</forename><forename type="middle">L</forename><surname>Rodriguez</surname></persName>
+							<email>beatriz@phri.hawaii-health.com.</email>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Division of Clinical Epidemiology</orgName>
+								<orgName type="department" key="dep2">Departments of Geriatric Medicine and Public Health Sciences</orgName>
+								<orgName type="institution" key="instit1">John A. Burns School of Medicine</orgName>
+								<orgName type="institution" key="instit2">University of Hawaii at Manoa</orgName>
+								<orgName type="institution" key="instit3">the Pacific Health Research Institute and the Kuakini Medical Center</orgName>
+								<address>
+									<settlement>Honolulu</settlement>
+									<region>Hawaii</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>PHD</roleName><forename type="first">Robert</forename><forename type="middle">D</forename><surname>Abbott</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Division of Biostatistics and Epidemiology</orgName>
+								<orgName type="institution">University of Virginia School of Medicine</orgName>
+								<address>
+									<settlement>Charlottesville</settlement>
+									<region>Virginia</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Wilfred</forename><surname>Fujimoto</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department" key="dep1">Department of Medicine</orgName>
+								<orgName type="department" key="dep2">Division of Metabolism, Endocrinology and Nutrition</orgName>
+								<orgName type="institution">University of Washington</orgName>
+								<address>
+									<settlement>Seattle</settlement>
+									<region>Washington</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Beth</forename><surname>Waitzfelder</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Division of Clinical Epidemiology</orgName>
+								<orgName type="department" key="dep2">Departments of Geriatric Medicine and Public Health Sciences</orgName>
+								<orgName type="institution" key="instit1">John A. Burns School of Medicine</orgName>
+								<orgName type="institution" key="instit2">University of Hawaii at Manoa</orgName>
+								<orgName type="institution" key="instit3">the Pacific Health Research Institute and the Kuakini Medical Center</orgName>
+								<address>
+									<settlement>Honolulu</settlement>
+									<region>Hawaii</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MS</roleName><forename type="first">Randi</forename><surname>Chen</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Division of Clinical Epidemiology</orgName>
+								<orgName type="department" key="dep2">Departments of Geriatric Medicine and Public Health Sciences</orgName>
+								<orgName type="institution" key="instit1">John A. Burns School of Medicine</orgName>
+								<orgName type="institution" key="instit2">University of Hawaii at Manoa</orgName>
+								<orgName type="institution" key="instit3">the Pacific Health Research Institute and the Kuakini Medical Center</orgName>
+								<address>
+									<settlement>Honolulu</settlement>
+									<region>Hawaii</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Kamal</forename><surname>Masaki</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Division of Clinical Epidemiology</orgName>
+								<orgName type="department" key="dep2">Departments of Geriatric Medicine and Public Health Sciences</orgName>
+								<orgName type="institution" key="instit1">John A. Burns School of Medicine</orgName>
+								<orgName type="institution" key="instit2">University of Hawaii at Manoa</orgName>
+								<orgName type="institution" key="instit3">the Pacific Health Research Institute and the Kuakini Medical Center</orgName>
+								<address>
+									<settlement>Honolulu</settlement>
+									<region>Hawaii</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Irwin</forename><surname>Schatz</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Division of Clinical Epidemiology</orgName>
+								<orgName type="department" key="dep2">Departments of Geriatric Medicine and Public Health Sciences</orgName>
+								<orgName type="institution" key="instit1">John A. Burns School of Medicine</orgName>
+								<orgName type="institution" key="instit2">University of Hawaii at Manoa</orgName>
+								<orgName type="institution" key="instit3">the Pacific Health Research Institute and the Kuakini Medical Center</orgName>
+								<address>
+									<settlement>Honolulu</settlement>
+									<region>Hawaii</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Helen</forename><surname>Petrovitch</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Division of Clinical Epidemiology</orgName>
+								<orgName type="department" key="dep2">Departments of Geriatric Medicine and Public Health Sciences</orgName>
+								<orgName type="institution" key="instit1">John A. Burns School of Medicine</orgName>
+								<orgName type="institution" key="instit2">University of Hawaii at Manoa</orgName>
+								<orgName type="institution" key="instit3">the Pacific Health Research Institute and the Kuakini Medical Center</orgName>
+								<address>
+									<settlement>Honolulu</settlement>
+									<region>Hawaii</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Webster</forename><surname>Ross</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Veterans Affairs</orgName>
+								<address>
+									<settlement>Honolulu</settlement>
+									<region>Hawaii</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Katsuhiko</forename><surname>Yano</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Division of Clinical Epidemiology</orgName>
+								<orgName type="department" key="dep2">Departments of Geriatric Medicine and Public Health Sciences</orgName>
+								<orgName type="institution" key="instit1">John A. Burns School of Medicine</orgName>
+								<orgName type="institution" key="instit2">University of Hawaii at Manoa</orgName>
+								<orgName type="institution" key="instit3">the Pacific Health Research Institute and the Kuakini Medical Center</orgName>
+								<address>
+									<settlement>Honolulu</settlement>
+									<region>Hawaii</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Patricia</forename><forename type="middle">L</forename><surname>Blanchette</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Division of Clinical Epidemiology</orgName>
+								<orgName type="department" key="dep2">Departments of Geriatric Medicine and Public Health Sciences</orgName>
+								<orgName type="institution" key="instit1">John A. Burns School of Medicine</orgName>
+								<orgName type="institution" key="instit2">University of Hawaii at Manoa</orgName>
+								<orgName type="institution" key="instit3">the Pacific Health Research Institute and the Kuakini Medical Center</orgName>
+								<address>
+									<settlement>Honolulu</settlement>
+									<region>Hawaii</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">J</forename><surname>David Curb</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Division of Clinical Epidemiology</orgName>
+								<orgName type="department" key="dep2">Departments of Geriatric Medicine and Public Health Sciences</orgName>
+								<orgName type="institution" key="instit1">John A. Burns School of Medicine</orgName>
+								<orgName type="institution" key="instit2">University of Hawaii at Manoa</orgName>
+								<orgName type="institution" key="instit3">the Pacific Health Research Institute and the Kuakini Medical Center</orgName>
+								<address>
+									<settlement>Honolulu</settlement>
+									<region>Hawaii</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">•</forename><surname>• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff4">
+								<orgName type="institution">Pacific Health Research Institute</orgName>
+								<address>
+									<addrLine>846 S. Hotel St, Suite 306</addrLine>
+									<postCode>96813</postCode>
+									<settlement>Honolulu</settlement>
+									<region>HI</region>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">The American Diabetes Association and World Health Organization Classifications for Diabetes</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">B6D5E471E84B5B2400698F98F45167E9</idno>
+					<note type="submission">Received for publication 26 October 2001 and accepted in revised form 12 March 2002.</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.1" ident="GROBID" when="2022-07-19T23:01+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>ADA, American Diabetes Association</term>
+					<term>OGTT, oral glucose tolerance test</term>
+					<term>RR, relative risk</term>
+					<term>WHO, World Health Organization</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>OBJECTIVE -To compare the prevalence of diabetes according to the American Diabetes Association (ADA) and World Health Organization (WHO) classifications in a sample of elderly Japanese-American men; to examine the association with total and cardiovascular mortality by diabetes status using both classifications; and to determine whether the fasting or 2-h glucose measurement is a stronger predictor of adverse outcomes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESEARCH DESIGN AND METHODS</head><p>-Examinations given from 1991 to 1993 in the Honolulu Heart Program were used as baseline for these analyses. Subjects were 71-93 years of age at that time and were followed for total and cardiovascular disease mortality for up to 7 years.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head><p>-A total of ϳ66% of individuals who had diabetes by WHO criteria were missed when the ADA definition was used. The relative risks of total and cardiovascular mortality for those with versus those without diabetes were similar for both definitions; however, when fasting and postload glucose measures were analyzed as continuous variables, the 2-h measurement was a superior predictor and was independent of fasting glucose. In contrast, fasting glucose was not an independent predictor of these outcomes in the presence of the 2-h measurement.</p><p>CONCLUSIONS -The prevalence of glucose metabolism abnormalities was very high among elderly Japanese-American men. The WHO classification was superior to the ADA classification in identification of subjects at high risk for adverse outcomes. Therefore, we conclude that the 2-h glucose measurement is valuable and should be retained in epidemiologic studies.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>P</head><p>revious research has shown that Asian-Americans have rates of diabetes that are at least two to three times higher than Caucasians (1,2). Dia-betes and glucose intolerance have been established as major risk factors for cardiovascular disease and total mortality in the Honolulu Heart Program and other middle-aged populations (3-9). During the last few years, several reports have compared the prevalence of diabetes and cardiovascular risk factors using the World Health Organization (WHO) 1998 (10) and American Diabetes Association (ADA) 1997 ( <ref type="formula">11</ref>) classifications <ref type="bibr" target="#b1">(12)</ref><ref type="bibr" target="#b2">(13)</ref><ref type="bibr" target="#b3">(14)</ref><ref type="bibr" target="#b4">(15)</ref><ref type="bibr" target="#b5">(16)</ref><ref type="bibr" target="#b7">(17)</ref><ref type="bibr" target="#b8">(18)</ref><ref type="bibr" target="#b9">(19)</ref><ref type="bibr" target="#b10">(20)</ref><ref type="bibr" target="#b11">(21)</ref>. Most of these studies have shown that substantially more subjects with diabetes are identified when the 2-h postload glucose is used in addition to the fasting glucose and suggest that there is value in using the postload measurement. There is also ongoing debate as to whether the WHO (1998) classification for diabetes, which considers both the fasting and the 2-h postload glucose measurement of an oral glucose tolerance test (OGTT), is a better predictor for adverse outcomes compared with the classification recommended by the ADA (1997), which relies on the fasting glucose measurement alone. The DECODE <ref type="bibr">(7,</ref><ref type="bibr" target="#b12">22)</ref> and Cardiovascular Health <ref type="bibr" target="#b13">(23,</ref><ref type="bibr" target="#b14">24)</ref> studies suggest that the OGTT provides additional predictive information for mortality and cardiovascular disease, respectively. However, the Hoorn study found that the two classifications were equally predictive of mortality <ref type="bibr" target="#b15">(25)</ref>. None of these studies examined the relative contribution of the fasting and 2-h glucose measurements as continuous variables. Research has also shown that progression to diabetes is common in subjects with postload hyperglycemia and a normal fasting glucose <ref type="bibr" target="#b16">(26)</ref>. On the other hand, obtaining only a fasting measurement is clearly much easier and less costly in epidemiologic studies.</p><p>The objectives of this project were 1) to compare the prevalence of diabetes and glucose intolerance using the ADA (1997) and the WHO (1998) classifications in a sample of elderly Japanese-American men; 2) to examine the associations of diabetes and glucose intolerance with total and cardiovascular disease mortality using both classifications; and 3) to determine whether the fasting or 2-h glucose measurement treated as a continuous variable was a stronger predictor of both total and cardiovascular disease mortality.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESEARCH DESIGN AND METHODS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study design</head><p>In 1965, the Honolulu Heart Program began investigating the reported differences in rates of heart disease and stroke between Japanese individuals living in Japan, Hawaii, and the U.S. mainland. The study enrolled 8,006 Japanese-American men aged 45-68 years who had no cardiovascular diseases and who were living on Oahu in 1965. The present analyses involve a subset of men examined during 1991-1993, at which time they were aged 71-93 years. A total of 80% of all survivors of the original cohort were examined (n ϭ 3,741). This examination of the Honolulu Heart Program was undertaken as a collaborative effort of the National Heart, Lung, and Blood Institute and the National Institute on Aging to examine all Honolulu Heart Program survivors in a study of dementia, cardiovascular disease, diabetes, and other conditions affecting elderly individuals.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data collection</head><p>Longitudinal follow-up for total and cardiovascular disease mortality was based on a hospital surveillance system, review of death records, periodic examination, and an autopsy study. Details of the surveillance methods have been described elsewhere <ref type="bibr" target="#b17">(27)</ref>. The present analyses include up to 7 years of follow-up for total mortality and up to 6 years of follow-up for cardiovascular disease mortality. Cardiovascular disease mortality includes stroke, coronary heart disease, and sudden death of unknown cause occurring in Ͻ1 h.</p><p>The baseline examination included demographics, lifestyle factors (smoking, alcohol consumption, and physical activity), medical history, medication use, and psychosocial information as well as anthropometric, physiologic, and laboratory measurements including glucose, lipids, fibrinogen, and others.</p><p>Blood specimens were collected after a recommended overnight fast of 12 h. After the fasting specimen was collected, a standard 75-g oral glucose load was administered, and a second blood specimen was collected 2 h later. The OGTT was offered to participants who were examined at the clinic, were not taking insulin, and did not report the following conditions: active ulcer, stomach resection, stomach cancer, and severely elevated blood pressure (systolic Ͼ200 mmHg or diastolic Ͼ115 mmHg). A total of 2,034 subjects who had both fasting and 2-h postload glucose measurements and who were not taking medications for diabetes were the subjects included in the present analyses. There were 412 subjects (11% of the overall population, n ϭ 3,741) who reported taking medications for diabetes, and they were excluded from analyses. Glucose levels were measured at the University of Washington (Diabetes Endocrinology Research Center Core Radioimmunoassay Laboratory, Seattle, WA) after continuous storage of serum at -70°C for Յ2 years. Other details of the data collection have been reported elsewhere <ref type="bibr" target="#b18">(28)</ref>.</p><p>Glucose tolerance was classified using either the ADA or the WHO classification. The ADA classification uses only the fast-ing blood sample to classify the fasting glucose level as normal (glucose Ͻ6.1 mmol/l), impaired (glucose 6.1-6.9 mmol/l), or diabetes (glucose Ն7.0 mmol/l). The WHO classification uses both the fasting and the 2-h blood samples to classify glucose tolerance as normal (fasting glucose Ͻ6.1 and 2-h glucose Ͻ7.8 mmol/l), impaired (impaired fasting glucose 6.1-6.9 and 2 h Ͻ7.8 mmol/l, or impaired glucose tolerance, fasting Ͻ7.0 and 2-h glucose 7.8 -11.0 mmol/l), and diabetes (fasting glucose Ն7.0 or 2-h glucose Ն11.1 mmol/l).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical methods</head><p>Among the 2,034 subjects included in the analyses, 358 died; in 103 of these cases, death was due to cardiovascular causes. The age-adjusted total mortality rates were calculated based on the fasting glucose as well as the 2-h glucose measurement. Multivariate Cox proportional hazards models were used to estimate the relative risk using the normal group as the reference. The covariates included age, BMI, waist-to-hip ratio, physical activity, hypertension, triglycerides, HDL cholesterol, and fibrinogen. The relative risk of total and cardiovascular disease mortality for men at the 80th versus the 20th percentile for fasting (6.4 and 5.3 mmol/l) and 2-h (11.7 and 6.5 mmol/l) glucose measurements were calculated using multivariate Cox proportional hazards models, after adjusting for other risk factors and the other glucose variable simultaneously. Glucose measurements were treated as continuous variables. <ref type="table" target="#tab_0">1</ref> shows that the number of individuals classified as normal by the ADA classification was more than double that classified by the WHO classification. Similarly, 66% of those diagnosed as having diabetes by the WHO classification were classified as normal when using the ADA definition. Analyses were limited to subjects with a complete OGTT who were not taking medications for diabetes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS -Table</head><p>Figure <ref type="figure" target="#fig_0">1</ref> shows the age-adjusted mortality rates by fasting and 2-h glucose level. In general, the mortality rates increase with increasing fasting glucose. However, among subjects with fasting glucose Ͻ6.1 mmol/l, we found a near twofold excess mortality rate among those with 2-h glucose level Ն11.1 mmol/l compared with those with 2-h glucose level Ͻ11.1 mmol/l. In fact, the group with normal fasting and 2-h glucose Ն11.1 mmol/l had the highest mortality of all groups in this elderly population (n ϭ 182).</p><p>Table <ref type="table" target="#tab_1">2</ref> shows the risk factoradjusted relative risk (RR) for total and cardiovascular mortality by diabetes status, after excluding individuals taking medications for diabetes or with an incomplete OGTT. We found that diabetes based on the ADA or the WHO classifications similarly predicted total and cardiovascular disease mortality after risk factor adjustment. In addition, (data not shown in Table <ref type="table" target="#tab_1">2</ref>) subjects taking medications for diabetes also showed an increased risk for total and cardiovascular disease mortality compared with subjects with normal values according to the ADA and the WHO criteria as the reference group, respectively (RR for total mortality was 2.2 by ADA and 2.5 by WHO criteria, and the RR for cardiovascular disease mortality was 2.6 by ADA and 3.4 by WHO criteria for the reference group). The increased risk among subjects with diabetes taking medications compared with untreated or unrecognized diabetes is presumably due to the longer duration of the disease.</p><p>Table <ref type="table" target="#tab_2">3</ref> shows that when fasting and 2-h glucose measurements are included in the models simultaneously as continuous variables and after adjusting for other risk factors such as age, BMI, waist-to-hip ratio, physical activity, hypertension, triglycerides, HDL cholesterol, and fibrinogen, the 2-h glucose measurement was a superior predictor and was independent of fasting glucose, both for total as well as for cardiovascular disease mortality in this elderly group. The present data indicate that fasting glucose contributed nothing to relative risk if the 2-h measurement was used.</p><p>CONCLUSIONS -The present investigation suggests that the prevalence of glucose metabolism abnormalities is very high among elderly Japanese-American men. Overall, 18% of this population re-ported diabetes by history or use of medication. There are large differences in the prevalence of diabetes, impaired glucose tolerance and/or impaired fasting glucose, and normal status, depending on which classification is used. The ADA classification, using fasting glucose only, results in 66% fewer subjects with unrecognized or untreated diabetes and more than twice the number of normal subjects (33 vs. 69%) in this sample of elderly men. It seems that these discrepancies are common, especially in studies that include elderly individuals (17); however, the difference observed in this study is larger than in any other population described in the literature.  The Honolulu Heart Program data show that subjects taking medications for diabetes as well as those with unrecognized and untreated diabetes are at significantly increased risk of total and cardiovascular disease mortality compared with normal subjects. No significant associations were observed for impaired glucose tolerance or impaired fasting glucose in this elderly group. Similar relative risks were observed regardless of which classification was used (WHO versus ADA). However, the absolute numbers of persons who would be identified as being at high risk are vastly different. The ADA criteria, which uses fasting glucose only, fails to identify a large number of subjects (66% of subjects with diabetes) who are at high risk. We also observed a disproportionately high mortality rate among subjects with fasting glucose Ͻ7.0 and 2-h glucose Ն11.1 mmol/l; ϳ9% of the subjects fall into this category.</p><p>The results shown here are somewhat different from previous Honolulu Heart Program reports, which were based on data collected in 1965 with 23 years of follow-up. Analyses based on those data found glucose intolerance to be a significant predictor of coronary heart disease, stroke, and total mortality, in addition to known and unrecognized diabetes (3,8,9). However, the data presented here are not directly comparable, because the glucose level obtained in 1965 was based on a 50-g, nonfasting, 1-h postload glucose measurement, which was the standard measurement obtained in epidemiologic studies at that time. Also, previous analyses were based on substantially longer follow-up and a much younger age group. This is the first report from the Honolulu Heart Program to examine results from a 75-g OGTT applying the WHO and ADA criteria, in relation to subsequent outcomes in an elderly cohort.</p><p>In this investigation, we also analyzed the data treating the fasting and 2-h glucose measurements as continuous variables. We found that the 2-h measurement, supported by the WHO but not by the ADA, is a superior predictor of total and cardiovascular disease mortality compared with fasting glucose alone. The 2-h measurement has an effect on total and cardiovascular disease mortality that is independent of the fasting glucose value in this elderly population, whereas fasting glucose is not independent of the 2-h value. Fasting glucose levels contribute nothing to relative risk if the 2-h glucose is used. The difference in the results, based on categorical versus continuous analyses observed, suggests that the application of the current cutoff points in the ADA and WHO guidelines must be reevaluated. To our knowledge, this is the first study to examine fasting and 2-h glucose measurements as continuous variables in an elderly cohort in order to assess their relative role as predictors of total and cardiovascular mortality. Our findings suggest that future research must be conducted to define more appropriate cutoff points for diabetes, impaired fasting glucose, and impaired glucose tolerance categories, for different ethnic groups, ages, and sexes. Currently, however, it is important to retain the 2-h glucose measurements, especially in epidemiologic studies, until these discrepancies can be sorted out. Undoubtedly, these discrepancies are explained by the fact that hyperglycemia is due to a combination of insulin resistance, hepatic glucose overproduction, and impaired ␤-cell function, and the relationship and combination of each of these factors with complications associated with diabetes. </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 -</head><label>1</label><figDesc>Figure 1-Age-adjusted mortality rates by glucose levels. *Number of subjects and percent in each category (total number ϭ 2,034).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 -Glucose metabolism status by ADA and WHO classifications in subjects who did not take medication for diabetes</head><label>1</label><figDesc>Data are n or %. Subjects with complete OGGT and not taking diabetes medications (n ϭ 2,034). IGT/IFG, impaired glucose tolerance and/or impaired fasting glucose.</figDesc><table><row><cell></cell><cell></cell><cell cols="2">WHO</cell><cell></cell></row><row><cell></cell><cell>Normal</cell><cell>IFG/IGT</cell><cell>Diabetes</cell><cell></cell></row><row><cell>ADA</cell><cell>(n ϭ 678)</cell><cell>(n ϭ 840)</cell><cell>(n ϭ 516)</cell><cell>Percentage</cell></row><row><cell>Normal (n ϭ 1,404)</cell><cell>678</cell><cell>544</cell><cell>182</cell><cell>69.03</cell></row><row><cell>Impaired fasting glucose (n ϭ 455)</cell><cell>0</cell><cell>296</cell><cell>159</cell><cell>22.37</cell></row><row><cell>Diabetes (n ϭ 175)</cell><cell>0</cell><cell>0</cell><cell>175</cell><cell>8.60</cell></row><row><cell>Percentage</cell><cell>33.33</cell><cell>41.3</cell><cell>25.37</cell><cell>100</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 -Risk factor* adjusted relative risk for total and cardiovascular disease mortality by glucose metabolism status</head><label>2</label><figDesc></figDesc><table><row><cell>ADA (1997)</cell><cell>WHO (1998)</cell><cell>2-h OGTT only</cell></row></table><note>*Data are n (range). Adjusted for age, BMI, waist-to-hip ratio, physical activity, hypertension, triglycerides, HDL cholesterol, fibrinogen; †IGT/IFG, impaired glucose tolerance and/or impaired fasting glucose; ‡unrecognized or untreated diabetes; §P Ͻ 0.05. Subjects taking medications for diabetes or with incomplete OGTT were excluded. A total of 358 deaths during follow-up, including 103 cardiovascular deaths (n ϭ 2,034).</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3 -Relative risk of total and cardiovascular disease mortality at 80th versus 20th percentile for fasting and 2-h postload glucose</head><label>3</label><figDesc>Chiu D, Yano K: Glucose intolerance and 22-year stroke incidence: the Honolulu Heart Program. Stroke 25: 951-957, 1994 9. Curb JD, Rodriguez BL, Burchfiel CM, Abbott RD, Chiu D, Yano K: Sudden death, impaired glucose tolerance and diabetes in Japanese American men. Circulation 91:2591-2595, 1995 10. Alberti KG, Zimmet PZ: Definition, diagnosis and classification of diabetes mellitus and its complications: diagnosis and classification of diabetes mellitus: provisional report of a WHO consultation. Diabet Med 15:539 -553, 1998 11. The Expert Committee on the Diagnosis and Classification of Diabetes Mellitus: Report of the Expert Committee on the Diagnosis and Classification of Diabetes Mellitus. Diabetes Care 20:1183-1197, 1997 Data are n (range). *Adjusted for age, BMI, waist-to-hip ratio, physical activity, hypertension, triglycerides, HDL cholesterol, fibrinogen, and the other glucose measurement; †P Ͻ 0.05, n ϭ 2,034. Subjects taking medications for diabetes or with incomplete OGTT were excluded. A total of 358 deaths during follow-up, including 103 cardiovascular deaths.</figDesc><table><row><cell>betes and cardiovascular disease risk fac-</cell></row><row><cell>tor profiles in the elderly: the Honolulu</cell></row><row><cell>Heart Program. Diabetes Care 19:587-</cell></row><row><cell>590, 1996</cell></row><row><cell>2. Sloan NR: Ethnic distribution of diabetes</cell></row><row><cell>mellitus in Hawaii. JAMA 183:419 -424,</cell></row><row><cell>1963</cell></row><row><cell>3. Rodriguez BL, Lau N, Burchfiel C, Abbott</cell></row><row><cell>RD, Sharp DS, Yano K, Curb JD: Glucose</cell></row><row><cell>intolerance and 23-year risk of coronary</cell></row><row><cell>heart disease and total mortality. Diabetes</cell></row><row><cell>Care 22:1262-1265, 1999</cell></row><row><cell>4. Grundy SM, Benjamin IJ, Burke GL: Dia-</cell></row><row><cell>betes and cardiovascular disease: a state-</cell></row><row><cell>ment for health care professionals from</cell></row><row><cell>the AHA. Circulation 100:1134-1146, 1999</cell></row><row><cell>5. Tominaga M, Eguchi H, Manaka H, Iga-</cell></row><row><cell>rashi K, Kato T, Sekikawa A: Impaired</cell></row><row><cell>glucose tolerance is a risk factor for car-</cell></row><row><cell>diovascular disease, but not impaired fast-</cell></row><row><cell>ing glucose: the Funagata Diabetes Study.</cell></row><row><cell>Diabetes Care 6:920 -924, 1999</cell></row><row><cell>6. Perry RC, Baron AD: Impaired glucose</cell></row><row><cell>tolerance: why is it not a disease? (Letter).</cell></row><row><cell>Diabetes Care 22:883-885, 1999</cell></row><row><cell>7. The DECODE Study Group: Glucose</cell></row><row><cell>tolerance and mortality: comparison of</cell></row><row><cell>WHO and American Diabetes Association</cell></row><row><cell>diagnostic criteria. Lancet 354:617-621,</cell></row><row><cell>1999</cell></row><row><cell>8. Burchfiel CM, Curb JD, Rodriguez BL,</cell></row><row><cell>Abbott RD,</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">DIABETES CARE, VOLUME 25, NUMBER 6, JUNE 2002</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Acknowledgments -This work was supported by contract NO1-HC-05102 (Honolulu Heart Program) and grant UO1HL56274 from the National Heart, Lung, and Blood Institute and by contract NO1-AG-4-2149 (Honolulu-Asia Aging Study) from the National Institute on Aging.</p></div>
+			</div>
+
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">L</forename><surname>Rodriguez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Curb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Burchfiel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Sharp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">Y</forename><surname>Lu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Fujimoto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Yano</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>Impaired glucose tolerance, dia-</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Comparison of glucose tolerance categories according to the World Health Organization and American Diabetes Association diagnostic criteria in a population-based study in Brazil: the Japanese-Brazilian Diabetes Study Group</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">G</forename><surname>Gimeno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Ferreira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">J</forename><surname>Franco</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Iunes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="1889" to="1892" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Use of the 1997 American Diabetes Association diagnostic criteria for diabetes in a Hong Kong Chinese population</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">T</forename><surname>Ko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Chan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Woo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Cockram</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="2094" to="2097" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Comparison of glucose tolerance categories in the Korean population according to the World Health Organization and American Diabetes Association diagnostic criteria</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">S</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">J</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">W</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Shin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Koh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">Y</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">K</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">K</forename><surname>Lee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Korean J Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">American Diabetes Association diabetes diagnostic criteria, advancing age, and cardiovascular disease risk profiles: results from the third National Health and Nutrition Examination Survey</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">E</forename><surname>Resnick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">I</forename><surname>Harris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Brock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">B</forename><surname>Harris</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="176" to="180" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">Cardiovascular risk profile in individuals with borderline glycemia: the effect of the 1997 American Diabetes Association diagnostic criteria and the</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Lim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Tai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">Y</forename><surname>Tan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Chew</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Tan</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">World Health Organization Provisional Report. Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="278" to="282" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Diabetes in older adults: comparison of 1997 American Diabetes Association classification of diabetes mellitus with 1985 WHO classification</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">W</forename><surname>Wahl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Savage</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">M</forename><surname>Psaty</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Orchard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Robbins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Tracy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">352</biblScope>
+			<biblScope unit="page" from="1012" to="1015" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Comparison of WHO and ADA criteria for diagnosis of glucose status in adults</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Metcalf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Scragg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Res Clin Pract</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="169" to="180" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">The prevalence of diabetes, association with cardiovascular risk factors and implications of diagnostic criteria (ADA 1997 and WHO 1998) in a 1996 community-based population study in Hong Kong Chinese</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">D</forename><surname>Janus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">M</forename><surname>Watt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">S</forename><surname>Lam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Cockram</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">T</forename><surname>Siu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">J</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">H</forename><surname>Lam</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabet Med</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="741" to="745" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Abnormal glucose tolerance and increased risk for cardiovascular disease in Japanese-Americans with normal fasting glucose</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Liao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Shofer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Boyko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Mcneely</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Leonetti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Kahn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">Y</forename><surname>Fujimoto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="39" to="44" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">The new classification of diabetes mellitus and IGT: a critical approach</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Borch-Johnsen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Exp Clin Endocrinol Diabetes</title>
+		<imprint>
+			<biblScope unit="volume">109</biblScope>
+			<biblScope unit="page" from="S86" to="S93" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+	<note>Suppl. 2</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Diagnostic criteria of glucose intolerance and mortality</title>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Qiao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tuomilehto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Minerva Med</title>
+		<imprint>
+			<biblScope unit="volume">92</biblScope>
+			<biblScope unit="page" from="113" to="119" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Cardiovascular disease in older adults with glucose disorders: comparison of American Diabetes Association criteria for diabetes mellitus with WHO criteria</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">I</forename><surname>Barzilay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">F</forename><surname>Spiekerman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">W</forename><surname>Wahl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">H</forename><surname>Kuller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Cushman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Furberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Dobs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Polak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Savage</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">354</biblScope>
+			<biblScope unit="page" from="622" to="625" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">New Diagnostic criteria for diabetes: are they doing what they should?</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Davies</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">354</biblScope>
+			<biblScope unit="page" from="610" to="611" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Similar 9-year mortality risks and reproducibility for the World Health Organization and American Diabetes Association glucose tolerance categories: the Hoorn Study</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>De Vegt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Dekker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Stehouwer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Nijpels</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Bouter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Heine</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="40" to="44" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Risk of diabetes in the new diagnostic category of impaired fasting glucose</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Vaccaro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Ruffa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Imperatore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Iovino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Rivellese</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Riccardi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="1490" to="1493" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Ten year incidence of coronary heart disease in the Honolulu Heart Program: relationship to biological and lifestyle characteristics</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Yano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Reed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Mcgee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">119</biblScope>
+			<biblScope unit="page" from="653" to="666" />
+			<date type="published" when="1984">1984</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Cardiovascular risk factors and hyperinsulinemia in elderly men: the Honolulu Heart Program</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Burchfiel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Curb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Arakaki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Abbott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Sharp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">L</forename><surname>Rodriguez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Yano</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="490" to="497" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

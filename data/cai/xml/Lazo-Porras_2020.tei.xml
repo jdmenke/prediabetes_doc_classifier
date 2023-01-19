@@ -1,0 +1,993 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Research: Epidemiology Intermediate hyperglycaemia and 10-year mortality in resource-constrained settings: the PERU MIGRANT Study</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">M</forename><surname>Lazo-Porras</surname></persName>
+							<idno type="ORCID">0000-0003-0062-5476</idno>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">CRONICAS Centre of Excellence in Chronic Diseases</orgName>
+								<orgName type="institution" key="instit2">Universidad Peruana Cayetano Heredia</orgName>
+								<address>
+									<settlement>Lima</settlement>
+									<country key="PE">Peru</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Division of Tropical and Humanitarian Medicine</orgName>
+								<orgName type="institution">Geneva University Hospitals and University of Geneva</orgName>
+								<address>
+									<settlement>Geneva</settlement>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">A</forename><surname>Ruiz-Alejos</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">CRONICAS Centre of Excellence in Chronic Diseases</orgName>
+								<orgName type="institution" key="instit2">Universidad Peruana Cayetano Heredia</orgName>
+								<address>
+									<settlement>Lima</settlement>
+									<country key="PE">Peru</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department" key="dep1">Autonomic Dysfunction Centre</orgName>
+								<orgName type="department" key="dep2">Department of Medicine</orgName>
+								<orgName type="institution">Vanderbilt University Medical Centre</orgName>
+								<address>
+									<region>TN</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Miranda</surname></persName>
+							<idno type="ORCID">0000-0002-4738-5468</idno>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">CRONICAS Centre of Excellence in Chronic Diseases</orgName>
+								<orgName type="institution" key="instit2">Universidad Peruana Cayetano Heredia</orgName>
+								<address>
+									<settlement>Lima</settlement>
+									<country key="PE">Peru</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">School of Medicine</orgName>
+								<orgName type="institution">Universidad Peruana Cayetano Heredia</orgName>
+								<address>
+									<settlement>Lima</settlement>
+									<country key="PE">Peru</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Carrillo-Larco</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">CRONICAS Centre of Excellence in Chronic Diseases</orgName>
+								<orgName type="institution" key="instit2">Universidad Peruana Cayetano Heredia</orgName>
+								<address>
+									<settlement>Lima</settlement>
+									<country key="PE">Peru</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="department" key="dep1">Department of Epidemiology and Biostatistics</orgName>
+								<orgName type="department" key="dep2">School of Public Health</orgName>
+								<orgName type="institution">Imperial College London</orgName>
+								<address>
+									<settlement>London</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Gilman</surname></persName>
+							<affiliation key="aff5">
+								<orgName type="department">Department of International Health</orgName>
+								<orgName type="institution" key="instit1">Bloomberg School of Public Health</orgName>
+								<orgName type="institution" key="instit2">Johns Hopkins University</orgName>
+								<address>
+									<settlement>Baltimore</settlement>
+									<region>MD</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">L</forename><surname>Smeeth</surname></persName>
+							<affiliation key="aff6">
+								<orgName type="department" key="dep1">Faculty of Epidemiology and Population Health</orgName>
+								<orgName type="department" key="dep2">School of Hygienel and Tropical Medicine</orgName>
+								<address>
+									<settlement>London, London</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">A</forename><surname>Bernab E-Ortiz</surname></persName>
+							<idno type="ORCID">0000-0002-6834-1376</idno>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">CRONICAS Centre of Excellence in Chronic Diseases</orgName>
+								<orgName type="institution" key="instit2">Universidad Peruana Cayetano Heredia</orgName>
+								<address>
+									<settlement>Lima</settlement>
+									<country key="PE">Peru</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Antonio</forename><surname>Bernabe-Ortiz</surname></persName>
+						</author>
+						<title level="a" type="main">Research: Epidemiology Intermediate hyperglycaemia and 10-year mortality in resource-constrained settings: the PERU MIGRANT Study</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">AA20D9A4CC1F2FD81E835BEF64FD8D43</idno>
+					<idno type="DOI">10.1111/dme.14298</idno>
+					<note type="submission">Accepted 13 March 2020</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.1" ident="GROBID" when="2022-07-19T23:01+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Aim To determine whether intermediate hyperglycaemia, defined by fasting plasma glucose and HbA 1c criteria, is associated with mortality in a 10-year cohort of people in a Latin American country.</p><p>Methods Analysis of the PERU MIGRANT Study was conducted in three different population groups (rural, rural-to-urban migrant, and urban). The baseline assessment was conducted in 2007/2008, with follow-up assessment in 2018. The outcome was all-cause mortality, and the exposure was intermediate hyperglycaemia, using three definitions: (1) impaired fasting glucose, defined according to American Diabetes Association criteria [fasting plasma glucose 5.6-6.9 mmol/l (100-125 mg/ dl)]; (2) intermediate hyperglycaemia defined according to American Diabetes Association criteria [HbA 1c levels 39-46 mmol/mol (5.7-6.4%)]; and (3) intermediate hyperglycaemia defined according to the International Expert Committee criteria [HbA 1c levels 42-46 mmol/mol (6.0-6.4%)]. Crude and adjusted hazard ratios and 95% CIs were estimated using Cox proportional hazard models.</p><p>Results At baseline, the mean (SD) age of the study population was 47.8 (11.9) years and 52.5% of the cohort were women. The study cohort was divided into population groups as follows: 207 people (20.0%) in the rural population group, 583 (59.7%) in the rural-to-urban migrant group and 198 (20.3%) in the urban population group. The prevalence of intermediate hyperglycaemia was: 6%, 12.9% and 38.5% according to the American Diabetes Association impaired fasting glucose definition, the International Expert Committee HbA 1c -based definition and the American Diabetes Association HbA 1c -based definition, respectively, and the mortality rate after 10 years was 63/976 (7%). Intermediate hyperglycaemia was associated with all-cause mortality using the HbA 1c -based definitions in the crude models [hazard ratios 2.82 (95% CI 1.59-4.99) according to the American Diabetes Association and 2.92 (95% CI 1.62-5.28) according to the International Expert Committee], whereas American Diabetes Association-defined impaired fasting glucose was not [hazard ratio 0.84 (95% CI 0.26-2.68)]. In the adjusted model, however, only the American Diabetes Association HbA 1c -based definition was associated with all-cause mortality [hazard ratio 1.91 (95% CI 1.03-3.53)], whereas the International Expert Committee HbA 1c -based and American Diabetes Association impaired fasting glucose-based definitions were not [hazard ratios 1.42 (95% CI 0.75-2.68) and 1.09 (95% CI 0.33-3.63), respectively].</p><p>Conclusions Intermediate hyperglycaemia defined using the American Diabetes Association HbA 1c criteria was associated with an elevated mortality rate after 10 years in a cohort from Peru. HbA 1c appears to be a factor associated with mortality in this Peruvian population.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>Type 2 diabetes mellitus is a major public health burden: 80% of cases are in low-and middle-income countries and the economic burden and mortality rate are higher in these settings than in high-income countries <ref type="bibr" target="#b0">[1]</ref>. Intermediate hyperglycaemia is an important risk factor for diabetes, but the proportion of people with this condition varies according to the definition used <ref type="bibr" target="#b1">[2]</ref>. The relevance of the term 'intermediate hyperglycaemia' is therefore debated because of the arbitrary cut-off points used in its definition <ref type="bibr" target="#b2">[3]</ref>.</p><p>The association between diabetes and mortality is well known and may vary according to age, cardiovascular disease, renal complications and glycaemic control <ref type="bibr" target="#b3">[4]</ref>; however, there is debate regarding the association of intermediate hyperglycaemia and mortality. A systematic review and meta-analysis including 53 cohorts, totalling more than 1.5 million individuals, found that intermediate hyperglycaemia definitions that use impaired fasting glucose (IFG), defined according to the American Diabetes Association (ADA) criteria [fasting plasma glucose (FPG) 5.6-6.9 mmol/l (100-125 mg/dl)] and WHO criteria [FPG 6.1-6.9 mmol/l (110-125 mg/dl)], or use impaired glucose tolerance [IGT, defined as 2-h plasma glucose 7.8-11.0 mmol/l (140-199 mg/ dl)] were associated with all-cause mortality. This was not the case when the ADA HbA 1c -based [HbA 1c : 39-47 mmol/ mol (5.7-6.4%)] or the International Expert Committee (IEC) HbA 1c -based definitions of intermediate hyperglycaemia [HbA 1c 42-47 mmol/mol (6.0-6.4%)] were used <ref type="bibr" target="#b4">[5]</ref>. In addition, a study in Taiwan found that IFG defined according to the WHO was associated with an increase in cardiovascular disease and/or diabetes mortality; however, using the ADA's definition of IFG, the number of people was four times greater, but there was a lower mortality risk <ref type="bibr" target="#b5">[6]</ref>.</p><p>As far as we are aware, no study has reported on the association of intermediate hyperglycaemia with mortality in a Latin American country. However, recent studies have highlighted the higher mortality risk attributable to type 2 diabetes in Latin American countries compared to highincome countries, as shown in a recent systematic review <ref type="bibr" target="#b6">[7]</ref>. It is therefore important to assess whether impaired fasting glucose, impaired glucose tolerance or intermediate hyperglycaemia, defined according to HbA 1c levels, are associated with mortality in these populations. The results of the present study should contribute to the worldwide evidence of intermediate hyperglycaemia and its relevance as a predictor of mortality. The aim of this study was to determine the association of intermediate hyperglycaemia status, assessed using three different definitions (IFG based on the ADA criteria, the ADA HbA 1c -based definition and the IEC HbA 1cbased definition), with 10-year mortality in a Latin American country. Additionally, we explored the associations of different definitions of type 2 diabetes with mortality.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study design, setting and participants</head><p>A new analysis of the PERU MIGRANT Study was conducted to evaluate mortality 10 years after baseline. The baseline assessment was conducted in 2007-2008 and the follow-up in 2018.</p><p>The study population was categorized into three groups: urban, rural-to-urban migrants, and rural. A single-stage random sampling method was used in the three population groups and the sample was stratified by sex and age (30-39, 40-49, 50-59 and ≥60 years). Urban participants were born and currently lived in Pampas de San Juan de Miraflores, a peri-urban shantytown in Lima, the capital city, during the baseline assessment. Rural participants were selected from the adult population permanently living in San Jose de Secce in Ayacucho (3239 m above sea level). Rural-to-urban migrants lived in Pampas de San Juan de Miraflores and were born in Ayacucho, Peru. There was no overlap between the three population groups as the selection criteria were based on two factors: (1) place of birth and (2) place of residence.</p><p>The PERU MIGRANT Study settings and the characteristics of the enrolled participants have been described in detail elsewhere <ref type="bibr" target="#b7">[8]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Follow-up assessment</head><p>At the 10-year follow-up the vital status of participants (dead or alive) was recorded using their National Identifier Number, which was verified in the national records using the National Registry of Identification and Civil Status (RENIEC) information. For this assessment, surviving participants were not directly contacted as only vital status and date of death or censoring was required. If a participant had died, the date of death was used, if the participant was alive, then the date on which the search was conducted was considered as the censoring date.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Variables definition</head><p>All-cause mortality was the outcome of interest and was defined by the occurrence of any fatal event at any point during the 10 years of follow-up. Vital status and exact date of What's new?</p><p>• Intermediate hyperglycaemia is an important risk factor for diabetes, but the proportion of people with this condition varies according to the definition used.</p><p>• The extent to which impaired fasting glucose, impaired glucose tolerance and/or HbA 1c criteria are associated with mortality remains unclear.</p><p>• Intermediate hyperglycaemia assessed using the HbA 1cbased American Diabetes Association definition was associated with increased mortality rate in a 10-year cohort from a Latin American country.</p><p>• HbA 1c appeared to be a measurement associated with mortality in this Peruvian population.</p><p>death were obtained by reviewing records provided by RENIEC. In this follow-up, data obtained from participants with a valid national identity document observable in the RENIEC system were assessed. Vital status was then categorized as 'alive' or 'dead', and the time between baseline and the date of death or censorship was estimated in years. The exposure of interest was intermediate hyperglycaemia, measured at baseline, and assessed using the three different definitions: (1) ADA-defined IFG [FPG 5.6-6.9 mmol/l (100-125 mg/dl)] [9]; (2) the ADA HbA 1c -based definition [HbA 1c 39-46 mmol/mol (5.7-6.4%)] <ref type="bibr" target="#b8">[9]</ref>; and (3) the IEC HbA 1cbased definition [ HbA 1c 42-46 mmol/mol (6.0-6.4%)] <ref type="bibr" target="#b9">[10]</ref>. Each definition also included a threshold above which participants were classified as having type 2 diabetes, and this group was added to those participants who self-reported physician-diagnosed type 2 diabetes and those receiving glucose-lowering drugs (Table <ref type="table" target="#tab_0">1</ref>) <ref type="bibr" target="#b9">[10]</ref>.</p><p>Other participant characteristics, measured at baseline, that were included in the analysis as potential confounders were age (four categories: 30-39, 40-49, 50-59 and ≥ 60 years), gender (male and female), and education level (&lt; 7 years and ≥7 years). Socio-economic status was assessed through a wealth index based on the possession of household resources and household facilities (radio, types of television, refrigerator, computer, telephone, mobile phone, internet, cable television, motorcycle, car and gas cooker), and was divided into tertiles (low, middle and high socio-economic status). Population group included rural, rural-to-urban migrant and urban categories. Current daily smoking (selfreported smoking of at least one cigarette per day), alcohol intake (self-reported low or high consumption based on the number of bottles of beer or equivalent), and physical activity levels, were also assessed. The latter variable was categorized according to the International Physical Activity Questionnaire as high/moderate if the participant performed ≥5 days of any combination of walking, moderate-intensity, or vigorous-intensity activities achieving at least 600 metabolic equivalent of task units (MET; multiples of the resting metabolic rate) min/week, or low if the participant performed &lt; 600 MET min/week.</p><p>Obesity status was defined according to BMI (not obese: BMI ≥18.5 and &lt; 30 kg/m 2 ; obese: BMI ≥30 kg/m 2 ) <ref type="bibr" target="#b10">[11]</ref>. Hypercholesterolaemia was defined by a total cholesterol level ≥ 5.2 mmol/l (200 mg/dl) <ref type="bibr" target="#b11">[12]</ref>. Finally, blood pressure was measured after a 5-min resting period, with the participant in a seated position. Three measurements, at least 5 min apart, were carried out, and the mean of the second and third measurements was taken. Hypertension was defined as systolic blood pressure ≥ 140 mmHg or diastolic blood pressure ≥ 90 mmHg, or was determined by self-report of physician diagnosis and current receipt of antihypertensive medication.</p><p>Finally, we estimated homeostatic model assessment index for insulin resistance (HOMA-IR) using the formula developed by Matthews <ref type="bibr" target="#b12">[13]</ref> and categorized these into tertiles (low, middle and high).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Laboratory procedures</head><p>Laboratory assessments were performed on venous samples taken in the morning after a minimum of 8 h of fasting. Fasting glucose was measured in plasma using a Cobas â Modular Platform automated analyser and reagents were supplied by Roche Diagnostics (Grenzach-Whylen, Germany). Serum total cholesterol was measured and HbA 1c was measured in whole blood using high-performance liquid chromatography (D10; BioRad, Munich, Germany), traceable to the Diabetes Control and Complications Trial reference study, as certified by the National Glycohaemoglobin Standardization Programme <ref type="bibr" target="#b13">[14]</ref>. All samples were analysed at a single facility, and, for quality assurance, assay results were checked with regular external standards and internal duplicate assays and monitored by BioRad (www.biorad.com) <ref type="bibr" target="#b7">[8]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analysis</head><p>All statistical analyses were performed using STATA 14.0 (StataCorp, College Station, TX, USA). Prevalence and 95% CIs of different hyperglycaemia categories were determined overall. Mean and SD values for continuous variables and proportions for categorical ones were used to describe variables. The association of different hyperglycaemia categories and characteristics of the study population at baseline were estimated using chi-squared tests.</p><p>For the incidence analysis, all-cause mortality rates were calculated using incidence rates (the number of failures divided by the person-time per 1000). Time to event was estimated using the day of death and the log-rank test was used to compare survival function using different factors (sex, age, education level, socio-economic status, population group, daily smoking habit). To study the association of intermediate hyperglycaemia, using each of the three definitions, with mortality, crude and adjusted hazard ratios (HRs) and 95% CIs were estimated using Cox proportional hazard models. We used the test of proportional hazards assumption (Schoenfeld residuals) in each model. representing potential confounders were selected by theory using the directed acyclic graph (Fig. <ref type="figure">S1</ref>) and three models were used to estimate HRs and their respective 95% CIs. In addition, a sensitivity analysis was conducted by excluding those with a previous type 2 diabetes diagnosis at baseline.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Ethics</head><p>All participants were informed about the objectives of the study and oral informed consent was obtained owing to high illiteracy rates, especially in rural areas. The institutional review board of Universidad Peruana Cayetano Heredia in Peru (Code: 51103) and of the London School of Hygiene and Tropical Medicine in the UK approved the protocol for the baseline assessment, and the follow-up phase was approved by the Universidad Peruana Cayetano Heredia institutional review board (Code: 64904).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>A total of 988 individuals were enrolled at baseline. The mean (SD) age was 47.8 (11.9) years, 52.5% were women and the population groups comprised the following: rural: 207 individuals (20.0%); rural-to-urban migrant: 583 individuals (59.7%); and urban: 198 individuals (20.3%).  <ref type="table" target="#tab_0">S1</ref>. Some factors such as age, population group, obesity, hypercholesterolaemia and hypertension were associated with intermediate hyperglycaemia using the three definitions. There was an association between gender and intermediate hyperglycaemia using both the ADA IFG-based and the ADA HbA 1c -based definitions, and an association with education level was additionally observed using both the ADA and IEC HbA 1c -based definitions (Table <ref type="table" target="#tab_2">2</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Characteristics of the study population, stratified by death during follow-up</head><p>Data on the vital status of 976 participants were retrieved from the RENIEC system. A total of 63 deaths were recorded, with an all cause-mortality rate of 7 per 1000 person-years (95% CI 5-8). Crude analysis of mortality and the characteristics of the study population showed strong evidence of associations between mortality and male gender, being older, having a lower education level, having a lower socio-economic status, and having hypertension (Table <ref type="table" target="#tab_2">S2</ref>).</p><p>Association between glucose and HbA 1c status and overall mortality Intermediate hyperglycaemia was associated with 10-year all-cause mortality using the HbA 1c -based definitions in the crude models, with an almost threefold higher rate in comparison to normal HbA 1c levels (Kaplan-Meier curves are shown in Fig. <ref type="figure">S2</ref>). However, in the adjusted models, only the ADA HbA 1c -based definition was associated with allcause mortality; participants with intermediate hyperglycaemia according to this definition had a mortality rate almost twice as high in comparison to those with normal HbA 1c levels.</p><p>There was no evidence of an association between the ADA IFG-based definition of intermediate hyperglycaemia and mortality, either in the crude or the adjusted model (Table <ref type="table" target="#tab_3">3</ref>).</p><p>However, although the association between type 2 diabetes and 10-year mortality was significant in the adjusted models using all three definitions, the strength of association varied from an HR of 2.92 (95% CI 1.18-7.22) using the FPG-based ADA definition, to an of HR 5.31 (95% CI 2.34-12.05) using the HbA 1c -based ADA definition.</p><p>In the sensitivity analysis, which excluded those with a previous diagnosis of type 2 diabetes, the results were consistent, with slight changes in HR estimates (Table <ref type="table" target="#tab_3">S3</ref>).</p><p>Association between glucose and HbA 1c status and overall mortality, stratified by population group The analysis according to population group showed an association between intermediate hyperglycaemia and allcause mortality using the ADA HbA 1c -based definition in the rural and rural-urban migrant groups, but not in the urban group. The association in the rural group was four times greater, while the association in the rural-to-urban migrant group was 2.5 times greater. Using the IEC HbA 1c -based definition, the association was significant only in the rural-tourban migrant group (Table <ref type="table" target="#tab_4">4</ref>).</p><p>The association between type 2 diabetes and mortality was significant using both the ADA and the IEC HbA 1c -based definitions in the three groups; however, the association in the rural group was 9.6 times greater, whereas in the ruralto-urban migrant and the urban groups it was 4.8 and 5.7 times greater, respectively, using the ADA HbA 1c -based definition.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>Given that there are several different definitions of intermediate hyperglycaemia, and that these use arbitrary cut-off points, further studies of these definitions and their associations with patient-important outcomes are relevant. The present study adds to the literature by assessing mortality rates among individuals with intermediate hyperglycaemia using population-based data. The prevalence of intermediate hyperglycaemia according to the three studied definitions varied from 5.9% to 38.5%. The study also found that individuals with HbA 1c levels between 39 and 46 mmol/mol (5.7 and 6.4%) had a higher rate of mortality in comparison to people with HbA 1c levels &lt; 39 mmol/mol (5.7%) in this cohort from Peru, at 10-year follow-up. The IEC HbA 1cbased definition was associated with an increased risk of mortality, although this was not statistically significant. There was no evidence of an association between the ADA IFG-based definition of intermediate hyperglycaemia and mortality, but such an observation was observed when using the ADA HbA 1c -based definition, although participants with intermediate hyperglycaemia according to the latter definition did have a somewhat more favourable cardiometabolic risk profile, especially with regard to obesity.</p><p>Our findings differ from those of a systematic review and meta-analysis by Huang et al. <ref type="bibr" target="#b4">[5]</ref> who reported that intermediate hyperglycaemia defined by fasting glucose level was associated with all cause-mortality, but they did not find an association using the HbA 1c definitions <ref type="bibr" target="#b4">[5]</ref>. Similar to our results, however, a previous systematic review by the same author group <ref type="bibr" target="#b14">[15]</ref>, as well as a study from Taiwan <ref type="bibr" target="#b5">[6]</ref>, reported no association between intermediate hyperglycaemia, assessed using the ADA IFG-based definition, and all-cause mortality and cardiovascular disease and/or diabetes mortality. It is important to mention that, in the recent systematic review <ref type="bibr" target="#b4">[5]</ref>, only the studies conducted in the Netherlands and Finland, and not in other countries, reported a strong association between ADA IFG-defined intermediate hyperglycaemia and all-cause mortality. In addition, only studies from the USA, Asia, Europe and Australia were included in the systematic review, and it did not include, for example, individuals with different sociodemographic and lifestyle characteristics from those living in Latin America. Genetics might play a role in the difference among findings worldwide: the admixture among Peruvians is very high, with many groups sharing common Native American ancestry <ref type="bibr" target="#b15">[16]</ref>, whereas the European ancestry component is relatively small (&lt;10%) <ref type="bibr" target="#b16">[17]</ref>.</p><p>The correlation between glucose and HbA 1c levels might also play a role in the differences between the findings of the present study when compared to those of the previous systematic reviews as these variables are affected by factors such as high altitude <ref type="bibr" target="#b17">[18]</ref>, environmental temperature <ref type="bibr" target="#b18">[19]</ref>, or the characteristics of the tests themselves <ref type="bibr" target="#b19">[20]</ref>. In addition, high altitude could explain the fact that the HRs for the associations between both intermediate hyperglycaemia and type 2 diabetes with mortality were higher in the rural population in comparison to the rural-to-urban migrant and urban populations; a previous study in Peru found that 53 mmol/mol (6.5%) of HbA 1c was correlated to glucose levels of 6.6. mmol/l at sea levels and 14.8 mmol/ l at high altitude. Furthermore, in India, a lower HbA 1c threshold has been used to define diabetes [45 mmol/mol (6.3%)], based on the glucose torelance test <ref type="bibr" target="#b20">[21]</ref>, which highlights the fact that some participants in the present study might have been misclassified as having intermediate hyperglycaemia using HbA 1c , when in reality, they have type 2 diabetes mellitus.  As mentioned in the introduction, the association between type 2 diabetes mellitus and all-cause mortality is well known; however, the estimations of the associations in the present study (HRs of 2.92-5.30 according to the different definitions) are higher in comparison to those in previous studies. The relatively recent systematic review of all-cause mortality among individuals with type 2 diabetes in Latin America found a relative risk of between 2.26 (95% CI 1.36-3.74) and 2.49 (95% CI 1.96-3.15) using a composite definition and self-reported diagnosis, respectively <ref type="bibr" target="#b6">[7]</ref>. The highest association observed in the systematic review was an HR of 6.64 (95% CI 1.94-22.8) in a cohort in Brazil with 13 years of follow-up <ref type="bibr" target="#b21">[22]</ref>, and another high value was the HR of 4.38 (95% CI 3.43-5.59) reported in a cohort in Mexico with a 15-year follow-up <ref type="bibr" target="#b22">[23]</ref>. These are greater than the associations of mortality and type 2 diabetes found in Sweden (adjusted HR 1.15, 95% CI 1.14-1.16) in a cohort with a 4-year follow-up, <ref type="bibr" target="#b3">[4]</ref> and in England (adjusted HR 2.19, 95% CI 2.16-2.21) in a cohort followed for 17 years <ref type="bibr" target="#b23">[24]</ref>. The differences between high-income countries and countries in Latin America may be the result of disparities in access to healthcare, insurance coverage, and the quality of healthcare received between such countries <ref type="bibr" target="#b24">[25]</ref>.</p><p>The findings of the present study are relevant as individuals with HbA 1c between 39 and 46 mmol/mol (5.7% and 6.4%) had higher mortality than those with normal HbA 1c levels, showing that the former probably require special management to prevent negative outcomes. However, a systematic review including individuals with intermediate hyperglycaemia found that screening and treatment strategies to prevent type 2 diabetes mellitus had limitations because even if both short-(6 months) and long-term (up to 7 years) interventions delayed the onset of type 2 diabetes, many individuals might have been incorrectly classified as having intermediate hyperglycaemia <ref type="bibr" target="#b25">[26]</ref>. Nowadays, lifestyle interventions are the standard of care for impaired glucose tolerance <ref type="bibr" target="#b26">[27]</ref>, but there is limited evidence for these in the management of IFG or intermediate hyperglycaemia defined according to HbA 1c levels. Moreover, the management of intermediate hyperglycaemia with drugs is still controversial in terms of efficacy and cost <ref type="bibr" target="#b27">[28,</ref><ref type="bibr" target="#b28">29]</ref>.</p><p>Finally, previous studies have found that the prevalence of intermediate hyperglycaemia increases four times using the ADA definitions (based on IFG and/or HbA 1c ) <ref type="bibr" target="#b5">[6,</ref><ref type="bibr" target="#b29">30]</ref>, which could imply a huge challenge to health systems. Similarly, another study in Peruvian population found that the magnitude of regression to normal glucose/HbA 1c levels was much higher than progression towards type 2 diabetes after 2.5 years of follow-up <ref type="bibr" target="#b30">[31]</ref>. So, even if we know that the ADA HbA 1c -based definition of intermediate hyperglycaemia is associated with a high mortality rate, the available evidence is not clear on how to manage this risk to prevent progression to type 2 diabetes and/or mortality.</p><p>To date, nearly all efforts to synthesize the evidence regarding intermediate hyperglycaemia have concentrated on high-income countries. In the present study, we show that intermediate hyperglycaemia using the ADA HbA 1c -based definition may be important for estimating the rate of mortality in resource-constrained settings, contributing to the knowledge in this area in a poorly studied population.</p><p>The study has some limitations that should be noted. First, all-cause mortality was used as the outcome because information about cause of death was not available using the RENIEC records. Second, a potential time gap between the date of death and its registration in RENIEC is possible and, which could have led us to underestimate the incidence of death in our population. Additionally, the factors identified as associated with mortality (Table <ref type="table" target="#tab_3">S3</ref>) were not adjusted for confounders. Third, we could not include the WHO definition of IFG [FPG 6.1-6.9 mmol/l (110-125 mg/dl)] because we did not have cases with that definition in our sample. Fourth, an oral glucose tolerance test was not performed at baseline for logistical and budget reasons. However, we based our definition on the use of fasting glucose and HbA 1c as in previous studies. Fifth, our study population was not nationally representative; however, it included different population groups (rural, rural-to-urban migrants and urban) from specific areas of Peru. Finally, HbA 1c is usually a specific measurement by which to diagnose and monitor diabetes, but other conditions could increase HbA 1c levels, such as iron deficiency anaemia, a condition that might be more common in rural areas or in people of low socioeconomic status. Additionally, other less common conditions in Peru could affect HbA 1c levels, such as kidney failure, liver disease, sickle cell disease and thalassaemia <ref type="bibr" target="#b8">[9]</ref>.</p><p>In conclusion, intermediate hyperglycaemia using the ADA HbA 1c -based definition was associated with an increased mortality rate in cohort from Peru with a 10-year follow-up. HbA 1c would appear to be a variable associated with mortality in this Peruvian population. Further research is needed, however, on how to prevent progression to type 2 diabetes and/or mortality in this population.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Ethical Approval</head><p>The study was approved by the Medical Ethics Committee of [INSTITUTION], and informed consent was obtained from all participants. This research study was conducted in accordance with the guidelines of the Declaration of Helsinki.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Definitions of normal glycaemia, intermediate hyperglycaemia and type 2 diabetes</figDesc><table><row><cell></cell><cell>Normal</cell><cell>Intermediate</cell><cell>Type 2</cell></row><row><cell></cell><cell>glycaemia</cell><cell>hyperglycaemia</cell><cell>diabetes</cell></row><row><cell>ADA IFG-</cell><cell>FPG &lt;5.6</cell><cell>FPG 5.6-6.9</cell><cell>FPG ≥ 7 mmol/</cell></row><row><cell>based</cell><cell>mmol/l (&lt;100</cell><cell>mmol/l (100-125</cell><cell>l (126 mg/dl)</cell></row><row><cell>definition</cell><cell>mg/dl)</cell><cell>mg/dl)</cell><cell></cell></row><row><cell>ADA HbA 1c -</cell><cell>HbA 1c &lt;39</cell><cell>HbA 1c 39-46</cell><cell>HbA 1c ≥ 53</cell></row><row><cell>based</cell><cell>mmol/mol</cell><cell>mmol/mol (5.7-</cell><cell>mmol/mol</cell></row><row><cell>definition</cell><cell>(5.7%)</cell><cell>6.4%)</cell><cell>(6.5%)</cell></row><row><cell>IEC HbA 1c -</cell><cell>HbA 1c &lt; 42.1</cell><cell>HbA 1c 42-46</cell><cell>HbA 1c ≥53</cell></row><row><cell>based</cell><cell>mmol/mol</cell><cell>mmol/mol (6.0-</cell><cell>mmol/mol</cell></row><row><cell>definition</cell><cell>(6.0%)</cell><cell>6.4%)</cell><cell>(6.5%)</cell></row></table><note>ADA, American Diabetes Association; FPG, fasting plasma glucose; IEC, International Expert Committee; IFG, impaired fasting glucose. ª 2020 The Authors. Diabetic Medicine published by John Wiley &amp; Sons Ltd on behalf of Diabetes UK</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 2</head><label>2</label><figDesc>Baseline characteristics of the study population, stratified according to normal glycaemia, intermediate hyperglycaemia and type 2 diabetes</figDesc><table><row><cell></cell><cell cols="2">ADA IFG-based definition</cell><cell></cell><cell cols="2">ADA HbA1c-based definition</cell><cell></cell><cell cols="2">IEC HbA1c-based definition</cell><cell></cell></row><row><cell></cell><cell>Normal</cell><cell>Intermediate</cell><cell>Type 2</cell><cell>Normal</cell><cell>Intermediate</cell><cell>Type 2</cell><cell>Normal</cell><cell>Intermediate</cell><cell>Type 2</cell></row><row><cell></cell><cell>glycaemia</cell><cell>hyperglycaemia</cell><cell>diabetes</cell><cell>glycaemia</cell><cell>hyperglycaemia</cell><cell>diabetes</cell><cell>glycaemia</cell><cell>hyperglycaemia</cell><cell>diabetes</cell></row><row><cell></cell><cell>(n = 879)</cell><cell>(n = 58)</cell><cell>(n = 39)</cell><cell>(n = 543)</cell><cell>(n = 376)</cell><cell>(n = 57)</cell><cell>(n = 793)</cell><cell>(n = 126)</cell><cell>(n = 57)</cell></row><row><cell>Men, n (%)</cell><cell>426 (48.5)</cell><cell>18 (31.0)</cell><cell>20 (51.3)</cell><cell cols="2">283 (52.1) 155 (41.2)</cell><cell>26 (45.6)</cell><cell>380 (47.9)</cell><cell>58 (46.0)</cell><cell>26 (45.6)</cell></row><row><cell>Age, n (%)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>30-39 years</cell><cell>264 (30.0)</cell><cell>11 (19.0)</cell><cell>6 (15.4)</cell><cell cols="2">209 (38.5) 65 (17.3)</cell><cell>7 (12.3)</cell><cell>261 (32.9)</cell><cell>13 (10.3)</cell><cell>7 (12.3)</cell></row><row><cell>40-49 years</cell><cell>257 (29.2)</cell><cell>15 (25.9)</cell><cell>6 (15.4)</cell><cell cols="2">165 (30.4) 102 (25.1)</cell><cell>11 (19.3)</cell><cell>239 (30.1)</cell><cell>28 (22.2)</cell><cell>11 (19.3)</cell></row><row><cell>50-59 years</cell><cell>225 (25.6)</cell><cell>24 (41.4)</cell><cell>20 (51.3)</cell><cell cols="2">115 (21.2) 128 (34.0)</cell><cell>26 (45.6)</cell><cell>199 (25.1)</cell><cell>44 (34.9)</cell><cell>26 (45.6)</cell></row><row><cell>≥60 years</cell><cell>133 (15.1)</cell><cell>8 (13.8)</cell><cell>7 (18.0)</cell><cell>54 (9.9)</cell><cell>81 (21.5)</cell><cell>13 (22.8)</cell><cell>94 (11.1)</cell><cell>41 (32.5)</cell><cell>13 (22.8)</cell></row><row><cell>Education</cell><cell>453 (51.6)</cell><cell>30 (52.6)</cell><cell>20 (51.3)</cell><cell cols="2">309 (57.0) 170 (45.3)</cell><cell>24 (42.1)</cell><cell>429 (54.2)</cell><cell>50 (39.7)</cell><cell>24 (42.1)</cell></row><row><cell>level: ≥7</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>years, n (%)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">Socio-economic status, n (%)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Low</cell><cell>386 (43.9)</cell><cell>23 (39.6)</cell><cell>15 (38.4)</cell><cell cols="2">215 (39.6) 185 (49.2)</cell><cell>24 (42.1)</cell><cell>340 (42.9)</cell><cell>60 (47.6)</cell><cell>24 (42.1)</cell></row><row><cell>Middle</cell><cell>207 (23.6)</cell><cell>19 (32.8)</cell><cell>12 (30.8)</cell><cell cols="2">141 (26.0) 83 (22.1)</cell><cell>14 (24.6)</cell><cell>201 (25.4)</cell><cell>23 (18.3)</cell><cell>14 (24.6)</cell></row><row><cell>High</cell><cell>286 (32.5)</cell><cell>16 (27.6)</cell><cell>12 (30.8)</cell><cell cols="2">187 (34.4) 108 (28.7)</cell><cell>19 (33.3)</cell><cell>252 (31.8)</cell><cell>43 (34.1)</cell><cell>19 (33.3)</cell></row><row><cell>Population group, n (%)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Rural</cell><cell>188 (21.4)</cell><cell>4 (6.9)</cell><cell>3 (7.7)</cell><cell>95 (17.5)</cell><cell>85 (22.6)</cell><cell>15 (26.3)</cell><cell>147 (18.5)</cell><cell>33 (26.2)</cell><cell>15 (26.3)</cell></row><row><cell>Rural-urban migrant</cell><cell>533 (60.6)</cell><cell>30 (51.7)</cell><cell>20 (51.3)</cell><cell cols="2">362 (66.7) 195 (51.9)</cell><cell>26 (45.6)</cell><cell>499 (62.9)</cell><cell>58 (46.0)</cell><cell>26 (45.6)</cell></row><row><cell>Urban</cell><cell>158 (18.0)</cell><cell>24 (41.4)</cell><cell>16 (41.0)</cell><cell>86 (15.8)</cell><cell>96 (25.5)</cell><cell>16 (28.1)</cell><cell>147 (18.5)</cell><cell>35 (27.8)</cell><cell>16 (28.1)</cell></row><row><cell>Daily smoking</cell><cell>30 (3.4)</cell><cell>1 (1.7)</cell><cell>2 (5.1)</cell><cell>12 (2.2)</cell><cell>19 (5.1)</cell><cell>2 (3.5)</cell><cell>24 (3.0)</cell><cell>7 (5.6)</cell><cell>2 (3.5)</cell></row><row><cell>habit, n (%)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>High alcohol</cell><cell>82 (9.3)</cell><cell>2 (3.5)</cell><cell>2 (5.1)</cell><cell>49 (9.0)</cell><cell>34 (9.0)</cell><cell>3 (5.3)</cell><cell>72 (9.1)</cell><cell>11 (8.7)</cell><cell>3 (5.3)</cell></row><row><cell>consumption, n (%)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Low levels</cell><cell>220 (25.2)</cell><cell>20 (34.5)</cell><cell>12 (31.6)</cell><cell cols="2">142 (26.4) 94 (25.2)</cell><cell>16 (28.6)</cell><cell>206 (26.2)</cell><cell>30 (23.8)</cell><cell>16 (28.6)</cell></row><row><cell>of physical</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>activity, n (%)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Obesity, n (%)</cell><cell>148 (16.8)</cell><cell>31 (53.5)</cell><cell>17 (43.6)</cell><cell>80 (14.7)</cell><cell>96 (25.5)</cell><cell>20 (35.1)</cell><cell>140 (17.7)</cell><cell>36 (28.6)</cell><cell>20 (35.1)</cell></row><row><cell>Hypercholes</cell><cell>265 (30.2)</cell><cell>19 (32.8)</cell><cell>20 (51.3)</cell><cell cols="2">149 (27.5) 129 (34.3)</cell><cell>26 (45.6)</cell><cell>230 (29.0)</cell><cell>48 (38.1)</cell><cell>26 (45.6)</cell></row><row><cell>terolaemia,</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>n (%)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Hypertension,</cell><cell>126 (14.4)</cell><cell>16 (27.6)</cell><cell>13 (33.3)</cell><cell>58 (10.7)</cell><cell>82 (21.8)</cell><cell>15 (26.3)</cell><cell>105 (13.3)</cell><cell>35 (27.8)</cell><cell>15 (26.3)</cell></row><row><cell>n (%)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>HOMA-IR index, n (%)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Low</cell><cell>319 (36.7)</cell><cell>3 (5.2)</cell><cell>1 (2.6)</cell><cell cols="2">201 (37.2) 113 (30.5)</cell><cell>9 (16.1)</cell><cell>276 (35.1)</cell><cell>38 (30.7)</cell><cell>9 (16.1)</cell></row><row><cell>Middle</cell><cell>310 (35.6)</cell><cell>8 (13.8)</cell><cell>4 (10.3)</cell><cell cols="2">210 (38.9) 102 (27.5)</cell><cell>10 (17.9)</cell><cell>279 (35.4)</cell><cell>33 (26.6)</cell><cell>10 (17.9)</cell></row><row><cell>High</cell><cell>241 (27.7)</cell><cell>47 (81.0)</cell><cell>34 (87.2)</cell><cell cols="2">129 (23.9) 156 (42.1)</cell><cell>37 (66.1)</cell><cell>232 (29.5)</cell><cell>53 (42.7)</cell><cell>37 (66.0)</cell></row></table><note>ADA, American Diabetes Association; HOMA-IR, homeostatic model assessment index for insulin resistance; IEC, International Expert Committee; IFG, impaired fasting glucose.ª 2020 The Authors. Diabetic Medicine published by John Wiley &amp; Sons Ltd on behalf of Diabetes UK</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 3</head><label>3</label><figDesc>Association between overall mortality and normal, intermediate hyperglycaemia and type 2 diabetes: crude and adjusted models ADA, American Diabetes Association; HR, hazard ratio; IEC, International Expert Committee; IFG, impaired fasting glucose. The test of proportional hazards assumption was applied and we cannot reject the null hypothesis that the hazards are proportional. Bold values represent estimates with P-values &lt;0.05 . Adjusted for sex, age, education level, socio-economic status, population group. ‡ Adjusted for sex, age, education level, socio-economic status, population group, daily smoking, alcohol use, physical activity, hypercholesterolaemia, hypertension and obesity.</figDesc><table><row><cell></cell><cell></cell><cell>Crude model</cell><cell>Adjusted model 1*</cell><cell>Adjusted model 2  †</cell><cell>Adjusted model 3  ‡</cell></row><row><cell></cell><cell>Deaths, n/N (%)</cell><cell>HR (95% CI)</cell><cell>HR (95% CI)</cell><cell>HR (95% CI)</cell><cell>HR (95% CI)</cell></row><row><cell>ADA IFG-based definition</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Normal</cell><cell>54/879 (6.1)</cell><cell>1 (Reference)</cell><cell>1 (Reference)</cell><cell>1 (Reference)</cell><cell>1 (Reference)</cell></row><row><cell>Intermediate hyperglycaemia</cell><cell>3/58 (5.2)</cell><cell>0.84 (0.26-2.68)</cell><cell>0.85 (0.27-2.74)</cell><cell>1.01 (0.31-3.26)</cell><cell>1.09 (0.33-3.63)</cell></row><row><cell>Type 2 diabetes</cell><cell>6/39 (15.4)</cell><cell>2.62 (1.13-6.08)</cell><cell>2.14 (0.91-5.00)</cell><cell>2.15 (0.89-5.17)</cell><cell>2.92 (1.18-7.22)</cell></row><row><cell>ADA HbA1c-based definition</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Normal</cell><cell>18/543 (3.3)</cell><cell>1 (Reference)</cell><cell>1 (Reference)</cell><cell>1 (Reference)</cell><cell>1 (Reference)</cell></row><row><cell>Intermediate hyperglycaemia</cell><cell>34/376 (9.0)</cell><cell>2.82 (1.59-4.99)</cell><cell>1.91 (1.07-3.43)</cell><cell>1.81 (1.01-3.27)</cell><cell>1.91 (1.03-3.53)</cell></row><row><cell>Type 2 diabetes</cell><cell>11/57 (19.3)</cell><cell>6.25 (2.95-13.24)</cell><cell>4.08 (1.90-8.75)</cell><cell>3.82 (1.74-8.37)</cell><cell>5.31 (2.34-12.05)</cell></row><row><cell>IEC HbA1c-based definition</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Normal</cell><cell>36/793 (4.5)</cell><cell>1 (Reference)</cell><cell>1 (Reference)</cell><cell>1 (Reference)</cell><cell>1 (Reference)</cell></row><row><cell>Intermediate hyperglycaemia</cell><cell>16/126 (12.7)</cell><cell>2.92 (1.62-5.28)</cell><cell>1.46 (0.80-2.66)</cell><cell>1.34 (0.73-2.48)</cell><cell>1.42 (0.75-2.68)</cell></row><row><cell>Type 2 diabetes</cell><cell>11/57 (19.3)</cell><cell>4.53 (2.31-8.91)</cell><cell>3.07 (1.55-6.07)</cell><cell>2.86 (1.41-5.77)</cell><cell>3.89 (1.88-8.05)</cell></row></table><note>*Adjusted for sex, age. †</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Table 4</head><label>4</label><figDesc>Association between overall mortality and normal glycaemia, intermediate hyperglycaemia and type 2 diabetes according to rural, rural-to-migrant and urban populations: crude analysis</figDesc><table><row><cell></cell><cell>Rural</cell><cell>Rural-urban</cell><cell>Urban (N</cell></row><row><cell></cell><cell>(N=195) HR</cell><cell>migrant (N =583)</cell><cell>=198) HR</cell></row><row><cell></cell><cell>(95% CI)</cell><cell>HR (95% CI)</cell><cell>(95% CI)</cell></row><row><cell cols="2">ADA IFG-based definition</cell><cell></cell><cell></cell></row><row><cell>Normal</cell><cell>1</cell><cell>1 (Reference)</cell><cell>1 (Reference)</cell></row><row><cell></cell><cell>(Reference)</cell><cell></cell><cell></cell></row><row><cell>Intermediate</cell><cell>-</cell><cell>1.27 (0.30-5.33)</cell><cell>0.72 (0.09-</cell></row><row><cell>hyperglycaemia</cell><cell></cell><cell></cell><cell>5.69)</cell></row><row><cell>Type 2 diabetes</cell><cell>5.16 (0.69-</cell><cell>1.91 (0.46-8.03)</cell><cell>3.41 (0.92-</cell></row><row><cell></cell><cell>38.85)</cell><cell></cell><cell>12.60)</cell></row><row><cell cols="2">ADA HbA1c-based definition</cell><cell></cell><cell></cell></row><row><cell>Normal</cell><cell>1</cell><cell>1 (Reference)</cell><cell>1 (Reference)</cell></row><row><cell></cell><cell>(Reference)</cell><cell></cell><cell></cell></row><row><cell>Intermediate</cell><cell>4.35 (1.21-</cell><cell>2.52 (1.20-5.34)</cell><cell>2.17 (0.56-</cell></row><row><cell>hyperglycaemia</cell><cell>15.60)</cell><cell></cell><cell>8.40)</cell></row><row><cell>Type 2 diabetes</cell><cell>9.68 (1.21-</cell><cell>4.87 (1.57-15.11)</cell><cell>5.69 (1.15-</cell></row><row><cell></cell><cell>15.61)</cell><cell></cell><cell>28.21)</cell></row><row><cell cols="2">IEC HbA1c-based definition</cell><cell></cell><cell></cell></row><row><cell>Normal</cell><cell>1</cell><cell>1 (Reference)</cell><cell>1 (Reference)</cell></row><row><cell></cell><cell>(Reference)</cell><cell></cell><cell></cell></row><row><cell>Intermediate</cell><cell>1.22 (0.34-</cell><cell>4.34 (1.97-9.60)</cell><cell>2.94 (0.82-</cell></row><row><cell>hyperglycaemia</cell><cell>4.37)</cell><cell></cell><cell>10.40)</cell></row><row><cell>Type 2 diabetes</cell><cell>3.97 (1.26-</cell><cell>4.23 (1.44-12.46)</cell><cell>4.81 (1.20-</cell></row><row><cell></cell><cell>12.48)</cell><cell></cell><cell>19.25)</cell></row><row><cell cols="4">ADA, American Diabetes Association; HR, hazard ratio; IEC,</cell></row><row><cell cols="4">International Expert Committee; IFG, impaired fasting glucose.</cell></row><row><cell cols="4">Bold values represent estimates with P-values &lt;0.05 .</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">ª 2020 The Authors. Diabetic Medicine published by John Wiley &amp; Sons Ltd on behalf of Diabetes UKDIABETICMedicineIntermediate hyperglycaemia and 10-year mortality M. Lazo-Porras et al.</note>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Funding sources</head><p>The study was funded by a Strategic Award from the Wellcome Trust-Imperial College Centre for Global Health Research <ref type="bibr">(</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supporting Information</head><p>Additional supporting information may be found online in the Supporting Information section at the end of the article.  <ref type="table">S1</ref>. Cross tables of the different definitions: (a) glucose ADA vs HbA 1c ADA, (b) glucose ADA vs HbA 1c IEC. Table <ref type="table">S2</ref>. Baseline characteristics of the study population according to death during follow-up. Table <ref type="table">S3</ref>. Sensitivity analysis. </p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">World Health Organization (WHO)</title>
+	</analytic>
+	<monogr>
+		<title level="j">Global Report on Diabetes. Geneva: WHO</title>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Intermediate hyperglycaemia to predict progression to type 2 diabetes (ELSA-Brasil): an occupational cohort study in Brazil</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">I</forename><surname>Schmidt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Bracco</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Yudkin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">M</forename><surname>Bensenor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Griep</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Barreto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Diabetes Endocrinol</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="267" to="277" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">Prediabetes&quot;: Are There Problems With This Label? Yes, the Label Creates Further Problems! Diabetes Care</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Yudkin</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page" from="1468" to="1471" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Excess Mortality among Persons with Type 2 Diabetes</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tancredi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rosengren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Svensson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kosiborod</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Pivodic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Gudbjornsdottir</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">373</biblScope>
+			<biblScope unit="page" from="1720" to="1732" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Association between prediabetes and risk of cardiovascular disease and all cause mortality: systematic review and meta-analysis</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Cai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Mai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Hu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMJ</title>
+		<imprint>
+			<biblScope unit="volume">355</biblScope>
+			<biblScope unit="page">5953</biblScope>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Increased mortality risks of pre-diabetes (impaired fasting glucose) in Taiwan</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Wen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">Y</forename><surname>Cheng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Tsai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">L</forename><surname>Hsu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="2756" to="2761" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">The risk of mortality among people with type 2 diabetes in Latin America: A systematic review and meta-analysis of populationbased cohort studies</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Carrillo-Larco</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">C</forename><surname>Barengo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Albitres-Flores</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bernabe-Ortiz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Metab Res Rev</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page">e3139</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">The effect on cardiovascular risk factors of migration from rural to urban areas in Peru: PERU MIGRANT Study</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Miranda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Gilman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">H</forename><surname>Garcia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Smeeth</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMC Cardiovasc Disord</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page">23</biblScope>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">American Diabetes A. 2. Classification and Diagnosis of Diabetes: Standards of Medical Care in Diabetes-2019</title>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="S13" to="S28" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note>Suppl. 1</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">International Expert Committee report on the role of the A1C assay in the diagnosis of diabetes</title>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="1327" to="1334" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">The World Health Report 2002: Reducing Risks, Promoting Healthy Life</title>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+			<publisher>WHO</publisher>
+			<pubPlace>Geneva</pubPlace>
+		</imprint>
+	</monogr>
+	<note>World Health Organization (WHO)</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Third Report of the National Cholesterol Education Program (NCEP) Expert Panel on Detection, Evaluation, and Treatment of High Blood Cholesterol in Adults (Adult Treatment Panel III) final report</title>
+	</analytic>
+	<monogr>
+		<title level="j">National Cholesterol Education Program (NCEP) Expert Panel on Detection</title>
+		<imprint>
+			<biblScope unit="volume">106</biblScope>
+			<biblScope unit="page" from="3143" to="3421" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+	<note>Circulation</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Use and abuse of HOMA modeling</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">M</forename><surname>Wallace</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Levy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Matthews</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="1487" to="1495" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">The effect of intensive treatment of diabetes on the development and progression of long-term complications in insulin-dependent diabetes mellitus</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Nathan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Genuth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lachin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Cleary</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Crofford</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J</title>
+		<imprint>
+			<biblScope unit="volume">329</biblScope>
+			<biblScope unit="page" from="977" to="986" />
+			<date type="published" when="1993">Med1993</date>
+		</imprint>
+		<respStmt>
+			<orgName>Diabetes Control and Complications Trial Research Group</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Associations of prediabetes with all-cause and cardiovascular mortality: a meta-analysis</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Cai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Mai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Tang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Huang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Med</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="684" to="692" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Admixture in Latin America: geographic structure, phenotypic diversity and self-perception of ancestry based on 7,342 individuals</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ruiz-Linares</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Adhikari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Acuna-Alonzo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Quinto-Sanchez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Jaramillo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Arias</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS Genet</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">e1004572</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">A genomewide admixture mapping panel for Hispanic/Latino populations</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Mao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">W</forename><surname>Bigham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Mei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Gutierrez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Weiss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">D</forename><surname>Brutsaert</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Hum Genet</title>
+		<imprint>
+			<biblScope unit="volume">80</biblScope>
+			<biblScope unit="page" from="1171" to="1178" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Glycated haemoglobin (HbA1c ) and fasting plasma glucose relationships in sea-level and high-altitude settings</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Bazo-Alvarez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Quispe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">D</forename><surname>Pillay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bernabe-Ortiz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Smeeth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Checkley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabet Med</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="804" to="812" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">The Effect of Environmental Temperature on Glucose and Insulin After an Oral Glucose Tolerance Test in Healthy Young Men</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Dumke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Slivka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Cuddy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">S</forename><surname>Hailes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Rose</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">C</forename><surname>Ruby</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Wilderness Environ Med</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="335" to="342" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">A1C versus glucose testing: a comparison</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Sacks</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="518" to="523" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Derivation &amp; validation of glycosylated haemoglobin (HbA 1c ) cut-off value as a diagnostic test for type 2 diabetes in south Indian population</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mohan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Reddy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sachan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Sarma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">V</forename><surname>Panchagnula</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Indian J Med Res</title>
+		<imprint>
+			<biblScope unit="volume">144</biblScope>
+			<biblScope unit="page" from="220" to="228" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Causes of death and associated risk factors among climacteric women from Southern Brazil: a population based-study</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Colpani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Oppermann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Spritzer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMC Public Health</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page">194</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Diabetes is more lethal in Mexicans and Mexican-Americans compared to Non-Hispanic whites</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename><surname>Hunt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Gonzalez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Lopez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Haffner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Stern</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Gonzalez-Villalpando</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="899" to="906" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Life Expectancy and Cause-Specific Mortality in Type 2 Diabetes: A Population-Based Cohort Study Quantifying Relationships in Ethnic Subgroups</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Wright</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Kontopantelis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Emsley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Buchan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Sattar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Rutter</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="338" to="345" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">High-quality health systems in the Sustainable Development Goals era: time for a revolution</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Kruk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>Gage</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Arsenault</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Jordan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">H</forename><surname>Leslie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Roder-Dewan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Glob Health</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="e1196" to="ee252" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Efficacy and effectiveness of screen and treat policies in prevention of type 2 diabetes: systematic review and metaanalysis of screening tests and interventions</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Barry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Roberts</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Oke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Vijayaraghavan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Normansell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Greenhalgh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMJ</title>
+		<imprint>
+			<biblScope unit="volume">356</biblScope>
+			<biblScope unit="page">6538</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Efficacy of lifestyle interventions in reducing diabetes incidence in patients with impaired glucose tolerance: a systematic review of randomized controlled trials</title>
+		<author>
+			<persName><forename type="first">U</forename><surname>Yoon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">L</forename><surname>Kwok</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Magkidis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Metabolism</title>
+		<imprint>
+			<biblScope unit="volume">62</biblScope>
+			<biblScope unit="page" from="303" to="314" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Therapeutic interventions to reduce the risk of progression from prediabetes to type 2 diabetes mellitus</title>
+		<author>
+			<persName><forename type="first">Portero</forename><surname>Mclellan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">C</forename><surname>Wyne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Villagomez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">T</forename><surname>Hsueh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">A</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ther Clin Risk Manag</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="173" to="188" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<title level="m" type="main">The war on &apos;prediabetes&apos; could be a boon for pharmabut is it good medicine? Science</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Piller</surname></persName>
+		</author>
+		<ptr target="https://www.sciencemag.org/news/2019/03/war-prediabetes-could-be-boon-pharma-it-good-medicineLastaccessed23" />
+		<imprint>
+			<date type="published" when="2019-01">2019. january 2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Prevalence and control of diabetes in Chinese adults</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>He</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Bi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">310</biblScope>
+			<biblScope unit="page" from="948" to="959" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Regression from prediabetes to normal glucose levels is more frequent than progression towards diabetes: The CRONICAS Cohort Study</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Lazo-Porras</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bernabe-Ortiz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ruiz-Alejos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Smeeth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Gilman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Checkley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Res Clin Pract</title>
+		<imprint>
+			<date type="published" when="2019">2019. 107829</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

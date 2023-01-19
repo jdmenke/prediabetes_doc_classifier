@@ -1,0 +1,1975 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Cardiometabolic Risk in Impaired Fasting Glucose and Impaired Glucose Tolerance</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><roleName>PHD</roleName><forename type="first">James</forename><forename type="middle">S</forename><surname>Pankow</surname></persName>
+							<email>pankow@epi.umn.edu</email>
+							<affiliation key="aff0">
+								<orgName type="department">Division of Epidemiology and Community Health</orgName>
+								<orgName type="institution">University of Minnesota</orgName>
+								<address>
+									<settlement>Minneapolis</settlement>
+									<region>Min-nesota</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MPH</roleName><forename type="first">David</forename><forename type="middle">K</forename><surname>Kwan</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Division of Epidemiology and Community Health</orgName>
+								<orgName type="institution">University of Minnesota</orgName>
+								<address>
+									<settlement>Minneapolis</settlement>
+									<region>Min-nesota</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Bruce</forename><forename type="middle">B</forename><surname>Duncan</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Graduate Studies Program in Epidemiology</orgName>
+								<orgName type="department" key="dep2">School of Medicine</orgName>
+								<orgName type="institution">Federal University of Rio Grande do Sul</orgName>
+								<address>
+									<settlement>Porto Alegre</settlement>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Epidemiology</orgName>
+								<orgName type="institution">University of North Carolina</orgName>
+								<address>
+									<settlement>Chapel Hill</settlement>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="institution">North Carolina</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Maria</forename><forename type="middle">I</forename><surname>Schmidt</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Graduate Studies Program in Epidemiology</orgName>
+								<orgName type="department" key="dep2">School of Medicine</orgName>
+								<orgName type="institution">Federal University of Rio Grande do Sul</orgName>
+								<address>
+									<settlement>Porto Alegre</settlement>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Epidemiology</orgName>
+								<orgName type="institution">University of North Carolina</orgName>
+								<address>
+									<settlement>Chapel Hill</settlement>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="institution">North Carolina</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>PHD</roleName><forename type="first">David</forename><forename type="middle">J</forename><surname>Couper</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department">Department of Biostatistics</orgName>
+								<orgName type="institution">University of North Carolina</orgName>
+								<address>
+									<settlement>Chapel Hill</settlement>
+								</address>
+							</affiliation>
+							<affiliation key="aff5">
+								<orgName type="institution">North Carolina</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Sherita</forename><surname>Golden</surname></persName>
+							<affiliation key="aff6">
+								<orgName type="department">Departments of Medicine and Epidemiology</orgName>
+								<orgName type="institution">Johns Hopkins University</orgName>
+								<address>
+									<settlement>Baltimore</settlement>
+									<region>Maryland</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Christie</forename><forename type="middle">M</forename><surname>Ballantyne</surname></persName>
+							<affiliation key="aff7">
+								<orgName type="department">Department of Medicine</orgName>
+								<orgName type="institution">Baylor College of Medicine</orgName>
+								<address>
+									<settlement>Houston</settlement>
+									<region>Texas</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">•</forename><surname>• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff8">
+								<orgName type="department">Division of Epidemiology and Com-munity Health</orgName>
+								<orgName type="institution">University of Minnesota</orgName>
+								<address>
+									<addrLine>1300 South Second St., Suite 300</addrLine>
+									<postCode>55454</postCode>
+									<settlement>Minneapolis</settlement>
+									<region>MN</region>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Cardiometabolic Risk in Impaired Fasting Glucose and Impaired Glucose Tolerance</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">5B3FD39060F1077FB930D80EBD1850BD</idno>
+					<idno type="DOI">10.2337/dc06-1457</idno>
+					<note type="submission">Received for publication 11 July 2006 and accepted in revised form 23 October 2006.</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.1" ident="GROBID" when="2022-07-19T23:01+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>ADA, American Diabetes Association</term>
+					<term>ARIC, Atherosclerosis Risk in Communities</term>
+					<term>CHD, coronary heart disease</term>
+					<term>CVD, cardiovascular disease</term>
+					<term>IFG, impaired fasting glucose</term>
+					<term>IGT, impaired glucose tolerance</term>
+					<term>IMT, intima-media thickness</term>
+					<term>OGTT, oral glucose tolerance test</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>OBJECTIVE -We compared and contrasted cardiovascular disease (CVD) risk factors, subclinical manifestations of CVD, incident coronary heart disease (CHD), and all-cause mortality by categories of impaired glucose regulation in nondiabetic individuals.</p><p>RESEARCH DESIGN AND METHODS -The study included 6,888 participants aged 52-75 years who had no history of diabetes or CVD. All-cause mortality and incident CHD were ascertained over a median of 6.3 years of follow-up.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head><p>-Agreement between fasting and postchallenge glucose impairment was poor: 3,048 subjects (44%) had neither impaired fasting glucose (IFG) nor impaired glucose tolerance (IGT), 1,690 (25%) had isolated IFG, 1,000 (14%) had isolated IGT, and 1,149 (17%) had both IFG and IGT. After adjustment for age, sex, race, and center, subjects with isolated IFG were more likely to smoke, consume alcohol, and had higher mean BMI, waist circumference, LDL cholesterol, and fasting insulin and lower HDL cholesterol than those with isolated IGT, while subjects with isolated IGT had higher mean triglycerides, systolic blood pressure, and white cell counts. Measures of subclinical CVD and rates of all-cause mortality and incident CHD were similar in isolated IFG and isolated IGT. CONCLUSIONS -Neither isolated IFG nor isolated IGT was associated with a more adverse CVD risk profile.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>T ype 2 diabetes imposes an increased burden of atherosclerotic cardiovascular disease (CVD), particularly of the coronary arteries, peripheral arteries, and cerebrovascular system <ref type="bibr" target="#b1">(1)</ref>. However, evidence of CVD risk can also be traced to glucose regulation abnormalities antecedent to diabetes status <ref type="bibr" target="#b2">(2,</ref><ref type="bibr" target="#b3">3)</ref>. The American Diabetes Association (ADA) and the World Health Organization both recognize "impaired" glucose categories, metabolic stages of glucose homeostasis intermediary between normal and diabetes <ref type="bibr" target="#b4">(4,</ref><ref type="bibr" target="#b5">5)</ref>. Impaired glucose tolerance (IGT) is defined by both organizations as a 2-h postchallenge glucose level Ն7.8 mmol/l (140 mg/dl) but Ͻ11.1 mmol/l (200 mg/dl). Although both organiza-tions originally defined impaired fasting glucose (IFG) as a fasting glucose level between 6.1 mmol/l (110 mg/dl) and 6.9 mmol/l (125 mg/dl) <ref type="bibr" target="#b4">(4,</ref><ref type="bibr" target="#b5">5)</ref>, the ADA recommended in 2003 that the lower cut point for IFG be reduced to 5.6 mmol/l (100 mg/dl) <ref type="bibr" target="#b6">(6)</ref>. Studies <ref type="bibr" target="#b7">(7,</ref><ref type="bibr" target="#b8">8)</ref> in diverse populations worldwide have reported substantial disagreement between fasting and postchallenge glucose impairment categories, although few studies <ref type="bibr">(9 -13)</ref> have investigated the impact of the lower cut point of 5.6 mmol/l for IFG.</p><p>Possible differences in CVD morbidity and mortality between IFG and IGT remain unclear, although the current evidence indicates that IGT entails greater risk of CVD <ref type="bibr" target="#b2">(2,</ref><ref type="bibr" target="#b14">14)</ref>. The DECODE (Diabetes Epidemiology: Collaborative Analysis of Diagnostic Criteria in Europe) investigators pooled data from a large number of prospective studies conducted in Europe and found that 2-h glucose was a better predictor than fasting glucose for all-cause and CVD mortality <ref type="bibr" target="#b15">(15,</ref><ref type="bibr" target="#b16">16)</ref>. Individual prospective studies <ref type="bibr" target="#b17">(17)</ref><ref type="bibr" target="#b18">(18)</ref><ref type="bibr" target="#b19">(19)</ref><ref type="bibr" target="#b20">(20)</ref><ref type="bibr" target="#b21">(21)</ref><ref type="bibr" target="#b22">(22)</ref> have reported similar findings. None of these studies investigated the impact of the lower cut point of 5.6 mmol/l for IFG on the association between glucose impairment and CVD risk.</p><p>The purpose of this investigation was to compare and contrast CVD risk factors, subclinical manifestations of CVD, incident coronary heart disease (CHD), and all-cause mortality by categories of fasting and postchallenge glucose impairment in nondiabetic individuals. Special attention was given to direct comparisons of discordant categories (i.e., isolated IFG and isolated IGT), as such comparisons are more likely to reveal possible differences in the etiology and risk associated with fasting and postchallenge glucose impairment <ref type="bibr" target="#b23">(23)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESEARCH DESIGN AND METHODS -The Atherosclerosis</head><p>Risk in Communities (ARIC) Study is a multicenter, prospective investigation of CVD risk factors, subclinical atherosclerosis, and clinical CVD end points. The study was initiated between 1987 and 1989 with 15,792 men and women, aged 45-64 years, drawn from four U.S. communities: Forsyth County, North Carolina; Jackson, Mississippi; the northwest suburbs of Minneapolis, Minnesota; and Washington County, Maryland <ref type="bibr" target="#b24">(24)</ref>. In addition to the baseline exam (visit 1), a total of three follow-up exams (visits 2-4) were conducted at ϳ3-year intervals.</p><p>A standardized oral glucose tolerance test (OGTT) was administered during visit 4 between 1996 and 1998. Of 11,656 subjects attending visit 4 (74% of the original cohort), 1,183 were ineligible for the OGTT because they reported pharmacological treatment for diabetes, 237 because they had not fasted at least 10 h before the OGTT was scheduled to begin, and 192 because they had partial removal of the stomach or small intestine or were on kidney dialysis. Of the eligible subjects, 9,126 (86%) were willing to participate in the OGTT. We excluded 107 subjects because of technical difficulties with the OGTT or glucose assays and 65 subjects because they had not fasted at least 8 h before the initial (fasting) blood draw. Participants were also excluded from this analysis if they had prevalent diabetes, based on 2-h postchallenge glucose Ն11.1 mmol/l or fasting glucose Ն7.0 mmol/l (n ϭ 1,153) or self-reported physician diagnosis (n ϭ 34). Subjects with a history of CHD (n ϭ 630) or stroke or transient ischemic attacks (n ϭ 207) were excluded based on self-report and active surveillance of the cohort for hospitalized events between visits 1 and 4. Due to insufficient numbers, 18 participants of racial/ethnic groups other than black or white were excluded as well as 24 black subjects in either the Minneapolis and Washington County centers. After all exclusions, 6,888 participants were available for this study.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CVD risk factors and glucose</head><p>Unless otherwise indicated, CVD risk factors were measured at visit 4. Cigarette smoking and alcohol drinking status were categorized as current and not current (former and never). Current use of lipidlowering and antihypertensive medications was determined by questionnaire. Educational attainment was categorized dichotomously as no college versus some college based on interviews at visit 1. BMI was derived from measured height and weight, and waist circumference was measured at the umbilical level. Blood samples were drawn from an antecubital vein with minimal trauma at fasting and 2-h postchallenge. Glucose levels were determined by a hexokinase assay procedure. The reliability coefficient was 0.99 based on blinded duplicate samples collected from 430 ARIC subjects at visit 4. Total cholesterol <ref type="bibr" target="#b25">(25)</ref> and triglycerides <ref type="bibr" target="#b26">(26)</ref> were measured by enzymatic methods. HDL cholesterol was measured after dextran-magnesium precipitation of non-HDL cholesterol lipoproteins <ref type="bibr" target="#b27">(27)</ref>, and LDL cholesterol was estimated <ref type="bibr" target="#b28">(28)</ref>. Insulin was measured by enzyme-linked immunosorbent assay (Boehringer Mannheim, Indianapolis, IN). Blood pressure was measured three times using a random-zero sphygmomanometer. The mean of the last two measurements was used for analysis. White cell counts were determined by local reference laboratories using automated particle counters. Only the Forsyth County and Washington County field centers elected to measure white cell counts. For each subject, we determined the number of metabolic syndrome abnormalities based on the National Cholesterol Education Program Adult Treatment Panel III definition (29). We excluded elevated fasting glucose from these counts because it was used to classify subjects into glucose impairment categories that formed the basis for comparison.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Subclinical CVD</head><p>Mean intima-media thickness (IMT) and presence of atherosclerotic plaque were both ascertained by B mode ultrasound at six 1-cm segments of the carotid artery: the left and right internal, bifurcation, and common. Trained ultrasound readers evaluated carotid IMT (in millimeters) for each site and secondarily indicated whether there was presence of a lesion (plaque) at any site, based on published criteria <ref type="bibr" target="#b30">(30)</ref>. Measurements of IMT at all six carotid segments were not attained for every participant and were imputed by maximum likelihood methods. The number (percentage) of subjects with imputed values for zero, one, two, three, four, and five segments was 1,129 (28%), 1,008 (25%), 771 (19%), 594 (15%), 396 (10%), and 191 (5%), respectively. Details of the measurement and imputation methods are described elsewhere <ref type="bibr" target="#b31">(31,</ref><ref type="bibr" target="#b32">32)</ref>. Resting ankle and brachial blood pressure were measured using a DINAMAP 1846 SX automated oscillometric device (Critikon, Tampa, FL), respectively, in the prone and supine position. Anklebrachial index was calculated from the average of two ankle systolic blood pressure readings divided by the average of two brachial systolic blood pressure readings <ref type="bibr" target="#b33">(33)</ref>. Peripheral arterial disease was defined as ankle-brachial index of Յ0.9 for men and Յ0.85 for women <ref type="bibr" target="#b34">(34)</ref>. The ultrasound and ankle-brachial measurements were obtained on approximately half of the ARIC cohort at visit 4. Left ventricular hypertrophy was determined electrocardiographically by Cornell voltage criteria Ն28 mm for men and Ն22 mm for women <ref type="bibr" target="#b35">(35,</ref><ref type="bibr" target="#b36">36)</ref>.</p><p>All-cause mortality and incident CHD Vital status was determined through annual follow-up contacts with cohort members and searches of local hospital records and the National Death Index. Incident CHD was determined by contacting participants annually to identify hospitalizations during the previous year and by surveying discharge lists from local hospitals and death certificates from state vital statistics offices for potential CVD events and validated by computer algorithm and physician review. Details on quality assurance for ascertainment and classification of CHD events have been published elsewhere <ref type="bibr" target="#b24">(24,</ref><ref type="bibr" target="#b37">37)</ref>. For this analysis, incident CHD was defined as definite or probable myocardial infarction, fatal CHD, or cardiac procedure. Follow-up time was computed as the time between visit 4 and the first event (i.e., death or incident CHD, depending on analysis), loss to follow-up, or 31 December 2003, whichever was earliest.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analysis</head><p>Data management and analysis were performed with SAS version 9.1 (SAS Institute, Cary, NC). Adjusted means of demographic and behavioral factors, physiologic factors, and subclinical disease measures among glucose impairment categories were determined by ANCOVA using the LS MEANS option in SAS PROC GLM. Multiple logistic regression was performed to obtain adjusted proportions for dichotomous risk factors. Cox proportional hazards regression was used to evaluate associations between glucose categories and all-cause mortality or incident CHD.</p><p>RESULTS -Among 6,888 participants, 47% <ref type="bibr" target="#b3">(3,</ref><ref type="bibr">255)</ref> were white women, 36% (2,461) were white men, 11% (776) were black women, and 6% (396) were black men. Over half of the participants (56%) were classified as having IFG, IGT,</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Glucose impairment and cardiometabolic risk</head><p>or both (Table <ref type="table" target="#tab_0">1</ref>). IFG (n ϭ 2,839, 42%) was more common, overall, than IGT (n ϭ 2,150, 31%), with isolated IFG much more common than isolated IGT (25 vs. 14%, respectively). There were substantial differences in the distribution of glucose categories by sex and race: for example, the ratio of isolated IFG to isolated IGT was considerably higher in black women (2.3), white men (3.4), and black men (6.5) compared with white women (0.77). Kappa coefficients evaluating agreement between IFG and IGT categories were highest for black women (0.24), followed by white women (0.20), black men (0.15), and white men (0.14). Kappa coefficients were slightly lower when the higher 6.1 point for fasting glucose was used to define IFG. The Pearson correlation coefficient between fasting and 2-h glucose was 0.27.</p><p>In general, subjects with both IFG and IGT had a more adverse CVD risk factor profile than those with neither condition (Table <ref type="table" target="#tab_1">2</ref>). However, neither isolated IFG nor isolated IGT was associated with a consistently worse pattern of CVD risk factors. Subjects with isolated IFG were younger, on average, than subjects with isolated IGT. After adjusting for age, sex, race, and center, subjects with isolated IFG were more likely to smoke, consume alcohol, and had higher mean BMI, Data are n (%). *Fasting glucose Ͻ5.6 mmol/l and postchallenge glucose Ͻ7.8 mmol/l. †Fasting glucose between 5.6 and 6.9 mmol/l and postchallenge glucose Ͻ7.8 mmol/l. ‡Fasting glucose Ͻ5.6 mmol/l and postchallenge glucose between 7.8 and 11.0 mmol/l. §Fasting glucose between 5.6 and 6.9 mmol/l and postchallenge glucose between 7.8 and 11.0 mmol/l. waist circumference, LDL cholesterol, and fasting insulin and lower HDL cholesterol than those with isolated IGT. By contrast, subjects with isolated IGT had higher triglyceride levels, systolic blood pressure, white cell counts, and were more likely to use lipid-lowering medications than those with isolated IFG. Further adjustment for BMI and waist circumference did not substantially change the patterns of nonanthropometric risk factors across glucose impairment categories (data not shown). There were no material differences between men and women or between whites and blacks in the relation between glucose categories and CVD risk factors (data not shown). Subclinical manifestations of CVD were generally similar between glucose categories. Mean common carotid IMT and the proportions with carotid plaque, peripheral artery disease, or left ventricular hypertrophy did not differ significantly between isolated IFG and isolated IGT. Among 6,888 participants there were 333 deaths and 374 incident CHD events over a median of 6.3 years of follow-up. Subjects in the four glucose categories had similar rates of death and incident CHD in minimally adjusted and more fully adjusted models (Table <ref type="table" target="#tab_2">3</ref>). Neither fasting glucose level (hazard ratio per 1 SD increment: 0.98 [95% CI 0.88 -1.10]) nor postchallenge glucose level (hazard ratio per 1 SD: 1.03 [0.92-1.14]) was associated with all-cause mortality in a minimally adjusted model that included the glucose measures as continuous variables (data not shown). Similarly, neither fast-ing glucose (hazard ratio per 1 SD: 1.07 [0.97-1.19]) nor postchallenge glucose (hazard ratio per 1 SD: 1.07 [0.96 -1.18]) was associated with incident CHD in a minimally adjusted model. Addition of a quadratic term for fasting glucose or postchallenge glucose did not improve the fit of models for all-cause mortality or incident CHD (P Ͼ 0.10). Hazard ratios for glucose impairment categories were not consistently higher or lower in analyses restricted to the first 3 years of follow-up and analyses excluding the first 3 years (data not between IFG and IGT categories and total mortality or incident CHD were similar across strata of potential effect modifiers including sex, race, age (Ͻ or Ն65 years), and BMI (Ͻ or Ն30 kg/m 2 ) (data not shown).</p><p>Reanalyses using the old ADA criteria for IFG (cut point 6.1 mmol/l) led to reclassification of nearly one-third of the subjects, with 4,382 classified as normal (versus 3,048 under the newer criteria), 356 as isolated IFG (1,690 under the newer criteria), 1,735 as isolated IGT (1,001 under the newer criteria), and 415 as IFG/IGT (1,149 under the newer criteria). However, patterns of association between categories of glucose regulation and CVD risk factors, subclinical disease, all-cause mortality, and incident CHD were largely similar under the older and newer criteria. For example, hazard ratios for incident CHD (model 2) were 1.14 (95% CI 0.77-1.70) for isolated IFG, 0.94 (0.73-1.21) for isolated IGT, and 0.94 (0.62-1.43) for IFG/IGT when the older criteria were used.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CONCLUSIONS -W e o b s e r v e d poor agreement between IFG and IGT using current ADA definitions for glucose impairment in nondiabetic individuals.</head><p>Approximately 39% of subjects in the ARIC cohort without diabetes or a history of CVD were discordant on glucose impairment categories (i.e., isolated IFG or isolated IGT). In cross-sectional analysis, subjects with combined glucose impairment (IFG/IGT) had the least favorable pattern of CVD risk factors. Isolated IFG and isolated IGT had differing patterns of risk factors, but neither category had a consistently worse CVD risk profile or excess of metabolic syndrome abnormalities. Measures of subclinical CVD and rates of all-cause mortality and incident CHD did not differ significantly between isolated IFG and isolated IGT.</p><p>In 2003 the Expert Committee on the Diagnosis and Classification of Diabetes Mellitus recommended that the cut point for IFG be lowered from 6.1 to 5.6 mmol/l (6). The primary rationale for the change was to make the sensitivity and specificity of IFG similar to that of IGT in predicting future risk of type 2 diabetes <ref type="bibr" target="#b6">(6,</ref><ref type="bibr" target="#b38">38)</ref>. The change has been controversial <ref type="bibr">(9,38 -42)</ref>. Population-based data from the U.S. and other countries indicate that the prevalence of IFG increased two-to fourfold upon application of the new criteria <ref type="bibr" target="#b9">(9,</ref><ref type="bibr" target="#b12">12,</ref><ref type="bibr" target="#b39">39,</ref><ref type="bibr" target="#b43">43,</ref><ref type="bibr" target="#b44">44)</ref>, with the largest increases in IFG in younger age-groups <ref type="bibr" target="#b39">(39)</ref>. A recent report from the National Health and Nutrition Examination Survey 1999 -2002 estimated that 26 million U.S. adults have IFG using the lower cut point <ref type="bibr" target="#b45">(45)</ref>. In the present study, the overall prevalence of isolated IFG was higher than the prevalence of isolated IGT among subjects without a history of CVD, suggesting that the new definition of IFG does not necessarily produce equivalent numbers of subjects in the IFG and IGT categories. Furthermore, the lower cut point for IFG produced only slightly better agreement between IFG and IGT categories.</p><p>The prevalence of isolated IFG and isolated IGT differed by sex and, to a lesser extent, by race. More specifically, isolated IFG was more common than isolated IGT among black men and women and white men but not among white women. Studies with the higher <ref type="bibr" target="#b11">(11,</ref><ref type="bibr">46)</ref> and lower <ref type="bibr" target="#b11">(11,</ref><ref type="bibr" target="#b13">13)</ref> cut point for IFG have reported, at least in relative terms, that women are more likely to have isolated IGT and men are more likely to have isolated IFG. Whether there are important differences according to race or ethnicity is less clear. Based on World Health Organization definitions, IGT was more common than IFG in both non-Hispanic white and non-Hispanic black subjects in the U.S., but discrepancies between IGT prevalence and IFG prevalence were most evident in non-Hispanic white women <ref type="bibr" target="#b46">(47)</ref>.</p><p>Cross-sectional studies <ref type="bibr">(11,13,48 -51)</ref>, most using the higher IFG cut point, have found inconsistent differences in CVD risk factors between isolated IFG and isolated IGT categories. Although we found statistically significant differences between isolated IFG and isolated IGT for most CVD risk factors, absolute differences were generally small and not consistently higher in one category or the other. An Expert Consensus Workshop of the International Diabetes Federation recently concluded that IFG is characterized by raised hepatic glucose output and deficits in early insulin secretion, while IGT is characterized by peripheral insulin resistance <ref type="bibr" target="#b2">(2)</ref>. Data from the present study suggest that subjects with IFG are more insulin resistant if fasting insulin is interpreted as a surrogate measure of insulin resistance. However, studies using direct measures of insulin resistance (i.e., euglycemic-hyperinsulinemic clamp or frequently sampled intravenous glucose tolerance test) have found that subjects with isolated IGT have similar <ref type="bibr" target="#b50">(51)</ref>, if not greater <ref type="bibr" target="#b47">(48,</ref><ref type="bibr" target="#b49">50)</ref>, deficiencies in insulin action compared with subjects with isolated IFG.</p><p>Neither isolated IFG nor isolated IGT was more strongly associated with measures of subclinical CVD in the ARIC cohort. Our data appear to contrast with that of the RIAD (Risk Factors in IGT for Atherosclerosis and Diabetes) Study, which found that carotid IMT was more strongly associated with IGT than IFG in middle-aged subjects <ref type="bibr" target="#b51">(52)</ref>. We are unsure why patterns of association between IFG, IGT, and carotid IMT differ in the two studies. Associations between fasting glucose and carotid IMT among nondiabetic subjects were weak in ARIC at visit 1 (53); our data corroborate those earlier findings.</p><p>Unlike the present study, a metaregression analysis of 20 prospective studies found a significant graded relationship between CVD events and glucose level, both fasting and postchallenge (3). Some studies <ref type="bibr" target="#b44">(44,</ref><ref type="bibr" target="#b53">54,</ref><ref type="bibr" target="#b54">55)</ref> have reported a J-shaped relation between fasting or 2-h postchallenge glucose and CVD or total mortality, with subjects having the lowest glucose levels having slightly increased risk relative to those in low-normal categories. However, the lack of association between fasting glucose and incident CHD in our study is consistent with earlier reports from the ARIC cohort. In one analysis, fasting glucose levels Ͻ6.4 mmol/l at the baseline exam (visit 1) were not associated with incident CHD over 4 -7 years of follow-up <ref type="bibr" target="#b55">(56)</ref>. In another analysis, fasting glucose measured at visit 2 was not associated with incident CHD over 8 -10 years of follow-up among nondiabetic subjects <ref type="bibr" target="#b56">(57)</ref>. By contrast, A1C levels Ͼ4.6% at visit 2 demonstrated a positive, graded association with incident CHD among individuals without diabetes <ref type="bibr" target="#b56">(57)</ref>.</p><p>It is unclear why the present study failed to find an association between postchallenge glycemia and all-cause mortality or incident CHD that has been reported elsewhere <ref type="bibr" target="#b13">(13,</ref><ref type="bibr" target="#b15">(15)</ref><ref type="bibr" target="#b16">(16)</ref><ref type="bibr" target="#b17">(17)</ref><ref type="bibr" target="#b18">(18)</ref><ref type="bibr" target="#b19">(19)</ref><ref type="bibr" target="#b20">(20)</ref><ref type="bibr" target="#b21">(21)</ref><ref type="bibr" target="#b22">(22)</ref><ref type="bibr" target="#b57">58,</ref><ref type="bibr" target="#b58">59</ref>). The median follow-up of 6.3 years may have been too short for an association to emerge, as many earlier studies had longer follow-up for nonfatal and fatal outcomes. In the Whitehall Study of British men, decreased survival among glucose-intolerant subjects only became apparent between 5 and 10 years of follow-up <ref type="bibr" target="#b57">(58)</ref>. However, in an analysis of 14 European cohorts by the DECODE group, hazard ratios for CVD death associated with IGT and/or IFG were lower after 10 years of follow-up compared with 5 years of follow-up <ref type="bibr" target="#b59">(60)</ref>. It is possible that in studies with longer follow-up, a high proportion of individuals with IGT at baseline develop diabetes as an intermediate condition before onset of CHD or death. Associations between baseline IGT and these long-term outcomes may therefore be explained by greater risk of diabetes among those with IGT. However, development of diabetes during follow-up was not found to be an intermediate factor linking baseline IGT and incident CHD in a Finnish cohort study <ref type="bibr" target="#b60">(61)</ref>.</p><p>Approximately 14% of subjects without prevalent CVD and diabetes were excluded from our analysis for other reasons, mainly because they refused the OGTT. Our results may have underestimated the association between glucose impairment and all-cause mortality or incident CHD if subjects with glucose impairment who developed these outcomes were more likely to be excluded. Subjects who were excluded were more likely to be African American and smoke and had lower BMI, higher HDL cholesterol, and higher systolic blood pressure than those not excluded. After adjusting for age, sex, race, and center, subjects who were excluded had higher rates of all-cause mortality (hazard ratio 1.53 [95% CI 1.21-1.94]) but similar rates of incident CHD (1.16 [0.88 -1.52]) compared with subjects not excluded. However, mean fasting glucose was similar in excluded subjects compared with those not excluded, and the magnitude of association between fasting glucose and all-cause mortality or incident CHD was the two groups, suggesting that the results are representative for all subjects in the cohort without CVD and diabetes.</p><p>Possible differences in the etiology and long-term risk associated with IFG and IGT to delineate in light of the population impact of CVD morbidity and mortality and inconsistent use of the OGTT in clinical settings. However, neither IFG nor IGT were important predictors of incident CHD or all-cause mortality in the ARIC cohort. The relatively poor agreement between fasting and postchallenge glucose levels and differing patterns of association with CVD risk factors suggest that IFG and IGT do not represent metabolically equivalent categories.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 -Distribution of fasting and postchallenge glucose impairment by sex and race</head><label>1</label><figDesc></figDesc><table><row><cell></cell><cell></cell><cell cols="2">Glucose category</cell><cell></cell><cell></cell></row><row><cell></cell><cell>Normal*</cell><cell>Isolated IFG †</cell><cell>Isolated IGT ‡</cell><cell>IFG/IGT §</cell><cell>Total</cell></row><row><cell>White women</cell><cell>1,623 (50)</cell><cell>502 (15)</cell><cell>649 (20)</cell><cell>481 (15)</cell><cell>3,255</cell></row><row><cell>Black women</cell><cell>334 (43)</cell><cell>199 (26)</cell><cell>86 (11)</cell><cell>157 (20)</cell><cell>776</cell></row><row><cell>White men</cell><cell>940 (38)</cell><cell>834 (34)</cell><cell>242 (10)</cell><cell>445 (18)</cell><cell>2,461</cell></row><row><cell>Black men</cell><cell>151 (38)</cell><cell>155 (39)</cell><cell>24 (6)</cell><cell>66 (17)</cell><cell>396</cell></row><row><cell>Total</cell><cell>3,048 (44)</cell><cell>1,690 (25)</cell><cell>1,001 (14)</cell><cell>1,149 (17)</cell><cell>6,888</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 -Adjusted means ؎ SEs or percentages of CVD risk factors and subclinical disease by fasting and postchallenge glucose impairment</head><label>2</label><figDesc></figDesc><table><row><cell></cell><cell></cell><cell cols="2">Glucose category</cell><cell></cell><cell></cell></row><row><cell>Risk factor *</cell><cell>Normal †</cell><cell>Isolated IFG ‡</cell><cell>Isolated IGT §</cell><cell>IFG/IGT</cell><cell>P value ¶</cell></row><row><cell>n</cell><cell>3,048</cell><cell>1,690</cell><cell>1,001</cell><cell>1,149</cell><cell></cell></row><row><cell>Age (years)</cell><cell>61.8 Ϯ 0.1</cell><cell>61.8 Ϯ 0.1</cell><cell>63.5 Ϯ 0.2</cell><cell>63.3 Ϯ 0.2</cell><cell>Ͻ0.01</cell></row><row><cell>Smoking (% current smokers)</cell><cell>15.1</cell><cell>15.0</cell><cell>11.6</cell><cell>11.8</cell><cell>0.01</cell></row><row><cell>Alcohol intake (% current drinkers)</cell><cell>55.2</cell><cell>56.6</cell><cell>50.3</cell><cell>53.1</cell><cell>Ͻ0.01</cell></row><row><cell>Education (% some college)</cell><cell>44.7</cell><cell>39.9</cell><cell>38.3</cell><cell>38.2</cell><cell>0.43</cell></row><row><cell>BMI (kg/m 2 )</cell><cell>26.9 Ϯ 0.1</cell><cell>29.2 Ϯ 0.1</cell><cell>28.1 Ϯ 0.2</cell><cell>30.4 Ϯ 0.1</cell><cell>Ͻ0.01</cell></row><row><cell>Waist circumference (cm)</cell><cell>96.5 Ϯ 0.2</cell><cell>102.8 Ϯ 0.3</cell><cell>100.3 Ϯ 0.4</cell><cell>105.9 Ϯ 0.4</cell><cell>Ͻ0.01</cell></row><row><cell>HDL cholesterol (mmol/l)</cell><cell>1.40 Ϯ 0.01</cell><cell>1.31 Ϯ 0.01</cell><cell>1.36 Ϯ 0.01</cell><cell>1.23 Ϯ 0.01</cell><cell>Ͻ0.01</cell></row><row><cell>LDL cholesterol (mmol/l)</cell><cell>3.16 Ϯ 0.02</cell><cell>3.33 Ϯ 0.02</cell><cell>3.14 Ϯ 0.03</cell><cell>3.24 Ϯ 0.03</cell><cell>Ͻ0.01</cell></row><row><cell>Triglycerides (mmol/l)#</cell><cell>1.20</cell><cell>1.39</cell><cell>1.51</cell><cell>1.61</cell><cell>Ͻ0.01</cell></row><row><cell>Lipid-lowering medication (%)</cell><cell>8.4</cell><cell>9.5</cell><cell>13.2</cell><cell>12.6</cell><cell>Ͻ0.01</cell></row><row><cell>Fasting glucose (mmol/l)</cell><cell>5.12 Ϯ 0.01</cell><cell>5.86 Ϯ 0.01</cell><cell>5.18 Ϯ 0.01</cell><cell>6.00 Ϯ 0.01</cell><cell>Ͻ0.01</cell></row><row><cell>2-h glucose (mmol/l)</cell><cell>5.73 Ϯ 0.02</cell><cell>6.12 Ϯ 0.03</cell><cell>8.91 Ϯ 0.03</cell><cell>9.13 Ϯ 0.03</cell><cell>Ͻ0.01</cell></row><row><cell>Fasting insulin (pmol/l)#</cell><cell>57.0</cell><cell>72.7</cell><cell>61.5</cell><cell>86.5</cell><cell>Ͻ0.01</cell></row><row><cell>Systolic blood pressure (mmHg)</cell><cell>123.5 Ϯ 0.3</cell><cell>125.4 Ϯ 0.4</cell><cell>127.7 Ϯ 0.6</cell><cell>129.0 Ϯ 0.5</cell><cell>Ͻ0.01</cell></row><row><cell>Diastolic blood pressure (mmHg)</cell><cell>70.7 Ϯ 0.2</cell><cell>71.1 Ϯ 0.2</cell><cell>71.3 Ϯ 0.3</cell><cell>72.1 Ϯ 0.3</cell><cell>0.63</cell></row><row><cell>Antihypertensive medication (%)</cell><cell>23.1</cell><cell>28.7</cell><cell>31.4</cell><cell>39.4</cell><cell>0.15</cell></row><row><cell>Metabolic syndrome</cell><cell>1.50 Ϯ 0.02</cell><cell>1.92 Ϯ 0.03</cell><cell>1.95 Ϯ 0.04</cell><cell>2.35 Ϯ 0.03</cell><cell>0.46</cell></row><row><cell>abnormalities**</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>White cell count (10 9 cells/l) † †</cell><cell>6.0 Ϯ 0.1</cell><cell>6.3 Ϯ 0.1</cell><cell>6.6 Ϯ 0.1</cell><cell>6.5 Ϯ 0.1</cell><cell>Ͻ0.01</cell></row><row><cell>Carotid IMT (mm) † †</cell><cell>0.760 Ϯ 0.005</cell><cell>0.781 Ϯ 0.007</cell><cell>0.779 Ϯ 0.008</cell><cell>0.802 Ϯ 0.008</cell><cell>0.85</cell></row><row><cell>Carotid plaque at any site (%) † †</cell><cell>35.4</cell><cell>39.2</cell><cell>37.0</cell><cell>35.9</cell><cell>0.40</cell></row><row><cell>Peripheral artery disease (%) † †</cell><cell>4.3</cell><cell>5.3</cell><cell>4.0</cell><cell>3.5</cell><cell>0.25</cell></row><row><cell>Left ventricular hypertrophy (%) † †</cell><cell>1.8</cell><cell>2.3</cell><cell>3.2</cell><cell>3.3</cell><cell>0.27</cell></row></table><note>*All means or proportions except age adjusted for age, sex, race, and center. †Fasting glucose Ͻ5.6 mmol/l and postchallenge glucose Ͻ7.8 mmol/l. ‡Fasting glucose between 5.6 and 6.9 mmol/l and postchallenge glucose Ͻ7.8 mmol/l. §Fasting glucose Ͻ5.6 mmol/l and postchallenge glucose between 7.8 and 11.0 mmol/l. Fasting glucose between 5.6 and 6.9 mmol/l and postchallenge glucose between 7.8 and 11.0 mmol/l. ¶Test for difference in mean or percentage between isolated IFG and isolated IGT. #Geometric means. **Number of metabolic syndrome abnormalities (between 0 and 4), excluding elevated fasting glucose. † †Only measured on a subset of subjects at visit 4. Sample sizes are 3,587 for white cell count, 4,089 for carotid IMT, 3,716 for carotid plaque, 3,895 for peripheral artery disease, and 4,950 for left ventricular hypertrophy.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3 -All-cause mortality and CHD incidence by fasting and postchallenge glucose impairment</head><label>3</label><figDesc>Fasting glucose Ͻ5.6 mmol/l and postchallenge glucose Ͻ7.8 mmol/l. †Fasting glucose between 5.6 and 6.9 mmol/l and postchallenge glucose Ͻ7.8 mmol/l. ‡Fasting glucose Ͻ5.6 mmol/l and postchallenge glucose between 7.8 and 11.0 mmol/l. §Fasting glucose between 5.6 and 6.9 mmol/l and postchallenge glucose between 7.8 and 11.0 mmol/l. Adjusted for age, sex, race, and center. ¶Adjusted for model 1 variables and smoking status, hypertension, LDL cholesterol, HDL cholesterol, triglycerides, use of lipid-lowering medications, BMI, and waist circumference.</figDesc><table><row><cell></cell><cell></cell><cell cols="2">Glucose category</cell><cell></cell></row><row><cell>Outcome</cell><cell>Normal*</cell><cell>Isolated IFG †</cell><cell>Isolated IGT ‡</cell><cell>IFG/IGT §</cell></row><row><cell>All-cause mortality</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Deaths</cell><cell>135</cell><cell>81</cell><cell>56</cell><cell>61</cell></row><row><cell>Person-years</cell><cell>19,417</cell><cell>10,697</cell><cell>6,298</cell><cell>7,201</cell></row><row><cell>Rate (per 1,000 person-years)</cell><cell>7.0</cell><cell>7.6</cell><cell>8.9</cell><cell>8.5</cell></row><row><cell>Hazard ratio (95% CI), model 1</cell><cell>1.00 (reference)</cell><cell>0.92 (0.70-1.22)</cell><cell>1.19 (0.87-1.63)</cell><cell>0.98 (0.72-1.32)</cell></row><row><cell>Hazard ratio (95% CI), model 2 ¶</cell><cell>1.00 (reference)</cell><cell>0.93 (0.70-1.24)</cell><cell>1.16 (0.83-1.60)</cell><cell>1.03 (0.75-1.42)</cell></row><row><cell>Incident CHD</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Events</cell><cell>151</cell><cell>104</cell><cell>46</cell><cell>73</cell></row><row><cell>Person-years</cell><cell>18,984</cell><cell>10,359</cell><cell>6,185</cell><cell>6,988</cell></row><row><cell>Rate (per 1,000 person-years)</cell><cell>8.0</cell><cell>10.0</cell><cell>7.4</cell><cell>10.4</cell></row><row><cell>Hazard ratio (95% CI), model 1</cell><cell>1.00 (reference)</cell><cell>1.02 (0.79-1.31)</cell><cell>0.94 (0.67-1.31)</cell><cell>1.14 (0.86-1.51)</cell></row><row><cell>Hazard ratio (95% CI), model 2 ¶</cell><cell>1.00 (reference)</cell><cell>0.87 (0.67-1.12)</cell><cell>0.83 (0.59-1.17)</cell><cell>0.90 (0.66-1.21)</cell></row></table><note>*</note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">DIABETES CARE, VOLUME 30, NUMBER 2, FEBRUARY 2007</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Acknowledgments -The ARIC Study is carried out as a collaborative study supported by National Heart, Lung, and Blood Institute Contracts N01-HC-55015, N01-HC-55016, The authors thank the staff and participants of the ARIC Study for their important contributions.</p></div>
+			</div>
+
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">received support from a Centers of Excellence Grant of CNPq (the Brazilian National Council for Scientific and Technological Development)</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">B D</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">I S</forename></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Diabetes and atherosclerosis: epidemiology, pathophysiology, and management</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Beckman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Creager</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Libby</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">287</biblScope>
+			<biblScope unit="page" from="2570" to="2581" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Alberti glucose tolerance and impaired fasting glycaemia: the current status on definition and intervention</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Unwin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Shaw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Zimmet</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabet Med</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="708" to="723" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">The relationship between glucose and incident cardiovascular events: a metaregression analysis of published data from 20 studies of 95,783 individuals followed for 12.4 years</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Coutinho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Gerstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Yusuf</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="233" to="240" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">World Health Organization: Definition, Diagnosis and Classification of Diabetes Mellitus and Its Complications: Report of a WHO Consultation. Part 1: Diagnosis and Classification of Diabetes Mellitus</title>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<pubPlace>Geneva, World Health Org</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Expert Committee on the Diagnosis and Classification of Diabetes Mellitus: Report of the Expert Committee on the Diagnosis of Diabetes Mellitus (Position Statement)</title>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="S4" to="S19" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+	<note>Suppl. 1</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<author>
+			<persName><forename type="first">S</forename><surname>Genuth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">G</forename><surname>Alberti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Bennett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Buse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Defronzo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kahn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kitzmiller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">C</forename><surname>Knowler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Lebovitz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Lernmark</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Nathan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Palmer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Rizza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Saudek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Shaw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Steffes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Stern</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tuomilehto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Zimmet</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Follow-up report on the diagnosis of diabetes mellitus</title>
+				<imprint>
+			<date type="published" when="2003">2003</date>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="3160" to="3167" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Is fasting glucose sufficient to define diabetes? Epidemiological data from 20 European studies. The DECODE-study group</title>
+	</analytic>
+	<monogr>
+		<title level="j">European Diabetes Epidemiology Group</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="647" to="654" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+	<note>Diabetologia</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">The fasting plasma glucose cut-point predicting a diabetic 2-h OGTT glucose level depends on the phenotype</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Nakagami</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Qiao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tuomilehto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Balkau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Carstensen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Tajima</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Iwamoto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Borch-Johnsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Borch-Jonsen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Res Clin Pract</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="35" to="43" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Creating a pandemic of prediabetes: the proposed new diagnostic criteria for impaired fasting glycaemia</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Borch-Johnsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Colagiuri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Balkau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Glumer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Carstensen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ramachandran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Dong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Gao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="1396" to="1402" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Creating a pandemic of prediabetes: the proposed new diagnostic criteria for impaired fasting glycaemia</title>
+		<author>
+			<persName><forename type="first">O</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Riccardi G: -To:</forename><surname>Borch-Johnsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Colagiuri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Balkau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="2047" to="2048" />
+			<date type="published" when="2004">2004. 2004</date>
+		</imprint>
+	</monogr>
+	<note>Diabetologia</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Impaired glucose tolerance, but not impaired fasting glucose, is associated with increased levels of coronary heart disease risk factors: results from the Baltimore Longitudinal Study on Aging</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Blake</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Meigs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Muller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Najjar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Andres</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Nathan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="2095" to="2100" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Lowering the criterion for impaired fasting glucose: impact on disease prevalence and associated risk of diabetes and ischemic heart disease</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Tai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">Y</forename><surname>Goh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Wong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Heng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Hughes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Chew</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cutter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Chew</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Gu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">S</forename><surname>Chia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Tan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="1728" to="1734" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Differences in cardiovascular risk factors, insulin resistance, and insulin secretion in individuals with normal glucose tolerance and in subjects with impaired glucose regulation: the Telde Study</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">J</forename><surname>Novoa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Boronat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Saavedra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Diaz-Cremades</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">F</forename><surname>Varillas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">La</forename><surname>Roche</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Alberiche</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Carrillo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="2388" to="2393" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Post-challenge hyperglycaemia rather than fasting hyperglycaemia is an independent risk factor of cardiovascular disease events</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Gao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Qiao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tuomilehto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Lab</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page" from="609" to="615" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Glucose tolerance and mortality: comparison of WHO and American Diabetes Association diagnostic criteria. The DE-CODE study group</title>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">354</biblScope>
+			<biblScope unit="page" from="617" to="621" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+	<note>European Diabetes Epidemiology Group. Diabetes Epidemiology: Collaborative Analysis of Diagnostic Criteria in Europe</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Glucose tolerance and cardiovascular mortality: comparison of fasting and 2-hour diagnostic criteria</title>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">161</biblScope>
+			<biblScope unit="page" from="397" to="405" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+		<respStmt>
+			<orgName>DECODE Study Group, the European Diabetes Epidemiology Group</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Hyperglycaemia is associated with allcause and cardiovascular mortality in the Hoorn population: the Hoorn Study</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>De Vegt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Dekker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">G</forename><surname>Ruhe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Stehouwer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Nijpels</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Bouter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Heine</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="926" to="931" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Impaired glucose tolerance is a risk factor for cardiovascular disease, but not impaired fasting glucose: the Funagata Diabetes Study</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tominaga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Eguchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Manaka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Igarashi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Kato</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sekikawa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="920" to="924" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Postchallenge hyperglycemia and mortality in a national sample of U.S. adults</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Saydah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Miret</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Sung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Varas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Gause</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">L</forename><surname>Brancati</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="1397" to="1402" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Twohour glucose is a better risk predictor for incident coronary heart disease and cardiovascular mortality than fasting glucose</title>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Qiao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Pyorala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Pyorala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Nissinen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lindstrom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Tilvis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tuomilehto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur Heart J</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="1267" to="1275" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Fasting and postchallenge glycemia and cardiovascular disease risk: the Framingham Offspring Study</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Meigs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Nathan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D'agostino Rb</forename><surname>Sr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">W</forename><surname>Wilson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="1845" to="1850" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Fasting and 2-hour postchallenge serum glucose measures and risk of incident cardiovascular events in the elderly: the Cardiovascular Health Study</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">L</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">I</forename><surname>Barzilay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Shaffer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Savage</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Heckbert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">H</forename><surname>Kuller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Kronmal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">E</forename><surname>Resnick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">M</forename><surname>Psaty</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">162</biblScope>
+			<biblScope unit="page" from="209" to="216" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Risk of progression to type 2 diabetes based on relationship between postload plasma glucose and fasting plasma glucose</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Abdul-Ghani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Defronzo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Stern</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="1613" to="1618" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">The Atherosclerosis Risk in Communities (ARIC) Study: design and objectives</title>
+	</analytic>
+	<monogr>
+		<title level="m">ARIC Investigators</title>
+				<imprint>
+			<date type="published" when="1989">1989</date>
+			<biblScope unit="volume">129</biblScope>
+			<biblScope unit="page" from="687" to="702" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Reagent for the enzymatic determination of serum total cholesterol with improved lipolytic efficiency</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Siedel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">O</forename><surname>Hagele</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ziegenhorn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">W</forename><surname>Wahlefeld</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Chem</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="1075" to="1080" />
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Reagent for the enzymatic determination of serum total triglycerides with improved lipolytic efficiency</title>
+		<author>
+			<persName><forename type="first">U</forename><surname>Nagele</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">O</forename><surname>Hagele</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Sauer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Wiedemann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Lehmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">W</forename><surname>Wahlefeld</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Gruber</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Chem Clin Biochem</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="165" to="174" />
+			<date type="published" when="1984">1984</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Dextran sulfate-Mg2ϩ precipitation procedure for quantitation of high-density-lipoprotein cholesterol</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">R</forename><surname>Warnick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Benderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Albers</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Chem</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="1379" to="1388" />
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Estimation of the concentration of lowdensity lipoprotein cholesterol in plasma, without use of the preparative ultracentrifuge</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">T</forename><surname>Friedewald</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">I</forename><surname>Levy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Fredrickson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Chem</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="499" to="502" />
+			<date type="published" when="1972">1972</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Treatment of High Blood Cholesterol in Adults: Third Report of the National Cholesterol Education Program Expert Panel on Detection, Evaluation, and Treatment of High Blood Cholesterol in Adults (Adult Treatment Panel III)</title>
+	</analytic>
+	<monogr>
+		<title level="j">National Institutes of Health</title>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">B-mode-detected carotid artery plaque in a general population: Atherosclerosis Risk in Communities (ARIC) study investigators</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">B</forename><surname>Duncan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Metcalf</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Crouse Jr 3rd</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Sharrett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">A</forename><surname>Tyroler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Barnes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Heiss</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stroke</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="2377" to="2383" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Association of coronary heart disease incidence with carotid arterial wall thickness and major risk factors: the Atherosclerosis Risk in Communities (ARIC) study, 1987-1993</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">E</forename><surname>Chambless</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Heiss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Folsom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rosamond</forename><forename type="middle">W</forename><surname>Szklo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sharrett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Clegg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">X</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">146</biblScope>
+			<biblScope unit="page" from="483" to="494" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Relationship of periodontal disease to carotid artery intima-media wall thickness: the Atherosclerosis Risk in Communities (ARIC) study</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Beck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Elter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Heiss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Couper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Mauriello</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Offenbacher</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arterioscler Thromb Vasc Biol</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="1816" to="1822" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Associations of ankle-brachial index with clinical coronary heart disease, stroke and preclinical carotid and popliteal atherosclerosis: the Atherosclerosis Risk in Communities (ARIC) study</title>
+		<author>
+			<persName><forename type="first">Z</forename><forename type="middle">J</forename><surname>Zheng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Sharrett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">E</forename><surname>Chambless</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">D</forename><surname>Rosamond</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">J</forename><surname>Nieto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Sheps</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Dobs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">W</forename><surname>Evans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Heiss</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Atherosclerosis</title>
+		<imprint>
+			<biblScope unit="volume">131</biblScope>
+			<biblScope unit="page" from="115" to="125" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Cross-sectional association of soluble thrombomodulin with mild peripheral artery disease: the ARIC study: Atherosclerosis Risk in Communities</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Salomaa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Matei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Aleksic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Sansores-Garcia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Folsom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Juneja</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">K</forename><surname>Wu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Atherosclerosis</title>
+		<imprint>
+			<biblScope unit="volume">157</biblScope>
+			<biblScope unit="page" from="309" to="314" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Relation between electrocardiography and echocardiography for left ventricular mass in mild systemic hypertension (results from Treatment of Mild Hypertension Study)</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Crow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Prineas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Rautaharju</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Hannan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">R</forename><surname>Liebson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">75</biblScope>
+			<biblScope unit="page" from="1233" to="1238" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Kligfield P: Electrocardiographic detection of left ventricular hypertrophy by the simple QRS voltage-duration product</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Molloy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Okin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Devereux</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Coll Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="1180" to="1186" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Community surveillance of coronary heart disease in the Atherosclerosis Risk in Communities (ARIC) study: methods and initial two years&apos; experience</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>White</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Folsom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">E</forename><surname>Chambless</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Sharret</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Conwill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Higgins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">D</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">A</forename><surname>Tyroler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="223" to="233" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Lowering the criterion for impaired fasting glucose is in order</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Genuth</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="3331" to="3332" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Lowering the criterion for impaired fasting glucose will not provide clinical benefit</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Davidson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">B</forename><surname>Landsman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Alexander</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Genuth</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="3329" to="3330" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Lowering the cut point for impaired fasting glucose: where is the evidence? Where is the logic?</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Schriger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Lorber</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="592" to="601" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Counterpoint: impaired fasting glucose: the case against the new American Diabetes Association guidelines</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Dekker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Balkau</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="1173" to="1175" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Point: impaired fasting glucose: the case for the new American Diabetes Association criterion</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Shaw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">Z</forename><surname>Zimmet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">G</forename><surname>Alberti</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="1170" to="1172" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">A change in definition results in an increased number of adults with prediabetes in the United States (Letter)</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Benjamin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">L</forename><surname>Cadwell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">S</forename><surname>Geiss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Engelgau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Vinicor</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">164</biblScope>
+			<biblScope unit="page">2386</biblScope>
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Increased mortality risks of prediabetes (impaired fasting glucose) in Taiwan</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Wen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">Y</forename><surname>Cheng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Tsai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">L</forename><surname>Hsu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="2756" to="2761" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Prevalence of diabetes and impaired fasting glucose in adults in the U.S. population: National Health And Nutrition Examination Survey</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Cowie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">F</forename><surname>Rust</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">D</forename><surname>Byrd-Holt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Eberhardt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Flegal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Engelgau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Saydah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">S</forename><surname>Geiss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">W</forename><surname>Gregg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="61" to="69" />
+			<date type="published" when="1999">1999 -2002. 2006. 2003</date>
+		</imprint>
+	</monogr>
+	<note>Diabetes Care</note>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Prevalence of diabetes, impaired fasting glucose, and impaired glucose tolerance in U.S. adults: the Third National Health and Nutrition Examination Survey</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">I</forename><surname>Harris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Flegal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Cowie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Eberhardt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Goldstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Little</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">M</forename><surname>Wiedmeyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">D</forename><surname>Byrd-Holt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="518" to="524" />
+			<date type="published" when="1988">1988 -1994. 1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Differences in insulin resistance in nondiabetic subjects with isolated impaired glucose tolerance or isolated impaired fasting glucose</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Festa</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Agostino R Jr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Hanley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Karter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">F</forename><surname>Saad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Haffner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="1549" to="1555" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Elevated white blood cell count in subjects with impaired glucose tolerance</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ohshita</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Yamane</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hanafusa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Mori</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Mito</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Okubo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Hara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Kohno</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="491" to="496" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Who are more insulin resistant, people with IFG or people with IGT?</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Wasada</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Kuroki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Katsumori</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Arii</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sato</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Aoki</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="758" to="759" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Metabolic characteristics of individuals with impaired fasting glucose and/or impaired glucose tolerance</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Weyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Bogardus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Pratley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="2197" to="2203" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Impaired fasting glucose is not a risk factor for atherosclerosis</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hanefeld</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Temelkova-Kurktschiev</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Schaper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Henkel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Siegert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Koehler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabet Med</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="212" to="218" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Relation of carotid artery wall thickness to diabetes mellitus, fasting glucose and insulin, body size, and physical activity: Atherosclerosis Risk in Communities (ARIC) study investigators</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Folsom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Eckfeldt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Weitzman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">E</forename><surname>Chambless</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Barnes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">B</forename><surname>Cram</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">G</forename><surname>Hutchinson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stroke</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="66" to="73" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Eschwege E: Is there a glycemic threshold for mortality risk?</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Balkau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bertrais</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Ducimetiere</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="696" to="699" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Is the current definition for diabetes relevant to mortality risk from all causes and cardiovascular and noncardiovascular diseases?</title>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="688" to="696" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+		<respStmt>
+			<orgName>DECODE Study Group, the European Diabetes Epidemiology Group</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">A prospective study of coronary heart disease in relation to fasting insulin, glucose, and diabetes: the Atherosclerosis Risk in Communities (ARIC) study</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Folsom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Szklo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Stevens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Liao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Eckfeldt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="935" to="942" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">Glycemic control and coronary heart disease risk in persons with and without diabetes: the Atherosclerosis Risk in Communities Study</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Selvin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Coresh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Golden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">L</forename><surname>Brancati</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Folsom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">W</forename><surname>Steffes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">165</biblScope>
+			<biblScope unit="page" from="1910" to="1916" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">Relation between blood glucose and coronary mortality over 33 years in the Whitehall Study</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Brunner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Shipley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Witte</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Fuller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Marmot</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="26" to="31" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<title level="a" type="main">The relation of fasting and 2-h postchallenge plasma glucose concentrations to mortality: data from the Baltimore Longitudinal Study of Aging with a critical review of the literature</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Sorkin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Muller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Fleg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Andres</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="2626" to="2632" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<monogr>
+		<title level="m" type="main">Prediction of the risk of cardiovascular mortality using a score that includes glucose as a risk factor: the DECODE study</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Balkau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Hu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Qiao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tuomilehto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Borch-Johnsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Pyorala</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004">2118 -2128, 2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title level="a" type="main">Progression to clinically diagnosed and treated diabetes from impaired glucose tolerance and impaired fasting glycaemia</title>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Qiao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lindstrom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">T</forename><surname>Valle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tuomilehto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabet Med</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="1027" to="1033" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

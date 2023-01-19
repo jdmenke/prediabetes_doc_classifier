@@ -1,0 +1,1016 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">The metabolic syndrome and cardiovascular risk in the British Regional Heart Study</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><roleName>Dr</roleName><forename type="first">S</forename><forename type="middle">G</forename><surname>Wannamethee</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Primary Care and Population Science</orgName>
+								<orgName type="institution">Royal Free and University College Medical School</orgName>
+								<address>
+									<settlement>London</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Primary Care and Population Science</orgName>
+								<orgName type="institution">Royal Free and University College Medical School</orgName>
+								<address>
+									<postCode>NW3 2PF</postCode>
+									<settlement>London</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">The metabolic syndrome and cardiovascular risk in the British Regional Heart Study</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">1FE710691FA38BB4F0408B121F616C84</idno>
+					<idno type="DOI">10.1038/ijo.2008.32</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.1" ident="GROBID" when="2022-07-19T23:00+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>metabolic syndrome</term>
+					<term>cardiovascular disease</term>
+					<term>type 2 diabetes</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Objective: To evaluate the metabolic syndrome as an overall risk assessment tool for cardiovascular disease (CVD) and diabetes in middle-aged British men. Design: Prospective study. Subjects: A total of 5128 men aged 40-59 years with no history of CVD or diabetes drawn from general practices in 24 British towns and followed up for 20 years. Results: The metabolic syndrome (National Cholesterol Expert Panel definition) is associated with a significant increase in risk of total CHD (myocardial infarction, angina or CHD death) (relative risk (RR), 95% CI: 1.57, 1.39-1.97), stroke (1.61, 95% CI: 1.26-2.06) and type 2 diabetes (3.57, 95% CI: 2.83-4.50) and is a far stronger predictor of diabetes than of total CHD and stroke in middle-aged men. The metabolic syndrome was inferior to the Framingham Risk Score in predicting total CHD or major CVD over 20 years (area under the curve (AUC) 0.58 vs 0.66 for both CHD and CVD; Po0.0001 for difference) but was superior in predicting diabetes (AUC 0.70 vs 0.60; Po0.001). However, absolute risk of developing CVD or diabetes over 20 years in those with three or more abnormalities was very high, ranging from 41.8% in those with three abnormalities to over a 50% chance in those with four of five abnormalities, comparable to the absolute incidence rates in the top 2 fifths of the Framingham distribution. Conclusion: While the initial aim to use the metabolic syndrome to improve risk prediction of CHD has been disappointing, the syndrome identifies patients at high risk of both diabetes and CVD who may derive benefit from lifestyle intervention.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>The metabolic syndrome, whether defined on the basis of the National Cholesterol Education Program (NCEP) Expert Panel 1 criteria or WHO criteria, <ref type="bibr" target="#b1">2,</ref><ref type="bibr" target="#b2">3</ref> is associated with increased risk of developing diabetes and cardiovascular disease (CVD) <ref type="bibr" target="#b3">4,</ref><ref type="bibr" target="#b4">5</ref> and has been proposed as a possible global risk assessment tool for CVD. <ref type="bibr" target="#b5">6,</ref><ref type="bibr" target="#b6">7</ref> There is growing debate on the use of the metabolic syndrome as an assessment tool for coronary heart disease risk in clinical practice. <ref type="bibr" target="#b7">[8]</ref><ref type="bibr" target="#b8">[9]</ref><ref type="bibr" target="#b9">[10]</ref> In the few studies that have assessed whether the syndrome is a better predictor of coronary heart disease (CHD) risk than other risk assessments such as the Framingham Risk Score (FRS), there is indication that the metabolic syndrome is inferior to the FRS in predicting CHD and to established rules for the prediction of either type 2 diabetes or CVD. <ref type="bibr" target="#b5">6,</ref><ref type="bibr" target="#b10">[11]</ref><ref type="bibr" target="#b11">[12]</ref><ref type="bibr" target="#b12">[13]</ref> Furthermore, several investigators have pointed out that the individual components of the syndrome are more important determinants of CHD than either of the WHO or NCEP definitions. <ref type="bibr" target="#b13">14,</ref><ref type="bibr" target="#b14">15</ref> Thus, the use of the metabolic syndrome as a focus of screening for metabolic risk modification has become questionable. <ref type="bibr" target="#b9">10</ref> In a previous article <ref type="bibr" target="#b12">13</ref> from the British Regional Heart Study, the metabolic syndrome was evaluated as a risk assessment for CHD (nonfatal myocardial infarction or CHD death) and type 2 diabetes, and the question whether the metabolic syndrome is a better predictor of CHD and diabetes than the FRS was addressed. In this paper, I have extended CHD outcome to include nonfatal angina to assess the metabolic syndrome as a global risk assessment tool for CVD and diabetes in middleaged British men.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The British Regional Heart Study</head><p>The British Regional Heart Study (BRHS) is a large prospective study of CVD comprising 7735 men aged 40-59 years drawn from general practices in each of 24 towns in England, Wales and Scotland with a 78% response rate. <ref type="bibr" target="#b15">16</ref> Research nurses administered a standard questionnaire that included questions on lifestyle factors and medical history. Physical measurements including height and weight were made and venous nonfasting blood samples were obtained for measurement of biochemical and haematologic variables. Triglyceride measurements were only available for men in the 7-24th towns visited (n ¼ 5663). All men have been followed up for all-cause mortality, cardiovascular morbidity and development of type 2 diabetes from the initial screening in January 1978 to July 1980. <ref type="bibr" target="#b16">17</ref> All major CHD (nonfatal myocardial infarction and angina) and stroke events (fatal and nonfatal) have been recorded, and follow-up has been achieved for 99% of the cohort.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Definition of the metabolic syndrome</head><p>The metabolic syndrome was based on the modified NCEP definition. <ref type="bibr" target="#b2">3</ref> In this paper, body mass index (BMI) X28.8 kg/m 2 was used as a proxy for abdominal adiposity in conformity with other studies that have used BMI to replace waist circumference. <ref type="bibr" target="#b17">18</ref> As triglycerides were based on nonfasting levels that are on average 20-30% higher than fasting levels, <ref type="bibr" target="#b18">19</ref> a higher threshold was used for high triglyceride defined as being above 200 mg per 100 ml (X2.28 mmol l À1 ). Thus, in this study the metabolic syndrome includes any three of the following: (1) hypertension (SBP (systolic blood pressure) X130 or DBP (diastolic blood pressure) X85 mm Hg or on antihypertensive treatment); (2) high blood glucose (X110 mg per 100 ml; X6.1 mmol l À1 ); (3) hypertriglyceridaemia (4200 mg per 100 ml; X2.28 mmol l À1 ); (4) low HDL (high-density lipoprotein) o1.036 (o40 mg per 100 ml; o1.036 mmol l À1 ); and (5) elevated BMI (X28.8 kg/m 2 ). <ref type="bibr" target="#b12">13</ref> The metabolic syndrome and risk of CVD and diabetes</p><p>The analysis was restricted to 5128 men with no prevalent CVD or diabetes in whom there were 1263 total CHD events (720 angina events and 763 myocardial infarction/CHD death), 291 major stroke events and 299 incident cases of type 2 diabetes during the 20-year follow-up for each man. In all, 1526 men developed major CVD events (myocardial infarction, angina, stroke and all CVD death) or diabetes.</p><p>The metabolic syndrome was present in about a quarter of the British men (26.0%) comparable to the prevalence of the metabolic syndrome in the West of Scotland Study. <ref type="bibr" target="#b17">18</ref> In agreement with other studies, <ref type="bibr" target="#b3">4,</ref><ref type="bibr" target="#b4">5,</ref><ref type="bibr" target="#b19">20</ref> the metabolic syndrome was associated with a significant increase of total CHD and stroke outcome and, in particular, with type 2 diabetes, after adjustment for age, social class, smoking, physical activity and alcohol (Table <ref type="table" target="#tab_0">1</ref>). Over 44% of men with the syndrome had developed either CVD or diabetes during the 20 years compared with about 30% in those without the syndrome. Those with the syndrome had a 70% increase in risk of CVD or diabetes after adjustment for lifestyle factors compared with those without.</p><p>Some studies have suggested that the individual components are stronger determinants of CHD than the metabolic syndrome. <ref type="bibr" target="#b13">14,</ref><ref type="bibr" target="#b14">15</ref> In the BRHS, the syndrome was associated with greater magnitude of association (relative risk) with CHD than any of the individual components with the exception of hypertension, which showed larger associations than the metabolic syndrome (Table <ref type="table" target="#tab_1">2</ref>). For diabetes, obesity showed stronger associations than the metabolic syndrome. However, the vast majority of men with elevated BMI had Metabolic syndrome and cardiovascular risk in BRHS SG Wannamethee</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>S26</head><p>the metabolic syndrome (71.6%). This compared with only 32% among those with hypertension. These findings are consistent with previous studies, which have indicated that the magnitude of the associations for individual components of the syndrome is similar or larger than that seen for the metabolic syndrome. <ref type="bibr" target="#b13">14,</ref><ref type="bibr" target="#b14">15</ref> The risk of CHD and diabetes increased significantly and progressively with increasing number of metabolic abnormalities (Table <ref type="table" target="#tab_2">3</ref>) as has been reported in other studies; <ref type="bibr" target="#b16">17,</ref><ref type="bibr" target="#b20">[21]</ref><ref type="bibr" target="#b21">[22]</ref><ref type="bibr" target="#b22">[23]</ref> less consistent relationships were seen with stroke risk.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Comparisons between the Framingham Risk Score and the metabolic syndrome</head><p>The predictive power for CHD of the number of metabolic abnormalities was compared with the FRS equation <ref type="bibr" target="#b23">24,</ref><ref type="bibr" target="#b24">25</ref> over 20 years. The top fifth of the FRS showed a higher probability of developing total CHD than even the presence of four or more abnormalities (Figure <ref type="figure" target="#fig_0">1</ref>). The FRS was a significantly better predictor of CHD than the number of metabolic abnormalities as indicated by the ROC area under the curve (AUC) but less predictive for diabetes than the metabolic syndrome (Po0.001 for differences) (Table <ref type="table" target="#tab_3">4</ref>). This was largely due to the FRS being a far better predictor of nonfatal myocardial infarction or CHD death. The FRS and the metabolic syndrome showed similar prediction for nonfatal angina. The FRS was also a significant better discriminator for stroke than the number of metabolic abnormalities. Thus, the metabolic syndrome was a stronger predictor of diabetes than of CHD as observed in previous studies; <ref type="bibr" target="#b16">17,</ref><ref type="bibr" target="#b25">26</ref> but less effective at predicting CHD than the FRS, consistent with reports from the United States. <ref type="bibr" target="#b5">6,</ref><ref type="bibr" target="#b10">11,</ref><ref type="bibr" target="#b11">12</ref> It is not surprising that the FRS is a better predictor of CHD as the metabolic syndrome does not contain several well-established risk factors for CHD such as serum total cholesterol and smoking. However, the metabolic syndrome was a far better predictor of diabetes than the FRS. This is likely to be due to the inclusion of established risk factors for diabetes such as waist circumference (BMI) and high blood glucose levels (short of diabetes), which are not included in the FRS.</p><p>Since CVD is more common than diabetes, the FRS was a better discriminator and more sensitive in identifying total events (total CHD, stroke or diabetes) than the metabolic syndrome (AUC 0.66, 95% CI (confidence interval): 0.64-0.68 vs 0.60, 0.58-0.62; Po0.001, sensitivity 41.2 vs 34.7%), but absolute risk of developing CVD or diabetes over 20 years in those with three or more metabolic abnormalities was very high ranging from 41.8 to 50.8% chance, comparable with the absolute incidence rates in the top 2 fifths of the Framingham distribution over 20 years. The probability of developing heart attacks, angina, stroke or diabetes over 20 years increased markedly with increasing number of components from 18.5% in those with none to 28.2% with one, 35.1% with two, 41.8% with three and 50.8% with four   </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Caveats</head><p>The definition of the metabolic syndrome used in this study was based on NCEP criteria, and it is unclear how the WHO definition, which includes insulin, or the more recent International Diabetes Federation (IDF) definition (2005), would compare against the FRS. However, in most studies NCEP definition has shown to be similar or more predictive for CVD than the WHO definition <ref type="bibr" target="#b26">[27]</ref><ref type="bibr" target="#b27">[28]</ref><ref type="bibr" target="#b28">[29]</ref> or the IDF definition. <ref type="bibr" target="#b29">30</ref> Relative risks associated with many of the components of the metabolic syndrome such as hypertension and blood lipids decrease with increasing age, <ref type="bibr" target="#b30">31</ref> and the prognostic significance of obesity in the elderly is controversial. <ref type="bibr" target="#b31">32</ref> The present study was carried out in a middle-aged population followed up for 20 years, and whether these findings are generalizable to an elderly population is not certain. Some have suggested very modest associations between the metabolic syndrome and CVD in the elderly, <ref type="bibr" target="#b13">14,</ref><ref type="bibr" target="#b32">33</ref> while others suggest the metabolic syndrome to be a strong predictor of CVD. <ref type="bibr" target="#b33">34</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>In middle-aged men, risk of CHD and diabetes increased significantly and progressively with increasing number of metabolic abnormalities. These findings emphasize the importance of intervention even in those with two metabolic abnormalities. The metabolic syndrome (NCEP definition) is associated with a significant increase in risk of CHD, stroke and diabetes and is a far stronger predictor of diabetes than of CHD and stroke in middle-aged men. Although it is inferior to the FRS in predicting total CHD and, in particular, heart attacks, the metabolic syndrome identifies people who are predisposed to either CVD or diabetes. While the initial aim to use the metabolic syndrome to improve risk prediction of CHD has been disappointing, the metabolic syndrome (number of metabolic abnormalities) may still be a useful concept. It may serve as a simple clinical approach to identifying patients at high risk of both diabetes and CVD who may reduce their risk by lifestyle intervention such as weight reduction and improved physical activity.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1</head><label>1</label><figDesc>Figure1The metabolic syndrome and Framingham Risk Score (FRS), and probability of occurrence of total CHD events and type 2 diabetes over 20 years. Data on diabetes extracted from Wannamethee et al.<ref type="bibr" target="#b12">13</ref> </figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>The metabolic syndrome and cumulative incidence and adjusted RR of CVD outcomes and diabetes in 5128 men aged 40-59 years with no history of CHD, stroke or diabetes</figDesc><table><row><cell>No (3895)</cell><cell>Yes (1333)</cell></row></table><note>Abbreviations: CHD, coronary heart disease; CVD, cardiovascular disease; RR, relative risk. Adjusted for age, smoking, social class, physical activity and alcohol intake. British Regional Heart Study. Data on type 2 diabetes and stroke extracted from Wannamethee et al.<ref type="bibr" target="#b12">13</ref> </note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2</head><label>2</label><figDesc>Individual components of the NCEP: the metabolic syndrome and adjusted RR of CHD and diabetes</figDesc><table><row><cell></cell><cell>Total CHD</cell><cell>Type 2 diabetes</cell></row><row><cell></cell><cell>Adjusted RR</cell><cell>Adjusted RR</cell></row><row><cell>Metabolic syndrome</cell><cell>1.57 (1.39, 1.97)</cell><cell>3.57 (2.83, 4.50)</cell></row><row><cell>Components</cell><cell></cell><cell></cell></row><row><cell>Obesity</cell><cell>1.37 (1.18, 1.59)</cell><cell>3.66 (2.87, 4.66)</cell></row><row><cell>Hypertension</cell><cell>1.68 (1.43, 1.97)</cell><cell>1.96 (1.38, 2.79)</cell></row><row><cell>High triglyceride</cell><cell>1.45 (1.29, 1.63)</cell><cell>2.19 (1.74, 2.77)</cell></row><row><cell>Low HDL-C</cell><cell>1.38 (1.23, 1.55)</cell><cell>1.92 (1.52, 2.44)</cell></row><row><cell>High glucose</cell><cell>1.18 (1.03, 1.35)</cell><cell>2.70 (2.13, 3.45)</cell></row></table><note>Abbreviations: CHD, coronary heart disease; HDL-C, high-density lipoprotein cholesterol; RR, relative risk. Adjusted for age, smoking, social class, physical activity and alcohol intake. British Regional Heart Study.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3</head><label>3</label><figDesc>Adjusted relative risk of total CHD, stroke events and diabetes by number of metabolic risk factors in 5128 men aged 40-59 years with no history of CHD, stroke or diabetes Abbreviation: CHD, coronary heart disease. Adjusted for age, smoking, social class, physical activity and alcohol intake. Data on stroke and type 2 diabetes extracted from Wannamethee et al.<ref type="bibr" target="#b12">13</ref> </figDesc><table><row><cell>No of metabolic abnormalities</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 4</head><label>4</label><figDesc>Comparisons between the metabolic syndrome and Framingham Risk ScoreMetabolic syndrome and cardiovascular risk in BRHS SG Wannamethee or more abnormalities. The absolute probability was comparable to the probability associated with fifths of the FRS: 16.8, 24.7, 31.9, 42.3 and 51.3% for the five FRS groups. Thus, the metabolic syndrome is a simple tool, which identifies subjects predisposed to either CVD or diabetes.</figDesc><table><row><cell></cell><cell cols="2">Metabolic syndrome</cell><cell></cell><cell>Framingham</cell></row><row><cell></cell><cell>AUC</cell><cell>Sensitivity (%)</cell><cell>AUC</cell><cell>Sensitivity (%)</cell></row><row><cell>Total CHD</cell><cell>0.58</cell><cell>33.3</cell><cell>0.66</cell><cell>41.6</cell></row><row><cell>MI</cell><cell>0.59</cell><cell>35.5</cell><cell>0.68</cell><cell>47.2</cell></row><row><cell>Nonfatal angina</cell><cell>0.57</cell><cell>32.9</cell><cell>0.58</cell><cell>32.8</cell></row><row><cell>Stroke</cell><cell>0.55</cell><cell>34.7</cell><cell>0.66</cell><cell>44.1</cell></row><row><cell>All CVD</cell><cell>0.58</cell><cell>33.3</cell><cell>0.66</cell><cell>40.1</cell></row><row><cell>T2DM</cell><cell>0.70</cell><cell>53.9</cell><cell>0.60</cell><cell>35.6</cell></row><row><cell>CVD or T2DM</cell><cell>0.60</cell><cell>34.7</cell><cell>0.66</cell><cell>41.2</cell></row><row><cell cols="5">Abbreviations: AUC, area under the curve; CHD, coronary heart disease; CVD,</cell></row><row><cell cols="5">cardiovascular disease; MI, myocardial infarction; T2DM, type 2 diabetes. Data</cell></row><row><cell cols="4">on T2DM and stroke extracted from Wannamethee et 13</cell><cell></cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">International Journal of Obesity</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgements</head><p>The British Regional Heart Study is a British Heart Foundation Research Group.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conflict of interest</head><p>The author declared no financial interests.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Executive Summary of the Third Report of the National Cholesterol Education Program (NCEP) Expert Panel on Detection, Evaluation and Treatment High blood cholesterol in adults (Adult Treatment Panel III)</title>
+	</analytic>
+	<monogr>
+		<title level="j">Expert Panel on Detection</title>
+		<imprint>
+			<biblScope unit="volume">285</biblScope>
+			<biblScope unit="page" from="2486" to="2497" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+	<note>JAMA</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Definition, diagnosis and classification of diabetes mellitus and its complications. I: diagnosis and classification of diabetes mellitus provisional report of a WHO consultation</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">G</forename><surname>Alberti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">Z</forename><surname>Zimmet</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabet Med</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="539" to="553" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Comment on the provisional report from the WHO consultation. European Group for the Study of Insulin Resistance (EGIR)</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Balkau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Charles</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabet Med</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="442" to="443" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Metabolic syndrome and risk of cardiovascular disease: a meta-analysis</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Galassi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Reynolds</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>He</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Med</title>
+		<imprint>
+			<biblScope unit="volume">119</biblScope>
+			<biblScope unit="page" from="812" to="819" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Metabolic syndrome and risk of incident cardiovascular events and death</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Garni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Witt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Howard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Erwin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Garni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">K</forename><surname>Somers</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Coll Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="403" to="414" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">for the Conference Participants. Definition of metabolic syndrome: report of the National Heart Lung and Blood Institute/American Heart Association conference on scientific issues related to definition</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Grundy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Brewer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">I</forename><surname>Cleeman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lenfant</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">109</biblScope>
+			<biblScope unit="page" from="433" to="438" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Metabolic syndrome: in search of a clinical role</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Meigs</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="2761" to="2763" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Role of the metabolic syndrome in risk assessment for coronary heart disease</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Kohli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Greenland</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">295</biblScope>
+			<biblScope unit="page" from="819" to="821" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Does a diagnosis of metabolic syndrome have value in clinical practice?</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Grundy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Clin Nutr</title>
+		<imprint>
+			<biblScope unit="volume">83</biblScope>
+			<biblScope unit="page" from="1248" to="1251" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Joint statement from the American Diabetes Association and the European Association for the Study of Diabetes</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kahn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Buse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Ferrannini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Stern</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="2289" to="2304" />
+			<date type="published" when="2005">2005</date>
+			<publisher>American Diabetes Association</publisher>
+		</imprint>
+	</monogr>
+	<note>The metabolic syndrome: time for a clinical appraisal</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Does the metabolic syndrome improve identification of individuals at risk of type 2 diabetes and/or cardiovascular disease?</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Stern</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Gonzalez-Villalpando</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename><surname>Hunt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Haffner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="2676" to="2681" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">The metabolic syndrome and 11-year risk of incident cardiovascular disease in the Atherosclerosis Risk in Communities Study</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Mcneill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">D</forename><surname>Rosamond</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Girman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Golden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">I</forename><surname>Schmidt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">E</forename><surname>East</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="385" to="390" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Metabolic syndrome vs Framingham Risk Score for prediction of coronary heart disease, stroke and type 2 diabetes</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">G</forename><surname>Wannamethee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">G</forename><surname>Shaper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Lennon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Morris</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">165</biblScope>
+			<biblScope unit="page" from="2644" to="2650" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Does the new International Diabetes Federation definition of the metabolic syndrome predict CHD any more strongly than older definitions? Findings from the British Women&apos;s Heart and Health Study</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Lawlor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">D</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ebrahim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="41" to="48" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">The metabolic syndrome predicts cardiovascular mortality: a 13-year follow-up study in elderly non-diabetic Finns</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ruotsalainen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Moilanen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Lepisto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Laakso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kuusisto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur Heart J</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="857" to="864" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">British Regional Heart Study: cardiovascular risk factors in middle-aged men in 24 towns</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">G</forename><surname>Shaper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Pocock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Walker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">M</forename><surname>Cohen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Wale</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">G</forename><surname>Thomson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMJ</title>
+		<imprint>
+			<biblScope unit="volume">283</biblScope>
+			<biblScope unit="page" from="179" to="186" />
+			<date type="published" when="1981">1981</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Twenty year follow-up of a cohort study based in general practices in 24 British towns</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Walker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">G</forename><surname>Shaper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Lennon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">H</forename><surname>Whincup</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Public Health Med</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="479" to="485" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Metabolic syndrome with and without C-reactive protein as a predictor of coronary heart disease and diabetes in the West of Scotland Coronary Prevention Study</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Sattar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gaw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Scherbakova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Ford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>O'reilly</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Haffner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">108</biblScope>
+			<biblScope unit="page" from="414" to="419" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">for the Multiple Risk factor Intervention Trial Research Group. Relation of triglyceride levels, fasting and non-fasting, to fatal and non-fatal coronary heart disease</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">E</forename><surname>Eberly</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Stamler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Neaton</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">163</biblScope>
+			<biblScope unit="page" from="1077" to="1083" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Metabolic syndrome compared with type 2 diabetes mellitus as a risk factor for stroke</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Najarian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Sullivan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">B</forename><surname>Kannel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Pwf</forename><surname>Wilson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>'agostino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Wolf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">166</biblScope>
+			<biblScope unit="page" from="106" to="111" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Metabolic syndrome as a precursor of cardiovascular disease and type 2 diabetes mellitus</title>
+		<author>
+			<persName><forename type="first">Pwf</forename><surname>Wilson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>'agostino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Parise</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Sullivan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Meigs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">112</biblScope>
+			<biblScope unit="page" from="3066" to="3072" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Impact of the metabolic syndrome on mortality from coronary heart disease, cardiovascular disease, and all causes in United States adults</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Malik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">D</forename><surname>Wong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Franklin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">V</forename><surname>Kamath</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>'italien</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">J</forename><surname>Pio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">100</biblScope>
+			<biblScope unit="page" from="1245" to="1250" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">The metabolic syndrome and mortality from cardiovascular disease and all causes: findings from the National Health and Nutrition Examination Survey II Mortality Study</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Ford</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Atherosclerosis</title>
+		<imprint>
+			<biblScope unit="volume">173</biblScope>
+			<biblScope unit="page" from="309" to="314" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Predictive accuracy of the Framingham coronary risk score in British men: prospective cohort study</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Brindle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Emberson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Lampe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Walker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Whincup</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Fahey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMJ</title>
+		<imprint>
+			<biblScope unit="volume">327</biblScope>
+			<biblScope unit="page" from="1238" to="1239" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">An updated coronary risk profile. A statement for health professionals</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">W</forename><surname>Wilson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Odell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">B</forename><surname>Kannel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">83</biblScope>
+			<biblScope unit="page" from="356" to="362" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Strong Heart Study. Insulin resistance, the metabolic syndrome, and risk of incident cardiovascular disease in nondiabetic American Indians. The Strong Heart Study</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">E</forename><surname>Resnick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Jones</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Ruotolo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Jain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Henderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Lu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="861" to="867" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">National Cholesterol Education Program versus World Health Organization metabolic syndrome in relation to all-cause and cardiovascular mortality in the San Antonio Heart Study</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename><surname>Hunt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">G</forename><surname>Resendez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Haffner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Stern</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">110</biblScope>
+			<biblScope unit="page" from="1251" to="1257" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">The metabolic syndrome and total and cardiovascular disease mortality in middle-aged men</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">M</forename><surname>Lakka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Laaksonen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Lakka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">K</forename><surname>Niskanen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Kumpusalo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tuomilehto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">288</biblScope>
+			<biblScope unit="page" from="2709" to="2716" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Bruneck Study. Carotid atherosclerosis and coronary heart disease in the metabolic syndrome. Prospective data from the Bruneck Study</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Bonora</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kiechl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Willeit</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Oberhollenzer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Egger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Bonadonna</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="1251" to="1257" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Definition of the metabolic syndrome: what&apos;s new and what predicts risk</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Ford</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Metabolic Syndrome and Related Disorders</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="237" to="251" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Coronary heart disease risk factors in the Elderly</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">B</forename><surname>Kannel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Geriatr Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="101" to="107" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Health consequences of obesity in the elderly: a review of four unresolved questions</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Zamboni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Mazzali</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Zoico</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">B</forename><surname>Harris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Meigs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Di</forename><surname>Francesco</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Obes (Lond)</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="1" to="19" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">for the ILSA Working Group. Metabolic syndrome, diabetes and cardiovascular disease in an elderly Caucasian cohort: the Italian Longitudinal on Aging</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Maggi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Noale</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Gallina</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Bianchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Marzari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Limongi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Gerontol A Biol Sci Med Sci</title>
+		<imprint>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="page" from="505" to="510" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">for the Health ABC Study. Metabolic syndrome and the risk of cardiovascular disease in older adults</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Butler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Rodondi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Zhu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Figaro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Fazio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Vaughan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Coll Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="1595" to="1602" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

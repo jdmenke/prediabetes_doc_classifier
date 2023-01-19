@@ -1,0 +1,1095 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">The Metabolic Syndrome and 11-Year Risk of Incident Cardiovascular Disease in the Atherosclerosis Risk in Communities Study</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><roleName>PHD</roleName><forename type="first">Ann</forename><forename type="middle">Marie</forename><surname>Mcneill</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Epidemiology</orgName>
+								<orgName type="institution">University of North Carolina at Chapel Hill</orgName>
+								<address>
+									<settlement>Chapel Hill</settlement>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">North Carolina</orgName>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName><roleName>PHD</roleName><forename type="first">Wayne</forename><forename type="middle">D</forename><surname>Rosamond</surname></persName>
+							<email>wayne_rosamond@unc.edu</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Epidemiology</orgName>
+								<orgName type="institution">University of North Carolina at Chapel Hill</orgName>
+								<address>
+									<settlement>Chapel Hill</settlement>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">North Carolina</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>DRPH</roleName><forename type="first">Cynthia</forename><forename type="middle">J</forename><surname>Girman</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Epidemiology</orgName>
+								<orgName type="institution">Merck Research Laboratories</orgName>
+								<address>
+									<settlement>Rahway</settlement>
+									<country>New Jersey</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MD, MHS</roleName><forename type="first">Sherita</forename><surname>Hill Golden</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department" key="dep1">De-partment of Medicine</orgName>
+								<orgName type="department" key="dep2">School of Medicine and Department of Epidemiology</orgName>
+								<orgName type="institution">Johns Hopkins University</orgName>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="institution">Johns Hopkins University Bloomberg School of Public Health</orgName>
+								<address>
+									<settlement>Baltimore</settlement>
+									<region>Maryland</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Maria</forename><forename type="middle">I</forename><surname>Schmidt</surname></persName>
+							<affiliation key="aff5">
+								<orgName type="department">Graduate Studies Program in Epidemiology</orgName>
+								<orgName type="institution">Federal University of Rio Grande do Sul</orgName>
+								<address>
+									<settlement>Porto Alegre</settlement>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Honey</forename><forename type="middle">E</forename><surname>East</surname></persName>
+							<affiliation key="aff6">
+								<orgName type="department">Department of Medicine</orgName>
+								<orgName type="institution">University of Mississippi Medical Center</orgName>
+								<address>
+									<settlement>Jackson</settlement>
+									<region>Mississippi</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Christie</forename><forename type="middle">M</forename><surname>Ballantyne</surname></persName>
+							<affiliation key="aff7">
+								<orgName type="department" key="dep1">Methodist DeBakey Heart Center</orgName>
+								<orgName type="department" key="dep2">Department of Medicine</orgName>
+								<orgName type="institution">Baylor College of Medicine</orgName>
+								<address>
+									<settlement>Houston</settlement>
+									<region>Texas</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Gerardo</forename><surname>Heiss</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Epidemiology</orgName>
+								<orgName type="institution">University of North Carolina at Chapel Hill</orgName>
+								<address>
+									<settlement>Chapel Hill</settlement>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">North Carolina</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">•</forename><surname>• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff8">
+								<orgName type="institution">University of North Carolina</orgName>
+								<address>
+									<addrLine>137 E. Franklin St, Chapel Hill</addrLine>
+									<postCode>28514</postCode>
+									<settlement>Chapel Hill</settlement>
+									<region>NC</region>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">The Metabolic Syndrome and 11-Year Risk of Incident Cardiovascular Disease in the Atherosclerosis Risk in Communities Study</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">67B747F777086F248EE59B538847D157</idno>
+					<note type="submission">Received for publication 3 August 2004 and accepted in revised form 1 November 2004.</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.1" ident="GROBID" when="2022-07-19T23:00+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>ARIC, Atherosclerosis Risk in Communities</term>
+					<term>ATP III, Third Adult Treatment Panel Report</term>
+					<term>CHD, coronary heart disease</term>
+					<term>CVD, cardiovascular disease</term>
+					<term>FRS, Framingham Risk Score</term>
+					<term>ROC, receiver operating characteristic</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>OBJECTIVE -To assess the magnitude of the association between the National Cholesterol Education Program's Third Adult Treatment Panel Report (ATP III) definition of the metabolic syndrome and cardiovascular disease (CVD).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESEARCH DESIGN AND METHODS</head><p>-Cox regression was used to estimate the relative risk of incident coronary heart disease (CHD) and stroke among 12,089 black and white middle-aged individuals in the Atherosclerosis Risk in Communities (ARIC) study.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head><p>-The metabolic syndrome was present in ϳ23% of individuals without diabetes or prevalent CVD at baseline. Over an average of 11 years of follow-up, 879 incident CHD and 216 ischemic stroke events occurred. Among the components of the metabolic syndrome, elevated blood pressure and low levels of HDL cholesterol exhibited the strongest associations with CHD. Men and women with the metabolic syndrome were ϳ1.5 and 2 times more likely to develop CHD than control subjects after adjustment for age, smoking, LDL cholesterol, and race/ARIC center (sex interaction P Ͻ 0.03). Similar associations were found between the metabolic syndrome and incident ischemic stroke. Comparison of receiver operating characteristic curves indicated that the metabolic syndrome did not materially improve CHD risk prediction beyond the level achieved by the Framingham Risk Score (FRS). METHODS -Between 1987 and<ref type="bibr" target="#b14">1989</ref>, ARIC examined population-based samples of 15,792 residents aged 45-64 years in four U.S. communities in North Carolina, Mississippi, Minnesota, and  Maryland (15). The study was reviewed by institutional review boards at the clinical sites, and informed consent was obtained from all participants. The study population for these analyses included all cohort members who did not meet the following exclusions: race other than black or white (n ϭ 48); black participants residing in Minnesota or Maryland sites (n ϭ 55); failure to fast at least 8 h before venipuncture (n ϭ 587); missing data on metabolic syndrome components (n ϭ 299); prevalent/missing data on cor-</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESEARCH DESIGN AND</head></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>CONCLUSIONS -Individuals without diabetes or CVD, but with the metabolic syndrome, were at increased risk for long-term cardiovascular outcomes, although statistical models suggested that most of that risk was accounted for by the FRS. Nevertheless, identification of individuals with the metabolic syndrome may provide opportunities to intervene earlier in the development of shared disease pathways that predispose individuals to both CVD and diabetes.</p><p>Diabetes Care 28:385-390, 2005 T he metabolic syndrome has been identified as a constellation of metabolic and nonmetabolic disorders related to defects in insulin sensitivity that lead to a high risk for the development of type 2 diabetes and cardiovascular disease (CVD) <ref type="bibr" target="#b0">(1)</ref><ref type="bibr" target="#b1">(2)</ref><ref type="bibr" target="#b2">(3)</ref><ref type="bibr" target="#b3">(4)</ref><ref type="bibr" target="#b4">(5)</ref>. A number of prospective analyses <ref type="bibr">(4,6 -12)</ref> have applied definitions from the National Cholesterol Education Program's Third Adult Treatment Panel Report (ATP III) <ref type="bibr" target="#b12">(13)</ref> or the World Health Organization <ref type="bibr" target="#b13">(14)</ref> and reported that the metabolic syndrome is associated with an approximate twofold increase in CVD. However, the generalizability of these findings to U.S. populations may be limited because several prior investigations included study populations comprised exclusively of white men or individuals with a family history of type 2 diabetes or did not report nonfatal CVD outcomes <ref type="bibr" target="#b3">(4,</ref><ref type="bibr" target="#b5">6,</ref><ref type="bibr" target="#b9">10,</ref><ref type="bibr" target="#b11">12)</ref>. The objective of the current study was to assess the association between the ATP III-defined metabolic syndrome and CVD mortality/ morbidity among participants in the Atherosclerosis Risk in Communities (ARIC) study, a biracial cohort of white and black men and women. onary heart disease (CHD; prior myocardial infarction by electrocardiogram readings or self-reported physician diagnosis or cardiac revascularization procedure) or history of self-reported stroke (n ϭ 1,286); prevalent diabetes (fasting glucose Ն126 mg/dl, self-reported physician diagnosis or use of hypoglycemic medications, n ϭ 1,310); or missing data on LDL cholesterol or smoking (n ϭ 118). After applying these exclusions, 12,089 individuals remained for analysis.</p><p>Detailed reporting of procedures for blood collection and centralized measurement of lipids <ref type="bibr" target="#b15">(16)</ref> and serum glucose <ref type="bibr" target="#b16">(17)</ref> have been published previously. Participants were asked to fast 12 h before the blood was drawn and actual fasting times were recorded. Blood was drawn from an antecubital vein of seated participants, serum was centrifuged, and frozen samples were shipped to central laboratories for analysis. Triglycerides were measured by enzymatic methods, and HDL cholesterol was measured after dextran-magnesium precipitation. LDL cholesterol was calculated using the Friedewald formula <ref type="bibr" target="#b17">(18)</ref>. Glucose was measured by the hexokinase/ glucose-6 phosphate dehydrogenase method. During the baseline clinical examination, trained technicians measured waist circumference to the nearest centimeter at the umbilical level. Sitting blood pressures were measured after 5 min of rest by the use of a random-zero sphygmomanometer, and the mean of the last two of three seated systolic and diastolic blood pressure measurements was used for analysis.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Criteria for the metabolic syndrome</head><p>The metabolic syndrome was defined according to ATP III criteria <ref type="bibr" target="#b12">(13)</ref> and required the presence of three or more of the following: large waist circumference (Ͼ88 in women and Ͼ102 cm in men), elevated triglyceride level Ն150 mg/dl, low HDL cholesterol (men Ͻ40 and women Ͻ50 mg/dl), elevated fasting glucose (110 -125 mg/dl), and elevated systolic or diastolic blood pressure (Ն130/85 mmHg) or self-reported use of antihypertension medications. In addition, a modified definition of metabolic syndrome was created by applying the American Diabetes Association's recently recommended <ref type="bibr" target="#b18">(19)</ref> lower range for impaired fasting glucose (100 -125 mg/dl) to assess the effect of this proposed change on the estimated prevalence of the syndrome and its association with CVD.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Ascertainment of cardiovascular outcomes</head><p>Incident CHD and ischemic stroke events were ascertained using standard ARIC protocols <ref type="bibr" target="#b19">(20,</ref><ref type="bibr" target="#b20">21)</ref>. Incident CHD included fatal or nonfatal hospitalized myocardial infarction, fatal CHD, silent myocardial infarction identified by electrocardiography, or coronary revascularization. Incident ischemic stroke events (thrombotic or cardioembolic) were classified according to a computer algorithm, and an expert reviewer independently classified each eligible case using criteria adapted from the National Survey of Stroke (22); disagreements were adjudicated by a second expert physician. Follow-up time for incident CHD and stroke events was the minimum number of days between the baseline visit and either the first event, death from other causes, last contact, or 31 December 1999.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analysis</head><p>Incidence rates, produced by dividing the number of events by person-time at risk, were stratified by sex. Cox proportional hazards regression was used to model the relationship between the metabolic syndrome and time to incident CHD or ischemic stroke. Verification of the proportional hazard assumption was assessed using plots of the log(-log) survival curves and Schoenfeld residuals <ref type="bibr" target="#b22">(23)</ref>. The increment in CHD risk associated with the number of metabolic syndrome components was assessed using indicator variables for the presence of one, two, three, or four or more components of the syndrome. The excess risk associated with the metabolic syndrome, beyond that predicted by its individual components, was determined by an indicator for the syndrome in models that also included all five individual components. Survival models contained indicator variables for each race by ARIC center combination to allow for the unique contribution of each group on CVD risk.</p><p>To assess the contribution of the metabolic syndrome in the context of traditional CHD risk algorithms, Framingham Risk Scores (FRSs) <ref type="bibr" target="#b12">(13)</ref> were calculated and ARIC participants were categorized as having Ͻ10% or Ն10% risk of CHD. The third risk category outlined by ATP III (Ͼ20%) was not used because very few individuals in the study population had an FRS of this magnitude. Crude incidence rates within FRS categories were estimated among those with and without the metabolic syndrome. To determine whether the metabolic syndrome increased the prediction of CHD beyond the level predicted by the FRS alone, receiver operating characteristic (ROC) curves were generated from sex-specific logistic regression models that included 1) the FRS and 2) the FRS plus the metabolic syndrome. All analyses were performed using SAS for Windows (version 8.02; SAS Institute, Cary, NC), except for comparisons of the area under ROC curves, which were performed using Stata Statistical Software (release 8.0; StataCorp, College Station, TX).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head><p>-The metabolic syndrome was present in 24% of women and 23% of men (Table <ref type="table" target="#tab_0">1</ref>). Among women, the prevalence was slightly higher among blacks than whites (28 vs. 23%), but black men had a lower prevalence than whites (18 vs. 24%). Approximately 60% of black participants met the criteria for elevated blood pressure, compared with ϳ23% of whites. Central obesity (large waist circumference) was more prevalent in women than men (59 vs. 31%), and nearly three-quarters of black women were positive for this component. Black men had higher rates of current smoking but lower prevalence of elevated triglycerides and low-HDL components compared with other groups. The prevalence of elevated fasting glucose ranged from a low of 8% in white women to ϳ15% among other race/sex subgroups.</p><p>Over an average of 11 years of followup, 879 incident CHD and 216 incident ischemic stroke events occurred. Crude incidence rates per 10,000 person-years for CHD and ischemic stroke were significantly greater among individuals with the metabolic syndrome than among comparison group members (Table <ref type="table" target="#tab_1">2</ref>). Crude hazard ratios (HRs) of CHD associated with the metabolic syndrome were 2.55 (95% CI 2.00 -3.27) in women and 1.51 (1.27-1.79) in men with a statistically significant interaction by sex (P Ͻ 0.0006). No effect modification was detected by race (P ϭ 0.57).</p><p>Although the magnitude of associations were attenuated slightly after adjustment for age, race/center, LDL cholesterol (Ͻ129, 130 -159, or Ն160 mg/dl), and Metabolic syndrome and CVD in the ARIC study smoking (current, former, or never), individuals with the metabolic syndrome remained at significantly increased risk of CHD (sex interaction P Ͻ 0.03) (Table <ref type="table" target="#tab_1">2</ref>). Further adjustment for physical activity, education, income, use of alcohol, and family history of CHD resulted in minimal change in the HRs associated with the metabolic syndrome (results not Similar were found between the metabolic syndrome and incident stroke, but the relatively smaller number of events decreased the precision of these estimates.</p><p>Applying the lower threshold for impaired fasting glucose (100 mg/dl) to the metabolic syndrome definition increased the overall prevalence from ϳ23-32% (Table <ref type="table" target="#tab_0">1</ref>), but adjusted HRs for CHD and stroke were similar to those produced when applying the original ATP III definition. After adjustment for age, race/ center, LDL cholesterol, and smoking, HRs of CHD were 2.11 (95% CI 1.64 -2.72) among women and 1.39 (1.18 -1.63) among men. Adjusted HRs of ischemic stroke were 1.90 (1.25-2.89) and 1.52 (1.05-2.18), respectively.</p><p>As shown in Fig. <ref type="figure" target="#fig_0">1</ref>, the risk of CHD in the study population increased monotonically with increasing number of metabolic syndrome components in men and women. Within each combination (one, two, three, or four or more), the HR of CHD was larger in women than men. Compared with ARIC participants with no components of the metabolic syndrome, adjusted HRs for those with one and four or more components ranged from 1.63 (95% CI 0.97-2.72) to 5.25 (3.10 -8.89) in women and from 1.34 (1.04 -1.72) to 2.23 (1.64 -3.04) in men.</p><p>In Cox models containing the individual components, elevated blood pressure and low HDL cholesterol were significantly associated with CHD risk after adjustment for age, race/center, LDL cholesterol, and smoking (Table <ref type="table" target="#tab_2">3</ref>). In separate, multivariate-adjusted models that also included an indicator for the presence of the metabolic syndrome, the incremental HR for the metabolic syndrome was close to the null value and was not statistically significant [men: HR 0.91 (95% CI 0.67-1.23); women: HR 0.71 (0.45-1.14)], indicating that the risk of CHD associated with the syndrome was not in excess of the level explained by the presence of its individual components.</p><p>Predicted 10-year risk of CHD based  In the current study, we found that among a population free of prevalent CHD, stroke, and diabetes, men and women with the metabolic syndrome were ϳ1.5 and 2 times more likely to develop CHD after adjustment for established risk factors. The relative risk of CVD mortality associated with diabetes is greater in women than in men, and the presence of diabetes has been shown to erase the "gender gap" in CVD incidence rates between men and women <ref type="bibr" target="#b23">(24)</ref>. In a recent analysis of data from the San Antonio Heart Study, Hunt et al. <ref type="bibr" target="#b10">(11)</ref> reported that the association between the metabolic syndrome and CVD mortality was more than twice as large in women than men in the San Antonio Heart Study population, which included individuals with prevalent diabetes and CVD, but found no sex modification in the primary prevention population, i.e., those without prevalent diabetes or CVD. The authors suggest that one possible explanation for the sex modification observed in the general population is the stronger diabetes-CVD association in women. However, our analysis indicates that the significantly greater risk of CHD associated with the metabolic syndrome in women is present among individuals without prevalent diabetes or CVD. Furthermore, in univariate and multivariate-adjusted models, the elevated fasting glucose component was not significantly associated with CHD. Therefore, in our study, it is unlikely that the sex interaction we observed is due to hyperglycemia alone.</p><p>Although we found a positive association between increasing number of ATP III metabolic syndrome components and CHD risk, results from our analysis indicate that the individual components for elevated blood pressure and low HDL cholesterol have the strongest effects on CHD risk. Using data from the ARIC study, Golden et al. ( <ref type="formula">25</ref>) assessed the association between groupings of variables related to the metabolic syndrome and intimal-medial wall thickness of the carotid arteries as a measure of generalized atherosclerosis. They found that several combinations of risk factors associated with the metabolic syndrome conferred excess additive risk beyond the level predicted by the individual components. Conversely, in our analysis, multivariate proportional hazards modeling of all five components plus an indicator for the metabolic syndrome did not detect excess CHD associated with the presence of the These are consistent with a cross-sectional analysis by Alexander et al. <ref type="bibr" target="#b25">(26)</ref>, who reported that although elevated blood pressure, low HDL cholesterol, and diabetes were significantly associated with prevalent CHD, they found no indication of excess risk for the ATP III-defined metabolic syndrome once the individual components had been accounted for in multiplicative risk models.</p><p>Although the ATP III report recommends screening for the metabolic syndrome, specific recommendations for therapeutic lifestyle change and/or phar-  Metabolic syndrome and CVD in the ARIC study macologic therapy are based on the number of CHD risk factors present at the time of screening and category of 10-year risk of CHD estimated by the FRS algorithm (Ͻ10%, 10 -20%, and Ͼ20%). In the present analysis, inclusion of the metabolic syndrome did not add to CHD prediction models that included the FRS. However, as outlined in the ATP III report <ref type="bibr" target="#b12">(13)</ref>, the FRS was developed to identify individuals primarily for short-term risk reduction (Յ10 years), whereas identification of individuals with metabolic syndrome is aimed at long-term risk reduction primarily through lifestyle modification.</p><p>Nevertheless, patients falling in the category of Ͻ20% CHD risk who met the criteria for the metabolic syndrome had a higher absolute rate of CHD than those without the syndrome. These findings are similar to those reported by Girman et al. <ref type="bibr" target="#b26">(27)</ref>, who categorized individuals from two large lipid-lowering clinical trials by FRSs of either Ͼ20 or Յ20% and found that individuals with the ATP III metabolic syndrome had a higher risk of major coronary events than comparison subjects within FRS categories. In a joint analysis of the Framingham Offspring and San Antonio Heart Studies (28), those with the metabolic syndrome had a greater average FRS than those without, regardless of ethnicity. Taken together, these findings indicate that individuals within the same FRS category who have the metabolic syndrome are at increased risk of CHD relative to subjects without the syndrome. This suggests that identification of metabolic syndrome may have prognostic value to medical practitioners for patients in both the upper (Ͼ20%) and lower (Յ20%) FRS categories.</p><p>The present investigation has several strengths. The ARIC study is one of the largest and longest followed biracial samples of U.S. adults with validated CHD and stroke outcomes and standardized collection of covariate information. However, several limitations of the data should be kept in mind. The ARIC cohort was selected from four U.S. communities but is not representative of the U.S. in general. Because the prevalence of the metabolic syndrome can vary widely by demographic characteristics of study participants <ref type="bibr" target="#b28">(29)</ref>, caution should be used in extrapolating these results to other populations. Participants excluded due to missing information (7.7%) were more likely to be black and hypertensive but otherwise were similar to the analysis population. Sensitivity analyses performed by varying the proportion of these individuals classified as having CHD or metabolic syndrome at baseline and refitting Cox models resulted in negligible changes from reported HRs.</p><p>Finally, in Cox models that included all five components of the metabolic syndrome, elevated blood pressure, and low HDL cholesterol, but not elevated triglycerides, had statistically significant associations with CHD. Although it is not uncommon to include both HDL cholesterol and triglycerides as independent variables in CHD prediction models, such inclusion can result in biased estimates of effects because of the generally strong correlation between the two lipid measures and the relatively greater intraindividual variability of fasting triglycerides <ref type="bibr" target="#b29">(30)</ref>. Under such conditions, HDL cholesterol may be more likely to show an independent association with CHD as a function of its measurement qualities, rather than through any more direct causal link with CHD. A previously published assessment <ref type="bibr" target="#b30">(31)</ref> of the reliability of fasting-state lipoprotein measurements in ARIC indicated that the reliability coefficient was higher for HDL cholesterol than triglycerides (0.94 0.85, As such, we cannot rule out this phenomenon in our results.</p><p>According to the American Diabetes Association <ref type="bibr" target="#b31">(32)</ref>, CVD is the cause of death in as many as 75-80% of individuals with diabetes. The "common soil" <ref type="bibr" target="#b32">(33)</ref> hypothesis posits that diabetes is not a direct cause of CVD but rather one of several atherosclerotic sequelae arising from shared precursors. The metabolic syndrome may be a clinically recognizable and, in many cases, an early manifestation of such shared antecedents that increase the risk of diabetes and CVD among individuals. Identifying individuals with the metabolic syndrome and investigating effective treatment options may provide opportunities for intervention early in the disease pathways of both diseases. However, additional research is needed to refine the metabolic syndrome definition and to determine whether treatment of underlying conditions such as insulin resistance results in improved CHD prevention for patients with the metabolic syndrome beyond the level achieved by interventions currently targeted at its specific components.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 -</head><label>1</label><figDesc>Figure 1-HRs of CHD associated with the presence of two, or four or more components of the metabolic syndrome compared with no components, adjusted for age, race/ARIC center, LDL cholesterol level, and smoking.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 -Baseline characteristics of ARIC participants free of CVD and diabetes (1987-1989), stratified by sex and race</head><label>1</label><figDesc>SD for continuous variables or percent for dichotomous variables. *Percentages may not sum to 100% due to rounding. †Criteria for each component of the metabolic syndrome are described in RESEARCH DESIGN AND METHODS. ‡Derived by applying the lower limit of IFG (100 mg/dl) to the elevated glucose component of the ATP III definition. To convert LDL cholesterol from mg/dl to mmol/l, multiply by 0.0259.</figDesc><table><row><cell>Women</cell><cell>Men</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 -Absolute and relative risks of cardiovascular events associated with the presence of the metabolic syndrome</head><label>2</label><figDesc></figDesc><table><row><cell></cell><cell cols="2">Crude incidence rate*</cell><cell></cell><cell cols="2">HR (95% CI)</cell></row><row><cell></cell><cell></cell><cell>No metabolic</cell><cell>Crude incidence</cell><cell></cell><cell></cell></row><row><cell>Outcome</cell><cell>Metabolic syndrome</cell><cell>syndrome</cell><cell>rate difference (95% CI)</cell><cell>Crude</cell><cell>Adjusted †</cell></row><row><cell>CHD</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Women</cell><cell>57.5 ͓113 per 19,646͔</cell><cell>22.7 ͓146 per 64,450͔</cell><cell>34.9 (23.6-46.1)</cell><cell>2.55 (2.00-3.27)</cell><cell>2.05 (1.59-2.64)</cell></row><row><cell>Men</cell><cell>138.4 ͓187 per 13,510͔</cell><cell>92.3 ͓433 per 46,911͔</cell><cell>46.1 (24.5-67.8)</cell><cell>1.51 (1.27-1.79)</cell><cell>1.46 (1.23-1.74)</cell></row><row><cell>Ischemic stroke</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Women</cell><cell>19.0 ͓38 per 20,015͔</cell><cell>8.5 ͓55 per 64,897͔</cell><cell>10.5 (4.07-16.9)</cell><cell>2.25 (1.49-3.41)</cell><cell>1.96 (1.28-3.00)</cell></row><row><cell>Men</cell><cell>24.6 ͓35 per 14,258͔</cell><cell>18.1 ͓88 per 48,621͔</cell><cell>6.5 (Ϫ2.5 to 15.4)</cell><cell>1.36 (0.92-2.01)</cell><cell>1.42 (0.96-2.11)</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3 -Adjusted* HRs and 95% CIs of CHD for each component of the metabolic syndrome</head><label>3</label><figDesc></figDesc><table><row><cell>Women (n ϭ 6,881)</cell><cell>Men (n ϭ 5,208)</cell></row></table><note>Data are means Ϯ SD. *Adjusted for age, race/ARIC center, LDL cholesterol, and smoking.</note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">DIABETES CARE, VOLUME 28, NUMBER 2, FEBRUARY 2005</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">Data in brackets are numbers of events and person-years at risk. *Incidence rate per 10,000 person-years. †Adjusted for age, race/ARIC center, LDL cholesterol, and smoking.</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgments</head><p>We thank the staff and participants of the ARIC study for their important contributions.</p></div>
+			</div>
+
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Insulin resistance, compensatory hyperinsulinemia and coronary heart disease: syndrome X revisited</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Reaven</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Handbook of Physiology: The Endocrine Pancreas and Regulation of Metabolism. Sect. 7</title>
+				<imprint>
+			<biblScope unit="volume">2</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Prospective analysis of the insulin-resistance syndrome (syndrome X)</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Haffner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Valdez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">P</forename><surname>Hazuda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">D</forename><surname>Mitchell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Morales</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Stern</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="715" to="722" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Metabolic syndrome and development of diabetes mellitus: application and validation of recently suggested definitions of the metabolic syndrome in a prospective cohort study</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Laaksonen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">M</forename><surname>Lakka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">K</forename><surname>Niskanen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Kaplan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Salonen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Lakka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">156</biblScope>
+			<biblScope unit="page" from="1070" to="1077" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">The metabolic syndrome and total and cardiovascular disease mortality in middle-aged men</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">M</forename><surname>Lakka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Laaksonen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Lakka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">K</forename><surname>Niskanen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Kumpusalo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tuomilehto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Salonen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">288</biblScope>
+			<biblScope unit="page" from="2709" to="2716" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">The metabolic syndrome as predictor of type 2 diabetes: the San Antonio heart study</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lorenzo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Okoloise</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Stern</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Haffner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="3153" to="3159" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Cardiovascular morbidity and mortality associated with the metabolic syndrome</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Isomaa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Almgren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Tuomi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Forsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Lahti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Nissen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Taskinen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Groop</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="683" to="689" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Carotid atherosclerosis and coronary heart disease in the syndrome: data from the Bruneck study</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Bonora</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kiechl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Willeit</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Oberhollenzer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Egger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Bonadonna</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Muggeo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="1251" to="1257" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Insulin resistance, the metabolic syndrome, and risk of incident cardiovascular disease in nondiabetic American Indians: the strong heart study</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">E</forename><surname>Resnick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Jones</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Ruotolo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Jain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Henderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Lu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">V</forename><surname>Howard</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="861" to="867" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">C-reactive protein, the metabolic syndrome, and prediction of cardiovascular events in the Framingham Offspring Study</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Rutter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Meigs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Sullivan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D'agostino Rb</forename><surname>Sr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">W</forename><surname>Wilson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">110</biblScope>
+			<biblScope unit="page" from="380" to="385" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Impact of the metabolic syndrome on mortality from coronary heart disease, cardiovascular disease, and all causes in United States adults</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Malik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">D</forename><surname>Wong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Franklin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">V</forename><surname>Kamath</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>'italien</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">J</forename><surname>Pio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">R</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">110</biblScope>
+			<biblScope unit="page" from="1245" to="1250" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">National Cholesterol Education Program versus World Health Organization metabolic syndrome in relation to all-cause and cardiovascular mortality in the San Antonio Heart Study</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename><surname>Hunt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">G</forename><surname>Resendez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Haffner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Stern</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">110</biblScope>
+			<biblScope unit="page" from="1251" to="1257" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">The metabolic syndrome and mortality from cardiovascular disease and all-causes: findings from the National Health and Nutrition Examination Survey II Mortality Study</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Ford</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Atherosclerosis</title>
+		<imprint>
+			<biblScope unit="volume">173</biblScope>
+			<biblScope unit="page" from="309" to="314" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Treatment of High Blood Cholesterol in Adults: Executive Summary of the Third Report of the National Cholesterol Education Program (NCEP) Expert Panel on Detection, Evaluation, and Treatment of High Blood Cholesterol in Adults (Adult Treatment Panel III)</title>
+	</analytic>
+	<monogr>
+		<title level="j">Expert Panel on Detection</title>
+		<imprint>
+			<biblScope unit="volume">285</biblScope>
+			<biblScope unit="page" from="2486" to="2497" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+	<note>JAMA</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">World Health Organization: Definition, Diagnosis and Classification of Diabetes Mellitus and its Complications</title>
+		<ptr target="WHO/NCD/NCS99.2" />
+	</analytic>
+	<monogr>
+		<title level="j">World Health Org</title>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+	<note>Report of a WHO Consultation. Part 1: Diagnosis and Classification of Diabetes Mellitus</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">The Atherosclerosis Risk in Communities (ARIC) Study: design and objectives</title>
+	</analytic>
+	<monogr>
+		<title level="m">ARIC Investigators</title>
+				<imprint>
+			<date type="published" when="1989">1989</date>
+			<biblScope unit="volume">129</biblScope>
+			<biblScope unit="page" from="687" to="702" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Coronary heart disease prediction from lipoprotein cholesterol levels, triglycerides, lipoprotein(a), apolipoproteins a-i and b, and HDL density subfractions: the atherosclerosis risk in communities (ARIC) study</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Sharrett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Ballantyne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Coady</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Heiss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">D</forename><surname>Sorlie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Catellier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Patsch</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">104</biblScope>
+			<biblScope unit="page" from="1108" to="1113" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">A prospective study of coronary heart disease in relation to fasting insulin, glucose, and diabetes: the Atherosclerosis Risk in Communities (ARIC) study</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Folsom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Szklo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Stevens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Liao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Eckfeldt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="935" to="942" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Estimation of the concentration of lowdensity lipoprotein cholesterol in plasma, without use of the preparative ultracentrifuge</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">T</forename><surname>Friedewald</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">I</forename><surname>Levy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Fredrickson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Chem</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="499" to="502" />
+			<date type="published" when="1972">1972</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">The Expert Committee on the Diagnosis and Classification of Diabetes Mellitus: Report of the Expert Committee on the Diagnosis and Classification of Diabetes Mellitus</title>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="S5" to="S20" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+	<note>Suppl. 1</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Community surveillance of coronary heart disease in the Atherosclerosis Risk in Communities (ARIC) Study: methods and initial two years&apos; experience</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>White</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Folsom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">E</forename><surname>Chambless</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Sharret</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Conwill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Higgins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">D</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">A</forename><surname>Tyroler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="223" to="233" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Stroke incidence and survival among middle-aged adults: 9-year follow-up of the</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">D</forename><surname>Rosamond</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Folsom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">E</forename><surname>Chambless</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">H</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">G</forename><surname>Mcgovern</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Howard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">S</forename><surname>Copper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Shahar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Atherosclerosis Risk in Communities (ARIC) cohort. Stroke</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="736" to="743" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">National Institute of Neurological and Communicative Disorders and Stroke: The National Survey of Stroke</title>
+	</analytic>
+	<monogr>
+		<title level="j">Stroke</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="I1" to="I91" />
+			<date type="published" when="1981">1981</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Partial residuals for the proportional hazards model</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Schoenfeld</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biometrika</title>
+		<imprint>
+			<biblScope unit="volume">69</biblScope>
+			<biblScope unit="page" from="51" to="55" />
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Women and heart disease: the role of diabetes and hyperglycemia</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Barrett-Connor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">G</forename><surname>Giardina</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Gitt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Gudat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">O</forename><surname>Steinberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Tschoepe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">164</biblScope>
+			<biblScope unit="page" from="934" to="942" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Risk factor groupings related to insulin resistance and their synergistic effects on subclinical atherosclerosis: the Atherosclerosis Risk in Communities study</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Golden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Folsom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Coresh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Sharrett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Szklo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Brancati</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="page" from="3069" to="3076" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title level="m" type="main">NCEP-defined metabolic syndrome, diabetes, and prevalence of coronary heart disease among NHANES III participants age 50 years and older</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Alexander</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">B</forename><surname>Landsman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Teutsch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Haffner</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page">1210</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">The metabolic syndrome and risk of major coronary events in the Scandinavian Simvastatin Survival Study (4S) and the Air Force/ Texas Coronary Atherosclerosis Prevention Study (AFCAPS/TexCAPS)</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Girman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Rhodes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mercuri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Pyorala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kjekshus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">R</forename><surname>Pedersen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Beere</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Gotto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Clearfield</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">93</biblScope>
+			<biblScope unit="page" from="136" to="141" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Prevalence and characteristics of the metabolic syndrome in the San Antonio Heart and Framingham Offspring Studies</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Meigs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">W</forename><surname>Wilson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Nathan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D'agostino Rb</forename><surname>Sr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Haffner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="2160" to="2167" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Prevalence of the metabolic syndrome among U.S. adults: findings from the third National Health and Nutrition Examination Survey</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Ford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">H</forename><surname>Giles</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">H</forename><surname>Dietz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">287</biblScope>
+			<biblScope unit="page" from="356" to="359" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Triglyceride as a risk factor for ischaemic heart disease in British men: effect of adjusting for measurement error</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Egger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">D</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Pfluger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Altpeter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">C</forename><surname>Elwood</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Atherosclerosis</title>
+		<imprint>
+			<biblScope unit="volume">143</biblScope>
+			<biblScope unit="page" from="275" to="284" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Short-term intraindividual variability in lipoprotein measurements: the Atherosclerosis Risk in Communities (ARIC) study</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">E</forename><surname>Chambless</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Mcmahon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Patsch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Heiss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">L</forename><surname>Shen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">136</biblScope>
+			<biblScope unit="page" from="1069" to="1081" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">American Diabetes Association: Detection and management of lipid disorders in abetes</title>
+	</analytic>
+	<monogr>
+		<title level="j">Care</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="828" to="834" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Diabetes and cardiovascular disease: the &quot;common soil&quot; hypothesis</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Stern</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page" from="369" to="374" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

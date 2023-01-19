@@ -1,0 +1,1266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Risk of Cardiovascular and All-Cause Mortality in Individuals With Diabetes Mellitus, Impaired Fasting Glucose, and Impaired Glucose Tolerance The Australian Diabetes, Obesity, and Lifestyle Study (AusDiab)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><roleName>MPH</roleName><forename type="first">Elizabeth</forename><forename type="middle">L M</forename><surname>Barr</surname></persName>
+							<email>lbarr@idi.org.au</email>
+						</author>
+						<author>
+							<persName><roleName>PhD</roleName><forename type="first">Paul</forename><forename type="middle">Z</forename><surname>Zimmet</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>PhD</roleName><forename type="first">Timothy</forename><forename type="middle">A</forename><surname>Welborn</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MSc</roleName><forename type="first">Damien</forename><surname>Jolley</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>PhD</roleName><forename type="first">Dianna</forename><forename type="middle">J</forename><surname>Magliano</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>PhD</roleName><forename type="first">David</forename><forename type="middle">W</forename><surname>Dunstan</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MPH</roleName><forename type="first">Adrian</forename><forename type="middle">J</forename><surname>Cameron</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Terry</forename><surname>Dwyer</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MD;</roleName><forename type="first">Hugh</forename><forename type="middle">R</forename><surname>Taylor</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Andrew</forename><forename type="middle">M</forename><surname>Tonkin</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>PhD</roleName><forename type="first">Tien</forename><forename type="middle">Y</forename><surname>Wong</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>PhD</roleName><forename type="first">John</forename><surname>Mcneil</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Jonathan</forename><forename type="middle">E</forename><surname>Shaw</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>A.J.C</roleName><forename type="first">J</forename><forename type="middle">E S</forename><surname>Caulfield</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Medicine (T.A.W.)</orgName>
+								<orgName type="institution">University of Western Australia</orgName>
+								<address>
+									<settlement>Nedlands</settlement>
+									<region>Western Australia</region>
+									<country key="AU">Australia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="institution">Monash Institute of Health Services Research (D.J.)</orgName>
+								<address>
+									<settlement>Clayton</settlement>
+									<region>Victoria</region>
+									<country key="AU">Australia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="department">Centre for Eye Research</orgName>
+								<orgName type="institution" key="instit1">Murdoch Children&apos;s Research Institute (T.D.)</orgName>
+								<orgName type="institution" key="instit2">Royal Children&apos;s Hospital</orgName>
+								<address>
+									<settlement>Prahran</settlement>
+									<region>Victoria</region>
+									<country>Australia, Australia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<orgName type="institution">University of Melbourne</orgName>
+								<address>
+									<settlement>East Melbourne, Victoria</settlement>
+									<country key="AU">Australia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff4">
+								<orgName type="department">Department of Epidemiology and Preventive Medicine (A.M.T</orgName>
+								<orgName type="institution">Monash University</orgName>
+								<address>
+									<settlement>Prahran</settlement>
+									<region>J.M.), Victoria</region>
+									<country key="AU">Australia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff5">
+								<orgName type="department">International Diabetes Institute</orgName>
+								<address>
+									<addrLine>250 Kooyong Rd</addrLine>
+									<postCode>3162</postCode>
+									<settlement>Caulfield</settlement>
+									<region>Victoria</region>
+									<country key="AU">Australia</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Risk of Cardiovascular and All-Cause Mortality in Individuals With Diabetes Mellitus, Impaired Fasting Glucose, and Impaired Glucose Tolerance The Australian Diabetes, Obesity, and Lifestyle Study (AusDiab)</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">7EDAC070BE0760298363825B8E167627</idno>
+					<idno type="DOI">10.1161/CIRCULATIONAHA.106.685628</idno>
+					<note type="submission">Received December 19, 2006; accepted May 7, 2007.</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.1" ident="GROBID" when="2022-07-19T23:00+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Background-Diabetes mellitus increases the risk of cardiovascular disease (CVD) and all-cause mortality. The relationship between milder elevations of blood glucose and mortality is less clear. This study investigated whether impaired fasting glucose and impaired glucose tolerance, as well as diabetes mellitus, increase the risk of all-cause and CVD mortality. Methods and Results-In 1999 to 2000, glucose tolerance status was determined in 10 428 participants of the Australian Diabetes, Obesity, and Lifestyle Study (AusDiab). After a median follow-up of 5.2 years, 298 deaths occurred (88 CVD deaths). Compared with those with normal glucose tolerance, the adjusted all-cause mortality hazard ratios (HRs) and 95% confidence intervals (CIs) for known diabetes mellitus and newly diagnosed diabetes mellitus were 2.3 (1.6 to 3.2) and 1.3 (0.9 to 2.0), respectively. The risk of death was also increased in those with impaired fasting glucose (HR 1.6, 95% CI 1.0 to 2.4) and impaired glucose tolerance (HR 1.5, 95% CI 1.1 to 2.0). Sixty-five percent of all those who died of CVD had known diabetes mellitus, newly diagnosed diabetes mellitus, impaired fasting glucose, or impaired glucose tolerance at baseline. Known diabetes mellitus (HR 2.6, 95% CI 1.4 to 4.7) and impaired fasting glucose (HR 2.5, 95% CI 1.2 to 5.1) were independent predictors for CVD mortality after adjustment for age, sex, and other traditional CVD risk factors, but impaired glucose tolerance was not (HR 1.2, 95% CI 0.7 to 2.2). Conclusions-This study emphasizes the strong association between abnormal glucose metabolism and mortality, and it suggests that this condition contributes to a large number of CVD deaths in the general population. CVD prevention may be warranted in people with all categories of abnormal glucose metabolism. (Circulation. 2007;116:151-157.) Key Words: epidemiology Ⅲ diabetes mellitus Ⅲ mortality Ⅲ risk factors Ⅲ cardiovascular diseases Ⅲ risk factors</p><p>I t is well established that diabetes mellitus increases the risk of all-cause and cardiovascular disease (CVD) mortality 1-7 and that this relationship is independent of traditional cardiovascular risk factors. 8 -10  Recognition is now growing that even nondiabetic levels of hyperglycemia, as observed in impaired fasting glucose (IFG) and impaired glucose tolerance (IGT), may also be associated with an elevated risk of CVD and premature mortality. <ref type="bibr" target="#b10">11,</ref><ref type="bibr" target="#b11">12</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Clinical Perspective p 157</head><p>Evidence for the relationships between IFG, IGT, and allcause and CVD mortality is primarily derived from a series of large meta-analyses <ref type="bibr" target="#b8">9,</ref><ref type="bibr" target="#b9">10,</ref><ref type="bibr" target="#b12">13</ref> ; however, several reasons exist to be cautious about interpreting these findings. First, the component studies used different blood sample types (eg, whole blood and plasma) and different glucose assays. <ref type="bibr" target="#b8">9,</ref><ref type="bibr" target="#b9">10,</ref><ref type="bibr" target="#b12">13</ref> Second, some studies did not fully adjust for concomitant CVD risk factors. <ref type="bibr" target="#b12">13</ref> Third, these analyses may have limited relevance to contemporary populations, because baseline data were collected up to 20 years ago. <ref type="bibr" target="#b8">9,</ref><ref type="bibr" target="#b9">10,</ref><ref type="bibr" target="#b12">13</ref> The Australian Diabetes, Obesity, and Lifestyle Study (AusDiab) is a recently conducted national, population-based study of 11 247 adults that provides an opportunity to investigate the contribution of different categories of abnormal glucose metabolism to the risk of all-cause and CVD mortality.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head><p>Baseline measurements for the AusDiab survey were collected in 1999 to 2000 on 11 247 noninstitutionalized people aged Ն25 years.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Methods and response rates have been described previously. <ref type="bibr" target="#b13">14</ref> Briefly, people were recruited from 42 randomly selected urban and nonurban Census Collector Districts, 6 in each of the states and the Northern Territory of Australia. Of the 20 347 eligible people who completed a household interview, 11 247 (55.3%) attended a biomedical examination. Compared with nonresponders, responders to the biomedical examination were equally likely to report "ever being told they had diabetes" (6.2% [95% confidence interval {CI} 5.2% to 7.1%] versus 6.4% [95% CI 5.7% to 7.1%]) but were more likely to have "suspected they had diabetes" (0.5% [95% CI 0.4% to 0.7%] versus 1.5% [95% CI 1.3% to 1.7%]). Data on age, sex, use of antihypertensive and lipid-lowering medications, previous CVD (angina, coronary heart disease, or stroke), and smoking were collected by interviewer-administered questionnaires. Measurements included blood pressure, <ref type="bibr" target="#b14">15</ref> anthropometrics, <ref type="bibr" target="#b16">16</ref> and a fasting (Ն9 hours) blood sample. All participants, except for pregnant women and people taking hypoglycemic medication, underwent a 75-g oral glucose tolerance test. Fasting plasma glucose (FPG), 2-hour plasma glucose (2-hour PG), fasting serum total cholesterol, triglycerides, and high-density lipoprotein cholesterol were measured with an Olympus AU600 analyzer (Olympus Optical, Tokyo, Japan). All specimens were analyzed at a central laboratory.</p><p>Categories of abnormal glucose metabolism were determined according to the 1999 World Health Organization criteria. <ref type="bibr" target="#b17">17</ref> Participants were classified as having known diabetes mellitus (KDM) if they reported having physician-diagnosed diabetes mellitus and were either taking hypoglycemic medication or had FPG Ն7.0 mmol/L or 2-hour PG Ն11.1 mmol/L. Participants not reporting having diabetes mellitus but who had FPG Ն7.0 mmol/L or 2-hour PG Ն11.1 mmol/L were classified as having newly diagnosed diabetes mellitus (NDM). Of those classified as having KDM at baseline, 92% had type 2 diabetes mellitus. The results for participants with type 1 and type 2 diabetes mellitus were pooled for the present analysis. Participants determined not to have diabetes mellitus were classified as having either IFG (FPG Ն6. Mortality status and underlying and contributory causes of death were determined by linking the AusDiab cohort to the Australian National Death Index (NDI). Name, sex, date of birth, state, date of last contact, and date of death (if available) were used to match participants to the NDI. The accuracy of the NDI for ascertainment of CVD deaths and vital status has been established previously. <ref type="bibr" target="#b18">18</ref> Only high-level matches were accepted as confirmed deaths, and wherever possible, deaths were confirmed by direct communication with the decedent's family. People who were not matched to the NDI were assumed to be alive. Deaths were attributed to CVD if the underlying cause of death was coded I10-I25, I46.1, I48, I50-I99, or R96 according to the 2006 International Classification of Diseases 10th revision (ICD-10). In addition, participants with uncomplicated diabetes mellitus (ICD-10 codes E109, E119, or E149) or unspecified hyperlipidemia (ICD-10 code E785) as an underlying cause of death on the death certificate were attributed a CVD death (nϭ4) if any of the CVD codes (I10-I25, I46.1, I48, I50-I99 or R96) were recorded in the first position on the death certificate. Written informed consent was obtained from all participants, and ethical approval was provided by the International Diabetes Institute Ethics Committee and the Standing Committee on Ethics in Research Involving Humans, Monash University, and for matching to the NDI, by the Australian Institute of Health and Welfare Ethics Committee.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical Analysis</head><p>To test differences in means and proportions for baseline characteristics between the NGT, IFG, IGT, NDM, and KDM groups, 1-way ANOVA or Kruskal-Wallis tests and 2 analyses were used, respectively. The follow-up period for all-cause mortality was up to the date of death or June 1, 2005, whichever occurred first. Because cause-of-death information was not available from the NDI for the same follow-up period as vital status data, the period of follow-up for CVD mortality and non-CVD mortality was up to the date of death or December 12, 2004. Incidence of all-cause mortality and CVD mortality was plotted with one minus Kaplan-Meier failure function. Cox proportional hazards regression was used to estimate unadjusted and adjusted all-cause and CVD mortality hazard ratios (HRs) and 95% confidence intervals (CIs) for KDM, NDM, IGT, and IFG compared with NGT. Stratified analyses according to sex were conducted for all-cause mortality but not CVD mortality because of the smaller number of CVD deaths. Deaths due to non-CVD causes are a competing risk for CVD mortality, and therefore we also investigated the risk (HR and 95% CI) of non-CVD mortality for the groups with different abnormalities of glucose tolerance compared with NGT. Variables significant in univariate analysis at the 25% level were entered into the multivariate model. In addition, other variables known to be confounders were included in the model. Multicollinearity between covariates was examined by calculating the mean and individual covariate variance inflation factors. None of the individual covariate variance inflation factors were greater than 2, and the mean variance inflation factors for all covariates included in the all-cause and CVD mortality models were 1.25 and 1.22, respectively. For all-cause mortality, we controlled for age, sex, previous CVD (angina, coronary heart disease, or stroke), smoking (including current or ex-smokers), hypertension (blood pressure Ն140/90 mm Hg or antihypertensive medication use), waist circumference, lipid-lowering medication use, and total cholesterol:highdensity lipoprotein cholesterol ratio. For CVD mortality, we controlled for the same covariates, except diastolic blood pressure was included rather than hypertension because it showed a stronger relationship with CVD mortality. For non-CVD mortality, we controlled for age, sex, smoking, waist:hip ratio, and previous CVD. The contribution of each covariate to the model was tested by 2 log-likelihood analysis. The assumptions required for proportional hazards were met, and these were assessed with graphs of log-log plots of the relative hazards by time and scaled Schoenfeld residuals. Analyses were conducted with SPSS version 14.0 (SPSS, Chicago, Ill) and Stata Statistical Software version 9.2 (StataCorp, College Station, Tex).</p><p>The authors had full access to and take full responsibility for the integrity of the data. All authors have read and agree to the manuscript as written.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Baseline Characteristics According to Categories of Abnormal Glucose Metabolism</head><p>The AusDiab study comprises 11 247 participants. These analyses are based on 10 428 participants (93%) who had complete data for the variables under investigation. Table <ref type="table" target="#tab_0">1</ref> shows that compared to those with NGT, the other categories of abnormal glucose metabolism (ie, IFG, IGT, NDM, and KDM) generally had worse risk factor profiles.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>All-Cause and CVD Mortality</head><p>Over a median follow-up of 5.2 years, 298 deaths occurred (180 in males), which represents an all-cause mortality rate of 5.5 per 1000 person-years. Of those who had KDM, 11.8% had died within the follow-up period. By comparison, 6.2% who had NDM, 5.2% who had IGT, 3.9% who had IFG, and 1.7% who had NGT at baseline had died. For women, the proportions of those deceased were 9.8%, 5.6%, 4.2%, 3.2%, and 1.1%, and for men, the proportions were 13.4%, 6.9%, 6.6%, 4.3%, and 2.5% for KDM, NDM, IGT, IFG, and NGT, respectively. Figure <ref type="figure">1</ref> shows the unadjusted all-cause mortality HR (95% CI) for IFG, IGT, NDM, and KDM compared with NGT according to baseline age. In those aged 25 to 44 years, no deaths occurred among those with NDM or KDM, and although the risk of death was elevated in IFG and IGT, the CIs were wide owing to the small number of deaths in this age group. In those aged 45 to 65 years, the risk of all-cause mortality increased steadily across the glucose tolerance categories. In people aged Ն65 years, the pattern was less consistent, but the risk of death was highest in those with KDM (HR 2.6, 95% CI 1.8 to 3.7). Similar patterns remained after adjustment for sex and previous CVD at baseline (data not shown).</p><p>Cause-specific mortality was available for 260 of the 298 deaths over a median follow-up period of 4.7 years. Eightyeight deaths (33.8%) were due to CVD (58.0% of CVD deaths were due to coronary heart disease, 30.7% to cerebrovascular disease, and 11.4% to other CVD). Sixty-five percent (57/88) of all CVD deaths occurred in people with abnormal glucose metabolism at baseline.</p><p>The unadjusted cumulative incidence of all-cause mortality (Figure <ref type="figure">2A</ref>) and CVD mortality (Figure <ref type="figure">2B</ref>) for NGT, IFG, IGT, NDM, and KDM is outlined in Figure <ref type="figure">2</ref>. Table <ref type="table" target="#tab_2">2</ref> shows the adjusted HR (95% CI) for IFG, IGT, NDM, and KDM compared with NGT. The risk of total and CVD mortality was increased for all categories of abnormal glucose metabolism, although this was not significant for NDM for allcause and CVD mortality or for IGT for CVD mortality. When stratified by sex, the risk of all-cause mortality for IFG, IGT, NDM, and KDM compared with NGT was similar for men and women (data not shown). However, because stratification by sex decreased the statistical power for the analyses, for women, only IGT (HRϭ1.7, 95% CI 1.1 to 2.8) and KDM (HRϭ2.5, 95% CI 1.4 to 4.3) and for men, only KDM (HRϭ2.1, 95% CI 1.3 to 3.2) remained significant predictors of all-cause mortality after controlling for other covariates.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Noncardiovascular Mortality</head><p>Of the 260 participants for whom cause-specific mortality data were available, 172 (66.2%) were classified as non-CVD deaths, of which 102 (59.3%) were attributed to malignant neoplasm (ICD-10 codes C00 -C97). Compared with NGT, the HRs (95% CIs) for non-CVD mortality were 2.3 (1.5 to 3.6) for KDM, 1.0 (0.5 to 1.9) for NDM, 1.6 (1.1 to 2.3) for IGT, and 1.3 (0.7 to 2.3) for IFG, after adjustment for age and sex. These associations remained unchanged after the inclusion of smoking, waist:hip ratio, and previous CVD in the model.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>The from this large, national, populationbased cohort study indicate that after adjustment for the traditional CVD risk factors, the 5-year mortality from all causes was significantly greater for KDM, IFG, and IGT than for NGT. Persons with KDM had a mortality risk that was more than 2 times greater than those with NGT, and those with IGT and IFG had a 50% to 60% greater mortality risk. The risk of CVD mortality was also significantly greater for those with KDM and IFG, but not IGT, compared with NGT. Finally, the importance of abnormal glucose metabolism to the risk of CVD mortality is supported by the present finding that 65% of all CVD deaths occurred in people with KDM, NDM, IFG, or IGT at baseline.</p><p>Experimental studies have long indicated that abnormal glucose metabolism increases the likelihood of macrovascular disease because it disrupts normal endothelial function, accelerates atherosclerotic plaque formation, and contributes to plaque rupture and subsequent thrombosis. <ref type="bibr" target="#b19">19</ref> In addition, the risk attributed to other CVD risk factors such as hypertension and dyslipidemia may be compounded by the presence of abnormal glucose metabolism. <ref type="bibr" target="#b19">19</ref> There have been many studies that have demonstrated that diabetes mellitus is an important risk factor for both all-cause and CVD mortality. <ref type="bibr" target="#b0">[1]</ref><ref type="bibr" target="#b1">[2]</ref><ref type="bibr" target="#b2">[3]</ref><ref type="bibr" target="#b3">[4]</ref><ref type="bibr" target="#b4">[5]</ref><ref type="bibr" target="#b5">[6]</ref><ref type="bibr" target="#b6">[7]</ref> The present finding of a strong association between KDM and mortality is consistent with these data. However, we did not find a significant association between NDM and all-cause or CVD mortality, although after adjustment for known risk factors, NDM was associated with a 30% increased risk (HR 1.3, 95% CI 0.9 to 2.0) for all-cause mortality, and an 80% increased risk (HR 1.8, 95% CI 0.9 to 3.6) for CVD mortality. This may have been due to the relatively small number of deaths among those in the NDM group (nϭ27) over the 5-year follow-up period. Even though risk is greater in those who have been diagnosed with diabetes mellitus for a longer period of time, other longerterm studies have reported that people identified with NDM are also at significantly greater risk for both all-cause and CVD mortality. <ref type="bibr" target="#b7">8,</ref><ref type="bibr" target="#b8">9,</ref><ref type="bibr" target="#b20">20</ref> Fewer studies have investigated the impact of IGT and IFG on all-cause and CVD mortality, <ref type="bibr">2,8,20 -23</ref> with most of the evidence derived from large meta-analyses that combined results from a number of diverse populations (occupationand population-based samples). <ref type="bibr" target="#b8">9,</ref><ref type="bibr" target="#b9">10,</ref><ref type="bibr" target="#b12">13</ref> The DECODE (Diabetes Epidemiology: Collaborative analysis Of Diagnostic criteria in Europe) and DECODA (Diabetes Epidemiology: Collaborative analysis Of Diagnostic criteria in Asia) metaanalyses reported that IGT, not IFG, was a strong predictor of all-cause and CVD mortality, independent of fasting blood glucose. <ref type="bibr" target="#b8">9,</ref><ref type="bibr" target="#b9">10</ref> In contrast, Coutinho et al <ref type="bibr" target="#b12">13</ref> demonstrated that the threshold value for IFG (fasting glucose Ն6.1 mmol/L) was significantly associated with fatal and nonfatal CVD events.</p><p>The present study now adds to these observations. We showed that not only is IGT associated with all-cause mortality, but IFG appears also to be an independent predictor of all-cause mortality and CVD mortality. The differences between the present study data and the DECODE and DECODA analyses could reflect different study methods. The DECODE and DECODA meta-analyses compared the IFG group with people without IFG, whereas the comparison group in the present study consisted of people who had both "normal" FPG (Ͻ6.1 mmol/L) and 2-hour PG (Ͻ7.8 mmol/L) values, which allowed better discrimination of mortality risk between those with IFG and NGT. Furthermore, these meta-analyses relied on different blood glucose samples (eg, whole blood and plasma) and analyzed the glucose measurements with different assays. This meant that glucose values obtained from whole blood had to be manipulated statistically before the results were pooled with the plasma glucose results. Consequently, this could have influenced the precision of the results reported in the studies. The AusDiab study used a single assay to analyze all plasma glucose samples, and analyses were performed in a central laboratory according to standardized criteria.</p><p>In contrast with the findings from DECODE, 9 DECODA, 10 and Coutinho et al <ref type="bibr" target="#b12">13</ref> that showed a significant positive   relationship between IGT and CVD mortality, we found that IGT was only a significant predictor for all-cause mortality, not for CVD mortality. This may be largely explained by our observation that IGT was significantly associated with non-CVD mortality. Although our investigate the specific non-CVD causes of death was limited by inadequate sample size, it is possible to infer that in the present study cohort, IGT may increase the risk of cancer mortality, because the underlying cause for the majority (59.3%) of non-CVD deaths was attributable to malignant neoplasm. This concurs with the findings reported by other studies. <ref type="bibr" target="#b21">21,</ref><ref type="bibr" target="#b24">24,</ref><ref type="bibr" target="#b25">25</ref> Other explanations include the possibility that the effects of IGT on CVD mortality may be mediated by the clustering of hypertension, dyslipidemia, and hyperglycemia rather than by hyperglycemia per se, although the age-and sex-adjusted CVD mortality rates also were not higher in participants with IGT. Misclassification of IGT status due to a single oral glucose tolerance test may also have led to attenuation of an association of IGT and CVD mortality.</p><p>Previous data suggest that a significant proportion of the population with IFG or IGT develops diabetes mellitus. <ref type="bibr" target="#b10">11</ref> Hence, when one interprets findings from studies that have used a longer follow-up period, it is difficult to determine whether it is actually the prediabetes status (ie, IFG or IGT) or the development of diabetes mellitus among those with these disturbances of glucose metabolism that is directly associated with the risk of mortality. The increased risk of mortality for IGT and IFG after only a relatively short period of follow-up in the present study suggests that conversion to diabetes mellitus was not a major pathway to death and that IFG and IGT are genuine risk factors for mortality and not just precursors of diabetes mellitus. These findings are consistent with the presence of a continuous relationship between increasing blood glucose and increased risk of CVD and all-cause mortality. <ref type="bibr" target="#b12">13,</ref><ref type="bibr" target="#b26">26,</ref><ref type="bibr" target="#b27">27</ref> Several studies have shown that abnormal glucose metabolism is present in approximately two thirds of patients with acute myocardial infarction or coronary artery disease. <ref type="bibr">28 -30</ref> However, it is difficult to generalize some of these results to the wider community because they are derived from clinicand hospital-based populations and are subject to survivor bias. Furthermore, the cross-sectional nature of the studies limits conclusions about causality. The present study extends this previous work, because our longitudinal, populationbased data showed that 65% of all CVD deaths occurred in those with diabetes mellitus, IFG, or IGT at baseline. This figure of 65% is far higher than the prevalence observed in the general population aged Ն25 years (reported to be 24%) and is also higher than the prevalence of abnormal glucose metabolism (reported to be 53%) seen in Australian adults aged Ն75 years. <ref type="bibr" target="#b31">31</ref> This suggests that the public health benefits of targeting CVD prevention toward those with "prediabetes" and diabetes mellitus would be significant.</p><p>The findings of the present study need to be considered within the context of its limitations. The differences between responders and nonresponders indicate that the cohort may not have been fully representative of Australian adults; however, these differences are unlikely to affect the strength of the relationships between glucose tolerance categories and mortality. The present study has relied on the results of a single oral glucose tolerance test to determine the participants' glucose metabolism status, and therefore, misclassification may have occurred. The use of self-reported CVD as a covariate may also represent some measurement error; however, studies conducted in community-based populations have found self-reported myocardial infarction, <ref type="bibr" target="#b32">[32]</ref><ref type="bibr" target="#b33">[33]</ref><ref type="bibr" target="#b34">[34]</ref> stroke, <ref type="bibr" target="#b32">[32]</ref><ref type="bibr" target="#b33">[33]</ref><ref type="bibr" target="#b34">[34]</ref><ref type="bibr" target="#b35">[35]</ref> and ischemic heart disease <ref type="bibr" target="#b33">33</ref> to be moderately to highly accurate in determining disease status. Furthermore, to account for CVD event measurement error, other covariates associated with CVD, such as age, sex, hypertension, lipids, lipid-lowering medication use, and waist circumference, were also included in the multivariate models. Misclassification of death status and cause of death was also possible, because these outcomes were determined through matching the cohort to the NDI, which is derived from death certificate data. However, a previous study has shown that the ascertainment of vital status and CVD deaths through the NDI is robust, with sensitivity and specificity for the identification of deaths being 93.7% and 100%, respectively, and sensitivity and specificity for CVD deaths being 92.5% and 89.6%, respectively. <ref type="bibr" target="#b18">18</ref> Inadequate statistical power as a result of the shorter follow-up period has also limited our ability to conduct further stratified analyses at this time, although it is planned that this will be explored after a longer follow-up period.</p><p>In summary, this large, contemporary, population-based cohort study provides further data on the relationship between abnormal glucose metabolism and CVD and all-cause mortality. These findings suggest that strategies to prevent premature mortality, particularly CVD death, need to be *For all-cause mortality, adjusted for age, sex, previously reported CVD, smoking (current or ex-smoker), hypertension (blood pressure Ն140/ 90 mm Hg or use of antihypertensive medication), waist circumference (cm), lipid-lowering medication use, and total cholesterol:high-density lipoprotein cholesterol ratio. For CVD mortality, adjusted for age, sex, previously reported CVD, smoking (current or ex-smoker), diastolic blood pressure (mm Hg), waist circumference (cm), lipid-lowering medication use, and total cholesterol:highdensity lipoprotein cholesterol ratio.</p><p>targeted not only to people with diabetes mellitus but also toward people with milder forms of abnormal glucose metabolism.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head></head><label></label><figDesc>1 and Ͻ7.0 mmol/L with 2-hour PG Ͻ7.8 mmol/L), IGT (2-hour PG Ն7.8 and Ͻ11.1 mmol/L with FPG Ͻ7.0 mmol/L), or normal glucose tolerance (NGT; FPG Ͻ6.1 mmol/L and 2-hour PG Ͻ7.8 mmol/L).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 1 .Figure 2 .</head><label>12</label><figDesc>Figure 1. Unadjusted all-cause mortality HRs (95% CIs) for IFG, IGT, NDM, and KDM compared with NGT according to baseline age groups: the AusDiab study. A, 25 to 44 years; B, 45 to 54 years; C, Ն65 years.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>TABLE 1 . Baseline Characteristics According to Categories of Abnormal Glucose Metabolism: the AusDiab Study</head><label>1</label><figDesc></figDesc><table><row><cell></cell><cell>All</cell><cell>NGT</cell><cell>IFG</cell><cell>IGT</cell><cell>NDM</cell><cell>KDM</cell></row><row><cell>N</cell><cell>10 428</cell><cell>7662</cell><cell>610</cell><cell>1298</cell><cell>433</cell><cell>425</cell></row><row><cell>Age, y</cell><cell>51.4 (14.2)</cell><cell>48.8 (13.6)</cell><cell>53.9 (12.6)</cell><cell>58.5 (13.8)</cell><cell>61.5 (13.0)</cell><cell>63.6 (11.8)</cell></row><row><cell>Male</cell><cell>4711 (45.2)</cell><cell>3310 (43.2)</cell><cell>423 (69.3)</cell><cell>528 (40.7)</cell><cell>219 (50.6)</cell><cell>231 (54.4)</cell></row><row><cell>Body mass index, kg/m 2</cell><cell>27.0 (5.0)</cell><cell>26.2 (4.5)</cell><cell>28.7 (4.7)</cell><cell>28.7 (5.5)</cell><cell>30.0 (6.0)</cell><cell>30.0 (6.2)</cell></row><row><cell>Waist:hip ratio</cell><cell>0.87 (0.09)</cell><cell>0.85 (0.09)</cell><cell>0.92 (0.08)</cell><cell>0.89 (0.09)</cell><cell>0.92 (0.09)</cell><cell>0.93 (0.08)</cell></row><row><cell>Waist circumference, cm</cell><cell>90.9 (13.9)</cell><cell>88.4 (13.0)</cell><cell>98.3 (12.3)</cell><cell>95.5 (13.7)</cell><cell>100.7 (14.7)</cell><cell>101.7 (14.6)</cell></row><row><cell>Systolic blood pressure, mm Hg</cell><cell>129.4 (18.7)</cell><cell>126.1 (17.3)</cell><cell>134.0 (17.1)</cell><cell>137.5 (19.3)</cell><cell>144.3 (19.3)</cell><cell>143.6 (20.8)</cell></row><row><cell>Diastolic blood pressure, mm Hg</cell><cell>70.2 (11.8)</cell><cell>69.0 (11.4)</cell><cell>74.1 (11.3)</cell><cell>72.3 (12.1)</cell><cell>75.5 (12.7)</cell><cell>73.5 (12.0)</cell></row><row><cell>Hypertension*</cell><cell>3388 (32.5)</cell><cell>1844 (24.1)</cell><cell>262 (43.0)</cell><cell>687 (52.9)</cell><cell>297 (68.6)</cell><cell>298 (70.1)</cell></row><row><cell>TC, mmol/L</cell><cell>5.66 (1.07)</cell><cell>5.60 (1.05)</cell><cell>5.90 (1.09)</cell><cell>5.87 (1.08)</cell><cell>5.94 (1.11)</cell><cell>5.41 (0.96)</cell></row><row><cell>HDL cholesterol, mmol/L</cell><cell>1.42 (0.38)</cell><cell>1.45 (0.38)</cell><cell>1.31 (0.35)</cell><cell>1.40 (0.39)</cell><cell>1.30 (0.39)</cell><cell>1.26 (0.36)</cell></row><row><cell>Triglycerides, mmol/L</cell><cell>1.28 (0.89, 1.90)</cell><cell>1.17 (0.81, 1.70)</cell><cell>1.55 (1.05, 2.24)</cell><cell>1.60 (1.10, 2.28)</cell><cell>1.90 (1.30, 2.90)</cell><cell>1.77 (1.20, 2.54)</cell></row><row><cell>Lipid-lowering medication use</cell><cell>902 (8.6)</cell><cell>440 (5.7)</cell><cell>80 (13.1)</cell><cell>159 (12.2)</cell><cell>71 (16.4)</cell><cell>152 (35.8)</cell></row><row><cell>Previously reported CVD †</cell><cell>845 (8.1)</cell><cell>443 (5.8)</cell><cell>67 (11.0)</cell><cell>143 (11.0)</cell><cell>70 (16.2)</cell><cell>122 (28.7)</cell></row><row><cell>Smoker ‡</cell><cell>4706 (45.1)</cell><cell>3356 (43.8)</cell><cell>327 (53.6)</cell><cell>577 (44.5)</cell><cell>206 (47.6)</cell><cell>240 (56.5)</cell></row><row><cell cols="7">Data are mean (SD), n (%), or median (25 th , 75 th percentile). Significant differences (PϽ0.001) between categories of abnormal glucose metabolism were observed</cell></row><row><cell cols="3">for all baseline characteristics. TC indicates total cholesterol.</cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table><note>*Hypertension defined as blood pressure Ն140/90 mm Hg or use of antihypertensive medication. †CVD defined as previously reported angina, coronary heart disease, or stroke. ‡Smoker defined as either current or ex-smoker.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>TABLE 2 . HRs (95% CIs) for All-Cause and CVD Mortality According to Categories of Abnormal Glucose Metabolism: the AusDiab Study</head><label>2</label><figDesc></figDesc><table><row><cell></cell><cell></cell><cell cols="2">Mortality Risk, HR (95% CI)</cell></row><row><cell></cell><cell>Deaths,</cell><cell>Age and</cell><cell>Multivariate</cell></row><row><cell></cell><cell>n (%)</cell><cell>Sex Adjusted</cell><cell>Adjusted*</cell></row><row><cell>All-cause mortality</cell><cell></cell><cell></cell><cell></cell></row><row><cell>NGT</cell><cell>130 (1.7)</cell><cell>1.0</cell><cell>1.0</cell></row><row><cell>IFG</cell><cell>24 (3.9)</cell><cell>1.6 (1.0-2.5)</cell><cell>1.6 (1.0-2.4)</cell></row><row><cell>IGT</cell><cell>67 (5.2)</cell><cell>1.4 (1.1-2.0)</cell><cell>1.5 (1.1-2.0)</cell></row><row><cell>NDM</cell><cell>27 (6.2)</cell><cell>1.4 (0.9-2.1)</cell><cell>1.3 (0.9-2.0)</cell></row><row><cell>KDM</cell><cell>50 (11.8)</cell><cell>2.5 (1.8-3.5)</cell><cell>2.3 (1.6-3.2)</cell></row><row><cell>CVD mortality</cell><cell></cell><cell></cell><cell></cell></row><row><cell>NGT</cell><cell>31 (0.4)</cell><cell>1.0</cell><cell>1.0</cell></row><row><cell>IFG</cell><cell>10 (1.6)</cell><cell>2.9 (1.4-5.9)</cell><cell>2.5 (1.2-5.1)</cell></row><row><cell>IGT</cell><cell>16 (1.2)</cell><cell>1.3 (0.7-2.3)</cell><cell>1.2 (0.7-2.2)</cell></row><row><cell>NDM</cell><cell>12 (2.8)</cell><cell>2.2 (1.1-4.4)</cell><cell>1.8 (0.9-3.6)</cell></row><row><cell>KDM</cell><cell>19 (4.5)</cell><cell>3.4 (1.9-6.0)</cell><cell>2.6 (1.4-4.7)</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">Downloaded from http://ahajournals.org by onJune 30, 2021   </note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="152">CirculationJuly 10, 2007Downloaded from http://ahajournals.org by on June 30, 2021</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">Diabetes, IFG, IGT, and Mortality Risks</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="154">CirculationJuly 10, 2007Downloaded from http://ahajournals.org by on June 30, 2021</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">Circulation July 10, 2007 Downloaded from http://ahajournals.org by on June 30, 2021</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgments</head><p>We are most grateful to Shirley Murray (AusDiab project manager) and Sue Fournel (administration) for their invaluable contribution to the study. We would also like to thank Marita Dalton (AusDiab field coordinator 1999 -2000), Theresa Whalen, Annaliese Bonney (Aus-Diab field coordinators 2004 -2005), all the AusDiab support staff, and especially the participants for volunteering their time to be involved in the study. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sources of Funding</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosures</head><p>Dr Welborn is the primary investigator on several obesity studies funded by the National Heart Foundation Australia, is a collaborator on the Asia-Pacific Collaboration on Coronary Heart Disease, has received speaker payments from Novo Nordisk Pharmaceuticals, Eli Lilly and Company, Sanofi-Synthelabo, Aventis Pharma, and Servier, and is an honoree consultant and advisor to the boards of Abbott Australasia, Roche Diagnostics Australia, Sanofi-Synthelabo, and Aventis Pharma. The remaining authors report no conflicts.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CLINICAL PERSPECTIVE</head><p>The findings from this large, national, population-based cohort study indicate that 5-year mortality from all causes is significantly greater for people with previously known diabetes mellitus, impaired fasting glucose, and impaired glucose tolerance than for those with normal glucose tolerance. Persons with known diabetes mellitus had a mortality risk that was more than 2 times greater than for those with normal glucose tolerance, and those with impaired glucose tolerance and impaired fasting glucose had a 50% to 60% greater mortality risk, even after adjustment for age, sex, and other traditional cardiovascular disease risk factors, such as hypertension and hyperlipidemia. The risk of cardiovascular disease mortality was also significantly greater for those with known diabetes mellitus or impaired fasting glucose, but not for those with impaired glucose tolerance, compared to those with normal glucose tolerance. Furthermore, 65% of all cardiovascular disease deaths in the entire population occurred in people who had known diabetes mellitus, newly diagnosed diabetes mellitus, impaired fasting glucose, or impaired glucose tolerance at baseline. These findings suggest that a large number of cardiovascular disease deaths occur in people with abnormal glucose metabolism and that strategies to prevent premature mortality and particularly cardiovascular disease death need to be targeted not only to people with diabetes but also to people with milder forms of abnormal glucose metabolism.</p><p>Go to http://cme.ahajournals.org to take the CME quiz for this article.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Barr et al</head><p>Diabetes, IFG, IGT, and Mortality Risks</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Diabetes, other risk factors, and 12-yr cardiovascular mortality for men screened in the Multiple Risk Factor Intervention Trial</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Stamler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Vaccaro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Neaton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Wentworth</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="434" to="444" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">asymptomatic hyperglycemia, and 22-year mortality in black and white men: the Chicago Heart Association Detection Project in Industry Study</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">P</forename><surname>Lowe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Greenland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">E</forename><surname>Metzger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Dyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Stamler</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Diabetes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="163" to="169" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Effects of diabetes and level of glycemia on all-cause and cardiovascular mortality: the San Antonio Heart Study</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Wei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Gaskill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Haffner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Stern</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="1167" to="1172" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Mortality in adults with and without diabetes in a national cohort of the U.S. population, 1971-1993</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Gu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Cowie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">I</forename><surname>Harris</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="1138" to="1145" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Mortality from coronary heart disease in subjects with type 2 diabetes and in nondiabetic subjects with and without prior myocardial infarction</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Haffner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lehto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Ronnemaa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Pyorala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Laakso</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">339</biblScope>
+			<biblScope unit="page" from="229" to="234" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Relationship between diabetes and mortality: a population study using record linkage</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Morgan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Currie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Peters</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="1103" to="1107" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Age and the burden of death attributable to diabetes in the United States</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Saydah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Eberhardt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Loria</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">L</forename><surname>Brancati</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">156</biblScope>
+			<biblScope unit="page" from="714" to="719" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Subclinical states of glucose intolerance and risk of death in the U</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Saydah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Loria</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Eberhardt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">L</forename><surname>Brancati</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">S. Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="447" to="453" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">The DECODE Study Group on behalf of the European Diabetes Epidemiology Group. Glucose tolerance and cardiovascular mortality: comparison of fasting and 2-hour diagnostic criteria</title>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">161</biblScope>
+			<biblScope unit="page" from="397" to="405" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Hyperglycaemia and mortality from all causes and from cardiovascular disease in five populations of Asian origin</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Nakagami</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="385" to="394" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Impaired glucose tolerance and impaired fasting glycaemia: the current status on definition and intervention</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Unwin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Shaw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Zimmet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">G</forename><surname>Alberti</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabet Med</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="708" to="723" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">The relationship between dysglycaemia and cardiovascular and renal risk in diabetic and non-diabetic participants in the HOPE study: a prospective epidemiological analysis</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Gerstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Pogue</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Mann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Lonn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">R</forename><surname>Dagenais</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mcqueen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Yusuf</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="1749" to="1755" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">The relationship between glucose and incident cardiovascular events: a metaregression analysis of published data from 20 studies of 95,783 individuals followed for 12.4 years. Diabetes Care</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Coutinho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Gerstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Yusuf</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="233" to="240" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">The Australian Diabetes, Obesity and Lifestyle Study (AusDiab): methods and response rates</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Dunstan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">Z</forename><surname>Zimmet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Welborn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Cameron</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Shaw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>De Courten</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Jolley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Mccarty</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Res Clin Pract</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="page" from="119" to="129" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Untreated hypertension among Australian adults: the 1999 -2000 Australian Diabetes</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Briganti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Shaw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Chadban</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">Z</forename><surname>Zimmet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Welborn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Mcneil</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Atkins</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Obesity and Lifestyle Study</title>
+		<imprint>
+			<publisher>AusDiab</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Med J Aust</title>
+		<imprint>
+			<biblScope unit="volume">179</biblScope>
+			<biblScope unit="page" from="135" to="139" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Waist circumference, waist-hip ratio and body mass index and their correlation with cardiovascular disease risk factors in Australian adults</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Dalton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Cameron</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">Z</forename><surname>Zimmet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Shaw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Jolley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Dunstan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Welborn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">254</biblScope>
+			<biblScope unit="page" from="555" to="563" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title level="m" type="main">The World Health Organization. Definition, Diagnosis and Classification of Diabetes Mellitus and its Complications: Part 1: Diagnosis and Classification of Diabetes Mellitus</title>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<pubPlace>Geneva, Switzerland</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Department of Noncommunicable Disease Surveillance</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Accuracy of the Australian National Death Index: comparison with adjudicated fatal outcomes among Australian participants in the Long-term Intervention with Pravastatin in Ischaemic Disease (LIPID) study</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Magliano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Liew</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Pater</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kirby</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Hunt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Simes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Sundararajan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Tonkin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Aust N Z J Public Health</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="649" to="653" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Macrovascular disease: the sword of Damocles in diabetes</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Brooks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Yue</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Diabetes in the New Millennium</title>
+				<editor>
+			<persName><forename type="first">J</forename><surname>Turtle</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">T</forename><surname>Kaneko</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">S</forename><surname>Osato</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Sydney, Australia</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<biblScope unit="page" from="403" to="414" />
+		</imprint>
+		<respStmt>
+			<orgName>Endocrinology and Diabetes Research Foundation of the University of Sydney</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Glucose intolerance and 23-year risk of coronary heart disease and total mortality: the Honolulu Heart Program</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">L</forename><surname>Rodriguez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Lau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Burchfiel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Abbott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Sharp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Yano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Curb</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="1262" to="1265" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">High blood glucose concentration is a risk factor for mortality in middle-aged nondiabetic men: 20-year follow-up in the Whitehall Study, the Paris Prospective Study, and the Helsinki Policemen Study</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Balkau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Shipley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Jarrett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Pyorala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Pyorala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Forhan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Eschwege</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="360" to="367" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Fasting blood glucose: an underestimated risk factor for cardiovascular death: results from a 22-year follow-up of healthy nondiabetic men</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">V</forename><surname>Bjornholt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Erikssen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Aaser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Sandvik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Nitter-Hauge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Jervell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Erikssen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Thaulow</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="45" to="49" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Impaired glucose tolerance is a risk factor for cardiovascular disease, but not impaired fasting glucose: the Funagata Diabetes Study</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tominaga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Eguchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Manaka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Igarashi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Kato</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sekikawa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="920" to="924" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Post-load plasma glucose and cancer mortality in middle-aged men and women: 12-year follow-up findings of the Chicago Heart Association Detection Project in Industry</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Levine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Dyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Shekelle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Schoenberger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Stamler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">131</biblScope>
+			<biblScope unit="page" from="254" to="262" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Abnormal glucose tolerance and the risk of cancer death in the United States</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Saydah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Loria</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Eberhardt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">L</forename><surname>Brancati</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">157</biblScope>
+			<biblScope unit="page" from="1092" to="1100" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Is there a glycemic threshold for mortality risk?</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Balkau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bertrais</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Ducimetiere</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Eschwege</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="696" to="699" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">The DECODE Study Group on behalf of the European Diabetes Epidemiology Group. Is the current definition for diabetes relevant to mortality risk from all causes and cardiovascular and noncardiovascular diseases?</title>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="688" to="696" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Glucose metabolism in patients with acute myocardial infarction and no previous diagnosis of diabetes mellitus: a prospective study</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Norhammar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Tenerz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Nilsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Hamsten</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Efendic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Ryden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Malmberg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">359</biblScope>
+			<biblScope unit="page" from="2140" to="2144" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">The prevalence of abnormal glucose regulation in patients with coronary artery disease across Europe: the Euro Heart Survey on diabetes and the heart</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bartnik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Ryden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Ferrari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Malmberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Pyorala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Simoons</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Standl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Soler-Soler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ohrvik</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur Heart J</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="1880" to="1890" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Risk factor management in diabetic and non-diabetic patients with coronary heart disease: findings from the EUROASPIRE I AND II surveys</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Pyorala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lehto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">De</forename><surname>Bacquer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">De</forename><surname>Sutter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Sans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Keil</forename><forename type="middle">U</forename><surname>Wood</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">De</forename><surname>Backer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="1257" to="1265" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">The rising prevalence of diabetes and impaired glucose tolerance: the Australian Diabetes, Obesity and Lifestyle Study</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Dunstan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">Z</forename><surname>Zimmet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Welborn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>De Courten</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Cameron</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Sicree</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Dwyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Colagiuri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Jolley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Knuiman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Atkins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Shaw</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="829" to="834" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Agreement between self-report questionnaires and medical record data was substantial for diabetes, hypertension, myocardial infarction and stroke but not for heart failure</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Okura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">H</forename><surname>Urban</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Mahoney</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Jacobsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Rodeheffer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="page" from="1096" to="1103" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Comparison of self-report, hospital discharge codes, and adjudication of cardiovascular events in the Women&apos;s Health Initiative</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Heckbert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Kooperberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Safford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">M</forename><surname>Psaty</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hsia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mctiernan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Gaziano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">H</forename><surname>Frishman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Curb</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">160</biblScope>
+			<biblScope unit="page" from="1152" to="1158" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Surveillance and ascertainment of cardiovascular events: the Cardiovascular Health Study</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">G</forename><surname>Ives</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Fitzpatrick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Bild</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">M</forename><surname>Psaty</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">H</forename><surname>Kuller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Crowley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">G</forename><surname>Cruise</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Theroux</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="278" to="285" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Validity of self-reported stroke: the Tromsø Study</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Engstad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">H</forename><surname>Bonaa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Viitanen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stroke</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="1602" to="1607" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

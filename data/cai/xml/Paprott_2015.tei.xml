@@ -1,0 +1,1005 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Association Between Hemoglobin A 1c and All-Cause Mortality: Results of the Mortality Follow-up of the German National Health Interview and Examination Survey 1998</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Christin</forename><surname>Heidemann</surname></persName>
+							<email>heidemannc@rki.de.</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Epidemiology and Health Mon-itoring</orgName>
+								<orgName type="institution">Robert Koch Institute</orgName>
+								<address>
+									<settlement>Berlin</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Rebecca</forename><surname>Paprott</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Epidemiology and Health Mon-itoring</orgName>
+								<orgName type="institution">Robert Koch Institute</orgName>
+								<address>
+									<settlement>Berlin</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Angelika</forename><forename type="middle">Schaffrath</forename><surname>Rosario</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Epidemiology and Health Mon-itoring</orgName>
+								<orgName type="institution">Robert Koch Institute</orgName>
+								<address>
+									<settlement>Berlin</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Markus</forename><forename type="middle">A</forename><surname>Busch</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Epidemiology and Health Mon-itoring</orgName>
+								<orgName type="institution">Robert Koch Institute</orgName>
+								<address>
+									<settlement>Berlin</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Yong</forename><surname>Du</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Epidemiology and Health Mon-itoring</orgName>
+								<orgName type="institution">Robert Koch Institute</orgName>
+								<address>
+									<settlement>Berlin</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Silke</forename><surname>Thiele</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Food Economics and Consump-tion Studies</orgName>
+								<orgName type="institution">Christian-Albrechts-University Kiel</orgName>
+								<address>
+									<settlement>Kiel</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Christa</forename><surname>Scheidt-Nave</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Epidemiology and Health Mon-itoring</orgName>
+								<orgName type="institution">Robert Koch Institute</orgName>
+								<address>
+									<settlement>Berlin</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Association Between Hemoglobin A 1c and All-Cause Mortality: Results of the Mortality Follow-up of the German National Health Interview and Examination Survey 1998</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">2ECE500F2ABAB3E2951CBCC324D2A957</idno>
+					<idno type="DOI">10.2337/dc14-1787</idno>
+					<note type="submission">Received 25 July 2014 and accepted 17 October 2014.</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.1" ident="GROBID" when="2022-07-19T23:00+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>This study examined the association of HbA 1c -defined glycemic status and continuous HbA 1c with all-cause mortality.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESEARCH DESIGN AND METHODS</head><p>The study population comprised 6,299 participants (aged 18-79 years) of the German National Health Interview and Examination Survey 1998, who were followed up for mortality for an average of 11.6 years. Glycemic status was defined as known diabetes (self-reported diagnosis or intake of antidiabetic medication) and based on HbA 1c levels according to American Diabetes Association diagnostic criteria as undiagnosed diabetes ( ‡6.5% [ ‡48 mmol/mol]), prediabetes with very high (6.0-6.4% [42-46 mmol/mol]) or high diabetes risk (5.7-5.9% [39-41 mmol/mol]), and normoglycemia (&lt;5.7% [&lt;39 mmol/mol]). Associations between glycemic status and mortality were examined by Cox regression adjusting for age, sex, education, lifestyle factors, anthropometric measures, and history of chronic diseases (reference: normoglycemia). Spline models were fitted to investigate associations between continuous HbA 1c and mortality among participants without known diabetes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head><p>Excess mortality risk was observed for participants with known diabetes (hazard ratio 1.41 [95% CI 1.08-1.84]) and undiagnosed diabetes (1.63 [1.23-2.17]) but not for those with high (1.02 [0.80-1.30]) or very high diabetes risk (0.87 [0.67-1.13]). Spline models revealed a U-shaped association, with lowest risk at HbA 1c levels 5.4-5.6% (36-38 mmol/mol) and a significantly increased risk at £5.0% (£31 mmol/mol) and ‡6.4% ( ‡46 mmol/mol).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CONCLUSIONS</head><p>Unlike known and undiagnosed diabetes, HbA 1c levels in the prediabetic range were not associated with an increased mortality risk. The observed U-shaped relationship adds to existing evidence that not only high but also low HbA 1c levels might be associated with all-cause mortality.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Glycated hemoglobin A 1c (HbA 1c ) reflects the individual average blood glucose concentration within the past 2-3 months and is an established biomarker for monitoring glycemic control in diabetic patients <ref type="bibr" target="#b0">(1,</ref><ref type="bibr" target="#b1">2)</ref>. The American Diabetes Association (ADA) and the World Health Organization (WHO) also recently recommended HbA 1c ($6.5% [$48 mmol/mol]) for diabetes diagnosis <ref type="bibr" target="#b2">(3,</ref><ref type="bibr" target="#b3">4)</ref>. In addition, the ADA has recommended HbA 1c for the identification of individuals at high (HbA 1c 5.7-5.9% [39-41 mmol/mol]) or very high (HbA 1c 6.0-6.4% [42-46 mmol/mol]) diabetes risk, also referred to as prediabetes <ref type="bibr" target="#b2">(3,</ref><ref type="bibr">5)</ref>.</p><p>There is evidence that increased HbA 1c levels predict not only diabetes but also cardiovascular morbidity among people with and without diabetes <ref type="bibr" target="#b4">(6,</ref><ref type="bibr" target="#b5">7)</ref>. Moreover, a number of studies have analyzed the relationship between HbA 1c and all-cause mortality. Most of these previous studies observed an increased risk of death from all-causes at diabetic HbA 1c levels among adults without known diabetes, independent of other known cardiovascular risk factors <ref type="bibr" target="#b4">(6)</ref><ref type="bibr" target="#b5">(7)</ref><ref type="bibr" target="#b6">(8)</ref><ref type="bibr" target="#b7">(9)</ref><ref type="bibr" target="#b8">(10)</ref><ref type="bibr" target="#b9">(11)</ref>, whereas some studies found no significant association <ref type="bibr" target="#b10">(12)</ref><ref type="bibr" target="#b11">(13)</ref><ref type="bibr" target="#b12">(14)</ref>. Whether the risk for all-cause mortality is already increased at HbA 1c levels in the prediabetic range is unclear. Former studies showed contradictory results and differed in applied HbA 1c cutoffs <ref type="bibr" target="#b4">(6,</ref><ref type="bibr" target="#b7">(9)</ref><ref type="bibr" target="#b8">(10)</ref><ref type="bibr" target="#b9">(11)</ref><ref type="bibr" target="#b10">(12)</ref><ref type="bibr" target="#b11">(13)</ref><ref type="bibr" target="#b13">(15)</ref><ref type="bibr" target="#b15">(16)</ref><ref type="bibr" target="#b16">(17)</ref>. So far, only one previous study assessing all-cause mortality in relation to HbA 1c in the prediabetic range applied ADA recommendations. However, this study did not differentiate between HbA 1c categories related to a high risk versus a very high risk for diabetes <ref type="bibr" target="#b13">(15)</ref>.</p><p>Several studies have assessed the risk of all-cause mortality independently of predefined cutoffs by modeling HbA 1c levels continuously in adults without known diabetes. Although some studies reported a linear association between HbA 1c and allcause mortality <ref type="bibr" target="#b16">(17)</ref><ref type="bibr" target="#b17">(18)</ref><ref type="bibr" target="#b18">(19)</ref>, others observed a J-shaped relationship <ref type="bibr" target="#b4">(6,</ref><ref type="bibr" target="#b12">14,</ref><ref type="bibr" target="#b15">16)</ref>. Further, it is possible that the association between HbA 1c and mortality changes with aging and thus might no longer be detectable in studies of older populations <ref type="bibr" target="#b10">(12)</ref>.</p><p>Given the wide application of diagnostic HbA 1c testing in clinical practice, we investigated the association of HbA 1cdefined glycemic status and continuous HbA 1c with all-cause mortality in a nationwide sample of adults in Germany. In categoric analyses, we applied ADA cutoff criteria for undiagnosed diabetes and subcategories of prediabetes and also considered different reference groups to define normoglycemia. Spline models were fitted to test for nonlinearity of the relationship between HbA 1c and mortality among people without known diabetes. Further, we investigated the modification of the association between HbA 1c and mortality by age.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESEARCH DESIGN AND METHODS</head><p>The Mortality Follow-up of the German National Health Interview and Examination Survey 1998</p><p>The nationwide German National Health Interview and Examination Survey 1998 (GNHIES98) was conducted between October 1997 and March 1999, targeting the residential, noninstitutionalized German population aged 18-79 years. A two-stage stratified clustered sampling technique was used. First, a representative sample of communities stratified by federal state and community size was drawn. Second, a random sample of adults stratified by age and sex was selected from local population registries proportional to the age and sex structure of the German population. The overall response rate was 61.4%, equivalent to 7,124 participants <ref type="bibr" target="#b19">(20)</ref>.</p><p>Study participants were recontacted between October 2008 and October 2011 and invited to participate in the first wave of the German Health Interview and Examination Survey for Adults (DEGS1). For those who did not respond or could no longer be contacted at the most current address, vital status and the exact date of death for deceased individuals were obtained from local population registries. Follow-up for death was complete for 6,979 participants (98.0%). After excluding participants with missing information regarding known diabetes (n = 22), HbA 1c level (n = 398), or covariates (n = 260) at baseline, the study population for the present analysis comprised 6,299 people. The GNHIES98 was approved by the Federal Commissioner for the Protection of Data and Freedom of Information. All study participants provided written informed consent before participation <ref type="bibr" target="#b19">(20)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Assessment of Glycemic Status</head><p>Known diabetes was determined as 1) self-reported history of physiciandiagnosed diabetes in standardized interviews conducted by specifically trained physicians or 2) intake of antidiabetic medication within the 7 days preceding the interview documented through a detailed medication review and coding of unique product identifiers (Pharmazentralnummer [PZN]) on original drug containers. Among participants without known diabetes, normoglycemia (HbA 1c ,5.7% [,39 mmol/mol]), prediabetes (HbA 1c 5.7-6.4% [39-46 mmol/mol]), and undiagnosed diabetes (HbA 1c $6.5% [$48 mmol/mol]) were defined according to recent ADA recommendations <ref type="bibr" target="#b20">(21)</ref>. Prediabetes was further categorized as prediabetes with high (HbA 1c 5.7-5.9% [39-41 mmol/mol]) or very high (HbA 1c 6.0-6.4% [42-46 mmol/mol]) risk for diabetes (5,21).</p><p>HbA 1c was measured in fresh whole blood specimens with a Diamat highperformance liquid chromatography analyzer (Bio-Rad Laboratories, Munich, Germany) and reagents of Recipe (Recipe Chemicals and Instruments, Munich, Germany) in the Robert Koch Institute Central Epidemiological Laboratory <ref type="bibr" target="#b19">(20)</ref>. The interassay coefficients of variation were 2.0-2.8%. The Bio-Rad HbA 1c analysis system was certified by the National Glycohemoglobin Standardization Program (NGSP) ensuring standardization of HbA 1c test results to the Diabetes Control and Complications Trial <ref type="bibr" target="#b21">(22)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Assessment of Covariates</head><p>A standardized self-administered questionnaire was used to obtain information on age, sex, educational level, sport activity, and smoking status. Trained interviewers checked all completed questionnaires for plausibility and completeness <ref type="bibr" target="#b19">(20)</ref>. Educational level (low, medium, or high) was classified by the Comparative Analysis of Social Mobility in Industrial Nations (CASMIN), encompassing general as well as vocational training <ref type="bibr" target="#b22">(23)</ref>. Sport activity was assessed by five categories as no sport, ,1 h/week, regularly 1-2 h/week, regularly 2-4 h/week, or regularly .4 h/week. This information was aggregated into two categories (,2 h/week or $2 h/week) for analyses. Smoking status was categorized as never, former, and current smoking. Alcohol intake (g/day) was obtained by a semiquantitative food frequency questionnaire <ref type="bibr" target="#b23">(24)</ref>. Moderate alcohol intake was defined as .0-20 g/day for men and .0-10 g/day for women. History of physician-diagnosed chronic diseases (hypertension, hyperlipidemia, myocardial infarction, stroke, cancer, hepatitis, chronic liver disease) was obtained by trained study physicians conducting standardized interviews <ref type="bibr" target="#b19">(20)</ref>. Hb was measured in EDTA-blood with a Coulter HmX Hematology Analyzer (Beckman Coulter, Krefeld, Germany), and anemia was defined by Hb ,13 g/dL for men and ,12 g/dL for women (25). Creatinine was measured in serum with an Architect analyzer (Abbott, Wiesbaden, Germany), and chronic kidney disease was defined by an estimated glomerular filtration rate ,60 mL/min/1.73 m 2 (26). Trained health professionals used standardized operational procedures to obtain measures of height, weight, and waist circumference. BMI was calculated as the ratio of body weight (kg) and height squared (m 2 ).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical Analysis</head><p>Cox proportional hazards regression was performed to calculate hazard ratios (HRs) and 95% confidence intervals (CIs) for death during follow-up according to the glycemic status at baseline using normoglycemia as the reference category. Follow-up time, as a dependent time variable, was defined as the interval in days between the date of the baseline examination in GNHIES98 and the date of recontact during follow-up or the date of death. We verified that the proportional hazards assumption was met by including a product term of each independent variable and the log of survival time in the Cox model. Model 1 was adjusted for sex and age (years). Model 2 was further adjusted for established mortality risk factors: educational level (low, medium, high), smoking status (never, former, current), sport activity ($2 h/week, ,2 h/week), moderate alcohol consumption (yes, no), BMI (kg/m 2 ), and waist circumference (cm). Model 3 was additionally adjusted for chronic diseases, including selfreported history of myocardial infarction, stroke, or cancer (yes, no) and hypertension or hyperlipidemia (yes, no). Sensitivity analyses were performed excluding 1) participants with ,2 years of follow-up (n = 52) to account for potential influence of prevalent diseases influencing HbA 1c levels; 2) participants with a history of self-reported myocardial infarction, stroke, or cancer (n = 393); and 3) participants with baseline conditions known to affect HbA 1c , including pregnancy, anemia, chronic kidney disease, and self-reported history of hepatitis or chronic liver disease (n = 444). In an additional sensitivity analysis, the reference group was confined to HbA 1c levels of 5.0% to ,5.7% (31 to ,39 mmol/mol), because HbA 1c levels ,5.0% (,31 mmol/mol) may be associated with increased mortality risk <ref type="bibr" target="#b13">(15)</ref>.</p><p>Spline regression analyses excluded participants with known diabetes at baseline (n = 313). The shape of the association between continuous HbA 1c levels and mortality was modeled by restricted cubic splines in the fully adjusted model, with four knots set at the 5th, 25th, 75th, and 95th percentile. Knots were equivalent to an HbA 1c level of 4.7% (28 mmol/mol), 5.1% (32 mmol/mol), 5.8% (40 mmol/mol), and 6.3% (45 mmol/mol), respectively. The reference was set at the median HbA 1c level of 5.4% (36 mmol/mol), and the plot was truncated at the 1st and the 99th percentile. The number of deceased individuals at specific HbA 1c values was limited (e.g., 22 deceased at an HbA 1c level of 5.4% [36 mmol/mol)]). To test the robustness of results, the reference was hence set at alternate HbA 1c levels, including 5.3% (34 mmol/mol) and 5.5% (37 mmol/mol). Because HbA 1c has been shown to increase in older age in nondiabetic individuals <ref type="bibr" target="#b24">(27,</ref><ref type="bibr" target="#b25">28)</ref>, a test for interaction was conducted by including a product term with age (,55 vs. $55 years) and HbA 1c in the spline model. Interaction with sex was tested in a separate model by including a product term with sex and HbA 1c . SAS 9.3 software (SAS Institute Inc., Cary, NC) was used for all statistical analyses. The level of statistical significance was set at P = 0.05 based on twosided tests.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head><p>Baseline characteristics of the study population stratified by glycemic status are presented in Table <ref type="table" target="#tab_0">1</ref>. Participants with undiagnosed diabetes and with known diabetes were similar in most characteristics. However, those with known diabetes showed a higher prevalence of hypertension and were less likely current smokers. With increasing HbA 1c from normoglycemia to a high and very high risk for diabetes to undiagnosed diabetes, individuals were older and more likely to have a lower educational level and a higher BMI. Moreover, the prevalence of hypertension increased in a stepwise fashion with deteriorating glycemic status. When the normoglycemic group was subdivided into individuals with an HbA 1c level ,5.0% (,31 mmol/mol) and those with an HbA 1c level of 5.0 to ,5.7% (31 to ,39 mmol/mol), those with a lower HbA 1c level were more likely female, younger, had a higher educational level, a lower BMI and waist circumference, and a lower prevalence of hypertension, hyperlipidemia, and myocardial infarction (data not shown).</p><p>Overall, 552 of 6,299 eligible study participants were confirmed to have died during an average follow-up of 11.6 years, amounting to 73,299 personyears. Compared with participants with normoglycemia, mortality rates were approximately two to three times higher among participants with a high and a very high diabetes risk and approximately seven times higher among subjects with known or undiagnosed diabetes (Table <ref type="table" target="#tab_1">2</ref>). In Cox proportional hazards models adjusting for age and sex, undiagnosed diabetes and known diabetes, but not the prediabetic states, were associated with a significantly higher mortality risk compared with normoglycemia. The risk was 87% higher among subjects with undiagnosed diabetes and 66% higher among subjects with known diabetes compared with those with normoglycemia. Further adjustment for established mortality risk factors moderately attenuated risk estimates among all groups. In the model additionally adjusted for chronic diseases at baseline, mortality risk was still significantly increased by 63% (23-117%) among individuals with undiagnosed diabetes and by 41% (8-84%) in those with known diabetes. These results were confirmed in several sensitivity analyses (Table <ref type="table" target="#tab_2">3</ref>). Determining the reference group as an HbA 1c level of 5.0 to ,5.7% (31 to ,39 mmol/mol) slightly increased risk estimates among all groups. Among subjects with an HbA 1c level ,5.0% (,31 mmol/mol), mortality risk was significantly increased by 70% (16-150%). The latter finding did not change materially after exclusion of 1) individuals who died within the first 2 years of follow-up (66% [10-151%]); 2) those with a history of myocardial infarction, stroke, or cancer (64% [6-153%]); or 3) those with baseline conditions known to affect HbA 1c (66% [10-152%]) (data not shown).</p><p>Restricted cubic spline regression modeled for subjects without known diabetes revealed a U-shaped association (Fig. <ref type="figure" target="#fig_0">1A</ref>). Risk for all-cause mortality was lowest at HbA 1c levels of 5.4-5.6% (36-38 mmol/mol), whereas HbA 1c levels #5.0% (#31 mmol/mol) and $6.4% ($46 mmol/mol) were both associated with a significantly increased risk. In sensitivity analyses with the reference set at HbA 1c levels 5.3% (34 mmol/mol) or 5.5% (37 mmol/mol) instead of 5.4% (36 mmol/mol), the overall shape of the curve remained essentially the same, and the HbA 1c range related to the lowest mortality risk was comparable (5.3-5.6% [34-38 mmol/mol] or 5.4-5.6% [36-38 mmol/mol], respectively; data not shown). However, the spline reacted slightly flexible before the first and after the last knot, with an increased mortality risk at HbA 1c levels #5.1% (#32 mmol/mol) and $6.6% ($49 mmol/mol) for the reference of 5.3% (34 mmol/mol) or #4.9% (#30 mmol/mol) and $6.3% ($45 mmol/mol) for the reference of 5.5% (37 mmol/mol), respectively. Spline regression stratified by age group indicated a steeper increase in mortality risk in both the low and high range of HbA 1c among participants aged ,55 years compared with those aged at least 55 years (Fig. <ref type="figure" target="#fig_0">1B and C</ref>), although a test for interaction between age group and HbA 1c was not significant (P = 0.51). There was also no evidence for a significant interaction between HbA 1c and sex (P = 0.24).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CONCLUSIONS</head><p>In the current study, known diabetes and HbA 1c -defined undiagnosed diabetes (HbA 1c $6.5% [$48 mmol/mol]), but not prediabetes, in the high or the very high diabetes risk category (HbA 1c 5.7-6.4% [39-46 mmol/mol]), were significantly associated with an increased risk of all-cause mortality compared with normoglycemia (HbA 1c ,5.7% [,39 mmol/mol]). Results persisted in various sensitivity analyses, excluding individuals with preexisting chronic diseases or conditions with a possible effect on HbA 1c and resetting the normoglycemic reference category to HbA 1c levels of 5.0 to ,5.7% [31 to ,39 mmol/mol]. A U-shaped association was found between continuous HbA 1c and all-cause mortality, with the lowest risk at HbA 1c levels of 5.4-5.6% (36-38 mmol/mol) and a significantly increased risk at HbA 1c levels #5.0% (# 31 mmol/mol) and $6.4% ($46 mmol/mol).</p><p>In accordance with evidence from previous studies, we observed an excess mortality risk among participants with known diabetes and HbA 1c-defined undiagnosed diabetes compared with normoglycemic individuals (6,9,10,29,30). In the main and sensitivity analyses, the risk for all-cause mortality was  PY, person-years. Model 1: Adjusted for age at baseline (years) and sex. Model 2: Further adjusted for educational level (low, medium, high), smoking status at baseline (never, former, current), sport activity (,2 vs. $2 h/week), moderate alcohol consumption (men: .0 and #20 g/day, women: .0 and #10 g/day), BMI (kg/m 2 ), and waist circumference (cm). Model 3: Further adjusted for history of myocardial infarction, stroke, or cancer at baseline (yes, no), and history of hypertension or hyperlipidemia at baseline (yes, no).  <ref type="table" target="#tab_1">2</ref>. †Model is adjusted for the same variables as model 3 of Table <ref type="table" target="#tab_1">2</ref> except for history of myocardial infarction, stroke, and cancer at baseline. ‡Baseline conditions known to affect HbA 1c were pregnancy, anemia, chronic kidney disease, hepatitis, or chronic liver disease. <ref type="bibr" target="#b10">(12)</ref> or the Hoorn Study (HbA 1c 5.6-5.9% [38-41 mmol/mol], reference: #5.1% [#32 mmol/mol]) (13) find an association with all-cause mortality. However, these previous studies included participants within a limited age range <ref type="bibr" target="#b9">(11)</ref><ref type="bibr" target="#b10">(12)</ref><ref type="bibr" target="#b11">(13)</ref> and applied criteria to define reference and risk categories that were different from ADA recommendations.</p><p>The Atherosclerosis Risk in Communities (ARIC) study, in contrast, used the same cutoff criteria to define prediabetes (HbA 1c 5.7-6.4% [39-46 mmol/mol]) as applied in the current study but observed a significant association between prediabetes and all-cause mortality (reference: 5.0 to ,5.7% (31 to ,39 mmol/mol) <ref type="bibr" target="#b13">(15)</ref>. An increased mortality risk was also found in National Health and Nutrition Examination Survey (NHANES) III and the European Prospective Investigation into Cancer and Nutrition (EPIC)-Norfolk study in relation to HbA 1c levels of 5.5-5.9% (37-41 mmol/mol) and 6.0-6.4% (42-47 mmol/mol) compared with HbA 1c levels of 5.0-5.4% (31-36 mmol/mol) as a reference <ref type="bibr" target="#b7">(9,</ref><ref type="bibr" target="#b15">16)</ref>. HbA 1c levels of 6.0-6.4% (42-47 mmol/mol) were also predictive of an increased mortality risk in a study of the Japanese general adult population; in that study, the reference group was set at HbA 1c levels of ,5.0% (,31 mmol/mol) <ref type="bibr" target="#b8">(10)</ref>.</p><p>Inconclusive results regarding the relationship between prediabetic HbA 1c levels and mortality are likely to result from varying definitions of prediabetes and reference categories as well as differences in main characteristics of the study population, such as age range and inclusion or exclusion of individuals with prevalent cardiovascular disease or undiagnosed diabetes according to glucose criteria. In sensitivity analyses, we therefore redefined our reference category according to the ARIC study (HbA 1c 5.0 to ,5.7% [31 to ,39 mmol/mol]). However, there was still no association between a high or very high risk for diabetes and mortality. Notably, the ARIC analysis was based on an age range other than in the current study, included different ethnicities, and did not exclude or consider in adjusted models individuals with a history of myocardial infarction, stroke, or cancer. Despite the finding of no association between prediabetes and all-cause mortality in the current study, prediabetes might still be relevant for other clinical outcomes. HbA 1c levels in the prediabetic range have been shown to be associated with an increased risk for coronary heart disease and stroke in some but not all studies <ref type="bibr" target="#b4">(6,</ref><ref type="bibr" target="#b5">7,</ref><ref type="bibr" target="#b28">31)</ref>.</p><p>Similar to the current study, some other studies determined nonlinear relationships between HbA 1c and all-cause mortality (6,9,16). J-shaped associations were found among adults without known diabetes in a study based on NHANES III data <ref type="bibr" target="#b15">(16)</ref> and in the ARIC study <ref type="bibr" target="#b4">(6)</ref>. Consistent with our findings, mortality risk in both studies was significantly increased at low and high HbA 1c levels. For example, the risk in NHANES III was significantly increased at HbA 1c levels #4.1% (#21 mmol/mol) and $6.1% ($43 mmol/mol) <ref type="bibr" target="#b15">(16)</ref>. Further, results of Cox models showed a significantly increased mortality risk in the ARIC study at HbA 1c levels ,5.0% (,31 mmol/mol) compared with HbA 1c levels of 5.0-5.5% (31-37 mmol/mol) <ref type="bibr" target="#b4">(6)</ref> or 5.0 to ,5.7% (31 to ,39 mmol/mol) <ref type="bibr" target="#b13">(15)</ref>, respectively, and in NHANES III at HbA 1c levels ,4.0% (,20 mmol/mol) compared with HbA 1c levels of 5.0-5.4% (31-36 mmol/mol) <ref type="bibr" target="#b15">(16)</ref>. These findings are in concordance with results from our sensitivity analysis of an increased mortality risk at HbA 1c levels ,5.0% (,31 mmol/mol) compared with HbA 1c levels of 5.0 to ,5.7% (31 to ,39 mmol/mol). In contrast, the EPIC-Norfolk study did not detect an increased mortality risk in the lower HbA 1c range; risk was similar for HbA 1c values ,5.5% (,37 mmol/mol) and significantly increased afterward <ref type="bibr" target="#b7">(9)</ref>. Some other studies also tested for nonlinearity of the association between HbA 1c levels and all-cause mortality but confirmed linear relationships <ref type="bibr" target="#b16">(17)</ref><ref type="bibr" target="#b17">(18)</ref><ref type="bibr" target="#b18">(19)</ref>.</p><p>Therefore, whether low HbA 1c levels are a predictor of increased mortality risk remains controversial. Low HbA 1c has been considered as a general marker of disease and a correlate of impaired red blood cell indices, unfavorable measures of iron storage, and increased liver function indices <ref type="bibr" target="#b13">(15,</ref><ref type="bibr" target="#b15">16,</ref><ref type="bibr" target="#b29">32)</ref>. These factors, in turn, were shown to correlate with inflammatory processes and increased morbidity and mortality <ref type="bibr" target="#b30">(33)</ref><ref type="bibr" target="#b31">(34)</ref><ref type="bibr" target="#b32">(35)</ref>. However, in our main and sensitivity analyses considering several comorbid conditions, the increased mortality risk in the lower HbA 1c range persisted, which is also in accordance with a study based on NHANES III data <ref type="bibr" target="#b15">(16)</ref>. Residual confounding <ref type="bibr" target="#b33">(36)</ref> and reliance on self-report for most chronic diseases have to be considered for discussing this observation but are unlikely to entirely explain the robust result. Therefore, future studies with a large number of individuals with low HbA 1c levels and detailed assessment of morbid conditions would be important to further investigate mechanisms underlying the increased mortality risk in the lower HbA 1c range <ref type="bibr" target="#b15">(16)</ref>.</p><p>There is evidence that older age is associated with higher HbA 1c levels independent of fasting plasma glucose and glucose measured 2 h after an oral glucose tolerance test <ref type="bibr" target="#b24">(27,</ref><ref type="bibr" target="#b25">28)</ref>. Studies investigating the association between increased HbA 1c levels and mortality among elderly individuals showed diverging results <ref type="bibr" target="#b9">(11)</ref><ref type="bibr" target="#b10">(12)</ref><ref type="bibr" target="#b11">(13)</ref><ref type="bibr" target="#b34">37)</ref>. Our results indicate that the mortality risk associated with increased HbA 1c levels might be more pronounced among younger than older persons without known diabetes, although the test for interaction between HbA 1c and age was not significant. However, this might be due to the relatively small number of deceased individuals aged ,55 years (n = 92) and low statistical power. Future studies with a larger sample size should focus on potential differences in risk among younger and older individuals.</p><p>The current study was based on a nationwide sample of the noninstitutional, residential population covering a wide age range from 18-79 years. Information on a large number of confounding variables was available. Besides, our study is among the few studies that have defined categories of glycemic status according to recently recommended HbA 1c cutoffs following ADA diagnostic criteria for diabetes and prediabetes. However, HbA 1c measurements may be influenced by a number of physiological and pathophysiological conditions affecting red cell and iron metabolism, such as pregnancy, iron deficiency, chronic liver disease, alcoholism, chronic renal failure, and intake of large doses of aspirin (4,5). Nevertheless, results remained materially unchanged in sensitivity analyses that considered most of these factors. In addition, we only measured HbA 1c once at baseline and due to random variability in HbA 1c levels, misclassification of participants might have occurred. However, the within-subject variation has been shown to be minimal <ref type="bibr" target="#b35">(38)</ref>, and HbA 1c measurement in the current study could be done with high precision using an established high-performance liquid chromatography analytic system. Further, we do not have information on changes in lifestyle, glycemic status, or drug treatment during follow-up. Thus, the influence of HbA 1c on mortality might have been under-or overestimated. Moreover, the diagnosis of known diabetes largely relied on selfreport, and we did not have the information to exclude women with gestational diabetes. However, we were able to consider information on antidiabetic agent use based on a detailed medication review. Still, misclassification for known diabetes may have occurred. Another limitation is that we were not able to report cause-specific mortality risks. This would have been valuable for the evaluation of potential differences in the proportion of cause-specific deaths across HbA 1c categories.</p><p>In summary, known diabetes and HbA 1c -defined undiagnosed diabetes were both associated with an increased risk for all-cause mortality after 11.6 years of follow-up in this nationwide German cohort. However, adults with prediabetes, as defined by HbA 1c , did not differ in their mortality risk from those with normoglycemia. A U-shaped association was found between continuous HbA 1c measures and all-cause mortality, suggesting that not only high but also low HbA 1c levels might be associated with an increased risk of death.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 -</head><label>1</label><figDesc>Figure 1-Risk for all-cause mortality (HR [95% CI]) according to restricted cubic spline regression among participants without known diabetes. Knots were set at the 5th, 25th, 75th, and 95th percentile. Reference was set at the median HbA 1c level. Plot is truncated at the 1st and 99th percentile. Total population (N = 5,986 including 461 deaths) (A), population aged ,55 years (n = 4,146 including 92 deaths) (B), and population aged $55 years (n = 1,840 including 369 deaths) (C). HRs (95% CIs) are shown on a natural log scale.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 -</head><label>1</label><figDesc>Baseline characteristics for participants of the Mortality Follow-up of the GNHIES98 according to categories of glycemic status (n = 6,299)</figDesc><table><row><cell></cell><cell></cell><cell cols="2">Prediabetes</cell><cell></cell><cell></cell></row><row><cell cols="2">Normoglycemia</cell><cell>High diabetes risk</cell><cell>Very high diabetes risk</cell><cell>Undiagnosed diabetes</cell><cell></cell></row><row><cell></cell><cell>HbA 1c ,5.7%</cell><cell>HbA 1c 5.7-5.9%</cell><cell>HbA 1c 6.0-6.4%</cell><cell>HbA 1c $6.5%</cell><cell>Known</cell></row><row><cell cols="2">(,39 mmol/mol)</cell><cell>(39-41 mmol/mol)</cell><cell>(42-46 mmol/mol)</cell><cell>($48 mmol/mol)</cell><cell>diabetes</cell></row><row><cell></cell><cell>n = 4,000</cell><cell>n = 1,056</cell><cell>n = 692</cell><cell>n = 238</cell><cell>n = 313</cell></row><row><cell>HbA 1c (%)</cell><cell>5.2 (0.3)</cell><cell>5.8 (0.1)</cell><cell>6.1 (0.1)</cell><cell>7.1 (1.1)</cell><cell>7.7 (1.7)</cell></row><row><cell>HbA 1c (mmol/mol)</cell><cell>33 (3.3)</cell><cell>40 (1.1)</cell><cell>43 (1.1)</cell><cell>54 (12.0)</cell><cell>61 (18.6)</cell></row><row><cell>Age (years)</cell><cell>40.6 (14.4)</cell><cell>49.6 (14.5)</cell><cell>55.6 (13.1)</cell><cell>60.1 (11.3)</cell><cell>61.4 (11.4)</cell></row><row><cell>Male sex (%)</cell><cell>46.4</cell><cell>54.4</cell><cell>52.5</cell><cell>58.0</cell><cell>50.5</cell></row><row><cell>Educational level (%)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Low</cell><cell>37.2</cell><cell>46.6</cell><cell>59.1</cell><cell>68.9</cell><cell>69.7</cell></row><row><cell>Medium</cell><cell>48.0</cell><cell>37.9</cell><cell>29.8</cell><cell>22.3</cell><cell>21.7</cell></row><row><cell>High</cell><cell>14.8</cell><cell>15.5</cell><cell>11.1</cell><cell>8.8</cell><cell>8.6</cell></row><row><cell>BMI (kg/m 2 )</cell><cell>25.7 (4.2)</cell><cell>27.4 (4.4)</cell><cell>28.7 (4.8)</cell><cell>30.5 (5.7)</cell><cell>29.6 (5.1)</cell></row><row><cell>Waist circumference (cm)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Women</cell><cell>81.2 (11.4)</cell><cell>88.4 (12.9)</cell><cell>93.9 (12.7)</cell><cell>96.9 (12.8)</cell><cell>96.5 (12.3)</cell></row><row><cell>Men</cell><cell>94.3 (10.6)</cell><cell>97.8 (11.7)</cell><cell>99.7 (10.7)</cell><cell>105.8 (13.6)</cell><cell>103.8 (11.7)</cell></row><row><cell>History of known diseases (%)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Hypertension</cell><cell>16.1</cell><cell>25.7</cell><cell>35.8</cell><cell>50.0</cell><cell>62.3</cell></row><row><cell>Hyperlipidemia</cell><cell>15.8</cell><cell>25.4</cell><cell>37.4</cell><cell>41.6</cell><cell>42.5</cell></row><row><cell>Myocardial infarction</cell><cell>1.1</cell><cell>1.5</cell><cell>3.3</cell><cell>8.8</cell><cell>9.0</cell></row><row><cell>Stroke</cell><cell>0.4</cell><cell>1.3</cell><cell>2.3</cell><cell>3.4</cell><cell>6.7</cell></row><row><cell>Cancer</cell><cell>2.7</cell><cell>3.9</cell><cell>4.5</cell><cell>3.4</cell><cell>6.4</cell></row><row><cell>Sport activity ($2 h/week) (%)</cell><cell>21.8</cell><cell>16.8</cell><cell>14.0</cell><cell>8.0</cell><cell>8.0</cell></row><row><cell>Moderate alcohol</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>consumption (%)</cell><cell>63.9</cell><cell>61.6</cell><cell>64.0</cell><cell>59.2</cell><cell>57.8</cell></row><row><cell>Smoking (%)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Never</cell><cell>46.2</cell><cell>41.7</cell><cell>43.9</cell><cell>42.4</cell><cell>52.4</cell></row><row><cell>Former</cell><cell>20.4</cell><cell>24.4</cell><cell>20.4</cell><cell>27.7</cell><cell>27.2</cell></row><row><cell>Current</cell><cell>33.4</cell><cell>33.9</cell><cell>35.7</cell><cell>29.8</cell><cell>20.5</cell></row><row><cell cols="6">Information is given as arithmetic mean (SD) or percentage. Differences in proportions and means between groups of glycemic status were assessed</cell></row><row><cell>by x 2 test and ANOVA (Scheff é test).</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 -</head><label>2</label><figDesc>Mortality rate and risk for all-cause mortality (HR [95% CI]) according to categories of glycemic status</figDesc><table><row><cell></cell><cell></cell><cell></cell><cell>Prediabetes</cell><cell>Undiagnosed</cell><cell></cell></row><row><cell></cell><cell>Normoglycemia</cell><cell>High diabetes risk</cell><cell>Very high diabetes risk</cell><cell>diabetes</cell><cell></cell></row><row><cell></cell><cell>HbA 1c ,5.7%</cell><cell>HbA 1c 5.7-5.9%</cell><cell>HbA 1c 6.0-6.4%</cell><cell>HbA 1c $6.5%</cell><cell>Known</cell></row><row><cell></cell><cell>(,39 mmol/mol)</cell><cell>(39-41 mmol/mol)</cell><cell>(42-46 mmol/mol)</cell><cell>($48 mmol/mol)</cell><cell>diabetes</cell></row><row><cell>Deaths, n (%)</cell><cell>195 (4.9)</cell><cell>105 (9.9)</cell><cell>89 (12.9)</cell><cell>72 (30.3)</cell><cell>91 (29.1)</cell></row><row><cell>Follow-up (PY)</cell><cell>47,456.4</cell><cell>12,191.5</cell><cell>7,888.1</cell><cell>2,445.5</cell><cell>3,317.4</cell></row><row><cell>Mortality rate</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>(per 1,000 PY)</cell><cell>4.1</cell><cell>8.6</cell><cell>11.3</cell><cell>29.4</cell><cell>27.4</cell></row><row><cell>Model 1</cell><cell>1.00</cell><cell>1.04</cell><cell>0.95</cell><cell>1.87</cell><cell>1.66</cell></row><row><cell></cell><cell></cell><cell>(0.82-1.32)</cell><cell>(0.73-1.22)</cell><cell>(1.41-2.47)</cell><cell>(1.29-2.16)</cell></row><row><cell>Model 2</cell><cell>1.00</cell><cell>0.98</cell><cell>0.85</cell><cell>1.67</cell><cell>1.49</cell></row><row><cell></cell><cell></cell><cell>(0.77-1.25)</cell><cell>(0.66-1.11)</cell><cell>(1.26-2.22)</cell><cell>(1.15-1.94)</cell></row><row><cell>Model 3</cell><cell>1.00</cell><cell>1.02</cell><cell>0.87</cell><cell>1.63</cell><cell>1.41</cell></row><row><cell></cell><cell></cell><cell>(0.80-1.30)</cell><cell>(0.67-1.13)</cell><cell>(1.23-2.17)</cell><cell>(1.08-1.84)</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3 -</head><label>3</label><figDesc>Sensitivity analyses for risk for all-cause mortality (HR [95% CI]) according to categories of glycemic status</figDesc><table><row><cell></cell><cell></cell><cell></cell><cell cols="2">Prediabetes</cell><cell>Undiagnosed</cell></row><row><cell></cell><cell cols="2">Normoglycemia</cell><cell cols="2">High diabetes risk Very high diabetes risk</cell><cell>diabetes</cell></row><row><cell></cell><cell cols="2">HbA 1c ,5.7%</cell><cell>HbA 1c 5.7-5.9%</cell><cell>HbA 1c 6.0-6.4%</cell><cell>HbA 1c $6.5%</cell><cell>Known</cell></row><row><cell></cell><cell cols="2">(,39 mmol/mol)</cell><cell>(39-41 mmol/mol)</cell><cell>(42-46 mmol/mol)</cell><cell>($48 mmol/mol)</cell><cell>diabetes</cell></row><row><cell>Exclusions of people with</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>,2 years of follow-up</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>(n = 52)*</cell><cell cols="2">1.00</cell><cell>1.06 (0.82-1.36)</cell><cell>0.84 (0.64-1.11)</cell><cell cols="2">1.59 (1.18-2.16) 1.41 (1.06-1.86)</cell></row><row><cell>History of myocardial</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>infarction, stroke, or</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>cancer (n = 393) †</cell><cell cols="2">1.00</cell><cell>1.07 (0.82-1.40)</cell><cell>0.89 (0.66-1.20)</cell><cell cols="2">1.78 (1.29-2.47) 1.37 (0.99-1.89)</cell></row><row><cell>Baseline conditions</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>known to affect</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>HbA 1c (n = 444)* ‡</cell><cell cols="2">1.00</cell><cell>1.04 (0.80-1.36)</cell><cell>0.89 (0.66-1.20)</cell><cell cols="2">1.73 (1.26-2.37) 1.58 (1.18-2.13)</cell></row><row><cell></cell><cell></cell><cell>HbA 1c 5.0 to</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>HbA 1c ,5.0%</cell><cell>,5.7% (31 to</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>(,31 mmol/mol)</cell><cell>,39 mmol/mol)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Reference set at HbA 1c</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>5.0 to ,5.7% (31 to</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>,39 mmol/mol)*</cell><cell>1.70 (1.16-2.50)</cell><cell>1.00</cell><cell>1.09 (0.85-1.39)</cell><cell>0.92 (0.71-1.20)</cell><cell cols="2">1.72 (1.29-2.30) 1.49 (1.14-1.96)</cell></row></table><note>Number (%) of deceased for HbA 1c ,5.0% (,31 mmol/mol): 32 (3.7%); for HbA 1c 5.0 to ,5.7% (31 to ,39 mmol/mol): 163 (5.2%). *Model is adjusted for the same variables as model 3 of Table</note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="250">HbA 1c and All-Cause Mortality Diabetes Care Volume 38, February 2015</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">care.diabetesjournals.orgPaprott and Associates 251</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="252">HbA 1c and All-Cause Mortality Diabetes Care Volume 38, February 2015</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">care.diabetesjournals.orgPaprott and Associates 253</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="254">HbA 1c and All-Cause Mortality Diabetes Care Volume 38, February 2015</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="256">HbA 1c and All-Cause Mortality Diabetes Care Volume 38, February 2015</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Acknowledgments. The authors thank Ingrid-Katharina Wolf and Michael Lange for conducting the Mortality Follow-up, Julia Truthmann for assistance with data management, Daniel Grams for support with figure formatting, and Wulf Thierfelder for overseeing the laboratory analyses and quality assurance of HbA 1c measurements (all affiliated with the Robert Koch Institute). </p></div>
+			</div>
+
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Tests of glycemia in diabetes</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Goldstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Little</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Lorenz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">I</forename><surname>Malone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Nathan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Peterson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="S91" to="S93" />
+			<date type="published" when="2004">2004</date>
+			<publisher>American Diabetes Association</publisher>
+		</imprint>
+	</monogr>
+	<note>Suppl. 1</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Standards of medical care in diabetesd2014</title>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="S14" to="S80" />
+			<date type="published" when="2014">2014</date>
+			<publisher>American Diabetes Association</publisher>
+		</imprint>
+	</monogr>
+	<note>Suppl. 1</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Diagnosis and classification of diabetes mellitus</title>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="S62" to="S69" />
+			<date type="published" when="2010">2010</date>
+			<publisher>American Diabetes Association</publisher>
+		</imprint>
+	</monogr>
+	<note>Suppl. 1</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Abbreviated Report of a WHO Consultation. Geneva, World Health Organization</title>
+		<imprint>
+			<date type="published" when="2009">2011 5. 2009</date>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="1327" to="1334" />
+		</imprint>
+	</monogr>
+	<note>International Expert Committee. International Expert Committee report on the role of the A1C assay in the diagnosis of diabetes. Diabetes Care</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Glycated hemoglobin, diabetes, and cardiovascular risk in nondiabetic adults</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Selvin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">W</forename><surname>Steffes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Zhu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">362</biblScope>
+			<biblScope unit="page" from="800" to="811" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Association of hemoglobin A1c with cardiovascular disease and mortality in adults: the European prospective investigation into cancer in Norfolk</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">T</forename><surname>Khaw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Wareham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bingham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Luben</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Welch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Day</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">141</biblScope>
+			<biblScope unit="page" from="413" to="420" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">A New Zealand linkage study examining the associations between A1C concentration and mortality</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Brewer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Wright</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Travier</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="1144" to="1149" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">No evidence of an increased mortality risk associated with low levels of glycated haemoglobin in a non-diabetic UK population</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Pfister</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Sharp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Luben</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">T</forename><surname>Khaw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">J</forename><surname>Wareham</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page" from="2025" to="2032" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">NIPPON DATA90 Research Group. HbA1c and the risks for all-cause and cardiovascular mortality in the general Japanese population: NIPPON DATA90</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sakurai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Saitoh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Miura</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="3759" to="3765" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Categories of glucose tolerance and continuous glycemic measures and mortality</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Kowall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Rathmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Heier</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="637" to="645" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Glycosylated hemoglobin and the risk of death and cardiovascular mortality in the elderly</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Chonchol</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Katz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">F</forename><surname>Fried</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nutr Metab Cardiovasc Dis</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="15" to="21" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">HbA1c is an independent predictor of non-fatal cardiovascular disease in a Caucasian population without diabetes: a 10-year follow-up of the Hoorn Study</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Van 't Riet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Rijkelijkhuizen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Alssema</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Prev Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="23" to="31" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">GHb level and subsequent mortality among adults in the U</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Saydah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Imperatore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Gregg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">S. Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="1440" to="1446" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Low hemoglobin A(1c) in nondiabetic adults: an care</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Aggarwal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Schneider</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Selvin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">diabetesjournals.org Paprott and Associates</title>
+		<imprint>
+			<biblScope unit="page">255</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="2055" to="2060" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Low hemoglobin A1c and risk of all-cause mortality among US adults without diabetes</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Carson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Fox</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">K</forename><surname>Mcguire</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circ Cardiovasc Qual Outcomes</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="661" to="667" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">HbA1c measured in stored erythrocytes and mortality rate among middle-aged and older women</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">B</forename><surname>Levitan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Stampfer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="page" from="267" to="275" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Continuous relationships between non-diabetic hyperglycaemia and both cardiovascular disease and all-cause mortality: the Australian Diabetes, Obesity, and Lifestyle (AusDiab) study</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">L</forename><surname>Barr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Boyko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">Z</forename><surname>Zimmet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Wolfe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Tonkin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Shaw</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="415" to="424" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Association of glucose measures with total and coronary heart disease mortality: does the effect change with time? The Rancho Bernardo Study</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">E</forename><surname>Cohen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Barrett-Connor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Wassel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Kanaya</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Res Clin Pract</title>
+		<imprint>
+			<biblScope unit="volume">86</biblScope>
+			<biblScope unit="page" from="67" to="73" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Dietary patterns are associated with cardiometabolic risk factors in a representative study population of German adults</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Heidemann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Scheidt-Nave</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Richter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">B</forename><surname>Mensink</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Nutr</title>
+		<imprint>
+			<biblScope unit="volume">106</biblScope>
+			<biblScope unit="page" from="1253" to="1262" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Diagnosis and classification of diabetes mellitus</title>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="S81" to="S90" />
+			<date type="published" when="2014">2014</date>
+			<publisher>American Diabetes Association</publisher>
+		</imprint>
+	</monogr>
+	<note>Suppl. 1</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">The Diabetes Control and Complications Trial Research Group. The effect of intensive treatment of diabetes on the development and progression of long-term complications in insulin-dependent diabetes mellitus</title>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">329</biblScope>
+			<biblScope unit="page" from="977" to="986" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">The CASMIN educational classification in international comparative research</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Brauns</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Scherer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Steinmann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Advances in Cross-National Comparison. Hoffmeyer-Zlotnik JH</title>
+				<meeting><address><addrLine>New York, Kluwer</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+			<biblScope unit="page" from="221" to="244" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">CKD-EPI (Chronic Kidney Disease Epidemiology Collaboration). A new equation to estimate glomerular filtration rate</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Burger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Mensink</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Br Önstrup</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Thierfelder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Pietrzik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Levey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Stevens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">H</forename><surname>Schmid</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">World Health Organization. Nutritional Anaemias. Report of a WHO Scientific Group. Geneva, World Health Organization</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="page" from="604" to="612" />
+			<date type="published" when="2004">2004. 1968 26. 2009</date>
+		</imprint>
+	</monogr>
+	<note>Ann Intern Med</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Effect of aging on A1C levels in individuals without diabetes: evidence from the Framingham Offspring Study and the National Health and Nutrition Examination Survey</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">N</forename><surname>Pani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Korenda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Meigs</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="1991" to="1996" />
+			<date type="published" when="2001">2001-2004. 2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Effect of age and race/ethnicity on HbA1c levels in people without known diabetes mellitus: implications for the diagnosis of diabetes</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Davidson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Schriger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Res Clin Pract</title>
+		<imprint>
+			<biblScope unit="volume">87</biblScope>
+			<biblScope unit="page" from="415" to="421" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Overall mortality in diabetes mellitus: where do we stand today?</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Dailey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Technol Ther</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="S65" to="S74" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note>Suppl. 1</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Survival as a function of HbA(1c) in people with type 2 diabetes: a retrospective cohort study</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Currie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Peters</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Tynan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">375</biblScope>
+			<biblScope unit="page" from="481" to="489" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Fasting plasma glucose and HbA1c in cardiovascular risk prediction: a sex-specific comparison in individuals without diabetes mellitus</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Schöttker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Müller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Rothenbacher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Brenner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="page" from="92" to="100" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Low glycated hemoglobin and liver disease in the U.S. population</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Christman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Lazo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Clark</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Selvin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="2548" to="2550" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">The role of red blood cell distribution width in cardiovascular and thrombotic disorders</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Montagnana</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Cervellin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Meschi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Lippi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Chem Lab Med</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page" from="635" to="641" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Ferritin levels and risk of metabolic syndrome: meta-analysis of observational studies</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Abril-Ulloa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Flores-Mateo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Sol À-Alberich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Manuel-Y-Keenoy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Arija</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMC Public Health</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page">483</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Liver enzymes: potential cardiovascular risk markers?</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Lioudaki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Ganotakis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename><surname>Mikhailidis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Curr Pharm Des</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="3632" to="3643" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Low HbA1c and mortality: causation and confounding</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Rutter</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="2307" to="2311" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">An investigation of the population impact of variation in HbA1c levels in older people in England and Wales: from a population based multi-centre longitudinal study</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Gao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">E</forename><surname>Matthews</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Sargeant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Brayne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C; Mrc</forename><surname>Mrc</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Cfas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMC Public Health</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page">54</biblScope>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Biological variation of glycohemoglobin</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Rohlfing</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">M</forename><surname>Wiedmeyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Little</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Chem</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="1116" to="1118" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

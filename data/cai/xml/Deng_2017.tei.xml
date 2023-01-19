@@ -1,0 +1,1480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Association between diet-related inflammation, all-cause, all-cancer, and cardiovascular disease mortality, with special focus on prediabetics: findings from NHANES III</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2016-01-29">29 January 2016</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Fang</forename><forename type="middle">Emily</forename><surname>Deng</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Family and Preventive Medicine</orgName>
+								<orgName type="institution">University of South Carolina School of Medicine</orgName>
+								<address>
+									<addrLine>3209 Colonial Drive</addrLine>
+									<postCode>29203</postCode>
+									<settlement>Columbia</settlement>
+									<region>SC</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department" key="dep1">Department of Epidemiology and Biostatistics</orgName>
+								<orgName type="department" key="dep2">Arnold School of Public Health</orgName>
+								<orgName type="institution">University of South Carolina</orgName>
+								<address>
+									<settlement>Columbia</settlement>
+									<region>SC</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Nitin</forename><surname>Shivappa</surname></persName>
+							<email>shivappa@mailbox.sc.edu</email>
+							<affiliation key="aff1">
+								<orgName type="department">Cancer Prevention and Control Program</orgName>
+								<orgName type="institution">University of South Carolina</orgName>
+								<address>
+									<addrLine>915 Greene Street, Suite 241</addrLine>
+									<postCode>29208</postCode>
+									<settlement>Columbia</settlement>
+									<region>SC</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department" key="dep1">Department of Epidemiology and Biostatistics</orgName>
+								<orgName type="department" key="dep2">Arnold School of Public Health</orgName>
+								<orgName type="institution">University of South Carolina</orgName>
+								<address>
+									<settlement>Columbia</settlement>
+									<region>SC</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Yifan</forename><surname>Tang</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department" key="dep1">Department of Epidemiology and Biostatistics</orgName>
+								<orgName type="department" key="dep2">Arnold School of Public Health</orgName>
+								<orgName type="institution">University of South Carolina</orgName>
+								<address>
+									<settlement>Columbia</settlement>
+									<region>SC</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Joshua</forename><forename type="middle">R</forename><surname>Mann</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Family and Preventive Medicine</orgName>
+								<orgName type="institution">University of South Carolina School of Medicine</orgName>
+								<address>
+									<addrLine>3209 Colonial Drive</addrLine>
+									<postCode>29203</postCode>
+									<settlement>Columbia</settlement>
+									<region>SC</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">James</forename><forename type="middle">R</forename><surname>Hebert</surname></persName>
+							<email>jhebert@sc.edu</email>
+							<affiliation key="aff1">
+								<orgName type="department">Cancer Prevention and Control Program</orgName>
+								<orgName type="institution">University of South Carolina</orgName>
+								<address>
+									<addrLine>915 Greene Street, Suite 241</addrLine>
+									<postCode>29208</postCode>
+									<settlement>Columbia</settlement>
+									<region>SC</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department" key="dep1">Department of Epidemiology and Biostatistics</orgName>
+								<orgName type="department" key="dep2">Arnold School of Public Health</orgName>
+								<orgName type="institution">University of South Carolina</orgName>
+								<address>
+									<settlement>Columbia</settlement>
+									<region>SC</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Association between diet-related inflammation, all-cause, all-cancer, and cardiovascular disease mortality, with special focus on prediabetics: findings from NHANES III</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2016-01-29">29 January 2016</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">F9F76BBE992C8534EEB64D10B92D459E</idno>
+					<idno type="DOI">10.1007/s00394-016-1158-4</idno>
+					<note type="submission">Received: 4 September 2015 / Accepted: 12 January 2016 /</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.1" ident="GROBID" when="2022-07-19T23:00+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Cancer</term>
+					<term>Digestive-tract cancers</term>
+					<term>Cardiovascular disease</term>
+					<term>Mortality</term>
+					<term>Dietary inflammatory index</term>
+					<term>Diet</term>
+					<term>Inflammation</term>
+					<term>HgbA1c</term>
+					<term>Prospective study</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>based on baseline dietary intake assessed using 24-h dietary recalls (1988)(1989)(1990)(1991)(1992)(1993)(1994). Mortality was determined from the National Death Index records through 2006. Over followup ranging between 135 and 168 person-months, a total of 3016 deaths were identified, including 676 cancer, 192 lung cancer, 176 digestive-tract cancer, and 1328 CVD deaths. Cox proportional hazard regression was used to estimate hazard ratios.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>The prevalence of prediabetes was 20.19 %. After controlling for age, sex, race, HgbA1c, current smoking, physical activity, BMI, and systolic blood pressure, DII scores in tertile III (vs tertile I) was significantly associated with mortality from all causes (HR 1.39, 95 % CI 1.13, 1.72), CVD (HR 1.44, 95 % CI 1.02, 2.04), all cancers (HR 2.02, 95 % CI 1.27, 3.21), and digestive-tract cancer (HR  2.89, 95 % CI 1.08, 7.71). Findings for lung cancer (HR 2.01, 95 % CI 0.93, 4.34) suggested a likely effect. These results were moderately enhanced after additional adjustment for serum low-density lipoprotein and triglyceride and following eliminating deaths during the first year. Conclusions A pro-inflammatory diet, as indicated by higher DII scores, is associated with an increased risk of all-cause, CVD, all-cancer, and digestive-tract cancer mortality among prediabetic subjects.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>Prediabetes is a condition characterized by an elevated blood glucose level that is not high enough to warrant a diagnosis of type 2 diabetes mellitus (T2DM). Prediabetes Abstract Introduction Chronic inflammation is associated with increased risk of cancer, cardiovascular disease (CVD), and diabetes. The role of pro-inflammatory diet in the risk of cancer mortality and CVD mortality in prediabetics is unclear. We examined the relationship between diet-associated inflammation, as measured by dietary inflammatory index (DII) score, and mortality, with special focus on prediabetics. Methods This prospective cohort study used data from the Third National Health and Nutrition Examination Survey (NHANES III). We categorized 13,280 eligible participants, ages 20-90 years, according to glycosylated hemoglobin (HgbA1c) level and identified 2681 with prediabetes, defined as a glycosylated hemoglobin percentage of 5.7-6.4. Computation of DII scores and all statistical analyses were conducted in 2015. The DII was computed is defined by the presence of impaired fasting glucose (IFG) and/or impaired glucose tolerance (IGT) <ref type="bibr" target="#b0">[1]</ref><ref type="bibr" target="#b1">[2]</ref><ref type="bibr" target="#b2">[3]</ref>. According to the National Health and Nutrition Examination Survey (NHANES), in 2005-2006, 35 % of US adults ≥20 years of age had prediabetes (50 % of adults ≥ 65 years) <ref type="bibr" target="#b3">[4,</ref><ref type="bibr" target="#b4">5]</ref>. It is estimated that up to 70 % of people with prediabetes may develop T2DM during their lifetimes <ref type="bibr" target="#b4">[5]</ref><ref type="bibr" target="#b5">[6]</ref><ref type="bibr" target="#b6">[7]</ref>. Without lifestyle change, 15-30 % people with prediabetes will develop T2DM within 5 years <ref type="bibr" target="#b4">[5]</ref><ref type="bibr" target="#b5">[6]</ref><ref type="bibr" target="#b6">[7]</ref>. Epidemiologic studies have shown that prediabetes is associated with an increased risk of CVD and certain types of cancer, especially liver, endometrial, stomach, and colorectal cancers <ref type="bibr" target="#b7">[8,</ref><ref type="bibr" target="#b8">9]</ref>.</p><p>Although prediabetes, T2DM, CVD, and cancer share numerous common risk factors, such as age, obesity, lack of physical activity, and poor diet, the etiology and pathogenesis underlying the association between T2DM, CVD, and cancer are not clear <ref type="bibr" target="#b2">[3,</ref><ref type="bibr" target="#b9">10,</ref><ref type="bibr" target="#b10">11]</ref>. There is accumulating evidence that chronic inflammation plays a role in the development of T2DM, cancer, and CVD <ref type="bibr" target="#b11">[12]</ref><ref type="bibr" target="#b12">[13]</ref><ref type="bibr" target="#b13">[14]</ref><ref type="bibr" target="#b14">[15]</ref><ref type="bibr" target="#b15">[16]</ref>. Diet is an important regulatory factor in chronic inflammation. There is considerable evidence to suggest that "healthy" fats, such as omega-3 fatty acids, olive oil, and flaxseed oil, and high-fiber foods, such as whole grain and most fruits and vegetables, have anti-inflammatory potential <ref type="bibr" target="#b16">[17]</ref><ref type="bibr" target="#b17">[18]</ref><ref type="bibr" target="#b18">[19]</ref><ref type="bibr" target="#b19">[20]</ref><ref type="bibr" target="#b20">[21]</ref><ref type="bibr" target="#b21">[22]</ref><ref type="bibr" target="#b22">[23]</ref><ref type="bibr" target="#b23">[24]</ref>. On the other hand, most diets include pro-inflammatory components such as red meat and dairy products such as processed cheese and butter, which are rich in saturated fatty acids and trans-fatty acids <ref type="bibr" target="#b16">[17]</ref><ref type="bibr" target="#b17">[18]</ref><ref type="bibr" target="#b18">[19]</ref><ref type="bibr" target="#b19">[20]</ref><ref type="bibr" target="#b20">[21]</ref><ref type="bibr" target="#b21">[22]</ref><ref type="bibr" target="#b22">[23]</ref><ref type="bibr" target="#b23">[24]</ref><ref type="bibr" target="#b24">[25]</ref>.</p><p>The Dietary Inflammatory Index (DII) is a new tool to assess overall inflammatory potential of diet. The DII is based on an extensive literature search incorporating cell culture, animal, and epidemiologic studies on the effect of one or more of six inflammatory markers [i.e., C-reactive protein (CRP), interleukin (IL)-1beta, IL-4, IL-6, IL-10, and tumor necrosis factor (TNF)-α] <ref type="bibr" target="#b25">[26,</ref><ref type="bibr" target="#b26">27]</ref>. The DII is not limited to micronutrients and macronutrients, but also incorporates commonly consumed components of the diet including flavonoids, spices, and tea <ref type="bibr" target="#b25">[26,</ref><ref type="bibr" target="#b26">27]</ref>. The DII has been shown to be associated with inflammation <ref type="bibr" target="#b27">[28]</ref><ref type="bibr" target="#b28">[29]</ref><ref type="bibr" target="#b29">[30]</ref>, cancer <ref type="bibr" target="#b30">[31]</ref><ref type="bibr" target="#b31">[32]</ref><ref type="bibr" target="#b32">[33]</ref>, and CVD <ref type="bibr" target="#b33">[34]</ref> outcomes.</p><p>The role of pro-inflammatory diet in the risk of cancer mortality and CVD mortality in people with prediabetes is unclear. The objective of this study is to examine the relationship between pro-inflammatory diet, as indicated by a high DII score, and the risk of all-cause, CVD, all-cancer, and cancer-site-specific cancer mortality in the NHANES population with a focus on prediabetic individuals.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head><p>The data source was the Third National Health and Nutrition Examination Survey (NHANES III), which was conducted between 1988 and 1994 by the National Center for Health Statistics (NCHS) of the Centers for Disease Control and Prevention (CDC). It is a nationally representative sample of the civilian, non-institutionalized US population. Details of the survey design have been reported previously <ref type="bibr" target="#b34">[35]</ref>. The current study was restricted to participants, ages 20-90 years, with complete data on mortality status, diet, and relevant covariates (n = 13,280). The participants were categorized based on glycosylated hemoglobin percentage as normal group (n = 9631, HgbA1c &lt; 5.7 %), prediabetic group (n = 2681, HgbA1c: 5.7-6.4 %), and diabetic group (n = 968, HgbA1c &gt; 6.4 %) <ref type="bibr" target="#b1">[2]</ref>. Glycosylated hemoglobin measurements for NHANES III were performed by the Diabetes Diagnostic Laboratory at the University of Missouri-Columbia using the Diamat Analyzer System (Bio-Rad Laboratories, Hercules, CA) <ref type="bibr" target="#b34">[35]</ref>. CRP level was analyzed by a modification of the Behring Latex-Enhanced CRP assay on the Behring Nephelometer Analyzer System™ (Behring Diagnostics, Westwood, MA) <ref type="bibr" target="#b34">[35]</ref>. Average systolic blood pressure (SBP) and diastolic blood pressure (DBP) were the arithmetic means of six or fewer measurements obtained at the household interview (maximum of three) and the Mobile Examination Center (maximum of three) <ref type="bibr" target="#b34">[35]</ref>. Standing height and weight were obtained during the physical examination and were used to calculate body mass index [BMI = weight (kg)/weight (m) 2 ]. Ethical approval was obtained from CDC/NCHS Ethics Review Board, and informed consent was obtained from all participants.</p><p>All NHANES participants are eligible for the dietary interview component. The dietary interviewer records detailed information about the foods and beverages reported using a computer-assisted dietary interview software program <ref type="bibr" target="#b34">[35]</ref>. Computation of DII scores and all statistical analyses were conducted in 2015. Dietary data collected from 24-h diet recall interviews (24HR) were used to calculate DII scores for all participants as previously described <ref type="bibr" target="#b25">[26,</ref><ref type="bibr" target="#b26">27]</ref>. Briefly, total intake of food energy (calories), nutrients, and non-nutrient food components from foods and beverages that were consumed during the 24-h period prior to the interview (midnight to midnight) were estimated from the 24HR. Following the 24HR, a short questionnaire was administered to ascertain whether the person's intake on the previous day was usual or unusual, the source of tap water consumed, use of salt, special diet use, and frequency of fish and shellfish consumption during the past 30 days. To calculate DII scores for the participants, the dietary data were first linked to the world database that provided an estimate of a mean and standard deviation for each parameter <ref type="bibr" target="#b25">[26,</ref><ref type="bibr" target="#b26">27]</ref>. These then become the multipliers to express an individual's exposure relative to the "standard global mean" as a z score. This is achieved by subtracting the "standard global mean" from the amount reported and dividing this value by the standard deviation. To minimize the effect of "right skewing," this value is then converted to a centered percentile score. The centered percentile score for each food parameter for each individual was then multiplied by the respective food parameter effect score, which is derived from the literature review, in order to obtain a food parameter-specific DII score for an individual. All of the food parameter-specific DII scores are then summed to create the overall DII score for every participant in the study <ref type="bibr" target="#b25">[26,</ref><ref type="bibr" target="#b26">27]</ref>. Across the 11 datasets that comprise the standard global mean, the DII scores ranged from -8.87 (maximally anti-inflammatory) to +7.98 (maximally proinflammatory) and the median was +0.23 <ref type="bibr" target="#b25">[26,</ref><ref type="bibr" target="#b26">27]</ref>. In most studies, the values range from about −4.5 to +4.5. For this study, 27 of the 45 food parameters were available for DII calculation: energy, carbohydrate, protein, fat, alcohol, fiber, cholesterol, saturated fatty acid, mono-unsaturated fatty acid, poly-unsaturated fatty acid, niacin, thiamin, riboflavin, vitamin B12, vitamin B6, iron, magnesium, zinc, selenium, vitamin A, vitamin C, vitamin D, vitamin E, folic acid, beta carotene, omega 6, and omega 3. DII was further categorized as tertiles: I (&lt;−0.20), II (−0.20 to 2.0), and III (&gt;2.0). In previous validation work in the SEASONS Study, there was no drop off in predictive ability with a reduction in parameters of this magnitude <ref type="bibr" target="#b35">[36]</ref>.</p><p>In the NHANES III cohort study, mortality information is derived on the basis of a probabilistic match between NHANES III and the National Death Index records through 31 December, 2006, by the National Center. For overall mortality, we included deaths from all causes; for CVDrelated mortality, we included diseases of the heart and circulation system (ICD-10 = I00-I178); for cancer-specific mortality, we included deaths from malignant neoplasms which were coded from C00-C97 in the International Classification of Diseases, 10th Edition, Clinical Modification System codes (ICD-10). Digestive-tract cancers included malignant neoplasms from the front of the mouth to the rectum and malignant neoplasms of pancreas and hepatobiliary system (ICD-10 = C00-C16, C18-C22, C25). For lung cancer, we included malignant neoplasms of trachea, bronchus, and lung (C33-C34).</p><p>The HgbA1c level, CRP level, SBP level, DBP level, demographic factors (age, sex, race), lifestyle factors (current smoking, leisure time physical activity), and BMI among the three different groups were examined using ANOVA models or χ 2 tests (see Table <ref type="table" target="#tab_0">1</ref> for specific variables). DII scores were analyzed as a categorical variable by tertiles of exposure in relation to various mortality outcome variables, including all-cause, overall cancer, digestivetract cancer and CVD-related mortalities, and lung cancer mortalities. Hazard ratios and 95 % confidence intervals (HR; 95 % CI) were estimated using Cox proportional hazards regression models, adjusting only for age, gender, and race in the crude model and additionally adjusting for BMI, current smoking, SBP, HgbA1c, and leisure physical activity. A linear test for trend was conducted by including the median value for each DII tertile as a continuous term into the regression model. The assumption of proportional hazards was tested by adding to the model an interaction term between follow-up time and DII; there was no evidence that these assumptions were violated. Sensitivity analysis was done by eliminating mortality during the first year after inclusion/providing recall data. Further analysis was done by additionally adjusting for serum low-density lipoprotein (LDL) and triglycerides (TG).</p><p>Data were weighted to account for the unequal probability of selection that resulted from the survey cluster design, non-response, and oversampling of certain target populations <ref type="bibr" target="#b34">[35]</ref>. Sampling weights were used to calculate population estimates, and sampling strata and primary sampling units were accounted for to estimate variances and test for significant differences. All results are presented as unweighted counts (n), weighted percentages, and hazard ratios. Statistical tests were performed using SAS ® 9.3, (SAS Institute Inc., Cary, NC); all statistical tests were twosided, and p &lt; 0.05 was considered statistically significant.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>A total of 13,280 participants, ages 20-90 years, with complete information of mortality and other covariates were included in the current study. Table <ref type="table" target="#tab_0">1</ref> displays the baseline population characteristics from this nationally representative sample of normal individuals and individuals with prediabetes or T2DM. At baseline <ref type="bibr">(1988)</ref><ref type="bibr">(1989)</ref><ref type="bibr">(1990)</ref><ref type="bibr">(1991)</ref><ref type="bibr">(1992)</ref><ref type="bibr">(1993)</ref><ref type="bibr">(1994)</ref>, according to glycosylated hemoglobin level, 7 % of them were classified as diabetic, 20 % prediabetic, and 73 % normal. There were more males than females in the prediabetic group (53.93 vs. 46.07 %) and T2DM group (59.36 vs. 40.64 %). A higher percentage of non-Hispanic Blacks were observed in the T2DM group (16.36 %) and prediabetic group (19.39 %) than in the normal group (8.10 %). The prediabetic group had the highest percentage current smokers at 33.41 %. The mean age, CRP level, HgbA1c level, BMI, systolic blood pressure, diastolic blood pressure, and DII score were significantly higher in the diabetes group compared to the normal and prediabetic group (Table <ref type="table" target="#tab_0">1</ref>). The average CRP levels were significantly different between groups, with the normal group having the lowest CRP level at 2.89, the diabetes group having the highest CRP level at 4.00, and the prediabetes group having an intermediate level at 3.47. The mean DII scores among the T2DM group (DII score = 0.88) or prediabetic group (DII score = 0.90) were significantly higher than for the normal group (DII score = 0.68). There was no significant difference in the mean DII score between the prediabetes and the T2DM group (Table <ref type="table" target="#tab_0">1</ref>).</p><p>Table <ref type="table">2</ref> displays the mortality characteristic across different groups. The follow-up period ranged between 135 and 168 person-months. A total of 3016 deaths were identified, including 676 cancer deaths, 192 lung cancer deaths, 176 digestive-tract cancer deaths, and 1328 CVD deaths. A higher percentage of all-cause, CVD, all-cancer, digestive-tract cancer, and lung cancer deaths were observed in the T2DM group and the prediabetic group than the normal.</p><p>The association between pro-inflammatory diet, measured by high-tertile DII score and the risk of all-cause, CVD, all-cancer, digestive-tract cancer, and lung cancer mortality in the normal, prediabetes, and T2DM groups (tertile III vs. tertile I) was investigated in different models Sensitivity analysis was done by eliminating mortality during first year after inclusion/providing recall data, and the risk for subjects in the third tertile compared to those in the first tertile did not alter substantially for allcause mortality(HR 1.36; 95 % CI 1.09-1.70; P trend 0.0006) and all-cancer mortality (HR 2.08; 95 % CI 1.31-3.31; P trend &lt; 0.0001) in the prediabetes group as showed in supplement data Table <ref type="table">5</ref>, while the risk of CVD mortality (HR 1.38; 95 % CI 0.96-1.99; P trend = 0.08) became non-significant. Further analysis was done by additionally adjusting for serum low-density lipoprotein (LDL) and triglycerides (TG). As showed in supplement data Table <ref type="table">6</ref>, the risk of all-cause mortality (HR 1.80; 95 % CI 1.28-2.54; P trend 0.001), CVD mortality (HR 1.97; 95 % CI 1.14-3.41; P trend 0.02), all-cancer mortality (HR 2.25; 95 % CI 1.22-4.17; P trend 0.02), and digestive-tract cancer mortality (HR 5.29; 95 % CI 1.11-25.15; P trend 0.05) was moderately enhanced in the prediabetic group after additional adjustment for LDL and TG.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>This is the first study to focus the DII on prediabetic subjects in a large, nationally representative, prospective sample. In the current study, people with prediabetes who consumed a more pro-inflammatory diet, as reflected in higher DII scores, had an increased risk of death from any cause, malignant cancer, digestive-tract cancer, and CVD. Compared to subjects in tertile I, those in tertile III were 39 % more likely to die from any cause, 109 % more likely to die from malignant cancers, 189 % more likely to die from digestive-tract cancers, and 44 % more likely to die from CVD.</p><p>Chronic subclinical systemic inflammation is now considered a key etiologic factor in the development and progression of prediabetes, T2DM, CVD, and certain types of cancers <ref type="bibr" target="#b11">[12]</ref><ref type="bibr" target="#b12">[13]</ref><ref type="bibr" target="#b13">[14]</ref><ref type="bibr" target="#b14">[15]</ref><ref type="bibr" target="#b15">[16]</ref>. Effective interventions to prevent diabetes, such as weight loss, exercise, or metformin have all been shown to exhibit anti-inflammatory effects <ref type="bibr" target="#b2">[3,</ref><ref type="bibr" target="#b9">10,</ref><ref type="bibr" target="#b10">11,</ref><ref type="bibr" target="#b36">37]</ref>. Elevated plasma concentrations of systemic inflammatory markers such as CRP, TNF-α, and IL-6 have been reported to be associated with an increased risk of CVD and T2DM <ref type="bibr" target="#b12">[13,</ref><ref type="bibr" target="#b15">16,</ref><ref type="bibr" target="#b20">21]</ref>. Our study similarly demonstrated that the average CRP in the T2DM group and prediabetic group is higher than the normal group at the baseline. Previous studies reported that the DII predicts CRP levels and there is positive correlation between DII score and CRP level <ref type="bibr" target="#b25">[26,</ref><ref type="bibr" target="#b26">27,</ref><ref type="bibr" target="#b30">31]</ref>. In the current study, it was observed that both average DII score and CRP levels were higher in both the T2DM group and prediabetic group, compared to the normal group. The result suggests that diet-induced subclinical inflammation may contribute to impaired glucose levels or insulin resistance. Previous findings of elevated CRP levels with increasing DII scores point to the role of increasing systemic inflammation <ref type="bibr" target="#b16">[17,</ref><ref type="bibr" target="#b18">19,</ref><ref type="bibr" target="#b21">[22]</ref><ref type="bibr" target="#b22">[23]</ref><ref type="bibr" target="#b23">[24]</ref>. A dietary pattern characterized by consumption of high-fat foods and processed meats (fats, oils, processed meats, fried potatoes, salty snacks) has been shown to increase systemic inflammation by increasing levels of high-sensitivity CRP, E-selectin, and soluble vascular cell adhesion molecule-1 <ref type="bibr" target="#b21">[22,</ref><ref type="bibr" target="#b22">23,</ref><ref type="bibr" target="#b37">38]</ref>. In contrast, a pattern characterized by high consumption of whole grains and fruit (whole grains, fruit, nuts, and green leafy vegetables) was found to be inversely associated with CRP, IL-6, and homocysteine <ref type="bibr" target="#b21">[22,</ref><ref type="bibr" target="#b22">23,</ref><ref type="bibr" target="#b37">38]</ref>. Evaluation of the effects of dietary patterns or consumption of single food components and CVD risk is complicated, as foods are not consumed in isolation and the effects of single foods are often small. There is considerable evidence that foods and food patterns act synergistically to influence the risk of several chronic diseases <ref type="bibr" target="#b38">[39,</ref><ref type="bibr" target="#b39">40]</ref>. The DII is particularly useful to evaluate quantitatively the inflammatory potential of whole food components consumed <ref type="bibr" target="#b25">[26,</ref><ref type="bibr" target="#b26">27]</ref>.</p><p>A recent study has shown that a higher DII score was prospectively associated with higher systolic and diastolic blood pressure and triglycerides (TG), and with lower HDL cholesterol <ref type="bibr" target="#b32">[33]</ref>. Both LDL and TG have been shown as strong predictors of the risk of CVD morbidity and mortality among individuals with or without T2DM <ref type="bibr" target="#b40">[41]</ref><ref type="bibr" target="#b41">[42]</ref><ref type="bibr" target="#b42">[43]</ref>. Our results showed that high DII score diet increases the risk of all-cause mortality, CVD mortality, all-cancer mortality, and digestive-tract cancer mortality in the prediabetic group independently of serum TG and LDL.</p><p>The results of our study are consistent with several previous studies of the association between overall dietary pattern and risk of all-cause mortality, CVD morality, and cancer mortality <ref type="bibr" target="#b43">[44]</ref><ref type="bibr" target="#b44">[45]</ref><ref type="bibr" target="#b45">[46]</ref><ref type="bibr" target="#b46">[47]</ref>. In the Nurses' Health Study (NHS), it has been shown that the prudent pattern, characterized by a high intake of vegetables, fruit, legumes, fish, poultry, and whole grains, deceased the risk of CVD and total mortality <ref type="bibr" target="#b43">[44]</ref>. However, the Western pattern, characterized by a high intake of red and processed meat, refined grains, French fries, and sweets and desserts, increased the risk of CVD, cancer, and total mortality <ref type="bibr" target="#b43">[44]</ref><ref type="bibr" target="#b44">[45]</ref><ref type="bibr" target="#b45">[46]</ref><ref type="bibr" target="#b46">[47]</ref>. High intake of red and processed meat, refined grains, French fries, and sweets and desserts is positively associated with high DII score and elevated systemic markers <ref type="bibr" target="#b26">[27,</ref><ref type="bibr" target="#b35">36]</ref>. On the other hand, high intake of vegetables, fruit, legumes, fish, poultry, and whole grains is inversely associated with the DII score <ref type="bibr" target="#b26">[27,</ref><ref type="bibr" target="#b35">36]</ref>. The association between proinflammatory diet, as indicated by higher DII scores, and risk of digestive-tract cancer mortality is consistent with a previously published report that pro-inflammatory diet increases the risk of developing colorectal cancer <ref type="bibr" target="#b30">[31]</ref><ref type="bibr" target="#b31">[32]</ref><ref type="bibr" target="#b32">[33]</ref>.</p><p>Our study has several strengths. The NHANES III cohort study is a large, prospective, multiethnic, nationally representative study with well-characterized data on multiple risk factors and confounders. Nevertheless, there are limitations. We defined prediabetes and T2DM on the basis of the HgbA1c test. The advantage of HgbA1c is that it reflects average blood glucose level over the past 3-4 months and exhibits greater specificity and pre-analytic stability than other diagnostic markers, such as fasting plasma glucose (FPG) and oral glucose tolerance test (OGTT). However, the limitation is that the sensitivity of HgbA1c test is lower than FPG test and OGTT test <ref type="bibr" target="#b1">[2]</ref>. This likely explains why the unweighted percentage of prediabetes and diabetes were only 20 and 7 %, respectively, which is below the estimated prevalence at the national level based on the 2005-2006 NHANES report <ref type="bibr" target="#b1">[2,</ref><ref type="bibr" target="#b3">4]</ref>; though strict exclusion criteria and national trends in the prevalence of prediabetes and diabetes probably also contribute to the difference. The main limitation of this study was that dietary intake was estimated based on single self-reported 24HR, which may not reflect the long-term dietary habits, and hence can lead to potential misclassification bias. This would tend to reduce the probability of detecting an effect. Dietary assessment was available only at one time point, and participants' dietary habits might have changed during the follow-up period. However, several previous studies reported that dietary pattern classification is moderately stable over time <ref type="bibr" target="#b47">[48]</ref><ref type="bibr" target="#b48">[49]</ref><ref type="bibr" target="#b49">[50]</ref><ref type="bibr" target="#b50">[51]</ref>. There are several possible reasons that the associations seen in the prediabetic population were not seen in diabetic patients, who also had higher CRP and DII scores. First of all, diabetic patients might be on certain anti-inflammatory medications such as aspirin for the prevention of CVD which may have attenuated the inflammatory response to a pro-inflammatory diet. Secondly, diabetic patients might change their dietary pattern as directed by their primary care physician. Finally, it may be that the direct effects of T2DM on mortality are so great that they overwhelm the impact of dietary inflammation.</p><p>A final limitation is that information was available for only 27 of the 45 food parameters ideally used for DII calculation. Thus far, we have published more than 40 DII-related manuscripts. On average, we have had data on 27 food parameters. In instances where we can compare across methods <ref type="bibr" target="#b29">[30,</ref><ref type="bibr" target="#b35">36]</ref> we have not observed any change in the predictive ability of DII when going from ~45 to &lt;30 parameters. Also, in a recent publication in NHANES III, DII scores calculated from the same 27 food parameters were found to be associated with mortality <ref type="bibr" target="#b51">[52]</ref>. Therefore, it appears that these 27 parameters are sufficient for creating a reasonable estimate of the inflammatory effects of diet. This is possibly due to the fact that some of the missing food parameters (such as turmeric, saffron, and ginger) are likely consumed in small quantities and hence may not have a much impact on the overall DII.</p><p>In conclusion, individuals with prediabetes who consumed a more pro-inflammatory diet were at increased risk of dying from all causes, from all cancers, from digestivetract cancer, and from CVD compared to individuals who consumed a more anti-inflammatory diet. Directions for future research should include an examination of how DII behaves longitudinally in an intervention trial among individuals with prediabetes to see if the reduction of the DII scores over time (i.e., by increasing intake of vegetables and fruits, nuts, low-fat dairy, fish, and whole grains) would delay the development and progress of diabetes, CVD, and cancer. As mentioned above, approximately 35 % of US adults ≥20 years have prediabetes. Interventions to promote reductions in dietary inflammation have the potential to reduce mortality in this large portion of the population.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Distribution of population's baseline characteristics by diabetes status as defined by serum HgbA1c concentrations [normal (&lt;5.7) prediabetes (5.7-6.4) diabetes (≥6.5)]: NHANESIII cohort, 1988III cohort,  -1994       </figDesc><table><row><cell>Characteristics</cell><cell>Normal (N = 9631)</cell><cell>Prediabetes (N = 2681)</cell><cell>Diabetes (N = 968)</cell><cell>P value</cell></row><row><cell>Age (years) BMI (kg/m 2 ) C-reactive protein (mg/l) HgbA1c (%) Glucose (mg/dl) Systolic BP Diastolic BP DII score Sex</cell><cell>43.15 ± 18.18 26.09 ± 4.96 2.89 ± 1.76 5.10 ± 0.37 90.79 ± 11.50 121.80 ± 18.22 73.53 ± 10.45 0.68 ± 2.21</cell><cell>56.73 ± 17.76 27.98 ± 5.45 3.47 ± 2.20 5.92 ± 0.20 99.00 ± 15.36 132.01 ± 19.57 76.12 ± 10.55 0.90 ± 2.16</cell><cell>61.50 ± 14.23 29.44 ± 5.50 4.00 ± 2.45 8.36 ± 1.80 180.05 ± 80.70 139.83 ± 20.77 76.47 ± 10.67 0.88 ± 2.18</cell><cell>&lt;0.0001 &lt;0.0001 &lt;0.0001 &lt;0.0001 &lt;0.0001 &lt;0.0001 &lt;0.0001 &lt;0.0001 &lt;0.0001</cell></row><row><cell>Males</cell><cell>4467 (47.64)</cell><cell>1417 (53.93)</cell><cell>517 (59.36)</cell><cell></cell></row><row><cell>Females</cell><cell>5164 (52.36)</cell><cell>1264 (46.07)</cell><cell>451 (40.64)</cell><cell></cell></row><row><cell>DII Tertile</cell><cell></cell><cell></cell><cell></cell><cell>0.34</cell></row><row><cell>Tertile I</cell><cell>3297 (37.24)</cell><cell>835 (34.49)</cell><cell>308 (39.35)</cell><cell></cell></row><row><cell>Tertile II</cell><cell>3226 (32.61)</cell><cell>887 (32.92)</cell><cell>309 (31.24)</cell><cell></cell></row><row><cell>Tertile III</cell><cell>3108 (30.15)</cell><cell>959 (32.59)</cell><cell>351(29.41)</cell><cell></cell></row><row><cell>Race/ethnicity</cell><cell></cell><cell></cell><cell></cell><cell>&lt;0.0001</cell></row><row><cell>Non-Hispanic White</cell><cell>4299 (79.57)</cell><cell>952 (65.68)</cell><cell>327 (69.56)</cell><cell></cell></row><row><cell>Non-Hispanic Black</cell><cell>2209 (8.10)</cell><cell>970 (19.22)</cell><cell>298 (16.36)</cell><cell></cell></row><row><cell>Mexican-American</cell><cell>2740 (4.99)</cell><cell>643 (5.73)</cell><cell>313 (7.07)</cell><cell></cell></row><row><cell>Others</cell><cell>383 (7.33)</cell><cell>116 (9.38)</cell><cell>30 (7.01)</cell><cell></cell></row><row><cell>Current smokers</cell><cell></cell><cell></cell><cell></cell><cell>0.0002</cell></row><row><cell>Yes</cell><cell>2488 (27.76)</cell><cell>727 (33.41)</cell><cell>169 (19.21)</cell><cell></cell></row><row><cell>No</cell><cell>7143 (72.24)</cell><cell>1954 (66.59)</cell><cell>799 (80.79)</cell><cell></cell></row><row><cell>Leisure time physical activity</cell><cell></cell><cell></cell><cell></cell><cell>&lt;0.0001</cell></row><row><cell>Yes</cell><cell>7008 (80.96)</cell><cell>1774 (72.72)</cell><cell>591 (72.79)</cell><cell></cell></row><row><cell>No</cell><cell>2623 (19.04)</cell><cell>907 (27.28)</cell><cell>377 (27.21)</cell><cell></cell></row><row><cell cols="5">Table 2 Mortality status by diabetes status as defined by serum HgbA1c concentrations [normal (&lt;5.7) prediabetes (5.7-6.4) diabetes (≥6.5)]:</cell></row><row><cell>NHANES III cohort, 1988-2006</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Mortality status</cell><cell>Normal (N = 9631)</cell><cell>Prediabetes (N = 2681)</cell><cell>Diabetes (N = 968)</cell><cell>P value</cell></row><row><cell>Person-months (mean ± SD) All cause of deaths N (%)</cell><cell>168.63 ± 41.03 1623 (10.88)</cell><cell>150.28 ± 51.39 896 (28.56)</cell><cell>135.59 ± 57.61 497 (43.41)</cell><cell>&lt;0.0001 &lt;0.0001</cell></row><row><cell>CVD deaths N (%)</cell><cell>676 (4.15)</cell><cell>412 (13.52)</cell><cell>240 (20.96)</cell><cell>&lt;0.0001</cell></row><row><cell>All-cancer deaths N (%)</cell><cell>385 (2.98)</cell><cell>208 (6.90)</cell><cell>83 (7.84)</cell><cell>&lt;0.0001</cell></row><row><cell>Lung cancer deaths N (%)</cell><cell>99 (0.91)</cell><cell>66 (2.89)</cell><cell>27 (2.92)</cell><cell>&lt;0.0001</cell></row><row><cell>Digestive-tract cancer deaths N (%)</cell><cell>99 (0.59)</cell><cell>50 (1.24)</cell><cell>27 (1.96)</cell><cell>&lt;0.0001</cell></row><row><cell>Other cause deaths N (%)</cell><cell>562 (3.74)</cell><cell>276 (8.14)</cell><cell>174 (14.61)</cell><cell>&lt;0.0001</cell></row></table><note>pared to those in the first tertile for overall mortality in both the normal group (HR 1.46; 95 % CI 1.23-1.73, P trend &lt; 0.0001) and the prediabetic group (HR 1.52; 95 % CI 1.26-1.85, P trend &lt; 0.0001); for CVD mortality trend = 0.04), a 102 % higher risk of all-cancer mortality (HR 2.02; 95 % CI 1.27-3.21; P trend = 0.003), and a 189 % higher risk of digestive-tract cancer mortality (HR 2.89; 95 % CI 1.08-7.71; P trend = 0.04) than individuals with DII scores in tertile I.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 3</head><label>3</label><figDesc>Age-, sex-, race-adjusted hazard ratios for all-cause mortality, all-cancer mortality, CVD mortality, lung cancer mortality, digestive-tract cancer mortality, and other cause mortality with tertiles of DII score by diabetes status as defined by serum HgbA1c con-</figDesc><table><row><cell cols="4">centrations [Normal (&lt;5.7) Prediabetes (5.7-6.4) Diabetes (≥6.5)]:</cell></row><row><cell cols="3">NHANES III Cohort, 1988-2006</cell><cell></cell></row><row><cell></cell><cell>Normal</cell><cell>Prediabetes</cell><cell>Diabetes</cell></row><row><cell></cell><cell>(N = 9631) HR (95 % CI)</cell><cell>(N = 2681) HR (95 % CI)</cell><cell>(N = 968) HR (95 % CI)</cell></row><row><cell cols="2">All-cause mortality</cell><cell></cell><cell></cell></row><row><cell cols="2">Tertile I 1</cell><cell>1</cell><cell>1</cell></row><row><cell cols="4">Tertile II 1.27 (1.11, 1.47) 1.28 (1.02, 1.59) 1.36 (0.99, 1.86)</cell></row><row><cell>Tertile</cell><cell cols="3">1.46 (1.23, 1.73) 1.52 (1.26,1.85) 1.14 (0.84, 1.56)</cell></row><row><cell>III</cell><cell></cell><cell></cell><cell></cell></row><row><cell>P trend</cell><cell>&lt;.0001</cell><cell>&lt;.0001</cell><cell>0.315</cell></row><row><cell cols="2">CVD mortality</cell><cell></cell><cell></cell></row><row><cell cols="2">Tertile I 1</cell><cell>1</cell><cell>1</cell></row><row><cell cols="4">Tertile II 1.47 (1.17, 1.84) 1.30 (0.95, 1.76) 0.97 (0.63, 1.48)</cell></row><row><cell>Tertile</cell><cell cols="3">1.70 (1.31, 2.21) 1.52 (1.10, 2.11) 1.02 (0.59, 1.74)</cell></row><row><cell>III</cell><cell></cell><cell></cell><cell></cell></row><row><cell>P trend</cell><cell>0.0001</cell><cell>0.01</cell><cell>0.97</cell></row><row><cell cols="2">All-cancer mortality</cell><cell></cell><cell></cell></row><row><cell cols="2">Tertile I 1</cell><cell>1</cell><cell>1</cell></row><row><cell cols="4">Tertile II 1.29 (0.94, 1.76) 1.35 (0.89, 2.05) 1.43 (0.82, 2.48)</cell></row><row><cell>Tertile</cell><cell cols="3">1.37 (0.94, 1.98) 2.25 (1.39, 3.65) 0.94 (0.48,1.85)</cell></row><row><cell>III</cell><cell></cell><cell></cell><cell></cell></row><row><cell>P trend</cell><cell>0.08</cell><cell>0.001</cell><cell>0.99</cell></row><row><cell cols="2">Lung cancer mortality</cell><cell></cell><cell></cell></row><row><cell cols="2">Tertile I 1</cell><cell>1</cell><cell>1</cell></row><row><cell cols="4">Tertile II 1.98 (1.12, 3.52) 1.17 (0.47, 2.92) 2.66 (0.68, 10.36)</cell></row><row><cell>Tertile</cell><cell cols="3">1.77 (1.03, 3.05) 2.45 (1.15, 5.22) 0.64 (0.12, 3.50)</cell></row><row><cell>III</cell><cell></cell><cell></cell><cell></cell></row><row><cell>P trend</cell><cell>0.02</cell><cell>0.02</cell><cell>0.89</cell></row><row><cell cols="2">Digestive-tract cancer mortality</cell><cell></cell><cell></cell></row><row><cell cols="2">Tertile I 1</cell><cell>1</cell><cell>1</cell></row><row><cell cols="4">Tertile II 1.11 (0.58, 2.14) 1.35 (0.40, 4.56) 1.12 (0.23, 5.43)</cell></row><row><cell>Tertile</cell><cell cols="3">1.45 (0.74, 2.85) 3.24 (1.21, 8.64) 1.22 (0.37, 4.00)</cell></row><row><cell>III</cell><cell></cell><cell></cell><cell></cell></row><row><cell>P trend</cell><cell>0.28</cell><cell>0.02</cell><cell>0.74</cell></row><row><cell cols="2">Other cause mortality</cell><cell></cell><cell></cell></row><row><cell cols="2">Tertile I 1</cell><cell>1</cell><cell>1</cell></row><row><cell cols="4">Tertile II 1.08 (0.80, 1.46) 1.19 (0.85, 1.67) 2.13 (1.12, 4.07)</cell></row><row><cell>Tertile</cell><cell cols="3">1.28 (0.96, 1.70) 1.08 (0.76, 1.53) 1.51 (0.77, 2.98)</cell></row><row><cell>III</cell><cell></cell><cell></cell><cell></cell></row><row><cell>P trend</cell><cell>0.09</cell><cell>0.63</cell><cell>0.17</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 4</head><label>4</label><figDesc>Multivariate (age, sex, race, HgbA1C, current smoking, physical activity, BMI, SBP)-adjusted hazard ratios for all-cause mortality, cancer mortality, CVD mortality, lung cancer mortality, digestive-tract cancer mortality, and other cause mortality with tertiles of DII score by diabetes status as defined by serum HgbA1c concentrations [normal (&lt;5.7) prediabetes (5.7-6.4) diabetes (≥6.5)]:</figDesc><table><row><cell cols="3">NHANES III cohort, 1988-2006</cell><cell></cell></row><row><cell></cell><cell>Normal</cell><cell>Prediabetes</cell><cell>Diabetes</cell></row><row><cell></cell><cell>(N = 9631) HR (95 % CI)</cell><cell>(N = 2681) HR (95 % CI)</cell><cell>(N = 968) HR (95 % CI)</cell></row><row><cell cols="2">All-cause mortality</cell><cell></cell><cell></cell></row><row><cell cols="2">Tertile I 1</cell><cell>1</cell><cell>1</cell></row><row><cell cols="4">Tertile II 1.20 (1.05, 1.38) 1.20 (0.95, 1.52) 1.25 (0.92, 1.71)</cell></row><row><cell>Tertile</cell><cell cols="3">1.31 (1.12, 1.54) 1.39 (1.13, 1.72) 1.02 (0.73, 1.44)</cell></row><row><cell>III</cell><cell></cell><cell></cell><cell></cell></row><row><cell>P trend</cell><cell>0.001</cell><cell>0.003</cell><cell>0.81</cell></row><row><cell cols="2">CVD mortality</cell><cell></cell><cell></cell></row><row><cell cols="2">Tertile I 1</cell><cell>1</cell><cell>1</cell></row><row><cell cols="4">Tertile II 1.38 (1.09, 1.74) 1.26 (0.92, 1.72) 0.91 (0.60, 1.38)</cell></row><row><cell>Tertile</cell><cell cols="3">1.52 (1.18, 1.96) 1.44 (1.02, 2.04) 0.98 (0.57, 1.67)</cell></row><row><cell>III</cell><cell></cell><cell></cell><cell></cell></row><row><cell>P trend</cell><cell>0.001</cell><cell>0.04</cell><cell>0.91</cell></row><row><cell cols="2">All-cancer mortality</cell><cell></cell><cell></cell></row><row><cell cols="2">Tertile I 1</cell><cell>1</cell><cell>1</cell></row><row><cell cols="4">Tertile II 1.21 (0.90, 1.65) 1.24 (0.80, 1.92) 1.46 (0.82, 2.58)</cell></row><row><cell>Tertile</cell><cell cols="3">1.23 (0.84, 1.79) 2.02 (1.27, 3.21) 1.00 (0.49, 2.04)</cell></row><row><cell>III</cell><cell></cell><cell></cell><cell></cell></row><row><cell>P trend</cell><cell>0.26</cell><cell>0.003</cell><cell>0.85</cell></row><row><cell cols="2">Lung cancer mortality</cell><cell></cell><cell></cell></row><row><cell cols="2">Tertile I 1</cell><cell>1</cell><cell>1</cell></row><row><cell cols="4">Tertile II 1.73 (0.97, 3.08) 1.01 (0.39, 2.57) 2.61 (0.67, 10.13)</cell></row><row><cell>Tertile</cell><cell>1.4 (0.79, 2.47)</cell><cell cols="2">2.01 (0.93, 4.34) 0.55 (0.09, 3.36)</cell></row><row><cell>III</cell><cell></cell><cell></cell><cell></cell></row><row><cell>P trend</cell><cell>0.20</cell><cell>0.07</cell><cell>0.78</cell></row><row><cell cols="2">Digestive-tract cancer mortality</cell><cell></cell><cell></cell></row><row><cell cols="2">Tertile I 1</cell><cell>1</cell><cell>1</cell></row><row><cell cols="4">Tertile II 1.07 (0.55, 2.10) 1.20 (0.34, 4.22) 1.23 (0.22, 6.85)</cell></row><row><cell>Tertile</cell><cell cols="3">1.38 (0.69, 2.76) 2.89 (1.08, 7.71) 1.30 (0.40, 4.28)</cell></row><row><cell>III</cell><cell></cell><cell></cell><cell></cell></row><row><cell>P trend</cell><cell>0.36</cell><cell>0.02</cell><cell>0.66</cell></row><row><cell cols="2">Other cause mortality</cell><cell></cell><cell></cell></row><row><cell cols="2">Tertile I 1</cell><cell>1</cell><cell>1</cell></row><row><cell cols="4">Tertile II 1.03 (0.76, 1.39) 1.08 (0.76, 1.53) 1.79 (0.93, 3.41)</cell></row><row><cell>Tertile</cell><cell cols="3">1.17 (0.88, 1.55) 0.94 (0.68, 1.31) 1.10 (0.54, 2.24)</cell></row><row><cell>III</cell><cell></cell><cell></cell><cell></cell></row><row><cell>P trend</cell><cell>0.3</cell><cell>0.7</cell><cell>0.8</cell></row></table></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Acknowledgments Drs. Shivappa and Hébert were supported by grant number R44DK103377 from the United States National Institute of Diabetes and Digestive and Kidney Diseases.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Compliance with ethical standards</head></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Disclosure Dr. James R. Hébert owns controlling interest in Connecting Health Innovations LLC (CHI), a company planning to license the right to his invention of the dietary inflammatory index (DII) from the University of South Carolina in order to develop computer and smart phone applications for patient counseling and dietary intervention in clinical settings. Dr. Nitin Shivappa is an employee of CHI. The authors have declared no conflict of interest.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Diagnosis and classification of diabetes mellitus</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Mellitus</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page">S37</biblScope>
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Screening for diabetes and pre-diabetes with proposed A1C-based diagnostic criteria</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Olson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Rhee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Herrick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Ziemer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Twombly</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">S</forename><surname>Phillips</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="2184" to="2189" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Guidelines on diabetes, pre-diabetes, and cardiovascular diseases: executive summary. The task force on diabetes and cardiovascular diseases of the European Society of Cardiology (ESC) and of the European Association for the Study of Diabetes (EASD)</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Rydén</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Standl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bartnik</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur Heart J</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="88" to="136" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Full accounting of diabetes and pre-diabetes in the US population in 1988</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Cowie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">F</forename><surname>Rust</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Ford</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="287" to="294" />
+			<date type="published" when="1994">2009. 1994 and 2005-2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">National diabetes fact sheet: national estimates and general information on diabetes and prediabetes in the United States</title>
+	</analytic>
+	<monogr>
+		<title level="m">Control CfD Prevention</title>
+				<meeting><address><addrLine>Atlanta, GA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Control CfD Prevention</publisher>
+			<date type="published" when="2011">2011. 2011</date>
+			<biblScope unit="page">201</biblScope>
+		</imprint>
+	</monogr>
+	<note>: US Department of Health and Human Services</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Diet and exercise among adults with type 2 diabetes findings from the third national health and nutrition examination survey (NHANES III)</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Nelson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Reiber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Boyko</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="1722" to="1728" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">Exercise or exercise and diet for preventing type 2 diabetes mellitus</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">J</forename><surname>Orozco</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Buchleitner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Gimenez-Perez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Roqué I Figuls</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Richter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Mauricio</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+			<pubPlace>The Cochrane Library, Chichester</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Diabetes mellitus and cancer risk: review of the epidemiological evidence</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Shikata</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Ninomiya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Kiyohara</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Sci</title>
+		<imprint>
+			<biblScope unit="volume">104</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="9" to="14" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Diabetes, prediabetes and cancer mortality</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Zhou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Qiao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Zethelius</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="1867" to="1876" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Exercise and type 2 diabetes the American College of Sports Medicine and the American Diabetes Association: joint position statement</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Colberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Sigal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Fernhall</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="e147" to="e167" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Diet, lifestyle, and the risk of type 2 diabetes mellitus in women</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">B</forename><surname>Hu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Manson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Stampfer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">345</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="790" to="797" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Inflammation and cancer</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Coussens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Werb</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">420</biblScope>
+			<biblScope unit="issue">6917</biblScope>
+			<biblScope unit="page" from="860" to="867" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Chronic subclinical inflammation as part of the insulin resistance syndrome the Insulin Resistance Atherosclerosis Study (IRAS)</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Festa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Agostino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Howard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Mykkänen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Tracy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Haffner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">102</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="42" to="47" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Inflammation, aspirin, and the risk of cardiovascular disease in apparently healthy men</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Ridker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Cushman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Stampfer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Tracy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">H</forename><surname>Hennekens</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">336</biblScope>
+			<biblScope unit="issue">14</biblScope>
+			<biblScope unit="page" from="973" to="979" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Chronic inflammation and cancer</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Shacter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Weitzman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Oncology</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="217" to="232" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Inflammatory markers and risk of type 2 diabetes a systematic review and meta-analysis</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Bao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Liu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="166" to="175" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Diet and inflammation</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Galland</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0884533610385703</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nutr Clin Pract</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="634" to="640" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Role of diet on chronic inflammation prevention and control: current evidences</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Geraldo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Alfenas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arq Bras Endocrinol Metabol</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="951" to="967" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Diet components can suppress inflammation and reduce cancer risk</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">E</forename><surname>Hardman</surname></persName>
+		</author>
+		<idno type="DOI">10.4162/nrp.2014.8.3.233</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nutr Res Pract</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="233" to="240" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Obesity, inflammation and diet</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">S</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Choue</surname></persName>
+		</author>
+		<idno type="DOI">10.5223/pghn.2013.16.3.143</idno>
+		<idno>doi:10.5223/ pghn.2013.16.3.143</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Pediatr Gastroenterol Hepatol Nutr</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="143" to="152" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Diet, inflammation and prediabetes-impact of quality of diet</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Uusitupa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Schwab</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jcjd.2013.07.029</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Can J Diabetes</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="327" to="331" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Dietary patterns and markers of systemic inflammation among Iranian women</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Esmaillzadeh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kimiagar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Mehrabi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Azadbakht</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">B</forename><surname>Hu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">C</forename><surname>Willett</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Nutr</title>
+		<imprint>
+			<biblScope unit="volume">137</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="992" to="998" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Major dietary patterns are related to plasma concentrations of markers of inflammation and endothelial dysfunction</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Lopez-Garcia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Schulze</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">T</forename><surname>Fung</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Clin Nutr</title>
+		<imprint>
+			<biblScope unit="volume">80</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1029" to="1035" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Dietary intake of trans fatty acids and systemic inflammation in women</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Mozaffarian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Pischon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Hankinson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Clin Nutr</title>
+		<imprint>
+			<biblScope unit="volume">79</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="606" to="612" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Influence of hydrogenated fat and butter on CVD risk factors: remnant-like particles, glucose and insulin, blood pressure and C-reactive protein</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">H</forename><surname>Lichtenstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">T</forename><surname>Erkkilä</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><forename type="middle">S</forename><surname>Schwab</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Jalbert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Ausman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Atherosclerosis</title>
+		<imprint>
+			<biblScope unit="volume">171</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="97" to="107" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">A new dietary inflammatory index predicts interval changes in serum high-sensitivity C-reactive protein</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">P</forename><surname>Cavicchia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Steck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">G</forename><surname>Hurley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Nutr</title>
+		<imprint>
+			<biblScope unit="volume">139</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="2365" to="2372" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Designing and developing a literature-derived, population-based dietary inflammatory index</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Shivappa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Steck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">G</forename><surname>Hurley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Hussey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Hébert</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Public Health Nutr</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">08</biblScope>
+			<biblScope unit="page" from="1689" to="1696" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Associations between dietary inflammatory index and inflammatory markers in the Asklepios Study</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Shivappa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Hébert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">R</forename><surname>Rietzschel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Nutr</title>
+		<imprint>
+			<biblScope unit="volume">113</biblScope>
+			<biblScope unit="issue">04</biblScope>
+			<biblScope unit="page" from="665" to="671" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Dietary inflammatory index is related to asthma risk, lung function and systemic inflammation in asthma</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">G</forename><surname>Wood</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Shivappa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">S</forename><surname>Berthon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">G</forename><surname>Gibson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Hebert</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Exp Allergy</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="177" to="183" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Construct validation of the dietary inflammatory index among postmenopausal women</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">K</forename><surname>Tabung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Steck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Zhang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="398" to="405" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Dietary inflammatory index and risk of colorectal cancer in the Iowa Women&apos;s Health Study</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Shivappa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Prizment</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">K</forename><surname>Blair</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Jacobs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Steck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Hébert</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Epidemiol Biomark Prev</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="2383" to="2392" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">The association between dietary inflammatory index and risk of colorectal cancer among postmenopausal women: results from the Women&apos;s Health Initiative</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">K</forename><surname>Tabung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Steck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Ma</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Causes Control</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="399" to="408" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Prospective association between the dietary inflammatory index and metabolic syndrome: findings from the SU. VI. MAX study</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Neufcourt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Assmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Fezeu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nutr Metab Cardiovasc Dis</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="988" to="996" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Dietary inflammatory index and incidence of cardiovascular disease in the PREDIMED Study</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Garcia-Arellano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Ramallal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ruiz-Canela</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nutrients</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="4124" to="4138" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">The Third National Health and Nutrition Examination Survey (NHANES III</title>
+	</analytic>
+	<monogr>
+		<title level="m">reference manuals and reports</title>
+				<meeting><address><addrLine>Maryland</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1988">1996. 1988-1994</date>
+		</imprint>
+	</monogr>
+	<note>Control CfD Prevention</note>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">A populationbased dietary inflammatory index predicts levels of C-reactive protein in the Seasonal Variation of Blood Cholesterol Study (SEASONS)</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Shivappa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Steck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">G</forename><surname>Hurley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Public Health Nutr</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">08</biblScope>
+			<biblScope unit="page" from="1825" to="1833" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Preventing the progression to type 2 diabetes mellitus in adults at high risk: a systematic review and network meta-analysis of lifestyle, pharmacological and surgical interventions</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Stevens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Khunti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Harvey</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.diabres.2015.01.027</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Res Clin Pract</title>
+		<imprint>
+			<biblScope unit="volume">107</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="320" to="331" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Dietary patterns are associated with biochemical markers of inflammation and endothelial activation in the Multi-Ethnic Study of Atherosclerosis (MESA)</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Nettleton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Steffen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mayer-Davis</forename><surname>Ej</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Clin Nutr</title>
+		<imprint>
+			<biblScope unit="volume">83</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1369" to="1379" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Nutrients, foods, and dietary patterns as exposures in research: a framework for food synergy</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Jacobs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Steffen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Clin Nutr</title>
+		<imprint>
+			<biblScope unit="volume">78</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="508S" to="513S" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">What do review papers conclude about food and dietary patterns?</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Drake</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Wallström</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Wirfält</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Food Nutr Res</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="page" from="1" to="14" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">LDL cholesterol as a strong predictor of coronary heart disease in diabetic individuals with insulin resistance and low LDL the Strong Heart Study</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">V</forename><surname>Howard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Robbins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Sievers</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arterioscler Thromb Vasc Biol</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="830" to="835" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Cardiovascular morbidity and mortality associated with the metabolic syndrome</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Isomaa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Almgren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Tuomi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="683" to="689" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Non-HDL cholesterol as a predictor of cardiovascular disease in type 2 diabetes the strong heart study</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Lu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">E</forename><surname>Resnick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Jablonski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="16" to="23" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Dietary patterns and risk of mortality from cardiovascular disease, cancer, and all causes in a prospective cohort of women</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Heidemann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Schulze</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">H</forename><surname>Franco</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Van Dam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Mantzoros</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">B</forename><surname>Hu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">118</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="230" to="237" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Mediterranean dietary pattern and prediction of all-cause mortality in a US population: results from the NIH-AARP Diet and Health Study</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">N</forename><surname>Mitrou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Kipnis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Thiébaut</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">167</biblScope>
+			<biblScope unit="issue">22</biblScope>
+			<biblScope unit="page" from="2461" to="2468" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Dietary patterns and mortality in Danish men and women: a prospective observational study</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Osler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">L</forename><surname>Heitmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">U</forename><surname>Gerdes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Jørgensen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Schroll</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Nutr</title>
+		<imprint>
+			<biblScope unit="volume">85</biblScope>
+			<biblScope unit="issue">02</biblScope>
+			<biblScope unit="page" from="219" to="225" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Dietary patterns and cardiovascular disease mortality in Japan: a prospective cohort study</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Shimazu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kuriyama</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Hozawa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="600" to="609" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">A study of repeatability of dietary data over a seven-year period</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Jain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Howe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Harrison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Miller</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">129</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="422" to="429" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">The reliability of questionnaire-derived historical dietary information and temporal stability of food habits in individuals</title>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">M</forename><surname>Jensen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wahrendorf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rosenqvist</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Geser</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">120</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="281" to="290" />
+			<date type="published" when="1984">1984</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Longitudinal trends in diet and effects of sex, race, and education on dietary quality score change: the coronary artery risk development in young adults study</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">P</forename><surname>Sijtsma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Meyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Steffen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Clin Nutr</title>
+		<imprint>
+			<biblScope unit="volume">95</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="580" to="586" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Characteristics of individuals and long term reproducibility of dietary reports: the Tecumseh Diet Methodology Study</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">E</forename><surname>Thompson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">L</forename><surname>Metzner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Lamphiear</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">M</forename><surname>Hawthorne</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="1169" to="1178" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Inflammatory potential of diet and all-cause, cardiovascular, and cancer mortality in National Health and Nutrition Examination Survey III Study</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Shivappa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Steck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Hussey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Ma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Hebert</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s00394-015-1112-x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Nutr</title>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

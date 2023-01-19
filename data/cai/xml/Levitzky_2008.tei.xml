@@ -1,0 +1,1116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Impact of Impaired Fasting Glucose on Cardiovascular Disease</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Yamini</forename><forename type="middle">S</forename><surname>Levitzky</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution">National Heart, Lung, and Blood Institute&apos;s Framingham Heart Study</orgName>
+								<address>
+									<settlement>Framingham</settlement>
+									<region>Massachusetts</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Mathematics</orgName>
+								<orgName type="laboratory">Maryland; ‡Statistics and Consulting Unit</orgName>
+								<orgName type="institution">†National Heart, Lung, and Blood Institute</orgName>
+								<address>
+									<settlement>Bethesda</settlement>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="institution">Boston University</orgName>
+								<address>
+									<settlement>Boston</settlement>
+									<region>Massachusetts</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="department">Massachusetts; ʈCardiology Section</orgName>
+								<orgName type="institution" key="instit1">§Massachusetts General Hospital</orgName>
+								<orgName type="institution" key="instit2">Harvard Med-ical School</orgName>
+								<address>
+									<settlement>Boston</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>PHD</roleName><forename type="first">Michael</forename><forename type="middle">J</forename><surname>Pencina</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution">National Heart, Lung, and Blood Institute&apos;s Framingham Heart Study</orgName>
+								<address>
+									<settlement>Framingham</settlement>
+									<region>Massachusetts</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Mathematics</orgName>
+								<orgName type="laboratory">Maryland; ‡Statistics and Consulting Unit</orgName>
+								<orgName type="institution">†National Heart, Lung, and Blood Institute</orgName>
+								<address>
+									<settlement>Bethesda</settlement>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="institution">Boston University</orgName>
+								<address>
+									<settlement>Boston</settlement>
+									<region>Massachusetts</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="department">Massachusetts; ʈCardiology Section</orgName>
+								<orgName type="institution" key="instit1">§Massachusetts General Hospital</orgName>
+								<orgName type="institution" key="instit2">Harvard Med-ical School</orgName>
+								<address>
+									<settlement>Boston</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>PHD</roleName><forename type="first">Ralph</forename><forename type="middle">B</forename><surname>D'agostino</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution">National Heart, Lung, and Blood Institute&apos;s Framingham Heart Study</orgName>
+								<address>
+									<settlement>Framingham</settlement>
+									<region>Massachusetts</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Mathematics</orgName>
+								<orgName type="laboratory">Maryland; ‡Statistics and Consulting Unit</orgName>
+								<orgName type="institution">†National Heart, Lung, and Blood Institute</orgName>
+								<address>
+									<settlement>Bethesda</settlement>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="institution">Boston University</orgName>
+								<address>
+									<settlement>Boston</settlement>
+									<region>Massachusetts</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="department">Massachusetts; ʈCardiology Section</orgName>
+								<orgName type="institution" key="instit1">§Massachusetts General Hospital</orgName>
+								<orgName type="institution" key="instit2">Harvard Med-ical School</orgName>
+								<address>
+									<settlement>Boston</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MD, MPH</roleName><forename type="first">James</forename><forename type="middle">B</forename><surname>Meigs</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MD, SCM</roleName><forename type="first">Joanne</forename><forename type="middle">M</forename><surname>Murabito</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution">National Heart, Lung, and Blood Institute&apos;s Framingham Heart Study</orgName>
+								<address>
+									<settlement>Framingham</settlement>
+									<region>Massachusetts</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Mathematics</orgName>
+								<orgName type="laboratory">Maryland; ‡Statistics and Consulting Unit</orgName>
+								<orgName type="institution">†National Heart, Lung, and Blood Institute</orgName>
+								<address>
+									<settlement>Bethesda</settlement>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="institution">Boston University</orgName>
+								<address>
+									<settlement>Boston</settlement>
+									<region>Massachusetts</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="department">Massachusetts; ʈCardiology Section</orgName>
+								<orgName type="institution" key="instit1">§Massachusetts General Hospital</orgName>
+								<orgName type="institution" key="instit2">Harvard Med-ical School</orgName>
+								<address>
+									<settlement>Boston</settlement>
+								</address>
+							</affiliation>
+							<affiliation key="aff6">
+								<orgName type="department" key="dep1">Section of General Internal Medicine</orgName>
+								<orgName type="department" key="dep2">Department of Medicine</orgName>
+								<orgName type="institution">Boston Medical Center</orgName>
+								<address>
+									<settlement>Boston</settlement>
+									<region>Massachusetts</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Ramachandran</forename><forename type="middle">S</forename><surname>Vasan</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution">National Heart, Lung, and Blood Institute&apos;s Framingham Heart Study</orgName>
+								<address>
+									<settlement>Framingham</settlement>
+									<region>Massachusetts</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Mathematics</orgName>
+								<orgName type="laboratory">Maryland; ‡Statistics and Consulting Unit</orgName>
+								<orgName type="institution">†National Heart, Lung, and Blood Institute</orgName>
+								<address>
+									<settlement>Bethesda</settlement>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="institution">Boston University</orgName>
+								<address>
+									<settlement>Boston</settlement>
+									<region>Massachusetts</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="department">Massachusetts; ʈCardiology Section</orgName>
+								<orgName type="institution" key="instit1">§Massachusetts General Hospital</orgName>
+								<orgName type="institution" key="instit2">Harvard Med-ical School</orgName>
+								<address>
+									<settlement>Boston</settlement>
+								</address>
+							</affiliation>
+							<affiliation key="aff5">
+								<orgName type="department">Department of Preventive Medicine and Epidemiology</orgName>
+								<orgName type="institution">Boston University School of Medicine</orgName>
+								<address>
+									<settlement>Boston</settlement>
+									<region>Massachusetts</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MD, MPH</roleName><forename type="first">Caroline</forename><forename type="middle">S</forename><surname>Fox</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution">National Heart, Lung, and Blood Institute&apos;s Framingham Heart Study</orgName>
+								<address>
+									<settlement>Framingham</settlement>
+									<region>Massachusetts</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Mathematics</orgName>
+								<orgName type="laboratory">Maryland; ‡Statistics and Consulting Unit</orgName>
+								<orgName type="institution">†National Heart, Lung, and Blood Institute</orgName>
+								<address>
+									<settlement>Bethesda</settlement>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="institution">Boston University</orgName>
+								<address>
+									<settlement>Boston</settlement>
+									<region>Massachusetts</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="department">Massachusetts; ʈCardiology Section</orgName>
+								<orgName type="institution" key="instit1">§Massachusetts General Hospital</orgName>
+								<orgName type="institution" key="instit2">Harvard Med-ical School</orgName>
+								<address>
+									<settlement>Boston</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department">Framingham and Boston</orgName>
+								<address>
+									<settlement>Bethesda, Maryland</settlement>
+									<region>Massachusetts</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff7">
+								<orgName type="department" key="dep1">†Department of Endocrinology, Metabolism, and Diabetes</orgName>
+								<orgName type="department" key="dep2">Brigham and Women&apos;s Hospital</orgName>
+								<orgName type="institution">Harvard Medical School</orgName>
+								<address>
+									<settlement>Boston</settlement>
+									<region>Massachusetts</region>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Impact of Impaired Fasting Glucose on Cardiovascular Disease</title>
+					</analytic>
+					<monogr>
+						<idno type="ISSN">0735-1097/08</idno>
+					</monogr>
+					<idno type="MD5">FC622CF4B60BAB39F2AE67F8F5936A15</idno>
+					<idno type="DOI">10.1016/j.jacc.2007.09.038</idno>
+					<note type="submission">received May 24, 2007; revised manuscript received September 12, 2007, accepted September 17, 2007.</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.1" ident="GROBID" when="2022-07-19T23:01+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>We sought to determine whether impaired fasting glucose (IFG) predicts cardiovascular disease (CVD) events.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Background</head><p>It is unclear which glucose threshold should define prediabetes. We compared the 1997 and 2003 American Diabetes Association (ADA) definitions of IFG to predict CVD.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head><p>Framingham offspring participants free of CVD, categorized by the 1997 ADA IFG definition (fasting plasma glucose 110 to 125 mg/dl; 6.1 to 6.9 mmol/l) or the 2003 definition (100 to 125 mg/dl; 5.6 to 6.9 mmol/l), were followed from 1983 to 2004. Pooled logistic regression was used to calculate multivariable-adjusted odds ratios (ORs) for incident coronary heart disease (CHD; 291 events) or CVD (423 events).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>Four-year CHD event rates among women were 1.3% (100 to 109 mg/dl), 2.3% (110 to 125 mg/dl), and 2.9% (diabetes); whereas corresponding rates in men were 2.9%, 3.0%, and 8.7%. For the 2003 IFG definition, the OR for CHD among women was 1.7 (95% confidence interval [CI] 1.0 to 3.0, p ϭ 0.048), whereas for the 1997 IFG definition, the OR for CHD in women was 2.2 (95% CI 1.1 to 4.4, p ϭ 0.02), which was almost as high as for women with diabetes (OR 2.5, 95% CI 1.2 to 5.2, p ϭ 0.01). For CVD, only the 1997 IFG definition yielded significantly greater odds of CVD in women (OR 2.1, 95% CI 1.2 to 3.6, p ϭ 0.01). Men were not at increased odds of developing CVD or CHD by either definition.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusions</head><p>In women, both IFG definitions were associated with increased CHD risk, whereas neither IFG definition identified men at increased short-term risk for CHD or CVD. The finding that women with FPG 110 to 125 mg/dl had similar CHD risk compared with women with diabetes suggests that CHD risk in women may be elevated at a lower glucose level than for men. (</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>It has been recognized that prediabetic hyperglycemia confers an increased risk for cardiovascular disease (CVD) <ref type="bibr" target="#b0">(1,</ref><ref type="bibr" target="#b1">2)</ref>. In 1997, the American Diabetes Association (ADA) introduced the concept of impaired fasting glucose (IFG), a prediabetic state initially defined by fasting plasma glucose (FPG) of 110 to 125 mg/dl (6.1 to 6.9 mmol/l), in which those afflicted were significantly more likely to develop diabetes <ref type="bibr" target="#b2">(3)</ref><ref type="bibr" target="#b3">(4)</ref><ref type="bibr" target="#b4">(5)</ref>. The risk of developing CVD was not considered in establishing criteria for IFG.</p><p>Since the introduction of the concept of IFG, there has been considerable debate regarding where the lower limit should be set to achieve a reasonable balance between sensitivity and specificity for diabetes prediction. In 2003, the ADA lowered its threshold for diagnosis of IFG from 110 mg/dl (6.0 mmol/l) to 100 mg/dl (5.6 mmol/l) on the basis of evidence in selected samples that suggested diabetes prediction may be optimized at a lower threshold <ref type="bibr" target="#b5">(6)</ref>. The effect of this lowered cut point is that a much larger proportion of the population is now considered to have IFG. Using data from the Third National Health and Nutrition Examination Survey, Benjamin et al. <ref type="bibr" target="#b6">(7)</ref> found that the prevalence of IFG among adults was estimated to increase from 8.3% to 30.2%.</p><p>Since the publication of the 2003 IFG guidelines, relatively few studies have examined the impact of the 2003 IFG definition on CVD risk, and none have found a relation between FPG 100 to 125 mg/dl (5.6 to 6.9 mmol/l) and increased CVD risk or mortality <ref type="bibr">(8 -12)</ref>. However, these studies have been limited by examination of samples with limited generalizability <ref type="bibr">(9 -11)</ref>, relatively small samples with few CVD events during follow-up period <ref type="bibr" target="#b7">(8)</ref>, and potential inclusion of participants who develop diabetes in the IFG category <ref type="bibr" target="#b8">(9,</ref><ref type="bibr" target="#b11">12)</ref>.</p><p>Thus, on the basis of available data, it is uncertain whether the 2003 ADA definition of IFG offers improved risk prediction regarding cardiovascular disease as compared with the 1997 IFG definition. Therefore, the primary aims of this analysis were to characterize the new 2003 ADA definition of IFG in the Framingham Offspring study by examining incident CVD events as compared with the 1997 IFG definition. We also assessed the risk of developing diabetes based on the 2 IFG definitions.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study sample.</head><p>Participants for this study were drawn from the Framingham Offspring cohort. The design and inclusion criteria of the Framingham Heart Study have been described elsewhere <ref type="bibr" target="#b12">(13)</ref>. The current investigation included offspring participants who attended examinations (referred to as index examinations) in 1983 to 1987 (cycle 3), 1987 to 1991 (cycle 4), 1991 to 1995 (cycle 5), and 1995 to 1998 (cycle 6). Participants could contribute information to more than one examination cycle provided they reached the next examination cycle free of an outcome event of interest. All participants with CHD or CVD at the index examinations were excluded from further analyses. Participants were followed in approximately 4-year intervals, and events were accrued through <ref type="bibr">December 31, 2004</ref>. Overall, 4,138 unique individuals contributed a total of 13,273 person-exams for analyses of incident CHD, and 4,058 unique individuals contributed 12,918 person-exams for analyses of incident CVD. For analyses involving incident diabetes, a total of 3,634 unique individuals free of diabetes and CHD at baseline were followed until diabetes or examination cycle 7 (1998 to 2001) contributing a total of 11,325 person-exams. The Institutional Review Board at Boston Medical Center approved the study protocol, and all participants gave written informed consent. Baseline measurements and definitions. All Framingham clinic visits include a physician interview, physical examination, and laboratory tests. Participants who had a fasting plasma glucose Ն126 mg/dl (Ͼ7.0 mmol/dl) or were on insulin or oral hypoglycemic agents were considered to have diabetes. The 1997 ADA guidelines defined IFG as a FPG concentration of 110 to 125 mg/dl (6.1 to 6.9 mmol/l) <ref type="bibr" target="#b13">(14)</ref>, whereas the 2003 ADA guidelines define IFG as 100 to 125 mg/dl (5.6 to 6.9 mmol/l) <ref type="bibr" target="#b5">(6)</ref>.</p><p>Outcome ascertainment. The primary outcomes of interest were CHD, CVD, and diabetes. Coronary heart disease included cases of myocardial infarction, stable and unstable angina pectoris, and CHD death <ref type="bibr" target="#b14">(15)</ref>. Cardiovascular disease was defined as any CHD event, stroke, transient ischemic attack (TIA), intermittent claudication, congestive heart failure, or CVD death. Diabetes was defined as described previously in the previous section. A panel of 3 physicians reviewed each CHD and CVD event and adjudicated the end point according to pre-established criteria <ref type="bibr" target="#b15">(16)</ref>. Covariates. Covariates were assessed and updated at all index examinations. Covariates included age, systolic blood pressure, hypertension treatment, total cholesterol to high-density lipoprotein cholesterol ratio, cigarette smoking within the past year, and body mass index (BMI). For incident diabetes, covariates were age, cigarette smoking within the past year, and BMI. Hypertension was defined as systolic blood pressure Ն140 mm Hg, diastolic blood pressure Ն90 mm Hg, or current treatment with antihypertensive medications. Current smoking was defined as at least 1 cigarette per day within 1 year of the index examination. Weight, measured to the nearest pound, was obtained with the participant wearing a gown without slippers or shoes. The BMI was calculated by dividing weight (kilograms) by square of height (meters 2 ). Statistical analysis. A significant gender interaction was observed when age-gender-adjusted models were fit with an IFG-by-gender interaction. Therefore, all subsequent analyses were gender-specific.</p><p>All individuals with CHD or CVD at each index examination were excluded. Three separate models were used to examine incident CHD and CVD: 1) To examine the impact of the 1997 IFG definition on CHD and CVD risk, we compared FPG 110 to 125 mg/dl (6.1 to 6.9 mmol/l) to a referent group of FPG Ͻ110 mg/dl (Ͻ6.1 mmol/l). 2) To examine the impact of the 2003 IFG definition on CHD and CVD risk, we compared FPG 100 to 125 mg/dl (5.6 to 6.9 mmol/l) to a referent group of FPG Ͻ100 mg/dl (Ͻ5.6 mmol/l). 3) To directly compare the categorization and performance of the 1997 and 2003 IFG definitions, a multicategory model was created comparing both FPG 100 to 109 mg/dl (5.6 to 6.0 mmol/l) and 110 to 125 mg/dl (6.1 to 6.9 mmol/l) to a referent group of FPG Ͻ100 mg/dl (Ͻ5.6 mmol/l). This model ensured that the same referent group would be used to compare individuals in the 100 to 109 mg/dl category with those in the 110 to 125 mg/dl category. For analyses of diabetes prediction, individuals with diabetes at each index examination were excluded and 3 similar models (1 to 3 as described in the previous paragraph) were constructed. Age-adjusted incidence rates of CHD, CVD, and diabetes were calculated for each FPG group <ref type="bibr" target="#b16">(17)</ref>. Pooled logistic regression was used to calculate the odds of developing CHD, CVD, or diabetes over the follow-up intervals using SAS version 9.1 (SAS Institute, Cary, North Carolina) <ref type="bibr" target="#b17">(18)</ref>. Pooled logistic regression has been shown to provide estimates similar to those generated from time-dependent Cox regression analysis <ref type="bibr" target="#b18">(19)</ref>.</p><p>Models were initially age-adjusted and then adjusted for covariates for each end point. To compare the predictive capacity of the 2003 versus 1997 IFG definition, we examined the c-statistics of all multivariable models. The c-statistic is a measure of model discrimination or concordance between the predictions and outcomes <ref type="bibr" target="#b19">(20)</ref>. Crude Kaplan-Meier curves were constructed using time to CVD stratified by glycemic category (FPG Ͻ100 mg/dl; 100 to 109 mg/dl; 110 to 125 mg/dl; diabetes).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>The overall sample (n ϭ 4,058) consisted of 53% women, and the mean age was 49 years (Table <ref type="table">1</ref>). Impact of the IFG definition on incident CHD and CVD. The 4-year rates of developing CHD are presented in Table <ref type="table">2</ref>. There were 291 cases of incident CHD. Four-year CHD event rates among women were 1.3% (100 to 109 mg/dl), 2.3% (110 to 125 mg/dl), and 2.9% (diabetes), whereas corresponding rates in men were 2.9%, 3.0%, and 8.7%. The odds ratio for CHD in women for the 2003 definition was 1.7 (95% confidence interval [CI] 1.0 to 3.0) and for the 1997 definition was 2.2 (95% CI 1.1 to 4.4) (Table <ref type="table" target="#tab_1">3</ref>). In the multicategory model, women with FPG 110 to 125 mg/dl (6.1 to 6.9 mg/dl) had a 2.5-fold increased odds ratio (OR) of CHD (95% CI 1.2 to 5.0, p ϭ 0.01), whereas women with FPG 100 to 109 mg/dl (5.6 to 6.0 mmol/l) had a nonsignificantly increased OR of CHD (OR 1.4, 95% CI 0.7 to 2.7, p ϭ 0.30), suggesting that much of the increase in CHD is driven primarily by those with FPG 110 to 125 mg/dl (6.1 to 6.9 mmol/l). Among women with FPG 110 to 125 mg/dl, the OR was similar to the OR for CHD in women with diabetes (OR 2.5, 95% CI 1.2 to 5.2, p ϭ 0.01). The c-statistic was essentially unchanged between models based on the 1997 versus the 2003 IFG definition (0.798 vs. 0.800, respectively). In men, there was no significant difference in the OR of developing CHD among those categorized by either the 1997 IFG definition or the 2003 IFG definition (Table <ref type="table" target="#tab_1">3</ref>). There was a significant gender interaction with incident CHD (p ϭ 0.04), indicating that the OR of developing CHD in women was significantly greater than for men. Similar trends were observed for CVD (Table <ref type="table">4</ref>) (423 incident events). The OR for CVD in women for the 2003 definition was 1.4 (95% CI 0.9 to 2.1) and for the 1997 definition was 2.1 (95% CI 1.2 to 3.6) (Table <ref type="table">4</ref>). In the multicategory model for women, no significantly increased OR was observed in the 100 to 109 mg/dl (5.6 to 6.0 mmol/l) group, whereas significantly increased OR were observed among women with FPG 110 to 125 mg/dl (6.1 to 6.9 mmol/l). The multivariable-adjusted c-statistics for the 1997 and 2003 definitions were similar (0.785 vs. 0.787, respectively).</p><p>In men, there was no significant difference in the OR of developing CVD in those with IFG as categorized by either the 1997 definition or 2003 definition; similar results were observed in the multicategory model (Table <ref type="table">4</ref>). The multivariable-adjusted c-statistics were identical for the 1997 and 2003 definitions (0.763). The formal sex-interaction was not significant (p ϭ 0.19), although the trends observed were overall similar to the CHD results. The results are presented as Kaplan-Meier curves in Figure <ref type="figure" target="#fig_1">1</ref>. Impact of the IFG definition on incident diabetes. The 4-year age-adjusted rates of developing diabetes by glycemic category are presented in Table <ref type="table">2</ref>. Among women, the OR of developing diabetes was elevated in multivariable-adjusted models for both the 1997 and 2003 definitions (Table <ref type="table" target="#tab_2">5</ref>). Among men, the differences between the 1997 and 2003 definitions were less striking than in women (Table <ref type="table" target="#tab_2">5</ref>). Secondary analyses. When glucose was modeled as a continuous variable, for CVD, significant results were observed for women (p ϭ 0.007) as well as for men (p ϭ 0.0001). However, when individuals with diabetes were excluded from the models, results were no longer significant (women p ϭ 0.16; men p ϭ 0.89). For CHD, similar findings were observed (data not shown). Additional adjustment for triglycerides in men did not result in any material changes to the results (data not shown). </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>Principal findings. The 1997 and 2003 IFG definitions are predictive of CHD in women but not in men. The odds of developing CHD among women with IFG in the 110 to 125 mg/dl (6.1 to 6.9 mmol/l) range approach the risk conferred by having diabetes. C-statistics were essentially unchanged between 1997 and 2003 IFG definitions, suggesting no improvement in overall risk prediction when one uses the new IFG definition. For CVD, only the 1997 IFG definition was associated with a statistically significant increased odds among women, whereas no increased odds of CVD was observed in men for either IFG definition. Ultimately, however, men have greater absolute rates of events as compared with women. With respect to diabetes, the 1997 IFG definition is associated with a greater risk of developing diabetes compared with the 2003 IFG definition. A possible explanation for the difference between CVD and CHD is that the CHD end point contains primarily hard diagnoses that are known to be highly associated with diabetes and pre-diabetes, such as myocardial infarction, whereas CVD contains end points which are potentially more heterogeneous, such as intermittent claudication and TIA. Nonetheless, women in our sample with FPG 110 to 125 mg/dl (6.1 to 6.9 mmol/l) are at significantly increased risk of both CHD and CVD. In the context of current literature. Conflicting data exist regarding the effect of nondiabetic fasting hyperglycemia on cardiovascular risk. Whereas several studies have found that the 1997 IFG definition is associated with significantly increased risk for CVD <ref type="bibr" target="#b1">(2,</ref><ref type="bibr" target="#b8">9,</ref><ref type="bibr" target="#b10">11,</ref><ref type="bibr" target="#b20">21)</ref>, at least 5 studies have shown no significantly increased risk for CVD with the 1997 IFG definition <ref type="bibr" target="#b4">(5,</ref><ref type="bibr" target="#b7">8,</ref><ref type="bibr" target="#b9">10,</ref><ref type="bibr" target="#b21">22,</ref><ref type="bibr" target="#b22">23)</ref>.</p><p>Relatively fewer studies have examined the 2003 IFG cut point and its predictive capacity for CVD, and none have demonstrated an increased risk <ref type="bibr">(8 -10,24)</ref>. Kanaya et al. <ref type="bibr" target="#b8">(9)</ref> examined data from the Heart and Estrogen/Progestin Replacement Study, which enrolled women with known coronary disease, grouped them by fasting glucose status, and followed them for CVD events, stroke, TIA, and CHF hospitalization for an average of 6.8 years. They found that women with FPG 100 to 125 mg/dl (5.6 to 6.9 mmol/l) were at no increased risk for any end point as compared with women with normal levels of fasting glucose. In contrast, we found that women categorized by the 2003 IFG definition do not have a statistically significant increased risk of CVD  (OR 1.4, 95% CI 0.9 to 2.1) but do have significantly increased odds of CHD (OR 1.7, 95% CI 1.0 to 3.0, p ϭ 0.048). A potential explanation for the differences in our findings may be the result of differences in our study sample, which included only individuals free of CVD at baseline, which is especially important when comparing our findings to those of Kanaya et al. <ref type="bibr" target="#b8">(9)</ref>, who used a sample of women with pre-existing CVD, and followed their participants for new events. In a recent publication from the Hoorn Study in which participants (n ϭ 1,428) were categorized according to 1997 and 2003 criteria based on OGTT measured in 1989 and 1996 with 10-year follow-up for all-cause and CVD mortality, there was no significant increased risk for CVD unless participants developed diabetes <ref type="bibr" target="#b11">(12)</ref>. These data are distinctly incongruent with our current findings, possibly in part because of the lack of gender-specific analyses in the Hoorn study.</p><p>The Hoorn investigators used oral glucose tolerance testing to diagnose impaired fasting glucose as compared with our use of FPG, which may also be pertinent to understanding why our findings differed. However, researchers using data from the Atherosclerosis Risk in Communities Study recently have confirmed that there is poor congruence between IFG (defined as 100 to 125 mg/dl; 5.6 to 6.9 mmol/l) and impaired glucose tolerance (IGT). They also demonstrate that neither IFG nor IGT are associated with an increased risk of all-cause mortality or incident CHD after a median follow-up of 6.3 years in fully-adjusted models <ref type="bibr" target="#b24">(25)</ref>. Therefore, we believe that our findings using FPG to diagnose IFG is an acceptable and clinically applicable method by which to conduct these analyses. Finally, a recent study from a community-based medical center examined CVD risk factor prevalence and prevalent CVD events among individuals with the 1997 as compared with the 2003 IFG definition <ref type="bibr" target="#b25">(26)</ref> and found that the 2003 definition was not associated with an elevated level of CVD risk factors or CVD as compared to the 1997 definition. Gender differences. For any given glycemic category, women had greater relative odds of CHD and CVD as compared with men, although men had greater absolute event rates for cardiovascular disease. In fact, the cardiovascular disease event rates and odds ratios for women in the 110 to 125 mg/dl group were similar to those for women with diabetes in our sample. These findings build upon those from a recent meta-analysis that included more than 33,000 women and 172,000 men in examining nondiabetic hyperglycemia as a risk factor for CVD; results demonstrate that the risk of CVD events was markedly greater in cohorts that included women <ref type="bibr" target="#b26">(27)</ref>. However, gender-specific data for women in this meta-analysis were not presented. Taken together with our findings, CVD and diabetes risk in women may occur at lower glucose thresholds as compared with men, which raises several potentially interesting questions. Whether gender differences are due to intrinsic biologic differences or differences in risk factor management is uncertain. These differences also raise the question of whether gender-specific cut points for impaired fasting glucose should exist. Implications. In the absence of a clear glucose threshold that is predictive of CVD, the debate continues regarding what should define IFG to maximize sensitivity and specificity for predicting cardiovascular events. In examining the effect of IFG categorization with respect to cardiovascular disease, we uncovered gender differences, raising the question of whether a lower glycemic threshold should be used to diagnose IFG or diabetes in women. It is important to remember, however, that men have a greater absolute rate of events as compared with women. Further, IFG is not a CHD risk-equivalent. In addition, whether the effect of identifying individuals with this diagnosis in clinical practice encourages lifestyle modification including weight loss and increased physical activity is uncertain. Fasting blood sugar is often associated with other adverse CVD risk factors and may serve to identify patients with hypertension and dyslipidemia. Finally, it is uncertain whether identifying an individual with IFG results in aggressive CVD risk factor modification; randomized clinical trials among individuals with IFG would be necessary to assess this. Strengths and study limitations. The strength of our analysis lies in our population-based cohort and long-term follow-up. We assessed the glycemic status of our participants every 4 years and were able to remove those who developed incident diabetes from the IFG category, which is particularly important when trying to understand the risk of cardiovascular disease associated with IFG independently of developing diabetes.</p><p>Our study has several limitations which must be acknowledged. Oral glucose tolerance testing was not available at each index examination cycle, thereby precluding comment on how the 1997 and 2003 IFG compare with IGT for prediction of CVD. Further, this unavailability may have resulted in cases of undiagnosed diabetes in our exposure group. However, the primary point of our paper is to analyze the current ADA recommendations for IFG, and current guidelines do not recommend the routine use of oral glucose tolerance testing <ref type="bibr" target="#b27">(28)</ref>.</p><p>Next, although we found no increased risk in men for CHD and CVD, we examined short-term risk, and application to long-term risk, which allows for transition to diabetes over many years of follow-up, is uncertain. However, the consideration of short-term risk is congruent with the ADA's recommendation that all individuals over 45 years of age be screened for diabetes every 3 years and even more frequently if additional risk factors are present <ref type="bibr" target="#b28">(29)</ref>. Third, the Framingham Heart Study at its inception in 1948 included only white participants. Therefore, the generalizability to other ethnic groups is uncertain. However, the Framingham risk score has been validated in other ethic groups and has been found to be applicable in other populations <ref type="bibr" target="#b29">(30,</ref><ref type="bibr" target="#b30">31)</ref>. Although we used data from our study that spans several decades, we do not believe that temporal trends would have an important effect on our results, because we have previously shown that the relative risk between cardiovascular disease and diabetes has not changed over time <ref type="bibr" target="#b31">(32)</ref>. Finally, we only evaluated cardiovascular complications of IFG and diabetes and were not able to assess retinopathy, neuropathy, and nephropathy, which may yield different findings.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusions</head><p>Our data suggest that for prediction of CHD and CVD events, neither IFG definition identifies a group of men at increased short-term risk. In women, there is a significantly increased risk of CHD in the 2003 IFG group, but this risk is driven primarily by the high event rate in participants with FPG 110 to 125 mg/dl (6.1 to 6.9 mmol/l). In comparing women and men, for any given prediabetic category, women have a greater relative risk of CHD than men. The 2003 IFG definition does not offer substantive advantages over the 1997 definition for prediction of CVD or diabetes.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head></head><label></label><figDesc>Abbreviations and AcronymsADA ‫؍‬ American Diabetes Association BMI ‫؍‬ body mass index CHD ‫؍‬ coronary heart disease CI ‫؍‬ confidence interval CVD ‫؍‬ cardiovascular disease FPG ‫؍‬ fasting plasma glucose IFG ‫؍‬ impaired fasting glucose IGT ‫؍‬ impaired glucose tolerance OR ‫؍‬ odds ratio TIA ‫؍‬ transient ischemic attack</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 1</head><label>1</label><figDesc>Figure 1 Kaplain-Meier Plots of CVD-Free Survival by Glycemic Category CVD ϭ cardiovascular disease; DM ϭ diabetes mellitus; NGT ϭ normal glucose tolerance; 100 -109 ϭ 100 to 109 mg/dl; 110 -125 ϭ 110 to 125 mg/dl.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head></head><label></label><figDesc>Values are mean (SD) or percent. *Data represent unique individuals based on first exam attended and is based on the sample free of cardiovascular disease (n ϭ 4,058).</figDesc><table><row><cell>266</cell><cell>Levitzky et al.</cell><cell></cell><cell></cell><cell></cell><cell>JACC Vol. 51, No. 3, 2008</cell></row><row><cell></cell><cell>Impact of IFG on CVD</cell><cell></cell><cell></cell><cell></cell><cell>January 22, 2008:264-70</cell></row><row><cell cols="3">Baseline Characteristics of Cohort*</cell><cell></cell><cell></cell></row><row><cell>Table 1</cell><cell cols="2">Baseline Characteristics of Cohort*</cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell>Women</cell><cell>Men</cell><cell></cell></row><row><cell cols="2">Characteristic</cell><cell>(n ‫؍‬ 2,163)</cell><cell>(n ‫؍‬ 1,895)</cell><cell></cell></row><row><cell>Age, yrs</cell><cell></cell><cell>48 (10)</cell><cell>49 (10)</cell><cell></cell></row><row><cell cols="2">Glucose, mmol/l</cell><cell>5.1 (1.2)</cell><cell>5.4 (1.4)</cell><cell></cell></row><row><cell cols="2">Current smoker, %</cell><cell>29</cell><cell>28</cell><cell></cell></row><row><cell cols="2">Body mass index, kg/m 2</cell><cell>25.6 (5.4)</cell><cell>27.3 (3.9)</cell><cell></cell></row><row><cell cols="2">Systolic blood pressure, mm Hg</cell><cell>122 (18)</cell><cell>127 (16)</cell><cell></cell></row><row><cell cols="2">Hypertension treatment, %</cell><cell>14</cell><cell>16</cell><cell></cell></row><row><cell cols="2">Hypertension, %</cell><cell>26</cell><cell>35</cell><cell></cell></row><row><cell cols="2">Total/high-density lipoprotein</cell><cell>4.0 (1.4)</cell><cell>5.0 (1.6)</cell><cell></cell></row><row><cell cols="2">cholesterol, ratio</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">Multicategory Model (mg/dl)</cell></row><row><cell></cell><cell></cell><cell>Outcome</cell><cell>&lt;99</cell><cell>100 to 109</cell><cell>110 to 125</cell><cell>Diabetes</cell></row><row><cell></cell><cell>Any CHD event</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>Women</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>Events, n</cell><cell></cell><cell>39</cell><cell>14</cell><cell>12</cell><cell>13</cell></row><row><cell></cell><cell cols="2">Person-exams, n</cell><cell>5,563</cell><cell>882</cell><cell>365</cell><cell>318</cell></row><row><cell></cell><cell cols="2">4-year event rate (%) with 95% CI</cell><cell>0.8 (0.5-1.1)</cell><cell>1.3 (0.7-2.2)</cell><cell>2.3 (1.3-4.3)</cell><cell>2.9 (1.6-5.3)</cell></row><row><cell></cell><cell>Men</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>Events, n</cell><cell></cell><cell>106</cell><cell>38</cell><cell>19</cell><cell>50</cell></row><row><cell></cell><cell cols="2">Person-exams, n</cell><cell>3,960</cell><cell>1,235</cell><cell>516</cell><cell>434</cell></row><row><cell></cell><cell cols="2">4-year event rate (%) with 95% CI</cell><cell>2.9 (2.3-3.7)</cell><cell>2.9 (2.0-4.0)</cell><cell>3.0 (1.9-4.8)</cell><cell>8.7 (6.4-11.7)</cell></row><row><cell></cell><cell>Any CVD event</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>Women</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>Events, n</cell><cell></cell><cell>71</cell><cell>19</cell><cell>18</cell><cell>20</cell></row><row><cell></cell><cell cols="2">Person-exams, n</cell><cell>5,457</cell><cell>850</cell><cell>352</cell><cell>299</cell></row><row><cell></cell><cell cols="2">4-year event rate (%) with 95% CI</cell><cell>1.4 (1.1-1.9)</cell><cell>1.8 (1.1-2.9)</cell><cell>3.6 (2.2-5.9)</cell><cell>4.8 (3.0-7.6)</cell></row><row><cell></cell><cell>Men</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>Events, n</cell><cell></cell><cell>138</cell><cell>60</cell><cell>31</cell><cell>66</cell></row><row><cell></cell><cell cols="2">Person-exams, n</cell><cell>3,876</cell><cell>1,198</cell><cell>495</cell><cell>391</cell></row><row><cell></cell><cell cols="2">4-year event rate (%) with 95% CI</cell><cell>3.9 (3.2-4.8)</cell><cell>4.6 (3.5-6.0)</cell><cell>5.0 (3.4-7.1)</cell><cell>12.5 (9.7-16.0)</cell></row><row><cell></cell><cell>Diabetes</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>Women</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>Events, n</cell><cell></cell><cell>17</cell><cell>31</cell><cell>87</cell><cell>-</cell></row><row><cell></cell><cell cols="2">Person-exams, n</cell><cell>5,049</cell><cell>780</cell><cell>317</cell><cell>-</cell></row><row><cell></cell><cell cols="2">4-year event rate (%) with 95% CI</cell><cell>0.3 (0.2-0.6)</cell><cell>4.0 (2.7-6.0)</cell><cell>27.8 (21.6-35.1)</cell><cell>-</cell></row><row><cell></cell><cell>Men</cell><cell></cell><cell></cell><cell></cell><cell>-</cell></row><row><cell></cell><cell>Events, n</cell><cell></cell><cell>23</cell><cell>52</cell><cell>92</cell><cell>-</cell></row><row><cell></cell><cell cols="2">Person-exams, n</cell><cell>3,608</cell><cell>1,129</cell><cell>442</cell><cell>-</cell></row></table><note>4-Year Age-Adjusted Event Rates of CHD, CVD, and Diabetes by Baseline Glycemic Status CategoryTable 2 4-Year Age-Adjusted Event Rates of CHD, CVD, and Diabetes by Baseline Glycemic Status Category 4-year event rate (%) with 95% CI 0.6 (0.4-1.0) 4.5 (3.3-6.1) 20.0 (15.8-25.1) -CHD ϭ coronary heart disease; CI ϭ confidence interval; CVD ϭ cardiovascular disease.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 3 Odds</head><label>3</label><figDesc>Odds Ratios and 95% Confidence Intervals by Glucose Subgroup for 4-Year Incidence of CHD According to 1997 and 2003 IFG Definitions Ratios and 95% Confidence Intervals by Glucose Subgroup for 4-Year Incidence of CHD According to 1997 and 2003 IFG Definitions Referent group is Ͻ100 mg/dl (Ͻ5.6 mmol/l). †Referent group is Ͻ110 mg/dl (Ͻ6.1 mmol/l). ‡Covariates: age, systolic blood pressure, hypertension treatment, total cholesterol/high-density lipoprotein ratio, current smoking, and body mass index. CHD ϭ coronary heart disease; IPG ϭ impaired fasting glucose; MV ϭ multivariable.</figDesc><table><row><cell></cell><cell></cell><cell></cell><cell cols="2">Multicategory Model (mg/dl)*</cell><cell></cell><cell></cell><cell cols="2">2003 IFG (mg/dl)*</cell><cell cols="2">1997 IFG † (mg/dl)</cell></row><row><cell></cell><cell>100 to 109</cell><cell>p Value</cell><cell>110 to 125</cell><cell>p Value</cell><cell>Diabetes</cell><cell>p Value</cell><cell>100 to 125</cell><cell>p Value</cell><cell>110 to 125</cell><cell>p Value</cell></row><row><cell>Women</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Age-adjusted</cell><cell>1.7 (0.9-3.1)</cell><cell>0.11</cell><cell>3.1 (1.6-6.1)</cell><cell>0.001</cell><cell>4.0 (2.1-7.6)</cell><cell>Ͻ0.001</cell><cell>2.1 (1.3-3.5)</cell><cell>0.005</cell><cell>2.7 (1.4-5.2)</cell><cell>0.002</cell></row><row><cell>MV-adjusted ‡</cell><cell>1.4 (0.7-2.7)</cell><cell>0.30</cell><cell>2.5 (1.2-5.0)</cell><cell>0.01</cell><cell>2.5 (1.2-5.2)</cell><cell>0.01</cell><cell>1.7 (1.0-3.0)</cell><cell>0.048</cell><cell>2.2 (1.1-4.4)</cell><cell>0.02</cell></row><row><cell>Men</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Age-adjusted</cell><cell>1.0 (0.7-1.4)</cell><cell>0.92</cell><cell>1.0 (0.6-1.7)</cell><cell>0.91</cell><cell>3.2 (2.2-4.6)</cell><cell>Ͻ0.001</cell><cell>1.0 (0.7-1.4)</cell><cell>0.99</cell><cell>1.0 (0.6-1.7)</cell><cell>0.89</cell></row><row><cell>MV-adjusted ‡</cell><cell>0.9 (0.6-1.4)</cell><cell>0.66</cell><cell>0.9 (0.5-1.5)</cell><cell>0.60</cell><cell>2.6 (1.7-3.8)</cell><cell>Ͻ0.001</cell><cell>0.9 (0.6-1.3)</cell><cell>0.55</cell><cell>0.9 (0.5-1.5)</cell><cell>0.67</cell></row></table><note>**Referent group is Ͻ5.6 mmol/l (Ͻ100 mg/dl). †Referent group is Ͻ6.1 mmol/l (Ͻ110 mg/dl). ‡Covariates: age, systolic blood pressure, hypertension treatment, total cholesterol/HDL ratio, current smoking, and BMI.Abbreviations as in Table3.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 5</head><label>5</label><figDesc>Odds Ratios and 95% Confidence Intervals for 4-Year Incidence of Diabetes Examining the 1997 and 2003 IFG Definitions in Age-and Multivariable-Adjusted Models</figDesc><table><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">2003 IFG Glucose Category,</cell><cell cols="2">1997 IFG Glucose Category,</cell></row><row><cell></cell><cell></cell><cell cols="2">Multicategory Model, mmol/l</cell><cell></cell><cell>mmol/l</cell><cell></cell><cell>mmol/l</cell><cell></cell></row><row><cell></cell><cell>5.6 to 6.0*</cell><cell>p Value</cell><cell>6.1 to 6.9*</cell><cell>p Value</cell><cell>5.6 to 6.9*</cell><cell>p Value</cell><cell>6.1 to 6.9 †</cell><cell>p Value</cell></row><row><cell>Women</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Age-adjusted</cell><cell>12.4 (6.8-22.8)</cell><cell>Ͻ0.001</cell><cell>114.5 (65.4-200.5)</cell><cell>Ͻ0.001</cell><cell>33.9 (20.1-57.3)</cell><cell>Ͻ0.001</cell><cell>42.3 (28.5-62.9)</cell><cell>Ͻ0.001</cell></row><row><cell>MV-adjusted ‡</cell><cell>9.1 (4.9-17.0)</cell><cell>Ͻ0.001</cell><cell>72.5 (40.5-129.8)</cell><cell>Ͻ0.001</cell><cell>22.3 (13.0-38.1)</cell><cell>Ͻ0.001</cell><cell>26.3 (17.4-39.8)</cell><cell>Ͻ0.001</cell></row><row><cell>Men</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Age-adjusted</cell><cell>7.2 (4.4-11.9)</cell><cell>Ͻ0.001</cell><cell>38.5 (23.8-62.1)</cell><cell>Ͻ0.001</cell><cell>14.6 (9.3-22.8)</cell><cell>Ͻ0.001</cell><cell>14.9 (10.7-20.8)</cell><cell>Ͻ0.001</cell></row><row><cell>MV-adjusted ‡</cell><cell>6.4 (3.9-10.6)</cell><cell>Ͻ0.001</cell><cell>32.4 (20.0-52.6)</cell><cell>Ͻ0.001</cell><cell>12.7 (8.1-20.0)</cell><cell>Ͻ0.001</cell><cell>12.9 (9.3-18.1)</cell><cell>Ͻ0.001</cell></row></table><note>*Referent group is Ͻ5.6 mmol/l (Ͻ100 mg/dl). †Referent group is Ͻ6.1 mmol/l (Ͻ110 mg/dl). ‡Covariates: age, body mass index, smoking.Abbreviations as in Table3.</note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="269">JACC Vol. 51, No. 3, 2008 Levitzky et al. January 22, 2008:264-70 Impact of IFG on CVD</note>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Reprint requests and correspondence: Dr. Caroline S. Fox, Framingham Heart Study, 73 Mount Wayte Avenue, Suite No. 2, Framingham, Massachusetts 01702-5827. E-mail: foxca@nhlbi. nih.gov.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Prevalence of cardiovascular and renal complications in older adults with normal or impaired glucose tolerance or NIDDM. A populationbased study</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Wingard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">L</forename><surname>Barrett-Connor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Scheidt-Nave</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Mcphillips</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="1022" to="1025" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">The relationship between glucose and incident cardiovascular events. A metaregression analysis of published data from 20 studies of 95,783 individuals followed for 12.4 years</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Coutinho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Gerstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Yusuf</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="233" to="240" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Effects of changing diagnostic criteria on the risk of developing diabetes</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">F</forename><surname>Dinneen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Maldonado</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Iii</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Leibson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="1408" to="1413" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Impaired fasting glucose and risk of diabetes in Taiwan: follow-up over 3 years</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">T</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">W</forename><surname>Gregg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Imperatore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Narayan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Res Clin Pract</title>
+		<imprint>
+			<biblScope unit="volume">60</biblScope>
+			<biblScope unit="page" from="177" to="182" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Relation of impaired fasting and postload glucose with incident type 2 diabetes in a Dutch population: the Hoorn Study</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>De Vegt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Dekker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Jager</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">285</biblScope>
+			<biblScope unit="page" from="2109" to="2113" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Follow-up report on the diagnosis of diabetes mellitus</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Genuth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">G</forename><surname>Alberti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Bennett</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="3160" to="3167" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">A change in definition results in an increased number of adults with prediabetes in the United States</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Benjamin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">L</forename><surname>Cadwell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">S</forename><surname>Geiss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Engelgau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Vinicor</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">164</biblScope>
+			<biblScope unit="page">2386</biblScope>
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Impaired glucose tolerance, but not impaired fasting glucose, is associated with increased levels of coronary heart disease risk factors: results from the Baltimore Longitudinal Study on Aging</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Blake</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Meigs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Muller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Najjar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Andres</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Nathan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="2095" to="2100" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Impaired fasting glucose and cardiovascular outcomes in postmenopausal women with coronary artery disease</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Kanaya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Herrington</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Vittinghoff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">142</biblScope>
+			<biblScope unit="page" from="813" to="820" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Lowering the criterion for impaired fasting glucose: impact on disease prevalence and associated risk of diabetes and ischemic heart disease</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Tai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">Y</forename><surname>Goh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Lee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="1728" to="1734" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Increased mortality risks of pre-diabetes (impaired fasting glucose) in Taiwan</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Wen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">Y</forename><surname>Cheng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Tsai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">L</forename><surname>Hsu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="2756" to="2761" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">High risk of cardiovascular mortality in individuals with impaired fasting glucose is explained by conversion to diabetes: the Hoorn study</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Rijkelijkhuizen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Nijpels</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Heine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Bouter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Stehouwer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Dekker</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="332" to="336" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">An approach to longitudinal studies in a community: the Framingham Study</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">R</forename><surname>Dawber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">B</forename><surname>Kannel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">P</forename><surname>Lyell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann N Y Acad Sci</title>
+		<imprint>
+			<biblScope unit="volume">107</biblScope>
+			<biblScope unit="page" from="539" to="556" />
+			<date type="published" when="1963">1963</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Report of the Expert Committee on the Diagnosis and Classification of Diabetes Mellitus</title>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="1183" to="1197" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">The Framingham Heart Study, Section 35: An Epidemiological Investigation of Cardiovascular Events: Survival Following Initial Cardiovascular Events: 30 Year Follow-Up</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Cupples</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Agostino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kiely</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">National Heart, Lung, and Blood Institute</title>
+				<meeting><address><addrLine>Bethesda, MD</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">The relative importance of selected risk factors for various manifestations of cardiovascular disease among men and women from 35 to 64 years old: 30 years of follow-up in the Framingham Study</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Stokes</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Iii</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">B</forename><surname>Kannel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Wolf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Cupples</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Agostino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">75</biblScope>
+			<biblScope unit="page" from="V65" to="73" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Corrected group prognostic curves and summary statistics</title>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">M</forename><surname>Chang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gelman</forename><surname>Pagano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Chronic Dis</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="669" to="674" />
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">User&apos;s Guide, version 9.1. Cary, NC: SAS Institute</title>
+	</analytic>
+	<monogr>
+		<title level="j">SAS</title>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Relation of pooled logistic regression to time dependent Cox regression analysis: the Framingham Heart Study</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>D'agostino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Belanger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Cupples</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">B</forename><surname>Kannel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stat Med</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="1501" to="1515" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">The meaning and use of the area under a receiver operating characteristic (ROC) curve</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Hanley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Mcneil</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Radiology</title>
+		<imprint>
+			<biblScope unit="volume">143</biblScope>
+			<biblScope unit="page" from="29" to="36" />
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Cardiovascular disease in older adults with glucose disorders: comparison of American Diabetes Association criteria for diabetes mellitus with WHO criteria</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">I</forename><surname>Barzilay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">F</forename><surname>Spiekerman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">W</forename><surname>Wahl</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">354</biblScope>
+			<biblScope unit="page" from="622" to="625" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Glucose tolerance and cardiovascular mortality: comparison of fasting and 2-hour diagnostic criteria</title>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">161</biblScope>
+			<biblScope unit="page" from="397" to="405" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+		<respStmt>
+			<orgName>DECODE Study Group, the European Diabetes Epidemiology Group</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Impaired glucose tolerance is a risk factor for cardiovascular disease, but not impaired fasting glucose. The Funagata Diabetes Study</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tominaga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Eguchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Manaka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Igarashi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Kato</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sekikawa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="920" to="924" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">The relation of fasting and 2-h postchallenge plasma glucose concentrations to mortality: data from the Baltimore Longitudinal Study of Aging with a critical review of the literature</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Sorkin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Muller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Fleg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Andres</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="2626" to="2632" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Cardiometabolic risk in impaired fasting glucose and impaired glucose tolerance: the Atherosclerosis Risk in Communities Study</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Pankow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">K</forename><surname>Kwan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">B</forename><surname>Duncan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="325" to="331" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">American Diabetes Association classification of impaired fasting glucose: impact on prevalence of impaired fasting glucose, coronary heart disease risk factors, and coronary heart disease in a community-based medical practice</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Chunawala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Linde</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Reaven</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Coll Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="293" to="297" />
+			<date type="published" when="1997">1997. 2003. 2006</date>
+		</imprint>
+	</monogr>
+	<note>Comparison of the</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Is nondiabetic hyperglycemia a risk factor for cardiovascular disease? A meta-analysis of prospective studies</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">B</forename><surname>Levitan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Song</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Ford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Liu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">164</biblScope>
+			<biblScope unit="page" from="2147" to="2155" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Report of the expert committee on the diagnosis and classification of diabetes mellitus</title>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="S5" to="20" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+	<note>Suppl</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Standards of medical care in diabetes-2006</title>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="S4" to="42" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+	<note>Suppl</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Validation of the Framingham coronary heart disease prediction scores: results of a multiple ethnic groups investigation</title>
+		<author>
+			<persName><forename type="first">D'agostino Rb</forename><surname>Sr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Grundy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Sullivan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Wilson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">286</biblScope>
+			<biblScope unit="page" from="180" to="187" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Predictive value for the Chinese population of the Framingham CHD risk assessment tool compared with the Chinese Multi-Provincial Cohort Study</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Hong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Agostino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">291</biblScope>
+			<biblScope unit="page" from="2591" to="2599" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Trends in cardiovascular complications of diabetes</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Fox</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Coady</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">D</forename><surname>Sorlie</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">292</biblScope>
+			<biblScope unit="page" from="2495" to="2499" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Levitzky</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+			<biblScope unit="volume">51</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<title level="m" type="main">Impact of IFG on CVD</title>
+		<imprint>
+			<date type="published" when="2008-01-22">January 22. 2008</date>
+			<biblScope unit="page" from="264" to="270" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

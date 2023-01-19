@@ -1,0 +1,1041 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Associations of Diabetes Mellitus and Ethnicity with Mortality in a Multiethnic Asian Population: Data from the 1992 Singapore National Health Survey</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2021-07-01">01 July 2021</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Stefan</forename><surname>Ma</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Epidemiology and Disease Control Division</orgName>
+								<orgName type="institution">Ministry of Health</orgName>
+								<address>
+									<country>Singapore, Republic of Singapore</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jeffery</forename><surname>Cutter</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Epidemiology and Disease Control Division</orgName>
+								<orgName type="institution">Ministry of Health</orgName>
+								<address>
+									<country>Singapore, Republic of Singapore</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Chee</forename><surname>Eng Tan</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Endocrinology</orgName>
+								<orgName type="institution">Singapore General Hospital</orgName>
+								<address>
+									<country>Singapore, Republic of Singapore</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Suok</forename><forename type="middle">Kai</forename><surname>Chew</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Epidemiology and Disease Control Division</orgName>
+								<orgName type="institution">Ministry of Health</orgName>
+								<address>
+									<country>Singapore, Republic of Singapore</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName><forename type="first">E</forename><surname>Shyong</surname></persName>
+							<email>eshyong@pacific.net.sg</email>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Endocrinology</orgName>
+								<orgName type="institution">Singapore General Hospital</orgName>
+								<address>
+									<country>Singapore, Republic of Singapore</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>Dr</roleName><forename type="first">E</forename><surname>Shyong Tai</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Endocrinology</orgName>
+								<orgName type="institution">Singapore General Hospital</orgName>
+								<address>
+									<addrLine>Block 6, Level 6, Room B-35, Outram Road</addrLine>
+									<postCode>169608</postCode>
+									<country key="SG">Singapore</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Associations of Diabetes Mellitus and Ethnicity with Mortality in a Multiethnic Asian Population: Data from the 1992 Singapore National Health Survey</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2021-07-01">01 July 2021</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">AFD5C93679B4D84B86998D75402E4BCD</idno>
+					<idno type="DOI">10.1093/aje/kwg199</idno>
+					<note type="submission">Received for publication January 21, 2003; accepted for publication April 17, 2003.</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.1" ident="GROBID" when="2022-07-19T23:00+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Despite the high prevalence of diabetes mellitus, little is known about mortality associated with diabetes in Asia. Therefore, the authors followed 3,492 Chinese, Malay, and Asian Indian adults randomly selected from the general population in Singapore. Data on glucose tolerance, demographic characteristics, and other cardiovascular disease risk factors (lipid profile, blood pressure, smoking status, alcohol consumption, and obesity) were obtained in 1992. Vital status was determined as of December 31, 2001. There were 108 deaths over a period of 9 years. Impaired fasting glycemia or impaired glucose tolerance (IFG/IGT) (hazard ratio (HR) = 1.39, 95% confidence interval (CI): 0.84, 2.31) and diabetes mellitus (HR = 2.49, 95% CI: 1.58, 3.94) were associated with increased mortality after adjustment for age, gender, ethnic group, and educational level. Compared with Chinese with diabetes, Indians with diabetes experienced significantly greater mortality (HR = 3.86, 95% CI: 1.76, 8.44) after adjustment for gender, age, educational level, smoking, hypertension, alcohol intake, and obesity. Undiagnosed diabetes and IFG/IGT were more common than known diabetes and also were associated with increased mortality. For reduction of mortality associated with IFG/IGT and diabetes, the authors recommend a screening program to detect undiagnosed diabetes and IFG/IGT along with aggressive treatment of diabetes after diagnosis.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Several prospective studies have documented increased mortality associated with diabetes mellitus <ref type="bibr" target="#b0">(1)</ref><ref type="bibr" target="#b1">(2)</ref><ref type="bibr" target="#b2">(3)</ref><ref type="bibr" target="#b3">(4)</ref><ref type="bibr" target="#b4">(5)</ref><ref type="bibr" target="#b5">(6)</ref><ref type="bibr" target="#b6">(7)</ref><ref type="bibr" target="#b7">(8)</ref>. Of these studies, four included more than one ethnic group <ref type="bibr" target="#b2">(3)</ref><ref type="bibr" target="#b3">(4)</ref><ref type="bibr" target="#b4">(5)</ref><ref type="bibr" target="#b7">8)</ref>. Two of the studies <ref type="bibr" target="#b2">(3,</ref><ref type="bibr" target="#b7">8)</ref>, both conducted in the United States, found that the mortality associated with diabetes differed between ethnic groups. The findings of both of the US studies suggested that mortality associated with diabetes was higher in non-Hispanic Blacks than in non-Hispanic Whites <ref type="bibr" target="#b2">(3,</ref><ref type="bibr" target="#b7">8)</ref>. This raises the possibility that ethnicity may play a role in the mortality risk associated with diabetes.</p><p>The incidence and prevalence of diabetes have been rising worldwide. However, the increase has been most pronounced in non-Europoid populations <ref type="bibr" target="#b8">(9)</ref>. China and India (each with a population of over one billion people) represent the two most populous nations in the world today. As such, Chinese and Asian Indians comprise the majority of people living in Southeast Asia. Another major ethnic group in Southeast Asia is Malays. Although the prevalence of diabetes in many Asian countries remains low, particularly in rural areas (in China, the overall prevalence of type 2 diabetes has been found to be less than 2.5 percent <ref type="bibr" target="#b9">(10)</ref>), it is clear that Chinese, Malays, and Indians have a propensity to develop diabetes. There was a notable secular increase in the prevalence of diabetes among Indians in Mauritius between 1987 and 1998 <ref type="bibr" target="#b10">(11)</ref>. The prevalence of diabetes among Chinese, Malays, and Indians in Singapore doubled between 1984 and 1992 <ref type="bibr" target="#b11">(12)</ref>. Chinese in Taiwan and Mauritius also exhibit a high prevalence of diabetes <ref type="bibr" target="#b13">(13)</ref>.</p><p>Despite the high prevalence of diabetes in these ethnic groups, there is a paucity of data on mortality associated with diabetes in Asia. Of several studies that have assessed the risk of mortality associated with diabetes (4-8, 14-18), only one (4) included significant numbers of Southeast Asians. Unfortunately, in that study, which included significant 544 Ma et al. Am J Epidemiol 2003;158:543-552 numbers of Indians and Micronesians living on the islands of Fiji, Nauru, and Mauritius, the results were adjusted for ethnic group and the mortality rates of persons with diabetes in the various ethnic groups were not compared.</p><p>The socioeconomic and public health impact of premature mortality and morbidity associated with diabetes on the workforce is a major concern. Therefore, it is important to estimate the impact of diabetes in Asian ethnic groups. The population of Singapore comprises three major ethnic groups: Chinese, Malays, and Indians. Thus, Singapore offers us a model in which to examine the effects of hyperglycemia on mortality in these three ethnic groups.</p><p>Apart from diabetes per se, there is particular concern about two groups of people with hyperglycemia. Undiagnosed or asymptomatic diabetes has been associated with the same mortality as or greater mortality than that of persons with known diabetes <ref type="bibr" target="#b19">(19)</ref>. In addition, persons with intermediate degrees of glucose intolerance also have increased risk of cardiovascular disease and mortality <ref type="bibr" target="#b20">(20)</ref>. The World Health Organization now recommends classification of the latter group as persons having impaired fasting glucose (IFG) or impaired glucose tolerance (IGT) <ref type="bibr" target="#b21">(21)</ref>.</p><p>The aim of this study was to determine the risk of mortality associated with known diabetes, newly diagnosed diabetes, and IFG/IGT in Singapore, a country with a multiethnic Southeast Asian population. A secondary aim was to determine whether the risk associated with hyperglycemia differed between Chinese, Malays, and Asian Indians.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>MATERIALS AND METHODS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study population</head><p>Between September and November of 1992, the Ministry of Health in Singapore conducted a national health survey to determine the current prevalence of major noncommunicable diseases and their risk factors in Singapore. The methods used in the survey have been described previously <ref type="bibr" target="#b11">(12)</ref>. In essence, 4,915 persons aged 18-69 years were selected from a sample of all household units in Singapore (obtained from the Department of Statistics' national database on dwellings). Disproportionate stratified sampling by ethnic group followed by systematic sampling was used to select the sample for the survey. We oversampled Malays and Asian Indians to obtain an ethnic distribution within the study population of 65.3 percent Chinese, 18.3 percent Malays, and 16.4 percent Indians as compared with a distribution of 79.6 percent, 13.2 percent, and 7.1 percent, respectively, in our resident population in 1992 (unpublished data from the Singapore Department of Statistics). This gave us sufficient numbers for statistical comparison between ethnic groups. Of the original 4,915 persons selected, 3,568 (72.6 percent) responded and participated in the survey.</p><p>Demographic data and data on lifestyle factors were collected using an interviewer-administered questionnaire. Smoking status was defined as ever smoking or never smoking. Alcohol intake was assessed using a questionnaire based on the Behavioral Risk Factor Surveillance System questionnaire of the Centers for Disease Control and Prevention. For this analysis, an alcohol drinker was defined as someone who consumed alcohol at least once per month. Educational level was ascertained according to the following classification: no formal education, Primary School Leaving Examination (reflecting the completion of 6 years of formal education), and General Certificate of Education, ordinary level (reflecting the completion of 10 years of formal education).</p><p>Height and weight were measured for all participants, and body mass index (weight (kg)/height (m) 2 ) was calculated. Blood pressure was measured at heart level using a standard mercury sphygmomanometer with the subject seated and the right arm supported by the table. A cuff of suitable size was applied 3 cm above the cubital fossa on the subject's exposed right upper arm. After the subject had rested adequately in a quiet room, two measurements were taken with a 30-second interval between measurements. If the systolic pressure between the two measurements differed by more than 25 mmHg or the diastolic pressure differed by more than 15 mmHg, a third measurement was taken. The mean of the two closest readings was then calculated. Hypertension was defined according to the criteria of the Joint National Committee on Prevention, Detection, Evaluation, and Treatment of High Blood Pressure <ref type="bibr" target="#b22">(22)</ref> as mean systolic pressure ≥140 mmHg or diastolic pressure ≥90 mmHg or both, or self-reported current use of antihypertensive medication.</p><p>Fasting venous blood was collected from each respondent after an overnight fast of 10 hours. Subjects who were not on oral hypoglycemic agents or insulin underwent a 75-g oral glucose tolerance test using the method recommended by the World Health Organization for field surveys <ref type="bibr" target="#b23">(23)</ref>. Glucose measurement was carried out on the same day by the glucose oxidase method using a Vitros 700 chemistry analyzer (Ortho-Clinical Diagnostics, Inc., Rochester, New York) (intrarun coefficient of variation, 1.2 percent; interrun coefficient of variation, 1.5 percent).</p><p>A total of 150 subjects had a history of diabetes (known diabetes). Of these, 121 were being treated with oral hypoglycemic agents or insulin. Eleven with venipuncture failure or refusal of blood testing were excluded. For this analysis, subjects were classified into three categories of glucose tolerance-normal glucose tolerance, IFG/IGT, and diabetes-using both fasting glucose and 2-hour postchallenge glucose. Diagnostic criteria were in line with those recommended by the World Health Organization <ref type="bibr" target="#b21">(21)</ref>. IFG was diagnosed if the fasting glucose level was greater than 6.0 mmol/liter and less than 7.0 mmol/liter and the 2-hour postchallenge glucose level was less than 7.8 mmol/liter. IGT was diagnosed if the fasting glucose level was less than 7.0 mmol/liter and the 2-hour postchallenge glucose level was greater than or equal to 7.8 mmol/liter and less than 11.1 mmol/liter. Diabetes was diagnosed if the fasting glucose level was greater than or equal to 7.0 mmol/liter or the 2hour postchallenge glucose level was greater than or equal to 11.1 mmol/liter. Persons with diabetes were further classified into those with known diabetes and those with newly diagnosed diabetes based on self-reported history of the disease. * Comparison of the three ethnic groups using the χ 2 test. † Reflects the completion of 6 years of formal education. ‡ Reflects the completion of 10 years of formal education. § Weight (kg)/height (m) 2 . ¶ Hypertension was defined as systolic blood pressure ≥140 mmHg or diastolic blood pressure ≥90 mmHg or both, or self-reported current use of antihypertensive medication. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Mortality follow-up</head><p>The unique identification numbers, further confirmed by sex and date of birth, for the 3,568 members of the 1992 National Health Survey cohort were matched with mortality databases provided by the Registry of Births and Deaths. Seventy-six persons were excluded because their unique identification numbers were not long enough for matching and were probably recorded incorrectly at the time of interview. Thus, vital status was determined for 97.9 percent (3,492/3,568) of the subjects as of <ref type="bibr">December 31, 2001</ref>. Mortality data with the cause of death coded by the International Classification of Diseases, Ninth Revision, and the date of death were obtained from the Registry of Births and Deaths. Cause of death was taken as the primary cause of death given on the death certificate. One death was excluded from the data analysis because the subject had died within the survey period. Therefore, 3,492 subjects were included in the final data analysis, and person-years of follow-up during the follow-up period (December 1, 1992-December 31, 2001) were then calculated for each individual.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analysis</head><p>Hazard ratios and 95 percent confidence intervals for all causes of death, adjusted for potentially confounding factors or stratified by group, were calculated using Cox's proportional hazards regression. We checked the proportional hazards assumption by plotting the log of the negative log of the estimated survival functions against log time. Because of limitations in the sample size, disease-specific mortality risk could not be determined. Plots of survival curves stratified by group were generated by means of the Kaplan-Meier method. The log-rank test was used for comparing different groups with respect to their survival distributions. All survival analyses were performed with S-Plus 2000 software (Insightful Corporation, Seattle, Washington).</p><p>In a sensitivity analysis, the analyses were repeated after all persons who died within the first year of follow-up (n = 8) had been eliminated to remove the potentially confounding effects of undiagnosed morbidity at baseline. The results were very similar. Therefore, only the results including all participants are presented.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head><p>This study provided us with a total of 31,257.9 personyears of follow-up, and the average length of follow-up was 9.0 years. Table <ref type="table" target="#tab_0">1</ref> shows the baseline characteristics of subjects from each of the three ethnic groups in this study. Indians had the highest prevalence of diabetes, followed by Malays and Chinese. In contrast, Chinese had the highest prevalence of IFG/IGT, followed by Malays and Indians. Ethnic differences in the prevalence of the various classifications of glucose tolerance were statistically significant (p &lt; 0.001).</p><p>A total of 108 subjects died during the study period, giving a mortality rate of 0.35 percent per year. Table <ref type="table" target="#tab_2">2</ref> shows allcause mortality and cardiovascular disease mortality. There The survival curves for each of these classes of glucose tolerance are shown in figure <ref type="figure">1</ref>. Analysis for this figure was carried out for the entire follow-up cohort without adjustment for other risk factors. A statistically significant increase in mortality was observed as one progressed from normal glucose tolerance to IFG/IGT, newly diagnosed diabetes, and known diabetes (log-rank test = 123, df = 3; p &lt; 0.001).</p><p>All-cause mortality rates for each category of glucose tolerance and the unadjusted and adjusted hazard ratios are shown in table 3. IFG/IGT was associated with statistically significantly increased mortality in comparison with normal glucose tolerance, although this difference became less significant after adjustment for age, sex, ethnicity, and educational level (without adjustment, hazard ratio (HR) = 2.50 (95 percent confidence interval (CI): 1.53, 4.08); after adjustment, HR = 1.39 (95 percent CI: 0.84, 2.31)). Both known diabetes and newly diagnosed diabetes were associated with increased mortality, and the hazard ratio remained statistically significant even after adjustment for age, sex, ethnicity, and educational level (without adjustment, HR = 6.61 (95 percent CI: 4.29, 10.17); after adjustment, HR = 2.49 (95 percent CI: 1.58, 3.94)).</p><p>To determine whether diabetes connotes the same risks of mortality in the different ethnic groups, we carried out survival analysis for each ethnic group separately (figure <ref type="figure">2</ref>). In these stratified analyses, we combined the known and newly diagnosed diabetes groups to increase statistical power in the smaller minority ethnic groups. In general, Indians experienced greater mortality than Chinese and Malays (tables 2 and 3). Although all three ethnic groups showed similar trends in terms of increased mortality with increasing degrees of hyperglycemia (table 4), among persons with diabetes, all-cause mortality was significantly greater in Indians and Malays than in Chinese (figure <ref type="figure">2</ref> and table <ref type="table" target="#tab_2">2</ref>). As a predictor of all-cause mortality, being an Indian with diabetes was associated with a hazard ratio of 3.86 (95 percent CI: 1.76, 8.44) in comparison with being a Chinese with diabetes (table <ref type="table" target="#tab_5">5</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCUSSION</head><p>This study had several advantages over previous studies. Firstly, the glucose tolerance of all subjects was determined through a combination of measurement of fasting glucose level and oral glucose tolerance testing. Several studies have shown that although both fasting glucose level and 2-hour postchallenge glucose level are associated with greater risk of cardiovascular disease and mortality, oral glucose tolerance testing is more sensitive and detects a larger number of at-risk persons <ref type="bibr" target="#b0">(1,</ref><ref type="bibr" target="#b14">14,</ref><ref type="bibr" target="#b24">24)</ref>. Furthermore, the glucose tolerance test we used was a standard 75-g oral glucose tolerance test, which allows our results to be readily compared with those of other studies, unlike the case for some previous studies that used nonstandard oral glucose tolerance tests for diagnosis <ref type="bibr" target="#b1">(2,</ref><ref type="bibr" target="#b7">8,</ref><ref type="bibr" target="#b15">15)</ref>. Secondly, we believe that our study represents the first time that mortality associated with diabetes has been examined and compared in Chinese, Indians, and Malays living in Southeast Asia. Thirdly, our study population was a representative sample of an entire FIGURE 1. Survival curves for subjects with normal glucose tolerance, impaired fasting glucose/impaired glucose tolerance, newly diagnosed diabetes mellitus, and known diabetes mellitus in 1992, Singapore National Health Survey, 1992-2001. Analysis of the data shown was carried out for the entire follow-up cohort without adjustment for other risk factors (log-rank test for comparison of diabetes status groups: p &lt; 0.001). country's population, with ages ranging from young adulthood to middle age. This is in contrast to several other studies, which have specifically selected for advanced age <ref type="bibr" target="#b6">(7,</ref><ref type="bibr" target="#b14">14,</ref><ref type="bibr" target="#b16">16,</ref><ref type="bibr" target="#b24">24)</ref> or included only men <ref type="bibr" target="#b1">(2,</ref><ref type="bibr" target="#b15">15)</ref> or women <ref type="bibr" target="#b17">(17)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>TABLE 3. Unadjusted and adjusted hazard ratios for all causes of death according to baseline levels of various risk factors among</head><p>Although other studies have shown that diabetes is associated with increased mortality in Chinese with established cardiovascular disease <ref type="bibr" target="#b25">(25)</ref> and stroke <ref type="bibr" target="#b26">(26)</ref>, data on the general population, such as ours, are essential for assessing the true impact of the disease on society.</p><p>Our study had some limitations, one of which is the small number of deaths that occurred during the follow-up period. This could have affected the reliability of the estimated mortality rates presented in table 2. However, we believe that the differences between groups are of sufficiently high statistical significance to suggest that the hazard ratios reflect true differences in risk between groups. The small number of deaths also precluded more detailed examination of the effects of diabetes on mortality in specific subgroups based on gender and/or age. Another limitation is that assessment of glucose tolerance and other risk factors was carried out at only one time point. It is possible that people's status might have changed upon subsequent this may have resulted in regression dilution bias. However, we feel that even if such bias were present, the implication would be that the mortality associated with the risk factors would be greater, not less, than the mortality we reported. Therefore, FIGURE 2. Survival curves (stratified by ethnic group) for subjects with normal glucose tolerance, impaired fasting glucose/impaired glucose tolerance, and diabetes mellitus in 1992, Singapore National Health Survey, 1992-2001. Analysis of the data shown was carried out for the entire follow-up cohort without adjustment for other risk factors (log-rank test for comparison of diabetes status groups: p &lt; 0.001).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>TABLE 4.</head><p>Hazard ratios for all-cause mortality according to glucose tolerance/diabetes mellitus status in the total cohort and by ethnic group, Singapore National Health Survey, 1992-2001* * Results were adjusted for demographic characteristics (gender, age, and educational level) and other baseline risk factors (smoking, hypertension, alcohol consumption, and body mass index).</p><p>† HR, hazard ratio; CI, confidence interval. In line with previous studies, our data showed that both diabetes and the intermediate stage of hyperglycemia (IFG/ IGT) are associated with increased mortality (tables 2 and 3 and figure <ref type="figure">1</ref>) among Chinese, Malays, and Indians. We also found (see table <ref type="table" target="#tab_2">2</ref>) that most of the excess mortality associated with known/newly diagnosed diabetes was related to cardiovascular disease (mortality ratio = 8.76; 95 percent CI: 4.94, 15.52). This is not surprising given that other studies of mortality in persons with diabetes have shown that cardiovascular disease is a major cause of death <ref type="bibr" target="#b18">(18)</ref>. Even among persons with no clinical evidence of cardiovascular disease antemortem, autopsy studies have revealed extensive coronary atherosclerosis in the majority of persons with diabetes <ref type="bibr" target="#b27">(27)</ref>.</p><p>The excess mortality associated with diabetes could be due to the presence of other cardiovascular disease risk factors. We previously reported that subjects with diabetes in this study population were older and more obese than those with normal glucose tolerance <ref type="bibr" target="#b28">(28)</ref>. In addition, blood pressure and serum triglyceride concentrations were higher among those with diabetes, whereas serum high density lipoprotein cholesterol concentrations were lower. Subjects with IFG/ IGT had levels of cardiovascular disease risk factors that were intermediate between those of persons with normal glucose tolerance and persons with diabetes <ref type="bibr" target="#b29">(29)</ref>. However, after adjustment for these other risk factors in the multivariate model, glucose tolerance remained a significant predictor of mortality (table <ref type="table">4</ref>), which suggests that additional features may be present that might underlie the excess mortality associated with these conditions. Singapore has undergone rapid economic development over the past 30 years. This socioeconomic growth has been accompanied by a change in disease patterns, such that today, the major causes of death in Singapore are noncommunicable diseases like cancer and cardiovascular disease. All three of the ethnic groups in this study live in close proximity and have experienced urbanization at the same time. Furthermore, the population is relatively homogenous in terms of socioeconomic class (table <ref type="table" target="#tab_0">1</ref>) and access to health care. However, the three ethnic groups have not been equally affected by urbanization in terms of diabetes prevalence.</p><p>Indians have the highest prevalence of diabetes and the greatest risk of cardiovascular disease, followed by Malays and Chinese. This is seen in both men and women <ref type="bibr" target="#b11">(12)</ref>. We have previously suggested that the greater prevalence of diabetes among Indians may contribute to the increased risk of cardiovascular disease in this ethnic group <ref type="bibr" target="#b11">(12)</ref>. However, a subsequent prospective study showed that ethnicity remained a significant predictor of cardiovascular disease even after adjustment for diabetes and other cardiovascular disease risk factors <ref type="bibr" target="#b31">(30)</ref>. Our current study provides an added dimension to those findings. In addition to a higher prevalence of diabetes, Malays and Indians with diabetes have mortality rates that are almost double those of Chinese (table <ref type="table" target="#tab_2">2</ref>). An Indian with diabetes had a greater than threefold increased risk of mortality compared with a Chinese with diabetes.</p><p>Several hypotheses could explain these findings. Firstly, Indians and Malays may have more prolonged exposure to diabetes, resulting in increased risk of mortality. Cho et al. <ref type="bibr" target="#b32">(31)</ref> showed recently that duration of diabetes significantly alters the risk of cardiovascular disease among diabetics with and without preexisting cardiovascular disease. At baseline in this study, the mean age at diagnosis among subjects with known diabetes was 47.3 years in Chinese, 45.7 years in Malays, and 45.8 years in Indians. Among persons with diabetes newly diagnosed during the baseline examination, the mean age was 48.7 years in Chinese, 47.3 years in Malays, and 44.2 years in Indians. None of these differences reached statistical significance. We believe that this lack of statistical significance may result from an inability to accurately determine the onset of diabetes due to a prolonged asymptomatic phase. Furthermore, we found that the ethnic group with the highest prevalence of diabetes had the lowest prevalence of IFG/IGT and vice versa (table <ref type="table" target="#tab_0">1</ref>). Given that IFG and IGT are thought to be intermediate stages in the development of diabetes from the same pathologic processes, it is possible that the high prevalence of IFG/IGT among Chinese is a consequence of slower progression to diabetes in this ethnic group. In contrast, Indians have the highest prevalence of diabetes and the lowest prevalence of IFG/IGT, raising the possibility that in this ethnic group, more of those at risk had converted to diabetes before they were studied. To prove this hypothesis, we would require a much longer period of follow-up with assessment of diabetes status at multiple time points. Secondly, we hypothesize that Indians and Malays have more prolonged exposure to other cardiovascular disease risk factors that are usually associated with diabetes. In Singapore, Malays and Indians are more obese than Chinese and have greater insulin resistance and lower high density lipoprotein cholesterol concentrations than Chinese <ref type="bibr" target="#b11">(12,</ref><ref type="bibr" target="#b33">32)</ref>. These are all components of the metabolic syndrome and are risk factors for cardiovascular disease. Although we previously reported that diabetes abolishes the ethnic differences in these metabolic parameters <ref type="bibr" target="#b28">(28)</ref>, the fact that these metabolic differences are present among Malays and Indians even in those with normal glucose tolerance suggests that they could well precede the development of diabetes in Malays and Indians. As with the duration of diabetes, more prolonged exposure to these risk factors could contribute to the greater mortality associated with diabetes in these ethnic groups.</p><p>Finally, we also considered the possibility that these ethnic groups other risk factors for cardiovascular disease not examined in this study. For example, Indians in Singapore have been found to exhibit higher serum concentrations of lipoprotein(a) <ref type="bibr" target="#b34">(33)</ref>, which could add to the risk of cardiovascular disease in this ethnic group.</p><p>Perhaps of greater concern than the mortality risk among persons with known diabetes is the increased mortality associated with undiagnosed diabetes and the intermediate state of IFG/IGT. Unlike the Paris Prospective Study and the Whitehall Study <ref type="bibr" target="#b19">(19)</ref>, undiagnosed diabetes in our population appears to be associated with lower mortality rates than does known diabetes. Among those with diabetes, subjects with newly diagnosed diabetes and known diabetes were similar in terms of blood pressure and lipid profiles. However, subjects with newly diagnosed diabetes were younger than persons with known diabetes <ref type="bibr" target="#b28">(28)</ref>. It is possible that the lower age in the former group accounts for the lower mortality in this group in comparison with persons with known diabetes.</p><p>While we focus on the dramatic increase in mortality associated with diabetes, we must also bear in mind the small but significant increase in mortality associated with IFG/IGTa finding that confirms data from previous studies <ref type="bibr" target="#b0">(1,</ref><ref type="bibr" target="#b14">14,</ref><ref type="bibr" target="#b24">24)</ref>, including a recent meta-analysis <ref type="bibr" target="#b20">(20)</ref>. Despite the small increase in mortality among persons with IFG/IGT as compared with diabetics, overall 16.2 percent of the population had IFG/IGT after the results were weighted back to the 1990 population (data not shown). IFG/IGT is twice as common as diabetes. As a consequence, the absolute number of deaths attributable to IFG/IGT approached that for diabetes. This has resulted in identification of this subgroup for intensive control of other cardiovascular disease risk factors, including the aggressive management of hyperlipidemia. Note also that the majority of persons classified as having IFG/IGT were classified as such on the basis of 2hour postchallenge glucose level and not fasting glucose level (data were reported previously <ref type="bibr" target="#b29">(29,</ref><ref type="bibr" target="#b35">34)</ref>). In the light of these findings, it seems likely that 2-hour postchallenge glucose will continue to play a role in the identification of persons at high risk of developing complications, especially among those with a fasting glucose level less than 7.0 mmol/ liter. Modification of the current screening strategies, which currently recommend limiting the use of an oral glucose tolerance test to persons with a fasting glucose level greater than 6.0 mmol/liter and less than 7.0 mmol/liter <ref type="bibr" target="#b35">(34)</ref>, may be required to optimize the detection of persons with IGT. This is important, because lifestyle modification <ref type="bibr" target="#b36">(35)</ref> and pharmacologic intervention <ref type="bibr" target="#b36">(35,</ref><ref type="bibr" target="#b37">36)</ref> have been shown to successfully retard the progression of these intermediate states of hyperglycemia to diabetes and to reduce cardiovascular disease <ref type="bibr" target="#b38">(37)</ref> in these subjects.</p><p>In conclusion, we have shown that IFG/IGT and diabetes are associated with significant risk of mortality in Chinese, Malays, and Asian Indians. Even in a developed country such as Singapore, the proportion of persons with undiagnosed diabetes exceeds that of persons with known diabetes. Diabetes has been identified as a coronary artery disease risk equivalent <ref type="bibr" target="#b39">(38)</ref>. It has also been shown that aggressive management of risk factors such as dyslipidemia is costeffective <ref type="bibr" target="#b40">(39,</ref><ref type="bibr" target="#b41">40)</ref> and reduces not only cardiovascular disease (37) but also mortality <ref type="bibr" target="#b42">(41)</ref> in these persons. On the basis of these data, we recommend a comprehensive screening program to detect these high-risk persons, followed by aggressive management after diagnosis in order to reduce mortality and morbidity from this disease. Such a program may be particularly important in other Southeast Asian countries where populations are similarly at risk of diabetes but remote locations make access to health care problematic.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>TABLE 1 . Distributions of socioeconomic variables and other risk factors by ethnic group among Singaporeans aged 18-69 years, Singapore National Health Survey, 1992</head><label>1</label><figDesc></figDesc><table /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>TABLE 2 . Mortality from all causes and from cardiovascular disease by ethnic group and diabetes mellitus status at baseline among Singaporeans aged 18-69 years, Singapore National Health Survey, 1992-2001</head><label>2</label><figDesc>Downloaded from https://academic.oup.com/aje/article/158/6/543/99411 by University of Michigan user on 01 July 2021</figDesc><table><row><cell></cell><cell></cell><cell cols="2">Diabetes mellitus status</cell><cell></cell><cell></cell></row><row><cell>Ethnic group</cell><cell>Normal glucose tolerance</cell><cell>Impaired fasting glucose/impaired glucose tolerance</cell><cell>Newly diagnosed diabetes</cell><cell>Known diabetes</cell><cell>Total</cell></row><row><cell>Chinese</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>No. of subjects</cell><cell>1,666</cell><cell>404</cell><cell>127</cell><cell>69</cell><cell>2,266</cell></row><row><cell>No. of deaths</cell><cell>26</cell><cell>17</cell><cell>6</cell><cell>6</cell><cell>55</cell></row><row><cell>No. of CVD* deaths</cell><cell>7</cell><cell>6</cell><cell>1</cell><cell>2</cell><cell>16</cell></row><row><cell>Person-years of follow-up</cell><cell>15,042</cell><cell>3,601</cell><cell>1,126</cell><cell>599</cell><cell>20,368</cell></row><row><cell>Mortality per 1,000 person-years</cell><cell>1.7</cell><cell>4.7</cell><cell>5.3</cell><cell>10.0</cell><cell>2.7</cell></row><row><cell>Malay</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>No. of subjects</cell><cell>467</cell><cell>102</cell><cell>43</cell><cell>33</cell><cell>645</cell></row><row><cell>No. of deaths</cell><cell>8</cell><cell>3</cell><cell>5</cell><cell>6</cell><cell>22</cell></row><row><cell>No. of CVD deaths</cell><cell>2</cell><cell>3</cell><cell>3</cell><cell>5</cell><cell>13</cell></row><row><cell>Person-years of follow-up</cell><cell>4,207</cell><cell>910</cell><cell>375</cell><cell>266</cell><cell>5,758</cell></row><row><cell>Mortality per 1,000 person-years</cell><cell>1.9</cell><cell>3.3</cell><cell>13.3</cell><cell>22.6</cell><cell>3.8</cell></row><row><cell>Indian</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>No. of subjects</cell><cell>412</cell><cell>81</cell><cell>41</cell><cell>47</cell><cell>581</cell></row><row><cell>No. of deaths</cell><cell>10</cell><cell>5</cell><cell>4</cell><cell>12</cell><cell>31</cell></row><row><cell>No. of CVD deaths</cell><cell>4</cell><cell>2</cell><cell>2</cell><cell>10</cell><cell>18</cell></row><row><cell>Person-years of follow-up</cell><cell>3,699</cell><cell>709</cell><cell>360</cell><cell>363</cell><cell>5,131</cell></row><row><cell>Mortality per 1,000 person-years</cell><cell>2.7</cell><cell>7.1</cell><cell>11.1</cell><cell>33.1</cell><cell>6.0</cell></row></table><note>* CVD, cardiovascular disease.Associations of Diabetes and Ethnicity with Mortality 547Am J Epidemiol 2003;158:543-552 was a graded increase in mortality with progression from normal glucose tolerance to IFG/IGT, newly diagnosed diabetes, and known diabetes.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Singaporeans aged 18-69 years, Singapore National Health Survey, 1992-2001</head><label></label><figDesc></figDesc><table><row><cell>* HR, hazard ratio; CI, confidence interval.  † Adjusted for gender, age, ethnic group, and educational level. Unadjusted HR* Age (years) 18-29 1.00 30-39 2.19 40-69 11.78 Ethnicity Chinese 1.00 &lt;2.30 1.00 ≥2.30 2.16  Risk factor Malay 1.41 Indian 2.24 Educational level No formal education 7.73 Primary School Leaving Examination ‡ 4.73 General Certificate of Education, ordinary level or above § 1.00 Smoking habits Never smoker 1.00 Ever smoker 2.56 Alcohol consumption Drinker 1.00 Nondrinker 1.22 Diabetes mellitus status Normal 1.00 Impaired fasting glucose/impaired glucose tolerance 2.50 Known diabetes/newly diagnosed diabetes 6.61 Body mass index ¶ &lt;18.5 0.75 18.5-24.9 1.00 25-29.9 1.27 ≥30 2.15 Hypertension# No 1.00 Yes 5.64 Low density lipoprotein cholesterol level (mmol/liter) &lt;4.14 1.00 ≥4.14 1.98 High density lipoprotein cholesterol level (mmol/liter) ≥1.0 1.00 &lt;1.0 1.60 Triglyceride level (mmol/liter)</cell><cell>95% CI* 0.83, 5.74 5.86, 26.89 1.39, 0.86, 2.32 1.44, 3.48 4.41, 13.54 2.53, 8.86 1.76, 3.74 0.80, 1.87 1.53, 4.08 4.29, 10.17 0.36, 1.57 0.81, 1.99 1.18, 3.92 3.87, 8.24 1.33, 2.94 1.06, 2.43</cell><cell>Adjusted † HR 1.00 1.70 6.55 1.00 1.00 1.21 1.39 2.39 4.62 2.13 1.00 1.00 2.06 1.00 1.18 1.00 1.39 2.49 1.12 1.00 0.78 1.35 1.00 2.56 1.00 1.13 1.00 1.07</cell><cell>95% CI 0.64, 4.49 2.80, 15.35 0.77, 1.89 0.84, 2.28 1.54, 3.73 2.55, 8.37 1.65, 5.91 1.28, 3.33 0.74, 1.88 0.84, 2.31 1.58, 3.94 0.53,2.35 0.50, 1.24 0.72, 2.51 1.71, 3.83 0.75, 1.69 0.69, 1.65</cell><cell>Downloaded from https://academic.oup.com/aje/article/158/6/543/99411 by University of Michigan user on 01 July 2021</cell></row></table><note>‡ Reflects the completion of 6 years of formal education. § Reflects the completion of 10 years of formal education. ¶ Weight (kg)/height (m)2 . # Hypertension was defined as systolic blood pressure ≥140 mmHg or diastolic blood pressure ≥90 mmHg or both, or self-reported current use of antihypertensive medication.Associations of Diabetes and Ethnicity with Mortality 549 Am J Epidemiol 2003;158:543-552</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_5"><head>TABLE 5 . Hazard ratios for all-cause mortality according to ethnicity in the total cohort and by glucose tolerance/ diabetes mellitus status, Singapore National Health Survey, 1992-2001* *</head><label>5</label><figDesc>Results were adjusted for demographic characteristics (gender, age, and educational level) and other baseline risk factors (smoking, hypertension, alcohol consumption, and body mass index).† HR, hazard ratio; CI, confidence interval.</figDesc><table><row><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="3">Glucose tolerance/diabetes mellitus status</cell><cell></cell><cell></cell></row><row><cell>Ethnic group</cell><cell></cell><cell>Total</cell><cell cols="2">Normal glucose tolerance</cell><cell cols="2">Impaired fasting glucose/ impaired glucose tolerance</cell><cell cols="2">Known diabetes/newly diagnosed diabetes</cell></row><row><cell></cell><cell>HR †</cell><cell>95% CI †</cell><cell>HR</cell><cell>95% CI</cell><cell>HR</cell><cell>95% CI</cell><cell>HR</cell><cell>95% CI</cell></row><row><cell>Chinese</cell><cell>1.00</cell><cell></cell><cell>1.00</cell><cell></cell><cell>1.00</cell><cell></cell><cell>1.00</cell><cell></cell></row><row><cell>Malay</cell><cell>1.32</cell><cell>0.72, 2.10</cell><cell>0.91</cell><cell>0.38, 2.13</cell><cell>0.80</cell><cell>0.21,3.02</cell><cell>1.68</cell><cell>0.69, 4.07</cell></row><row><cell>Indian</cell><cell>2.51</cell><cell>1.59, 3.98</cell><cell>2.17</cell><cell>0.99, 4.74</cell><cell>2.20</cell><cell>0.74, 6.40</cell><cell>3.86</cell><cell>1.76, 8.44</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">Downloaded from https://academic.oup.com/aje/article/158/6/543/99411 by University of Michigan user on 01 July 2021</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>ACKNOWLEDGMENTS</head><p>This study was funded by the Ministry of Health, Singapore.</p></div>
+			</div>
+
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Glucose tolerance and mortality: comparison of WHO and American Diabetes Association diagnostic criteria. The DECODE Study Group</title>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">354</biblScope>
+			<biblScope unit="page" from="617" to="621" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+	<note>European Diabetes Epidemiology Group. Diabetes Epidemiology: Collaborative Analysis of Diagnostic Criteria in Europe</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">High blood glucose concentration is a risk factor for mortality in middle-aged nondiabetic men: 20-year follow-up in the Whitehall Study, the Paris Prospective Study, and the Helsinki Policemen Study</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Balkau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Shipley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Jarrett</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="360" to="367" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Mortality in adults with and without diabetes in a national cohort of the U.S. population, 1971-1993</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Gu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Cowie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">I</forename><surname>Harris</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="1138" to="1145" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Isolated post-challenge hyperglycaemia confirmed as a risk factor for mortality</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Shaw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Hodge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>De Courten</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="1050" to="1054" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Subclinical states of glucose intolerance and risk of death in the U</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Saydah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Loria</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Eberhardt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">S. Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="447" to="453" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Effects of diabetes and level of glycemia on all-cause and cardiovascular mortality: The San Antonio Heart Study</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Wei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Gaskill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Haffner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="1167" to="1172" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Hyperglycaemia is associated with all-cause and cardiovascular mortality in the Hoorn population: The Hoorn Study</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>De Vegt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Dekker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">G</forename><surname>Ruhe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="926" to="931" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Diabetes, asymptomatic hyperglycemia, and 22-year mortality in black and white men: The Chicago Heart Association Detection Project in Industry Study</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">P</forename><surname>Lowe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Greenland</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="163" to="169" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Global and societal implications of the diabetes epidemic</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Zimmet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">G</forename><surname>Alberti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Shaw</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">414</biblScope>
+			<biblScope unit="page" from="782" to="787" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Prevalence of diabetes and its risk factors in China, 1994. National Diabetes Prevention and Control Cooperative Group</title>
+		<author>
+			<persName><forename type="first">X</forename><forename type="middle">R</forename><surname>Pan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">Y</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">W</forename><surname>Li</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="1664" to="1669" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Diabetes epidemiology as a tool to trigger diabetes research and care</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">Z</forename><surname>Zimmet</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="499" to="518" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title level="m" type="main">Prevalence of diabetes and ethnic differences in cardiovascular risk factors: The</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Tan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Emmanuel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">Y</forename><surname>Tan</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Singapore National Health Survey</title>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="241" to="247" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Community-based epidemiological study on diabetes in Pu-Li</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Chou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">H</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename><surname>Hsiao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="81" to="89" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">The American Diabetes Association and World Health Organization classifications for diabetes: their impact on diabetes prevalence and total and cardiovascular disease mortality in elderly Japanese-American men</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">L</forename><surname>Rodriguez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Abbott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Fujimoto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="951" to="955" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Glucose intolerance and 23-year risk of coronary heart disease and total mortality: The Honolulu Heart Program</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">L</forename><surname>Rodriguez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Lau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Burchfiel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="1262" to="1265" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Glucose tolerance and mortality in an elderly Finnish population</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Hiltunen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Laara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Kivela</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Res Clin Pract</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page" from="75" to="81" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Isolated postchallenge hyperglycemia and the risk of fatal cardiovascular disease in older women and men: The Rancho Bernardo Study</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Barrett-Connor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ferrara</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="1236" to="1239" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Cardiovascular mortality and morbidity in type-2 diabetes mellitus</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Schernthaner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Res Clin Pract</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="S3" to="13" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+	<note>suppl</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Undiagnosed NIDDM: clinical and public health issues</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">I</forename><surname>Harris</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="642" to="652" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">The relationship between glucose and incident cardiovascular events: a metaregression analysis of published data from 20 studies of 95,783 individuals followed for 12.4 years</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Coutinho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Gerstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="233" to="240" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Definition, diagnosis and classification of diabetes mellitus and its complications. Part 1: diagnosis and classification of diabetes mellitus provisional report of a WHO consultation</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">G</forename><surname>Alberti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">Z</forename><surname>Zimmet</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabet Med</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="539" to="553" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Detection, Evaluation, and Treatment of High Blood Pressure. The sixth report of the Joint National Committee on Prevention, Detection, Evaluation, and Treatment of High Blood Pressure</title>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">157</biblScope>
+			<biblScope unit="page" from="2413" to="2446" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+		<respStmt>
+			<orgName>Joint National Committee on Prevention</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">A model protocol for diabetes and other noncommunicable disease field surveys</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Dowse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Zimmet</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">World Health Stat Q</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="360" to="372" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Cardiovascular disease in older adults with glucose disorders: comparison of American Diabetes Association criteria for diabetes mellitus with WHO criteria</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">I</forename><surname>Barzilay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">F</forename><surname>Spiekerman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">W</forename><surname>Wahl</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">354</biblScope>
+			<biblScope unit="page" from="622" to="625" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Clinical predictors of morbidity and mortality in patients with myocardial infarction or revascularization who underwent cardiac rehabilitation, and importance of diabetes mellitus and exercise capacity</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Yu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Lau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">M</forename><surname>Cheung</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">85</biblScope>
+			<biblScope unit="page" from="344" to="349" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Risk factors for early death in acute ischemic stroke and intracerebral hemorrhage: a prospective hospital-based study in Asia. Asian Acute Stroke Advisory Panel</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">S</forename><surname>Wong</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stroke</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="2326" to="2330" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Coronary atherosclerosis in diabetes mellitus: a population-based autopsy study</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">Y</forename><surname>Goraya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Leibson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Palumbo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Coll Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="946" to="953" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Diabetes mellitus abolishes ethnic differences in cardiovascular risk factors: lessons from a multi-ethnic population</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Tan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Emmanuel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">Y</forename><surname>Tan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Atherosclerosis</title>
+		<imprint>
+			<biblScope unit="volume">155</biblScope>
+			<biblScope unit="page" from="179" to="186" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title level="m" type="main">Cardiovascular risk profile in individuals with borderline glycemia: the effect of the</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Lim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Tai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">Y</forename><surname>Tan</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">American Diabetes Association diagnostic criteria and the 1998 World Health Organization provisional report</title>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="278" to="282" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Risk factors and incident coronary heart disease in Chinese, Malay and Asian Indian males: The Singapore Cardiovascular Cohort Study</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Heng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">S</forename><surname>Chia</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="983" to="988" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">The impact of diabetes mellitus and prior myocardial infarction on mortality from all causes and from coronary heart disease in men</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Cho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">B</forename><surname>Rimm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Stampfer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Coll Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="954" to="960" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Isolated low HDL cholesterol: an insulin-resistant state only in the presence of fasting hypertriglyceridemia</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Tai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Emmanuel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Chew</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="1088" to="1092" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Serum lipoprotein(a) profiles in a Singaporean population</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Wong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">L</forename><surname>Chew</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">C</forename><surname>Aw</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pathology</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="225" to="229" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Screening for diabetes mellitus-a two-step approach in individuals with impaired fasting glucose improves detection of those at risk of complications</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Tai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Lim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">Y</forename><surname>Tan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabet Med</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="771" to="775" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Reduction in the incidence of type 2 diabetes with lifestyle intervention or metformin</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">C</forename><surname>Knowler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Barrett-Connor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Fowler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">346</biblScope>
+			<biblScope unit="page" from="393" to="403" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Acarbose for prevention of type 2 diabetes mellitus: the STOP-NIDDM randomised trial</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Chiasson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">G</forename><surname>Josse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Gomis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">359</biblScope>
+			<biblScope unit="page" from="2072" to="2077" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Reduced coronary events in simvastatin-treated patients with coronary heart disease and diabetes or impaired fasting glucose levels: subgroup analyses in the Scandinavian Simvastatin Survival Study</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Haffner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Alexander</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Cook</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">159</biblScope>
+			<biblScope unit="page" from="2661" to="2667" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Executive summary of the third report of the National Cholesterol Education Program (NCEP) Expert Panel on Detection, Evaluation, and of High Blood Cholesterol in Adults (Adult Treatment Panel III)</title>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">285</biblScope>
+			<biblScope unit="page" from="2486" to="2497" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Effect of simvastatin treatment on cardiovascular resource utilization in impaired fasting glucose and diabetes: findings from the Scandinavian Simvastatin Survival Study</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">H</forename><surname>Herman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Alexander</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Cook</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="1771" to="1778" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">How cost-effective is the treatment of dyslipidemia in patients with diabetes but without cardiovascular disease?</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Grover</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Coupal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Zowall</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="45" to="50" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Heart Protection Study of cholesterol lowering with simvastatin in 20,536 high-risk individuals: a randomised placebo-controlled trial</title>
+		<author>
+			<persName><surname>Mrc/Bhf</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">360</biblScope>
+			<biblScope unit="page" from="7" to="22" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

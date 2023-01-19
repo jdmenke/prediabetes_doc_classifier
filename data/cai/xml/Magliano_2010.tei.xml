@@ -1,0 +1,801 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Mortality, All-Cause and Cardiovascular Disease, Over 15 Years in Multiethnic Mauritius Impact of diabetes and intermediate forms of glucose tolerance</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2010-06-08">8 June 2010</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><roleName>PHD</roleName><forename type="first">Dianna</forename><forename type="middle">J</forename><surname>Magliano</surname></persName>
+							<email>dianna.magliano@bakeridi.edu.au.</email>
+							<affiliation key="aff0">
+								<orgName type="institution">Baker IDI Heart and Diabetes Institute</orgName>
+								<address>
+									<settlement>Melbourne</settlement>
+									<region>Victoria</region>
+									<country key="AU">Australia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>PHD</roleName><forename type="first">Stefan</forename><forename type="middle">S</forename><surname>Öderberg</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Baker IDI Heart and Diabetes Institute</orgName>
+								<address>
+									<settlement>Melbourne</settlement>
+									<region>Victoria</region>
+									<country key="AU">Australia</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Public Health and Clinical Medicine</orgName>
+								<orgName type="institution">Umeå University, and Heart Center</orgName>
+								<address>
+									<settlement>Umeå</settlement>
+									<country key="SE">Sweden</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>PHD</roleName><forename type="first">Paul</forename><forename type="middle">Z</forename><surname>Zimmet</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Baker IDI Heart and Diabetes Institute</orgName>
+								<address>
+									<settlement>Melbourne</settlement>
+									<region>Victoria</region>
+									<country key="AU">Australia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MSC</roleName><forename type="first">Bendix</forename><surname>Cartensen</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>PHD</roleName><forename type="first">Beverly</forename><surname>Balkau</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Baker IDI Heart and Diabetes Institute</orgName>
+								<address>
+									<settlement>Melbourne</settlement>
+									<region>Victoria</region>
+									<country key="AU">Australia</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department" key="dep1">Steno Diabetes Center</orgName>
+								<orgName type="department" key="dep2">Department of Biostatistics</orgName>
+								<orgName type="institution">University of Copenhagen</orgName>
+								<address>
+									<settlement>Gentofte, Copenhagen</settlement>
+									<country>Denmark, Denmark</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">Epidemiology of Diabetes</orgName>
+								<orgName type="institution" key="instit1">Institut National de la Sante ´et de la Recherche Me ´dicale Centre for Research in Epidemi-ology and Public Health (CESP) U1018</orgName>
+								<orgName type="institution" key="instit2">Obesity and Chronic Kidney Disease over the Lifecourse</orgName>
+								<address>
+									<settlement>Villejuif</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="institution">Universite ´Paris</orgName>
+								<address>
+									<addrLine>Sud 11</addrLine>
+								</address>
+							</affiliation>
+							<affiliation key="aff5">
+								<orgName type="institution">Unite ´Mixte de Recherche en Sante 1018</orgName>
+								<address>
+									<settlement>Villejuif</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>FRCP</roleName><forename type="first">Vassen</forename><surname>Pauvaday</surname></persName>
+							<affiliation key="aff6">
+								<orgName type="department">Ministry of Health and Quality of Life</orgName>
+								<orgName type="institution">Island of Mauritius</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Jaakko</forename><surname>Tuomilehto</surname></persName>
+							<affiliation key="aff7">
+								<orgName type="department">Department of Public Health</orgName>
+								<orgName type="institution" key="instit1">Hjelt Institute</orgName>
+								<orgName type="institution" key="instit2">University of Helsinki</orgName>
+								<address>
+									<settlement>Helsinki</settlement>
+									<region>South</region>
+									<country key="FI">Finland</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff8">
+								<orgName type="department">Department of Clinical and Preventive Medicine</orgName>
+								<orgName type="institution">Ostrobothnia Central Hospital</orgName>
+								<address>
+									<settlement>Seinajoki</settlement>
+									<country key="FI">Finland</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff9">
+								<orgName type="institution">Danube-University Krems</orgName>
+								<address>
+									<settlement>Krems</settlement>
+									<country key="AT">Austria</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">K</forename><surname>George</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>DPHIL</roleName><forename type="first">M</forename><forename type="middle">M</forename><surname>Alberti</surname></persName>
+							<affiliation key="aff10">
+								<orgName type="department">Department of Endocrinology and Metabolism</orgName>
+								<orgName type="institution">St. Mary&apos;s Hospital and Imperial College</orgName>
+								<address>
+									<settlement>London</settlement>
+									<country key="GB">U.K</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>FRACP</roleName><forename type="first">Jonathan</forename><forename type="middle">E</forename><surname>Shaw</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Baker IDI Heart and Diabetes Institute</orgName>
+								<address>
+									<settlement>Melbourne</settlement>
+									<region>Victoria</region>
+									<country key="AU">Australia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">•</forename><surname>• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •</surname></persName>
+						</author>
+						<title level="a" type="main">Mortality, All-Cause and Cardiovascular Disease, Over 15 Years in Multiethnic Mauritius Impact of diabetes and intermediate forms of glucose tolerance</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2010-06-08">8 June 2010</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">20BF9D36143C57A7F3E0E90C140951E1</idno>
+					<idno type="DOI">10.2337/dc10-0312</idno>
+					<note type="submission">Received 18 February 2010 and accepted 2 June 2010.</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.1" ident="GROBID" when="2022-07-19T23:00+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>OBJECTIVE -Little information is available on the impact of abnormal glucose tolerance on mortality in South Asian and African populations in the developing world. We explored this issue in a large, multiethnic cohort from the developing nation of Mauritius. METHODS -Population-based surveys were undertaken in 1987, 1992<ref type="bibr" target="#b11">, and 1998</ref>. The 9,559 participants (20 -82 years old) comprised 66% South Asian (Indian), 27% Creole (African), and 7% Chinese descent. Mortality was ascertained in 2007.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESEARCH DESIGN AND</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head><p>-Over a median 15.1-year follow-up, 1,557 participants died. Compared with those with normal glucose tolerance, the all-cause mortality hazard ratios (HR) for known diabetes, newly diagnosed diabetes, and impaired glucose tolerance were 3.35 (95% CI 2.77-4.04), 2.11 (1.73-2.57), and 1.53 (1.26 -1.87) in South Asians and 2.14 (1.65-2.79), 1.41 (1.06 -1.88), and 1.08 (0.83-1.40) in Africans, respectively. Those with impaired fasting glucose were not at increased risk in either ethnicity. In the Chinese, only those with known diabetes were at increased risk of mortality with HR 3.68 (1.87-7.25).</p><p>CONCLUSIONS -This is the first study in a developing country of the impact of glucose intolerance on mortality in an African population, and one of the first studies of a South Asian population. It shows that the impact on mortality in these populations in Mauritius is comparable to that seen in developed countries. These results are important in a global context for future health policy in light of the impact of the rapid increase in prevalence of diabetes, especially in developing nations.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>S</head><p>eventy percent of adults with diabetes live in the developing world, with India being the country with the largest number of people with diabetes <ref type="bibr" target="#b0">(1)</ref>. However, although data showing that diabetes is associated with a two to threefold increased risk of all-cause and cardiovascular (CVD) mortality in Europid populations are abundant <ref type="bibr" target="#b1">(2,</ref><ref type="bibr" target="#b2">3)</ref>, there are few or no such data for Africans and only scant data for South Asian populations living in the developing world. In South Asians, data are limited to pooled analyses of diabetes and mortality from the Diabetes Epidemiology Collaborative Analysis of Diagnostic Criteria in Asia (DECODA) collaboration <ref type="bibr" target="#b3">(4)</ref>. Within this collaboration, South Asians from two studies, a 5-year follow-up of mortality from the same cohort of Mauritians used in the current analysis and a smaller study of Fijian Indians followed over 8 years, were included. We are not aware of any prospective data on effects of type 2 diabetes on mortality in Africans living in the developing world.</p><p>The developing world imposes a very different environment from that of the developed world. There are also differences in health care systems and delivery, and there is a greater burden of communicable disease. Given these differences, data on the association between diabetes and mortality (total and CVD) collected from developed countries cannot readily be extrapolated to developing countries. Understanding the relationship of diabetes and mortality in the context of development is of paramount importance to inform decision makers of developing countries about the likely socioeconomic impact of diabetes in the future.</p><p>In this study we used national, population-based prospective data from Mauritius, a country that includes people of South Asian (Indians), African (Creoles), and Chinese ancestry to investigate the relationship of diabetes and abnormal glucose tolerance with all-cause and CVD mortality.</p><p>RESEARCH DESIGN AND METHODS -Mauritius is a subtropical island located in the Southwestern Indian Ocean with a population of ϳ1.3 million. The population is 68% South Asian (Indian) origin, 3% Chinese origin, 2% Franco Mauritians, and 27% Creole (people predominantly of African origin from Madagascar, Mozambique, Malawi, Tanzania, and Zambia). In 1987, 1992, and 1998, population-based surveys were conducted using similar standardized protocols. Details of the survey methodology and data collection have been published previously <ref type="bibr" target="#b4">(5,</ref><ref type="bibr" target="#b5">6)</ref>. In 1987, 11 randomly selected (with probability proportional to size) population clusters were surveyed. In 1992 and 1998, all original participants, plus any new residents of the original clusters were invited for further surveys. Three additional clusters were added in 1992 and resurveyed in 1998. These extra clusters were included to increase representation of the African population and to assess whether trends in disease and risk factor contribution observed in the original study cohort also occurred in these three new clusters <ref type="bibr" target="#b5">(6)</ref>. A total of 9,559 individuals were recruited over the three surveys, and 60% participated in more than one survey (28% in all three surveys). The response rates for these surveys were all Ͼ85% (5). In 2007, a mortality follow-up study of all participants used an intervieweradministered survey at the household level. Where contact with the participant was not possible, the next of kin or other household members were interviewed. For those who could not be traced, a thorough search was conducted by interview with neighbors and relatives and tracing within the national death registry to obtain vital status, cause of death, or migration status. The correct identity of each participant was validated using previously known information. Informed and written consent was obtained from all participants. The follow-up protocol was reviewed and approved by the ethics committee of the Ministry of Health and Quality of Life, Mauritius.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Risk factors at baseline</head><p>In brief, in each survey, eligible adults attended a survey site after an overnight fast. Weight, height, and waist and hip circumferences were measured. In 1987, waist circumference was measured at the narrowest point between the umbilicus and xiphoid process and in 1992 and 1998 at the midpoint between the iliac crest and lower margin of the ribs, and, thus, the 1987 waist circumference measurement was adjusted by adding 1.5 and 2.7 cm for men and women, respectively <ref type="bibr" target="#b6">(7)</ref>. Data on education, smoking, ethnicity, and leisure time physical activity were collected by trained interviewers. Education was classified as primary school/ never attended school or high school education or higher. Fasting serum samples for lipids were collected, and an oral glucose tolerance test was undertaken. Glucose assays and adjustments have been described previously <ref type="bibr" target="#b4">(5)</ref>. Glucose tolerance status was determined according to 1999 World Health Organization criteria <ref type="bibr" target="#b7">(8)</ref>. Diabetes was classified on the basis of fasting plasma glucose (FPG) Ն7.0 mmol/l or 2-h plasma glucose Ն11.1 mmol/l or current treatment with insulin or oral hypoglycemic agents. Participants reporting a history of diabetes and taking hypoglycemic medication or those with fasting and/or 2-h plasma glucose in the diabetes range were labeled as known diabetes (KDM). Participants with other cases of diabetes were labeled as newly diagnosed diabetes (NDM). Cases of diabetes were almost exclusively type 2 <ref type="bibr" target="#b8">(9)</ref>. For others, FPG Ͻ7.0 mmol/l and 2-h plasma glucose Ն7.8 mmol/l but Ͻ11.1 mmol/l indicated impaired glucose tolerance (IGT), FPG 6.1-6.9 mmol/l and 2-h plasma glucose Ͻ7.8 mmol/l indicated impaired fasting glucose (IFG), and both FPG Ͻ6.1 mmol/l and 2-h plasma glucose Ͻ7.8 mmol/l indicated normal glucose tolerance (NGT).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Causes of death</head><p>Among the 1,557 deaths, death certificates were available for 1,228 participants, relatives gave information for 1,319 participants, and hospital files were retrieved and adjudicated for 460 randomly chosen participants. No information was available for 30 deaths, other than notification of death by the next of kin. Because ICD coding was not available for deaths before 2005, causes of death were classified by study physicians into 11 groups: cardiac (n ϭ 586, 38%), cerebrovascular (n ϭ 228, 15%), cancer (n ϭ 199, 13%), trauma (n ϭ 62, 4%), diabetes (n ϭ 25, 2%), respiratory disease (n ϭ 104, 7%), hypertension (n ϭ 7, 1%), renal failure (n ϭ 85, 6%), gastrointestinal/ hepatic/alcohol (n ϭ 98, 6%), other (n ϭ 81, 5%), and not known (n ϭ 82, 5%). We defined CVD mortality to include deaths categorized as cardiac, cerebrovascular, hypertension, and renal failure as the primary cause of death. The accuracy of cause of death ascribed on the death certificate in the three groups (cardiovascular, cancer, and other) was compared with that adjudicated by study physicians using hospital records.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analyses</head><p>Characteristics of the participants are described by the mean Ϯ SD, median (25th and 75th percentile), and percentages. The censoring date for all-cause mortality was the date that the participant or next of kin was interviewed or the date of death, whichever occurred first. Ascertainment of mortality or other exit status (i.e., censored/lost to follow-up) of all participants was ascertained between 2 April 2007 and 31 October 2007. Participants who attended only one survey and then were lost to follow-up (vital status at follow-up was missing) were excluded (n ϭ 467).</p><p>For both all-cause and CVD mortality, we used the proportional hazards model (Cox model) with age as the time scale and with glucose tolerance status and all covariates updated at each survey for those present at more than one survey. The proportionality assumptions required for proportional hazards modeling for the exposures of diabetes were met.</p><p>The population attributable fraction for diabetes and all-cause mortality was calculated for each sex by the following formula (10):</p><formula xml:id="formula_0">PAR i ϭ p i ͑RR i Ϫ 1͒ 1 ϩ j ϭ1 5 p j ͑RR j Ϫ 1͒</formula><p>where p i is the proportion of individuals in the ith of five groups (1 ϭ NGT, 2 ϭ IFG, 3 ϭ IGT, 4 ϭ NDM, and 5 ϭ KDM) and RR i is the mortality rate ratio in each of these groups compared with that of those with normal glycemia, so RR 1 ϭ 1.</p><p>Analyses were performed with Stata statistical software (version 10.0; StataCorp, College Station, TX).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head><p>-At follow-up, 7,182 (75%) participants were alive, 1,557 (16%) were deceased, and 820 (9%) were lost to follow-up. Among those lost to follow-up, 353 attended at least two surveys and were censored, and 467 who attended only one survey were excluded, leaving a total study population of 9,092. The median follow-up time was 15.1 (0.12-20.5) years, and the crude death rate was 11.5 (95% CI 11.0 -12.1) per 1,000 person-years. The baseline charac-teristics of the cohort by vital status at follow-up are shown in Table <ref type="table">1</ref>.</p><p>The proportion of all deaths contributed to by diabetes (KDM and NDM) was 15% in men and 17% in women. Cause of death was available for 1,527 of the 1,557 deaths. The CVD mortality rate was 6.7 (95% CI 6.3-7.2) per 1,000 person-years. A total of 906 (58%) deaths were due to CVD (65% coronary heart disease, 25% cerebrovascular disease, 1% hypertension, and 9% renal failure). Of all deaths due to CVD, 906) occurred in individuals with abnormal glucose metabolism at baseline. The percent agreement of cause of death ascribed on the death certificate with that adjudicated by study physicians using hospital records was 63%, with no significant difference between those with and without diabetes.</p><p>Figure <ref type="figure" target="#fig_0">1</ref> shows the hazard ratios (HRs) with 95% CI by glucose tolerance categories compared with NGT for allcause and for CVD mortality, separately for the three ethnic groups. Within ethnic groups, the relative impact of diabetes and other categories of abnormal glucose tolerance on mortality was similar for both outcomes. South Asians with IGT, NDM, and KDM were at higher risk of all-cause mortality than those with NGT; the increased risk in individuals with IFG was of borderline significance. For those of African descent, only NDM and KDM had a significantly higher all-cause and CVD mortality risk compared with NGT. In the Chinese, only those with KDM were at a significantly increased risk of all-cause or CVD death. There was a significantly greater impact of diabetes (KDM and NDM) on all-cause and CVD mortality among South Asians than among Africans (interaction term: allcause mortality, P ϭ 0.003; CVD, P ϭ 0.032). The number of deaths among the Chinese was too small to draw firm conclusions about differences from other groups.</p><p>In both sexes, compared with those of South Asian descent, Africans had a similar risk of all-cause mortality and Chinese had a significantly lower all-cause mortality rate, after adjustment for other risk factors (Table <ref type="table" target="#tab_0">2</ref>). Compared with men with NGT, men with KDM, NDM, and IGT had a significantly increased risk of all-cause mortality. In women, only those with KDM or NDM were at increased risk for all-cause mortality.</p><p>For CVD mortality, in multipleadjusted analyses, NDM and KDM were risk factors in both sexes. IGT was a risk Data are median (25th, 75th percentile), means Ϯ SD, or %. For those who attended more than one survey, baseline refers to the first survey attended. Those who were missing at follow-up (n ϭ 467) were excluded. *Education is defined as completed secondary school or higher. †CVD defined as previously reported angina, coronary heart disease, stroke, or amputation. ‡Hypertension is defined as blood pressure Ն140/90 mmHg or taking antihypertensive medication.</p><p>factor for CVD mortality in men only (Table 2). When the CVD analysis was repeated using CVD deaths coded from death certification only and not adjudicated deaths, the findings were not materially different.</p><p>In a sensitivity analysis that assumed participants with missing follow-up information were alive at the last day of followup: the HRs (95% CI) for IFG, IGT, NDM, and KDM for men were 1.10 (0.80 -1.52), 1.39 (1.21-1.71), 2.03 (1.65-2.49), and 3.12 (2.53-3.86). For women, the corresponding values were 0.94 (0.58 -1.51), 1.22 (0.97-1.53), 1.51 (1.18 -1.95), and 2.33 (1.88 -2.90).</p><p>CONCLUSIONS -With the current high prevalence of diabetes and the predicted dramatic increase in the number of individuals with diabetes in many developing nations, studies of outcomes of diabetes, particularly morbidity and mortality become of prime importance. This study is one of the first to examine the impact of diabetes on all-cause and CVD mortality over the long term in a developing nation. We showed that there was a greater impact of diabetes on all-cause and CVD mortality among South Asians than among Africans. All-cause mortality risk in those with KDM, compared with that in those with NGT, was approximately doubled in Africans and in-Figure <ref type="figure" target="#fig_0">1</ref>-Adjusted all-cause (A) and CVD (B) mortality HRs (95% CIs) for IFG, IGT, NDM, and KDM compared with NGT according to ethnic group. HRs are adjusted for prior CVD, education, sex, hypertension, waist and hip circumference, smoking, HDL cholesterol, triglycerides, and total cholesterol. creased 3 1 ⁄2 times in Asian Indians and Chinese. Furthermore, there was an ϳ40 -50% increased mortality from CVD and all causes for South Asians with IGT, whereas in Africans with IGT mortality was not significantly increased. Mortality in individuals with IFG was not increased in any ethnic showed that 62% of all CVD deaths occurred in individuals with abnormal glucose regulation (KDM, NDM, IFG, or IGT) at baseline. Of all deaths, ϳ15-17% of all deaths were attributed to diabetes (KDM and NDM).</p><p>Many studies have demonstrated that diabetes is an important risk factor for both all-cause and CVD mortality in Europid populations <ref type="bibr" target="#b10">(11)</ref><ref type="bibr" target="#b11">(12)</ref><ref type="bibr" target="#b12">(13)</ref>. There are also studies of individuals of African origin living in developed countries. The Chicago Heart Association Detection Project in Industry Study showed that among 666 African American men, both asymptomatic and clinical diabetes were associated with an increased risk of death with relative risks of 1.37 (95% CI 0.85-2.20) and 1.78 (0.97-3.25) after adjustment for conventional risk factors over a period of 22 years <ref type="bibr" target="#b10">(11)</ref>. In another study of Africans from Barbados, those with diabetes had a HR for all-cause and CVD mortality of 1.80 (95% CI 1.53-2.11) and 2.10 (1.69 -2.59), respectively, over a follow-up period of 9 years <ref type="bibr" target="#b13">(14)</ref>. There are, however, no data about diabetes and mortality in Africans living in developing countries. In the DECODA study, the HR for KDM for Asians of 3.22 (2.50 -4.14) was similar to our estimate for South Asians and Chinese <ref type="bibr" target="#b3">(4)</ref>. DECODA in-cludes data from a shorter follow-up (5 years) of Mauritians from our study population. In the Asia Pacific Cohort Collaboration, a pooling project that includes studies from Southeast Asia (Japan, Hong Kong, Taiwan, Korea, and China), New Zealand, and Australia, the HRs associated with diabetes for all-cause mortality for south-east Asians and non Asians were 1.62 and 1.76, lower than our estimates <ref type="bibr" target="#b14">(15)</ref>.</p><p>Our findings that IGT but not IFG is associated with an increased risk of mortality are consistent with several studies <ref type="bibr" target="#b1">(2,</ref><ref type="bibr" target="#b3">4,</ref><ref type="bibr" target="#b15">16)</ref>. The Diabetes Epidemiology: Collaborative Analysis of Diagnostic Criteria in Europe (DECODE) and DECODA studies have demonstrated that when 2-h plasma glucose elevation is controlled for, fasting glucose within the nondiabetic range is not associated with increased mortality <ref type="bibr" target="#b1">(2,</ref><ref type="bibr" target="#b3">4)</ref>. Contrasting findings include those of Coutinho et al. <ref type="bibr" target="#b15">(16)</ref>, who showed that IFG was significantly associated with fatal and nonfatal CVD events but were unable to separate IFG from diabetes and IGT based on 2-h plasma glucose. <ref type="bibr">Barr et al. (3)</ref> showed that IGT was associated with all-cause but not CVD mortality and that IFG predicted all-cause and CVD mortality, but the follow-up was only 5 years. We found no evidence of an impact of IFG on all-cause or CVD mortality in any ethnic group. The reasons for the discrepancy among study findings is not known but could be due to differences in the populations studied, the study design, or the length of follow-up.</p><p>The proportion of all deaths contrib-uted to by diabetes (KDM and NDM) of 15% in men and 17% in women, in this study is higher than has been reported in other studies. In the Asia Pacific Cohort Collaboration, the overall population attributable fraction of diabetes ranged from 2.3 to 12.2% for coronary heart disease and was reported to be 6% for allcause mortality in Thailand <ref type="bibr" target="#b16">(17)</ref>. Our figure of 15-17% highlights the possible benefit of initiating lifestyle-based or pharmaceutical intervention, especially in the light of recent evidence of the efficacy of lifestyle intervention for diabetes <ref type="bibr">(18 -20)</ref>.</p><p>Several studies have shown that abnormal glucose metabolism is present in approximately two-thirds of patients with acute myocardial infarction or coronary artery disease <ref type="bibr" target="#b2">(3,</ref><ref type="bibr">21,</ref><ref type="bibr">22</ref>). In the current analysis, we have shown that 62% of all CVD deaths occurred in those with either diabetes, IFG, or IGT at baseline. This finding suggests that the public health benefits of targeting CVD prevention for those with pre-diabetes and the early stages of type 2 diabetes would probably be of great benefit. Such strategies are underpinned by evidence from trials <ref type="bibr" target="#b17">(18,</ref><ref type="bibr">20,</ref><ref type="bibr">23)</ref>.</p><p>The strengths of this study include a large national, population-based sample with excellent response rates and an extremely low loss to follow-up of 8.6%. Sensitivity analyses, which assumed that all participants who were lost to follow-up were alive at the last day of mortality ascertainment, showed that the HR for all-cause mortality across the spec- trum of categories of glucose intolerance differed little from the point estimates of the primary analyses, indicating the robustness of the findings of this study. This study is not without limitations. Cause of death was ascertained by death certificates, hospital records, and next of kin. Further, in Mauritius, information on death certificates was not ICD9 or ICD10 coded and was not available electronically before 2005; thus, ICD codes were unavailable for this study. Instead, causes of death were coded into broad categories based on the text written on death certificates. It is possible that some misclassification has occurred. It is important to note that this limitation only affects the CVD mortality data and not the all-cause mortality data. However, adjudication of cause of death of 19% of deaths using hospital records compared with text on the death certificate showed good agreement. Furthermore, in sensitivity analyses, the CVD findings are not materially changed when cause of death coding was based on the death certificate or information on the certified extract of death. Finally, the small number of Chinese participants limits our ability to provide any certainty regarding the HR estimates for this ethnic group.</p><p>impact of diabetes on all-cause and CVD mortality in South Asians and Africans living in a developing country is just as large as it is in the developed world. Health policy and planning agencies in developing countries need to recognize and plan for the rapid emergence and escalation of noncommunicable diseases, especially diabetes and CVD, with the latter likely to be as important a component of the disease spectrum in developing countries as it is in developed countries. </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Table 1 -</head><label>1</label><figDesc>Baseline characteristics of the cohort by ethnic group according to vital status and sex Baseline risk 45) 54 (46, 63) 37 (30, 47) 58 (49, 65) 38 (31, 49) 57 (47, 64) 39 (31, 52) 57 (50, 65) 44 (35, 53) 61 (55, 68) 43 (35, 51) 63 (56, 67)</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 2 -Adjusted HRs (95% CI) for all-cause and CVD mortality in the total population according to sex</head><label>2</label><figDesc>Data were analyzed using a proportional hazards model (Cox-model) with age as the time scale and with glucose tolerance and all covariates updated at each survey for those present at more than one survey. Those who were missing at follow-up and did not contribute any follow-up information (n ϭ 467) were excluded, whereas those who attended more than one survey but whose vital status could not be ascertained were censored (n ϭ 353). HRs are adjusted for waist and hip circumference, smoking, hypertension, ethnicity, prior CVD, education, HDL cholesterol, triglycerides, and total cholesterol.</figDesc><table><row><cell></cell><cell></cell><cell cols="2">HRs (95% CI)</cell><cell></cell></row><row><cell></cell><cell cols="2">All-cause mortality</cell><cell cols="2">CVD mortality</cell></row><row><cell>Baseline characteristic</cell><cell>Men</cell><cell>Women</cell><cell>Men</cell><cell>Women</cell></row><row><cell>Number of deaths (n/N)</cell><cell>892/4,171</cell><cell>665/4,921</cell><cell>517/4,171</cell><cell>389/4,921</cell></row><row><cell>Ethnicity</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>South Asian</cell><cell>1.00</cell><cell>1.0</cell><cell>1.0</cell><cell>1.0</cell></row><row><cell>African</cell><cell>1.07 (0.91-1.26)</cell><cell>0.86 (0.71-1.03)</cell><cell>0.86 (0.70-1.07)</cell><cell>0.74 (0.57-0.95)</cell></row><row><cell>Chinese</cell><cell>0.60 (0.47-0.78)</cell><cell>0.62 (0.41-0.92)</cell><cell>0.35 (0.23-0.54)</cell><cell>0.48 (0.26-0.87)</cell></row><row><cell>Glucose tolerance status</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>NGT</cell><cell>1.00</cell><cell>1.00</cell><cell>1.00</cell><cell>1.00</cell></row><row><cell>IFG</cell><cell>1.13 (0.82-1.56)</cell><cell>0.90 (0.56-1.45)</cell><cell>1.24 (0.82-1.87)</cell><cell>0.66 (0.32-1.38)</cell></row><row><cell>IGT</cell><cell>1.39 (1.12-1.71)</cell><cell>1.21 (0.96-1.53)</cell><cell>1.37 (1.02-1.83)</cell><cell>1.16 (0.84 -1.59)</cell></row><row><cell>NDM</cell><cell>2.00 (1.63-2.46)</cell><cell>1.56 (1.22-2.01)</cell><cell>2.04 (1.56-2.67)</cell><cell>1.78 (1.29-2.46)</cell></row><row><cell>KDM</cell><cell>3.29 (2.68-4.03)</cell><cell>2.51 (2.03-3.11)</cell><cell>3.66 (2.82 -4.73)</cell><cell>3.11 (2.37-4.08)</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head></head><label></label><figDesc>Louheranta A, Rastas M, Salminen V, Uusitupa M, Finnish Diabetes Prevention Study Group. Prevention of type 2 diabetes mellitus by changes in lifestyle among subjects with impaired glucose tolerance. N Engl J Med 2001;344:1343-1350 19. Knowler WC, Barrett-Connor E, Fowler SE, Hamman RF, Lachin JM, Walker EA, Nathan DM, Diabetes Prevention Program Research Group. Reduction in the incidence of type 2 diabetes with lifestyle intervention or metformin [see comment]. N Engl J Med 2002;346:393-403 20. Li G, Zhang P, Wang J, Gregg EW, Yang W, Gong Q, Li H, Li H, Jiang Y, An Y, Shuai Y, Zhang B, Zhang J, Thompson TJ, Gerzoff RB, Roglic G, Hu Y, Bennett PH. The long-term effect of lifestyle interventions to prevent diabetes Da Qing Diabetes Prevention Study: a 20year follow-up study. Lancet 2008;371: 1783-1789 21. Bartnik M, Ryde ´n L, Ferrari R, Malmberg K, Pyo ¨ra ¨la ¨K, Simoons M, Standl E, Soler-Soler J, Ohrvik J, Euro Heart Survey Investigators. The prevalence of abnormal glucose regulation in patients with coronary artery disease across Eu-rope. The Euro Heart Survey on diabetes and the heart. Eur Heart J 2004;25: 1880 -1890 22. Ramachandran A, Chamukuttan S, Immaneni S, Shanmugam RM, Vishnu N, Viswanathan V, Jaakko T. High incidence of glucose intolerance in Asian-Indian subjects with acute coronary syndrome.</figDesc><table><row><cell>Diabetes Care 2005;28:2492-2496</cell></row><row><cell>23. Gaede P, Vedel P, Larsen N, Jensen GV,</cell></row><row><cell>Parving HH, Pedersen O. Multifactorial</cell></row><row><cell>interventions and cardiovascular disease</cell></row><row><cell>in patients with type 2 diabetes. N Engl</cell></row><row><cell>J Med 2003;348:383-393</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">DIABETES CARE, VOLUME 33, NUMBER 9, SEPTEMBER 2010 care.diabetesjournals.org</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">care.diabetesjournals.org DIABETES CARE, VOLUME 33, NUMBER 9, SEPTEMBER 2010</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgments</head><p>No potential conflicts of interest relevant to this article were reported. D.J.M. and S.S. wrote the manuscript and cleaned the data. P.Z.Z. designed and super-vised the cross-sectional studies and reviewed/ edited the manuscript. B.C. and B.B. provided advice on statistical methods, V.P. and S.K. contributed to data collection. J.T., K.G.G.M.A., and J.E.S. reviewed/edited the manuscript.</p><p>We are most grateful to the staff at the Ministry of Health and Quality of Life in Mauritius for conducting both the baseline and the follow-up study. We thank the participants for volunteering their time to be involved in the study. We acknowledge, in particular, the work of Gary Dowse, Department of Health, Western Australia; Max De Courten, University of Copenhagen, Copenhagen, Denmark; Ray Sparks, Department of Pathology, Monash University, Melbourne, Victoria, Australia; and Pierrot Chitson, Ministry of Health, Mauritius, for their work on the cross-sectional surveys.</p></div>
+			</div>
+
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Diabetes and impaired glucose tolerance</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Sicree</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Shaw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">Z</forename><surname>Zimmet</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Diabetes Atlas</title>
+				<meeting><address><addrLine>Belgium</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<biblScope unit="page">180</biblScope>
+		</imprint>
+	</monogr>
+	<note>4th ed. Gan D, Ed. Brussels</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Glucose tolerance and mortality: comparison of WHO and American Diabetes Association diagnostic criteria. The DE-CODE Study Group</title>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">354</biblScope>
+			<biblScope unit="page" from="617" to="621" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+	<note>European Diabetes Epidemiology Group Diabetes Epidemiology: Collaborative Analysis of Diagnostic Criteria in Europe</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">Risk of cardiovascular and all-cause mortality in individuals with diabetes mellitus, impaired fasting glucose, and impaired glucose tolerance: the Australian Diabetes, Obesity, and Lifestyle Study (AusDiab). Circulation</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">L</forename><surname>Barr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">Z</forename><surname>Zimmet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Welborn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Jolley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Magliano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Dunstan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Cameron</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Dwyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">R</forename><surname>Taylor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Tonkin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">Y</forename><surname>Wong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mcneil</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Shaw</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<biblScope unit="volume">116</biblScope>
+			<biblScope unit="page" from="151" to="157" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Hyperglycaemia and mortality from all causes and from cardiovascular disease in five populations of Asian origin</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Nakagami</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="385" to="394" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">High incidence of type 2 diabetes and increasing conversion rates from impaired fasting glucose and impaired glucose tolerance to diabetes in Mauritius</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>So ¨derberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Zimmet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tuomilehto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>De Courten</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">K</forename><surname>Dowse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Chitson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Stenlund</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Gareeboo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">G</forename><surname>Alberti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Shaw</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">256</biblScope>
+			<biblScope unit="page" from="37" to="47" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Increasing prevalence of type 2 diabetes mellitus in all ethnic groups in Mauritius</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>So ¨derberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Zimmet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tuomilehto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>De Courten</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">K</forename><surname>Dowse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Chitson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Gareeboo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">G</forename><surname>Alberti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Shaw</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabet Med</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="61" to="68" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Comparisons of waist circumferences measured at 4 sites</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Thornton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Williamson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Gallagher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">B</forename><surname>Heymsfield</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Horlick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kotler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Laferre `re</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Mayer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">X</forename><surname>Pi-Sunyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">N</forename><surname>Pierson</surname><genName>Jr</genName></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Clin Nutr</title>
+		<imprint>
+			<biblScope unit="volume">77</biblScope>
+			<biblScope unit="page" from="379" to="384" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m" type="main">World Health Organization. Definition, Diagnosis and Classification of Diabetes Mellitus and its Complications; Part 1: Diagnosis and Classification of Diabetes Mellitus. Geneva</title>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<pubPlace>Switzerland</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Department of Noncommunicable Disease Surveillance</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">The prevalence of coronary heart disease in the multi-ethnic and high diabetes prevalence population of Mauritius</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tuomilehto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Dowse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Gareeboo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Chitson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Fareed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Min</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">G</forename><surname>Alberti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Zimmet</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">233</biblScope>
+			<biblScope unit="page" from="187" to="194" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Plasma glucose levels as predictors of diabetes: the Mexico City diabetes study</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Ferrannini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Massari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Nannipieri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Natali</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Ridaura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Gonzales-Villalpando</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="818" to="824" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">asymptomatic hyperglycemia, and 22-year mortality in black and white men. The Chicago Heart Association Detection Project in Industry Study</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">P</forename><surname>Lowe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Greenland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">E</forename><surname>Metzger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Dyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Stamler</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Diabetes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="163" to="169" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Mortality from coronary heart disease in subjects with type 2 diabetes and in nondiabetic subjects with and without prior myocardial infarction</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Haffner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lehto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Ro ¨nnemaa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Pyo</forename><surname>¨ra ¨la</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">¨k</forename><surname>Laakso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">339</biblScope>
+			<biblScope unit="page" from="229" to="234" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Relationship between diabetes and mortality: a population study using record linkage</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Morgan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Currie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Peters</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="1103" to="1107" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Barbados Eye Studies Group. Open-angle glaucoma and mortality: The Barbados Eye Studies</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">Y</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Nemesure</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Hennis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Schachat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Hyman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Leske</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Ophthalmol</title>
+		<imprint>
+			<biblScope unit="volume">126</biblScope>
+			<biblScope unit="page" from="365" to="370" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Asia Pacific Cohort Studies Collaboration. The effects of diabetes on the risks of major cardiovascular diseases and death in the Asia-Pacific region</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Woodward</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Barzi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Pan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ueshima</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rodgers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Macmahon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="360" to="366" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">The relationship between glucose and incident cardiovascular events. A metaregression analysis of published data from 20 studies of 95,783 individuals followed for 12.4 years</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Coutinho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Gerstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Yusuf</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="233" to="240" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Asia Pacific Cohort Studies Collaboration. Prevalence of diabetes mellitus and population attributable fractions for coronary heart disease and stroke mortality in the WHO South-East Asia and Western Pacific regions</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Huxley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">H</forename><surname>Lam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Martiniuk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ueshema</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">H</forename><surname>Pan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Welborn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Woodward</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Asia Pac J Clin Nutr</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="187" to="192" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tuomilehto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lindstro ¨m</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Eriksson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">T</forename><surname>Valle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ha ¨ma ¨la ¨inen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Ilanne-Parikka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Keina ¨nen-Kiukaanniemi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Laakso</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

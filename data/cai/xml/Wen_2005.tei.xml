@@ -1,0 +1,1324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Increased Mortality Risks of Pre-Diabetes (Impaired Fasting Glucose) in Taiwan</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><roleName>MD, DRPH</roleName><forename type="first">Chi</forename><surname>Pang Wen</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Division of Health Policy Research</orgName>
+								<orgName type="institution">National Health Research Institutes</orgName>
+								<address>
+									<country>Taiwan, Republic of China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Ting</forename><surname>Yuan</surname></persName>
+						</author>
+						<author role="corresp">
+							<persName><roleName>MS</roleName><forename type="first">David</forename><surname>Cheng</surname></persName>
+							<email>cwengood@nhri.org.tw.</email>
+						</author>
+						<author>
+							<persName><roleName>PHD</roleName><forename type="first">Shan</forename><surname>Pou Tsai</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Epidemiology</orgName>
+								<orgName type="institution">Johns Hopkins Bloomberg School of Public Health</orgName>
+								<address>
+									<settlement>Baltimore</settlement>
+									<region>Maryland</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="institution" key="instit1">University of Texas</orgName>
+								<orgName type="institution" key="instit2">Health Science Center at Houston</orgName>
+								<address>
+									<settlement>Houston</settlement>
+									<region>Texas</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MS</roleName><forename type="first">Hui</forename><forename type="middle">Ling</forename><surname>Hsu</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Division of Health Policy Research</orgName>
+								<orgName type="institution">National Health Research Institutes</orgName>
+								<address>
+									<country>Taiwan, Republic of China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>PHD</roleName><forename type="first">Shu</forename><forename type="middle">Li</forename><surname>Wang</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Division of Environmental Health and Occupational Medicine</orgName>
+								<orgName type="institution">National Health Research Institutes</orgName>
+								<address>
+									<country>Taiwan, Republic of China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">•</forename><surname>• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff4">
+								<orgName type="institution">Chi Pang Wen</orgName>
+								<address>
+									<addrLine>35, Keyan Road</addrLine>
+									<postCode>350</postCode>
+									<settlement>Zhunan Town</settlement>
+									<region>Miaoli County</region>
+									<country key="TW">Taiwan, ROC</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Increased Mortality Risks of Pre-Diabetes (Impaired Fasting Glucose) in Taiwan</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">FEE6634EBF77AC47888E3FE4D23A521D</idno>
+					<note type="submission">Received for publication 13 March 2005 and accepted in revised form 22 July 2005.</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.1" ident="GROBID" when="2022-07-19T23:00+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>ADA, American Diabetes Association</term>
+					<term>CVD, cardiovascular disease</term>
+					<term>DBP, diastolic blood pressure</term>
+					<term>DECODE, Diabetes Epidemiology: Collaborative Analysis of Diagnostic Criteria in Europe</term>
+					<term>FPG, fasting plasma glucose</term>
+					<term>IFG, impaired fasting glucose</term>
+					<term>IGT, impaired glucose tolerance</term>
+					<term>SBP, systolic blood pressure</term>
+					<term>WHO, World Health Organization</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>OBJECTIVE -The objective of this article was to assess mortality risks at different levels of fasting blood glucose (FBG) in Taiwan, with particular attention to those pre-diabetic subjects with impaired fasting glucose (IFG).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESEARCH DESIGN AND METHODS</head><p>-Governmental employees and schoolteachers were followed up for an average of 11 years. With the use of Cox regression analyses, mortality risks were calculated for 36,386 subjects, aged 40 -69.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head><p>-FBG Ն110 mg/dl was associated with increased mortality risks for all causes, cardiovascular diseases (CVD), and diabetes. IFG, when defined as 110 -125 mg/dl, was associated with a significant increase for CVD and/or diabetes mortality. These mortality risks remained elevated when known CVD risk factors were adjusted for. The IFG group shared risk factor characteristics more with the FBG Ն126 mg/dl group than with the FBG Ͻ110 mg/dl group. When IFG was defined as 100 -125 mg/dl, the number of subjects quadrupled, but mortality risks diminished substantially because of the inclusion of 100 -109 mg/dl group. The lowest FBG group, 50 -75 mg/dl, had a significant 2-fold risk from all causes.</p><p>CONCLUSIONS -There was an overall J-shaped relationship between all-cause mortality and FBG. IFG, when defined as 110 -125 mg/dl, is an independent risk factor and should be aggressively treated as a disease because its subsequent mortality risks for CVD and diabetes were significantly increased. The newly defined IFG at 100 -125 mg/dl did not have the predictive power for later increases in CVD or diabetes mortality.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>P</head><p>re-diabetes, defined as impaired fasting glucose (IFG) or impaired glucose tolerance (IGT), has received increasing attention for its propensity to become diabetes and for the potential it presents for prevention <ref type="bibr" target="#b0">(1)</ref><ref type="bibr" target="#b1">(2)</ref><ref type="bibr" target="#b2">(3)</ref><ref type="bibr" target="#b3">(4)</ref>. The definition of IFG, fasting blood glucose (FBG) at 110 -125 mg/dl, was lowered to FBG 100 -125 mg/dl in 2003 <ref type="bibr" target="#b4">(5)</ref>. Such a modification provoked controversy and was challenged as to its appropriateness <ref type="bibr">(6 -10)</ref>. It reportedly would more than double the number of those with pre-diabetes in the U.S. <ref type="bibr" target="#b5">(6,</ref><ref type="bibr" target="#b10">11)</ref> or in Singapore <ref type="bibr" target="#b9">(10)</ref>. The basis for such lowering was not made immediately clear <ref type="bibr" target="#b4">(5)</ref>, but it seems to have come more from theoretical extrapolations from a few studies than from long-term outcome studies. For the purpose of predicting diabetes from pre-diabetes, the lowering of the IFG cut point was an attempt to reduce falsenegative results and to increase truepositive results to the maximal extent. However, in so doing, a large number of false-positive results are created. Al-though the benefits of early intervention have been assumed, whether it is still cost effective to intervene in a much larger population with pre-diabetes, one that more than doubles the original number of subjects with IFG, remains unsettled <ref type="bibr" target="#b5">(6,</ref><ref type="bibr" target="#b7">8)</ref>. Nevertheless, the recent change reflected the trend to lower the cut point for either diabetes or pre-diabetes by the American Diabetes Association (ADA) and the World Health Organization (WHO) <ref type="bibr" target="#b0">(1,</ref><ref type="bibr" target="#b3">4)</ref>, with the expectation that progression of pre-diabetes into diabetes or the development of cardiovascular diseases (CVD) can be prevented through earlier awareness and intervention <ref type="bibr" target="#b2">(3,</ref><ref type="bibr" target="#b11">12,</ref><ref type="bibr" target="#b12">13)</ref>.</p><p>IFG, or pre-diabetes, is "not considered as a clinical entity in its own right, but rather a risk factor for future diabetes" <ref type="bibr" target="#b13">(14)</ref>. The reason is that, although IFG is associated with elevated mortality risks <ref type="bibr" target="#b1">(2,</ref><ref type="bibr" target="#b14">(15)</ref><ref type="bibr" target="#b15">(16)</ref><ref type="bibr" target="#b16">(17)</ref><ref type="bibr" target="#b17">(18)</ref><ref type="bibr" target="#b18">(19)</ref><ref type="bibr" target="#b19">(20)</ref><ref type="bibr" target="#b20">(21)</ref>, these risks could attenuate or lose statistical significance when associated risk factors were adjusted. Because only a few studies assessed the long-term risks of IFG and were based mainly on Caucasian populations with largely inconclusive results <ref type="bibr" target="#b20">(21)</ref><ref type="bibr" target="#b21">(22)</ref><ref type="bibr">(23)</ref><ref type="bibr" target="#b22">(24)</ref><ref type="bibr" target="#b23">(25)</ref><ref type="bibr" target="#b24">(26)</ref><ref type="bibr" target="#b25">(27)</ref><ref type="bibr" target="#b26">(28)</ref><ref type="bibr" target="#b27">(29)</ref>, we evaluated this subject from an on-going large cohort study in Taiwan by calculating the mortality risks at different levels of FBG. Clarifying the predictive value of IFG will have important policy implications and will be useful for clinician's management.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESEARCH DESIGN AND</head><p>METHODS -Details of this cohort and its limitation have been reported elsewhere <ref type="bibr" target="#b28">(30,</ref><ref type="bibr" target="#b29">31)</ref>. The cohort studied in this article (36,386 subjects) was selected from a pool of more than 76,000 individuals, aged Ն40, who went through an employer-sponsored medical examination program between 1989 and 1992. The subjects were mainly white-collar civil servants and teachers, with Ͼ75% college graduates. In the course of medical checkups, a medical history detailing, among other facts, the presence of physiciandiagnosed diabetes or associated medication was recorded. In addition, a health risk appraisal questionnaire, eliciting lifestyle and health risk factors, was administered to each subject. Anthropometric and blood pressure measurements, collection of blood, and laboratory analyses were performed, in addition to hands-on physical examinations by physicians.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Blood analysis</head><p>All subjects visited one centrally located clinic in Taipei City in the morning after overnight fasting. Venous blood specimens collected were centrifuged shortly afterward, within 30 min, for analysis. Specimens were then processed with a Hitachi 730-20 AutoAnalyzer using the glucose oxidase method for FBG analysis (Wako, Osaka, Japan). For description of characteristics, the cohort was divided into five groups, those with FBG Ͻ100 mg/dl, 100 -109 mg/dl, 110 -125 mg/dl (IFG), Ն126 mg/dl (screened diabetes), and subjects with known diabetes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Outcome follow-up</head><p>A nationwide mortality computer file has been maintained by the government since 1971. In this study, a search was conducted on data from 1990 to 2001 from this Taiwan mortality file. We limited our mortality analysis to men (n ϭ 23,755) because of the small number of female deaths. By the end of 2001, 1,060 male deaths were identified and coded, using the WHO ICD-9 <ref type="bibr" target="#b30">(32)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analysis</head><p>Relative risks were calculated by comparing the age-adjusted mortality rates of different levels of FBG with the reference group, FBG between 90 and 109 mg/dl. In addition, another reference group, defined as FPG 90 -99 mg/dl, was used to assess differences in relative risks from the recently revised IFG definition <ref type="bibr" target="#b4">(5)</ref>. A Cox proportionate hazard model was used to make adjustments on CVD risk factors, i.e., systolic blood pressure (SBP) (Ն140 or Ͻ140 mmHg), diastolic blood pressure (DBP) (Ն90 or Ͻ90 mmHg), smoking (never, ex-smoker, or current smoker), total serum cholesterol (Ն240 or Ͻ240 mg/dl), and BMI (Ն24 or Ͻ24 kg/m 2 ). The cut points selected for cholesterol at 240 mg/dl <ref type="bibr" target="#b31">(33)</ref> and BMI at 24 kg/m 2 <ref type="bibr">(34 -36)</ref> in risk adjustment were based on data from the literature. RESULTS -IFG 110 -125 mg/dl includes 7.8% of men and 4.0% of women (Table <ref type="table" target="#tab_0">1</ref>), and the group is ϳ3 times the size of the group with "known diabetes" (2.6% of men and 1.1% of women) and twice the size of the additional group with "screened diabetes" (3.4% of men and 1.3% of women). The addition of those With the use of those with FBG at 90 -109 mg/dl as the group to compare with, those with IFG at 50 -75, 140 -179, and Ն180 mg/dl and those with known diabetes showed significantly increased risks for all-cause mortality (Table <ref type="table" target="#tab_1">2</ref>). For those with the three FBG levels Ն126 mg/ dl, i.e., 126 -139, 140 -179, and Ն180, mortality risks for CVD, diabetes, or CVD and diabetes combined, generally increased with increasing levels of blood glucose. A similar pattern of mortality increases was seen for the known diabetes group, with the magnitude of the increase similar to that for the group at Ն180 mg/ dl. The IFG group, defined as 110 -125 mg/dl, had significantly increased mortality risks for CVD, diabetes, and CVD and diabetes. Upon adjustments for CVD risk factors, all increased relative risks (RRs) for IFG remained elevated. Specifically, the adjusted RR for CVD and diabetes at 1.4 was borderline significant, with P ϭ 0.08. With those with FBG 90 -99 mg/dl being used as the comparison group in Table <ref type="table" target="#tab_1">2</ref>, the 100 -125 mg/dl group, the group recently classified as having IFG by ADA criteria <ref type="bibr" target="#b4">(5)</ref>, failed to show significant increases in either all-cause or CVD mortality. When this group was split into two, 100 -109 mg/dl and 110 -125 mg/dl, and examined separately, the latter group, but not the former, had a significantly increased risk for CVD, diabetes, or both.</p><p>The relationships between FPG and mortality risks for all causes are graphically presented in Fig. <ref type="figure" target="#fig_0">1</ref>. The J-shaped curve reflects increases at both ends of the FBG spectrum and remained similar with the inclusion of known diabetes.</p><p>Table <ref type="table" target="#tab_2">3</ref> shows relative risks at different FBG levels, with those having FBG above each specified level being compared with those having FBG below that level. Four levels were selected: 100, 110, 126, and 140 mg/dl. The all-cause mortality risks increased by 30, 90, and 130% for those with FBG level Ն110, 126, or 140 mg/dl, when compared with those with FBG below that level, respectively. In contrast, the risks among those with FBG above the cut point at 100 mg/dl failed to show significant increases for all-cause or for CVD mortality, although increases were found for diabetes or CVD and diabetes.</p><p>CONCLUSIONS -This study found an overall J-shaped relationship between all-cause mortality and levels of FBG in an Asian population, with significant increases in mortality, starting at Ն110 mg/dl as well as Յ75 mg/dl. The higher the FBG Ն110 mg/dl, the more the risks increased. This increased risks at both ends of the FBG spectrum to form a similar J-shaped relationship has been observed in several Caucasian populations <ref type="bibr" target="#b35">(37)</ref><ref type="bibr" target="#b36">(38)</ref><ref type="bibr" target="#b37">(39)</ref>. In the Diabetes Epidemiology: Collaborative Analysis of Diagnostic Criteria in Europe (DECODE) study, an RR ϭ 1.2 for all-cause mortality was seen among those with FBG Յ81 mg/dl <ref type="bibr" target="#b35">(37)</ref>. Similarly, in the San Antonio Heart Study, those with FBG Ͻ70 mg/dl had a 3.3-fold higher risk of CVD mortality compared with those with FBG 80 -109 mg/dl <ref type="bibr" target="#b37">(39)</ref>.</p><p>With a cutoff at 75 mg/dl, our data substantiated such an increase for all-cause mortality (RR ϭ 2.0) but not for CVD mortality. A recent report from 17 pooled studies in the Asian Pacific region <ref type="bibr" target="#b18">(19)</ref>, showing a dose-response benefit of reducing CVD burden when FBG was lowered to a level of Յ90 mg/dl, was in line with the findings from this study. A note of caution should be added for those expecting the risk to continue to be reduced as FBG becomes lower and lower. In our study, FBG Ͻ75 mg/dl was actually associated with a higher, not lower, risk for allcause mortality. If validated in other populations and if found not to reflect the presence of other pathologic conditions, this finding of a J-shaped relationship with increased mortality risk at FBG Ͻ75 mg/dl may have important implications in the clinical management of glucose control. This study confirms the tendency of the IFG group, defined as 110 -125 mg/ dl, to have a severe risk of CVD. The characteristics of subjects with IFG have contributed to the widely held concept that the reason IFG was associated with increased CVD mortality was because subjects with IFG had additional or more severe risk factors, and, therefore, IFG per se is not an independent risk <ref type="bibr" target="#b1">(2,</ref><ref type="bibr" target="#b14">15,</ref><ref type="bibr" target="#b16">17,</ref><ref type="bibr" target="#b21">(22)</ref><ref type="bibr">(23)</ref><ref type="bibr" target="#b22">(24)</ref><ref type="bibr" target="#b23">(25)</ref><ref type="bibr" target="#b24">(26)</ref><ref type="bibr" target="#b25">(27)</ref><ref type="bibr" target="#b26">(28)</ref><ref type="bibr" target="#b27">(29)</ref><ref type="bibr" target="#b38">40,</ref><ref type="bibr" target="#b39">41)</ref>. Nevertheless, this study showed for the first time that the increased risks of IFG remained significantly elevated, even after CVD risk factors were adjusted. In other words, IFG is capable of predicting future mortality independently, and identifying someone with IFG is not an incidental or innocent finding. Contrary to the consensus statement previously reported (2,3), IFG is more than just a risk marker for future diabetes. First, anyone with FBG Ն110 mg/dl (Table <ref type="table" target="#tab_2">3</ref>) was shown to have substantially increased risks for all-cause and CVD mortality, with excess risks as much as 140% for CVD and diabetes. Second, IFG per se caused higher mortality for CVD and/or diabetes (Table <ref type="table" target="#tab_1">2</ref>). Obviously, these individuals were indeed vulnerable, not only because they tended to be associated with additional CVD risk profiles, but also because they had an ad-ditional unique, independent risk in hav-FBG at 110 -125 mg/dl. Thus, a simple blood test to uncover IFG can predict substantial mortality risks for CVD and diabetes among nondiabetic individuals, hitherto vaguely recognized <ref type="bibr" target="#b1">(2,</ref><ref type="bibr" target="#b14">15,</ref><ref type="bibr" target="#b16">17,</ref><ref type="bibr" target="#b21">(22)</ref><ref type="bibr">(23)</ref><ref type="bibr" target="#b22">(24)</ref><ref type="bibr" target="#b23">(25)</ref><ref type="bibr" target="#b24">(26)</ref><ref type="bibr" target="#b25">(27)</ref><ref type="bibr" target="#b26">(28)</ref><ref type="bibr" target="#b27">(29)</ref>. The failure of previous studies to identify such risks may have come more from the inadequate sample size of study cohorts than from a true absence of risks <ref type="bibr" target="#b14">(15,</ref><ref type="bibr" target="#b16">17,</ref><ref type="bibr" target="#b17">18,</ref><ref type="bibr">(23)</ref><ref type="bibr" target="#b22">(24)</ref><ref type="bibr" target="#b23">(25)</ref><ref type="bibr" target="#b24">(26)</ref><ref type="bibr" target="#b25">(27)</ref>.</p><p>The excess risks of IFG were demonstrated within 11 years, a relatively short time, implying that an urgency exists for preventive actions in those with IFG. In the meantime, a mechanism to identify those in the high-risk IFG group and to retard the progression of IFG should be pursued <ref type="bibr" target="#b1">(2,</ref><ref type="bibr" target="#b13">14)</ref>. The recent designation of smoking as "a chronic addictive disease" (42) has facilitated the implementation of smoking cessation programs in the clinical setting. Similarly, making IFG a treatable condition or recognizing it as a disease would legitimize early intervention. It should be emphasized that much of the intervention for IFG is to institute sustainable lifestyle changes <ref type="bibr" target="#b41">(43,</ref><ref type="bibr" target="#b42">44)</ref>.</p><p>Even though the results in this study came from a cohort with higher education, the increased risks of IFG seen in this study can be a reasonable estimate for those in the general population because risk estimation was based on internal comparison with persons with similar socioeconomic status. Some practices in this study resulted in consistent quality: collecting a history and examining subjects under one protocol from one single clinic and analyzing blood samples in the same laboratory with the same machine by the same trained staffs using the same methodology. The independently increased risk of IFG found in this study is in contrast to results of published reports of IFG based mostly on pooled studies <ref type="bibr" target="#b18">(19,</ref><ref type="bibr">23,</ref><ref type="bibr" target="#b24">26,</ref><ref type="bibr" target="#b26">28,</ref><ref type="bibr" target="#b35">37,</ref><ref type="bibr" target="#b43">45,</ref><ref type="bibr" target="#b44">46)</ref>, which are affected by inconsistent quality or wide variations, including  differences in the age or morbidity distribution of subcohorts. The cut point for our reference group, FBG 90 -109 mg/dl, was selected because of its lowest risk in our study subjects. An identical cut point was chosen by de Vegt et al. <ref type="bibr" target="#b14">(15)</ref> and by the Asia Pacific Cohort Studies Collaboration <ref type="bibr" target="#b18">(19)</ref>. This is because, given the J-shaped relationship of FBG with mortality risk, lower levels of glucose carried some adverse risks in this and other studies. In fact, similar observations were made by the DECODE group, which reported the lowest mortality risks in subjects with FPG at 4.5-5.0 mmol/l (80 -90 mg/dl) for all-cause mortality or 5.0 -5.5 mmol/l (90 -100 mg/dl) for CVD mortality <ref type="bibr" target="#b35">(37)</ref> and by Balkau et al. <ref type="bibr" target="#b36">(38)</ref>, who also concluded that the lowest mortality rate was seen among subjects in the group with FBG 5.25-5.75 mmol/l (95-104 mg/dl). All of these data indicate that the inclusion of any group with FBG Ͻ90 mg/dl may not be the best reference group.</p><p>Although IFG was reportedly less sensitive in its predictive value for diabetes or CVD than was IGT <ref type="bibr" target="#b1">(2,</ref><ref type="bibr">23,</ref><ref type="bibr" target="#b22">24,</ref><ref type="bibr" target="#b24">26)</ref>, FBG has been universally recognized as a preferred mode of diabetes screening, with the test being easier to perform, more convenient and acceptable to patients, more reproducible, and, most importantly, less expensive <ref type="bibr" target="#b45">(47)</ref>. These advantages are further magnified in Asian populations, particularly because the cost of screening has always been an overriding concern.</p><p>Most studies examining the mortality outcome of high blood glucose have focused mainly on deaths from CVD and not from diabetes <ref type="bibr" target="#b1">(2,</ref><ref type="bibr" target="#b20">21,</ref><ref type="bibr">(23)</ref><ref type="bibr" target="#b22">(24)</ref><ref type="bibr" target="#b23">(25)</ref><ref type="bibr" target="#b24">(26)</ref><ref type="bibr" target="#b27">29,</ref><ref type="bibr" target="#b39">41)</ref>, but in our study, mortality from diabetes as an additional end point was included. First, as shown in this cohort, a strong association between various glucose levels and subsequent deaths coded to diabetes supports their causal relationships: RR as large as 4.3 for 110 -125 mg/dl, 22.6 for 126 -139 mg/dl, 21.2 for 140 -179 mg/dl, and 125.6 for Ն180 mg/dl (Table <ref type="table" target="#tab_1">2</ref>). Second, more deaths were coded to diabetes in Taiwan than elsewhere: Diabetes ranked as the fourth leading cause of deaths in Taiwan, and constituted 7.7% of all deaths (48). This proportion was far larger than its counterparts in the U.S. of 3.0% <ref type="bibr" target="#b47">(49,</ref><ref type="bibr" target="#b48">50)</ref> or in Japan of 1.3% <ref type="bibr" target="#b49">(51)</ref>, even though the prevalence of diabetes in Taiwan was not much higher <ref type="bibr" target="#b50">(52)</ref>. age-adjusted mortality rates, 57.7 and 74.0, for men and for women in Taiwan <ref type="bibr" target="#b46">(48)</ref> were more than twice as large than those in the U.S. (28.6 and 23.0) <ref type="bibr" target="#b47">(49,</ref><ref type="bibr" target="#b48">50)</ref> or 6 -10 times larger than those in Japan (9.1 and 5.9 per 100,000) <ref type="bibr" target="#b49">(51)</ref>, respectively. This gap between Taiwan and the U.S. or Japan has been widening because the mortality rate for diabetes in Taiwan has been rapidly increasing <ref type="bibr" target="#b51">(53)</ref>. This higher proportion of deaths from diabetes has been shown not to be due to a coding artifact <ref type="bibr" target="#b51">(53,</ref><ref type="bibr" target="#b53">54)</ref> or to a true increase in the prevalence of diabetes <ref type="bibr" target="#b50">(52)</ref> but is more reflective of the preference by physicians in assigning diabetes as the underlying cause of death when filling out death certificates. Based on these considerations, we felt these deaths coded to diabetes should be considered along with CVD deaths in accounting for all diabetes-related deaths.</p><p>This study shows that the new ADA criteria for IFG, defining IFG as 100 -125 mg/dl, instead of as 110 -125 mg/dl, have substantially weakened the predictive power of mortality outcome. By including the 100 -109 mg/dl group, the new IFG criteria quadrupled the number of subjects in this cohort, from 7.8% to 24.0%. However, this inclusion was found to produce almost no increase in mortality risks. As the new population with IFG becomes statistically not different from those with IFG below this level, mainly because of the inclusion of this 100 -109 mg/dl group, the new definition of IFG cannot be justified from the mortality perspective.</p><p>In summary, there was an overall Jshaped relationship between all-cause mortality and FBG. IFG, traditionally defined as 110 -125 mg/dl, is an independ e n t r i s k f a c t o r a n d s h o u l d b e aggressively treated as a disease, because it produced a significant increase in combined CVD and diabetes mortality risks in this Asian population. The increase in risk and the predictive value of IFG disappeared when IFG was defined as 100 -125 mg/dl, making the necessity of the new IFG definition questionable.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 -</head><label>1</label><figDesc>Figure 1-Relative risks for all-cause mortality by levels of fasting blood glucose on subjects with no history of diabetes. Vertical bars represent 95% CI. *P Ͻ 0.05 vs. those at 90 -109 mg/dl. **Relative risks adjusted for age, systolic blood pressure (Ն140 mmHg), smoking (never, exsmoker, and current smoker), total serum cholesterol (Ն240 mg/dl), and BMI (Ն24 kg/m 2 ).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 -Comparison of risk factors among male and female subjects classified by FBG at time of recruitment</head><label>1</label><figDesc></figDesc><table><row><cell></cell><cell></cell><cell></cell><cell>FBG</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell>110-125 mg/dl</cell><cell>Ն126 mg/dl</cell><cell></cell><cell></cell></row><row><cell></cell><cell>Ͻ100 mg/dl</cell><cell>100-109 mg/dl</cell><cell>(6.1-6.9 mmol/l)</cell><cell>(Ͼ7.0 mmol/l)</cell><cell>Known</cell><cell></cell></row><row><cell></cell><cell>(5.6 mmol/l)</cell><cell>(5.6-6.1 mmol/l)</cell><cell>(IFG)</cell><cell>(screened diabetes)</cell><cell>diabetes</cell><cell>Total</cell></row><row><cell>Men</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>n (%)</cell><cell>14,772 (62.2)</cell><cell>5,703 (24.0)</cell><cell>1,857 (7.8)</cell><cell>816 (3.4)</cell><cell>607 (2.6)</cell><cell>23,755 (100)</cell></row><row><cell>Person-years observed</cell><cell>163,434</cell><cell>62,395</cell><cell>20,297</cell><cell>8,760</cell><cell>6,400</cell><cell>261,286</cell></row><row><cell>Age (years)</cell><cell>51.7 Ϯ 0.07 †</cell><cell>52.6 Ϯ 0.11 †</cell><cell>54.2 Ϯ 0.18</cell><cell>55.9 Ϯ 0.27 †</cell><cell>58.0 Ϯ 0.30 †</cell><cell>52.4 Ϯ 0.05</cell></row><row><cell>Fasting glucose</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>mg/dl</cell><cell>91.4 Ϯ 0.05</cell><cell>103.5 Ϯ 0.04</cell><cell>115.1 Ϯ 0.10</cell><cell>161.3 Ϯ 1.56</cell><cell>164.5 Ϯ 2.37</cell><cell>100.4 Ϯ 0.14</cell></row><row><cell>mmol/l</cell><cell>5.1 Ϯ 0.002</cell><cell>5.8 Ϯ 0.002</cell><cell>6.4 Ϯ 0.01</cell><cell>9.0 Ϯ 0.09</cell><cell>9.1 Ϯ 0.13</cell><cell>5.6 Ϯ 0.01</cell></row><row><cell>SBP (mmHg)</cell><cell cols="2">117.3 Ϯ 0.13 † 121.8 Ϯ 0.23 †</cell><cell>126.1 Ϯ 0.41</cell><cell>128.4 Ϯ 0.64 †</cell><cell>126.2 Ϯ 0.73</cell><cell>119.7 Ϯ 0.11</cell></row><row><cell>DBP (mmHg)</cell><cell>76.4 Ϯ 0.08 †</cell><cell>79.0 Ϯ 0.14 †</cell><cell>80.9 Ϯ 0.25</cell><cell>81.0 Ϯ 0.37</cell><cell>78.1 Ϯ 0.43 †</cell><cell>77.6 Ϯ 0.07</cell></row><row><cell>Total serum cholesterol</cell><cell cols="2">194.2 Ϯ 0.28 † 199.3 Ϯ 0.46*</cell><cell>202.9 Ϯ 0.81</cell><cell>204.4 Ϯ 1.40</cell><cell>194.9 Ϯ 1.37 †</cell><cell>196.5 Ϯ 0.22</cell></row><row><cell>(mg/dl)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>BMI (kg/m 2 )</cell><cell>23.6 Ϯ 0.02 †</cell><cell>24.4 Ϯ 0.04*</cell><cell>25.0 Ϯ 0.06</cell><cell>25.3 Ϯ 0.10*</cell><cell>24.7 Ϯ 0.12*</cell><cell>24.0 Ϯ 0.02</cell></row><row><cell>Smoking prevalence (%)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Current smoker</cell><cell>30.1</cell><cell>26.7</cell><cell>27.1</cell><cell>32.8</cell><cell>31.8</cell><cell>29.2</cell></row><row><cell>Ex-smoker</cell><cell>14.2</cell><cell>17.0</cell><cell>19.0</cell><cell>20.3</cell><cell>22.4</cell><cell>15.7</cell></row><row><cell>Women</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>n (%)</cell><cell>9,805 (77.6)</cell><cell>2.032 (16.1)</cell><cell>499 (4.0)</cell><cell>161 (1.3)</cell><cell>134 (1.1)</cell><cell>12,631 (100)</cell></row><row><cell>Person-years observed</cell><cell>108,889</cell><cell>22,264</cell><cell>5,449</cell><cell>1,780</cell><cell>1,481</cell><cell>139,864</cell></row><row><cell>Age (years)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>00</cell><cell>73.0 Ϯ 0.09</cell></row><row><cell>Total serum cholesterol</cell><cell cols="2">193.0 Ϯ 0.34 † 201.6 Ϯ 0.80 †</cell><cell>211.1 Ϯ 1.63</cell><cell>214.2 Ϯ 3.27</cell><cell>210.8 Ϯ 3.54</cell><cell>195.5 Ϯ 0.31</cell></row><row><cell>(mg/dl)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>BMI (kg/m 2 )</cell><cell>22.3 Ϯ 0.03 †</cell><cell>23.2 Ϯ 0.06 †</cell><cell>24.3 Ϯ 0.15</cell><cell>24.6 Ϯ 0.24</cell><cell>24.4 Ϯ 0.29</cell><cell>22.6 Ϯ 0.03</cell></row><row><cell>Smoking, prevalence (%)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Current smoker</cell><cell>1.3</cell><cell>1.1</cell><cell>1.2</cell><cell>1.2</cell><cell>2.2</cell><cell>1.3</cell></row><row><cell>Ex-smoker</cell><cell>0.4</cell><cell>0.7</cell><cell>0.8</cell><cell>0.6</cell><cell>0.8</cell><cell>0.5</cell></row></table><note>47.3 Ϯ 0.06 † 49.5 Ϯ 0.16 † 51.4 Ϯ 0.32 52.8 Ϯ 0.59* 54.8 Ϯ 0.61 † 47.9 Ϯ 0.06 Fasting glucose mg/dl 90.3 Ϯ 0.06 103.3 Ϯ 0.06 114.8 Ϯ 0.19 160.9 Ϯ 3.31 170.8 Ϯ 5.0 95.1 Ϯ 0.14 mmol/l 5.0 Ϯ 0.003 5.7 Ϯ 0.003 6.4 Ϯ 0.01 8.9 Ϯ 0.18 9.49 Ϯ 0.28 5.3 Ϯ 0.01 SBP (mmHg) 111.8 Ϯ 0.16 † 117.5 Ϯ 0.39 † 123.2 Ϯ 0.89 129.7 Ϯ 1.97 † 125.7 Ϯ 1.73 113.6 Ϯ 0.15 DBP (mmHg) 72.1 Ϯ 0.10 † 75.1 Ϯ 0.23 † 77.4 Ϯ 0.49 79.9 Ϯ 1.08* 76.8 Ϯ 1.Data are means Ϯ SE unless otherwise indicated. Differences from IFG, *P Ͻ 0.05, †P Ͻ 0.01.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 -Relative mortality risks for different levels of FBG (for IFG at 110 -125 mg/dl, using 90 -109 and 90 -99 mg/dl as reference)</head><label>2</label><figDesc></figDesc><table><row><cell></cell><cell></cell><cell cols="2">All-causes</cell><cell></cell><cell></cell><cell>CVD</cell><cell></cell><cell></cell><cell>Diabetes</cell><cell></cell><cell cols="3">CVD and diabetes</cell></row><row><cell>Glucose, mg/dl (mmol/l)</cell><cell>n</cell><cell cols="7">Deaths RR* RR † Deaths RR* RR † Deaths</cell><cell>RR*</cell><cell>RR †</cell><cell>Deaths</cell><cell>RR*</cell><cell>RR †</cell></row><row><cell>90-109 ml/dl as reference</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Total</cell><cell cols="2">23,755 1,060</cell><cell></cell><cell></cell><cell>256</cell><cell></cell><cell></cell><cell>53</cell><cell></cell><cell></cell><cell></cell><cell>309</cell></row><row><cell>50-75 (2.8-4.1)</cell><cell>129</cell><cell cols="3">12 2.1 ‡ 2.0 ‡</cell><cell>2</cell><cell>1.5</cell><cell>1.4</cell><cell>0</cell><cell>NA</cell><cell>NA</cell><cell>2</cell><cell>1.4</cell><cell>1.4</cell></row><row><cell>76-89 (4.2-4.9)</cell><cell>4,706</cell><cell cols="2">205 1.1</cell><cell>1.2</cell><cell>37</cell><cell>0.8</cell><cell>0.9</cell><cell>2</cell><cell>1.3</cell><cell>1.3</cell><cell>39</cell><cell>0.9</cell><cell>0.9</cell></row><row><cell>90-109 (5.0-6.0)</cell><cell>15,640</cell><cell cols="2">580 1.0</cell><cell>1.0</cell><cell>142</cell><cell>1.0</cell><cell>1.0</cell><cell>5</cell><cell>1.0</cell><cell>1.0</cell><cell>147</cell><cell>1.0</cell><cell>1.0</cell></row><row><cell>110-125 (6.1-6.9) (IFG)</cell><cell>1,857</cell><cell cols="2">79 1.0</cell><cell>0.9</cell><cell>29</cell><cell cols="2">1.5 ‡ 1.3</cell><cell>3</cell><cell>4.4 ‡</cell><cell>4.3 ‡</cell><cell>32</cell><cell cols="2">1.6 ‡ 1.4</cell></row><row><cell>126-139 (7.0-7.7)</cell><cell>371</cell><cell cols="2">26 1.4</cell><cell>1.3</cell><cell>4</cell><cell>0.9</cell><cell>0.7</cell><cell>4</cell><cell>24.0 ‡</cell><cell>22.6 ‡</cell><cell>8</cell><cell>1.7</cell><cell>1.4</cell></row><row><cell>140-179 (7.8-9.9)</cell><cell>270</cell><cell cols="3">25 1.8 ‡ 1.6 ‡</cell><cell>11</cell><cell cols="2">3.1 ‡ 2.6 ‡</cell><cell>3</cell><cell>22.4 ‡</cell><cell>21.2 ‡</cell><cell>14</cell><cell cols="2">3.8 ‡ 3.2 ‡</cell></row><row><cell>180ϩ (10.0ϩ)</cell><cell>175</cell><cell cols="3">27 3.7 ‡ 3.6 ‡</cell><cell>8</cell><cell cols="2">4.4 ‡ 3.9 ‡</cell><cell>8</cell><cell cols="2">122.2 ‡ 125.6 ‡</cell><cell>16</cell><cell cols="2">8.5 ‡ 7.6 ‡</cell></row><row><cell>Known diabetic subjects</cell><cell>607</cell><cell cols="3">106 3.3 ‡ 3.1 ‡</cell><cell>23</cell><cell cols="2">2.9 ‡ 2.6 ‡</cell><cell>28</cell><cell>99.4 ‡</cell><cell>95.2 ‡</cell><cell>51</cell><cell cols="2">6.2 ‡ 5.6 ‡</cell></row><row><cell>90-99 mg/dl as reference</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Total</cell><cell cols="2">23,755 1,060</cell><cell>-</cell><cell>-</cell><cell>254</cell><cell>-</cell><cell>-</cell><cell>53</cell><cell>-</cell><cell>-</cell><cell>307</cell><cell>-</cell><cell>-</cell></row><row><cell>50-75 (2.8-4.1)</cell><cell>129</cell><cell cols="3">12 2.1 ‡ 1.9 ‡</cell><cell>2</cell><cell>1.5</cell><cell>1.4</cell><cell>0</cell><cell>-</cell><cell>-</cell><cell>2</cell><cell>1.4</cell><cell>1.4</cell></row><row><cell>76-89 (4.2-4.9)</cell><cell>4,706</cell><cell cols="2">205 1.1</cell><cell>1.1</cell><cell>36</cell><cell>0.8</cell><cell>0.9</cell><cell>2</cell><cell>2.0</cell><cell>2.0</cell><cell>38</cell><cell>0.9</cell><cell>1.9</cell></row><row><cell>90-99 (5.0-5.5)</cell><cell>9,937</cell><cell cols="2">369 1.0</cell><cell>1.0</cell><cell>86</cell><cell>1.0</cell><cell>1.0</cell><cell>2</cell><cell>1.0</cell><cell>1.0</cell><cell>88</cell><cell>1.0</cell><cell>1.0</cell></row><row><cell>100-125 (5.6-6.9) (IFG)</cell><cell>7,560</cell><cell cols="2">290 1.0</cell><cell>0.9</cell><cell>84</cell><cell>1.2</cell><cell>1.0</cell><cell>6</cell><cell>3.6</cell><cell>3.6</cell><cell>90</cell><cell>1.2</cell><cell>1.1</cell></row><row><cell>100-109 (5.6-6.1)</cell><cell>5,703</cell><cell cols="2">211 0.9</cell><cell>0.9</cell><cell>55</cell><cell>1.0</cell><cell>1.0</cell><cell>3</cell><cell>2.4</cell><cell>2.5</cell><cell>58</cell><cell>1.1</cell><cell>1.0</cell></row><row><cell>110-125 (6.1-6.9)</cell><cell>1,857</cell><cell cols="2">79 1.0</cell><cell>0.9</cell><cell>29</cell><cell cols="2">1.5 ‡ 1.3</cell><cell>3</cell><cell>6.8 ‡</cell><cell>7.0 ‡</cell><cell>32</cell><cell cols="2">1.7 ‡ 1.4</cell></row><row><cell>126-139 (7.0-7.7)</cell><cell>371</cell><cell cols="2">26 1.4</cell><cell>1.2</cell><cell>4</cell><cell>0.9</cell><cell>0.7</cell><cell>4</cell><cell>38.7 ‡</cell><cell>38.0 ‡</cell><cell>8</cell><cell>1.8</cell><cell>1.4</cell></row><row><cell>140-179 (7.8-9.9)</cell><cell>270</cell><cell cols="3">25 1.8 ‡ 1.6 ‡</cell><cell>11</cell><cell cols="2">3.2 ‡ 2.5 ‡</cell><cell>3</cell><cell>37.9 ‡</cell><cell>37.7 ‡</cell><cell>14</cell><cell cols="2">4.0 ‡ 3.3 ‡</cell></row><row><cell>180ϩ (10.0ϩ)</cell><cell>175</cell><cell cols="3">27 3.7 ‡ 3.5 ‡</cell><cell>8</cell><cell cols="2">4.5 ‡ 3.8 ‡</cell><cell>8</cell><cell cols="2">197.5 ‡ 209.5 ‡</cell><cell>16</cell><cell cols="2">8.9 ‡ 7.8 ‡</cell></row><row><cell>Known diabetic subjects</cell><cell>607</cell><cell cols="3">106 3.1 ‡ 2.9 ‡</cell><cell>23</cell><cell cols="2">2.7 ‡ 2.4 ‡</cell><cell>28</cell><cell cols="2">146.4 ‡ 141.5 ‡</cell><cell>51</cell><cell cols="2">6.0 ‡ 5.4 ‡</cell></row></table><note>Data are n unless otherwise indicated. *RR adjusted for age only. †RR adjusted for age, SBP (Ն140 mmHg), smoking (never, ex-smoker, and current smoker), total serum cholesterol (Ն240 mg/dl), and BMI (Ն24 kg/m 2 ). ‡P Ͻ 0.05. Reference group was based on 90 -109 mg/dl for all levels. CVD, ICD-9: 401-448; diabetes, ICD-9: 250.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3 -RRs comparing FBG* levels for subsequent mortality in male subjects</head><label>3</label><figDesc></figDesc><table><row><cell>Glucose [mg/dl</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>CVD and</cell></row><row><cell>(mmol/l)]</cell><cell>n (deaths)</cell><cell>All-cause</cell><cell>CVD</cell><cell>Diabetes</cell><cell>diabetes</cell></row><row><cell cols="6">Ն100 (5.6ϩ) 8,376 (368) 1.0 (0.8-1.1) 1.2 (0.9-1.5) 7.8 (2.6-22.9) 1.4 (1.1-1.7)</cell></row><row><cell cols="6">Ն110 (6.1ϩ) 2,673 (157) 1.3 (1.1-1.5) 1.8 (1.4-2.5) 15.7 (6.5-37.6) 2.4 (1.8-3.1)</cell></row><row><cell>Ն126 (7.0ϩ)</cell><cell cols="5">816 (78) 1.9 (1.5-2.4) 2.3 (1.5-3.5) 29.5 (13.1-66.5) 3.6 (2.5-5.1)</cell></row><row><cell>Ն140 (7.8ϩ)</cell><cell cols="5">445 (52) 2.3 (1.8-3.1) 3.5 (2.2-5.6) 29.0 (12.9-65.2) 5.2 (3.5-7.6)</cell></row><row><cell cols="6">Data are RRs adjusted for age, SBP (Ն140 mmHg), smoking (never, ex-smoker, and current smoker), total</cell></row><row><cell cols="4">serum cholesterol level (Ն240 mg/dl), and BMI (Ն24 kg/m 2 ).</cell><cell></cell><cell></cell></row></table><note>*Each level of FBG indicates a comparison of mortality risks of those at or above the level with those below that level. CVD, ICD-9: 401-448; diabetes, ICD-9: 250.</note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">DIABETES CARE, VOLUME 28, NUMBER11, NOVEMBER 2005  </note>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">The Expert Committee on the Diagnosis and Classification of Diabetes Mellitus: Report of the Expert Committee on the Diagnosis and Classification of Diabetes Mellitus</title>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="1183" to="1197" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Impaired glucose tolerance and impaired fasting glycaemia: the current status on definition and intervention</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Unwin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Shaw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Zimmet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kgmm</forename><surname>Alberti</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabet Med</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="708" to="723" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">The Expert Committee on the Diagnosis and Classification of Diabetes Mellitus: Report of the Expert Committee on the Diagnosis and Classification of Diabetes Mellitus</title>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="S5" to="S20" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+	<note>Suppl. 1</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">World Health Organization: Part 1: diagnosis and classification of diabetes mellitus. In Definition, Diagnosis and Classification of Diabetes Mellitus and Its Complications. Geneva, World Health Org</title>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">The Expert Committee on the Diagnosis and Classification of Diabetes Mellitus: Follow-up report on the diagnosis of diabetes mellitus</title>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="3160" to="3167" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Lowering the criterion for impaired fasting glucose will not provide clinical benefit</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Davidson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">B</forename><surname>Landsman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Alexander</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="3329" to="3330" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Lowering the criterion for impaired fasting glucose is in order</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Genuth</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="3331" to="3312" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Lowering the cut point for impaired fasting glucose: Where is the evidence? Where is the logic?</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Schriger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Lorber</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="592" to="595" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Diabetes diagnostic criteria and impaired glycemic states: evolving evidence base</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Engelgau</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Diabetes</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="69" to="70" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Lowering the criterion for impaired fasting glucose: impact on disease prevalence and associated risk of diabetes and ischemic heart disease</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Tai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">Y</forename><surname>Goh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jjm</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Wong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Heng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Hughes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Chew</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cutter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Chew</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Gu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">S</forename><surname>Chia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Tan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="1728" to="1734" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">Department of Health and Human Services: News release: revised definition means millions more have pre-diabetes</title>
+		<author>
+			<persName><forename type="first">U</forename><forename type="middle">S</forename></persName>
+		</author>
+		<ptr target="http://www.os.dhhs.gov/news/press/2004.html#Apr" />
+		<imprint>
+			<date type="published" when="2004-04-29">29 April 2004. January 2005</date>
+			<biblScope unit="volume">10</biblScope>
+		</imprint>
+	</monogr>
+	<note>article online</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Preventive medicine in a diabetes clinic: an opportunity to make a difference</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Gerstein</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">353</biblScope>
+			<biblScope unit="page" from="606" to="608" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Intensified multifactorial intervention in patients with type 2 diabetes mellitus and microalbuminuria: the Steno type 2 randomised study</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Gaede</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Vedel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">H</forename><surname>Parving</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Pedersen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">353</biblScope>
+			<biblScope unit="page" from="617" to="622" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">American Diabetes Association: Diagnosis and classification of diabetes mellitus</title>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="37" to="42" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Hyperglycaemia is associated with allcause and cardiovascular mortality in the Hoorn population: the Hoorn Study</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>De Vegt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Dekker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">G</forename><surname>Ruhe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Cda</forename><surname>Stehouwer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Nijpels</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Bouter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Heine</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="926" to="931" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Fasting plasma glucose in nondiabetic elderly women predicts increased all-causes mortality and coronary heart disease risk</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Simons</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Friedlander</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mccallum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Simons</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Aust N Z J Med</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="41" to="47" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Hyperglycemia as a risk factor of mortality in a middle-aged Finnish population</title>
+		<author>
+			<persName><forename type="first">U</forename><surname>Rajala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Koskela</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Keinanen-Kiukaanniemi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page" from="470" to="474" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Associations of diabetes mellitus and ethnicity with mortality in a multiethnic Asian population: data from 1992 Singapore National Health Survey</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cutter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Tan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Chew</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Tai</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">158</biblScope>
+			<biblScope unit="page" from="543" to="552" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Blood glucose and risk of cardiovascular disease in the Asia Pacific region</title>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="2836" to="2842" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Gender difference in all-cause and cardiovascular mortality related to hyperglycemia and newly-diagnosed diabetes</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Hu</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Group</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="608" to="617" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Revision of diagnostic criteria for diabetes</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Charles</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Balkau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Vauzelle-Kervroedan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Thibult</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Eschwege</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="1657" to="1658" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">The DECODE Study Group, the European Diabetes Epidemiology Group: Glucose tolerance and cardiovascular mortality: comparison of fasting and 2-hour diagnostic criteria</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Balkau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Shipley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Jarrett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Pyorala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Pyorala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Forhan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Eschwege</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="397" to="405" />
+			<date type="published" when="2001">1998 23. 2001</date>
+		</imprint>
+	</monogr>
+	<note>Diabetes Care</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Impaired glucose tolerance is a risk factor for cardiovascular disease, but not impaired fasting glucose: the Funagata Diabetes Study</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tominaga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Eguchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Manaka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Igarashi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Kato</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sekikawa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="920" to="924" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Postchallenge hyperglycemia and mortality in national sample of U.S. adults</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Saydah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Miret</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Sung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Varas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Gause</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Brancati</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="1397" to="1402" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Group: Hyperglycaemia and mortality from all causes and from cardiovascular disease in five populations of Asian origin</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Nakagami</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Study</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="385" to="394" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Impaired fasting glycaemia resembles impaired glucose tolerance with regard to cardiovascular risk factors: population-based, cross-sectional study of risk factors for cardiovascular disease</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">E</forename><surname>Heldgaard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">F</forename><surname>Olivarius</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Hindsberger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Henriksen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabet Med</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="363" to="370" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">The DECODE Study Group, the European Diabetes Epidemiology Group: Glucose tolerance and mortality comparison of WHO and American Diabetes Association diagnostic criteria</title>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">354</biblScope>
+			<biblScope unit="page" from="617" to="621" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Diabetes mellitus, impaired fasting glucose, atherosclerotic risk factors, and prevalence of coronary heart disease</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Alexander</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">B</forename><surname>Landsman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Teutsch</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">86</biblScope>
+			<biblScope unit="page" from="897" to="902" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">The mortality risks of smokers in Taiwan. Part I: cause-specific mortality</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Wen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Tsai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">Y</forename><surname>Cheng</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Prev Med</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page" from="528" to="535" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">The health benefits of smoking cessation for adult smokers and for pregnant women in Taiwan</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Wen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">Y</forename><surname>Cheng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">N</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">T</forename><surname>Levy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">K</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Hsu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Eriksen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Yang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Tob Control</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="56" to="61" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+	<note>Suppl. 1</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">World Health Organization: International Classification of Disease</title>
+	</analytic>
+	<monogr>
+		<title level="j">Rev. 9. Geneva, World Health Org</title>
+		<imprint>
+			<date type="published" when="1975">1975</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Treatment of High Blood Cholesterol in Adults: Executive summary of the Third Report of the National Cholesterol Education Program (NCEP) Expert Panel on Detection, Evaluation, and Treatment of High Blood Cholesterol in Adults (Adult Treatment Panel III)</title>
+	</analytic>
+	<monogr>
+		<title level="j">Expert Panel on Detection</title>
+		<imprint>
+			<biblScope unit="volume">285</biblScope>
+			<biblScope unit="page" from="2486" to="2497" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+	<note>JAMA</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">WHO Expert Consultation: Appropriate body-mass index for Asian populations and its implications for policy and intervention strategies</title>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">363</biblScope>
+			<biblScope unit="page" from="157" to="163" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Optimal cut-off values for obesity: using simple anthropometric indices to predict cardiovascular risk factors in Taiwan</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">Y</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">T</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">Y</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Lo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">H</forename><surname>Hsia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">L</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">Y</forename><surname>Shau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">C</forename><surname>Huang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Obes Relat Metab Disord</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="1232" to="1238" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Analysis Group of the Working Group on Obesity in China: Predictive values of body mass index and waist circumference for risk factors of certain related diseases in Chinese adults: study on optimal cut-off points of body mass index and waist circumference in Chinese adults</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">F</forename><surname>Zhou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Cooperative</forename><surname>Meta</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biomed Environ Sci</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="83" to="96" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">The DECODE Study Group, the European Diabetes Epidemiology Group: Is the current definition for diabetes relevant to mortality risk from all causes and cardiovascular and noncardiovascular disease?</title>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="688" to="696" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Eschwege E: Is there a glycemic threshold for mortality risk?</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Balkau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bertrais</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Ducimetiere</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="696" to="699" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Low fasting plasma glucose level as a predictor of cardiovascular disease and all-cause mortality</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Wei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">W</forename><surname>Gibbons</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">L</forename><surname>Mitchell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Kampert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Stern</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">N</forename><surname>Blair</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">101</biblScope>
+			<biblScope unit="page" from="2047" to="2052" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Impaired glucose tolerance, but not impaired fasting glucose, is associated with increased levels of coronary heart disease risk factors: results from the Baltimore Longitudinal Study on Aging</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Blake</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Meigs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Muller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Najjar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Andres</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Nathan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="2095" to="2100" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Impaired fasting glucose, blood pressure and cardiovascular disease mortality</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Henry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Thomas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Benetos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Guize</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hypertension</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="458" to="463" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<monogr>
+		<title level="m" type="main">Department of Health and Human Services, Public Health Service: Clinical Practice Guideline: Treating Tobacco Use and Dependence</title>
+		<author>
+			<persName><forename type="first">U</forename><forename type="middle">S</forename></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+			<publisher>Silver Spring, MD, Publications Clearinghouse</publisher>
+			<biblScope unit="page" from="9" to="10" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Diabetes Prevention Program Research Group: Reduction in the incidence of type 2 diabetes with lifestyle intervention or metformin</title>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">346</biblScope>
+			<biblScope unit="page" from="393" to="403" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Targeting people with pre-diabetes: lifestyle interventions should also be aimed at people with pre-diabetes</title>
+		<author>
+			<persName><forename type="first">Kmv</forename><surname>Narayan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Benjamin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Engelgau</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMJ</title>
+		<imprint>
+			<biblScope unit="volume">325</biblScope>
+			<biblScope unit="page" from="403" to="404" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">The effect of diabetes on the risk of major cardiovascular disease and death in the Asia-Pacific region</title>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="360" to="366" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Yusuf The relationship between glucose and incident cardiovascular events: a metaregression analysis of published data from 20 studies of 95,783 individuals followed for 12.4 years</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Coutinho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Gerstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="233" to="240" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">American Diabetes Association: Screening for type 2 diabetes</title>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="S11" to="S14" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+	<note>Suppl. 1</note>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<monogr>
+		<title level="m">Vital Statistics</title>
+				<meeting><address><addrLine>Taiwan</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+			<biblScope unit="volume">2</biblScope>
+		</imprint>
+		<respStmt>
+			<orgName>Taiwan Department of Health: Health and Vital Statistics</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Deaths: final data for</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kochanek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Murphy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">N</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Scott</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Natl Vital Stat Rep</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<date type="published" when="2002">2002. 2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<monogr>
+		<title level="m" type="main">Public Health Service: Health and vital statistics. 1. General health statistics. Hyattsville, MD, Centers for Disease Control and Prevention</title>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+		</imprint>
+		<respStmt>
+			<orgName>U.S. Department of Health and Human Services ; National Center for Health Statistics</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<monogr>
+		<title level="m" type="main">Japan Statistics and Information Department, Minister&apos;s Secretariat, Ministry of Health, Labor and Welfare: Vital Statistics of Japan. Vols. 1 and 3. Tokyo, Japan Health and Welfare Statistics Association</title>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Prevalence and awareness of diabetes and mean fasting glucose by age, sex, and region: results from the Nutrition and Health Survey in Taiwan</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">H</forename><surname>Pan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">T</forename><surname>Yeh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">Y</forename><surname>Chang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Hwu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">T</forename><surname>Ho</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabet Med</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="182" to="185" />
+			<date type="published" when="1993">1993-1996. 2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<monogr>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">H</forename><surname>Lu</surname></persName>
+		</author>
+		<title level="m">Is high diabetes mortality in Taiwan due to coding artifact? Implications for international comparisons (Letter)</title>
+				<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Res Clin Pract</title>
+		<imprint>
+			<biblScope unit="volume">60</biblScope>
+			<biblScope unit="page" from="75" to="76" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Accuracy of cause-of-death coding in Taiwan: types of miscoding and effects on mortality statistics</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">H</forename><surname>Lu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Chou</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="336" to="343" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

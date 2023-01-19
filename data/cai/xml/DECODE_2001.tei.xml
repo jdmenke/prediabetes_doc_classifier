@@ -1,0 +1,1085 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Glucose Tolerance and Cardiovascular Mortality</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date>06/30/2021</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<title level="a" type="main">Glucose Tolerance and Cardiovascular Mortality</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published">06/30/2021</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">911315E1D71BEC82C186037BFA187DDE</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.1" ident="GROBID" when="2022-07-19T23:01+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The DECODE Study Group, on behalf of the European Diabetes Epidemiology Group Background: New diagnostic criteria for diabetes based on fasting blood glucose (FBG) level were approved by the American Diabetes Association. The impact of using FBG only has not been evaluated thoroughly. The fasting and the 2-hour glucose (2h-BG) criteria were compared with regard to the prediction of mortality.</p><p>Methods: Existing baseline data on glucose level at fasting and 2 hours after a 75-g oral glucose tolerance test from 10 prospective European cohort studies including 15388 men and 7126 women aged 30 to 89 years, with a median follow-up of 8.8 years, were analyzed. Hazards ratios for death from all causes, cardiovascular disease, coronary heart disease, and stroke were estimated.</p><p>Results: Multivariate Cox regression analyses showed that the inclusion of FBG did not add significant information on the prediction of 2h-BG alone (PϾ.10 for various causes), whereas the addition of 2h-BG to FBG cri-teria significantly improved the prediction (PϽ.001 for all causes and PϽ.005 for cardiovascular disease). In a model including FBG and 2h-BG simultaneously, hazards ratios (95% confidence intervals) in subjects with diabetes on 2h-BG were 1.73 (1.45-2.06) for all causes, 1.40 (1.02-1.92) for cardiovascular disease, 1.56 (1.03-2.36) for coronary heart disease, and 1.29 (0.66-2.54) for stroke mortality, compared with the normal 2h-BG group. Compared with the normal FBG group, the corresponding hazards ratios in subjects with diabetes on FBG were 1.21 (1.01-1.44), 1.20 (0.88-1.64), 1.09 (0.71-1.67), and 1.64 (0.88-3.07), respectively. The largest number of excess deaths was observed in subjects who had impaired glucose tolerance but normal FBG levels.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion:</head><p>The 2h-BG is a better predictor of deaths from all causes and cardiovascular disease than is FBG. Med. 2001;161:397-404   N EW DIAGNOSTIC criteria for diabetes mellitus based on the fasting blood glucose level alone (fasting plasma glucose Ն7.0 mmol/L [126 mg/dL]) were approved by the American Diabetes Association (ADA) Expert Group. <ref type="bibr" target="#b0">1</ref> For epidemiological purposes, the ADA recommended the use of fasting glucose level alone and did not recommend the 2-hour 75-g oral glucose tolerance test. The choice of the cutoff point was based on bimodalities in the fasting glucose distribution <ref type="bibr" target="#b0">1</ref> and on the association between fasting glucose level and risk of diabetic retinopathy. The World Health Organization) adopted the same fasting glucose level as the ADA, but retained the use of the 2-hour glucose tolerance test for the diagnosis of diabetes in population studies. <ref type="bibr" target="#b1">2</ref> The 2-hour 75-g oral glucose tolerance test has been the international standard for diabetes diagnosis since 1985 <ref type="bibr" target="#b2">3</ref> and the basis of much epidemiological data in the medical lit-erature about risks of complications associated with diabetes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Arch Intern</head><p>To evaluate the prognostic impact of the new fasting glucose criteria, the DECODE (Diabetes Epidemiology: Collaborative analysis Of Diagnostic criteria in Europe) Study was initiated. We have previously reported that there was a high degree of disagreement in the fasting and 2-hour glucose classifications in European populations. <ref type="bibr" target="#b3">4</ref> Among subjects with diabetes diagnosed by a fasting glucose level of 7.0 mmol/L or more, only 46% also had 2-hour glucose level of 11.1 mmol/L or more (Ն200 mg/dL), the 2-hour glucose diagnostic criterion for diabetes. <ref type="bibr" target="#b1">2,</ref><ref type="bibr" target="#b2">3</ref> Furthermore, analyses of the DECODE database showed that abnormalities in 2-hour glucose levels were better predictors of allcause mortality than fasting glucose alone. <ref type="bibr" target="#b4">5</ref> A high 2-hour glucose concentration was found to be associated with an increased risk of death, independent of the level of fasting blood glucose, whereas mortality associated with the fasting glucose con-</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>ORIGINAL INVESTIGATION</head><p>Members of the DECODE Group are listed in a box on page 410.</p><p>centration depended on the level of 2-hour glucose, in all categories of fasting glucose.</p><p>Because most patients with type 2 diabetes mellitus die of cardiovascular diseases (CVD) and not of microvascular complications, cardiovascular mortality and morbidity should be considered in defining the diagnostic criteria for diabetes. Herein we report on cardiovascular deaths as well as all-cause deaths in the DECODE Study population.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head><p>The number of men and women and the percentage of deaths due to cardiovascular and all causes, according to the fasting and the 2-hour glucose criteria, by DECODE study centers, are shown in  <ref type="table" target="#tab_2">2</ref>, respectively, for subjects not previously known as diabetic. Age-standardized death rates from all causes and cardiovascular causes were higher in diabetic subjects than in those not meeting diabetic criteria (Tables <ref type="table" target="#tab_2">1 and 2</ref>). Increased mortality was also observed in subjects with IGT (Table <ref type="table" target="#tab_2">2</ref>), whereas there was no difference between subjects with IFG and those with normal fasting glucose (Table <ref type="table" target="#tab_1">1</ref>). Mortality from the various causes was higher in men than in women (Tables <ref type="table" target="#tab_2">1 and 2</ref>).</p><p>Subjects who had 2-hour glucose levels of 11.1 mmol/L or more (whole blood, Ն10.0 mmol/L) and fasting glucose levels less than 7.0 mmol/L (whole blood, Ͻ6.1mmol/L) were older and had higher serum cholesterol levels than those whose fasting glucose levels were Ն7.0 mmol/L (whole blood, Ն6.1 mmol/L) and 2-hour glucose levels less than 11.1 mmol/L (whole blood, Ͻ10.0 mmol/L). The latter group was more obese (Table <ref type="table" target="#tab_3">3</ref>).</p><p>Multivariate-adjusted Cox proportional hazards model analyses showed that diabetic subjects by either the fasting or the 2-hour glucose criteria had an in-</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>PARTICIPANTS AND METHODS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>PARTICIPANTS AND METHODS</head><p>The study populations and the methods used to recruit the participants have been reported previously. <ref type="bibr" target="#b3">[4]</ref><ref type="bibr" target="#b4">[5]</ref><ref type="bibr" target="#b5">[6]</ref> Briefly, researchers in Europe who had performed population-based studies or large studies in occupational groups using the standard 2-hour 75-g oral glucose tolerance test were invited to participate in the DECODE Study. Individual data on fasting and 2-hour glucose concentrations and several other variables were sent to the Diabetes and Genetic Epidemiology Unit of the National Public Health Institute in Helsinki, Finland, for collaborative data analyses. In this article, only the studies with prospective data on cause-specific mortality and all required confounding variables (cholesterol, blood pressure, smoking habits, and body mass index) were included.</p><p>Atotalof13centersprovidedcause-specificmortalitydata for the DECODE Study, 10 of which provided data with all the covariates required. All 10 studies included men (n=15388) and 6 included women (n=7126). Among the 22514 subjects, aged 30 to 89 years, 796 subjects were previously diagnosed as having diabetes. For the other 21718 subjects who had no previous history of diabetes, the median duration of followup was 8.8 years (5.8 and 20.6 years for the 25th and the 75th quartiles, respectively), and 208203 person-years in men and 52536 person-years in women were accumulated.</p><p>Subjects who had not previously been diagnosed as having diabetes were classified according to the following criteria: (1) 2-hour glucose criteria alone: 2-hour plasma glucose concentrations of 11.1 mmol/L or more (Ն10.0 mmol/L [Ն180 mg/dL] for whole blood) for diabetes, 7.8 to 11.0 mmol/L (140-198 mg/dL) (6.7-9.9 mmol/L [121-178 mg/ dL] for whole blood) for impaired glucose tolerance (IGT), and less than 7.8 mmol/L (Ͻ140 mg/dL) (Ͻ6.7 mmol/L [Ͻ121 mg/dL] for whole blood) for normal glucose tolerance; and (2) fasting glucose criteria alone: fasting plasma glucose level of 7.0 mmol/L or more (Ն126 mg/dL) (Ն6.1 mmol/L [Ն110 mg/dL] for whole blood) for diabetes, 6.1 to 6.9 mmol/L (110-124 mg/dL) (5.6-6.0 mmol/L [101-108 mg/dL] for whole blood) for impaired fasting glucose (IFG), and less than 6.1 mmol/L (Ͻ110 mg/dL) (Ͻ5.6 mmol/L [Ͻ101 mg/dL] for whole blood) for normal fasting glucose.</p><p>Vital status information was recorded for each of the subjects attending the baseline examination in all of the studies. Subjects who emigrated, for whom the vital status could not be confirmed, were treated as censored at the time of emigration. Follow-up was complete, ranging from 95.2% in the Paris Prospective Study to 100% in most of the other studies. <ref type="bibr" target="#b4">5</ref> Causes of death were classified using the International Classification of Diseases, Eighth and Ninth Revision, codes 401-448 (CVD), 410-414 (coronary heart disease [CHD]), and 430-438 (stroke).</p><p>Body mass index (BMI) was calculated as weight in kilograms divided by the square of height in meters. Subjects were classified as nonsmokers, ex-smokers, and current smokers.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>STATISTICAL ANALYSIS</head><p>Age-standardized mortality was calculated using 10-year age groups, separately for men and women, and direct standardization for a European standard population. <ref type="bibr" target="#b6">7</ref> Age-and center-standardized means were compared using analysis of variance according to the diabetic status defined by the fasting and by the 2-hour glucose criteria. Hazard ratios of cause-specific and all-cause mortality were estimated for the various glucose categories, using the Cox proportional hazards model, and adjusting for age, center, BMI, systolic blood pressure, serum cholesterol level, smoking status, and sex if men and women were combined. Results are presented as mortality hazards ratios and 95% confidence intervals, with respect to the given reference groups. Cumulative mortality curves were estimated by the same Cox proportional hazards model. Nested models were compared using a 2 log-likelihood ratio test to determine whether men and women had significantly different hazards ratios and whether the fasting glucose criteria or the 2-hour glucose criteria were independent of each other in predicting mortality from cardiovascular causes and from all causes. The absolute number of excess deaths from all cardiovascular causes was calculated by comparison with the group determined to be strictly normal using both the fasting and the 2-hour glucose criteria. creased hazards ratio of death from cardiovascular causes and from all causes compared with those normal on the corresponding criteria (Table <ref type="table" target="#tab_4">4</ref>). The hazards ratios for the various causes of death tended to be higher in diabetic women than in diabetic men, but these differences in hazards ratios were significant only for CHD mortality ( 2 =11.57 for fasting glucose criteria and 2 =11.35 for 2-hour glucose criteria, 3 df, PϽ.01). Increased hazards ratios for deaths from all-cause, CVD, and CHD mortality were also observed in subjects with IGT, but not in subjects with IFG (Table <ref type="table" target="#tab_4">4</ref>). In a model including the fasting and the 2-hour glucose criteria simultaneously, the hazards ratios for death from the various causes were only slightly reduced in individuals with IGT or diabetes for the 2-hour glucose (Table <ref type="table" target="#tab_5">5</ref>), but decreased significantly in subjects with IFG and diabetes for the fasting glucose. Comparing nested models, inclusion of the fasting glucose categories did not significantly improve the prediction of the 2-hour glucose alone, in contrast, addition of the 2-hour categories to the fasting glucose categories significantly improved the prediction (except in the case of stroke mortality) (Table <ref type="table" target="#tab_5">5</ref>).</p><p>The cumulative hazards curves (Figure <ref type="figure">1</ref>) further illustrate the differences between the 2 diagnostic criteria. Previously known diabetic subjects had worse survival profiles for fatal CVD and CHD events than those observed in the newly diagnosed diabetic subjects according to either the fasting or the 2-hour glucose criteria. The survival curves for known and screened diabetic subjects were similar for fatal stroke events and for all-cause mortality. The subjects with IGT had a survival profile in between the diabetic and the normal subjects according to the 2-hour glucose criteria and clearly worse than the normal subjects for fatal cardiovascular events and for all-cause mortality. The subjects with IFG had a survival curve similar to that of the subjects nor- moglycemic on the fasting glucose criteria alone. Overall, the cumulative hazard curves were better separated for the three 2-hour glucose categories than for the 3 fasting glucose categories, indicating that the former classification provides a better discrimination for cardiovascular fatal events and for all-cause death.</p><p>The highest absolute number of excess cardiovascular deaths attributable to the fasting and the 2-hour glucose criteria was for subjects with IGT, particularly those who had normal fasting glucose levels (Figure <ref type="figure" target="#fig_2">2</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>COMMENT</head><p>Diabetes is an important independent risk factor for CVD mortality. <ref type="bibr" target="#b7">[8]</ref><ref type="bibr" target="#b8">[9]</ref><ref type="bibr" target="#b9">[10]</ref><ref type="bibr" target="#b10">[11]</ref><ref type="bibr" target="#b13">[12]</ref><ref type="bibr" target="#b14">[13]</ref><ref type="bibr" target="#b15">[14]</ref><ref type="bibr" target="#b16">[15]</ref> Hyperglycemia, in the absence of clinically diagnosed diabetes, has also been associated with an increased risk of CVD and all-cause mortality in some, but not all studies. <ref type="bibr" target="#b7">[8]</ref><ref type="bibr" target="#b8">[9]</ref><ref type="bibr" target="#b9">[10]</ref><ref type="bibr" target="#b10">[11]</ref> The lack of adjustment for the established risk factors, applying unstandardized meth-ods for the glucose test and the small number of events obtained during follow-up might have contributed to these inconsistencies. Our analyses, based on a large European population with more than 260000 person-years of follow-up, show that asymptomatic diabetes as well as IGT defined by the 2-hour glucose criteria alone, increased the risk of death from cardiovascular causes and all causes, independent of other known risk factors and the level of fasting glucose. In contrast, mortality associated with the fasting glucose concentration depended largely on the level of 2-hour glucose.</p><p>This study is a collaborative study based on the data collected from 10 different centers in different countries in Europe. There is no uniform approach to the quality control in the glucose measurements. This was not possible in such a large collaborative study based on retrospective data. Also, as in other population studies, fasting status could not always be assured. It is possible that failure to report prior energy (calorie)  *Data are given as hazards ratios (95% confidence intervals), adjusted for age, center, total cholesterol, body mass index, systolic blood pressure, smoking, and sex when men and women are combined (all). DECODE indicates Diabetes Epidemiology: Collaborative analysis Of Diagnostic criteria in Europe; IFG, impaired fasting glucose; and IGT, impaired glucose tolerance.</p><p>†Using fasting plasma (whole blood) glucose Ͻ6.1 (5.6) mmol/L as reference group. To convert glucose to milligrams per deciliter, divide by 0.05551. ‡Using 2-hour postload plasma (whole blood) glucose Ͻ7.8 (6.7) mmol/L as reference group.   consumption resulted in false elevated fasting glucose concentrations in some individuals, and these subjects might have been misclassified as diabetic or IFG. However, the fasting status must also have had an influence on 2-hour glucose values because fasting and 2-hour glucose concentrations were correlated in subjects with higher fasting glucose concentrations. <ref type="bibr" target="#b2">3</ref> Moreover, the excess risk of CVD deaths observed among subjects with normal fasting glucose levels but who were diabetic or IGT according to the 2-hour glucose criteria could not be explained by the failure to fast. The fasting glucose concentration has been considered to have good reproducibility, small variability, and easy application in clinical practice. However, the fasting state is difficult to assure in a population study, <ref type="bibr" target="#b2">3</ref> and it has been found that fasting glucose level was not more reliable than postload glucose level when measurements were repeated in an elderly population. <ref type="bibr" target="#b40">39</ref> For epidemiological studies, the ADA did not recommend the use of the 2-hour glucose measurement. <ref type="bibr" target="#b0">1</ref> However, in our study, the 2-hour glucose value certainly gave additional prognostic information on the risk of death from various causes. In our study, about one third of the men (148 of 443) and 44% of the women (94 of 213) who were diabetic according to the 2-hour glucose criteria were classified as normal according to the fasting glucose criteria. These subjects carried a 50% higher risk for CVD mortality and 100% higher risk for all-cause mortality compared with subjects who had strictly normal levels for both glucose criteria. The fact that inclusion of the 2-hour glucose with the fasting glucose criteria significantly improved the prediction indicates that the predictive ability of the fasting glucose largely depended on the levels of 2-hour glucose. Conversely, that fasting glucose levels did not add statistically significant information on the prediction of deaths once the 2-hour value was included in the model demonstrated that the relation between the 2-hour glucose level and the risk of deaths was independent of the fasting glucose levels.</p><p>A new category, IFG, based on fasting glucose level alone was introduced by the ADA Expert Group. <ref type="bibr" target="#b0">1</ref> It was claimed that IFG and IGT, based on the 2-hour glucose concentration, were metabolic stages intermediate between normal glucose homeostasis and diabetes, and both were risk factors for future diabetes and CVD. It is clear from our study that people with IFG and IGT do not have a similar prognosis with regard to CVD risk. We failed to show any independent association of IFG with risk of death from CVD and CHD; however, IFG was associated with stroke mortality in women. In contrast, the IGT category based on the 2-hour glucose concentration predicted mortality from all causes, CVD, and CHD. The largest number of excess CVD deaths was found in subjects with IGT who had a normal fasting glucose level, which also indicates that the IGT classification has prognostic importance and cannot be replaced by IFG.</p><p>Diabetic women had a higher hazards ratio of death from the CVD causes than the diabetic men, although the difference in the hazards ratio between men and women was statistically significant only for CHD mortality. This 7.8 -11.0 (6.7 -9.9) ≥11.1 (10.0) &lt;6.1 (5.6) 6.1 -6.9 (5.6 -6.0) ≥7.0 (6.1) &lt;6.1 (5.6) 6.1 -6.9 (5.6 -6.0) ≥7.0 (6.1) &lt;6.1 (5.6) 6.1 -6.9 (5.6 -6.0) ≥7.0 (6.1)  finding was compatible with women's greater relative risk of CVD associated with diabetes, as reported in other studies. <ref type="bibr" target="#b41">40</ref> In this study, age-standardized mortality from various causes was higher in men than in women in each glucose category, especially in the normal glucose category. In men, the increase in mortality in the normal glucose category reduced the relative risk of death observed in diabetic men and indicates that men are at higher risk of death from risk factors other than hyperglycemia.</p><p>Age was an important confounding factor. It could be argued that the excess risk of death in diabetic subjects on the 2-hour glucose criteria could have been attributed to the older age in this group. However, age has been adjusted for in the data analyses, and the age difference was too small (only 2 years) to have any serious impact on mortality. Other known CVD risk factors were also taken into account and are unlikely to have influenced the observed difference between the fasting and the 2-hour glucose criteria.</p><p>In conclusion, diabetes and IGT determined by the 2-hour glucose criteria predicted mortality from the various causes, independent of the level of fasting glucose, whereas the association between mortality and diabetes and IFG based on fasting glucose depended largely on the 2-hour glucose categories. With regard to the prediction of death, classification by 2-hour glucose concentration is better than that by fasting glucose. July 20, 2000.  Qing Qiao, MD, PhD, was supported by a fellowship from Novo Nordisk, Bagsverd, Denmark.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Accepted for publication</head><p>Corresponding author and reprints: Qing Qiao, MD, PhD, Diabetes and Genetic Epidemiology Unit, Department of Epidemiology and Health Promotion, National Public Health Institute, Mannerheimintie 166, FIN-00300 Helsinki, Finland (e-mail: qing.qiao@ktl.fi).</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 2 .</head><label>2</label><figDesc>Figure 2. Estimated absolute number of excess cardiovascular deaths according to the duration of follow-up, with reference to the fasting and the 2-hour glucose categories in subjects not previously known as diabetic. Number (n) and the total percentage of subjects in each glucose category are presented. To convert glucose to milligrams per deciliter, divide by 0.05551.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1and Table</head><label>1and</label><figDesc></figDesc><table /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 1 . Number of Subjects and Percentage of Deaths From Cardiovascular Disease (CVD), Coronary Heart Disease (CHD), Stroke, and All Causes According to Fasting Glucose Categories, by DECODE Study Centers in Subjects Not Previously Diagnosed as Diabetic* Center Fasting Plasma (Whole Blood) Glucose Category, mmol/L †</head><label>1</label><figDesc></figDesc><table><row><cell></cell><cell></cell><cell cols="3">Normal Fasting Glucose</cell><cell></cell><cell cols="4">Impaired Fasting Glucose</cell><cell></cell><cell></cell><cell></cell><cell>Diabetes</cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell cols="2">Ͻ6.1 (5.6)</cell><cell></cell><cell></cell><cell></cell><cell cols="3">6.1-6.9 (5.6-6.0)</cell><cell></cell><cell></cell><cell></cell><cell cols="2">Ն7.0 (6.1)</cell><cell></cell></row><row><cell></cell><cell>No.</cell><cell>CVD</cell><cell cols="2">CHD Stroke</cell><cell>All</cell><cell>No.</cell><cell>CVD</cell><cell cols="2">CHD Stroke</cell><cell>All</cell><cell cols="2">No. CVD</cell><cell cols="2">CHD Stroke</cell><cell>All</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>Men</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Paris Prospective Study,</cell><cell>5532</cell><cell>5.7</cell><cell>2.5</cell><cell>1.3</cell><cell>26.4</cell><cell>1129</cell><cell>6.0</cell><cell>2.4</cell><cell>1.3</cell><cell>29.1</cell><cell cols="2">237 10.1</cell><cell>3.4</cell><cell>3.4</cell><cell>48.1</cell></row><row><cell>France</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>FIN MONICA, Finland</cell><cell>1813</cell><cell>4.1</cell><cell>3.3</cell><cell>0.5</cell><cell>8.4</cell><cell>183</cell><cell>2.2</cell><cell>1.6</cell><cell>0.5</cell><cell>3.8</cell><cell>40</cell><cell>7.5</cell><cell>5.0</cell><cell>0.0</cell><cell>10.0</cell></row><row><cell>Helsinki Policemen Study,</cell><cell cols="2">1055 18.0</cell><cell>11.5</cell><cell>4.0</cell><cell>36.4</cell><cell cols="2">48 27.1</cell><cell>20.8</cell><cell>4.2</cell><cell>47.9</cell><cell cols="2">17 41.2</cell><cell>29.4</cell><cell>11.8</cell><cell>64.7</cell></row><row><cell>Finland</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>MONICA Study, Northern</cell><cell>923</cell><cell>0.9</cell><cell>0.5</cell><cell>0.0</cell><cell>2.5</cell><cell>89</cell><cell>0.0</cell><cell>0.0</cell><cell>0.0</cell><cell>2.2</cell><cell>20</cell><cell>5.0</cell><cell>0.0</cell><cell>0.0</cell><cell>10.0</cell></row><row><cell>Sweden</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Hoorn Study, the</cell><cell>880</cell><cell>3.2</cell><cell>0.5</cell><cell>0.7</cell><cell>9.7</cell><cell>155</cell><cell>5.2</cell><cell>1.9</cell><cell>1.3</cell><cell>14.8</cell><cell>63</cell><cell>6.3</cell><cell>0.0</cell><cell>3.2</cell><cell>20.6</cell></row><row><cell>Netherlands</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Glostrup Study, Denmark</cell><cell cols="2">878 17.9</cell><cell>12.6</cell><cell>3.4</cell><cell>39.2</cell><cell cols="2">78 10.3</cell><cell>10.3</cell><cell>0.0</cell><cell>23.1</cell><cell cols="2">45 20.0</cell><cell>17.8</cell><cell>0.0</cell><cell>40.0</cell></row><row><cell>Cremona Study, Italy</cell><cell>670</cell><cell>2.5</cell><cell>0.7</cell><cell>0.3</cell><cell>8.4</cell><cell>47</cell><cell>6.4</cell><cell>0.0</cell><cell>2.1</cell><cell>19.1</cell><cell cols="2">17 11.8</cell><cell>0.0</cell><cell>11.8</cell><cell>23.5</cell></row><row><cell>Zutphen Study, the</cell><cell cols="2">320 10.6</cell><cell>5.3</cell><cell>2.2</cell><cell>22.5</cell><cell cols="2">90 12.2</cell><cell>6.7</cell><cell>1.1</cell><cell>27.8</cell><cell>32</cell><cell>6.3</cell><cell>6.3</cell><cell>0.0</cell><cell>31.3</cell></row><row><cell>Netherlands</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>East and west Finland</cell><cell cols="2">265 13.2</cell><cell>10.2</cell><cell>2.3</cell><cell>30.6</cell><cell cols="2">61 19.7</cell><cell>14.8</cell><cell>3.3</cell><cell>36.1</cell><cell cols="2">28 14.3</cell><cell>10.7</cell><cell>3.6</cell><cell>42.9</cell></row><row><cell>POL-MONICA, Poland</cell><cell>133</cell><cell>7.5</cell><cell>5.3</cell><cell>0.8</cell><cell>10.5</cell><cell>27</cell><cell>0.0</cell><cell>0.0</cell><cell>0.0</cell><cell>0.0</cell><cell>7</cell><cell>0.0</cell><cell>0.0</cell><cell>0.0</cell><cell>0.0</cell></row><row><cell>Total</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Unstandardized</cell><cell>12 469</cell><cell>7.0</cell><cell>4.0</cell><cell>1.4</cell><cell>21.4</cell><cell>1907</cell><cell>6.7</cell><cell>3.5</cell><cell>1.3</cell><cell>24.0</cell><cell cols="2">506 11.1</cell><cell>5.5</cell><cell>3.0</cell><cell>37.2</cell></row><row><cell>Age standardized</cell><cell>. . .</cell><cell>7.2</cell><cell>4.3</cell><cell>1.2</cell><cell>19.7</cell><cell>. . .</cell><cell>7.3</cell><cell>4.6</cell><cell>1.0</cell><cell>19.5</cell><cell>. . .</cell><cell>9.0</cell><cell>4.6</cell><cell>2.2</cell><cell>27.5</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>Women</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>FIN MONICA, Finland</cell><cell>2268</cell><cell>0.6</cell><cell>0.4</cell><cell>0.2</cell><cell>2.6</cell><cell>98</cell><cell>2.0</cell><cell>1.0</cell><cell>1.0</cell><cell>4.1</cell><cell>27</cell><cell>7.4</cell><cell>7.4</cell><cell>0.0</cell><cell>7.4</cell></row><row><cell>MONICA Study, Northern</cell><cell>1027</cell><cell>0.1</cell><cell>0.0</cell><cell>0.1</cell><cell>1.1</cell><cell>49</cell><cell>0.0</cell><cell>0.0</cell><cell>0.0</cell><cell>0.0</cell><cell>13</cell><cell>0.0</cell><cell>0.0</cell><cell>0.0</cell><cell>0.0</cell></row><row><cell>Sweden</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Hoorn Study, the</cell><cell>1089</cell><cell>1.3</cell><cell>0.0</cell><cell>0.5</cell><cell>5.3</cell><cell>131</cell><cell>1.5</cell><cell>0.0</cell><cell>0.0</cell><cell>9.9</cell><cell>57</cell><cell>1.8</cell><cell>0.0</cell><cell>1.8</cell><cell>10.5</cell></row><row><cell>Netherlands</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Glostrup Study, Denmark</cell><cell cols="2">872 11.6</cell><cell>6.3</cell><cell>3.0</cell><cell>25.6</cell><cell cols="2">52 13.5</cell><cell>3.8</cell><cell>7.7</cell><cell>19.2</cell><cell cols="2">34 26.5</cell><cell>20.6</cell><cell>5.9</cell><cell>35.3</cell></row><row><cell>Cremona Study, Italy</cell><cell>887</cell><cell>1.6</cell><cell>0.3</cell><cell>0.2</cell><cell>4.1</cell><cell>31</cell><cell>0.0</cell><cell>0.0</cell><cell>0.0</cell><cell>3.2</cell><cell>16</cell><cell>0.0</cell><cell>0.0</cell><cell>0.0</cell><cell>12.5</cell></row><row><cell>POL-MONICA, Poland</cell><cell>171</cell><cell>0.6</cell><cell>0.0</cell><cell>0.0</cell><cell>2.9</cell><cell>11</cell><cell>0.0</cell><cell>0.0</cell><cell>0.0</cell><cell>0.0</cell><cell>3</cell><cell>0.0</cell><cell>0.0</cell><cell>0.0</cell><cell>0.0</cell></row><row><cell>Total</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Unstandardized</cell><cell>6314</cell><cell>2.3</cell><cell>1.0</cell><cell>0.6</cell><cell>6.2</cell><cell>372</cell><cell>3.0</cell><cell>0.8</cell><cell>1.3</cell><cell>7.5</cell><cell>150</cell><cell>8.0</cell><cell>6.0</cell><cell>2.0</cell><cell>14.7</cell></row><row><cell>Age standardized</cell><cell>. . .</cell><cell>3.2 ‡</cell><cell>1.2 ‡</cell><cell>0.9 ‡</cell><cell>7.5 ‡</cell><cell>. . .</cell><cell>3.0 §</cell><cell>0.4 §</cell><cell>2.2</cell><cell cols="2">5.8 ‡ . . .</cell><cell>4.2</cell><cell>3.3</cell><cell>0.9</cell><cell>9.2 ‡</cell></row></table><note>*DECODE indicates Diabetes Epidemiology: Collaborative analysis Of Diagnostic criteria in Europe; MONICA, Monitoring of Trends and Determinants in Cardiovascular Disease. †To convert glucose to milligrams per deciliter, divide by 0.05551. ‡PϽ.001, men vs women. §PϽ.01, men vs women. PϾ.05, men vs women.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 2 . Number of Subjects and Percentage of Deaths From Cardiovascular Disease (CVD), Coronary Heart Disease (CHD), Stroke, and All Causes According to 2-Hour Glucose Categories, by DECODE Study Centers in Subjects Not Previously Diagnosed as Diabetic* Center 2-h Plasma (Whole Blood) Glucose Category, mmol/L †</head><label>2</label><figDesc></figDesc><table><row><cell></cell><cell></cell><cell cols="3">Normal Glucose Tolerance</cell><cell></cell><cell cols="4">Impaired Glucose Tolerance</cell><cell></cell><cell></cell><cell></cell><cell>Diabetes</cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell cols="2">Ͻ7.8 (6.7)</cell><cell></cell><cell></cell><cell></cell><cell cols="3">7.8-11.0 (6.7-9.9)</cell><cell></cell><cell></cell><cell></cell><cell cols="2">Ն11.1 (10.0)</cell><cell></cell></row><row><cell></cell><cell>No.</cell><cell>CVD</cell><cell cols="2">CHD Stroke</cell><cell>All</cell><cell>No.</cell><cell>CVD</cell><cell cols="2">CHD Stroke</cell><cell>All</cell><cell cols="2">No. CVD</cell><cell cols="2">CHD Stroke</cell><cell>All</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>Men</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Paris Prospective Study,</cell><cell>6102</cell><cell>5.6</cell><cell>2.4</cell><cell>1.3</cell><cell>25.6</cell><cell>638</cell><cell>7.5</cell><cell>3.3</cell><cell>2.2</cell><cell>39.7</cell><cell cols="2">158 10.1</cell><cell>3.8</cell><cell>3.2</cell><cell>55.7</cell></row><row><cell>France</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>FIN MONICA, Finland</cell><cell>1766</cell><cell>3.5</cell><cell>2.8</cell><cell>0.5</cell><cell>7.3</cell><cell>236</cell><cell>7.6</cell><cell>5.5</cell><cell>0.8</cell><cell>11.9</cell><cell>34</cell><cell>8.8</cell><cell>5.9</cell><cell>0.0</cell><cell>17.6</cell></row><row><cell>Helsinki Policemen</cell><cell cols="2">1067 18.1</cell><cell>11.7</cell><cell>3.8</cell><cell>36.5</cell><cell cols="2">43 32.6</cell><cell>20.9</cell><cell>9.3</cell><cell>53.5</cell><cell cols="2">10 30.0</cell><cell>20.0</cell><cell>10.0</cell><cell>60.0</cell></row><row><cell>Study, Finland</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>MONICA Study, Northern</cell><cell>944</cell><cell>0.8</cell><cell>0.5</cell><cell>0.0</cell><cell>2.6</cell><cell>72</cell><cell>1.4</cell><cell>0.0</cell><cell>0.0</cell><cell>2.8</cell><cell>16</cell><cell>0.0</cell><cell>0.0</cell><cell>0.0</cell><cell>0.0</cell></row><row><cell>Sweden</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Hoorn Study, the</cell><cell>938</cell><cell>3.4</cell><cell>0.5</cell><cell>0.9</cell><cell>9.8</cell><cell>107</cell><cell>6.5</cell><cell>1.9</cell><cell>0.9</cell><cell>15.9</cell><cell>53</cell><cell>1.9</cell><cell>0.0</cell><cell>1.9</cell><cell>22.6</cell></row><row><cell>Netherlands</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Glostrup Study, Denmark</cell><cell cols="2">629 19.4</cell><cell>13.7</cell><cell>3.8</cell><cell>44.4</cell><cell cols="2">292 14.0</cell><cell>11.0</cell><cell>1.7</cell><cell>26.0</cell><cell cols="2">80 13.8</cell><cell>11.3</cell><cell>1.3</cell><cell>31.3</cell></row><row><cell>Cremona Study, Italy</cell><cell>657</cell><cell>2.1</cell><cell>0.8</cell><cell>0.2</cell><cell>7.8</cell><cell>61</cell><cell>9.8</cell><cell>0.0</cell><cell>3.3</cell><cell>23.0</cell><cell cols="2">16 12.5</cell><cell>0.0</cell><cell>12.5</cell><cell>25.0</cell></row><row><cell>Zutphen Study, the</cell><cell cols="2">356 11.0</cell><cell>5.6</cell><cell>2.2</cell><cell>23.3</cell><cell>50</cell><cell>6.0</cell><cell>2.0</cell><cell>0.0</cell><cell>26.0</cell><cell cols="2">36 13.9</cell><cell>11.1</cell><cell>0.0</cell><cell>30.6</cell></row><row><cell>Netherlands</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>East and west Finland</cell><cell cols="2">216 14.8</cell><cell>11.1</cell><cell>3.2</cell><cell>29.6</cell><cell cols="2">105 13.3</cell><cell>9.5</cell><cell>1.9</cell><cell>33.3</cell><cell cols="2">33 15.2</cell><cell>15.2</cell><cell>0.0</cell><cell>48.5</cell></row><row><cell>POL-MONICA, Poland</cell><cell>131</cell><cell>6.1</cell><cell>5.3</cell><cell>0.8</cell><cell>9.2</cell><cell>29</cell><cell>6.9</cell><cell>0.0</cell><cell>0.0</cell><cell>6.9</cell><cell>7</cell><cell>0.0</cell><cell>0.0</cell><cell>0.0</cell><cell>0.0</cell></row><row><cell>Total</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Unstandardized</cell><cell>12 806</cell><cell>6.7</cell><cell>3.7</cell><cell>1.4</cell><cell>21.0</cell><cell>1633</cell><cell>9.4</cell><cell>5.4</cell><cell>1.8</cell><cell>28.4</cell><cell cols="2">443 10.4</cell><cell>6.3</cell><cell>2.3</cell><cell>37.9</cell></row><row><cell>Age standardized</cell><cell>. . .</cell><cell>7.0</cell><cell>4.2</cell><cell>1.2</cell><cell>19.3</cell><cell>. . .</cell><cell>8.3</cell><cell>4.9</cell><cell>1.4</cell><cell>22.8</cell><cell>. . .</cell><cell>8.1</cell><cell>4.9</cell><cell>1.7</cell><cell>28.2</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>Women</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>FIN MONICA, Finland</cell><cell>2047</cell><cell>0.5</cell><cell>0.3</cell><cell>0.1</cell><cell>2.2</cell><cell>304</cell><cell>1.6</cell><cell>1.0</cell><cell>0.3</cell><cell>4.3</cell><cell>42</cell><cell>7.1</cell><cell>4.8</cell><cell>2.4</cell><cell>14.3</cell></row><row><cell>MONICA Study, Northern</cell><cell>954</cell><cell>0.1</cell><cell>0.0</cell><cell>0.1</cell><cell>0.8</cell><cell>110</cell><cell>0.0</cell><cell>0.0</cell><cell>0.0</cell><cell>1.8</cell><cell>25</cell><cell>0.0</cell><cell>0.0</cell><cell>0.0</cell><cell>4.0</cell></row><row><cell>Sweden</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Hoorn Study, the</cell><cell>1066</cell><cell>1.1</cell><cell>0.0</cell><cell>0.5</cell><cell>4.9</cell><cell>153</cell><cell>2.0</cell><cell>0.0</cell><cell>0.0</cell><cell>10.5</cell><cell>58</cell><cell>3.4</cell><cell>0.0</cell><cell>1.7</cell><cell>15.5</cell></row><row><cell>Netherlands</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Glostrup Study, Denmark</cell><cell cols="2">690 10.9</cell><cell>5.7</cell><cell>3.0</cell><cell>24.9</cell><cell cols="2">216 13.0</cell><cell>6.5</cell><cell>3.7</cell><cell>24.1</cell><cell cols="2">52 26.9</cell><cell>21.2</cell><cell>5.8</cell><cell>40.4</cell></row><row><cell>Cremona Study, Italy</cell><cell>813</cell><cell>1.4</cell><cell>0.4</cell><cell>0.2</cell><cell>3.2</cell><cell>91</cell><cell>3.3</cell><cell>0.0</cell><cell>0.0</cell><cell>12.1</cell><cell>30</cell><cell>0.0</cell><cell>0.0</cell><cell>0.0</cell><cell>6.7</cell></row><row><cell>POL-MONICA, Poland</cell><cell>129</cell><cell>0.8</cell><cell>0.0</cell><cell>0.0</cell><cell>3.1</cell><cell>50</cell><cell>0.0</cell><cell>0.0</cell><cell>0.0</cell><cell>2.0</cell><cell>6</cell><cell>0.0</cell><cell>0.0</cell><cell>0.0</cell><cell>0.0</cell></row><row><cell>Total</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Unstandardized</cell><cell>5699</cell><cell>1.9</cell><cell>0.8</cell><cell>0.6</cell><cell>5.4</cell><cell>924</cell><cell>4.2</cell><cell>1.8</cell><cell>1.0</cell><cell>10.3</cell><cell>213</cell><cell>8.9</cell><cell>6.1</cell><cell>2.3</cell><cell>18.3</cell></row><row><cell>Age standardized</cell><cell>. . .</cell><cell>3.2 ‡</cell><cell>1.1 ‡</cell><cell>1.1 ‡</cell><cell>6.9 ‡</cell><cell>. . .</cell><cell>3.7 ‡</cell><cell>1.2 ‡</cell><cell>1.0 §</cell><cell cols="2">9.6 ‡ . . .</cell><cell>5.1 §</cell><cell>3.7 §</cell><cell cols="2">1.2 § 11.2 ‡</cell></row><row><cell cols="15">*DECODE indicates Diabetes Epidemiology: Collaborative analysis Of Diagnostic criteria in Europe; MONICA, Monitoring of Trends and Determinants in</cell><cell></cell></row><row><cell>Cardiovascular Disease.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="6">†To convert glucose to milligrams per deciliter, divide by 0.05551.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>‡PϽ.001, men vs women.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>§PϾ.05, men vs women.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table><note>(REPRINTED) ARCH INTERN MED/ VOL 161, FEB 12, 2001 WWW.ARCHINTERNMED.COM 400 ©2001 American Medical Association. All rights reserved. Downloaded From: https://jamanetwork.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>com/ by a University of Michigan User on 06/30/2021Table 3 . Characteristics of Diabetic Subjects at Baseline According to Fasting and 2-Hour Glucose Criteria in Subjects Not Previously Diagnosed as Diabetic in the DECODE Study* Characteristic Plasma (Whole) Blood Glucose Category, mmol/L †</head><label>3</label><figDesc>Data are given as age-and center-standardized mean (SE). DECODE indicates Diabetes Epidemiology: Collaborative analysis Of Diagnostic criteria in Europe. †To convert glucose to milligrams per deciliter, divide by 0.05551. ‡To convert cholesterol to milligrams per deciliter, divide by 0.02586.</figDesc><table><row><cell></cell><cell>Fasting Ͻ7.0 (6.1)</cell><cell>Fasting Ն7.0</cell><cell>Fasting Ͻ7.0</cell><cell>Fasting Ն7.0</cell><cell></cell></row><row><cell></cell><cell>and 2-h Ͻ11.1 (10.0),</cell><cell>and 2-h Ͻ11.1,</cell><cell>and 2-h Ն11.1,</cell><cell>and 2-h Ն11.1,</cell><cell></cell></row><row><cell></cell><cell>Nondiabetic</cell><cell>Diabetic on Fasting</cell><cell>Diabetic on 2-h</cell><cell>Diabetic on Both</cell><cell></cell></row><row><cell></cell><cell>(n = 20 707)</cell><cell>(n = 355)</cell><cell>(n = 355)</cell><cell>(n = 301)</cell><cell>P</cell></row><row><cell>Age, y</cell><cell>53 (0.1)</cell><cell>54 (0.5)</cell><cell>56 (0.5)</cell><cell>60 (0.5)</cell><cell>Ͻ.001</cell></row><row><cell>Body mass index, kg/m 2</cell><cell>26.2 (0.03)</cell><cell>28.4 (0.2)</cell><cell>26.9 (0.2)</cell><cell>29.3 (0.2)</cell><cell>.02</cell></row><row><cell>Blood pressure, mm Hg</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Systolic</cell><cell>140 (0.1)</cell><cell>152 (1.1)</cell><cell>150 (1.1)</cell><cell>155 (1.2)</cell><cell>.02</cell></row><row><cell>Diastolic</cell><cell>82 (0.1)</cell><cell>87 (0.6)</cell><cell>86 (0.6)</cell><cell>88 (0.7)</cell><cell>.007</cell></row><row><cell>Serum cholesterol, mmol/L ‡</cell><cell>6.1 (0.01)</cell><cell>6.2 (0.1)</cell><cell>6.3 (0.1)</cell><cell>6.2 (0.1)</cell><cell>.001</cell></row></table><note>*</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Table 4 . Multivariate-Adjusted Hazards Ratios for Deaths From Cardiovascular Disease (CVD), Coronary Heart Disease (CHD), Stroke, and All Causes According to Fasting and 2-Hour Glucose Criteria: The DECODE Study* Plasma (Whole Blood) Glucose Category, mmol/L [Subjects Not Known as Diabetic]</head><label>4</label><figDesc></figDesc><table><row><cell>Known Diabetes ‡</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_5"><head>Table 5 . Adjusted Hazards Ratios for Deaths From Cardiovascular Disease (CVD), Coronary Heart Disease (CHD), Stroke, and All Causes With Fasting and 2-Hour Glucose Categories in the Same Model: The DECODE Study* Mortality Plasma (Whole Blood) Glucose Category, mmol/L [Subjects Not Known as Diabetic]</head><label>5</label><figDesc>DECODE indicates Diabetes Epidemiology: Collaborative analysis Of Diagnostic criteria in Europe; IFG, impaired fasting glucose; and IGT, impaired glucose tolerance. †Using fasting plasma (whole blood) glucose Ͻ6.1 (5.6) mmol/L as reference group. To convert glucose to milligrams per deciliter, divide by 0.05551. ‡Using 2-hour postload plasma (whole blood) glucose Ͻ7.8 (6.7) mmol/L as reference group. §Compared with the models in Table4, with only the 2-hour glucose criteria, 2 df. Compared with the models in Table4, with only the fasting glucose criteria, 2 df.</figDesc><table><row><cell>Known</cell></row><row><cell>Diabetes †</cell></row></table><note>*Data are given as hazards ratios (95% confidence intervals), adjusted for age, sex, center, total cholesterol, body mass index, systolic blood pressure, and smoking.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_6"><head></head><label></label><figDesc>Cumulative hazards curves for deaths from cardiovascular disease (CVD), coronary heart disease (CHD), stroke, and all causes, according to fasting and 2-hour glucose criteria. The cumulative hazards are estimated from Cox proportional hazards models and adjusted for age, center, sex, body mass index, blood pressure, serum cholesterol levels, and smoking status. DM indicates diabetes mellitus; IFG, impaired fasting glucose; and NGT, normal glucose tolerance.</figDesc><table><row><cell>Fasting Glucose Criteria</cell><cell></cell><cell>2-h Glucose Criteria</cell></row><row><cell>CVD</cell><cell></cell><cell>CVD</cell></row><row><cell></cell><cell>Known DM</cell><cell></cell></row><row><cell>Cumulative Hazards</cell><cell>Screened DM IFG Normal</cell><cell>Cumulative Hazards</cell></row><row><cell>CHD</cell><cell></cell><cell>CHD</cell></row><row><cell>Cumulative Hazards</cell><cell>Screened DM Known DM</cell><cell>Cumulative Hazards</cell></row><row><cell></cell><cell>IFG, Normal</cell><cell></cell></row><row><cell>Stroke</cell><cell></cell><cell>Stroke</cell></row><row><cell>Cumulative Hazards</cell><cell></cell><cell>Cumulative Hazards</cell></row><row><cell>All Causes</cell><cell></cell><cell>All Causes</cell></row><row><cell>Cumulative Hazards</cell><cell>Normal</cell><cell>Cumulative Hazards</cell></row><row><cell>Follow-up, y</cell><cell></cell><cell>Follow-up, y</cell></row><row><cell>Figure 1.</cell><cell></cell><cell></cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">(REPRINTED) ARCH INTERN MED/ VOL 161, FEB 12, 2001 WWW.ARCHINTERNMED.COM 398 ©2001 American Medical Association. All rights reserved. Downloaded From: https://jamanetwork.com/ by a University of Michigan User on 06/30/2021</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">(REPRINTED) ARCH INTERN MED/ VOL 161, FEB 12, 2001 WWW.ARCHINTERNMED.COM 399 ©2001 American Medical Association. All rights reserved. Downloaded From: https://jamanetwork.com/ by a University of Michigan User on 06/30/2021</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">(REPRINTED) ARCH INTERN MED/ VOL 161, FEB 12, 2001 WWW.ARCHINTERNMED.COM 401 ©2001 American Medical Association. All rights reserved. Downloaded From: https://jamanetwork.com/ by a University of Michigan User on 06/30/2021</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">(REPRINTED) ARCH INTERN MED/ VOL 161, FEB 12, 2001 WWW.ARCHINTERNMED.COM 402 ©2001 American Medical Association. All rights reserved. Downloaded From: https://jamanetwork.com/ by a University of Michigan User on 06/30/2021</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">(REPRINTED) ARCH INTERN MED/ VOL 161, FEB 12, 2001 WWW.ARCHINTERNMED.COM 403 ©2001 American Medical Association. All rights reserved. Downloaded From: https://jamanetwork.com/ by a University of Michigan User on 06/30/2021</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">(REPRINTED) ARCH INTERN MED/ VOL 161, FEB 12, 2001 WWW.ARCHINTERNMED.COM 404 ©2001 American Medical Association. All rights reserved. Downloaded From: https://jamanetwork.com/ by a University of Michigan User on 06/30/2021</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">©2001 American Medical Association. All rights reserved. Downloaded From: https://jamanetwork.com/ by a University of Michigan User on 06/30/2021</note>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data Analysis</head><p>Qing Qiao, Department of Epidemiology and Health Promotion, National Public Health Institute, Helsinki, Finland; Beverley Balkau, INSERM U258, Paris, France.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Writing Committee</head><p>Qing Qiao, Jaakko Tuomilehto, Diabetes and Genetic Epidemiology, Department of Epidemiology and Health Promotion, National Public Health Institute, Helsinki; Beverley Balkau, INSERM U258, Paris, France; Knut Borch-Johnsen, Steno Diabetes Center, Gentofte, Denmark; Kalevi Pyo ¨ra ¨la ¨, Department of Medicine, University of Kuopio, Finland.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Report of the Expert Committee on the Diagnosis and Classification of Diabetes Mellitus</title>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="1183" to="1197" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+	<note>The Expert Committee on the Diagnosis and Classification of Diabetes Mellitus</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">for a WHO Consultation. Definition, Diagnosis and Classification of Diabetes Mellitus and Its Complications, Part 1: Diagnosis and Classification of Diabetes Mellitus</title>
+		<author>
+			<persName><forename type="first">Kgmm</forename><surname>Alberti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">Z</forename><surname>Zimmet</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<pubPlace>Geneva, Switzerland</pubPlace>
+		</imprint>
+	</monogr>
+	<note>: World Health Organization</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Switzerland: World Health Organization</title>
+		<idno>Series 727</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Mellitus. Geneva</title>
+		<imprint>
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">Technical Report</note>
+	<note>World Health Organization Study Group</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Will new diagnostic criteria for diabetes mellitus change phenotype of patients with diabetics? reanalysis of European epidemiological data</title>
+	</analytic>
+	<monogr>
+		<title level="j">BMJ</title>
+		<imprint>
+			<biblScope unit="volume">317</biblScope>
+			<biblScope unit="page" from="371" to="375" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+		<respStmt>
+			<orgName>DECODE Study Group</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Glucose tolerance and mortality: comparison of WHO and American Diabetes Association diagnostic criteria</title>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">354</biblScope>
+			<biblScope unit="page" from="617" to="621" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+		<respStmt>
+			<orgName>DECODE Study Group</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Is fasting glucose sufficient to define diabetes? epidemiological data from 20 European studies</title>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="647" to="654" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+		<respStmt>
+			<orgName>DECODE Study Group</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<author>
+			<persName><forename type="first">J</forename><surname>Waterhouse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Muir</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Correa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Powell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Cancer Incidence in Five Continents</title>
+				<meeting><address><addrLine>Lyon, France</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1976">1976</date>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page">456</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Undiagnosed NIDDM: clinical and public health issues</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">I</forename><surname>Harris</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="642" to="652" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Mortality from coronary heart disease in the Tecumseh Study: long-term effect of diabetes mellitus, glucose tolerance and other risk factors</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">U</forename><surname>Butler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">D</forename><surname>Ostrander</surname><genName>Jr</genName></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">J</forename><surname>Carman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Lamphiear</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">121</biblScope>
+			<biblScope unit="page" from="541" to="547" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Relationship of clinical diabetes and asymptomatic hyperglycaemia to risk of coronary heart disease mortality in men and women</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">H</forename><surname>Pan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">B</forename><surname>Cedres</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Liu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">123</biblScope>
+			<biblScope unit="page" from="504" to="516" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">Type 2 (non-insulin-dependent) diabetes mellitus and car-The DECODE Study Participants The DECODE Study (Diabetes Epidemiology: Collaborative analysis Of Diagnostic Criteria in Europe) was undertaken in 1997 on the initiative of the European Diabetes Epidemiology Group (chairman: Knut Borch-Johnsen; vice-chairman: Andrew Neil; secretary: Beverley Balkau). Investigators and Study Centers</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Jarrett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Shipley</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>included in this analysis</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Turku, and Helsinki areas): Jaakko Tuomilehto, Pekka Jousilahti, Jaana Lindstrøm, Department of Epidemiology and Health Promotion, National Public Health Institute, Helsinki; Helsinki Policemen Study: Marja Pyo ¨ra ¨la ¨, Kalevi Pyo ¨ra ¨la ¨</title>
+		<author>
+			<persName><forename type="first">Jacqueline</forename><forename type="middle">M</forename><surname>Dekker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robert</forename><forename type="middle">J</forename><surname>Heine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Nijpels</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Coen</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Stehouwer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">INSERM U258, Paris; Italy: Cremona Study: Giuseppe Gallus, Maria Paola Garancini</title>
+				<meeting><address><addrLine>Milan; the Netherlands; Amsterdam</addrLine></address></meeting>
+		<imprint/>
+		<respStmt>
+			<orgName>Denmark: Glostrup Population Studies: Svend Larsen, Knut Borch-Johnsen, Center of Preventive Medicine, Glostrup; Finland: East-West Finland Study: Aulikki Nissinen, Juha Pekkanen, Jaakko Tuomilehto, Department of Epidemiology and Health Promotion, National Public Health Institute, Helsinki; FIN-MONICA (Provinces of Kuopio and North Karelia ; Department of Medicine, University of Kuopio; France: Paris Prospective Study: Beverley Balkau, Eveline Eschwege ; Institute of Medical Statistics-University of Milan and Epidemiology Unit, S. Raffaele Institute ; Institute for Research Extramural Medicine, Vrije Universitet</orgName>
+		</respStmt>
+	</monogr>
+	<note>The Hoorn Study Research Group: Lex M. Bouter,</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Department of Clinical Epidemiology and Population Studies, Institute of Public Health</title>
+	</analytic>
+	<monogr>
+		<title level="j">Steno Diabetes Center</title>
+		<editor>A. Pajak</editor>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="737" to="740" />
+			<date type="published" when="1988">1988</date>
+			<publisher>National Public Health Institute</publisher>
+		</imprint>
+		<respStmt>
+			<orgName>The Zutphen Elderly Study: Edith J. M. Feskens, Daan Kromhout, Institute of Public Health, Bilthoven; Sweden: The Northern Sweden MONICA Study: Markku Peltonen, Department of Medicine, University of Umea ˚; Poland: POL-MONICA Study ; Jagiellonian University, Krakow. Secretariat Knut Borch-Johnsen</orgName>
+		</respStmt>
+	</monogr>
+	<note>Diabetologia</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Diabetes, other risk factors, and 12-yr cardiovascular mortality for men screened in the Multiple Risk Factor Intervention Trial</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Stamler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Vaccaro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Neaton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Wentworth</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="434" to="444" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Abnormal blood glucose and coronary heart disease: the Puerto Rico Heart Health Program</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Cruz-Vidal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Garcia-Palmieri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Costas</surname><genName>Jr</genName></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">D</forename><surname>Sorlie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Havlik</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="556" to="561" />
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Mortality among diabetics in a national sample</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Kleinman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">F</forename><surname>Donahue</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">I</forename><surname>Harris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">F</forename><surname>Finucane</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Madans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Brock</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">128</biblScope>
+			<biblScope unit="page" from="389" to="401" />
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Impact of cardiovascular risk factors on coronary heart disease and mortality among middle-aged diabetic men: a general population study</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rosengren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Welin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Tsipogianni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Wilhelmsen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMJ</title>
+		<imprint>
+			<biblScope unit="volume">299</biblScope>
+			<biblScope unit="page" from="1127" to="1131" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">The high risk of death by alcohol related diseases in subjects diagnosed as diabetic and impaired glucose tolerance: the Paris Prospective Study after 15 years of followup</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Balkau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Eschwege</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Ducimetiere</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J-L</forename><surname>Richard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J-M</forename><surname>Warnet</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page" from="465" to="474" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Coronary heart disease mortality in relation with diabetes, blood glucose and plasma insulin levels: the Paris Prospective Study, ten years later</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Eschwege</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J-L</forename><surname>Richard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Thibult</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Horm Metab Res</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="41" to="46" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+	<note>suppl</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Glucose tolerance and the risk of cardiovascular diseases: the Zutphen Study</title>
+		<author>
+			<persName><forename type="first">Ejm</forename><surname>Feskens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kromhout</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="1327" to="1334" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Sex differences in fasting glycemia as a risk factor for ischemic heart disease death</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Scheidt-Nave</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Barrett-Connor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Wingard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Cohn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Edelstein</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">133</biblScope>
+			<biblScope unit="page" from="565" to="576" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Relationship of postload plasma glucose to mortality with 19-yr followup: comparison of one versus two plasma glucose measurements in the Chicago Peoples Gas Company Study</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Vaccaro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename><surname>Ruth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Stamler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="1328" to="1334" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title level="m" type="main">Coronary heart disease incidence and cardiovascular mortality in Busselton with reference to glucose and insulin concentrations. Diabetes Care</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Welborn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Wearne</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1979">1979</date>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="154" to="160" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Non-cardiovascular disease mortality and diabetes mellitus</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Balkau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Pyorala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Shipley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">350</biblScope>
+			<biblScope unit="page">1680</biblScope>
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Asymptomatic hyperglycaemia and coronary heart disease in middle-aged men in two employed populations in Chicago</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Stamler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Stamler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">A</forename><surname>Lindberg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Chronic Dis</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="805" to="815" />
+			<date type="published" when="1979">1979</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Asymptomatic hyperglycaemia and coronary heart disease: a series of papers by the International Collaborative Group based on studies in fifteen populations</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Stamler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Stamler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Chronic Dis</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="683" to="837" />
+			<date type="published" when="1979">1979</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Risk factors for early death in non-insulindependent diabetes and men with known glucose tolerance status</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Balkau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Eschwege</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Papoz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMJ</title>
+		<imprint>
+			<biblScope unit="volume">307</biblScope>
+			<biblScope unit="page" from="295" to="299" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Hyperglycaemia is associated with allcause and cardiovascular mortality in the Hoorn population: the Hoorn Study</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>De Vegt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Dekker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">´hg</forename><surname>Ruhe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="926" to="931" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Epidemiology of NIDDM in Europids</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Valle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tuomilehto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Eriksson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">International Textbook of Diabetes Mellitus</title>
+				<editor>
+			<persName><forename type="first">Kgmm</forename><surname>Alberti</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">P</forename><surname>Zimmet</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Defronzo</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">H</forename><surname>Keen</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London, England</addrLine></address></meeting>
+		<imprint>
+			<publisher>Wiley &amp; Sons</publisher>
+			<biblScope unit="volume">1997</biblScope>
+			<biblScope unit="page" from="125" to="142" />
+		</imprint>
+	</monogr>
+	<note>2nd ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Glucose tolerance and coronary heart disease: Helsinki Policemen Study</title>
+		<author>
+			<persName><forename type="first">¨k</forename><surname>Pyo ¨ra ¨la</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Savolainen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Lehtovirta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Punsar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Siltanen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Chronic Dis</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="729" to="745" />
+			<date type="published" when="1979">1979</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Relationship of fasting blood glucose to prevalence of ECG abnormalities and 10 yr risk of mortality from cardiovascular diseases in men born in 1914: from the Glostrup Population Studies</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Schroll</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Hagerup</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Chronic Dis</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="699" to="707" />
+			<date type="published" when="1979">1979</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Is borderline hyperglycaemia a risk factor for cardiovascular death?</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Barrett-Connor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Wingard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Criqui</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Suarez</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Chronic Dis</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="773" to="779" />
+			<date type="published" when="1984">1984</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Is hyperglycaemia associated with cardiovascular disease? the Framingham Study</title>
+		<author>
+			<persName><forename type="first">Pwf</forename><surname>Wilson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Cupples</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">B</forename><surname>Kannel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am Heart J</title>
+		<imprint>
+			<biblScope unit="volume">121</biblScope>
+			<biblScope unit="page" from="586" to="590" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Does nondiabetic hyperglycaemia predict future IHD? evidence from the Caerphilly and Speedwell studies</title>
+		<author>
+			<persName><forename type="first">Jwg</forename><surname>Yarnell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Pickering</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">C</forename><surname>Elwood</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="383" to="388" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Glucose intolerance and nine-year mortality in Japanese men in Hawaii</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Yano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kagan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Mcgee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Rhoads</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Med</title>
+		<imprint>
+			<biblScope unit="volume">72</biblScope>
+			<biblScope unit="page" from="71" to="80" />
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Fasting blood glucose and risk of coronary heart disease, stroke, and all cause mortality: a 17-year followup study of men born in 1913</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">O</forename><surname>Ohlson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Svardsudd</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Welin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetic Med</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="33" to="37" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">High blood glucose concentration is a risk factor for mortality in middle-aged non-diabetic men: 20-year follow-up in the Whitehall Study, the Paris Prospective Study, and the Helsinki Policemen Study</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Balkau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Shipley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Jarrett</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="360" to="373" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Fasting blood glucose: an underestimated risk factor for cardiovascular death: results from a 22-year follow-up of healthy nondiabetic men</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">V</forename><surname>Bjornholt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Erikssen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Aaser</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="45" to="49" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<title level="m" type="main">The relationship between glucose and incident cardiovascular events: a metaregression analysis of published data from 20 studies of 95783 individuals followed for 12.4 years. Diabetes Care</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Coutinho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Gerstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Yusue</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="233" to="240" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Isolated postchallenge hyperglycaemia confirmed as a risk factor for mortality</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Shaw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Hodge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>De Courten</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Chitson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">Z</forename><surname>Zimmet</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="1050" to="1054" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Intra-and interindividual variability of glucose tolerance in an elderly population</title>
+		<author>
+			<persName><forename type="first">Ejm</forename><surname>Feskens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">H</forename><surname>Bowles</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kromhout</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page" from="947" to="953" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Heart disease and diabetes</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Wingard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E ;</forename><surname>Barrett-Connor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">I</forename><surname>Harris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Cowie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Stern</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Boyko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Reiber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">H</forename><surname>Bennett</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Diabetes in America</title>
+				<meeting><address><addrLine>Washington, DC</addrLine></address></meeting>
+		<imprint>
+			<publisher>US Government Printing Office</publisher>
+			<date type="published" when="1995">1995</date>
+			<biblScope unit="page" from="95" to="1468" />
+		</imprint>
+	</monogr>
+	<note>2nd ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title/>
+		<ptr target="WWW.ARCHINTERNMED.COM" />
+	</analytic>
+	<monogr>
+		<title level="j">ARCH INTERN MED</title>
+		<imprint>
+			<biblScope unit="volume">161</biblScope>
+			<date type="published" when="2001">FEB 12. 2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

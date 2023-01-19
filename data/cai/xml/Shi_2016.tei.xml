@@ -1,0 +1,873 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Association of impaired fasting glucose, diabetes and dietary patterns with mortality: a 10-year follow-up cohort in Eastern China</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2016-06-16">16 June 2016</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Zumin</forename><surname>Shi</surname></persName>
+							<email>zumin.shi@adelaide.edu.au</email>
+							<idno type="ORCID">0000-0002-3099-3299</idno>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Nutrition and Foodborne Disease Prevention</orgName>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Jiangsu Provincial Centre for Disease Control and Prevention</orgName>
+								<address>
+									<settlement>Nanjing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Discipline of Medicine</orgName>
+								<orgName type="institution">University of Adelaide</orgName>
+								<address>
+									<addrLine>Level 7</addrLine>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="institution">SAHMRI</orgName>
+								<address>
+									<postCode>5000</postCode>
+									<settlement>Adelaide</settlement>
+									<region>North TCE</region>
+									<country key="AU">Australia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Shiqi</forename><surname>Zhen</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Nutrition and Foodborne Disease Prevention</orgName>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Jiangsu Provincial Centre for Disease Control and Prevention</orgName>
+								<address>
+									<settlement>Nanjing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Paul</forename><forename type="middle">Z</forename><surname>Zimmet</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="institution">BakerIDI Heart and Diabetes Institute</orgName>
+								<address>
+									<settlement>Melbourne</settlement>
+									<country key="AU">Australia</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff5">
+								<orgName type="department">Department of Medicine</orgName>
+								<orgName type="institution">Monash University</orgName>
+								<address>
+									<settlement>Melbourne</settlement>
+									<country key="AU">Australia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Yonglin</forename><surname>Zhou</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Nutrition and Foodborne Disease Prevention</orgName>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Jiangsu Provincial Centre for Disease Control and Prevention</orgName>
+								<address>
+									<settlement>Nanjing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Yijing</forename><surname>Zhou</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Nutrition and Foodborne Disease Prevention</orgName>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Jiangsu Provincial Centre for Disease Control and Prevention</orgName>
+								<address>
+									<settlement>Nanjing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Dianna</forename><forename type="middle">J</forename><surname>Magliano</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="institution">BakerIDI Heart and Diabetes Institute</orgName>
+								<address>
+									<settlement>Melbourne</settlement>
+									<country key="AU">Australia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Anne</forename><forename type="middle">W</forename><surname>Taylor</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Discipline of Medicine</orgName>
+								<orgName type="institution">University of Adelaide</orgName>
+								<address>
+									<addrLine>Level 7</addrLine>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="institution">SAHMRI</orgName>
+								<address>
+									<postCode>5000</postCode>
+									<settlement>Adelaide</settlement>
+									<region>North TCE</region>
+									<country key="AU">Australia</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Association of impaired fasting glucose, diabetes and dietary patterns with mortality: a 10-year follow-up cohort in Eastern China</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2016-06-16">16 June 2016</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">7D345F615E499AE0141AFBAEAB5C10F2</idno>
+					<idno type="DOI">10.1007/s00592-016-0875-8</idno>
+					<note type="submission">Received: 26 April 2016 / Accepted: 2 June 2016 /</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.1" ident="GROBID" when="2022-07-19T23:01+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Diabetes</term>
+					<term>Mortality</term>
+					<term>Chinese</term>
+					<term>Cohort study</term>
+					<term>Dietary pattern</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Aims To examine the association between impaired fasting glucose (IFG)/type 2 diabetes and mortality as well as to explore any interactions with dietary intake patterns in a Chinese population. Methods We followed 2849 Chinese adults aged 20 years and older for 10 years. Fasting plasma glucose was measured at baseline in 2002. Dietary patterns were constructed using factor analysis. Hazard ratios (HRs) and 95 % confidence interval (CI) were calculated by Cox proportional hazards analysis (all-cause mortality) and competing risks regression [cardiovascular disease (CVD)]. Results Of the 2849 participants, 102 had diabetes and 178 had impaired fasting glucose (IFG) at baseline. We documented 184 deaths (70 CVD deaths) during 27,914 person-years of follow-up. Diabetes was associated with death from all causes (HR 2.69, 95 % CI 1.62-4.49) after adjusting for sociodemographic and lifestyle factors. Diabetes had a HR of 1.97 (95 % CI 0.84-4.60) for CVD death. IFG had 83 % increased risk of all-cause mortality. Among those with low and high intake of a vegetable-rich dietary pattern, the HR of IFG/diabetes for all-cause mortality was 3.25 (95 %CI 1.95-5.44) and 1.38 (95 % CI 0.75-2.55) (p for interaction 0.019), respectively. Conclusions Diabetes and IFG are associated with a substantial increased risk of death in Chinese adults. Dietary patterns associated with a high intake of vegetable were associated with a decrease in the risk of mortality for those with IFG/diabetes.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>The world is facing a diabetes epidemic with 415 million people living with diabetes <ref type="bibr" target="#b0">[1]</ref>. China is one of the countries with the highest prevalence of diabetes <ref type="bibr" target="#b1">[2,</ref><ref type="bibr" target="#b2">3]</ref>. It is well known that people with diabetes have a lower life expectancy. In Western countries, numerous data show that diabetes increases the risk of mortality, especially from cardiovascular disease (CVD) <ref type="bibr" target="#b3">[4]</ref><ref type="bibr">[5]</ref><ref type="bibr" target="#b5">[6]</ref><ref type="bibr" target="#b6">[7]</ref><ref type="bibr" target="#b7">[8]</ref>. However, studies in Asia in this area are limited <ref type="bibr" target="#b8">[9]</ref>. Several studies have been conducted among the Chinese population outside the mainland of China <ref type="bibr" target="#b9">[10]</ref><ref type="bibr" target="#b10">[11]</ref><ref type="bibr" target="#b11">[12]</ref><ref type="bibr" target="#b12">[13]</ref>. In China, most of the studies on the association between diabetes and mortality are hospital-based clinical studies or from chronic disease registries <ref type="bibr" target="#b13">[14,</ref><ref type="bibr" target="#b14">15]</ref>. There is only one general populationbased study-the Da Qing IGT and Diabetes Studywhich was conducted in northern China <ref type="bibr" target="#b15">[16]</ref> and was based on a trial population.</p><p>Managed by Massimo Porta.</p><p>White rice has a high glycaemic index, and a high intake of refined rice increases the risk of diabetes <ref type="bibr" target="#b16">[17]</ref>. Compared with wheat as the staple food, rice intake is inversely associated with weight gain and high blood pressure <ref type="bibr" target="#b17">[18]</ref>. Findings from Japan suggest that high rice intake is not associated with the risk of all-cause mortality in the general population <ref type="bibr" target="#b18">[19]</ref>. However, the interaction between rice intake, rice-based dietary patterns and IFG/diabetes in relation to mortality has not been studied in Japan or elsewhere. The aim of this study was to assess the interaction between IFG/diabetes and 10-year mortality as well as to explore any interactions with dietary intake patterns among Chinese adults in southeast China.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study population</head><p>The Jiangsu Nutrition Study (JIN) is an ongoing cohort study investigating the association of nutrition and other factors with the risk of non-communicable chronic disease <ref type="bibr" target="#b19">[20,</ref><ref type="bibr" target="#b20">21]</ref>. The sample was based on a subsample of the Chinese national nutrition and health survey representing Jiangsu province, and the year 2002 was used as a baseline. The rural sample was selected from six counties (Jiangyin, Taichang, Suining, Jurong, Sihong and Haimen). The urban sample was selected from the capital cities of the two prefectures (Nanjing and Xuzhou). In 2002, 2849 adults aged 20 and above had fasting blood samples analysed for plasma glucose and haemoglobin at the study sites.</p><p>The study was conducted according to the guidelines laid down in the Declaration of Helsinki, and all procedures involving human subjects/patients were approved by Jiangsu Provincial Centre for Disease Control and Prevention. Written informed consent was obtained from all the participants.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data collection and measurements</head><p>Participants were interviewed at their homes by health workers using a standard questionnaire.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Categories of glucose metabolism</head><p>We defined diabetes as fasting plasma glucose (FPG) [ 7.0 mmol/l or having known diabetes (self-reported doctor diagnosed). Impaired fasting glucose (IFG) was defined as FPG between 5.6 and 6.9 mmol/l without known diabetes. FPG \ 5.6 mmol/l was defined as normal fasting glucose (NFG) <ref type="bibr" target="#b21">[22]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Dietary measurements</head><p>Frequency of use and quantity of intake of 33 food groups and beverages during the past year were assessed using a validated food frequency questionnaire (FFQ) <ref type="bibr" target="#b22">[23]</ref>. Dietary patterns were constructed using factor analysis. Four dietary patterns were identified: Factor 1 ('macho') was characterized by various kinds of animal foods and alcohol. Factor 2 ('traditional') loaded heavily on rice and fresh vegetables and inversely on wheat flour. Factor 3 ('sweet tooth') had high loadings of cake, milk, yoghurt and beverages. Factor 4 ('vegetable-rich' pattern) had high intake of whole grains, fruits, vegetables, wheat flour, milk, eggs and fish but a low intake of rice (Supplement Figure <ref type="figure">1</ref>). Participants were assigned pattern-specific factor scores. Scores for each pattern were calculated as the sum of the products of the factor loading coefficients and standardized weekly intake of each food associated with that pattern. Detailed description of the dietary pattern identification has been published elsewhere <ref type="bibr" target="#b22">[23]</ref>. In the analyses, each dietary pattern was dichotomized as low and high intake based on factor scores.</p><p>In addition to the FFQ-based food intake calculation, food intake including rice intake was assessed using a 3-day weighed food record (WFR), which recorded all foods consumed by each individual, on three consecutive days (including one weekend) (N = 2832). At the beginning and end of the 3-day survey, health workers weighed all the food stocked in the household. Each day, all purchases, home production and processed snack foods were weighed and recorded. Food intakes of each individual in the household were recorded in detail each day. During the interview, the health workers would check any intake value for a particular food that fell below or above the usual intake value by the population in the region. For the current study, rice intake (presented as raw rice, g/day) for each individual was calculated based on the 3-day records. We did not consider underreporting and over-reporting of energy intake as an issue of concern because any unreliable data were checked by the health workers during the survey. Food consumption data were analysed using the Chinese Food Composition Table <ref type="bibr" target="#b23">[24]</ref>. In the analysis, rice intake was divided by total energy intake and further recoded into tertiles.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Covariates</head><p>Cigarette smoking was assessed by asking frequency of daily cigarette smoking. Alcohol consumption was assessed by asking the frequency and amount of alcohol/wine intake. Information on physical activity was collected using a validated physical activity questionnaire covering a time period of 1 year <ref type="bibr" target="#b24">[25]</ref>. Active commuting (walking or cycling to and from work) was categorized into three groups: none, 1-30 min per day and more than 30 min per day. Daily leisure time physical activity was classified into two categories (yes or no). Sedentary activity (reading, watching TV, using computer and playing video games) was categorized into three groups (\1 h/day, 1-2 h/day and [2 h/day). Occupation was recoded into manual or nonmanual based on a question with 12 occupational categories. Among people with known diabetes/dyslipidaemia, whether dietary change was used to manage the condition was asked. Hypertension was defined as systolic blood pressure above 140 mmHg and/or diastolic blood pressure above 90 mmHg, or using antihypertensive drugs. Overweight was defined as BMI C 24 kg/m 2 .</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Death ascertainment</head><p>The underlying cause of mortality was defined according to the World Health Organization International Classification of Disease, 10th revision (ICD-10). Information of death was collected in 2012 by household visit as well as by linking with the death registry database in the local Centre for Disease Control and Prevention. Thus, the identification of death was virtually complete. CVD mortality included ICD-10 codes I00-99. Cancer mortality was defined as ICD-10 C00-97.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analysis</head><p>The Chi-square test was used to compare differences in categorical and ANOVA in continuous variables. For each participant, person-years of follow-up were calculated from the date of baseline survey to the date of death or the date of last follow-up (1 December 2012), whichever came first. The association between diabetes/IFG and the risk of CVD was analysed using competing risks regression (stcrreg syntax in Stata), and the association between diabetes/IFG and all-cause mortality was analysed using Cox proportional hazard models, adjusting for multiple covariates. Two models assessed the association between diabetes/IFG and mortality. The first model controlled for age (continuous) and gender; the second model further adjusted for sociodemographic and lifestyle factors, chronic diseases (anaemia, BMI and hypertension) and intake of energy, fat and fibre. As the sample size in the full model was 2757 (96.8 % of the whole sample), we did not impute the missing data. Due to the low number of deaths, we also modelled a combined diabetes/IFG to reflect abnormal glucose tolerance. The proportional hazards assumption in the Cox model was assessed with graphical methods and with models including time-by-covariate interactions. In general, all proportionality assumptions were appropriate.</p><p>Interactions between diabetes/IFG and lifestyle factors (dietary patterns, rice intake, smoking, alcohol drinking and physical activity), sociodemographic factors (sex, occupation, residence and income) and overweight were conducted by adding a multiplicative term in the fully adjusted models. Results were presented graphically. As all the members in the household were invited to participate in the study, we used a cluster-robust variance estimator [Stata command: vce(cluster clustvar)] to accounted for the clustering at the household level in the estimation of the variance. This estimator relaxes the assumption of independence of the observations and produces the correct standard errors. Statistical significance was considered when p \ 0.05 (two-sided). All analyses were performed using Stata 14 (Stata Corp., College Station, TX, USA).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>Of the 2849 participants, 102 and 178 had diabetes and IFG, respectively, at baseline. Their mean age was 47.0 (SD 14.5) years. Table <ref type="table" target="#tab_0">1</ref> shows the sample characteristics by glucose metabolism categories. About half of those with diabetes reported dietary change to manage chronic disease. However, this figure was only 6 % among those with IFG. The mean intake of raw rice was above 100 g per 1000 kcal across all categories of glucose metabolism.</p><p>We documented 184 deaths (70 CVD deaths and 63 cancer deaths) during 27,914 person-years of follow-up. The overall all-cause mortality was 6.6 per 1000 personyears. The crude all-cause mortality was 5.8, 12.4 and 17.6 per 100 person-years among those with NFG, IFG and diabetes, respectively. Figure <ref type="figure">1</ref> shows the age-adjusted cumulative mortality by baseline glucose metabolism categories.</p><p>Diabetes (vs. NFG) was associated with death from all causes [HR 2.69, 95 % confidence interval (CI) 1.62-4.49] after adjusting for sociodemographic and lifestyle factors (Table <ref type="table" target="#tab_1">2</ref>). Additional adjustment for diet change slightly attenuated the HR for all-cause mortality to 2.59 (95 %CI 1.46-4.59) (data not shown). Participants with diabetes at baseline had a HR of 1.97 (95 % CI 0.84-4.60) for CVD death. Compared with NFG, IFG had increased risk of allcause mortality (HR 1.83, 95 %CI 1.13-2.97). When IFG/diabetes was combined, the HRs associated with allcause and CVD mortality were 2.12 (1.44-3.12) and 1.68 (0.87-3.24), respectively (Table <ref type="table" target="#tab_1">2</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Interactions</head><p>A vegetable-rich dietary pattern was inversely associated with all-cause mortality [for 1 SD increase in factor score, HR for all-cause mortality was 0.82 (95 %CI 0.67-0.99)] in the fully adjusted model. There was a significant interaction between vegetable-rich dietary pattern and IFG/diabetes in relation to all-cause mortality (p for interaction 0.019) (Fig. <ref type="figure">2</ref>). The HRs of IFG/diabetes for all-cause mortality were 3.25 (95 %CI 1.95-5.44) and 1.38 (95 % CI 0.75-2.55) among those with a low and high intake of vegetable-rich dietary pattern, respectively. No interaction between other dietary patterns and IFG/diabetes was found. There was a trend of increasing HRs of IFG/diabetes for all-cause mortality with the increase in rice intake, although p for interaction was not statistically significant (using rice intake as a continuous variable, p for interaction 0.199). With the increase in income, the HRs of IFG/diabetes for all-cause mortality decreased (p for interaction 0.193). Among those with low income, IFG/diabetes had a HR of 2.52 (95 %CI 1.43-4.43) for all-cause mortality.</p><p>There was no significant interaction between diabetes and residence or overweight in relation to mortality.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>In this general population-based prospective study, we found that both diabetes and IFG are associated with a substantial increased risk of all-cause mortality in Chinese adults. Compared with those with NFG, all-cause mortality risk in those with diabetes increased two and half times. Furthermore, there was a *80 % increased mortality from Values are % or mean (SD)</p><p>Fig. <ref type="figure">1</ref> Age-adjusted cumulative of all-cause mortality according to glucose categories: the Jiangsu Nutrition Study all causes among those with IFG. We also detected an interaction between diabetes and vegetable-rich dietary pattern in relation to mortality. In those with diabetes who had a low intake of vegetable-rich pattern had an increased risk of mortality compared to those who had a high intake of the pattern. However, overweight and residence (urban/ rural) were not associated with any increase in risk of mortality for those with diabetes. A two to three times excess risk of mortality has often been found among those with diabetes as compared with those without diabetes <ref type="bibr" target="#b9">[10,</ref><ref type="bibr" target="#b15">16]</ref>. Reductions in all-cause mortality among those with diabetes have occurred over time <ref type="bibr" target="#b25">[26]</ref>. The latest data from Sweden suggest that the overall excess risk of death had dropped to a historically low level of 15 % <ref type="bibr" target="#b7">[8]</ref>. In the Da Qing Study, the ageadjusted relative risk of death from all causes in those with diabetes was three times higher compared with those without diabetes <ref type="bibr" target="#b15">[16]</ref>. However, the Da Qing study started in 1980s, and over the past three decades there has been substantial development in the primary and secondary prevention of diabetes. Surprisingly, the excess risk of mortality in our study remained as high as 2.69 times. It may underline the poor control of glycaemic level <ref type="bibr" target="#b2">[3]</ref> as well as other risk factors among persons with diabetes in China. In our study, the prevalence of smoking was similar to the national average <ref type="bibr" target="#b26">[27]</ref>. A very low proportion of patients reported undertaking leisure time physical activity. Furthermore, the consumption of refined wheat rice was high. In the IFG and diabetes groups, the raw rice consumption was 117 and 106 g per 1000 kcal, respectively. These unhealthy lifestyles may lead to the poor control of glycaemic level and contribute to a high proportion of mortality among people with IFG/diabetes in China. The interaction between diabetes and income suggests that those in the disadvantaged population should be given priority for intervention.</p><p>The interaction between diabetes and vegetable-rich dietary pattern is consistent with current knowledge about the beneficial effects of fruit, vegetable and whole grain. The pattern is inversely associated with rice intake. It is also consistent with current knowledge about the relationship between rice intake and diabetes <ref type="bibr" target="#b16">[17]</ref>. Rice has a high glycaemic index and has previously been found to be associated with an increased risk of hyperglycaemia in the cohort <ref type="bibr" target="#b17">[18]</ref>. In general, a diet with a high glycaemic index impairs glycaemic control. It has been shown that poor glycaemic control increases the risk of mortality <ref type="bibr" target="#b7">[8]</ref>.</p><p>Overall, our study suggests a beneficial effect of engaging in physical activity and a high intake of vegetable-rich dietary pattern among those with diabetes. Because the prevalence of favourable lifestyle factors in the population is low, there appears an opportunity that lifestyle modification will be able to reduce a substantial number of premature deaths among those with diabetes.</p><p>Several limitations in our study should be acknowledged. Firstly, although we had 5-year follow-up, due to the high attrition rate, we decided not to incorporate the data at follow-up. During a 5-year follow-up, 125 developed IFG/diabetes among 1056 participants with NFG at baseline. Therefore, our study may underestimate the risk of mortality among those with diabetes or IFG. Secondly, due to the small number of deaths, we could not further analyse mortality due to specific CVD outcomes due to lack of statistical power. We also note that the number of deaths among those with diabetes was low, and this has led to some uncertainty in our findings, especially for CVD mortality. However, despite this, the magnitude of HR of diabetes for all-cause and CVD mortality is in line with several well-established studies, suggesting that our results are not likely to be due to chance. Education was positively with the intake of vegetable-rich dietary pattern in the sample, but income was inversely associated with vegetable-rich dietary pattern (data not shown). Thus, the interaction between vegetablerich dietary pattern and IFG/diabetes could be confounded by socioeconomic status. Although we have adjusted for education and income in the multivariable model, residual confounding is still possible. Furthermore, dietary intake was not continuously measured during follow-up. The eating habits could change during the ten-year period. Finally, in our study, diabetes was based on fasting glucose and selfreported known diabetes. It is known that the prevalence of undiagnosed diabetes is high in China. An underestimation of the prevalence of diabetes is highly likely, and this may affect the outcomes of the study.  The strength of the study is the face-to-face-based interview by well-trained health workers at baseline as well as the use of 3-day WFR to measure energy and nutrients intake. The study included both urban and rural participants. It can be generalized in the study population to the province with over 70 million residents. However, whether the findings can be generalized in the whole Chinese population is not clear. In conclusion, diabetes and IFG are associated with an increased risk of death in Chinese adults. A high intake of vegetable-rich dietary pattern is associated with decreased risk of mortality for those with diabetes. There is no interaction between the rice-based traditional dietary pattern and IFG/diabetes.</p><note type="other">Hazard Ratio 2</note></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc></figDesc><table><row><cell>Baseline characteristics of sample</cell><cell></cell><cell>NFG</cell><cell>IFG</cell><cell>Diabetes</cell><cell>p value</cell></row><row><cell>according to categories of glucose metabolism</cell><cell>N Age (years)</cell><cell>2569 46.3 (14.4)</cell><cell>178 52.5 (13.8)</cell><cell>102 55.8 (12.3)</cell><cell>\0.001</cell></row><row><cell></cell><cell>BMI (kg/m 2 )</cell><cell>23.3 (3.4)</cell><cell>25.0 (3.6)</cell><cell>25.8 (3.8)</cell><cell>\0.001</cell></row><row><cell></cell><cell>Overweight</cell><cell>37.2</cell><cell>58.4</cell><cell>65.7</cell><cell>\0.001</cell></row><row><cell></cell><cell>Men</cell><cell>45.8</cell><cell>47.2</cell><cell>46.1</cell><cell>0.94</cell></row><row><cell></cell><cell>Low income</cell><cell>33.4</cell><cell>25.7</cell><cell>18.6</cell><cell>\0.001</cell></row><row><cell></cell><cell>Low education</cell><cell>47.8</cell><cell>48.0</cell><cell>44.1</cell><cell>0.95</cell></row><row><cell></cell><cell>Manual job</cell><cell>55.1</cell><cell>40.4</cell><cell>23.5</cell><cell>\0.001</cell></row><row><cell></cell><cell>Hypertension</cell><cell>26.6</cell><cell>49.4</cell><cell>54.9</cell><cell>\0.001</cell></row><row><cell></cell><cell>Urban dwellers</cell><cell>23.6</cell><cell>30.9</cell><cell>50.0</cell><cell>\0.001</cell></row><row><cell></cell><cell>Smoking</cell><cell>27.2</cell><cell>25.0</cell><cell>29.7</cell><cell>0.69</cell></row><row><cell></cell><cell>Alcohol drinking</cell><cell>24.7</cell><cell>24.2</cell><cell>22.8</cell><cell>0.89</cell></row><row><cell></cell><cell>Having exercise</cell><cell>8.9</cell><cell>12.9</cell><cell>31.4</cell><cell>\0.001</cell></row><row><cell></cell><cell>Diet change to manage NCD</cell><cell>3.6</cell><cell>6.2</cell><cell>49.0</cell><cell>\0.001</cell></row><row><cell></cell><cell>Intake of food and nutrients</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>Rice (g/1000 kcal)</cell><cell>109.6 (60.2)</cell><cell>117.0 (61.2)</cell><cell>106.3 (53.2)</cell><cell>0.23</cell></row><row><cell></cell><cell>Energy (kcal/day)</cell><cell>2371.2 (684.7)</cell><cell>2193.5 (631.1)</cell><cell>2108.6 (766.4)</cell><cell>\0.001</cell></row><row><cell></cell><cell>Fat (g/day)</cell><cell>81.0 (37.1)</cell><cell>78.6 (36.4)</cell><cell>79.9 (38.4)</cell><cell>0.695</cell></row><row><cell></cell><cell>Protein (g/day)</cell><cell>72.8 (23.6)</cell><cell>70.2 (22.2)</cell><cell>71.8 (29.3)</cell><cell>0.371</cell></row><row><cell></cell><cell>Carbohydrate (g/day)</cell><cell>328.2 (107.2)</cell><cell>295.3 (91.4)</cell><cell>267.9 (108.0)</cell><cell>\0.001</cell></row><row><cell></cell><cell>Dietary pattern scores</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>Macho</cell><cell>-0.00 (0.99)</cell><cell>-0.01 (1.24)</cell><cell>0.02 (0.91)</cell><cell>0.967</cell></row><row><cell></cell><cell>Traditional</cell><cell>-0.02 (1.01)</cell><cell>0.09 (0.89)</cell><cell>0.37 (0.98)</cell><cell>\0.001</cell></row><row><cell></cell><cell>Sweet tooth</cell><cell>-0.01 (1.00)</cell><cell>0.12 (1.06)</cell><cell>0.08 (0.94)</cell><cell>0.179</cell></row><row><cell></cell><cell>Vegetable rich</cell><cell>-0.02 (0.96)</cell><cell>-0.02 (1.23)</cell><cell>0.56 (1.38)</cell><cell>\0.001</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2</head><label>2</label><figDesc></figDesc><table><row><cell>HRs (95 CIs) for all-cause and CVD mortality</cell><cell></cell><cell cols="2">Mortality risk, HR (95 % CI)</cell></row><row><cell>according to categories of</cell><cell></cell><cell>Deaths n (%)</cell><cell>Age and sex adjusted</cell><cell>Multivariable adjusted a</cell></row><row><cell>glucose levels: the Jiangsu</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Nutrition Study</cell><cell>All-cause mortality</cell><cell></cell><cell></cell></row><row><cell></cell><cell>NFG</cell><cell>146 (5.7)</cell><cell>1.00</cell><cell>1.00</cell></row><row><cell></cell><cell>IFG</cell><cell>21 (11.8)</cell><cell>1.54 (0.98-2.42)</cell><cell>1.83 (1.13-2.97)</cell></row><row><cell></cell><cell>Diabetes</cell><cell>17 (16.7)</cell><cell>1.79 (1.09-2.96)</cell><cell>2.69 (1.62-4.49)</cell></row><row><cell></cell><cell>IFG/diabetes combined</cell><cell>38 (13.6)</cell><cell>1.64 (1.16-2.33)</cell><cell>2.12 (1.44-3.12)</cell></row><row><cell></cell><cell>CVD mortality</cell><cell></cell><cell></cell></row><row><cell></cell><cell>NFG</cell><cell>54 (2.1)</cell><cell>1.00</cell><cell>1.00</cell></row><row><cell></cell><cell>IFG</cell><cell>9 (5.1)</cell><cell>1.72 (0.82-3.63)</cell><cell>1.53 (0.70-3.37)</cell></row><row><cell></cell><cell>Diabetes</cell><cell>7 (6.9)</cell><cell>2.09 (0.86-5.06)</cell><cell>1.97 (0.84-4.60)</cell></row><row><cell></cell><cell>IFG/diabetes combined</cell><cell>16 (5.7)</cell><cell>1.87 (1.02-3.41)</cell><cell>1.68 (0.87-3.24)</cell></row><row><cell></cell><cell>Bold represents p \ 0.05</cell><cell></cell><cell></cell></row><row><cell></cell><cell cols="4">a Adjusted for age, gender, intake of energy, fat and fibre, smoking (0, 1-19, C20 cigarettes/day), alcohol</cell></row><row><cell></cell><cell cols="4">drinking (no, 1-2 times/week, 3-4 times/week, daily), active commuting (no, 1-29 min/day,</cell></row><row><cell></cell><cell cols="4">C30 min/day), leisure time physical activity (no, 1-29 min/day, [30 min/day), sedentary activ-</cell></row><row><cell></cell><cell cols="4">ity(\1 h/day, 1-1.9 h/day, 2-2.9 h/day, C3 h/day), education (low, medium, high), income (low, medium,</cell></row><row><cell></cell><cell cols="4">high), occupation (manual/non-manual), BMI (linear and quadratic terms) and hypertension</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">Acta Diabetol (2016) 53:799-806</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgments</head><p>The research was supported by The University of Adelaide and Jiangsu Provincial Centre for Disease Control and Prevention.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Author's contribution The study was conceived and the statistical analysis was carried out by Zumin Shi. Zumin Shi had full access to the data and drafted the manuscript. Shiqi Zhen, Paul Z Zimmet, Yonglin Zhou, Yijing Zhou, Dianna J Magliano and Anne W Taylor were involved in critical revision of the manuscript for important intellectual content.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Compliance with ethical standards</head><p>Conflict of interest The authors declare that they have no conflicts of interest.</p><p>Ethical standard All procedures followed were in accordance with the ethical standards of the responsible committee on human experimentation (institutional and national) and with the Helsinki Declaration of 1975, as revised in 2008 (5).</p><p>Human and animal rights This study was approved by the Jiangsu Provincial Centre for Disease Control and Prevention Institutional Review Board.</p><p>Informed consent Informed consent was obtained from all participants for being included in the study.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m">International Diabetes Federation (2015) IDF diabetes atlas</title>
+				<meeting><address><addrLine>Brussels</addrLine></address></meeting>
+		<imprint/>
+	</monogr>
+	<note>7th edn. International Diabetes Federation</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Diabetes: a 21st century challenge</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">Z</forename><surname>Zimmet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Magliano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">H</forename><surname>Herman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Shaw</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S2213-8587(13)70112-8</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Diabetes Endocrinol</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="56" to="64" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Prevalence and control of diabetes in Chinese adults</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>He</surname></persName>
+		</author>
+		<idno type="DOI">10.1001/jama.2013.168118</idno>
+		<idno>doi:10.1001/ jama.2013.168118</idno>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">310</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="948" to="959" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Risk of cardiovascular and all-cause mortality in individuals with diabetes mellitus, impaired fasting glucose, and impaired glucose tolerance: the Australian Diabetes, Obesity, and Lifestyle Study (AusDiab)</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">L</forename><surname>Barr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">Z</forename><surname>Zimmet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Welborn</surname></persName>
+		</author>
+		<idno type="DOI">10.1161/CIRCULATIONAHA.106.685628</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">116</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="151" to="157" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Diabetes mellitus, fasting glucose, and risk of cause-specific death</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Seshasai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Kaptoge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename></persName>
+		</author>
+		<idno type="DOI">10.1056/NEJMoa1008862</idno>
+		<idno>doi:10.1056/ NEJMoa1008862</idno>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">364</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="829" to="841" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Excess risk of fatal coronary heart disease associated with diabetes in men and women: meta-analysis of 37 prospective cohort studies</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Huxley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Barzi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Woodward</surname></persName>
+		</author>
+		<idno type="DOI">10.1136/bmj.38678.389583.7C</idno>
+	</analytic>
+	<monogr>
+		<title level="j">BMJ</title>
+		<imprint>
+			<biblScope unit="volume">332</biblScope>
+			<biblScope unit="issue">7533</biblScope>
+			<biblScope unit="page" from="73" to="78" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Causes of death among diabetic patients in Denmark</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Hansen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Jensen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Carstensen</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s00125-011-2383-2</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="294" to="302" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Excess mortality among persons with type 2 diabetes</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tancredi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rosengren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Svensson</surname></persName>
+		</author>
+		<idno type="DOI">10.1056/NEJMoa1504347</idno>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">373</biblScope>
+			<biblScope unit="issue">18</biblScope>
+			<biblScope unit="page" from="1720" to="1732" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">The effects of diabetes on the risks of major cardiovascular diseases and death in the Asia-Pacific region</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Woodward</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Barzi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="360" to="366" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Mortality, allcause and cardiovascular disease, over 15 years in multiethnic mauritius: impact of diabetes and intermediate forms of glucose tolerance</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Magliano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Soderberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">Z</forename><surname>Zimmet</surname></persName>
+		</author>
+		<idno type="DOI">10.2337/dc10-0312</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="1983" to="1989" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Associations of diabetes mellitus and ethnicity with mortality in a multiethnic Asian population: data from the 1992 Singapore National Health Survey</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cutter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Tan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Chew</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Tai</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">158</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="543" to="552" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Mortality and causes of death in a national sample of diabetic patients in Taiwan</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">H</forename><surname>Tseng</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="1605" to="1609" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Mortality of patients with type 2 diabetes in Taiwan: a 10-year nationwide follow-up study</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">H</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">H</forename><surname>Hsu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">F</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">Y</forename><surname>Li</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.diabres.2014.09.021</idno>
+		<idno>doi:10. 1016/j.diabres.2014.09.021</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Res Clin Pract</title>
+		<imprint>
+			<biblScope unit="volume">107</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="178" to="186" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Mortality rates and the causes of death related to diabetes mellitus in Shanghai Songjiang District: an 11-year retrospective analysis of death certificates</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Zhu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Li</surname></persName>
+		</author>
+		<idno type="DOI">10.1186/s12902-015-0042-1</idno>
+	</analytic>
+	<monogr>
+		<title level="j">BMC Endocr Disord</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page">45</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Impact of ageing and related factors on death rate of diabetes mellitus in Beijing</title>
+		<author>
+			<persName><forename type="first">Z</forename><forename type="middle">H</forename><surname>Wei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><forename type="middle">Q</forename><surname>Xie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Wei</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Zhonghua Yu Fang Yi Xue Za Zhi</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="277" to="279" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Cardiovascular and all-cause mortality over a 23-year period among Chinese with newly diagnosed diabetes in the Da Qing IGT and diabetes study</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>An</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wang</surname></persName>
+		</author>
+		<idno type="DOI">10.2337/dc14-2498</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="1365" to="1371" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">White rice consumption and risk of type 2 diabetes: meta-analysis and systematic review</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Hu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Pan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Malik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Sun</surname></persName>
+		</author>
+		<idno type="DOI">10.1136/bmj.e1454</idno>
+	</analytic>
+	<monogr>
+		<title level="j">BMJ</title>
+		<imprint>
+			<biblScope unit="volume">344</biblScope>
+			<biblScope unit="page">e1454</biblScope>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Rice intake, weight change and risk the metabolic syndrome development among Chinese adults: the Jiangsu Nutrition Study (JIN)</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Shi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">W</forename><surname>Taylor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Hu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Gill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Wittert</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Asia Pac J Clin Nutr</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="35" to="43" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Rice consumption is not associated with risk of cardiovascular disease morbidity or mortality in Japanese men and women: a large population-based, prospective cohort study</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Eshak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Iso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Yamagishi</surname></persName>
+		</author>
+		<idno type="DOI">10.3945/ajcn.113.079038</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Clin Nutr</title>
+		<imprint>
+			<biblScope unit="volume">100</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="199" to="207" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Iron intake and body iron stores, anaemia and risk of hyperglycaemia among Chinese adults: the prospective Jiangsu Nutrition Study (JIN)</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Shi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Zhou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Yuan</surname></persName>
+		</author>
+		<idno type="DOI">10.1017/S1368980009991868</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Public Health Nutr</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="1319" to="1327" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Association between serum ferritin, hemoglobin, iron intake, and diabetes in adults in Jiangsu</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Shi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Hu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Yuan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Pan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">E</forename><surname>Meyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Holmboe-Ottesen</surname></persName>
+		</author>
+		<idno type="DOI">10.2337/dc06-0327</idno>
+	</analytic>
+	<monogr>
+		<title level="j">China. Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="1878" to="1883" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Diagnosis and classification of diabetes mellitus</title>
+		<idno type="DOI">10.2337/dc10-S062</idno>
+		<idno>doi:10. 2337/dc10-S062</idno>
+	</analytic>
+	<monogr>
+		<title level="j">American Diabetes A</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="S62" to="S69" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note>Diabetes Care. Suppl</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Vegetable rich food pattern is related to obesity in China</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Shi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Hu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Yuan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Obes</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="975" to="984" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main">Chinese food composition table</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Yang</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004">2005. 2004</date>
+			<publisher>Peking University Medical Press</publisher>
+			<pubPlace>Beijing</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">The analysis and evaluation of a physical activity questionnaire of Chinese employed population</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Ma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Luan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Liu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ying Yang Xue Bao</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="217" to="221" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Trends in all-cause and cardiovascular disease mortality among women and men with and without diabetes mellitus in the Framingham Heart Study</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Preis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Hwang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Coady</surname></persName>
+		</author>
+		<idno type="DOI">10.1161/CIRCULATIONAHA.108.829176</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">119</biblScope>
+			<biblScope unit="issue">13</biblScope>
+			<biblScope unit="page" from="1728" to="1735" />
+			<date type="published" when="1950">2009. 1950 to 2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Prevalence of Smoking in China in 2010</title>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hsia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Yang</surname></persName>
+		</author>
+		<idno type="DOI">10.1056/NEJMc1102459</idno>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">364</biblScope>
+			<biblScope unit="issue">25</biblScope>
+			<biblScope unit="page" from="2469" to="2470" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title level="m" type="main">Reproduced with permission of the copyright owner. Further reproduction prohibited without permission</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

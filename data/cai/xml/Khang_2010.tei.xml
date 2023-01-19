@@ -1,0 +1,917 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Risks for cardiovascular disease, stroke, ischaemic heart disease, and diabetes mellitus associated with the metabolic syndrome using the new harmonised definition: Findings from nationally representative longitudinal data from an Asian population</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2010-09-18">18 September 2010</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Young-Ho</forename><surname>Khang</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Preventive Medicine</orgName>
+								<orgName type="institution">University of Ulsan College of Medicine</orgName>
+								<address>
+									<addrLine>388-1 Pungnap-2Dong Songpa-Gu</addrLine>
+									<postCode>138-736</postCode>
+									<settlement>Seoul</settlement>
+									<country key="KR">Republic of Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Sung-Il</forename><surname>Cho</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">School of Public Health and Institute of Health and Environment</orgName>
+								<orgName type="institution">Seoul National University</orgName>
+								<address>
+									<settlement>Seoul</settlement>
+									<country key="KR">Republic of Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Hye-Ryun</forename><surname>Kim</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="institution">Korea Institute for Health and Social Affairs</orgName>
+								<address>
+									<settlement>Seoul</settlement>
+									<country key="KR">Republic of Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Risks for cardiovascular disease, stroke, ischaemic heart disease, and diabetes mellitus associated with the metabolic syndrome using the new harmonised definition: Findings from nationally representative longitudinal data from an Asian population</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2010-09-18">18 September 2010</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">06A403D35B824D03727CBB372754B754</idno>
+					<idno type="DOI">10.1016/j.atherosclerosis.2010.09.009</idno>
+					<note type="submission">Received 4 February 2010 Received in revised form 6 September 2010 Accepted 7 September 2010</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.1" ident="GROBID" when="2022-07-19T23:00+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>Asia Cardiovascular diseases Diabetes mellitus Ischaemic heart disease Korea Metabolic syndrome Stroke</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Objective: We examined the risk of cardiovascular disease, stroke, ischaemic heart disease, and diabetes with the metabolic syndrome according to the new harmonised definition and its components using a national longitudinal data set from an Asian population. Methods: Data of 9791 men and women aged 20+ from 1998 and 2001 Korea National Health and Nutrition Examination Surveys were individually linked to national hospitalisation and mortality data using unique personal identification numbers. During a 5.8-year follow-up through 2005, 288 incident cardiovascular events (184 strokes and 122 cases of ischaemic heart disease) and 85 new diabetes cases have been detected. Results: Men and women with the metabolic syndrome had 48%, 39%, 64%, and 127% greater risks of cardiovascular disease, stroke, ischaemic heart disease, and diabetes, respectively, than those without the metabolic syndrome. The increased risks of cardiovascular disease, ischaemic heart disease, and diabetes remained significant after adjusting for health behaviours, bio-clinical factors, family history, and sociodemographic factors. Analysis results on population attributable risks showed that about a quarter of total diabetes occurrence and more than 10% of cardiovascular disease was attributable to the metabolic syndrome. The number of metabolic syndrome components was linearly associated with risks of outcomes. High blood pressure was significantly associated with all four outcomes while hypertriglyceridemia and hyperglycemia were also important for ischaemic heart disease and diabetes, respectively. Conclusions: Reduction of metabolic risk factors is necessary in South Korea to lower the burden of associated diseases, especially ever-increasing ischaemic heart disease and diabetes.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Introduction</head><p>Since Reaven formalised the concept of "Syndrome X" <ref type="bibr" target="#b0">[1]</ref>, now known as "the metabolic syndrome", research efforts to explore the association between the metabolic syndrome and risk of cardiovascular disease and diabetes have been common in the West <ref type="bibr" target="#b1">[2]</ref><ref type="bibr" target="#b2">[3]</ref><ref type="bibr" target="#b3">[4]</ref>. Recent meta-analyses of cohort studies have provided strong evidence that people with the metabolic syndrome are at increased risk of cardiovascular disease and diabetes <ref type="bibr" target="#b4">[5]</ref><ref type="bibr" target="#b5">[6]</ref><ref type="bibr" target="#b6">[7]</ref>. Several community-based prospective studies have demonstrated the association of the metabolic syndrome with cardiovascular</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1.">Study subjects</head><p>We obtained data from the two waves of the Korea National Health and Nutrition Examination Survey (K-NHANES) conducted in November-December 1998 and 2001 by the Ministry of Health and Welfare of Korea and the Korea Institute for Health and Social Affairs. Information was collected from a stratified multistage probability sample of Korean households representing the civilian, non-institutionalised population. The response rates in K-NHANES were 86.5% in 1998 and 77.3% in 2001. A total of 14,563 men and women aged 20+ participated in the 1998 (7962 subjects) and 2001 (6601 subjects) K-NHANES health examination survey. Of these, 12,801 reported valid 13-digit personal identification numbers (PINs), which were linked to hospitalisation data from the Health Insurance Review and Assessment Service (HIRA) and mortality data from the National Statistical Office (NSO) of Korea.</p><p>We excluded the 107 pregnant women from the study. Using a checklist that included 37 potential illnesses in 1998 and 53 potential illnesses in 2001, we also identified and excluded participants who had any of the following during the previous year: stroke, ischaemic heart disease, diabetes, or cancer. We also excluded those receiving diabetes drug treatment and those with fasting serum glucose of 126 mg/dl or over. A total of 1411 subjects were excluded because they had any of the following: stroke, ischaemic heart disease, diabetes or cancer. Additionally, we excluded respondents with data lacking any clinical, behavioural, or socioeconomic variables (n = 1492). Hospitalisation and mortality follow-ups through December 2005 were made for the remaining 9791 men and women aged 20+ (5872 subjects from the 1998 and 3919 subjects from the 2001 K-NHANES) (see Supplementary Fig. <ref type="figure" target="#fig_0">1</ref>).</p><p>The Institutional Review Board of the Asan Medical Center, Seoul, Korea, approved our study.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.">Outcome ascertainment</head><p>The outcome variables were morbidity or mortality events of cardiovascular disease, stroke, ischaemic heart disease, and diabetes. For those individuals with more than one event for each outcome during the follow-up period, we calculated survival times between baseline and the time of the first event. Using subjects' unique 13-digit PINs, both nonfatal and fatal outcomes were ascertained from HIRA hospital admission and discharge data and NSO mortality data. The HIRA data included all hospital admissions and discharges, as the National Health Insurance in Korea covers all Korean citizens. NSO adult death certificate data are known to be complete. Thus, the follow-up rate for outcomes would reach 100%. We used International Classification of Diseases, 10th Revision codes to identify stroke (I60-I69), ischaemic heart disease (I20-I25), and diabetes (E10-E14). In this study, stroke and ischaemic heart disease constituted cardiovascular disease. Morbidity and mortality follow-up started in January 1999 for the 1998 and in January 2002 for the 2001 K-NHANES data, respectively. The participants were censored at the date of admission, death due to any causes, or by December 31, 2005.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.3.">Definition of the metabolic syndrome</head><p>In this study, we used the recently harmonised definition jointly proposed by the International Diabetes Federation Task Force on Epidemiology and Prevention; National Heart, Lung, and Blood Institute; American Heart Association; World Heart Federation; International Atherosclerosis Society; and International Association for the Study of Obesity <ref type="bibr" target="#b18">[19]</ref>. This joint statement for the metabolic syndrome suggested the use of national or regional cut-offs for waist circumference <ref type="bibr" target="#b18">[19]</ref>. The Korean Society for the Study of Obesity (KSSO) proposed 90 cm and 85 cm for the appropriate abdominal obesity for Korean men and women, respectively <ref type="bibr" target="#b20">[20]</ref>. Thus, the definition of the metabolic syndrome in this study requires at least three of the following five components: (a) central obesity (waist circumference: ≥90 cm for Korean men, ≥85 cm for Korean women), (b) hypertriglyceridemia (≥150 mg/dl), (c) low HDL cholesterol (men &lt; 40 mg/dl, women &lt; 50 mg/dl), (d) high blood pressure (systolic blood pressure ≥130 mmHg, diastolic blood pressure ≥ 85 mmHg or receiving hypertension drug treatment), and (e) hyperglycemia (fasting serum glucose ≥ 100 mg/dl). Participants receiving diabetes drug treatments or having fasting serum glucose of ≥126 mg/dl were excluded since our study examined the relationship of baseline metabolic syndrome with future diabetes events.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.4.">Variables on bio-clinical factors, health behaviours, family medical history, and socio-demographic factors</head><p>Details regarding bio-clinical factors (height, body weight, waist circumference, blood pressure, serum triglyceride, HDL cholesterol, and fasting glucose levels), health behaviours (cigarette smoking, alcohol consumption, and physical exercise), family history (hypertension/stroke, ischaemic heart disease, and diabetes), and socio-demographic factors (education, income, and marital status) are provided in Supplementary Data.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.5.">Statistical analysis</head><p>We calculated the prevalence of metabolic syndrome components according to the new harmonised definition. Cox proportional hazard models were used to estimate relative risk (RR) and their 95% confidence intervals (CIs) of cardiovascular disease, stroke, ischaemic heart disease, and diabetes associated with the metabolic syndrome after adjusting for covariates. Three models were created to assess the relationship of the metabolic syndrome with outcomes: model I adjusted for survey year (1998 and 2001) and age (age and age squared); model II adjusted for cigarette smoking, LDL cholesterol, alcohol consumption, and physical exercise as well as the covariates in model I; model III adjusted for socioeconomic status (education and household income), marital status, family history, and resting heart rate as well as the covariates in model II. For the analyses combining men and women, gender was additionally adjusted for in the model. We also assessed RRs according to the number of metabolic syndrome components and the individual component of the metabolic syndrome using Cox's regression. The population attributable risk fraction (PAR) was also estimated with IRAP (Interactive Risk Attributable Program) version 2.2 <ref type="bibr">[21]</ref>. Except for PAR, other analyses were performed with SAS statistical software (SAS Institute Inc., Cary, NC).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Results</head><p>The study cohort contained 56,722 person-years (for cardiovascular disease) of follow-up (average length of follow-up = 5.8 years). We found 288 cases of cardiovascular disease events during the follow-up period (see Supplementary Fig. <ref type="figure" target="#fig_0">1</ref>). The numbers of morbidity or mortality events for stroke, ischaemic heart disease, and diabetes were 184, 122, and 85, respectively. For 18 individuals, both stroke and ischaemic heart disease occurred. Of the total 71 cardiovascular and 4 diabetes deaths, 58 (81.7%) and 4 (100%) were hospitalised with the same diagnosis during the follow-up period.</p><p>Baseline characteristics of men and women aged 20+ who participated in the 1998 and 2001 Korea National Health and Nutrition Examination Surveys were presented in Supplementary Table <ref type="table" target="#tab_0">1</ref>. The prevalence of metabolic syndrome was 24.2% in men and 21.8% in women. Prevalences (%) of components of the metabolic syndrome according to the new harmonised definition were also presented in Supplementary Table <ref type="table" target="#tab_1">2</ref>.</p><p>The metabolic syndrome was significantly associated with increased risks of all four outcomes in the base model (model I) when men and women were combined (Table <ref type="table" target="#tab_0">1</ref>). The magnitude of the relationship tended to be greater for diabetes than cardiovascular diseases. Those with the metabolic syndrome had 2.27 times (95% CI: 1.47-3.51) greater risk of diabetes but 1.48 times (95% CI: 1.17-1.89) greater risk of cardiovascular disease. These significant associations were more evident in men than women, especially for ischaemic heart disease. The magnitude of relationships between the metabolic syndrome and outcomes did not change significantly after adjustment of covariates including health behaviours, socioeconomic status, marital status, family history, and other biological factors (LDL cholesterol and resting heart rate). Table <ref type="table" target="#tab_0">1</ref> also presents the PARs and associated 95% CIs showing that about a quarter of total diabetes occurrence and more than 10% of cardiovascular disease was attributable to the metabolic syndrome. When we included diabetes patients (those receiving diabetes drug treatment and those with fasting serum glucose of 126 mg/dl or over) at baseline in our analyses given that diabetes can be seen as a metabolic risk factor, magnitudes of the relationships between the metabolic syndrome and outcomes were similar for cardiovascular disease, stroke, and ischaemic heart disease, but tended to become greater for diabetes (see Supplementary Table <ref type="table">3</ref>).</p><p>Fig. <ref type="figure" target="#fig_0">1</ref> presents the RRs (95% CI) of four outcomes by the number of metabolic syndrome components. Considering the small number of outcomes in gender-specific analysis, we only present the results combining men and women. The RRs increased as the number of metabolic syndrome components increased (all P for trend &lt; 0.01). The increasing patterns were especially remarkable for diabetes. Those with five components of the metabolic syndrome had an 8 times (HR 8.13, 95% CI: 2.43-27.15) greater risk of future diabetes events.</p><p>Table <ref type="table" target="#tab_1">2</ref> shows the RRs (95% CI) of future health events when all five components of the metabolic syndrome were simultaneously adjusted in the survey year-and age-adjusted model. High blood pressure was significantly associated with all four health outcomes when men and women were combined (Table <ref type="table" target="#tab_1">2</ref>). Significantly increased risks of hypertriglyceridemia were found for cardiovascular disease and ischaemic heart disease. Hyperglycemia was significantly associated with future diabetes events. The association of high blood pressure with stroke was greater in women than in men (P for interaction = 0.043) while the association of hypertriglyceridemia with stroke tended to be greater in men than in women (P for interaction = 0.066). The gender difference in the relationship between high blood pressure and cardiovascular disease was also significant (P for interaction = 0.019) mainly because of the gender difference in the relationship of high blood pressure with stroke. No other significant gender differences were found. Models adjusted for only an individual component produced greater RRs than those reported in Table <ref type="table" target="#tab_1">2</ref> (see Supplementary Table <ref type="table">4</ref>), but the analysis results did not affect the above conclusion. Table <ref type="table" target="#tab_1">2</ref> also presents the PARs (95% CI) after simultaneous adjustment of metabolic syndrome components, showing high blood pressure contributes substantially to the occurrence of cardiovascular disease and diabetes. A total of 32.7% (95% CI: 20.1-45.2%) and 26.8% (95% CI: 4.2-49.4%) of cardiovascular disease and diabetes occurrence, respectively, were attributable to high blood pressure. Hyperglycemia explained 33.6% (95% CI: 16.5-50.8%) of diabetes events and 24.5% (95% CI: 10.8-38.2%) of ischaemic heart disease was attributable to hypertriglyceridemia.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Discussion</head><p>This study provides evidence that the metabolic syndrome is associated with increased risk of cardiovascular diseases and diabetes in Korea. Men and women with the metabolic syndrome had 48%, 39%, 64%, and 127% greater risks of cardiovascular disease, stroke, ischaemic heart disease, and diabetes, respectively, than those without the metabolic syndrome. The increased risks of cardiovascular disease, ischaemic heart disease, and diabetes remained significant after adjusting for a wide range of covariates including major health behaviours (cigarette smoking, alcohol consumption, and physical exercise), bio-clinical factors (LDL cholesterol and resting heart rate), related family history (hypertension/stroke, ischaemic heart disease/heart failure, and Note. Central obesity (waist circumference for men ≥ 90 cm, for women ≥ 85 cm), hypertriglyceridemia (serum triglyceride ≥ 150 mg/dl), low HDL cholesterol (serum HDL cholesterol for men &lt; 40 mg/dl, for women &lt; 50 mg/dl), high blood pressure (systolic blood pressure ≥ 130 mmHg, diastolic blood pressure ≥ 85 mmHg or receiving hypertension drug treatments), hyperglycemia (fasting blood glucose ≥ 100 mg/dl). All five components of the metabolic syndrome were simultaneously adjusted to estimate relative risk and population attributable risk fraction for in the survey year-and age-adjusted model. * P &lt; 0.05. † P &lt;0.01. ‡ P &lt; 0.001. diabetes) and socio-demographic factors (education, income, and marital status).</p><p>The magnitude of association between the metabolic syndrome and health outcomes may vary with study design (e.g., definition of the metabolic syndrome, duration of follow-up, level of follow-up loss, and covariates adjusted), study subjects (e.g., race, gender, prevalence of the metabolic syndrome, and pre-morbid conditions), and health outcomes <ref type="bibr" target="#b1">[2]</ref><ref type="bibr" target="#b2">[3]</ref><ref type="bibr" target="#b3">[4]</ref><ref type="bibr" target="#b4">[5]</ref><ref type="bibr" target="#b5">[6]</ref><ref type="bibr" target="#b6">[7]</ref>. This study showed that the magnitude of the RR and PAR differed by gender and health outcome. The gender differences in the RR and PAR were more evident for ischaemic heart disease than stroke and diabetes. The PARs for stroke and diabetes were relatively similar in men and women (see Table <ref type="table" target="#tab_0">1</ref>). Prior meta-analyses have shown greater RR of cardiovascular disease and stroke in women than men <ref type="bibr" target="#b2">[3,</ref><ref type="bibr" target="#b3">4,</ref><ref type="bibr" target="#b5">6,</ref><ref type="bibr" target="#b6">7]</ref>. The Hisayama study showed that the RR of ischaemic heart disease was greater in men than in women but vice versa for stroke <ref type="bibr" target="#b9">[10]</ref>. However, in a Hong Kong study, the metabolic syndrome was significantly associated with vascular mortality in men, not in women <ref type="bibr" target="#b8">[9]</ref>. Meanwhile, results of our study showed that the RR for incident diabetes was greater than the RR for cardiovascular disease. This finding is congruent with previous studies that the metabolic syndrome in many populations predicts incident diabetes more strongly than it predicts cardiovascular disease <ref type="bibr" target="#b1">[2,</ref><ref type="bibr" target="#b4">5]</ref>.</p><p>The analysis according to the number of metabolic syndrome components showed that there was no apparent threshold relationship between the metabolic syndrome and health outcomes (see Fig. <ref type="figure" target="#fig_0">1</ref>). Several Asian studies have shown linear relationships between metabolic risk factors and cardiovascular disease (stroke and ischaemic heart disease) <ref type="bibr" target="#b8">[9,</ref><ref type="bibr" target="#b9">10,</ref><ref type="bibr" target="#b11">[12]</ref><ref type="bibr" target="#b12">[13]</ref><ref type="bibr" target="#b13">[14]</ref><ref type="bibr" target="#b14">[15]</ref><ref type="bibr" target="#b21">22]</ref>. The RR increase by the number of components was especially significant for diabetes.</p><p>The RR of incident diabetes for those with five abnormal components of the metabolic syndrome was 8.13 (95% CI: 2.43-27.15). However, the risks of diabetes according to the number of abnormal metabolic risk factors have rarely been reported in Asia <ref type="bibr" target="#b21">[22]</ref>.</p><p>This study showed that high blood pressure was an important determinant of cardiovascular disease and diabetes. After simultaneous adjustment of five metabolic syndrome components, high blood pressure was significantly associated with increased risks of cardiovascular disease, stroke, ischaemic heart disease, and diabetes. According to the PARs, high blood pressure also explained a substantial proportion of the occurrence of cardiovascular disease (about a third) and diabetes (about a fourth). Many Asian studies revealed a more important role for high blood pressure than other components in determining future cardiovascular events <ref type="bibr" target="#b11">[12]</ref><ref type="bibr" target="#b12">[13]</ref><ref type="bibr" target="#b13">[14]</ref>. Prior Chinese and Japanese studies have shown that elevated blood pressure was the only significant predictor of cardiovascular events <ref type="bibr" target="#b11">[12,</ref><ref type="bibr" target="#b12">13]</ref>. Our study also indicated that hypertriglyceridemia and hyperglycemia explained a fourth of ischaemic heart disease and a third of diabetes, respectively. According to a recent meta-analysis, the strongest predictor of diabetes was the impaired fasting glucose <ref type="bibr" target="#b4">[5]</ref>. It should be noted that, in our study, the significant RR of incident diabetes-associated hyperglycemia came from the study sample without baseline diabetes after excluding known diabetes patients and subjects with fasting blood glucose of ≥126 mg/dl at the baseline survey.</p><p>This study presented the statistically significant gender difference in the relationship between high blood pressure and stroke. The magnitude of the relationship was greater in women than in men. In a prior Japanese study, the relationship of systolic and diastolic blood pressure with stroke among ages 65-79 was greater in women than in men <ref type="bibr" target="#b22">[23]</ref>. It has been suggested that gender difference in arterial structure and function may lead to gender difference in the relationship of risk factors with stroke <ref type="bibr" target="#b23">[24]</ref>. Considering the potential gender difference in the profiles of risk factors in predicting stroke incidence <ref type="bibr" target="#b24">[25]</ref>, more studies on the gender difference would be helpful in better understanding stroke and other cardiovascular diseases.</p><p>This study has limitations. First, outcome ascertainment was not done by active surveillance of the study subjects during the followup periods, but based on the electronic data linkage to secondary data (death certificate and hospitalisation data). Although the completeness of these secondary data can reach 100%, the accuracy of diagnosis of a disease may be suboptimal. According to our analysis, 81.7% of total cardiovascular deaths (58 of 71) and 4 (100%) of 4 diabetes had been admitted to hospitals because of the same disease. Prior Korean studies showed that diagnostic accuracy of hospitalisation data was 83.0% for stroke and 85.6% for ischaemic heart disease <ref type="bibr" target="#b25">[26,</ref><ref type="bibr" target="#b27">27]</ref>. Some diabetes patients might have only sought primary health care during the follow-up period without using any hospital inpatient care. However, information on the diagnostic accuracy of diabetes in hospitalisation data as well as the proportion of diabetes patients only seeking primary health services without hospital cares during the 6 years was not available. These less optimal levels of outcome ascertainment, especially for diabetes, might have resulted in reduced (rather than enhanced) magnitude of the RR and PAR between the metabolic syndrome and health outcome because baseline metabolic syndrome status may not be related to accuracy of diagnosis in hospitalisation data and death certificate data. Nevertheless, analysis results showed that the relationship between metabolic syndrome and diabetes was stronger than those for ischaemic heart disease and stroke. Second, the duration of follow-up was relatively short and the number of deaths was relatively small. This hindered further subgroup analyses (e.g., analysis by age groups and stroke subtype) and may have resulted in wide 95% CIs for RRs and PARs. However, there are mixed findings on the magnitude of association by duration of follow-up <ref type="bibr" target="#b3">[4,</ref><ref type="bibr" target="#b6">7]</ref>.</p><p>This study also has strengths. First, we used the longitudinal follow-up data of a nationally representative sample with information about waist circumference. Although the response rates of the K-NHANES were not 100% and some of samples (i.e., those with invalid personal identification numbers or missing data, pregnant women, those with stroke, ischaemic heart disease, diabetes, or cancer at baseline) were excluded, our study subjects include Korean men and women with various socio-demographic characteristics all over the country. Three prior longitudinal studies employed a nationally representative sample <ref type="bibr" target="#b11">[12,</ref><ref type="bibr" target="#b16">17,</ref><ref type="bibr" target="#b17">18]</ref>, but two studies from Japan and the US substituted body mass index as a measure for obesity <ref type="bibr" target="#b11">[12,</ref><ref type="bibr" target="#b16">17]</ref> and a Turkish study examined the longitudinal relationship in a relatively short follow-up period (3-year follow-up) <ref type="bibr" target="#b17">[18]</ref>. Second, we presented analysis results on stroke, ischaemic heart disease, and diabetes. To our knowledge, no Asian studies have presented results on cardiovascular events and diabetes simultaneously.</p><p>In summary, the metabolic syndrome was significantly associated with cardiovascular disease, ischaemic heart disease, and diabetes after adjustment of a wide range of covariates in a national longitudinal study. The RR and PAR for ischaemic heart disease were greater in men than women. The RR and PAR were greater for diabetes than stroke and ischaemic heart disease. The number of metabolic syndrome components was linearly associated with risks of all four health outcomes. Of the abnormal metabolic risk factors, high blood pressure was significantly associated with all four outcomes examined in this study while hypertriglyceridemia and hyperglycemia were also important for ischaemic heart disease and diabetes, respectively. Our findings suggest that reduction of metabolic risk factors is necessary in Korea to lower the burden of associated diseases, especially ever-increasing ischaemic heart disease and diabetes <ref type="bibr" target="#b28">[28]</ref>.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1 .</head><label>1</label><figDesc>Fig. 1. Numbers of metabolic syndrome components and associated outcomes and relative risks (HR) (95% confidence CI) of cardiovascular disease, stroke, ischaemic heart disease, and diabetes among 9791 men and women aged 20+: findings from follow-up data of the 1998 and 2001 Korea National Health and Nutrition Examination Surveys.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Relative risk (RR) and population attributable risk fraction (PAR %) and their 95% confidence intervals (CI) of cardiovascular disease, stroke, ischaemic heart disease, and diabetes mellitus by metabolic syndrome after adjustment of covariates among 9791 men and women aged 20+: findings from follow-up data of the 1998 and 2001 Korea National Health and Nutrition Examination Surveys.</figDesc><table><row><cell></cell><cell>All (n = 9791)</cell><cell></cell><cell>Men (n = 4391)</cell><cell></cell><cell>Women (n = 5400)</cell><cell></cell></row><row><cell></cell><cell>RR (95% CI)</cell><cell>PAR (95% CI)</cell><cell>RR (95% CI)</cell><cell>PAR (95% CI)</cell><cell>RR (95% CI)</cell><cell>PAR (95% CI)</cell></row><row><cell cols="2">Cardiovascular disease</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Model I</cell><cell>1.48 (1.17 − 1.89)  †</cell><cell>14.0 (5.1 − 22.9)</cell><cell>1.51 (1.08 − 2.12) *</cell><cell>12.2 (1.4 − 22.9)</cell><cell>1.31 (0.93 − 1.84)</cell><cell>12.1 (−3.3 − 27.4)</cell></row><row><cell>Model II</cell><cell>1.43 (1.12 − 1.82)  †</cell><cell>13.3 (4.5 − 22.4)</cell><cell>1.49 (1.06 − 2.10) *</cell><cell>12.1 (1.2 − 22.9)</cell><cell>1.29 (0.91 − 1.82)</cell><cell>10.8 (−5.2 − 26.7)</cell></row><row><cell>Model III</cell><cell>1.43 (1.12 − 1.82)  †</cell><cell>13.1 (4.0 − 22.3)</cell><cell>1.53 (1.09 − 2.16) *</cell><cell>12.3 (1.5 − 23.1)</cell><cell>1.30 (0.92 − 1.84)</cell><cell>11.1 (−4.9 − 27.0)</cell></row><row><cell>Stroke</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Model I</cell><cell>1.39 (1.03 − 1.88) *</cell><cell>12.1 (0.7 − 23.4)</cell><cell>1.42 (0.92 − 2.21)</cell><cell>10.4 ( − 3.5 − 24.3)</cell><cell>1.33 (0.88 − 2.00)</cell><cell>12.4 (−6.3 − 31.0)</cell></row><row><cell>Model II</cell><cell>1.36 (1.01 − 1.84) *</cell><cell>11.7 (0.1 − 23.3)</cell><cell>1.45 (0.93 − 2.25)</cell><cell>10.6 ( − 3.4 − 24.6)</cell><cell>1.32 (0.87 − 2.01)</cell><cell>11.7 (−7.4 − 30.8)</cell></row><row><cell>Model III</cell><cell>1.35 (1.00 − 1.83)</cell><cell>11.6 (0.0 − 23.2)</cell><cell>1.49 (0.95 − 2.33)</cell><cell>10.9 ( − 3.0 − 24.8)</cell><cell>1.30 (0.85 − 1.98)</cell><cell>11.7 (−7.6 − 30.9)</cell></row><row><cell cols="2">Ischaemic heart disease</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Model I</cell><cell>1.64 − 2.36)  †</cell><cell>17.2 (3.7 − 30.8)</cell><cell>1.77 (1.06 − 2.94) *</cell><cell>17.2 (0.6 − 33.7)</cell><cell>1.18 (0.70 − 2.00)</cell><cell>8.1 (−16.1 − 32.3)</cell></row><row><cell>Model II</cell><cell>1.54 (1.06 − 2.22) *</cell><cell>15.9 (1.7 − 30.1)</cell><cell>1.70 (1.02 − 2.83) *</cell><cell>16.7 ( − 0.1 − 33.5)</cell><cell>1.13 (0.67 − 1.93)</cell><cell>5.4 (−20.9 − 31.6)</cell></row><row><cell>Model III</cell><cell>1.58 (1.09 − 2.29) *</cell><cell>15.8 (1.5 − 30.0)</cell><cell>1.75 (1.05 − 2.94) *</cell><cell>16.4 ( − 0.4 − 33.2)</cell><cell>1.21 (0.71 − 2.08)</cell><cell>6.5 (−19.6 − 32.6)</cell></row><row><cell cols="2">Diabetes mellitus</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Model I</cell><cell>2.27 (1.47 − 3.51)  ‡</cell><cell>27.6 (12.1 − 43.0)</cell><cell>2.43 (1.40 − 4.22)  †</cell><cell>27.6 (8.6 − 46.6)</cell><cell>1.92 (0.94 − 3.92)</cell><cell>25.6 (−1.6 − 52.7)</cell></row><row><cell>Model II</cell><cell>2.16 (1.39 − 3.36)  ‡</cell><cell>26.6 (10.5 − 42.6)</cell><cell>2.41 (1.38 − 4.22)  †</cell><cell>27.5 (8.1 − 46.9)</cell><cell>1.75 (0.84 − 3.64)</cell><cell>23.0 (−5.8 − 51.8)</cell></row><row><cell>Model III</cell><cell>2.12 (1.36 − 3.30)  ‡</cell><cell>25.6 (9.3 − 41.9)</cell><cell>2.51 (1.43 − 4.40)  †</cell><cell>27.1 (7.5 − 46.7)</cell><cell>1.94 (0.91 − 4.14)</cell><cell>23.3 (−5.4 − 52.0)</cell></row></table><note>Note. Model I: survey year and age (age and age square) were adjusted. Model II: besides the variables in model I, cigarette smoking, LDL cholesterol, alcohol consumption, and physical exercise were additionally adjusted. Model III: besides the variables in model II, socioeconomic status (education and household income), marital status, family histories (hypertension/stroke, ischaemic heart disease/heart failure, and diabetes), and resting heart rate were additionally adjusted.* P &lt; 0.05. † P &lt;0.01. ‡ P &lt; 0.001.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2</head><label>2</label><figDesc>Simultaneously adjusted relative risk (RR), population attributable risk fraction (PAR %) and their 95% confidence intervals (CI) of cardiovascular disease, stroke, ischaemic heart disease, and diabetes by individual component of metabolic syndrome among 9791 men and women aged 20+: findings from follow-up data of the 1998 and 2001 Korea National Health and Nutrition Examination Surveys.</figDesc><table><row><cell></cell><cell>Cardiovascular disease</cell><cell></cell><cell>Stroke</cell><cell></cell><cell>Ischaemic heart disease</cell><cell></cell><cell>Diabetes</cell><cell></cell></row><row><cell></cell><cell>RR (95% CI)</cell><cell>PAR (95% CI)</cell><cell>RR (95% CI)</cell><cell>PAR (95% CI)</cell><cell>RR (95% CI)</cell><cell>PAR (95% CI)</cell><cell>RR (95% CI)</cell><cell>PAR (95% CI)</cell></row><row><cell>All</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Central obesity</cell><cell>1.01 (0.78 − 1.31)</cell><cell>0.4 (−7.4 − 8.3)</cell><cell>1.02 (0.73 − 1.41)</cell><cell>0.6 (−9.4 − 10.6)</cell><cell>0.95 (0.63 − 1.42)</cell><cell>−1.5 (−13.4 − 10.5)</cell><cell>1.33 (0.84 − 2.11)</cell><cell>9.2 (−6.1 − 24.4)</cell></row><row><cell>Hypertriglyceridemia</cell><cell>1.40 (1.10 − 1.80)  †</cell><cell>12.6 (3.3 − 21.9)</cell><cell>1.19 (0.87 − 1.62)</cell><cell>6.4 (−5.5 − 18.3)</cell><cell>1.97 (1.35 − 2.87)  ‡</cell><cell>24.5 (10.8 − 38.2)</cell><cell>1.34 (0.85 − 2.12)</cell><cell>11.6 (−6.1 − 29.2)</cell></row><row><cell>Low HDL cholesterol</cell><cell>1.02 (0.79 − 1.32)</cell><cell>1.1 (−10.5 − 12.7)</cell><cell>1.14 (0.83 − 1.57)</cell><cell>6.0 (−8.6 − 20.6)</cell><cell>0.83 (0.56 − 1.23)</cell><cell>−8.6 (−27.5 − 10.3)</cell><cell>1.22 (0.76 − 1.96)</cell><cell>8.0 (−11.2 − 27.2)</cell></row><row><cell>High blood pressure</cell><cell>1.86 (1.42 − 2.43)  ‡</cell><cell>32.7 (20.1 − 45.2)</cell><cell>2.01 (1.43 − 2.84)  ‡</cell><cell>36.9 (21.4 − 52.4)</cell><cell>1.63 (1.08 − 2.45) *</cell><cell>26.2 (6.0 − 46.5)</cell><cell>1.67 (1.03 − 2.69) *</cell><cell>26.8 (4.2 − 49.4)</cell></row><row><cell>Hyperglycemia</cell><cell>0.95 (0.75 − 1.21)</cell><cell>−2.0 (−11.5 − 7.4)</cell><cell>0.86 (0.63 − 1.16)</cell><cell>−6.2 (−17.9 − 5.6)</cell><cell>1.24 (0.86 − 1.77)</cell><cell>8.2 (−6.4 − 22.8)</cell><cell>2.29 (1.47 − 3.54)  ‡</cell><cell>33.6 (16.5 − 50.8)</cell></row><row><cell>Men</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Central obesity</cell><cell>1.19 (0.82 − 1.73)</cell><cell>4.4 (−5.5 − 14.3)</cell><cell>1.16 (0.71 − 1.88)</cell><cell>3.8 (−8.9 − 16.4)</cell><cell>1.33 (0.76 − 2.32)</cell><cell>7.6 (−8.1 − 23.3)</cell><cell>1.37 (0.75 − 2.50)</cell><cell>9.1 (−9.6 − 27.8)</cell></row><row><cell>Hypertriglyceridemia</cell><cell>1.59 (1.13 − 2.25)  †</cell><cell>18.7 (5.2 − 32.3)</cell><cell>1.65 (1.06 − 2.57) *</cell><cell>20.0 (2.7 − 37.3)</cell><cell>1.63 (0.97 − 2.76)</cell><cell>20.2 (−0.9 − 41.3)</cell><cell>1.46 (0.81 − 2.61)</cell><cell>16.4 (−7.0 − 39.9)</cell></row><row><cell>Low HDL cholesterol</cell><cell>0.93 (0.64 − 1.36)</cell><cell>−2.1 (−13.3 − 9.0)</cell><cell>1.02 (0.63 − 1.65)</cell><cell>0.7 (−13.7 − 15.1)</cell><cell>0.86 (0.48 − 1.52)</cell><cell>−4.9 (−22.0 − 12.2)</cell><cell>1.40 (0.77 − 2.57)</cell><cell>10.1 (−7.4 − 27.5)</cell></row><row><cell>High blood pressure</cell><cell>1.41 (0.99 − 2.00)</cell><cell>18.5 (0.1 − 37.0)</cell><cell>1.37 (0.87 − 2.16)</cell><cell>17.7 (−7.2 − 42.5)</cell><cell>1.49 (0.87 − 2.55)</cell><cell>21.0 (−5.9 − 47.9)</cell><cell>1.52 (0.84 − 2.76)</cell><cell>22.1 (−7.6 − 51.8)</cell></row><row><cell>Hyperglycemia</cell><cell>0.92 (0.66 − 1.29)</cell><cell>−3.4 (−16.4 − 9.6)</cell><cell>0.83 (0.54 − 1.29)</cell><cell>−7.3 (−23.8 − 9.2)</cell><cell>1.04 (0.63 − 1.73)</cell><cell>1.4 (−19.0 − 21.9)</cell><cell>1.99 (1.14 − 3.48) *</cell><cell>28.3 (5.7 − 50.9)</cell></row><row><cell>Women</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Central obesity</cell><cell>0.86 (0.60 − 1.23)</cell><cell>−5.2 (−17.4 − 7.0)</cell><cell>0.92 (0.59 − 1.41)</cell><cell>−3.0 (−18.2 − 12.2)</cell><cell>0.65 (0.36 − 1.17)</cell><cell>−14.7 (−32.1 − 2.8)</cell><cell>1.26 (0.61 − 2.57)</cell><cell>8.4 (−16.4 − 33.1)</cell></row><row><cell>Hypertriglyceridemia</cell><cell>1.17 (0.82 − 1.68)</cell><cell>5.4 (−7.1 − 18.0)</cell><cell>0.86 (0.55 − 1.35)</cell><cell>−5.2 (−20.7 − 10.4)</cell><cell>2.09 (1.21 − 3.62)  †</cell><cell>24.9 (6.5 − 43.2)</cell><cell>1.17 (0.55 − 2.49)</cell><cell>5.1 (−21.2 − 31.3)</cell></row><row><cell>Low HDL cholesterol</cell><cell>1.10 (0.77 − 1.57)</cell><cell>5.9 (−15.4 − 27.1)</cell><cell>1.27 (0.82 − 1.96)</cell><cell>13.7 (−11.3 − 38.7)</cell><cell>0.77 (0.45 − 1.34)</cell><cell>−16.0 (−52.7 − 20.6)</cell><cell>1.01 (0.49 − 2.08)</cell><cell>1.5 (−45.0 − 48.1)</cell></row><row><cell>High blood pressure</cell><cell>2.46 (1.60 − 3.78)  ‡</cell><cell>45.9 (28.7 − 63.1)</cell><cell>3.14 (1.82 − 5.42)  ‡</cell><cell>54.6 (35.5 − 73.7)</cell><cell>1.49 (0.80 − 2.80)</cell><cell>24.2 (−8.6 − 56.9)</cell><cell>2.02 (0.86 − 4.71)</cell><cell>35.6 (0.8 − 70.3)</cell></row><row><cell>Hyperglycemia</cell><cell>0.93 (0.66 − 1.30)</cell><cell>−3.1 (−17.3 − 11.1)</cell><cell>0.83 (0.55 − 1.27)</cell><cell>−7.4 (−24.7 − 9.8)</cell><cell>1.34 (0.80 − 2.25)</cell><cell>12.6 (−9.4 − 34.6)</cell><cell>2.70 (1.32 − 5.53)  †</cell><cell>(14.0 − 67.4)</cell></row></table></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgements</head><p>The authors thank the National Statistical Office of Korea and the Health Insurance Review Agency for providing the data. This work was partly supported by the Korea Institute of Health and Social Affairs, Seoul, Korea.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conflicts of interest</head><p>None.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Appendix A. Supplementary data</head><p>Supplementary data associated with this article can be found, in the online version, at doi:10.1016/j.atherosclerosis.2010.09.009.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Role of insulin resistance in human disease</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Reaven</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Banting Lecutre</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="1595" to="1607" />
+			<date type="published" when="1988">1988. 1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Risks for all-cause mortality, cardiovascular disease, and diabetes associated with the metabolic syndrome. A summary of the evidence</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Ford</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="1769" to="1778" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Prevalence of the metabolic syndrome and its relation to all-cause and cardiovascular mortality in nondiabetic European men and women</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Hu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Qiao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tuomilehto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Balkau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Borch-Johnsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Pyorala</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">164</biblScope>
+			<biblScope unit="page" from="1066" to="1076" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Metabolic syndrome and risk of disease: a meta-analysis</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Galassi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Reynolds</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>He</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Med</title>
+		<imprint>
+			<biblScope unit="volume">119</biblScope>
+			<biblScope unit="page" from="812" to="819" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Metabolic syndrome and incident diabetes-current state of the evidence</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Ford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">Y</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Sattar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="1898" to="1904" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Metabolic syndrome and risk of incident cardiovascular events and death: a systematic review and meta-analysis of longitudinal studies</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Gami</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Witt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Howard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Erwin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Gami</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">K</forename><surname>Somers</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Coll Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="403" to="414" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Association between metabolic syndrome and risk of stroke: a meta-analysis of cohort studies</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Ma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Feng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Hao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cerebrovasc Dis</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="539" to="547" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Development of diabetes in Chinese with the metabolic syndrome: a 6-year prospective study</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">M</forename><surname>Cheung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">M</forename><surname>Wat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">B</forename><surname>Man</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Tam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">N</forename><surname>Thomas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Leung</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="1430" to="1436" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Metabolic syndrome increases all-cause and vascular mortality: the Hong Kong Cardiovascular Risk Factor Study</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">N</forename><surname>Thomas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Schooling</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Mcghee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">Y</forename><surname>Ho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">M</forename><surname>Cheung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">M</forename><surname>Wat</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Endocrinol (Oxf)</title>
+		<imprint>
+			<biblScope unit="volume">66</biblScope>
+			<biblScope unit="page" from="666" to="671" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Impact of metabolic syndrome on the development of cardiovascular disease in a general Japanese population: the Hisayama study</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Ninomiya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kubo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Doi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Yonemoto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Tanizaki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rahman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stroke</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="2063" to="2069" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">The impact of the metabolic syndrome and its components on the incidence of ischemic heart disease and stroke: the Japan public health center-based study</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Noda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Iso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Saito</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Konishi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Inoue</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Tsugane</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hypertens Res</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="289" to="298" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Relationship between metabolic risk factor clustering and cardiovascular mortality stratified by high blood glucose and obesity: NIPPON DATA90</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kadota</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Hozawa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Okamura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Kadowak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Nakmaura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Murakami</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="1533" to="1538" />
+			<date type="published" when="1990">1990-2000. 2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Ten-year risk of cardiovascular incidence related to diabetes, prediabetes, and the metabolic syndrome</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Grundy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">L</forename><surname>Vega</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Wu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am Heart J</title>
+		<imprint>
+			<biblScope unit="volume">153</biblScope>
+			<biblScope unit="page" from="552" to="558" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Metabolic syndrome as a risk factor for coronary heart disease and stroke: an 11-year prospective cohort in Taiwan community</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Chien</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Hsu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Sung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Su</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Lee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Atherosclerosis</title>
+		<imprint>
+			<biblScope unit="volume">194</biblScope>
+			<biblScope unit="page" from="214" to="221" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">The metabolic syndrome increases cardiovascular mortality in Taiwanese elderly</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Wen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">S</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">Y</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">L</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Yao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">K</forename><surname>Sung</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Clin Invest</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="469" to="475" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">A comparison of components of two definitions of the metabolic syndrome related to cardiovascular disease and all-cause mortality in a cohort study in Thailand</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Tanomsup</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Aekplakorn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Sritara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Woodward</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Yamwong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Tunlayadechanont</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="2138" to="2140" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">The metabolic syndrome and mortality from cardiovascular disease and all-causes: findings from the National Health and Nutrition Examination Survey II mortality study</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Ford</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Atherosclerosis</title>
+		<imprint>
+			<biblScope unit="volume">173</biblScope>
+			<biblScope unit="page" from="309" to="314" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Metabolic syndrome: major impact on coronary risk in a population with low cholesterol levels-a prospective and cross-sectional evaluation</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Onat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ceyhan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Bas ¸ar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Erer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Toprak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Sansoy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Atherosclerosis</title>
+		<imprint>
+			<biblScope unit="volume">165</biblScope>
+			<biblScope unit="page" from="285" to="292" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">Harmonizing the metabolic syndrome. A Joint Interim Statement of the International Diabetes Federation Task Force on Epidemiology and Prevention; National Heart, Lung, and Blood Institute</title>
+		<author>
+			<persName><forename type="first">Kgmm</forename><surname>Alberti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Eckel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Grundy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">Z</forename><surname>Zimmet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">I</forename><surname>Cleeman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Donato</surname></persName>
+		</author>
+		<imprint>
+			<publisher>American Heart Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">World Heart Federation; International Atherosclerosis Society; and International Association for the Study of Obesity</title>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">120</biblScope>
+			<biblScope unit="page" from="1640" to="1645" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Appropriate waist circumference cutoff points for central obesity in Korean adults</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">Y</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">S</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Han</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">J</forename><surname>Cho</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Res Clin Prac</title>
+		<imprint>
+			<biblScope unit="volume">75</biblScope>
+			<biblScope unit="page" from="72" to="80" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Components of the metabolic syndrome as predictors of cardiovascular disease and type 2 diabetes in middle-aged Japanese men</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Nakanishi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Takatorige</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Fukuda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Shirai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Okamoto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Res Clin Pract</title>
+		<imprint>
+			<biblScope unit="volume">64</biblScope>
+			<biblScope unit="page" from="59" to="70" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Comparison of four blood pressure indexes for the prediction of 10-year stroke risk in middle-aged and older Asians</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Miura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Soyama</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Morikawa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Nishijo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Nakanishi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Naruse</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hypertension</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page" from="715" to="720" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Why a sex difference in age-adjusted relationship between height and stroke mortality?</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Walsh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Donnelly</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Lyons</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stroke</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page">e92</biblScope>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Sex differences in first-ever acute stroke</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Roquer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Campello</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Gomis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stroke</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="1581" to="1585" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title level="m" type="main">The accuracy of ICD codes for cerebrovascular diseases in medical insurance claims</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">S</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">B</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">Y</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">S</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H</forename><surname>Lee</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>in Korean</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Korean J Prev Med</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="76" to="82" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">The accuracy of myocardial infarction diagnosis in medical insurance claims</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">Y</forename><surname>Ryu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Suh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Jee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">B</forename><surname>Kim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Yonsei Med J</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="570" to="576" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Understanding the rapid increase in life expectancy in South Korea</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">H</forename><surname>Khang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Harper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Davey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Leon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lynch</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Public Health</title>
+		<imprint>
+			<biblScope unit="volume">100</biblScope>
+			<biblScope unit="page" from="896" to="903" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

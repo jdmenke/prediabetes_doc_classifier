@@ -1,0 +1,1034 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Mortality Implications of Prediabetes and Diabetes in Older Adults</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Elizabeth</forename><surname>Selvin</surname></persName>
+							<email>eselvin@jhu.edu</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Epidemiology</orgName>
+								<orgName type="institution">Johns Hopkins Bloomberg School of Public Health</orgName>
+								<address>
+									<settlement>Baltimore</settlement>
+									<region>MD</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Olive</forename><surname>Tang</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Epidemiology</orgName>
+								<orgName type="institution">Johns Hopkins Bloomberg School of Public Health</orgName>
+								<address>
+									<settlement>Baltimore</settlement>
+									<region>MD</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Kunihiro</forename><surname>Matsushita</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Epidemiology</orgName>
+								<orgName type="institution">Johns Hopkins Bloomberg School of Public Health</orgName>
+								<address>
+									<settlement>Baltimore</settlement>
+									<region>MD</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Josef</forename><surname>Coresh</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Epidemiology</orgName>
+								<orgName type="institution">Johns Hopkins Bloomberg School of Public Health</orgName>
+								<address>
+									<settlement>Baltimore</settlement>
+									<region>MD</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">A</forename><forename type="middle">Richey</forename><surname>Sharrett</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Epidemiology</orgName>
+								<orgName type="institution">Johns Hopkins Bloomberg School of Public Health</orgName>
+								<address>
+									<settlement>Baltimore</settlement>
+									<region>MD</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">John</forename><forename type="middle">W</forename><surname>Mcevoy</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Division of Cardiology</orgName>
+								<orgName type="institution" key="instit1">National Institute for Prevention and Cardiovascular Health</orgName>
+								<orgName type="institution" key="instit2">National University of Ireland</orgName>
+								<address>
+									<settlement>Galway</settlement>
+									<country key="IE">Ireland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">B</forename><forename type="middle">Gwen</forename><surname>Windham</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Geriatric Medicine</orgName>
+								<orgName type="institution">University of Mississippi School of Medicine</orgName>
+								<address>
+									<settlement>Jackson</settlement>
+									<region>MI</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Christie</forename><forename type="middle">M</forename><surname>Ballantyne</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Medicine</orgName>
+								<orgName type="institution">Baylor College of Medicine</orgName>
+								<address>
+									<settlement>Houston</settlement>
+									<region>TX</region>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Mortality Implications of Prediabetes and Diabetes in Older Adults</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">65FF5DA4D8DDEF46E5A38196B19D6B49</idno>
+					<idno type="DOI">10.2337/dc19-1221</idno>
+					<note type="submission">Received 21 June 2019 and accepted 5 November 2019</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.1" ident="GROBID" when="2022-07-19T23:00+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Diabetes in older age is heterogeneous, and the treatment approach varies by patient characteristics. We characterized the short-term all-cause and cardiovascular mortality risk associated with hyperglycemia in older age.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESEARCH DESIGN AND METHODS</head><p>We included 5,791 older adults in the Atherosclerosis Risk in Communities Study who attended visit 5 (2011-2013; ages 66-90 years). We compared prediabetes (HbA 1c 5.7% to &lt;6.5%), newly diagnosed diabetes (HbA 1c ‡6.5%, prior diagnosis &lt;1 year, or taking antihyperglycemic medications &lt;1 year), short-duration diabetes (duration ‡1 year but &lt;10 years [median]), and long-standing diabetes (duration ‡10 years). Outcomes were all-cause and cardiovascular mortality (median follow-up of 5.6 years).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head><p>Participants were 58% female, and 24% had prevalent cardiovascular disease. Allcause mortality rates, per 1,000 person-years, were 21.2 (95% CI 18.7, 24.1) among those without diabetes, 23.7 (95% CI 20.8, 27.1) for those with prediabetes, 33.8 (95% CI 25.2, 45.5) among those with recently diagnosed diabetes, 29.6 (95% CI 25.0, 35.1) for those with diabetes of short duration, and 48.6 (95% CI 42.4, 55.7) for those with long-standing diabetes. Cardiovascular mortality rates, per 1,000 person-years, were 5.8 (95% CI 4.6, 7.4) among those without diabetes, 6.6 (95% CI 5.2, 8.5) for those with prediabetes, 11.5 (95% CI 7.0, 19.1) among those with recently diagnosed diabetes, 8.2 (95% CI 5.9, 11.3) for those with diabetes of short duration, and 17.3 (95% CI 13.8, 21.7) for those with longstanding diabetes. After adjustment for other cardiovascular risk factors, prediabetes and newly diagnosed diabetes were not significantly associated with a higher risk of all-cause mortality (hazard ratio [HR] 1. 03 [95% CI 0.85,  1.23] and HR 1.31 [95% CI 0.94, 1.82], respectively) or cardiovascular mortality (HR 1.00 [95% CI 0.70, 1.43] and HR 1.35 [95% CI 0.74, 2.49], respectively). Excess mortality risk was primarily concentrated among those with long-standing diabetes (all-cause: HR 1.71 [95% CI 1.40, 2.10]; cardiovascular: HR 1.72 [95% CI 1.18, 2.51]).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CONCLUSIONS</head><p>In older adults, long-standing diabetes has a substantial and independent effect on short-term mortality. Older individuals with prediabetes remained at low mortality risk over a median 5.6 years of follow-up.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Diabetes and prediabetes are established risk factors for cardiovascular events and mortality in middle-aged adults <ref type="bibr" target="#b0">(1)</ref><ref type="bibr" target="#b1">(2)</ref><ref type="bibr" target="#b2">(3)</ref>. Risks of microvascular and macrovascular complications in adults with diabetes increase with longer duration of disease (4), consistent with the accumulation of physiologic dysfunction associated with chronic hyperglycemia <ref type="bibr" target="#b4">(5,</ref><ref type="bibr" target="#b5">6)</ref>. Most of our knowledge of diabetes as a cardiovascular risk factor is derived from studies in middle-aged adults. Older adults comprise a clinically heterogeneous group <ref type="bibr" target="#b6">(7)</ref><ref type="bibr" target="#b7">(8)</ref><ref type="bibr" target="#b8">(9)</ref>, and the strength of the association between risk factors and clinical outcomes may differ in older age compared with middle age <ref type="bibr" target="#b9">(10)</ref>.</p><p>Recommendations for screening and diagnosis of diabetes in older adults are largely based on data from middle-aged populations. Guidelines from the American Diabetes Association recommend screening for prediabetes or diabetes at least every 3 years among all adults older than 45 years and yearly screenings for individuals with prediabetes <ref type="bibr" target="#b10">(11)</ref>. Nonetheless, information on mortality risk in prediabetes and newly diagnosed diabetes in older age is lacking.</p><p>Emerging evidence suggests that diabetes, especially in older age, is heterogeneous <ref type="bibr" target="#b11">(12)</ref>. For example, we previously showed in a cross-sectional analysis of data from the National Health and Nutrition Examination Survey that older adults with diabetes diagnosed in later life appeared to have a comparable burden of macrovascular disease but a lower burden of microvascular outcomes compared with older adults with longstanding diabetes diagnosed in middle age <ref type="bibr" target="#b12">(13)</ref>. Evidence from the Swedish National Diabetes Registry further supports the hypothesis that the implications of hyperglycemia may differ in middle age compared with older age, as those diagnosed with diabetes at younger ages experienced a relatively higher mortality risk <ref type="bibr" target="#b13">(14)</ref>. However, the prognostic implications of hyperglycemia, especially prediabetes and undiagnosed diabetes, in older adults remains incompletely characterized and has been identified by the American Diabetes Association as a pressing knowledge gap <ref type="bibr" target="#b14">(15,</ref><ref type="bibr" target="#b15">16)</ref>.</p><p>The objective of this study was to assess the prospective association of prediabetes, newly diagnosed diabetes, and longer-duration diabetes with short-term (;6-year) all-cause and cardiovascular mortality among older black and white participants in the prospective Atherosclerosis Risk in Communities (ARIC) Study.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESEARCH DESIGN AND METHODS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study Population</head><p>Our analyses included older adults, aged 66-90 years, who attended visit 5 (2011-2013) of the ARIC Study, fasted at least 8 h, and provided complete demographic, physical examination, and laboratory information. We excluded participants who self-reported race other than black or white or who were missing data on covariates (Supplementary Fig. <ref type="figure">1</ref>). Of the 6,538 individuals who attended visit 5, our final analytic population included 5,791 participants. Details for the design and data collection in ARIC have been published previously <ref type="bibr" target="#b16">(17)</ref>. The ARIC protocols were approved by institutional review boards at each study site, and all participants provided written informed consent.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Assessment of Diabetes Status at Baseline and Definitions</head><p>Diabetes status was defined based on the American Diabetes Association diagnostic criteria <ref type="bibr" target="#b10">(11)</ref>: prediabetes was defined as an HbA 1c of 5.7-6.4% (39-46 mmol/mol) in adults without a history of diabetes, and newly diagnosed diabetes was defined as an HbA 1c $6.5% (48 mmol/mol), prior physician diagnosis of diabetes, or antihyperglycemic medication use within the past year. We further categorized participants with diabetes with duration of at least 1 year based on duration (above and below 10 years, the median duration among those with diabetes of at least 1 year duration at baseline in our study population). We used the time of the first report of diabetes (physician diagnosis or antihyperglycemic medication use) at a prior visit or during the semiannual telephone follow-up. Individuals with diabetes defined solely based on an elevated HbA 1c at visit 5 were assigned a duration of 0 years (n 5 89). In sensitivity analyses, we subdivided newly diagnosed diabetes into 1) undiagnosed diabetes, defined as an HbA 1c $6.5% (48 mmol/mol) among those without a diagnosis of diabetes or antihyperglycemic medication use within the past year, and 2) diabetes of duration ,1 year, defined as a diagnosis or antihyperglycemic medication use within the past year. We also conducted analyses with diabetes defined based on American Diabetes Association reference ranges for fasting blood glucose (prediabetes: 100-125 mg/dL; diabetes: $126 mg/dL, prior physician diagnosis, or antihyperglycemic medication use) <ref type="bibr" target="#b10">(11)</ref>. Finally, we considered a more sensitive definition of glycemic status based on an abnormality in HbA 1c or fasting blood glucose, thus creating a more stringent normoglycemic reference group with normal HbA 1c and normal fasting blood glucose. HbA 1c was measured in EDTA whole blood using the Tosoh G7 Automated HPLC Analyzer (Tosoh Bioscience, San Francisco, CA). Glucose was measured in serum using the hexokinase method with the Beckman Coulter Olympus AU400e analyzer.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Assessment of Cardiovascular Disease Status at Baseline and Definitions</head><p>Prevalent cardiovascular disease (CVD) was defined as a composite of prevalent coronary heart disease (CHD), heart failure (HF), or stroke at visit 5. Prevalent CHD was defined as an adjudicated definite or probable myocardial infarction, cardiac procedure, or serial electrocardiogram changes indicative of a myocardial infarction before visit 5. Prevalent HF was defined as any adjudicated HF event after 2005, any first position ICD-9 code of 428.x before 2005, any physician report of HF, at least two reports of selfreported HF or use of HF medication, or any single self-reported HF with subsequent N-terminal prohormone brain natriuretic peptide (NT-proBNP) .125 pg/mL at ARIC visits 4 or 5. Prevalent stroke was defined as any adjudicated stroke event before visit 5 or selfreported baseline history of stroke at ARIC visit <ref type="bibr">1 (1987-1989)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Covariate Assessment and Definitions</head><p>All covariates were measured at visit 5, with the exception of education attainment, which was assessed at visit <ref type="bibr">1 (1987-1989)</ref>. We categorized education attainment as less than high school, high school or equivalent, or college equivalent or higher. BMI was calculated from measured height and weight and categorized as ,25 kg/m 2 , 25 to ,30 kg/m 2 , or $30 kg/m 2 . Blood pressure was measured in triplicate using an Omron HEM 907-XL. The average of the second and third measurements was used as the participant blood pressure. Total cholesterol and HDL cholesterol were measured in plasma. The estimated glomerular filtration rate (eGFR) was calculated using the Chronic Kidney Disease Epidemiology Collaboration creatinine-cystatin C equation <ref type="bibr" target="#b17">(18)</ref>. Stage 31 chronic kidney disease was defined as an eGFR ,60 mL/min/1.73 m 2 . hs-CRP was assessed using the antibody-based assay using the Beckman Coulter Olympus analyzer. Participants were asked to bring all medications to their visit to determine the type and number of medications taken.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Outcomes</head><p>Vital status of all ARIC participants was ascertained via semiannual telephone follow-up, state records, and linkage to the National Death Index. We defined cardiovascular death as an adjudicated fatal CHD, HF, or hemorrhagic or ischemic stroke, or ICD-10 codes from death certificates for cardiovascular causes (390-398, 401-404, 410-427, 430-438, 440-448, 451-459, I00-I78). At the time of analysis, follow-up was complete through 31 December 2017.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical Analyses</head><p>We compared baseline characteristics using ANOVA for continuous variables and Pearson x 2 testing for categorical covariates. We calculated rates of allcause and cardiovascular mortality (per 1,000 person-years of follow-up) overall and by diabetes status and compared them using ratios and differences. Cumulative mortality was calculated using the Kaplan-Meier approach. We used Cox regression models, with the Efron method to account for any ties in survival times <ref type="bibr" target="#b18">(19)</ref>, to estimate hazard ratios and their corresponding 95% CIs for the association of diabetes status with all-cause mortality. For analyses of cardiovascular mortality, deaths due to other causes were modeled as competing outcomes using the Fine and Gray approach <ref type="bibr" target="#b19">(20)</ref>  <ref type="table" target="#tab_0">1</ref>).</p><p>Compared with those with undiagnosed diabetes, ;26% of those with diabetes diagnosed within the past year reported antihyperglycemic medication use and were using an average of one more medication compared with those who were normoglycemic or with undiagnosed diabetes (Supplementary Table <ref type="table" target="#tab_0">1</ref>). Those with undiagnosed diabetes had a higher average HbA 1c and higher total cholesterol compared with those with diabetes diagnosed in the past year (Supplementary Table <ref type="table" target="#tab_0">1</ref>). Over a median of 5.6 years of followup, 849 deaths were observed, 254 of which were attributable to cardiovascular causes. Mortality rates were highest among participants with long-standing diabetes (Table <ref type="table" target="#tab_2">2</ref>). Crude and adjusted mortality rates among those with prediabetes were not statistically different from those without diabetes (Tables <ref type="table" target="#tab_4">2-4</ref>). After adjustment for traditional cardiovascular risk factors, diabetes and other cardiovascular risk factors, such as low eGFR, but not prediabetes, remained associated with all-cause and cardiovascular mortality (model 3) (Tables 3 and 4). When diabetes duration was modeled continuously, mortality risk increased with longer duration of disease (Supplementary Figs. <ref type="figure">2 and 3</ref>).</p><p>These findings were generally robust to alternative definitions of diabetes status based on fasting blood glucose, either in isolation or in combination with HbA 1c (Supplementary Table <ref type="table" target="#tab_2">2</ref>). However, in a more sensitive definition of hyperglycemia based on fasting blood glucose alone or in combination with HbA 1c , short-duration diabetes was not significantly associated with elevated mortality risk (Supplementary Tables <ref type="table" target="#tab_3">2  and 3</ref>). No statistically significant interactions were observed with sex, race, or baseline CVD status (all P interaction . 0.05).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CONCLUSIONS</head><p>Among older adults in our cohort with prediabetes, risks of all-cause and cardiovascular mortality were similar to adults with normoglycemia after accounting for cardiovascular risk factors. Excess shortterm (median follow-up: 5.6 years) risk of mortality associated with hyperglycemia in older age was highest in those with long-standing diabetes. Our results are in contrast to studies in middle-aged adults that have demonstrated robust associations of prediabetes and undiagnosed diabetes with mortality <ref type="bibr" target="#b22">(23)</ref><ref type="bibr" target="#b23">(24)</ref><ref type="bibr">(25)</ref><ref type="bibr" target="#b24">(26)</ref>.</p><p>Evidence for the health risks associated with hyperglycemia in older adults, particularly prediabetes, is limited. Most intervention trials in type 2 diabetes populations have excluded older adults <ref type="bibr" target="#b25">(27)</ref>. Observational studies have documented a higher absolute risk of complications in older adults with diabetes <ref type="bibr" target="#b8">(9,</ref><ref type="bibr" target="#b26">(28)</ref><ref type="bibr" target="#b27">(29)</ref><ref type="bibr" target="#b28">(30)</ref>. However, older adults with diabetes comprise clinically distinct groups: those with long-standing diabetes (i.e., diagnosed in middle age) as well as those with recent-onset diabetes <ref type="bibr" target="#b8">(9)</ref>. Our findings suggest that when considering hyperglycemic status in older age, only adults with long-standing diabetes have a significantly elevated short-term risk for mortality independent of other cardiovascular risk factors. Our results are consistent with findings from the Diabetes and Aging Study and Framingham Heart Study, which observed higher risks of complications and mortality among those with longer duration of disease <ref type="bibr" target="#b3">(4,</ref><ref type="bibr" target="#b29">31)</ref>, and the Swedish National Diabetes Registry, which observed excess mortality risk associated with diabetes among those diagnosed at younger but not older ages <ref type="bibr" target="#b13">(14)</ref>. Diabetes duration has previously been associated with higher risk of end-organ complications, including retinopathy and kidney disease <ref type="bibr" target="#b30">(32,</ref><ref type="bibr" target="#b31">33)</ref>, highlighting the cumulative effects of hyperglycemia on microvascular dysfunction that may underlie the excess mortality risk observed among those with long-standing diabetes.</p><p>Our results support current guidelines from the American Diabetes Association that recommend focusing on lifestyle modification rather than initiation of pharmacologic intervention in older adults with prediabetes <ref type="bibr" target="#b32">(34)</ref>. The risks of adverse effects of glucose-lowering medicationsdparticularly hypoglycemiad and polypharmacy are heightened in older adults <ref type="bibr" target="#b2">(3,</ref><ref type="bibr" target="#b33">35,</ref><ref type="bibr" target="#b34">36)</ref>. In this communitybased cohort, participants with diagnosed diabetes, on average, were taking more total medications compared with those with prediabetes or normoglycemia. The lack of significant elevations in all-cause or cardiovascular mortality risk among older adults with prediabetes supports focusing on lifestyle modification and management of other cardiovascular risk factors for diabetes prevention in this age-group. This is in contrast to recommendations in middleaged adults for initiation of pharmacologic therapy for diabetes prevention with medications such as metformin <ref type="bibr" target="#b32">(34)</ref>. Prior work in the Diabetes Prevention Program supports the efficacy of intensive lifestyle modification, consisting of physical activity and weight loss, in older adults <ref type="bibr" target="#b35">(37)</ref>. Furthermore, those with newly diagnosed diabetes based on more sensitive screening definitions did not appear to be at an elevated shortterm mortality risk, suggesting that intensive glycemic screening and use of highly sensitive diagnostic criteria, particularly for prediabetes, may not be efficient in older adults. Less aggressive treatment, including delaying pharmacologic therapy, may be appropriate for older patients with prediabetes or newonset diabetes, especially those with shorter life expectancies.</p><p>Participants with diabetes diagnosed within the past year appeared to be at a higher mortality risk compared with those with undiagnosed diabetes detected at the visit. There may be several possible explanations for this finding. First, it is possible that this is a result of "detection bias"; that is, those participants with other health conditions may have been more likely to receive laboratory screening, including blood glucose or HbA 1c testing, leading to a diagnosis of diabetes. While speculative, another major difference between the undiagnosed and newly diagnosed diabetes groups was that more than one-quarter of those with newly diagnosed diabetes were initiated on a hyperglycemic medication (primarily oral antihyperglycemics). Whether this pharmacologic intervention is associated with increased mortality in this group is uncertain.</p><p>Our study has some limitations. First, the median follow-up of 5.6 years and number of recorded deaths limited our power to evaluate subgroup effects, especially for cardiovascular mortality. However, this time frame is clinically relevant for older populations. Second, despite adjustment for rigorously measured risk factors, including kidney function, there remains the possibility of residual confounding. Third, we did not have information on follow-up HbA 1c or glucose measurements, limiting our ability to account for the time-varying nature of glycemic status. Finally, we are unable to account for any medication initiation or changes among participants after their study visit. Given the small sample size of those with newly diagnosed diabetes, we were unable to further stratify and compare those who initiated pharmacologic intervention with those who did not.</p><p>Strengths of the study include the large, community-based sample of older black and white adults with active follow-up for all-cause and cardiovascular mortality. The availability of measurements for both HbA 1c and fasting blood glucose allowed us to assess the robustness of our findings to different definitions of prediabetes and diabetes status.</p><p>Diabetes in older adults is heterogeneous. Our results suggest that glycemic status alone is not effective at identifying older adults at highest risk of all-cause or cardiovascular mortality. Diabetes was associated with excess mortality, with the risk increasing with longer duration of disease. However, prediabetes was not independently associated with elevated cardiovascular or all-cause mortality over a median ;6-year window. Our results confirm that diabetes duration is important to consider in the care of older adults with diabetes and support focusing on lifestyle factors and cardiovascular risk management (such as smoking cessation or cholesterol control) to prevent diabetes and reduce mortality in older adults with prediabetes. </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 -</head><label>1</label><figDesc>Baseline characteristics of participants according to diabetes status, the ARIC Study, visit5 (2011-2013)    No diabetes Prediabetes Newly diagnosed diabetes † Short-duration diabetes ‡ Long-standing diabetes § (n 5 2,100) (n 5 1,737) Continuous variables are reported as the mean (SD) or median (interquartile range). Categorical variables are reported as percentages. CKD, chronic kidney disease. *4.3% missing. †Diabetes diagnosed at ARIC visit 5 or within 1 year of the visit 5 examination. ‡Median diabetes duration ,10 years among those with diabetes duration $1 year. §Median diabetes duration $10 years among those with diabetes duration $1 year.</figDesc><table><row><cell>(n 5 251)</cell><cell>(n</cell><cell>5 852)</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 2 -</head><label>2</label><figDesc>Incidence rates (95% CI) and 5-year cumulative incidence of all-cause and cardiovascular mortality associated with diabetes status</figDesc><table><row><cell></cell><cell></cell><cell>Incidence rate</cell><cell></cell><cell>Incidence rate difference</cell><cell></cell></row><row><cell></cell><cell></cell><cell>(per 1,000</cell><cell></cell><cell>(per 1,000</cell><cell></cell></row><row><cell></cell><cell>Events</cell><cell>person-years)</cell><cell>Incidence rate ratio</cell><cell>person-years)</cell><cell>5-Year cumulative incidence, %</cell></row><row><cell>All-cause mortality</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Overall</cell><cell>849</cell><cell>27.6 (25.8, 29.5)</cell><cell></cell><cell></cell><cell>12.6</cell></row><row><cell>No diabetes</cell><cell>241</cell><cell>21.2 (18.7, 24.1)</cell><cell>1 (Reference)</cell><cell>0 (Reference)</cell><cell>10.0</cell></row><row><cell>Prediabetes</cell><cell>222</cell><cell>23.7 (20.8, 27.1)</cell><cell>1.1 (0.9, 1.3)</cell><cell>2.5 (21.6, 6.6)</cell><cell>10.7</cell></row><row><cell>Newly diagnosed diabetes</cell><cell>44</cell><cell>33.8 (25.2, 45.5)</cell><cell>1.6 (1.1, 2.2)</cell><cell>12.6 (2.3, 23.0)</cell><cell>15.5</cell></row><row><cell>Short-duration diabetes</cell><cell>134</cell><cell>29.6 (25.0, 35.1)</cell><cell>1.4 (1.1, 1.7)</cell><cell>8.4 (2.7, 14.1)</cell><cell>13.0</cell></row><row><cell>Long-standing diabetes</cell><cell>208</cell><cell>48.6 (42.4, 55.7)</cell><cell>2.3 (1.9, 2.8)</cell><cell>27.4 (20.2, 34.5)</cell><cell>21.5</cell></row><row><cell>Cardiovascular mortality</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Overall</cell><cell>254</cell><cell>8.2 (7.3, 9.3)</cell><cell></cell><cell></cell><cell>3.9</cell></row><row><cell>No diabetes</cell><cell>66</cell><cell>5.8 (4.6, 7.4)</cell><cell>1 (Reference)</cell><cell>0 (Reference)</cell><cell>2.7</cell></row><row><cell>Prediabetes</cell><cell>62</cell><cell>6.6 (5.2, 8.5)</cell><cell>1.1 (0.8, 1.6)</cell><cell>0.8 (21.4, 3.0)</cell><cell>3.3</cell></row><row><cell>Newly diagnosed diabetes</cell><cell>15</cell><cell>11.</cell><cell></cell><cell></cell><cell></cell></row></table><note>5 (7.0, 19.1) 2.0 (1.1, 3.5) 5.7 (20.3, 11.7) 6.3 Short-duration diabetes 37 8.2 (5.9, 11.3) 1.4 (0.9, 2.1) 2.4 (20.6, 5.4) 3.4 Long-standing diabetes 74 17.3 (13.8, 21.7) 3.0 (2.1, 4.2) 11.5 (7.3, 15.7) 7.9</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 3 -</head><label>3</label><figDesc>Hazard ratios (95% CI) for all-cause mortality associated with diabetes status and other cardiovascular risk factors at baseline</figDesc><table><row><cell></cell><cell>Model 1</cell><cell>Model 2</cell><cell>Model 3</cell></row><row><cell>Diabetes status</cell><cell></cell><cell></cell><cell></cell></row><row><cell>No diabetes</cell><cell>1 (Reference)</cell><cell>1 (Reference)</cell><cell>1 (Reference)</cell></row><row><cell>Prediabetes</cell><cell cols="3">1.07 (0.89, 1.28) 1.06 (0.88, 1.27) 1.01 (0.84, 1.22)</cell></row><row><cell>Newly diagnosed diabetes</cell><cell cols="3">1.48 (1.07, 2.05) 1.41 (1.02, 1.96) 1.31 (0.94, 1.82)</cell></row><row><cell>Short-duration diabetes</cell><cell cols="3">1.43 (1.16, 1.77) 1.39 (1.12, 1.73) 1.26 (1.01, 1.57)</cell></row><row><cell>Long-standing diabetes</cell><cell cols="3">2.17 (1.79, 2.62) 2.09 (1.73, 2.54) 1.71 (1.40, 2.10)</cell></row><row><cell>Age, per 5 years</cell><cell cols="3">1.74 (1.63, 1.85) 1.72 (1.61, 1.83) 1.55 (1.45, 1.66)</cell></row><row><cell>Male</cell><cell cols="3">1.44 (1.26, 1.65) 1.47 (1.28, 1.68) 1.44 (1.24, 1.68)</cell></row><row><cell>Race-center</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Minneapolis whites</cell><cell>1 (Reference)</cell><cell>1 (Reference)</cell><cell>1 (Reference)</cell></row><row><cell>Jackson blacks</cell><cell cols="3">1.26 (1.04, 1.53) 1.17 (0.96, 1.44) 1.17 (0.95, 1.39)</cell></row><row><cell>Washington whites</cell><cell cols="3">1.00 (0.83, 1.20) 0.93 (0.77, 1.12) 0.94 (0.79, 1.14)</cell></row><row><cell>Forsyth blacks</cell><cell cols="3">0.51 (0.24, 1.09) 0.51 (0.24, 1.07) 0.47 (0.22, 1.01)</cell></row><row><cell>Forsyth whites</cell><cell cols="3">0.95 (0.78, 1.16) 0.95 (0.78, 1.15) 0.84 (0.68, 1.03)</cell></row><row><cell>Family history of diabetes</cell><cell>d</cell><cell cols="2">1.03 (0.88, 1.20) 1.04 (0.89, 1.22)</cell></row><row><cell>Education attainment</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Less than high school</cell><cell>d</cell><cell cols="2">1.47 (1.19, 1.82) 1.32 (1.08, 1.63)</cell></row><row><cell>High school/GED</cell><cell>d</cell><cell cols="2">1.19 (1.00, 1.40) 1.20 (1.01, 1.42)</cell></row><row><cell>College graduate</cell><cell>d</cell><cell>1 (Reference)</cell><cell>1 (Reference)</cell></row><row><cell>Current smoking</cell><cell>d</cell><cell>d</cell><cell>1.34 (1.17, 1.54)</cell></row><row><cell>Total cholesterol, per 100 mg/dL</cell><cell>d</cell><cell>d</cell><cell>1.44 (0.92, 2.27)</cell></row><row><cell>HDL cholesterol, per 100 mg/dL</cell><cell>d</cell><cell>d</cell><cell>0.53 (0.31, 0.90)</cell></row><row><cell>Cholesterol-lowering medication use</cell><cell></cell><cell></cell><cell>0.81 (0.69, 0.96)</cell></row><row><cell>Systolic blood pressure, per 10 mmHg</cell><cell>d</cell><cell>d</cell><cell>1.00 (0.97, 1.04)</cell></row><row><cell>Hypertension medication use</cell><cell>d</cell><cell>d</cell><cell>0.79 (0.65, 0.95)</cell></row><row><cell>eGFR, per 10 mL/min/1.73 m 2</cell><cell></cell><cell></cell><cell></cell></row><row><cell>,60 mL/min/1.73 m 2</cell><cell>d</cell><cell>d</cell><cell>0.77 (0.72, 0.82)</cell></row><row><cell>.60 mL/min/1.73 m 2</cell><cell>d</cell><cell>d</cell><cell>0.92 (0.85, 1.00)</cell></row><row><cell>hs-CRP, log 2 mg/L</cell><cell>d</cell><cell>d</cell><cell>1.13 (1.08, 1.18)</cell></row><row><cell>Prevalent CVD</cell><cell>d</cell><cell>d</cell><cell>1.69 (1.45, 1.97)</cell></row><row><cell cols="4">Model 1: adjusted for age, sex, and race-center. Model 2: model 1 adjustments plus education</cell></row><row><cell cols="4">attainment and family history of diabetes. Model 3: model 2 adjustments plus current smoking,</cell></row><row><cell cols="4">systolic blood pressure, total cholesterol, HDL cholesterol, cholesterol-lowering medication use,</cell></row><row><cell cols="4">log-transformed hs-CRP, eGFR with spline knot at 60 mL/min/1.73 m 2 , hypertension medication</cell></row><row><cell>use, and prevalent CVD.</cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Table 4 -</head><label>4</label><figDesc>Subhazard ratios (95% CI) for cardiovascular mortality associated with diabetes status and other cardiovascular risk factors at baseline Model 1: age, sex, and race-center. Model 2: model 1 plus education attainment and family history of diabetes. Model 3: model 2 plus current smoking, systolic blood pressure, hypertension medication use, total cholesterol, HDL cholesterol, cholesterol-lowering medication use, logtransformed hs-CRP, eGFR with spline knot at 60 mL/min/1.73 m 2 , and prevalent CVD.</figDesc><table><row><cell></cell><cell>Model 1</cell><cell>Model 2</cell><cell>Model 3</cell></row><row><cell>Diabetes status</cell><cell></cell><cell></cell><cell></cell></row><row><cell>No diabetes</cell><cell>1 (Reference)</cell><cell>1 (Reference)</cell><cell>1 (Reference)</cell></row><row><cell>Prediabetes</cell><cell cols="3">1.06 (0.75, 1.51) 1.05 (0.74, 1.50) 1.00 (0.70, 1.43)</cell></row><row><cell>Newly diagnosed diabetes</cell><cell cols="3">1.63 (0.91, 2.91) 1.54 (0.85, 2.80) 1.35 (0.74, 2.49)</cell></row><row><cell>Short-duration diabetes</cell><cell cols="3">1.32 (0.88, 1.99) 1.30 (0.85, 1.97) 1.09 (0.72, 1.66)</cell></row><row><cell>Long-standing diabetes</cell><cell cols="3">2.39 (1.68, 3.39) 2.31 (1.60, 3.33) 1.72 (1.18, 2.51)</cell></row><row><cell>Age, per 5 years</cell><cell cols="3">1.76 (1.56, 1.99) 1.73 (1.53, 1.95) 1.49 (1.30, 1.70)</cell></row><row><cell>Male</cell><cell cols="3">1.54 (1.20, 1.97) 1.54 (1.20, 1.98) 1.39 (1.05, 1.85)</cell></row><row><cell>Race-center</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Minneapolis whites</cell><cell>1 (Reference)</cell><cell>1 (Reference)</cell><cell>1 (Reference)</cell></row><row><cell>Jackson blacks</cell><cell cols="3">1.86 (1.31, 2.63) 1.62 (1.12, 2.32) 1.51 (1.03, 2.20)</cell></row><row><cell>Washington whites</cell><cell cols="3">1.10 (0.87, 1.54) 1.00 (0.70, 1.43) 0.99 (0.70, 1.42)</cell></row><row><cell>Forsyth blacks</cell><cell cols="3">0.28 (0.04, 2.03) 0.26 (0.04, 1.54) 0.26 (0.03, 1.93)</cell></row><row><cell>Forsyth whites</cell><cell cols="3">0.84 (0.57, 1.24) 0.82 (0.56, 1.22) 0.74 (0.49, 1.11)</cell></row><row><cell>Family history of diabetes</cell><cell>d</cell><cell cols="2">1.00 (0.76, 1.33) 1.02 (0.76, 1.36)</cell></row><row><cell>Education attainment</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Less than high school</cell><cell>d</cell><cell cols="2">1.56 (1.06, 2.28) 1.29 (0.87, 1.90)</cell></row><row><cell>High school/GED</cell><cell>d</cell><cell cols="2">1.06 (0.78, 1.46) 1.05 (0.76, 1.46)</cell></row><row><cell>College graduate</cell><cell>d</cell><cell>1 (Reference)</cell><cell>1 (Reference)</cell></row><row><cell>Current smoking</cell><cell>d</cell><cell>d</cell><cell>1.16 (0.87, 1.54)</cell></row><row><cell>Total cholesterol, per 100 mg/dL</cell><cell>d</cell><cell>d</cell><cell>1.16 (0.44, 3.04)</cell></row><row><cell>HDL cholesterol, per 100 mg/dL</cell><cell>d</cell><cell>d</cell><cell>0.83 (0.28, 2.44)</cell></row><row><cell>Cholesterol-lowering medication use</cell><cell>d</cell><cell>d</cell><cell>0.77 (0.56, 1.04)</cell></row><row><cell>Systolic blood pressure, per 10 mmHg</cell><cell>d</cell><cell>d</cell><cell>1.01 (0.94, 1.08)</cell></row><row><cell>Hypertension medication use</cell><cell>d</cell><cell>d</cell><cell>0.81 (0.55, 1.19)</cell></row><row><cell>eGFR, per 10 mL/min/1.73 m 2</cell><cell></cell><cell></cell><cell></cell></row><row><cell>,60 mL/min/1.73 m 2</cell><cell>d</cell><cell>d</cell><cell>0.76 (0.68, 0.86)</cell></row><row><cell>.60 mL/min/1.73 m 2</cell><cell>d</cell><cell>d</cell><cell>0.91 (0.76, 1.07)</cell></row><row><cell>hs-CRP, log 2 mg/L</cell><cell>d</cell><cell>d</cell><cell>1.12 (1.04 1.21)</cell></row><row><cell>Prevalent CVD</cell><cell>d</cell><cell>d</cell><cell>2.94 (2.23, 3.87)</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">care.diabetesjournals.orgTang and Associates 383</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="384">Mortality Risk of Hyperglycemia in Older Adults Diabetes Care Volume 43, February 2020</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">care.diabetesjournals.orgTang and Associates 385</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="386">Mortality Risk of Hyperglycemia in Older Adults Diabetes Care Volume 43, February 2020</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="388">Mortality Risk of Hyperglycemia in Older Adults Diabetes Care Volume 43, February 2020</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0" />
+			</div>
+
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Diabetes and prediabetes and risk of hospitalization: the Atherosclerosis Risk in Communities (ARIC) study</title>
+		<author>
+			<persName><forename type="first">Alc</forename><surname>Schneider</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Kalyani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Golden</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page" from="772" to="779" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Impact of diabetes mellitus on hospitalization for heart failure, cardiovascular events, and death: outcomes at 4 years from the Reduction of Atherothrombosis for Continued Health (REACH) Registry</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Cavender</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">G</forename><surname>Steg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Jr</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Registry Investigators</title>
+				<imprint>
+			<date type="published" when="2015">2015</date>
+			<biblScope unit="volume">132</biblScope>
+			<biblScope unit="page" from="923" to="931" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">National trends in US hospital admissions for hyperglycemia and hypoglycemia among Medicare beneficiaries</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename><surname>Lipska</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Ross</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">174</biblScope>
+			<biblScope unit="page" from="1116" to="1124" />
+			<date type="published" when="1999">1999 to 2011. 2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Rates of complications and mortality in older patients with diabetes mellitus: the Diabetes and Aging Study</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Laiteerapong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">Y</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>John</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">H</forename><surname>Moffet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Karter</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">174</biblScope>
+			<biblScope unit="page" from="251" to="258" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Problems associated with glucose toxicity: role of hyperglycemia-induced oxidative stress</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kawahito</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Kitahata</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Oshita</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">World J Gastroenterol</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="4137" to="4142" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Hyperglycemia-associated alterations in cellular signalinganddysregulated mitochondrialbioenergetics in human metabolic disorders</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">B</forename><surname>Stefano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Challenger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Kream</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Nutr</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="2339" to="2345" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Diabetes in the older patient: heterogeneity requires individualisation of therapeutic strategies</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Schernthaner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Schernthaner-Reiter</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="page" from="1503" to="1516" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Diabetes mellitus in older people: position statement on behalf of the International Association of Gerontology and Geriatrics (IAGG), the European Diabetes Working Party for Older People (EDWPOP), and the International Task Force of Experts in Diabetes</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sinclair</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Morley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Rodriguez-Mañas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Med Dir Assoc</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="497" to="502" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Diabetes in older adults: a consensus report</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Kirkman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">J</forename><surname>Briscoe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Clark</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Consensus Development Conference on Diabetes and Older Adults</title>
+				<imprint>
+			<date type="published" when="2012">2012</date>
+			<biblScope unit="volume">60</biblScope>
+			<biblScope unit="page" from="2342" to="2356" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Impact of aging on the strength of cardiovascular risk factors: a longitudinal study over 40 years</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Lind</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Sundström</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ärnlöv</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Lampa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Heart Assoc</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">e007061</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Classification and diagnosis of diabetes: Standards of Medical Care in Diabetesd2019</title>
+	</analytic>
+	<monogr>
+		<title level="j">American Diabetes Association</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="S13" to="S28" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note>Diabetes Care. Suppl. 1</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Novel subgroups of adult-onset diabetes and their association with outcomes: a data-driven cluster analysis of six variables</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Ahlqvist</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Storm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Käräjämäki</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Diabetes Endocrinol</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="361" to="369" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">The burden and treatment of diabetes in elderly individuals in the U</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Selvin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Coresh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">L</forename><surname>Brancati</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">S. Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="2415" to="2419" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Age at diagnosis of type 2 diabetes mellitus and associations with cardiovascular and mortality risks: findings from the Swedish National Diabetes Registry</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Sattar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rawshani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Franzén</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">139</biblScope>
+			<biblScope unit="page" from="2228" to="2237" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Diabetes in older people: new insights and remaining challenges</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sinclair</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Dunning</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Rodriguez-Mañas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="275" to="285" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Diabetes in older adults</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Kirkman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">J</forename><surname>Briscoe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Clark</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="2650" to="2664" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">The Atherosclerosis Risk in Communities (ARIC) Study: design and objectives</title>
+	</analytic>
+	<monogr>
+		<title level="m">ARIC Investigators</title>
+				<imprint>
+			<date type="published" when="1989">1989</date>
+			<biblScope unit="volume">129</biblScope>
+			<biblScope unit="page" from="687" to="702" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">CKD-EPI Investigators. Estimating glomerular filtration rate from serum creatinine and cystatin C</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Inker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">H</forename><surname>Schmid</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Tighiouart</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">367</biblScope>
+			<biblScope unit="page" from="20" to="29" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">The efficiency of Cox&apos;s likelihood function for censored data</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Efron</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Stat Assoc</title>
+		<imprint>
+			<biblScope unit="volume">72</biblScope>
+			<biblScope unit="page" from="557" to="565" />
+			<date type="published" when="1977">1977</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">A proportional hazards model for the subdistribution of a competing risk</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Fine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Gray</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Stat Assoc</title>
+		<imprint>
+			<biblScope unit="volume">94</biblScope>
+			<biblScope unit="page" from="496" to="509" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Low hemoglobin A(1c) in nondiabetic adults: an elevated risk state</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Aggarwal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alc</forename><surname>Schneider</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Selvin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="2055" to="2060" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Low hemoglobin A1c and risk of all-cause mortality among US adults without diabetes</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Carson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Fox</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">K</forename><surname>Mcguire</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circ Cardiovasc Qual Outcomes</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="661" to="667" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">All-cause mortality in adults with and without type 2 diabetes: findings from the national health monitoring in Germany</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Röckl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Brinks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Baumert</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMJ Open Diabetes Res Care</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page">e000451</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Comparative prognostic performance of definitions of prediabetes: a prospective cohort analysis of the Atherosclerosis Risk in Communities (ARIC) study</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Cai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Mai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y ;</forename><surname>Hu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Warren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Pankow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Matsushita</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Diabetes Endocrinol</title>
+		<imprint>
+			<biblScope unit="volume">355</biblScope>
+			<biblScope unit="page" from="34" to="42" />
+			<date type="published" when="2016">2016. 2017</date>
+		</imprint>
+	</monogr>
+	<note>BMJ</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Prognostic implications of single-sample confirmatory testing for undiagnosed diabetes: a prospective cohort study</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Selvin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Matsushita</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Grams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Coresh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">169</biblScope>
+			<biblScope unit="page" from="156" to="164" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Exclusion of older adults from ongoing clinical trials about type 2 diabetes mellitus</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Cruz-Jentoft</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Carpena-Ruiz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Montero-Errasquín</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Sánchez-Castellano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Sánchez-García</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Geriatr Soc</title>
+		<imprint>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="page" from="734" to="738" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">The changing face of diabetes complications</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">W</forename><surname>Gregg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Sattar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Ali</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Diabetes Endocrinol</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="537" to="547" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Declining rates of hospitalization for nontraumatic lower-extremity amputation in the diabetic population aged 40 years or older</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">R</forename><surname>Burrows</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">W</forename><surname>Gregg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Albright</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">S</forename><surname>Geiss</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="273" to="277" />
+			<date type="published" when="1988">1988-2008. 2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">AMD-Annals Study Group. Diabetic kidney disease in the elderly: prevalence and clinical correlates</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">T</forename><surname>Russo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">De</forename><surname>Cosmo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Viazzi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMC Geriatr</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page">38</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Framingham Heart Study. The significant effect of diabetes duration on coronary heart disease mortality: the Framingham Heart Study</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Fox</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Sullivan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D'agostino Rb</forename><surname>Sr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">W</forename><surname>Wilson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="704" to="708" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">The Wisconsin Epidemiologic Study of diabetic retinopathy. XIV. Ten-year incidence and progression of diabetic retinopathy</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Klein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bek</forename><surname>Klein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Moss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename><surname>Cruickshanks</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Ophthalmol</title>
+		<imprint>
+			<biblScope unit="volume">112</biblScope>
+			<biblScope unit="page" from="1217" to="2128" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Progression to overt nephropathy in type 2 diabetes: the Casale Monferrato Study</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Bruno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Merletti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Biggeri</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="2150" to="2155" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Prevention or delay of type 2 diabetes: Standards of Medical Care in Diabetesd2019</title>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="S29" to="S33" />
+			<date type="published" when="2019">2019</date>
+			<publisher>American Diabetes Association</publisher>
+		</imprint>
+	</monogr>
+	<note>Suppl. 1</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Emergency hospitalization for adverse drug events in older Americans</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Budnitz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Lovegrove</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Shehab</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Richards</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Surv Anesthesiol</title>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="page" from="65" to="66" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Risk factors for severe hypoglycemia in black and white adults with diabetes: the Atherosclerosis Risk in Communities (ARIC) Study</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Sharrett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Coresh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Selvin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="1661" to="1667" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">The influence of age on the effects of lifestyle modification and metformin in prevention of diabetes</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Crandall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Schade</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Ma</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Gerontol A Biol Sci Med Sci</title>
+		<imprint>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="page" from="1075" to="1081" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

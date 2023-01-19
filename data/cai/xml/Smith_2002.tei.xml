@@ -1,0 +1,725 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Fasting and 2-Hour Postchallenge Serum Glucose Measures and Risk of Incident Cardiovascular Events in the Elderly</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date>06/30/2021</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><roleName>PhD, MPH</roleName><forename type="first">Nicholas</forename><forename type="middle">L</forename><surname>Smith</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Joshua</forename><forename type="middle">I</forename><surname>Barzilay</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MD, MHS</roleName><forename type="first">Douglas</forename><surname>Shaffer</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Peter</forename><forename type="middle">J</forename><surname>Savage</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Susan</forename><forename type="middle">R</forename><surname>Heckbert</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>PhD</roleName><forename type="first">Lewis</forename><forename type="middle">H</forename><surname>Kuller</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MD, DrPH</roleName><forename type="first">Richard</forename><forename type="middle">A</forename><surname>Kronmal</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>PhD</roleName><forename type="first">Helaine</forename><forename type="middle">E</forename><surname>Resnick</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>PhD, MPH;</roleName><forename type="first">Bruce</forename><forename type="middle">M</forename><surname>Psaty</surname></persName>
+						</author>
+						<title level="a" type="main">Fasting and 2-Hour Postchallenge Serum Glucose Measures and Risk of Incident Cardiovascular Events in the Elderly</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published">06/30/2021</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">5F1EA13BDC031199D836F69CE6D49007</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.1" ident="GROBID" when="2022-07-19T23:00+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Background:</head><p>The contributions of fasting and 2-hour postchallenge glucose level to cardiovascular events remain ill-defined, especially for nondiabetic adults. This study examined the relative predictive power of fasting and 2-hour glucose level on cardiovascular event risk.</p><p>Methods: A total of 4014 community-dwelling adults 65 years or older who participated in the baseline visit of the Cardiovascular Health Study and who were without treated diabetes or previous myocardial infarction or stroke were eligible for analyses. Participants with treated diabetes at baseline were excluded. Incident myocardial infarction or stroke, or coronary death, was the outcome of interest. Age-, sex-, and race-adjusted proportional hazards regression models described individual and joint associations between baseline measures of fasting and 2-hour postchallenge glucose level and event risk.</p><p>Results: There were 764 incident cardiovascular events during 8.5 years of follow-up. Fasting glucose level of 115 mg/dL (6.4 mmol/L) or more was associated with an increased cardiovascular risk (hazard ratio [HR], 1.66 [95% confidence interval (CI), 1.39-1.98]) in adjusted analyses compared with fasting glucose level less than 115 mg/dL. Two-hour glucose level was associated with a linear risk (HR, 1.02 [95% CI, 1.00-1.04] per 10 mg/dL [0.6 mmol/L]) that included an additional increase in risk for 2-hour glucose level of 154 mg/dL (8.5 mmol/L) or more (HR, 1.29 [95% CI, 1.04-1.59]) in adjusted analyses. In joint fasting and 2-hour glucose models, only 2-hour glucose level remained predictive of event risk.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusions:</head><p>Two-hour glucose level was better than fasting glucose level alone at identifying older adults at increased risk of major incident cardiovascular events.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>I</head><p>N 1997, THE American Diabetes Association (ADA) revised diabetes diagnostic criteria by lowering the fasting plasma glucose threshold and by recommending against the routine use of glucose challenge testing, especially as it concerns epidemiologic studies. <ref type="bibr" target="#b0">1</ref> The change was justified primarily by epidemiologic data indicating that the new criteria would identify roughly the same number of people with microvascular complications as the previous criteria, without the burden of glucose challenge testing. These revised criteria have prompted the research community to examine the effects of the diagnostic change on the identification of persons at risk for cardiovascular disease (CVD), the primary complication of glucose disorders in old age, and all-cause mortality. <ref type="bibr" target="#b1">2,</ref><ref type="bibr" target="#b2">3</ref> Findings indicate that the current ADA criteria do not maximize the identification of persons at risk for these major health outcomes. Nonetheless, the individual and joint associations of fasting and 2-hour glucose measures with cardiovascular morbidity and mortality remain ill-defined, especially for those who do not meet 1997 ADA diabetes criteria.</p><p>In this study, we examined the relative predictive power of fasting and 2-hour postchallenge glucose level on fatal and nonfatal myocardial infarction and stroke and on cardiovascular mortality among a cohort of older adults, none of whom had treated diabetes at study entry.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head><p>There were 386 participants (7% of the original cohort) with pharmacologically treated diabetes at baseline and 585 (11% of the original cohort) with a baseline history of myocardial infarction or stroke who were not eligible for these analyses. From among the 4230 remaining participants, 184 participants (4%) who were missing fasting or 2-hour glucose measures and 32</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>ORIGINAL INVESTIGATION</head><p>From the Departments of (1%) who were fasting less than 8 hours were excluded. These exclusions yielded 4014 participants for analysis (95% of eligible participants). During a median follow-up of 8.5 years, there were 359 incident myocardial infarctions (9%), of which 12% were fatal; 348 incident CBD events (9%), of which 12% were fatal; and 117 CAD deaths (3%). There were 60 participants who had both incident CAD and CBD events during follow-up. Thus, there were a total of 764 incident CVD events (19%), of which 27% were fatal, among the 4014 study participants. The date of the first occurring event was used for combined end points.</p><p>Table <ref type="table" target="#tab_1">1</ref> depicts characteristics of the study population according to fasting glucose values. As expected, CVD risk factors including male sex, hypertension, higher systolic blood pressure and body mass index, and lower high-density lipoprotein cholesterol levels were generally more prevalent across categories of increasing fasting glucose levels. Smoking and low-density lipoprotein cholesterol risk factors were not associated with fasting glucose levels. The prevalence of clinical CVD did not differ according to baseline glucose measures, whereas subclinical CVD in the absence of clinical dis-ease was increasingly more common among those with higher fasting glucose level. Noteworthy is that more than half of the cohort had clinical or subclinical CVD at study entry.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>INDEPENDENT CONTRIBUTIONS OF FASTING AND 2-HOUR GLUCOSE LEVELS</head><p>Figure <ref type="figure" target="#fig_0">1</ref> presents the unadjusted incident CVD event rates per 1000 person-years for each decile of fasting and 2-hour glucose levels independently. For fasting and 2-hour glucose measures, the event rate appeared to increase rapidly in the top 2 and 4 deciles, respectively. Nearly identical associations were seen for CHDspecific and CBD-specific rates (Figure <ref type="figure">2</ref>) and sexspecific rates (Figure <ref type="figure">3</ref>). When data were stratified by prevalent CVD (clinical and subclinical), the data depicted a similar increase in event rates in the upper deciles, but only among subjects with CVD; among those without CVD, rates across glucose deciles were variable but did not suggest a trend (Figure <ref type="figure" target="#fig_2">4</ref>). Exploratory analyses of age-, sex-, and raceadjusted fasting glucose data demonstrated that a simple</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>SUBJECTS AND METHODS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>SETTING AND DESIGN</head><p>The Cardiovascular Health Study (CHS) is a populationbased, prospective cohort study of risk factors for CVD in the elderly. <ref type="bibr" target="#b3">4</ref> Participants were recruited from 4 US communities (Washington County, Maryland; Pittsburgh [Allegheny County], Pa; Forsyth County, North Carolina; and Sacramento County, California) on the basis of a randomly generated sampling frame from Health Care Financing Administration files. Annual examinations began in June 1989 and ended in June 1999.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>SUBJECTS</head><p>The CHS cohort consisted of 5201 community-dwelling adults 65 years and older who participated in the baseline clinic visit in 1989 to 1990 (original cohort) and an additional 687 African American adults 65 years or older who were recruited in 1992 to 1993 (new cohort). Baseline postchallenge glucose testing was not done in the new cohort, so these participants were not included in this report. Approximately 57% of eligible participants participated in the study. Nonparticipants were more likely to be older and less educated and to have more self-reported CVD and hypertension. <ref type="bibr" target="#b4">5</ref> All study participants gave informed consent for their participation according to guidelines of the appropriate institutional review boards.</p><p>This study excluded participants with missing fasting or 2-hour glucose measures (see "Measures") and those who reported using insulin or an oral hypoglycemic agent at the baseline medication inventory. <ref type="bibr" target="#b5">6</ref> Self-reported history of diabetes was not a criterion for exclusion, although 28% of participants with self-reported diabetes and not using antidiabetic medication opted not to undergo glucose challenge testing. The study population was further restricted to participants who did not have a baseline history of myocardial infarction or stroke, to investigate the risk of incident cardiovascular events. <ref type="bibr" target="#b6">7</ref> We did not exclude participants with a history of other clinical or subclinical cardiovascular conditions, since we were interested in the primary prevention of major coronary and cerebrovascular atherosclerotic or thrombotic events, namely, myocardial infarction and stroke.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>MEASURES</head><p>At the baseline examination, venipuncture was performed on study participants under 12-hour fasting conditions early during the study visit. Serum glucose was measured (Kodak Ektachem 700 Analyzer; Eastman Kodak Corp, Rochester, NY). <ref type="bibr" target="#b7">8</ref> After the fasting venipuncture, 75 g of glucose was given orally to consenting nondiabetic participants. A second venipuncture was performed 2 hours after the glucose challenge.</p><p>Covariate baseline measures included demographic characteristics (age, sex, race [white vs other], and selfreported health [good, very good, or excellent vs fair or poor]), cardiovascular risk factors (body mass index [weight in kilograms divided by the square of height in meters], current smoker, currently treated hypertension, sitting diastolic and systolic blood pressure, and low-density lipoprotein cholesterol level), clinical CVD (history of angina, coronary revascularization, congestive heart failure, or transient ischemic attacks; electrocardiogram-identified atrial fibrillation), and subclinical CVD (no clinical CVD, anklearm index Յ0.9, maximum internal or common carotid wall thickness Ͼ80th percentile [Ն2.06 and Ն1.16 mm, respectively], carotid stenosis Ͼ25%, major electrocardiogram abnormalities [ventricular conduction defect, major Q-wave abnormalities, left ventricular hypertrophy, isolated ST-T-wave abnormalities, atrial fibrillation, and threshold model where the risk of an incident CVD event increased at the 85th percentile of fasting glucose level (Ն115 mg/dL [Ն6.4 mmol/L]) was the best fitting model. This stepped increase was associated with a 66% increase in CVD event risk (HR, 1.66; 95% CI, 1.39-1.98) compared with those with baseline fasting glucose level less than 115 mg/dL. For CAD and CBD outcomes, this corresponded to a 62% and 84% increase in risk, respectively. No interactions were detected between a fasting glucose threshold and either sex or CVD for all cardiovascular events.</p><p>For 2-hour glucose level, age-, sex-, and raceadjusted analyses demonstrated that a combined linear and threshold model fit the data best. In this model, there was a 2% increase in risk of an incident CVD event for every 10-mg/dL (0.6-mmol/L) increase in 2-hour glucose level (HR, 1.02; 95% CI, 1.00-1.04) plus an additional 29% increase in risk for all values above the 65th percentile (Ն154 mg/dL [Ն8.5 mmol/L]) (HR, 1.29; 95% CI, 1.04-1.59). This held true for CAD and CBD outcomes where there was a 2% linear increase in addition to a 28% (CAD) and 42% (CBD) increase in event risk for 2-hour glucose values of 154 mg/dL (8.5 mmol/L) or more. No interactions were detected between linear and threshold 2-hour glucose levels and either sex or CVD for all events. ). These covariates were selected to adjust for potential confounding of the glycemia-CVD event risk association in selected analyses. An incident coronary artery disease (CAD) event was defined as first nonfatal or fatal myocardial infarction or CAD death; an incident cerebrovascular disease (CBD) event was defined as first nonfatal or fatal stroke of any type. <ref type="bibr" target="#b9">10</ref> A combined end point for an incident cardiovascular event was based on the first occurrence of either CAD or CBD. <ref type="bibr" target="#b3">4</ref> Data on adjudicated events through June 1998 are presented in this report. These analyses were based on the updated CHS database as of June 1999, which incorporated minor corrections to baseline examination data.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>JOINT CONTRIBUTIONS OF FASTING AND 2-HOUR GLUCOSE LEVELS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>ANALYSIS</head><p>Descriptive summaries of participant characteristics were derived for the 3 categories of fasting glucose level described in the revised ADA diabetes criteria 1 : normal, 109 mg/dL (6.0 mmol/L) or less; impaired fasting glucose, 110 to 125 mg/dL (6.1-6.9 mmol/L); and diabetes, 126 mg/dL (7.0 mmol/L) or more.</p><p>Unadjusted cardiovascular event rates per 1000 personyears were calculated independently for each decile of fasting and 2-hour glucose level. Exploratory statistical testing compared threshold (single step), linear, linear plus quadratic, and linear plus threshold (linear model with jump in risk at specified cutoff point) models to determine which model best fit the data. For proportional hazards modeling, failure time was the date of the incident fatal or nonfatal CVD event. All surviving participants were censored on June 30, 1998, the last day of follow-up for these analyses, or on the date of their last contact with the study if they were unavailable for follow-up. Survival time was the difference in days between date of enrollment and either failure or censoring date.</p><p>Multivariate proportional hazards regression was used to determine the individual and joint contributions of fasting and 2-hour glucose levels to cardiovascular risk. Quintile and continuous measures of glucose were used, and hazard ratios (HRs) and their corresponding 95% confidence intervals (CIs) were calculated for each quintile. Models were adjusted for age, sex, and race and were further adjusted for potential confounders to determine their effect on the glycemia-CVD relationship.</p><p>Unadjusted CVD event rates are presented across strata of fasting glucose level according to 2-hour glucose level categories recommended by World Health Organization criteria: normal, 139 mg/dL (7.7 mmol/L) or less; impaired glucose tolerance, 140 to 199 mg/dL (7.8-11.0 mmol/L); and diabetic, 200 mg/dL (11.1 mmol/L) or more. Age-, sex-, and race-adjusted hazard ratios for 2-hour glucose level categories were estimated by means of proportional hazards regression. Population attributable risk percentages were used to estimate the percentage of incident events that could be explained by impaired glucose tolerance or diabetic-level, 2-hour glucose concentration among participants with normal fasting and impaired fasting levels. <ref type="bibr" target="#b10">11</ref> Percentages were calculated for each 2-hour glucose level category on the basis of estimated hazard ratios from models that adjusted for potential confounders listed above.</p><p>Isolated postchallenge hyperglycemia was defined as fasting glucose measures of 125 mg/dL (6.9 mmol/L) or less and 2-hour glucose measures of 200 mg/dL (11.1 mmol/L) or more. Age-, sex-, and race-adjusted hazard ratios were calculated for isolated postchallenge hyperglycemia compared with 2-hour glucose values of 139 mg/dL (7.7 mmol/L) or less and fasting glucose values of 125 mg/dL (6.9 mmol/L) or less. glucose level. When analyses excluded participants with diabetic-level fasting glucose values, risk estimates changed by no more than 5% in any stratum.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>ANALYSES STRATIFIED BY FASTING GLUCOSE LEVEL</head><p>Table <ref type="table" target="#tab_3">3</ref> presents the number of incident CVD events, unadjusted event rates, and age-, race-, and sex-(where appropriate) adjusted hazard ratios for each 2-hour glucose category according to fasting glucose strata. Among participants with normal fasting glucose levels, the CVD event rate increased with each stratum of 2-hour glucose. This observation generally held true for event types and sex and prevalent CVD strata, although the numbers of person-years and events were limited in the top 2-hour glucose strata for men and for those without CVD. In exploratory analyses, a threshold model where cardiovascular risk increased 34% for 2-hour glucose values of 154 mg/dL (8.5 mmol/L) or more fit the data best (HR, 1.34; 95% CI, 1.12-1.61). This model did not vary by event type, nor was an interaction with sex and with prevalent CVD observed. Among participants with impaired fasting glucose level, the event rate increased for each stratum of 2-hour glucose level. These findings generally held true for event type, sex, and prevalent CVD strata, although events were limited in the top 2-hour glucose stratum for those without CVD. Exploratory analyses showed that a threshold increase in CVD event risk of 83% for 2-hour glucose values of 161 mg/dL (8.9 mmol/L) or more fit the data best (HR, 1.83; 95% CI, 1.29-2.60). This model did not vary by event type or by sex or prevalent CVD strata, although person-years and events were sparse in some strata. The diabetic stratum of fasting glucose level is not presented in Table <ref type="table" target="#tab_3">3</ref> since, among this stratum, 73% of the person-years and 72% of the events were in the 2-hour glucose stratum of 200 mg/dL (11.1 mmol/L) or more. This resulted in too few person-years (n = 518) and events (n = 21) in the remaining 2-hour glucose strata to calculate meaningful rates and age-, sex-, and race-adjusted relative rates.</p><p>Among the 3137 participants with fasting glucose levels, there were 548 incident CVD events (17%), of which 5% were attributable to 2-hour glucose levels of 140 mg/dL (7.8 mmol/L) or more and 1% were attributable to 2-hour glucose levels of 200 mg/dL (11.1 mmol/L) or more in adjusted models according to population attributable risk estimates. Among the 592 participants with impaired fasting glucose, there were 141 incident CVD events (24%), of which 24% were attributable to 2-hour glucose levels of 140 mg/dL (7.8 mmol/L) or more and 12% were attributable to levels of 200 mg/dL (11.1 mmol/L) or more in adjusted models.</p><p>Participants with isolated postchallenge hyperglycemia accounted for 329 (8%) of the 4014 participants at baseline. In age-, sex-, and race-adjusted multivariate modeling, isolated postchallenge hyperglycemia was associated with a 53% increase in CVD event risk relative to participants with 2-hour glucose values of 139 mg/dL (7.7 mmol/L) or less (HR, 1.53; 95% CI, 1.22-1.92). Similar results were found for CHD (HR, 1.55; 95% CI, 1.16-2.05) and CBD (HR, 1.65; 95% CI, 1.20-2.27), for women (HR, 1.67; 95% CI, 1.26-2.26) and men (HR, 1.34; 95% CI, 0.94-1.91), and for participants with CVD (HR, 1.59; 95% CI, 1.25-2.02). Isolated postchallenge hyperglycemia was not associated with increased event risk for participants without CVD (HR, 0.78; 95% CI, 0.40-1.54).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>COMMENT</head><p>In this study of older adults without treated diabetes at study entry, both fasting and 2-hour glucose levels were individually associated with an increased risk of incident CVD events, but only 2-hour glucose values were predictive of CVD events in models that included both glycemia measures. Among participants with normal and impaired fasting glucose levels, impaired glucose tolerance and diabetic-level 2-hour glucose values were associated with an increased risk of CVD events. These relationships were similar for CHD and CBD outcomes, did not vary by sex, and were similar for participants with prevalent clinical or subclinical CVD at study entry. Among study participants without prevalent CVD, evidence of a glycemia-CVD association was limited.</p><p>These prospective data provide evidence that an elevated 2-hour glucose level is a useful risk factor for identifying older adults who are at increased risk of a CVD event, which occurred in 20% of the study participants after 8.5 years of follow-up. Besides predicting CVD events independent of fasting glucose level, 2-hour glucose measurement contributed additional risk information beyond fasting glucose information for participants with normal and impaired fasting glucose levels. Among participants with normal fasting glucose levels, abovenormal 2-hour glucose values accounted for 1 of 20 incident CVD events, and among those with impaired fasting   glucose levels, above-normal 2-hour glucose levels accounted for 1 of 4 events. If hyperglycemia is causally related to CVD events, these statistics represent the number of CVD events that could have been avoided in the cohort if this risk factor was removed. Epidemiologic evidence supporting causality of hyperglycemia to CVD events, however, is limited. <ref type="bibr" target="#b11">12</ref> Data from several prospective studies in nondiabetic adults have yielded inconsistent findings on the relationship between hyperglycemia and CVD risk in nondiabetic adults. The DECODE (Diabetes Epidemiology: Collaborative Analysis of Diagnostic Criteria in Europe) Study Group recently published an article on the association between fasting and 2-hour glucose levels and various mortality outcomes and concluded that 2-hour glucose level was a better predictor of CVD, CHD, and all-cause mortality than fasting glucose. <ref type="bibr" target="#b12">13</ref> Compared with participants with normal 2-hour glucose levels, impaired glucose tolerance and diabetic-level 2-hour glucose values were associated with a 34% and 55% increase in risk, respectively. The findings are similar to findings in this report for incident CVD. The Rancho Bernardo follow-up cohort reported no significant associations between fasting or 2-hour glucose and either CHD or cardiovascular mortality in men or in women when the highest quintile of glucose measurement was compared with the lowest. <ref type="bibr" target="#b13">14</ref> Although the Rancho Bernardo findings were null for fasting and 2-hour glucose measures, there was a significant threshold association (HR, 2.6) between the highest quintiles of glycosylated hemoglobin and the lowest in women. There was no association in men. The dissimilar findings from the CHS and Rancho Bernardo data are not explained by the focus on fatal events, since our findings did not change when analyses were restricted to fatal events. Framingham Heart Study analysts found a sex difference in their data from nondiabetic participants 45 to 84 years of age attending the 1969 to 1970 biennial examination. The authors reported a graded effect of casual glucose level on fatal and nonfatal cardiovascular risk in women, but not in men, after 2 years of follow-up. <ref type="bibr" target="#b14">15</ref> In the original Rancho Bernardo cohort of nondiabetic participants, authors found a linear relationship between fasting glucose level and CHD death in men and a threshold effect (Ն110 mg/dL [Ն6.1 mmol/L]) in women. <ref type="bibr" target="#b15">16</ref> Other findings from cohorts of nondiabetic middle-aged adults, mainly men, are heterogeneous and suggest various associations, including flat, J-shaped, linear, and threshold relationships for various glucose measures and cardiovascular outcomes. <ref type="bibr" target="#b16">[17]</ref><ref type="bibr" target="#b17">[18]</ref><ref type="bibr" target="#b18">[19]</ref><ref type="bibr" target="#b19">[20]</ref><ref type="bibr" target="#b20">[21]</ref><ref type="bibr" target="#b21">[22]</ref> Risk estimates for isolated postchallenge hyperglycemia are more homogeneous across studies. Findings from the follow-up cohort of the Rancho Bernardo study indicated that women with isolated postchallenge hyperglycemia had a 160% increased risk of cardiovascular mortality, while men had no increased risk when compared with nondiabetic participants. <ref type="bibr" target="#b22">23</ref> Recent data from the DECODE study demonstrated a 60% increased risk of death among both sexes with isolated postchallenge hyperglycemia when compared with nondiabetic subjects. <ref type="bibr" target="#b23">24</ref> In general, CHS data tend to support the previous findings that isolated postchallenge hyperglycemia is a cardiovascular risk factor and that this risk may be higher in women than in men.</p><p>The primary strengths of this study include population-based sampling, standardized glucose measurements to assess glycemia, extensive CVD risk factor measurements, and complete follow-up for morbid and fatal events. Several limitations merit discussion, however. First, only 1 measure each of fasting and 2-hour glucose was available at baseline. This method is standard for most epidemiologic studies in which populations and not individuals are studied. According to ADA clinical practice guidelines, a diagnosis of diabetes requires a confir- mation of elevated glucose measures on a subsequent day. <ref type="bibr" target="#b0">1</ref> Since an elevated glucose measure was not confirmed by a second measure, we cannot be certain that any glucose classification was correct and not the result of random fluctuations in glycemia. Second, nearly 43% of people originally contacted to participate in the CHS refused participation. <ref type="bibr" target="#b4">5</ref> Those who participated tended to be healthier than those who refused participation, and this fact may limit the generalizability of the findings. Third, in some analytic strata, there were too few events and person-years to produce sufficiently narrow confidence limits to draw meaningful conclusions. Fourth, the cohort averaged 73 years of age at entry, so data and results cannot be generalized to younger populations. Last, although this study is primarily observational, information from the annual clinic visits was shared with participants' physicians and may have influenced the care received by the participants after the baseline examination. <ref type="bibr" target="#b24">25</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CONCLUSIONS</head><p>Numerous cardiovascular risk factors have been identified during the past 50 years of modern epidemiologic research, and the role of glycemia is just now being defined. Any clinical or policy implications that may arise from this study must be balanced with issues of patient burden and cost as they relate to modifiable risk factors that affect health outcomes in older adults.</p><p>Our findings indicate that both fasting and 2-hour postchallenge glucose levels were associated with an increased risk of major incident coronary and cerebrovascular events in older adults. Furthermore, 2-hour glucose level was better able to identify those at risk than fasting glucose level alone. Although a 2-hour measure of glycemia is burdensome in routine clinical practice, it may serve a role in identifying older adults at increased risk of incident cardiovascular events.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. Cardiovascular event rates per 1000 person-years according to deciles of fasting and 2-hour glucose level, Cardiovascular Health Study, 1989 to 1998. To convert glucose level to millimoles per liter, multiply by 0.0555.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2 .Figure 3 .</head><label>23</label><figDesc>Figure 2. Coronary (CHD) and cerebrovascular (CBD) event rates per 1000 person-years according to deciles of fasting and 2-hour glucose level, Cardiovascular Health Study, 1989 to 1998. To convert glucose level to millimoles per liter, multiply by 0.0555.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 4 .</head><label>4</label><figDesc>Figure 4. Cardiovascular event rates per 1000 person-years according to deciles of fasting and 2-hour glucose level stratified by the prevalence of clinical or subclinical cardiovascular disease (CVD), Cardiovascular Health Study, 1989 to 1998. To convert glucose level to millimoles per liter, multiply by 0.0555.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 2</head><label>2</label><figDesc></figDesc><table /><note>presents relative risks for quintiles of fasting (top rows) and 2-hour (bottom rows) glucose levels in 3 models. For fasting glucose, adding a continuous measure of 2-hour glucose to the age-, sex-, and race-adjusted model produced a better fitting model (PϽ.001) and largely removed the association between fasting glucose level and incident CVD event risk. Additional adjustments for smoking, blood pressure, hypertension treatment, low-density lipoprotein cholesterol level, body mass index, selfreported health, and clinical and subclinical CVD had trivial effects on the fasting glucose level-CVD association. Concerning 2-hour glucose level, adding a continuous measure of fasting glucose to the age-, sex-, and race-adjusted model did not produce a better fitting model (P=.40) and did not change the association between 2-hour glucose level and CVD event risk. Adjusting further for known CVD risk factors slightly diminished the predictive power of 2-hour atrioventricular block], abnormal ejection fraction or wall motion on echocardiogram [qualitatively assessed], or positive findings on Rose Questionnaire for angina or claudication<ref type="bibr" target="#b8">9</ref> </note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 1 . Baseline Characteristics, Cardiovascular Health Study, 1989 to 1990*</head><label>1</label><figDesc></figDesc><table><row><cell></cell><cell>Fasting Serum Glucose</cell><cell></cell></row><row><cell>Normal (Յ109 mg/dL)</cell><cell>Impaired (110-125 mg/dL)</cell><cell>Diabetic (Ն126 mg/dL)</cell></row><row><cell>(n = 3137)</cell><cell>(n = 592)</cell><cell>(n = 285)</cell></row></table><note>*To convert glucose level to millimoles per liter, multiply by 0.0555; cholesterol, by 0.0259; and triglycerides, by 0.0113. ECG indicates electrocardiogram; BMI, body mass index; LDL, low-density lipoprotein; and HDL, high-density lipoprotein.†PՅ.01 compared with the normal glucose group. ‡PՅ.05 compared with the normal glucose group.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 2 . Adjusted Relative Hazards of Incident Cardiovascular Events Among Nondiabetic and Untreated Diabetic Participants, Cardiovascular Health Study, 1989 to 1998* Hazard Ratio (95% Confidence Interval) Age, Sex, and Race Adjusted Age, Sex, Race, and 2-h Glucose Adjusted Age, Sex, Race, 2-h Glucose, and Covariate † Adjusted</head><label>2</label><figDesc>To convert glucose level to millimoles per liter, multiply by 0.0555. †Covariates: current smoking status; diastolic and systolic blood pressure; treated hypertension; low-density lipoprotein cholesterol; body mass index; and self-reported health of good, very good, or excellent.</figDesc><table><row><cell>Fasting glucose quintiles, mg/dL</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Յ92</cell><cell>1.00 (Reference)</cell><cell>1.00 (Reference)</cell><cell>1.00 (Reference)</cell></row><row><cell>93-97</cell><cell>0.92 (0.73-1.16)</cell><cell>0.90 (0.71-1.14)</cell><cell>0.91 (0.72-1.15)</cell></row><row><cell>98-103</cell><cell>1.04 (0.83-1.29)</cell><cell>0.99 (0.79-1.24)</cell><cell>0.98 (0.78-1.23)</cell></row><row><cell>104-111</cell><cell>0.92 (0.73-1.17)</cell><cell>0.85 (0.67-1.08)</cell><cell>0.79 (0.62-1.01)</cell></row><row><cell>Ն112</cell><cell>1.42 (1.14-1.76)</cell><cell>1.11 (0.86-1.43)</cell><cell>1.09 (0.84-1.41)</cell></row><row><cell></cell><cell>Age, Sex,</cell><cell>Age, Sex, Race,</cell><cell>Age, Sex, Race, Fasting Glucose</cell></row><row><cell></cell><cell>and Race Adjusted</cell><cell>and Fasting Glucose Adjusted</cell><cell>and Covariate † Adjusted</cell></row><row><cell>2-h Glucose quintiles, mg/dL</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Յ103</cell><cell>1.00 (Reference)</cell><cell>1.00 (Reference)</cell><cell>1.00 (Reference)</cell></row><row><cell>104-124</cell><cell>1.36 (1.07-1.73)</cell><cell>1.32 (1.06-1.72)</cell><cell>1.30 (1.02-1.65)</cell></row><row><cell>125-146</cell><cell>1.17 (0.91-1.50)</cell><cell>1.16 (0.90-1.49)</cell><cell>1.07 (0.83-1.38)</cell></row><row><cell>147-181</cell><cell>1.54 (1.22-1.95)</cell><cell>1.52 (1.20-1.93)</cell><cell>1.38 (1.09-1.76)</cell></row><row><cell>Ն182</cell><cell>1.90 (1.51-2.39)</cell><cell>1.83 (1.43-2.34)</cell><cell>1.58 (1.23-2.02)</cell></row></table><note>*</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 3 . Cardiovascular Event Rates per 1000 Person-Years and Age-and Sex-Adjusted Relative Hazard Estimates According to Baseline Fasting and 2-Hour Serum Glucose Levels, Cardiovascular Health Study, 1989 to 1998* 2-h Glucose, mg/dL Fasting Serum Glucose Normal (Յ109 mg/dL) Impaired (110-125 mg/dL)</head><label>3</label><figDesc>*To convert glucose level to millimoles per liter, multiply by 0.0555. CHD indicates coronary heart disease; CVD, cardiovascular disease.†Because of rounding, totals may not sum exactly. ‡Event rate per 1000 person-years. §Age-, race-, and sex-(where appropriate) adjusted hazard ratios (HR) and 95% confidence intervals (CI) calculated by means of proportional hazards regression.</figDesc><table><row><cell></cell><cell>Events</cell><cell>Person-Years †</cell><cell>Rates ‡</cell><cell>HR (95% CI) §</cell><cell>Events</cell><cell>Person-Years †</cell><cell>Rates ‡</cell><cell>HR (95% CI) §</cell></row><row><cell>All events</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Յ139</cell><cell>315</cell><cell>14 912</cell><cell>21.1</cell><cell>1.00 (Reference)</cell><cell>34</cell><cell>1294</cell><cell>26.3</cell><cell>1.00 (Reference)</cell></row><row><cell>140-199</cell><cell>193</cell><cell>6931</cell><cell>27.8</cell><cell>1.24 (1.03-1.48)</cell><cell>60</cell><cell>1908</cell><cell>31.5</cell><cell>1.34 (0.89-2.05)</cell></row><row><cell>Ն200</cell><cell>40</cell><cell>1294</cell><cell>30.9</cell><cell>1.32 (0.95-1.84)</cell><cell>47</cell><cell>961</cell><cell>48.9</cell><cell>1.98 (1.26-3.12)</cell></row><row><cell>Total</cell><cell>548</cell><cell>23 138</cell><cell>23.7</cell><cell></cell><cell>141</cell><cell>4163</cell><cell>33.9</cell><cell></cell></row><row><cell>CHD events</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Յ139</cell><cell>198</cell><cell>15 180</cell><cell>13.0</cell><cell>1.00 (Reference)</cell><cell>24</cell><cell>1316</cell><cell>18.2</cell><cell>1.00 (Reference)</cell></row><row><cell>140-199</cell><cell>125</cell><cell>7122</cell><cell>15.9</cell><cell>1.27 (1.02-1.59)</cell><cell>32</cell><cell>1989</cell><cell>16.1</cell><cell>1.06 (0.62-1.82)</cell></row><row><cell>Ն200</cell><cell>27</cell><cell>1341</cell><cell>20.1</cell><cell>1.45 (0.97-2.17)</cell><cell>28</cell><cell>1024</cell><cell>27.3</cell><cell>1.75 (0.99-3.08)</cell></row><row><cell>Total</cell><cell>350</cell><cell>23 643</cell><cell>14.8</cell><cell></cell><cell>84</cell><cell>4330</cell><cell>19.4</cell><cell></cell></row><row><cell>Stroke events</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Յ139</cell><cell>137</cell><cell>15 332</cell><cell>8.9</cell><cell>1.00 (Reference)</cell><cell>13</cell><cell>1350</cell><cell>9.6</cell><cell>1.00 (Reference)</cell></row><row><cell>140-199</cell><cell>85</cell><cell>7123</cell><cell>11.9</cell><cell>1.22 (0.93-1.60)</cell><cell>34</cell><cell>1978</cell><cell>17.2</cell><cell>1.76 (0.92-3.39)</cell></row><row><cell>Ն200</cell><cell>19</cell><cell>1356</cell><cell>14.0</cell><cell>1.34 (0.83-2.18)</cell><cell>25</cell><cell>1000</cell><cell>25.0</cell><cell>2.42 (1.21-4.81)</cell></row><row><cell>Total</cell><cell>241</cell><cell>23 811</cell><cell>10.1</cell><cell></cell><cell>72</cell><cell>4328</cell><cell>16.6</cell><cell></cell></row><row><cell>Men</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Յ139</cell><cell>155</cell><cell>5482</cell><cell>28.3</cell><cell>1.00 (Reference)</cell><cell>25</cell><cell>820</cell><cell>30.5</cell><cell>1.00 (Reference)</cell></row><row><cell>140-199</cell><cell>97</cell><cell>2470</cell><cell>39.3</cell><cell>1.34 (1.04-1.72)</cell><cell>34</cell><cell>743</cell><cell>45.8</cell><cell>1.54 (0.92-2.58)</cell></row><row><cell>Ն200</cell><cell>13</cell><cell>402</cell><cell>32.4</cell><cell>1.05 (0.60-1.85)</cell><cell>21</cell><cell>316</cell><cell>66.4</cell><cell>1.82 (1.02-3.27)</cell></row><row><cell>Total</cell><cell>265</cell><cell>8354</cell><cell>31.7</cell><cell></cell><cell>80</cell><cell>1880</cell><cell>42.6</cell><cell></cell></row><row><cell>Women</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Յ139</cell><cell>160</cell><cell>9432</cell><cell>17.0</cell><cell>1.00 (Reference)</cell><cell>9</cell><cell>474</cell><cell>19.0</cell><cell>1.00 (Reference)</cell></row><row><cell>140-199</cell><cell>96</cell><cell>4462</cell><cell>21.5</cell><cell>1.13 (0.87-1.45)</cell><cell>26</cell><cell>1165</cell><cell>22.3</cell><cell>1.10 (0.52-2.37)</cell></row><row><cell>Ն200</cell><cell>27</cell><cell>892</cell><cell>30.3</cell><cell>1.48 (0.99-2.23)</cell><cell>26</cell><cell>645</cell><cell>40.3</cell><cell>1.95 (0.91-4.20)</cell></row><row><cell>Total</cell><cell>283</cell><cell>14 785</cell><cell>19.1</cell><cell></cell><cell>61</cell><cell>2283</cell><cell>26.7</cell><cell></cell></row><row><cell>No CVD</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Յ139</cell><cell>94</cell><cell>7378</cell><cell>12.7</cell><cell>1.00 (Reference)</cell><cell>10</cell><cell>552</cell><cell>18.1</cell><cell>1.00 (Reference)</cell></row><row><cell>140-199</cell><cell>48</cell><cell>3021</cell><cell>15.9</cell><cell>1.22 (0.86-2.73)</cell><cell>15</cell><cell>812</cell><cell>18.5</cell><cell>1.27 (0.55-2.89)</cell></row><row><cell>Ն200</cell><cell>6</cell><cell>428</cell><cell>14.0</cell><cell>0.92 (0.40-2.11)</cell><cell>3</cell><cell>335</cell><cell>9.0</cell><cell>0.62 (0.16-2.39)</cell></row><row><cell>Total</cell><cell>148</cell><cell>10 827</cell><cell>13.7</cell><cell></cell><cell>28</cell><cell>1699</cell><cell>16.5</cell><cell></cell></row><row><cell>CVD</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Յ139</cell><cell>221</cell><cell>7536</cell><cell>29.3</cell><cell>1.00 (Reference)</cell><cell>24</cell><cell>742</cell><cell>32.4</cell><cell>1.00 (Reference)</cell></row><row><cell>140-199</cell><cell>145</cell><cell>3910</cell><cell>37.1</cell><cell>1.19 (0.96-1.47)</cell><cell>45</cell><cell>1096</cell><cell>45.1</cell><cell>1.34 (0.81-2.23)</cell></row><row><cell>Ն200</cell><cell>34</cell><cell>866</cell><cell>39.3</cell><cell>1.33 (0.92-1.91)</cell><cell>44</cell><cell>626</cell><cell>70.3</cell><cell>2.18 (1.31-3.64)</cell></row><row><cell>Total</cell><cell>400</cell><cell>12 312</cell><cell>32.5</cell><cell></cell><cell>113</cell><cell>2464</cell><cell>45.9</cell><cell></cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">(REPRINTED) ARCH INTERN MED/ VOL 162, JAN 28, 2002 WWW.ARCHINTERNMED.COM 210 ©2002 American Medical Association. All rights reserved. Downloaded From: https://jamanetwork.com/ by a University of Michigan User on 06/30/2021</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">(REPRINTED) ARCH INTERN MED/ VOL 162, JAN 28, 2002 WWW.ARCHINTERNMED.COM 211 ©2002 American Medical Association. All rights reserved. Downloaded From: https://jamanetwork.com/ by a University of Michigan User on 06/30/2021</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">(REPRINTED) ARCH INTERN MED/ VOL 162, JAN 28, 2002 WWW.ARCHINTERNMED.COM 212 ©2002 American Medical Association. All rights reserved. Downloaded From: https://jamanetwork.com/ by a University of Michigan User on 06/30/2021</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">(REPRINTED) ARCH INTERN MED/ VOL 162, JAN 28, 2002 WWW.ARCHINTERNMED.COM 213 ©2002 American Medical Association. All rights reserved. Downloaded From: https://jamanetwork.com/ by a University of Michigan User on 06/30/2021</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">(REPRINTED) ARCH INTERN MED/ VOL 162, JAN 28, 2002 WWW.ARCHINTERNMED.COM 214 ©2002 American Medical Association. All rights reserved. Downloaded From: https://jamanetwork.com/ by a University of Michigan User on 06/30/2021</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">(REPRINTED) ARCH INTERN MED/ VOL 162, JAN 28, 2002 WWW.ARCHINTERNMED.COM</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">©2002 American Medical Association. All rights reserved. Downloaded From: https://jamanetwork.com/ by a University of Michigan User on 06/30/2021</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Accepted for publication</head> May 8, 2001.   <p>This study was supported by contracts N01-HC-85079, N01-HC-85080, N01-HC-85081, N01-HC-85082, N01-HC-85083, N01-HC-85084, N01-HC-85085, N01-HC-85086, N01-HL-35129, and N01-HL-15103 from the National Heart, Lung, and Blood Institute and grant R01-AG-09556 from the National Institute on Aging, Bethesda, Md.</p><p>We thank Melissa L. Anderson, MS, for her thoroughness and diligence in verifying the statistical analyses in this article.</p><p>Corresponding author and reprints: Nicholas L. Smith, PhD, MPH, Cardiovascular Health Research Unit, 1730 Minor Ave, Suite 1360, Seattle, WA 98101 (e-mail: nlsmith@u.washington.edu).</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Participating Institutions and Investigators</head><p>Wake Forest University School of Medicine, Wake Forest University, Winston-Salem, NC: Gregory L. </p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Report of the Expert Committee on the Diagnosis and Classification of Diabetes Mellitus</title>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="1183" to="1197" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Glucose tolerance and mortality: comparison of WHO and American Diabetes Association diagnostic criteria: the DECODE Study Group (Diabetes Epidemiology: Collaborative Analysis of Diagnostic Criteria in Europe)</title>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">354</biblScope>
+			<biblScope unit="page" from="617" to="621" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+		<respStmt>
+			<orgName>European Diabetes Epidemiology Group</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Cardiovascular disease in older adults with glucose disorders: comparison of American Diabetes Association criteria for diabetes mellitus with WHO criteria</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">I</forename><surname>Barzilay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">F</forename><surname>Spiekerman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">W</forename><surname>Wahl</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">354</biblScope>
+			<biblScope unit="page" from="622" to="625" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">The Cardiovascular Health Study: design and rationale</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">P</forename><surname>Fried</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">O</forename><surname>Borhani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Enright</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="263" to="276" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Recruitment of adults 65 years and older as participants in the Cardiovascular Health Study</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">S</forename><surname>Tell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">P</forename><surname>Fried</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Hermanson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Manolio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">B</forename><surname>Newman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">O</forename><surname>Borhani</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="358" to="366" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Assessing the use of medications in the elderly: methods and initial experience in the Cardiovascular Health Study</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">M</forename><surname>Psaty</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Savage</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">H</forename><surname>Rutan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">S</forename><surname>German</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Lyles</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="683" to="692" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+	<note>for the Cardiovascular Health Study Collaborative Research Group</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Methods of assessing prevalent cardiovascular disease in the Cardiovascular Health Study</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">M</forename><surname>Psaty</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">H</forename><surname>Kuller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Bild</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="270" to="277" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Laboratory methods and quality assurance in the Cardiovascular Health Study</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Cushman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Cornell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">R</forename><surname>Howard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">G</forename><surname>Bovill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Tracy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Chem</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="264" to="270" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Prevalence of subclinical atherosclerosis and cardiovascular disease and association with risk factors in the Cardiovascular Health Study</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Kuller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Borhani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Furberg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">139</biblScope>
+			<biblScope unit="page" from="1164" to="1179" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Surveillance and ascertainment of cardiovascular events: the Cardiovascular Health Study</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">G</forename><surname>Ives</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Fitzpatrick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Bild</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="278" to="285" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename><surname>Rothman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Greenland</surname></persName>
+		</author>
+		<title level="m">Modern Epidemiology</title>
+				<editor>
+			<persName><surname>Lippincott-Raven</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Philadelphia, Pa</addrLine></address></meeting>
+		<imprint>
+			<publisher>xiii</publisher>
+			<date type="published" when="1998">1998</date>
+			<biblScope unit="page">737</biblScope>
+		</imprint>
+	</monogr>
+	<note>2nd ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Intensive blood-glucose control with sulphonylureas or insulin compared with conventional treatment and risk of complications in patients with type 2 diabetes (UKPDS 33)</title>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">352</biblScope>
+			<biblScope unit="page" from="837" to="853" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+		<respStmt>
+			<orgName>UK Prospective Diabetes Study (UKPDS) Group</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Glucose tolerance and cardiovascular mortality: comparison of fasting and 2-hour diagnostic criteria</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kuizon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Gordon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">L</forename><surname>Dolmatch</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">161</biblScope>
+			<biblScope unit="page" from="397" to="405" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">GHb is a better predictor of cardiovascular disease than fasting or postchallenge plasma glucose in women without diabetes: the Rancho Bernardo Study</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Barrett-Connor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Wingard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Shan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Edelstein</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="450" to="456" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Is hyperglycemia associated with cardiovascular disease? the Framingham Study</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">W</forename><surname>Wilson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Cupples</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">B</forename><surname>Kannel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am Heart J</title>
+		<imprint>
+			<biblScope unit="volume">121</biblScope>
+			<biblScope unit="page" from="586" to="590" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Sex differences in fasting glycemia as a risk factor for ischemic heart disease death</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Scheidt-Nave</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Barrett-Connor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Wingard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Cohn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Edelstein</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">133</biblScope>
+			<biblScope unit="page" from="565" to="576" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">A prospective study of coronary heart disease in relation to fasting insulin, glucose, and diabetes: the</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Folsom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Szklo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Stevens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Liao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Eckfeldt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Atherosclerosis Risk in Communities (ARIC) Study. Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="935" to="942" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title level="m" type="main">High blood glucose concentration is a risk factor for mortality in middle-aged nondiabetic men: 20-year follow-up in the Whitehall Study, the Paris Prospective Study, and the Helsinki Policemen Study. Diabetes Care</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Balkau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Shipley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Jarrett</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="360" to="367" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Is there a glycemic threshold for mortality risk?</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Balkau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bertrais</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Ducimetiere</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Eschwege</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="696" to="699" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Glucose intolerance and 22-year stroke incidence: the Honolulu Heart Program</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Burchfiel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Curb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">L</forename><surname>Rodriguez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Abbott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Chiu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Yano</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stroke</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="951" to="957" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Postchallenge glucose concentration and coronary heart disease in men of Japanese ancestry: Honolulu Heart Program</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Donahue</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Abbott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Reed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Yano</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="689" to="692" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Mortality from coronary heart disease and stroke in relation to degree of glycaemia: the Whitehall study</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Fuller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Shipley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Rose</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Jarrett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Keen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMJ</title>
+		<imprint>
+			<biblScope unit="volume">287</biblScope>
+			<biblScope unit="page" from="867" to="870" />
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Isolated postchallenge hyperglycemia and the risk of fatal cardiovascular disease in older women and men: the Rancho Bernardo Study</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Barrett-Connor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ferrara</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="1236" to="1239" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Consequences of the new diagnostic criteria for diabetes in older men and women: DECODE Study (Diabetes Epidemiology: Collaborative Analysis of Diagnostic Criteria in Europe)</title>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="1667" to="1671" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+		<respStmt>
+			<orgName>The DECODE Study Group, for the European Diabetes Epidemiology Group</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Antidiabetic treatment trends in a cohort of elderly people with diabetes: the Cardiovascular Health Study</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">L</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Heckbert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">A</forename><surname>Bittner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="736" to="742" />
+			<date type="published" when="1989">1989-1997. 1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

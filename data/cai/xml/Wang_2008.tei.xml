@@ -1,0 +1,1225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">The Metabolic Syndrome Predicts Incident Stroke A 14-Year Follow-Up Study in Elderly People in Finland</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2021-06-29">June 29, 2021</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Jianjun</forename><surname>Wang</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Sanna</forename><surname>Ruotsalainen</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Leena</forename><surname>Moilanen</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Pa</forename><surname>¨ivi Lepisto</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Markku</forename><surname>Laakso</surname></persName>
+						</author>
+						<author role="corresp">
+							<persName><roleName>MD</roleName><forename type="first">Johanna</forename><surname>Kuusisto</surname></persName>
+							<email>johanna.kuusisto@kuh.fi</email>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Medicine</orgName>
+								<orgName type="institution" key="instit1">University of Kuopio</orgName>
+								<orgName type="institution" key="instit2">Kuopio University Hospital</orgName>
+								<address>
+									<settlement>Kuopio</settlement>
+									<country key="FI">Finland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Medicine</orgName>
+								<orgName type="institution" key="instit1">Cardiology Unit</orgName>
+								<orgName type="institution" key="instit2">Kuopio University Hospital</orgName>
+								<address>
+									<postBox>P.O. Box 1777</postBox>
+									<postCode>70211</postCode>
+									<settlement>Kuopio</settlement>
+									<country key="FI">Finland</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">The Metabolic Syndrome Predicts Incident Stroke A 14-Year Follow-Up Study in Elderly People in Finland</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2021-06-29">June 29, 2021</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">565FB15D370E97791569AA3A0289F185</idno>
+					<idno type="DOI">10.1161/STROKEAHA.107.499830</idno>
+					<note type="submission">Received July 19, 2007; final revision received September 13, 2007; accepted September 19, 2007.</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.1" ident="GROBID" when="2022-07-19T23:00+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>component Ⅲ definition Ⅲ incidence Ⅲ metabolic syndrome Ⅲ stroke</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Background and Purpose-Limited information is available on the role of the metabolic syndrome (MetS) to predict stroke. We investigated the relationship of the MetS and its single components, defined by 6 different criteria, with stroke in a prospective population-based study. Methods-The MetS was defined according to the World Health Organization, the European Group for the Study of Insulin Resistance, the National Cholesterol Education Program (NCEP), the American College of Endocrinology, the International Diabetes Federation, and the American Heart Association (updated NCEP) criteria. We investigated the relationship of the MetS with stroke using Cox regression analyses in 991 Finnish subjects without diabetes, aged 65 to 74 years at baseline, and followed-up for 14 years. Results-The MetS defined by the World Health Organization, European Group for the Study of Insulin Resistance, NCEP, International Diabetes Federation, and updated NCEP criteria was significantly associated with incident stroke (fatal and nonfatal) when adjusted for confounding variables (HR, 1.52 to 1.72). After exclusion of subjects with myocardial infarction, these 5 definitions still predicted stroke (HR, 1.49 to 1.80). Of the single components of the MetS, the following predicted stroke in multivariable models when subjects with myocardial infarction were excluded: impaired glucose tolerance (2-hour glucose in an oral glucose tolerance test, 7.8 to 11.0 mmol/L) by the World Health Organization and American College of Endocrinology criteria (HR, 1.66); insulin resistance (HR, 1.60) by the European Group for the Study of Insulin Resistance criteria; and central obesity (HR, 1.52) by the NCEP criteria. Conclusions-The MetS defined by the 6 criteria except for the American College of Endocrinology definition predicts stroke in elderly subjects. However, impaired glucose tolerance alone is as strong a predictor of stroke as is the MetS defined by the World Health Organization, NCEP and updated NCEP criteria.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>D uring the past few years, 6 different criteria for the metabolic syndrome (MetS) have been published, including the World Health Organization (WHO) in 1999, <ref type="bibr" target="#b0">1</ref> the European Group for the Study of Insulin Resistance (EGIR) in 1999, <ref type="bibr" target="#b1">2</ref> the National Cholesterol Education Program (NCEP) Expert Panel in 2001, <ref type="bibr" target="#b2">3</ref> the American College of Endocrinology (ACE) in 2003, <ref type="bibr" target="#b4">4</ref> the International Diabetes Federation (IDF) in 2005, <ref type="bibr" target="#b5">5</ref> and the American Heart Association and the National Heart, Lung, and Blood Institute (updated the NCEP criteria) in 2005. <ref type="bibr" target="#b6">6</ref> One of main purpose of the definitions for the MetS is to provide a useful tool to identify individuals at a high risk for cardiovascular disease. Several prospective studies have shown that the MetS defined by theses criteria is associated with the risk of coronary heart disease (CHD), and cardiovascular disease morbidity and mortality. <ref type="bibr" target="#b11">[7]</ref><ref type="bibr" target="#b12">[8]</ref><ref type="bibr" target="#b13">[9]</ref><ref type="bibr" target="#b14">[10]</ref><ref type="bibr" target="#b15">[11]</ref><ref type="bibr" target="#b16">[12]</ref><ref type="bibr" target="#b17">[13]</ref><ref type="bibr" target="#b18">[14]</ref><ref type="bibr" target="#b19">[15]</ref><ref type="bibr" target="#b20">[16]</ref><ref type="bibr" target="#b21">[17]</ref><ref type="bibr" target="#b22">[18]</ref> However, there is less information available on the role of the MetS to predict stroke. <ref type="bibr">19 -23</ref> Furthermore, it is unclear whether the MetS predicts stroke beyond and above its individual components. Recently, we showed that the MetS predicts cardiovascular disease mortality. <ref type="bibr" target="#b22">18</ref> Risk factors for stroke and CHD differ, and they might be different also in fatal and nonfatal cases. The aim of the present study was to investigate whether the MetS and its single components, defined by the aforementioned 6 criteria, predict fatal and nonfatal stroke in an elderly cohort of Finnish subjects during a 14-year follow-up.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Subjects and Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Baseline Study</head><p>The formation <ref type="bibr" target="#b28">24</ref> and representativeness <ref type="bibr" target="#b29">25</ref> of the study population have been described in detail previously. Briefly, the study was conducted in Kuopio, east Finland, between 1986 and 1988. Altogether, 1910 subjects born between 1912 and 1921 were randomly selected from the population register including all inhabitants of Kuopio. This random sample covered 35% of all residents in the age group of 65 to 74 years. The overall participation rate was 71%. According to the WHO criteria for definite and possible stroke, <ref type="bibr" target="#b30">26</ref> subjects with previous stroke were identified and excluded form the analyses for incident stroke. The WHO criteria 1 for impaired glucose tolerance (IGT) and diabetes mellitus were used in the classification of subjects without previously known diabetes based on fasting plasma glucose and 2-hour postglucose load values at baseline. According to the criteria, 136 had known diabetes and 133 had newly diagnosed diabetes at baseline, and these subjects were excluded from the study. Thus, a total of 991 nondiabetic subjects, aged 65 to 74 years at baseline, were included in the present study.</p><p>Previous verified definite and possible myocardial infarction (MI) before the baseline study were defined according to the WHO MONICA project criteria 27 as modified by the FINMONICA AMI Register Study Group. <ref type="bibr" target="#b31">28</ref> Weight, height, waist and hip circumference, and blood pressure were measured. Waist-to-hip ratio was defined as waist circumference to hip circumference. Body mass index was calculated as the weight in kilograms divided by the square of the height in meters. Smoking status was defined as present smoking. With respect to alcohol consumption, subjects were classified as alcohol users or nonusers. Physical activity during leisure time was classified as physically inactive (little and occasional activity) and physically active (regular exercise at least once per week and at least 30 minutes per time).</p><p>Blood samples were taken in the morning after a 12-hour overnight fast. All subjects underwent an oral glucose tolerance test (75 g glucose). Plasma glucose and insulin, serum lipids and lipoproteins, and urinary albumin were determined as previously described. <ref type="bibr" target="#b28">24,</ref><ref type="bibr" target="#b32">29</ref> Ratio of urinary albumin (mg/L) to urinary creatinine (mmol/L) was used as a measure of albumin excretion.</p><p>The study complies with the Declaration of Helsinki and was approved by the Ethics Committee of Kuopio University Hospital. All study subjects gave informed consent.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Diagnosis of Incident Stroke</head><p>Medical records of all study subjects who participated in the baseline study between 1986 and 1988 were reviewed by 2 of the authors (S.R, J.K.). Copies of death certificates of all those who had died of fatal stroke during the 14-year follow-up were obtained from medical records or from the files of the Central Statistical Office in Finland and reviewed (S.R., J.K.). Deaths were recorded until the end of June 2001. The 9th revision of the International Classification of Disease codes 430 to 438 were classified as stroke. Among 28 subjects who died of stroke, 8 had hemorrhagic stroke (codes 430 to 431), 19 had ischemic stroke (codes 433 to 434), and 1 had other and ill-defined cerebrovascular disease (code 437).</p><p>Nonfatal stroke events during the follow-up were obtained from medical records of the Kuopio University Hospital. In Kuopio town area, all stroke patients are treated at the Kuopio University Hospital. Medical records of 122 study subjects with a nonfatal stroke were reviewed by 2 of the authors (S.K, J.K.) until the end of June 2001.</p><p>WHO criteria for stroke were used in the ascertainment of a new stroke as well as a previous stroke: a clinical syndrome consisting of a neurological deficit observed by a neurologist and persisting Ͼ24 hours (nonfatal stroke), without other diseases explaining the symptoms. Thromboembolic and hemorrhagic strokes, but not subarachnoid hemorrhagic stroke, were included in the diagnosis of stroke.</p><p>CT or MRI was performed in most patients but was not required for the diagnosis of stroke. CT or MRI was performed in 77% of strokes. Autopsy was performed in 29% of fatal stroke cases. If a subject had multiple nonfatal strokes during the follow-up, the first stroke was considered as the end point.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Definitions of the MetS</head><p>The present study was based on the WHO, EGIR, NCEP, ACE, IDF, and updated NCEP definitions. Each component of the 6 definitions was defined according to the original criteria. Criteria for the 6 definitions of the MetS are shown in Table <ref type="table" target="#tab_0">1</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical Analyses</head><p>All statistics were performed with the SPSS 14.0 statistical programs. Because of the skewed distribution of fasting insulin, triglycerides concentration, and ratio of urinary albumin to urinary creatinine, these variables were log-transformed for statistical analyses. Differences in baseline characteristics between subject with and without incident stroke were tested by <ref type="bibr" target="#b1">2</ref>  and all components (using cut-off points) of each corresponding MetS). In addition, age-and sex-adjusted Cox model including only all individual components of each corresponding definition of the MetS were analyzed in nondiabetic subjects without MI (model 5). The c-statistic was used to compare each subject's predicted relative risk derived from the multivariate Cox regression model with the actual outcome. A c-statistic of 1.0 indicates perfect prediction, whereas 0.5 indicates no predictive value. A product term of genderϫMetS defined by 6 different criteria was added into the model to investigate interaction. The null hypothesis of no interaction was tested using the change in Ϫ2 log likelihood between Cox models with and without the product term. The effect of the single components of the MetS on incident stroke was tested by the multivariable Cox regression models adjusted for other risk factors. PϽ0.05 (2-sided) was the limit of statistical significance. Exact probability values and CI are given in Tables.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>The median follow-up for incident stroke was 13.8 years (the 25th and the 75th quartiles were 13.4 and 14.5 years, respectively). Of 150 subjects with stroke events during the follow-up, 13 had a history of MI. More male subjects experienced stroke during the follow-up (men vs women, 19% vs 13%; Table <ref type="table" target="#tab_2">2</ref>). Compared with subjects without incident stroke, subjects with incident stroke had higher levels of 2-hour postload glucose and lower levels of highdensity lipoprotein cholesterol. There was a trend that more subjects with incident stroke had antihypertensive medication at baseline compared with those without stroke (30.7 vs 23.3%), but the difference between the groups was not statistically significant (Pϭ0.058).</p><p>Table <ref type="table" target="#tab_3">3</ref> shows HRs of the MetS defined by the 6 different criteria to predict stroke during the 14-year follow-up among nondiabetic subjects. When adjusted for age and gender (model 1), the MetS by the WHO, EGIR, NCEP, IDF, and updated NCEP criteria was associated with a 1.52-to 1.75fold risk for incident stroke. After excluding subjects with MI (model 2), the MetS defined by the WHO, EGIR, NCEP, IDF, and updated NCEP criteria was associated with a statistically significant 1.49-to 1.80-fold risk for stroke. However, the MetS defined by the ACE criteria did not predict stroke in model 1 and model 2. Model 2 (the ACE criteria) had the lowest c-statistic (0.590) compared with those of other criteria. Interaction terms between the gender and the MetS based on the 6 definitions were not significant for stroke (PϾ0.25). We also added smoking, alcohol consumption, physical activity, and total cholesterol as covariates into the models, but only minor changes in HRs were observed. In addition, to investigate whether the MetS predicts stroke above and beyond its individual components, individual components of the corresponding MetS definitions were entered into multivariable models as continuous variables (model 3) or using cut-off points as defined by the corresponding MetS definitions (model 4). Model 5, analyzed in age-and sex-adjusted Cox regression model in nondiabetic subjects without MI, included only individual components of each corresponding definition of the MetS. The IDF definition was associated with a statistically significant 1.73-to 2.12-fold risk for stroke in model 3 and model 4, and the EGIR definition was significantly associated with a 1.90-fold risk for stroke in model 3. The MetS by the other criteria did not predict stroke in model 3 or model 4. Model 4 including the IDF criteria had the highest c-statistic (0.626) among all definitions of the MetS. The c-statistic of model 4 and model 5, which showed significant association between IGT and incident stroke, gave higher values compared to those of model 2 (0.614 vs 0.590, respectively). </p><note type="other">1080 Stroke April 2008</note><p>Table <ref type="table">4</ref> shows HRs for the single components of the MetS definitions for risk of stroke in multivariable Cox regression models. Of the single components of the MetS, the following predicted stroke in nondiabetic subjects after adjustment for age and gender (model 1): IGT defined by 2-hour glucose level 7.8 to 11.0 mmol/L in an oral glucose tolerance test (HR, 1.63) according to the WHO and ACE criteria; insulin resistance (upper quartile of fasting insulin; HR, 1.56); central obesity (waist Ն102 cm for men and Ն88 cm for women; HR, 1.43) according to the NCEP criteria; elevated triglycerides (triglycerides Ͼ2.0 mmol/L; HR, 1.51) according to the EGIR criteria; low high-density lipoprotein cholesterol (high-density lipoprotein cholesterol Ͻ0.9 mmol/L in men or Ͻ1.0 mmol/L in women; HR, 1.49) according to the WHO criteria, and microalbuminuria (ratio of urinary albumin to urinary creatinine Ն3.39 mg/mmol; HR 1.45) according to the WHO criteria. After exclusion of subjects with MI (model 2), the following single components of the MetS still predicted stroke: IGT (HR: 1.66); insulin resistance (upper quartile of fasting insulin; HR, 1.60); and central obesity (waist Ն102 cm for men and Ն88 cm for women; HR, 1.52); and further adjustment for other risk factors did not essentially change the results.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>In the present study, the MetS defined by all present criteria except for the ACE definition, predicted stroke in elderly Finnish subjects. Even after the adjustment for individual components of the MetS, the MetS by the EGIR and IDF definitions was predictive of stroke. The IDF definition was the best predictor of stroke among all definitions. One of the single components of the MetS, IGT, predicted stroke comparably with the MetS defined by the WHO, NCEP, and updated NCEP definitions.</p><p>Several prospective studies have evaluated the value of the NCEP and WHO definitions to predict stroke, <ref type="bibr">19 -23</ref> but most of these studies have used modified definitions other than those originally proposed. <ref type="bibr">19 -21</ref> Moreover, these studies have varied with respect to characteristics of the baseline population, number of deaths, and statistical analyses. The Cardiovascular Disease Risk Factor Two-Township Study <ref type="bibr" target="#b26">22</ref> reported that the NCEP criteria predicted ischemic stroke (HR, 4.30) in 3453 subjects without excluding initial diabetes and CHD. In that study, the diagnoses of diabetes and CHD were based on the self-report instead of an oral glucose tolerance test and clinical records. The Framingham Offspring Study 23 also found that the MetS defined by the NCEP criteria was associated with stroke, but the subjects with CHD at baseline were not excluded from the study. The diagnosis of diabetes was not based on an oral glucose tolerance test, but instead on fasting plasma glucose or receiving treatment of diabetes. Our study has several advantages. First, this is a prospective population-based study investigating the relationship between stroke and the MetS using all 6 present criteria including all components of each definition. Second, because diabetes is a powerful predictor of stroke independently of the MetS, <ref type="bibr" target="#b27">23</ref> an oral glucose tolerance test was used to exclude all diabetic subjects from our study. Third, considering that the MetS is associated with CHD, <ref type="bibr" target="#b22">18</ref> we also investigated the MetS as a predictor of stroke in subjects without MI at baseline. Fourth, our study was performed in a population of elderly subjects, in whom most events of stroke occur. Finally, because it is unclear whether the MetS predicts stroke above and beyond its individual components, our study investigated this issue using c-statistic.</p><p>Among the single components of the 6 definitions for the MetS, insulin resistance (upper quartile of fasting insulin) by the EGIR and central obesity by the NCEP criteria were </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Wang et al Metabolic Syndrome and Stroke</head><p>associated with incident stroke. Accordingly, the EGIR and IDF definitions, which included insulin resistance or central obesity as obligatory components in their definitions, were predictive of stroke events. The other definitions, such as the WHO, NCEP, and updated NCEP, which included obesity as a single component despite different definitions for obesity, also predicted stroke. In contrast, the ACE definition excluded obesity from its definition and did not predict stroke.</p><p>In our study, if obesity, especially central obesity, was included in the definition of the MetS, then the MetS predicted stroke, supporting the conclusions reported in the previous studies. We also found that IGT predicted stroke with a HR that was comparable with those of the WHO, NCEP, and updated NCEP criteria. This finding is consistent with a previous study showing that IGT predicted fatal stroke in elderly subjects. <ref type="bibr" target="#b35">32</ref> Our results based on c-statistic and Cox analyses suggest that IGT predicted stroke events above and beyond the ACE definition. Furthermore, the MetS defined by other 5 criteria was a stronger predictor of stroke events than its individual components.</p><p>Although hypertension is a classic risk factor for stroke, 33 our data did not show any association between elevated blood pressure and stroke. Two reasons could explain this finding. First, our study was a population-based study in elderly subjects who have higher blood pressure levels than younger persons. Second, even though mean blood pressure levels have decreased markedly during the past 30 years, the prevalence of hypertension in Finland is still among the highest in the world. <ref type="bibr" target="#b37">34,</ref><ref type="bibr" target="#b38">35</ref> In our study, 81.1% had hypertension according to blood pressure Ն140/90mm Hg. Thus, the high prevalence of hypertension in the entire study cohort makes it difficult to demonstrate the effect of blood pressure on the risk of stroke. However, if hypertension was defined only by treatment of antihypertensive medication, hypertension tended to be associated with stroke.</p><p>Because of quite a small number of stroke events, analyses could not be performed in subgroups according to the category of stroke. This is a limitation of our study. In addition, the absence of middle-aged individuals in the cohort may lead to bias of the incidence of stroke. However, a recent Finnish study in middle-aged men reported similar results to ours based on the NCEP and modified WHO criteria. <ref type="bibr" target="#b25">21</ref> Because of several definitions of the MetS, multiple testing also increases the likelihood of false-positive probability values.</p><p>In conclusion, the MetS defined by all 6 criteria except for the ACE definition predicts incident stroke in elderly subjects. However, IGT alone is as strong a predictor of stroke as the MetS according to the WHO, NCEP, and updated NCEP criteria. Therefore, our results may indicate that the MetS defined by the 6 present criteria except for the ACE definition predicts stroke events, possibly even above and beyond its individual components.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 . Definitions of the MetS According to the WHO, EGIR, NCEP, ACE, IDF and Updated NCEP Criteria</head><label>1</label><figDesc></figDesc><table><row><cell></cell><cell>WHO</cell><cell>EGIR</cell><cell>NCEP</cell><cell>ACE</cell><cell>IDF</cell><cell>Updated NCEP</cell></row><row><cell>Required</cell><cell>Fasting insulin in</cell><cell>Fasting insulin in</cell><cell>-</cell><cell>High risk of being</cell><cell>For Europeans: waist</cell><cell>-</cell></row><row><cell></cell><cell>top 25%; fasting</cell><cell>top 25%</cell><cell></cell><cell>insulin-resistant*</cell><cell>Ն94 cm in men or</cell><cell></cell></row><row><cell></cell><cell>glucose</cell><cell></cell><cell></cell><cell></cell><cell>Ն80 cm in women</cell><cell></cell></row><row><cell></cell><cell>Ն6.1 mmol/L;</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>2-hour glucose</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>Ն7.8 mmol/L</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>No. of abnormalities</cell><cell>and Ն2 of:</cell><cell>and Ն2 of:</cell><cell>Ն3 of:</cell><cell>and Ն2 of:</cell><cell>and Ն2 of:</cell><cell>Ն3 of:</cell></row><row><cell>Fasting glucose</cell><cell></cell><cell>Ն6.1 mmol/L</cell><cell>Ն6.1 mmol/L</cell><cell>Ն6.1 mmol/L</cell><cell>Ն6.1 mmol/L</cell><cell>Ն5.6 mmol/L</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>or</cell><cell></cell><cell></cell></row><row><cell>2-hour glucose</cell><cell></cell><cell></cell><cell></cell><cell>7.8-11.0 mmol/L</cell><cell></cell><cell></cell></row><row><cell>HDL cholesterol</cell><cell>Ͻ0.9 mmol/L in</cell><cell>Ͻ1.0 mmol/L</cell><cell>Ͻ1.03 mmol/L in</cell><cell>Ͻ1.03 mmol/L</cell><cell>Ͻ1.03 mmol/L</cell><cell>Ͻ1.03 mmol/L</cell></row><row><cell></cell><cell>men or</cell><cell></cell><cell>men or</cell><cell>(men) or</cell><cell>(men) or</cell><cell>(men) or</cell></row><row><cell></cell><cell>Ͻ1.0 mmol/L in</cell><cell></cell><cell>Ͻ1.29 mmol/L in</cell><cell>Ͻ1.29 mmol/L</cell><cell>Ͻ1.29 mmol/L</cell><cell>Ͻ1.29 mmol/L</cell></row><row><cell></cell><cell>women</cell><cell></cell><cell>women</cell><cell>(women)</cell><cell>(women)</cell><cell>(women)</cell></row><row><cell></cell><cell>or</cell><cell>or</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Triglycerides</cell><cell>Ն1.7 mmol/L</cell><cell>Ͼ2.0 mmol/L</cell><cell>Ն1.7 mmol/L</cell><cell>Ն1.7 mmol/L</cell><cell>Ն1.7 mmol/L</cell><cell>Ն1.7 mmol/L</cell></row><row><cell>Obesity</cell><cell>Waist/hip ratio</cell><cell>Waist Ն94 cm in</cell><cell>Waist Ն102 cm in</cell><cell></cell><cell></cell><cell>Waist Ն102 cm in</cell></row><row><cell></cell><cell>Ͼ0.90 in men or</cell><cell>men or Ն80 cm</cell><cell>men or Ն88 cm</cell><cell></cell><cell></cell><cell>men or Ն88 cm</cell></row><row><cell></cell><cell>Ͼ0.85 in women;</cell><cell>in women</cell><cell>in women</cell><cell></cell><cell></cell><cell>in women</cell></row><row><cell></cell><cell>BMI Ն30 kg/m 2</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Hypertension</cell><cell>Ն140/90 mm Hg or</cell><cell>Ն140/90 mm Hg</cell><cell>Ն130/85 mm Hg</cell><cell>Ն130/85 mm Hg</cell><cell>Ն130/85 mm Hg</cell><cell>Ն130/85 mm Hg</cell></row><row><cell></cell><cell>using</cell><cell>or using</cell><cell>or using</cell><cell>or using</cell><cell>or using</cell><cell>or using</cell></row><row><cell></cell><cell>antihypertensive</cell><cell>antihypertensive</cell><cell>antihypertensive</cell><cell>antihypertensive</cell><cell>antihypertensive</cell><cell>antihypertensive</cell></row><row><cell></cell><cell>medication</cell><cell>medication</cell><cell>medication</cell><cell>medication</cell><cell>medication</cell><cell>medication</cell></row><row><cell>Microalbuminuria</cell><cell>Urinary</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>albumin/urinary</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>creatinine ratio</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>Ն3.39 mg/mmol</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>(30 mg/g)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table><note>*At least 1 of the following: diagnosis of cardiovascular disease, hypertension, polycystic ovary syndrome, nonalcoholic fatty liver disease, or acanthosis nigricans; family history of type 2 diabetes, hypertension, or cardiovascular disease; history of gestational diabetes or glucose intolerance; non-white ethnicity; sedentary lifestyle; BMI Ͼ25 kg/m 2 or waist Ͼ102 cm for men or Ͼ88 cm for women; and age older than 40 years.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head></head><label></label><figDesc>test and adjusted for age and gender by ANOVA. The baseline variables not included in the definitions of MetS, and showing a statistically significant association with incident stroke, were added into the multivariable Cox regression models as covariates. The multivariable Cox regression analyses were applied to investigate the association of the MetS defined by the 6 criteria with incident stroke in adjusted models (model 1, adjusted for age and gender; model 2, adjusted for age, gender, and excluding subjects with MI; model 3, adjusted for age, gender, and all continuous variables that were the components of each corresponding MetS definition; model 4, adjusted for age, gender,</figDesc><table /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 2 . Baseline Characteristics of Subjects by Incident Stroke During the 14-Year Follow-Up in Nondiabetic Subjects</head><label>2</label><figDesc></figDesc><table><row><cell></cell><cell>Incident Stroke</cell><cell>Nonstroke</cell><cell></cell></row><row><cell></cell><cell>(nϭ150)</cell><cell>(nϭ841)</cell><cell>P</cell></row><row><cell>Male/Female</cell><cell>67/83</cell><cell>293/548</cell><cell>0.023</cell></row><row><cell>Age, yr</cell><cell>69.3Ϯ2.9</cell><cell>68.9Ϯ2.9</cell><cell>0.061</cell></row><row><cell>Previous MI</cell><cell>15 (10.0)</cell><cell>81 (9.6)</cell><cell>0.889</cell></row><row><cell>Current smokers</cell><cell>15 (10.0)</cell><cell>87 (10.3)</cell><cell>0.898</cell></row><row><cell>Alcohol user</cell><cell>49 (32.7)</cell><cell>250 (29.7)</cell><cell>0.473</cell></row><row><cell>Physically inactive at</cell><cell>37 (24.7)</cell><cell>200 (23.8)</cell><cell>0.815</cell></row><row><cell>leisure time</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Use of antihypertensive</cell><cell>46 (30.7)</cell><cell>196 (23.3)</cell><cell>0.058</cell></row><row><cell>medication</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Body mass index, kg/m 2</cell><cell>27.1Ϯ3.9</cell><cell>27.0Ϯ3.9</cell><cell>0.786</cell></row><row><cell>Waist circumference, cm</cell><cell>92.0Ϯ11.7</cell><cell>90.2Ϯ10.5</cell><cell>0.065</cell></row><row><cell>Systolic blood</cell><cell>156Ϯ25</cell><cell>157Ϯ23</cell><cell>0.922</cell></row><row><cell>pressure, mm Hg</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Urinary albumin to urinary</cell><cell>2.9Ϯ5.7</cell><cell>3.3Ϯ14.6</cell><cell>0.433</cell></row><row><cell>creatinine ratio, mg/mmol</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Total cholesterol, mmol/L</cell><cell>6.48Ϯ1.30</cell><cell>6.57Ϯ1.23</cell><cell>0.397</cell></row><row><cell>Triglycerides, mmol/L</cell><cell>1.73Ϯ0.76</cell><cell>1.67Ϯ0.76</cell><cell>0.389</cell></row><row><cell>HDL cholesterol, mmol/L</cell><cell>1.25Ϯ0.33</cell><cell>1.31Ϯ0.33</cell><cell>0.024</cell></row><row><cell>Fasting insulin, pmol/L</cell><cell>93Ϯ45</cell><cell>87Ϯ41</cell><cell>0.094</cell></row><row><cell>Fasting plasma</cell><cell>5.7Ϯ0.5</cell><cell>5.6Ϯ0.5</cell><cell>0.070</cell></row><row><cell>glucose, mmol/L</cell><cell></cell><cell></cell><cell></cell></row><row><cell>2-hour postload</cell><cell>6.8Ϯ1.7</cell><cell>6.5Ϯ1.6</cell><cell>0.033</cell></row><row><cell>glucose, mmol/L</cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="3">Data are meansϮSD or N of participants (percentages).</cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 3 . Hazard Ratios of the MetS to Predict Incident Stroke (n‫)051؍‬ According to Different Criteria for the MetS in 991 Nondiabetic Subjects During the 14-Year Follow-Up</head><label>3</label><figDesc>/percentage of subjects with the MetS by each definition. Model 1, adjusted for age and gender; model 2, subjects with previous MI (nϭ79) were excluded from model 1(incident stroke: nϭ137); model 3, all continuous variables for components of each corresponding definition are entered into model 2; model 4, all components of each corresponding definition are entered into model 2. Model 5: only all components of each corresponding definition were included. ‡Hazard ratio of IGT for incident stroke was 1.63 (95% CI, 1.07-2.46), Pϭ0.022. §Hazard ratio of IGT for incident stroke, Pϭ0.028.</figDesc><table><row><cell>HR (95% CI)</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">Downloaded from http://ahajournals.org by onJune 29, 2021   </note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">Stroke April 2008Downloaded from http://ahajournals.org by onJune 29, 2021   </note>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sources of Funding</head><p>This work was supported by a grant from the Academy of Finland to M.L.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosures</head><p>None.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">World Health Organization. Definition, Diagnosis and Classification of Diabetes Mellitus and its Complications</title>
+		<ptr target="http://whqlibdoc.who.int/hq/1999/who_ncd_ncs_99.2.pdf" />
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<pubPlace>Geneva, World Health Organization</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Report of a WHO Consultation. Part 1: Diagnosis and Classification of Diabetes and Mellitus</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Comment on the provisional report from the WHO consultation. European Group for the Study of Insulin Resistance (EGIR)</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Balkau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Charles</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabet Med</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="442" to="443" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">Executive summary of the third report of the National Cholesterol Education Program (NCEP) expert panel on detection, evaluation, and treatment of high blood cholesterol in Adults</title>
+		<imprint/>
+		<respStmt>
+			<orgName>Adult Treatment Panel III</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">285</biblScope>
+			<biblScope unit="page" from="2486" to="2497" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">American College of Endocrinology position statement on the insulin resistance syndrome</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Einhorn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Reaven</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Cobin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Ford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">P</forename><surname>Ganda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Handelsman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Hellman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">S</forename><surname>Jellinger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kendall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Krauss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">D</forename><surname>Neufeld</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Petak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">W</forename><surname>Rodbard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Seibel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">W</forename><surname>Wilson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Endocr Pract</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="237" to="252" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">The metabolic syndrome-a new worldwide definition</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">G</forename><surname>Alberti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Zimmet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Shaw</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">366</biblScope>
+			<biblScope unit="page" from="1059" to="1062" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">Diagnosis and management of the metabolic syndrome: an American Table 4. Hazard Ratios for the Individual Components of the MetS to Predict Incident Stroke in Nondiabetic Subjects During the 14-Year Follow-Up HR</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Grundy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">I</forename><surname>Cleeman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Daniels</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Donato</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Eckel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Franklin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Gordon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Krauss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Savage</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Smith</surname><genName>Jr</genName></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Spertus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Costa</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>95% CI</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Triglycerides</surname></persName>
+		</author>
+		<idno>Ն1.7 mmol/L 1.34 (0.97-1.86) 1.27 (0.90-1.78</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Triglycerides</surname></persName>
+		</author>
+		<idno>Ͼ2.0 mmol/L 1.51 (1.07-2.12)* 1.43 (1.00-2.06</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">Model 1, adjusted for age and gender; model 2, subjects with previous MI (nϭ79) were excluded from model 1 (incident stroke, nϭ137)</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Heart Association/National Heart, Lung, and Blood Institute Scientific Statement</title>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">112</biblScope>
+			<biblScope unit="page" from="2735" to="2752" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">How well does the metabolic syndrome defined by five definitions predict incident diabetes and incident coronary heart disease in a Chinese population?</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">B</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Kinnunen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Hu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">M</forename><surname>Jarvinen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Miettinen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Yuan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tuomilehto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Atherosclerosis</title>
+		<imprint>
+			<biblScope unit="volume">192</biblScope>
+			<biblScope unit="page" from="161" to="168" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">The metabolic syndrome and total and cardiovascular disease mortality in middle-aged men</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">M</forename><surname>Lakka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Laaksonen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Lakka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">K</forename><surname>Niskanen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Kumpusalo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tuomilehto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Salonen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">288</biblScope>
+			<biblScope unit="page" from="2709" to="2716" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">National Cholesterol Education Program versus World Health Organization metabolic syndrome in relation to all-cause and cardiovascular mortality in the San Antonio Heart Study</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename><surname>Hunt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">G</forename><surname>Resendez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Haffner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Stern</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">110</biblScope>
+			<biblScope unit="page" from="1251" to="1257" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">The metabolic syndrome and mortality from cardiovascular disease and all-causes: findings from the National Health and Nutrition Examination Survey II Mortality Study</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Ford</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+			<biblScope unit="volume">173</biblScope>
+			<biblScope unit="page" from="309" to="314" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Prevalence of the metabolic syndrome and its relation to all-cause and cardiovascular mortality in nondiabetic European men and women</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Hu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Qiao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tuomilehto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Balkau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Borch-Johnsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Pyorala</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">164</biblScope>
+			<biblScope unit="page" from="1066" to="1076" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Metabolic syndrome and 10-year cardiovascular disease risk in the Hoorn Study</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Dekker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Girman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Rhodes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Nijpels</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Stehouwer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Bouter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Heine</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">112</biblScope>
+			<biblScope unit="page" from="666" to="673" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">The metabolic syndrome and 11-year risk of incident cardiovascular disease in the atherosclerosis risk in communities study</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Mcneill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">D</forename><surname>Rosamond</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Girman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Golden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">I</forename><surname>Schmidt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">E</forename><surname>East</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Ballantyne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Heiss</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="385" to="390" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">C-reactive protein, the metabolic syndrome, and prediction of cardiovascular events in the Framingham Offspring Study</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Rutter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Meigs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Sullivan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D'agostino Rb</forename><surname>Sr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">W</forename><surname>Wilson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">110</biblScope>
+			<biblScope unit="page" from="380" to="385" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Carotid atherosclerosis and coronary heart disease in the metabolic syndrome: prospective data from the Bruneck study</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Bonora</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kiechl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Willeit</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Oberhollenzer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Egger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Bonadonna</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Muggeo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="1251" to="1257" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Metabolic syndrome as a precursor of cardiovascular disease and type 2 diabetes mellitus</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">W</forename><surname>Wilson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>'agostino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Parise</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Sullivan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Meigs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">112</biblScope>
+			<biblScope unit="page" from="3066" to="3072" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Insulin resistance syndrome predicts coronary heart disease events in elderly nondiabetic men</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Lempiainen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Mykkanen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Pyorala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Laakso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kuusisto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">100</biblScope>
+			<biblScope unit="page" from="123" to="128" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">The metabolic syndrome predicts cardiovascular mortality: a 13-year follow-up study in elderly non-diabetic Finns</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ruotsalainen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Moilanen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Lepisto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Laakso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kuusisto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur Heart J</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="857" to="864" />
+			<date type="published" when="2007">2007. 2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Relation between the metabolic syndrome and ischemic stroke or transient ischemic attack: a prospective cohort study in patients with atherosclerotic cardiovascular disease</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Koren-Morag</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Goldbourt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Tanne</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stroke</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="1366" to="1371" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Metabolic syndrome vs Framingham Risk Score for prediction of coronary heart disease, stroke, and type 2 diabetes mellitus</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">G</forename><surname>Wannamethee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">G</forename><surname>Shaper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Lennon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Morris</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">165</biblScope>
+			<biblScope unit="page" from="2644" to="2650" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Metabolic syndrome and the risk of stroke in middle-aged men</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kurl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Laukkanen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Niskanen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Laaksonen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Sivenius</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Nyyssonen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Salonen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stroke</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="806" to="811" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Influence of metabolic syndrome and general obesity on the risk of ischemic stroke</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">H</forename><surname>Bai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">T</forename><surname>Yeh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Chiu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">H</forename><surname>Pan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stroke</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="1060" to="1064" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Metabolic syndrome compared with type 2 diabetes mellitus as a risk factor for stroke: the Framingham Offspring Study</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Najarian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Sullivan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">B</forename><surname>Kannel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">W</forename><surname>Wilson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>'agostino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Wolf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">166</biblScope>
+			<biblScope unit="page" from="106" to="111" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Prevalence of diabetes and impaired glucose tolerance in elderly subjects and their association with obesity and family history of diabetes</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Mykkanen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Laakso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Uusitupa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Pyorala</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="1099" to="1105" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Asymptomatic hyperglycemia and cardiovascular risk factors in the elderly</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Mykkanen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Laakso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Penttila</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Pyorala</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Atherosclerosis</title>
+		<imprint>
+			<biblScope unit="volume">88</biblScope>
+			<biblScope unit="page" from="153" to="161" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">The national survey of stroke</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">D</forename><surname>Weinfeld</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stroke</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">SI</biblScope>
+			<biblScope unit="page" from="32" to="37" />
+			<date type="published" when="1981">1981</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Acute myocardial infarction (AMI) in Finland-baseline data from the FINMONICA AMI register in 1983-1985</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tuomilehto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Arstila</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Kaarsalo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kankaanpaa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ketonen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kuulasmaa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lehto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Miettinen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Mustaniemi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Palomaki</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur Heart J</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="577" to="587" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Hyperinsulinemic microalbuminuria. A new risk indicator for coronary heart disease</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kuusisto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Mykkanen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Pyorala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Laakso</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">91</biblScope>
+			<biblScope unit="page" from="831" to="837" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Abdominal obesity and risk of ischemic stroke: the Northern Manhattan Stroke Study</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Suk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Sacco</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Boden-Albala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Cheun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Pittman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Elkind</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Paik</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stroke</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="1586" to="1592" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Prospective study of body mass index and risk of stroke in apparently healthy women</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Kurth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Gaziano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Rexrode</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Kase</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">R</forename><surname>Cook</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Manson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Buring</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">111</biblScope>
+			<biblScope unit="page" from="1992" to="1998" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Predictors of stroke mortality in elderly people from the general population. The CArdiovascular STudy in the ELderly</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mazza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Pessina</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Pavei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Scarpa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Tikhonoff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Casiglia</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="1097" to="1104" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Primary prevention of stroke</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">L</forename><surname>Bronner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Kanter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Manson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">333</biblScope>
+			<biblScope unit="page" from="1392" to="1400" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Blood pressure levels in the 41 populations of the WHO MONICA Project</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">K</forename><surname>Wolf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tuomilehto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kuulasmaa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Domarkiene</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Cepaitis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Molarius</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Dobson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Keil</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Rywik</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Hum Hypertens</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="733" to="742" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Trends in the prevalence, awareness, treatment and control of hypertension: the WHO MONICA Project</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Antikainen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">A</forename><surname>Moltchanov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Chukwuma</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Sr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Kuulasmaa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Marques-Vidal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Wilhelmsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">O</forename><surname>Tuomilehto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Cardiovasc Prev Rehabil</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="13" to="29" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

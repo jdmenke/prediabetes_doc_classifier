@@ -1,0 +1,2518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Diabetes Mellitus, Prediabetes, and Incidence of Subclinical Myocardial Damage</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2021-06-30">June 30, 2021</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><roleName>PhD, MPH</roleName><forename type="first">Elizabeth</forename><surname>Selvin</surname></persName>
+							<email>eselvin@jhu.edu</email>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Mariana</forename><surname>Lazo</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MS</roleName><forename type="first">Yuan</forename><surname>Chen</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>BS</roleName><forename type="first">Lu</forename><surname>Shen</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MD, MHS;</roleName><forename type="first">Jonathan</forename><surname>Rubin</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MB, BCh, BAO, MRCPI</roleName><forename type="first">John</forename><forename type="middle">W</forename><surname>Mcevoy</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>PhD</roleName><forename type="first">Ron</forename><forename type="middle">C</forename><surname>Hoogeveen</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MD, DrPH;</roleName><forename type="first">;</forename><forename type="middle">A Richey</forename><surname>Sharrett</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Christie</forename><forename type="middle">M</forename><surname>Ballantyne</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Josef</forename><surname>Coresh</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Epidemiology and the Welch Center for Prevention, Epidemiology and Clinical Research</orgName>
+								<orgName type="institution">Johns Hopkins Bloomberg School of Public Health</orgName>
+								<address>
+									<settlement>Baltimore</settlement>
+									<region>MD</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Division of General Internal Medicine</orgName>
+								<orgName type="department" key="dep2">Department of Medicine</orgName>
+								<orgName type="institution" key="instit1">C.)</orgName>
+								<orgName type="institution" key="instit2">Johns Hopkins University</orgName>
+								<address>
+									<settlement>Baltimore</settlement>
+									<region>MD</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="department">Center for Prevention, Epidemiology and Clinical Research</orgName>
+								<orgName type="institution">Johns Hopkins Bloomberg School of Public Health</orgName>
+								<address>
+									<addrLine>2024 E Monument St, Suite 2-600</addrLine>
+									<postCode>21287</postCode>
+									<settlement>Baltimore</settlement>
+									<region>MD</region>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Diabetes Mellitus, Prediabetes, and Incidence of Subclinical Myocardial Damage</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2021-06-30">June 30, 2021</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">69F659E353666069AAB27101E42A6E89</idno>
+					<idno type="DOI">10.1161/CIRCULATIONAHA.114.010815</idno>
+					<note type="submission">Received February 13, 2014; accepted August 13, 2014.</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.1" ident="GROBID" when="2022-07-19T23:00+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>biological markers ◼ diabetes mellitus ◼ epidemiology ◼ prediabetic state</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>C ardiovascular disease is the leading cause of death among persons with diabetes mellitus, and there is evidence that cardiac damage is often present at the time of clinical diagnosis of diabetes mellitus. <ref type="bibr" target="#b0">1,</ref><ref type="bibr" target="#b1">2</ref> In addition, persons with hyperglycemia even below the threshold for the diagnosis of diabetes mellitus are known to be at high risk for cardiovascular events. <ref type="bibr" target="#b2">[3]</ref><ref type="bibr" target="#b3">[4]</ref><ref type="bibr" target="#b4">[5]</ref> Elevated glucose levels are thought to induce hyperglycemia-mediated coronary microvascular dysfunction and result in myocardial injury. <ref type="bibr" target="#b5">[6]</ref><ref type="bibr" target="#b6">[7]</ref><ref type="bibr" target="#b7">[8]</ref><ref type="bibr" target="#b8">[9]</ref><ref type="bibr" target="#b9">[10]</ref><ref type="bibr" target="#b10">[11]</ref> Previous studies have shown that persons with prediabetes or diabetes mellitus have an increased prevalence of atherosclerosis, as measured by carotid intimal thickness or coronary artery calcium. <ref type="bibr" target="#b10">[11]</ref><ref type="bibr" target="#b11">[12]</ref><ref type="bibr" target="#b12">[13]</ref><ref type="bibr" target="#b14">[14]</ref><ref type="bibr" target="#b15">[15]</ref><ref type="bibr" target="#b16">[16]</ref> Much less is known about the relationships of prediabetes and diabetes mellitus with subclinical myocardial damage, particularly with respect to its progression over time.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Clinical Perspective on p 1382</head><p>Cardiac troponins are elevated in the setting of myocardial damage and are a standard measure used for the diagnosis of myocardial infarction. There have been several generations of increasingly sensitive tests that reliably detect lower and lower levels of troponin in the blood. A novel high-sensitivity assay for cardiac troponin T (hs-cTnT) developed by Roche Diagnostics allows for the reliable measurement of troponin far below the conventional limit of detection. 17 It has been suggested that cardiac troponin detected in asymptomatic persons with this novel assay may represent chronic subclinical myocardial injury, of a nonatherosclerotic origin, <ref type="bibr" target="#b18">18,</ref><ref type="bibr" target="#b19">19</ref> with very strong associations with subsequent heart failure and death and only a moderate association with risk of coronary Background-Persons with prediabetes and diabetes mellitus are at high risk for cardiovascular events. However, the relationships of prediabetes and diabetes mellitus to the development of subclinical myocardial damage are unclear. Methods and Results-We measured cardiac troponin T with a highly sensitive assay (hs-cTnT) at 2 time points, 6 years apart, among 9051 participants of the community-based Atherosclerosis Risk in Communities Study with no diabetes mellitus, or prediabetes, and without cardiovascular disease including silent myocardial infarction by ECG. First, we examined the incidence of elevated hs-cTnT (≥14 ng/L) at 6 years of follow-up. Second, we examined clinical outcomes during the subsequent ≈14 years of follow-up among persons with and without incident elevations in hs-cTnT. Cumulative probabilities of elevated hs-cTnT at 6 years among persons with no diabetes mellitus, prediabetes, and diabetes mellitus were 3.7%, 6.4%, and 10.8%, respectively. Compared with normoglycemic persons, the adjusted relative risks for incident elevated hs-cTnT were 1.40 (95% CI, 1.08-1.80) for prediabetes and 2.47 (95% CI, 1.78-3.43) for diabetes mellitus. Persons with diabetes mellitus and incident elevations in hs-cTnT were at a substantially higher risk of heart failure (hazard ratio, 6.37 [95% CI, 4.27-9.51]), death (hazard ratio, 4.36 [95% CI, 3.14-6.07]), and coronary heart disease (hazard ratio, 3.84 [95% CI, 2.52-5.84]) compared with persons without diabetes mellitus and no incident elevation in hs-cTnT. Conclusions-Prediabetes and diabetes mellitus were independently associated with the development of subclinical myocardial damage, as assessed by hs-cTnT, and those persons with evidence of subclinical damage were at highest risk for clinical events. These results support a possible deleterious effect of hyperglycemia on the myocardium, possibly reflecting a microvascular cause. (Circulation. 2014;130:1374-1382.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>heart disease. <ref type="bibr" target="#b20">20</ref> Previous studies have shown cross-sectional associations of diabetes mellitus with hs-cTnT. <ref type="bibr" target="#b22">21,</ref><ref type="bibr" target="#b23">22</ref> However, the associations of diabetes mellitus and prediabetes with the progression of myocardial damage, as indicated by temporal changes in hs-cTnT concentrations in a community-based population, are unknown.</p><p>Our objective was to characterize the associations of diabetes mellitus and prediabetes with 6-year incidence of subclinical myocardial injury, as assessed by hs-cTnT, in a community-based population without clinically evident cardiovascular disease. We conducted secondary analyses to evaluate associations of the incident elevations in hs-cTnT with subsequent risk of coronary heart disease, heart failure, and all-cause mortality in persons with and without diabetes mellitus at baseline.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study Population</head><p>The Atherosclerosis Risk in Communities (ARIC) study is a community-based, prospective cohort of 15 792 participants sampled from 4 US communities. The first clinic examinations (visit 1) took place from 1987 to 1989, with 3 follow-up visits approximately every 3 years. <ref type="bibr" target="#b24">23</ref> A fifth visit was completed in 2011-2013. Institutional review boards at each clinical site reviewed the study, and informed consent was obtained from all of the participants. The second clinic examination (visit 2) took place from 1990 to 1992, was attended by 14 348 participants, and was the first ARIC visit with measurement of hs-cTnT. We excluded all persons who had coronary heart disease (including silent myocardial infarction detected by ECG), stroke, or heart failure at or before visit 2 (n=1542); were fasting &lt;8 hours; were nonwhite or nonblack; were missing variables of interest (n=1763); were missing hs-cTnT measurement (n=41); had an hs-cTnT level ≥14 ng/L at visit 2 (n=376); or who were missing the follow-up hs-cTnT measurement at visit 4 in 1996-1998 (n=1575). Thus, there were 9051 participants included in our main study population (Figure I in the online-only Data Supplement). There were 604 incident cardiovascular events and 282 noncardiovascular deaths that occurred between visits 2 and 4 and were accounted for in our analyses. In secondary analyses of incident coronary heart disease, heart failure, and all-cause mortality risk among persons with and without incident elevations in hs-cTnT levels, we further excluded 160 persons who were missing covariates of interest at visit 4, for a study population of 8005 in our analyses of clinical events.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Definitions of Diabetes Mellitus and Prediabetes</head><p>Diabetes mellitus was defined as a self-reported physician diagnosis of diabetes mellitus, current use of glucose-lowering medications, or a hemoglobin (Hb) A1c value ≥6.5% at baseline. Among persons without diabetes mellitus, prediabetes was defined based on the clinical cut points for HbA1c of 5.7% to 6.4%. <ref type="bibr" target="#b25">24</ref> In sensitivity analyses, we compared definitions of diabetes mellitus and prediabetes based on diagnostic cut points for HbA1c and fasting glucose.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Measurement of hs-cTnT</head><p>Cardiac troponin T was measured at 2 time points, 6 years apart, using the same highly sensitive (precommercial) sandwich immunoassay method (Roche Elecsys T, Roche Diagnostics, Indianapolis, IN). We measured hs-cTnT in stored serum samples collected at visit 2 (1990-1992) using a Roche Elecsys 2010 Analyzer (Roche Diagnostics) at the University of Minnesota in 2012-2013. We measured hs-cTnT in stored plasma samples collected at visit 4 (1996-1998) using a Cobas e411 analyzer (Roche Diagnostics) at Baylor College of Medicine. We conducted a formal calibration study (N=200 paired samples) to evaluate possible differences across specimen type and laboratory. No significant differences were observed, and statistical correction was not indicated. <ref type="bibr" target="#b26">25</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Other Variables</head><p>Serum glucose level was measured using the hexokinase method. HbA1c was measured in stored whole blood samples using highperformance liquid chromatography with instruments standardized to the Diabetes Control and Complications Trial assay (Tosoh A1c 2.2 and Tosoh G7). <ref type="bibr" target="#b27">26</ref> Plasma lipid concentrations, <ref type="bibr" target="#b28">[27]</ref><ref type="bibr" target="#b29">[28]</ref><ref type="bibr" target="#b30">[29]</ref><ref type="bibr" target="#b31">[30]</ref> body mass index, <ref type="bibr" target="#b32">31</ref> and blood pressure <ref type="bibr" target="#b33">32</ref> were measured as part of the original ARIC study protocol. C-reactive protein was measured in 2012-2013 in stored serum samples (Roche Diagnostics). Hypertension was defined as the mean of the second and third readings at the visit (with cutoff for systolic blood pressure of ≥140 mm Hg and a cutoff for diastolic blood pressure of ≥90 mm Hg) or the use of hypertension medication. Participants reported their alcohol use and smoking status. Glomerular filtration rate was estimated from serum creatinine, age, sex, and race using the CKD-EPI 2009 equation. <ref type="bibr" target="#b34">33</ref> Left ventricular hypertrophy was assessed using resting 12-lead electrocardiograms and defined by Cornell criteria. <ref type="bibr" target="#b36">34</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Incident Coronary Heart Disease, Heart Failure, and All-Cause Mortality</head><p>The ascertainment of deaths and classification and adjudication of cardiovascular events in ARIC have been published previously. <ref type="bibr" target="#b37">35,</ref><ref type="bibr" target="#b38">36</ref> Briefly, any hospitalization was reported annually by participants or their proxy and also identified through surveillance of hospitals in each community. Trained personnel abstracted hospital records for potential cardiovascular events. Coronary heart disease events were adjudicated by an end points committee and were defined here as a definite or probable myocardial infarction, death from coronary heart disease, or cardiac procedure. Heart failure cases were identified from hospitalization diagnosis codes (International Classification of Diseases, Ninth Revision, code 428) and death surveillance (hospital discharge records for inpatient deaths and death certificates for deaths outside the hospital). <ref type="bibr" target="#b39">37</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical Analyses</head><p>Elevated hs-cTnT was defined as a concentration of ≥14 ng/L, the previously reported 99th percentile for a healthy reference group of persons aged 20 to 70 years, as defined by the manufacturer of the assay. <ref type="bibr" target="#b20">20,</ref><ref type="bibr" target="#b40">38</ref> We conducted prospective analyses to characterize the association of baseline diabetes mellitus and prediabetes status with progression of hs-cTnT from nonelevated (&lt;14 ng/L) at baseline (1990-1992) to elevated (≥14 ng/L) at follow-up (1996-1998). We used multinomial logistic regression to estimate the relative risks of subclinical myocardial damage as defined by an incident elevation in hs-cTnT at the 6-year follow-up (visit 4) comparing persons with no diabetes mellitus, prediabetes, and diabetes mellitus at visit 2 and accounting for intervening cardiovascular events and deaths between visits 2 and 4. All of the multivariable models were adjusted for age (years), race-center (whites, Washington County; whites, Minneapolis; blacks, Jackson; blacks, Forsyth County; or whites, Forsyth County), sex (male or female), body mass index (in kilograms per meter squared), C-reactive protein (in milligrams per liter), smoking (current, former, or never), mean systolic blood pressure (in millimeters of mercury), low-density lipoprotein cholesterol (in milligrams per deciliter), high-density lipoprotein cholesterol (in milligrams per deciliter), triglycerides (in milligrams per deciliter), current use of hypertension medication (yes or no), current use of cholesterol-lowering medication (yes or no), estimated glomerular filtration rate (in milliliters per minute per 1.73 m 2 ), alcohol use (current, former, or never), and left ventricular hypertrophy (yes or no). We conducted sensitivity analyses excluding participants with hs-cTnT &gt;30 ng/L at follow-up and stratified by race (black or white) or baseline category of hs-cTnT level (&lt;5, 5-8, or 9-13 ng/L).</p><p>We conducted secondary analyses of the association of incident elevated hs-cTnT categories with subsequent risk of coronary heart October 14, 2014 disease, heart failure, and all-cause mortality comparing risk in persons with no diabetes mellitus, prediabetes, and diabetes mellitus. We used Cox proportional hazards models with visit 4 as baseline and with follow up to January 1, 2012 (median follow-up of ≈14 years). Models were adjusted for all of the covariates as listed above but measured at visit 4. Model discrimination was assessed using the Harrell C-statistic, <ref type="bibr" target="#b41">39</ref> and we assessed improvement in the C-statistic for the addition of elevated hs-cTnT to models containing all of the other covariates overall and, separately, in persons with diabetes mellitus. We also conducted sensitivity analyses to account for incident cases of diabetes mellitus between visits 2 and 4.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>In this study population of persons with no clinical cardiovascular disease and nonelevated hs-cTnT (&lt;14 ng/L) at baseline, persons with prediabetes or diabetes mellitus were more likely to be older, black, and obese and more likely to have hypertension, high C-reactive protein, left ventricular hypertrophy, and a poorer lipid profile compared with persons without diabetes mellitus (Table <ref type="table" target="#tab_0">1</ref>). Diabetes status at baseline was also strongly associated with higher levels of hs-cTnT; the percentage of persons with a hs-cTnT level of 9 to 13 ng/L was 15.3% in those with diabetes mellitus compared with 6.2% among those without diabetes mellitus.</p><p>At the follow-up visit 6 years after baseline among persons who did not develop cardiovascular disease, 4.8% (n=395) of the study population had incident elevated hs-cTnT levels (≥14 ng/L); of these, 43.6% (n=172) had hs-cTnT levels of 9 to 13 ng/L at baseline, 36.7% (n=145) had hs-cTnT levels of 5 to 8 ng/L at baseline, and 19.7% (n=78) were undetectable (hs-cTnT level &lt;5 ng/L) at baseline 6 years prior (Table <ref type="table">I</ref> in the online-only Data Supplement). Among those persons with incident hs-cTnT level ≥14 ng/L at the 6-year follow-up visit, the median (25th percentile, 75th percentile) hs-cTnT level was 17 ng/dL (15, 21 ng/dL).</p><p>Among those who remained free of cardiovascular disease over the follow-up period, persons with diabetes mellitus (7.4% of the population) and prediabetes (22.1% of the population) at visit 2 had a higher crude incidence of hs-cTnT ≥14 ng/L at visit 4 compared with persons without diabetes mellitus (Figure <ref type="figure">1A</ref>). In multinomial regression models accounting for the competing risk of cardiovascular events or death between the 2 visits, diabetes mellitus and prediabetes were significantly associated with incident subclinical myocardial damage (incident hs-cTnT ≥14 ng/L) even after adjustment for cardiovascular risk factors (Figure <ref type="figure">1B</ref>). The relative risks and 95% CIs comparing persons with prediabetes or diabetes mellitus defined by clinical categories of HbA1c with persons with no diabetes mellitus at visit 2 were 1.40 (95% CI, 1.08-1.80) and 2.47 (95% CI, 1.78-3.43), respectively (Figure <ref type="figure">1B</ref> and Table II in the online-only Data Supplement).</p><p>Our results were not appreciably altered when persons with hs-cTnT values &gt;30 ng/L (n=46) at the follow-up visit were excluded (data not shown). When diabetes mellitus and prediabetes were defined using fasting glucose criteria, a similar pattern but weaker associations with incident elevations in hs-cTnT were observed (Table <ref type="table">II</ref> in the online-only Data Supplement). Interaction by race was not statistically significant (P for interaction=0.874), and race-stratified analyses showed similar patterns of association in black and white adults (Table III in the online-only Data Supplement). Analyses stratified by baseline category of hs-cTnT revealed that the strongest associations were observed among those persons with hs-cTnT levels ≤8 ng/L at baseline (Table <ref type="table" target="#tab_1">2</ref>).</p><p>In secondary analyses, we found that incident elevations in hs-cTnT were significantly associated with incident coronary heart disease, heart failure, and all-cause mortality (Figure <ref type="figure" target="#fig_0">2</ref> and Table IV in the online-only Data Supplement).</p><p>For heart failure and mortality, there were robust and monotonic associations across groups defined by diabetes status within persons with and without incident elevated hs-cTnT. Those persons who developed subclinical myocardial damage as assessed by incident elevations in hs-cTnT had higher risks of heart failure and all-cause mortality even across diabetes categories compared with those persons who did not develop subclinical myocardial damage. Incident elevations in hs-cTnT were less strongly associated with coronary heart disease, and the overall pattern of association was somewhat less robust. Nonetheless, persons with incident elevated hs-cTnT and diabetes mellitus had substantially increased risks of heart failure (hazard ratio, 6.37 [95% CI, 4.27-9.51]), all-cause mortality (hazard ratio, 4.36 [95% CI, 3.14-6.07]), and coronary heart disease (hazard ratio, 3.84 [95% CI, 2.52-5.84]) compared with those with no incident elevations in hs-cTnT and without diabetes mellitus. These observed patterns with clinical events were similar in black and white adults (Table V in the online-only Data Supplement). In sensitivity analyses accounting for incident cases of diabetes mellitus that occurred in persons with no diabetes mellitus and prediabetes at visit 2, persons who developed diabetes mellitus during the follow-up period were at a higher risk of events compared with those who remained nondiabetic (Table VI in the online-only Data Supplement), and persons who remained in the prediabetes group over the 6-year period were at higher risk, particularly if hs-cTnT level was elevated.</p><p>When added to models with diabetes mellitus and all of the other covariates already included, elevations in hs-cTnT significantly improved model discrimination for heart failure (P&lt;0.001) and death (P=0.005), but the improvement in the prediction for coronary heart disease was of only borderline significance (P=0.085; Table <ref type="table" target="#tab_2">3</ref>). Similar patterns were observed when the analyses were limited to persons with diabetes mellitus, although our power was correspondingly lower, with only 569 subjects in this group. The improvement in the C statistic for coronary heart disease was no longer statistically significant (P=0.173).</p><p>Figure <ref type="figure">1</ref>. A, Cumulative incidence of elevated (≥14 ng/L) highly sensitive cardiac troponin T (hs-cTnT) at follow-up (visit 4, 1996-1998)  according to categories of prediabetes and diabetes mellitus at baseline (visit 2, 1990-1992) among persons who remained free of cardiovascular disease during the follow-up period (n=8165). B, Adjusted risk ratios (95% confidence intervals [CIs]) for the association of prediabetes and diabetes mellitus with 6-year incident elevated (≥14 ng/L) according to prediabetes and diabetes mellitus at baseline (visit 2, 1990-1992; n=9051).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>In this community-based population without clinical cardiovascular disease, we found that prediabetes and diabetes mellitus were significantly associated with the 6-year incidence of subclinical myocardial damage, as assessed by the elevation of cardiac troponin T detected with a novel highly sensitive assay. We further observed that these incident elevations in hs-cTnT were associated with future clinical outcomes, particularly heart failure and death.</p><p>In 2010, HbA1c was added to the tests recommended for use in the diagnosis of diabetes mellitus and the identification of persons at risk for diabetes mellitus. <ref type="bibr" target="#b42">40</ref> Our results suggest that persons with prediabetes, when defined by HbA1c criteria, are at risk for not only the subsequent development of diabetes mellitus 3 but also for the progression of subclinical cardiac damage and ensuing cardiovascular events. There has been controversy regarding the categories used to define prediabetes, particularly the discordance between those persons identified using the recommended clinical cut points of 5.7% to 6.4% for HbA1c and 100 to 125 mg/dL for fasting glucose (impaired fasting glucose). Prediabetes, particularly when defined by HbA1c criteria, was associated with incident elevations of hs-cTnT and clinical outcomes, demonstrating that, whereas the prediabetes category of HbA1c identifies fewer people, <ref type="bibr" target="#b43">41</ref> persons with HbA1c 5.7% to 6.4% are at a higher risk of progression of myocardial damage compared with persons with impaired fasting glucose.</p><p>The 99th percentile of hs-cTnT was 22 ng/L at end of the 6-year follow-up period in this study population of participants who remained free of cardiovascular disease. This is higher than 14 ng/L, the 99th percentile of the healthy reference population defined by the manufacturer. There is currently much debate regarding approaches to defining the reference ranges for highly sensitive cardiac troponin assays in the general population <ref type="bibr" target="#b44">42,</ref><ref type="bibr" target="#b45">43</ref> ; reference values for these assays in the population have not yet been established.</p><p>Given the controversy regarding the clinical implications of racial differences in HbA1c, <ref type="bibr" target="#b46">44,</ref><ref type="bibr" target="#b47">45</ref> the lack of an interaction by race in our study is reassuring. We found that HbA1c diagnostic categories were associated with progression of myocardial damage and clinical outcomes in both blacks and whites, consistent with other studies suggesting no racial disparity in the prognostic value of HbA1c as a risk marker of microvascular or macrovascular outcomes. <ref type="bibr" target="#b48">[46]</ref><ref type="bibr" target="#b49">[47]</ref><ref type="bibr" target="#b50">[48]</ref> Persons with diabetes mellitus have a substantially elevated risk of cardiovascular events and death compared with persons without diabetes mellitus, even after accounting for major cardiovascular risk factors. <ref type="bibr" target="#b3">4,</ref><ref type="bibr" target="#b51">49</ref> Previous studies have also established robust associations between cardiac troponin T measured by the same assay as studied here and the incident development of heart failure, stroke, coronary heart disease, and all-cause mortality in community-based populations. <ref type="bibr" target="#b20">20,</ref><ref type="bibr" target="#b52">[50]</ref><ref type="bibr" target="#b53">[51]</ref><ref type="bibr" target="#b54">[52]</ref> A previous study has also shown that increases in hs-cTnT over 2 to 3 years are associated with a subsequent risk of heart failure and cardiovascular death. <ref type="bibr" target="#b52">50</ref> We have shown previously a cross-sectional association between HbA1c and hs-cTnT in the ARIC cohort. <ref type="bibr" target="#b22">21</ref> Our results extend these previous findings and support a possible deleterious effect of hyperglycemic states on the myocardium. We also found that persons with prediabetes or diabetes mellitus who subsequently developed subclinical myocardial damage-as indicated by an incident elevation of hs-cTnT at the 6-year follow-up visit-were at highest risk of clinical events, particularly heart failure and mortality. Furthermore, those persons without diabetes mellitus but who had incident elevated hs-cTnT were at similar or higher risk of heart failure and mortality compared with persons with diabetes mellitus but no incident elevation in hs-cTnT. Indeed, hs-cTnT significantly improved risk stratification for heart failure It is noteworthy that hs-cTnT was strongly associated with microvascular risk factors (eg, hypertension and diabetes mellitus) and only weakly associated with traditional atherosclerotic risk factors (eg, low-density lipoprotein cholesterol). Our previous work is also consistent with this finding that hs-cTnT reflects cardiac damage occurring via nonatherosclerotic mechanisms. <ref type="bibr" target="#b22">21,</ref><ref type="bibr" target="#b55">53</ref> The robust association between hyperglycemia and hs-cTnT may be mediated through microischemia because of the insufficiency of small intramyocardial arterioles (or possibly capillaries), reflecting primary small vessel disease, or it is possible that this may reflect myocardial hypertrophy, outstripping the capacity of the microvasculature to supply nutrients to the myocardium. Indeed, hyperglycemia-induced injury to the myocardium may be an important contributor to the growing epidemic of heart failure associated with diabetes mellitus and obesity. <ref type="bibr" target="#b56">54</ref> Recent large, randomized clinical trials of interventions to reduce cardiovascular risk in persons with diabetes mellitus or prediabetes have been disappointing. <ref type="bibr" target="#b57">[55]</ref><ref type="bibr" target="#b58">[56]</ref><ref type="bibr" target="#b59">[57]</ref><ref type="bibr" target="#b60">[58]</ref><ref type="bibr" target="#b61">[59]</ref> Major advances in the medical management of lipids and blood pressure over the past several decades and evidence of possible adverse effects of glucose-lowering drugs have complicated the interpretation of contemporary trials designed to further lower cardiovascular risk in persons with diabetes mellitus. A concern is that these interventions have been too little, too late, focusing on reducing risk in high-risk persons often with a history of cardiovascular disease or a long duration of diabetes mellitus who are already being aggressively managed. Recent trials have focused of the relatively narrow end point of combined hard cardiovascular events, typically incorporating fatal and nonfatal myocardial infarction, stroke, and coronary  ), sex (male or female), diabetes mellitus status (HbA1c &lt;5.7%, HbA1c 5.7% to 6.4%, diabetes mellitus diagnosis or HbA1c ≥6.5%), body mass index (kg/m 2 ), C-reactive protein (mg/L), smoking (current, former, or never), mean systolic blood pressure (mm Hg), low-density lipoprotein cholesterol (mg/dL), high-density lipoprotein cholesterol (mg/dL), triglycerides (mg/dL), estimated glomerular filtration rate (mL/min per 1.73 m 2 ), current use of hypertension medication (yes or no), current lipid-lowering medication use (yes or no), alcohol use (current, former, or never), and left ventricular hypertrophy (yes or no). In the analysis limited to persons with diabetes mellitus, diabetes status was not included in the model. October 14, 2014 heart disease. The Study to Prevent Non-Insulin-Dependent Diabetes Mellitus trial did demonstrate a significant reduction in cardiovascular risk (an a priori secondary outcome) in a high-risk prediabetes population treated with acarbose compared with placebo, although the total number of cardiovascular events was small (n=15 in the treatment arm and n=32 in the placebo arm). <ref type="bibr" target="#b62">60</ref> Nevertheless, there are scant data on the effect of glucose-lowering interventions in persons with prediabetes or diabetes mellitus with no clinical cardiovascular disease at the outset.</p><p>The current study had several limitations. We only had 2 measurements of hs-cTnT, 6 years apart, to characterize the progression of myocardial damage. Adjustment for left ventricular hypertrophy was limited to assessment using ECG data only, and, despite rigorous adjustment for potential confounding factors including demographics, blood pressure, lipids, adiposity, kidney function, and medication use, we cannot eliminate the possibility of residual confounding in this observational setting. Strengths of this study include the large community-based sample, rigorous measurement of traditional cardiovascular risk factors, and the availability of HbA1c and fasting glucose measurements to characterize prediabetes. The long-term follow-up of the ARIC cohort and active surveillance for cardiovascular events and deaths allowed us to conduct secondary analyses of incident cardiovascular outcomes.</p><p>In summary, this study provides evidence for a deleterious effect of hyperglycemia on the myocardium, even below the threshold for a diagnosis of diabetes mellitus. Furthermore, those persons with evidence of incident subclinical myocardial damage were at high risk for future mortality and cardiovascular events, particularly heart failure. With the growing dual epidemics of obesity and diabetes mellitus, these results underscore the importance preventing progression to early hyperglycemic states and the development of diabetes mellitus. Our results suggest that primary and secondary prevention of atherosclerotic disease in diabetes mellitus, for example, via statin therapy, may not be sufficient to fully address the cardiac risk associated with hyperglycemic states.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 2 .</head><label>2</label><figDesc>Figure 2. Adjusted hazard ratios (95% confidence intervals [CIs]) for the association of diabetes mellitus status with incident coronary heart disease (A), heart failure (B), and all-cause mortality (C) among persons with and without subsequent progression of myocardial damage as assessed by 6-year incident elevation (≥14 ng/L) in highly sensitive cardiac troponin T (hs-cTnT; n=8005). Downloaded from http://ahajournals.org by on June 30, 2021</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 . Characteristics of Study Participants Without Clinical Cardiovascular Disease and hs-cTnT &lt;14 ng/L at Baseline According to Prediabetes and Diabetes Mellitus Status (Visit 2, 1990-1992), From the Atherosclerosis Risk in Communities Study</head><label>1</label><figDesc></figDesc><table><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>Diabetes</cell></row><row><cell></cell><cell></cell><cell>No Diabetes</cell><cell></cell><cell>Mellitus</cell></row><row><cell></cell><cell></cell><cell>Mellitus</cell><cell>Prediabetes</cell><cell>(Diagnosis or</cell></row><row><cell></cell><cell>Overall</cell><cell>(HbA1c &lt;5.7%;</cell><cell>(HbA1c 5.7-6.4%;</cell><cell>HbA1c ≥6.5%;</cell></row><row><cell>Characteristic</cell><cell>(n=9051)</cell><cell>n=6259)</cell><cell>n=2090)</cell><cell>n=702)</cell></row><row><cell>Age, mean (SD), y</cell><cell>56.6 (5.6)</cell><cell>56.2 (5.6)</cell><cell>57.5 (5.7)</cell><cell>57.6 (5.7)</cell></row><row><cell>Male sex</cell><cell>41.6</cell><cell>41.1</cell><cell>44.1</cell><cell>38.9</cell></row><row><cell>Black race</cell><cell>20.5</cell><cell>12.6</cell><cell>36.1</cell><cell>41.3</cell></row><row><cell>Current smoker</cell><cell>19.8</cell><cell>17.7</cell><cell>26.8</cell><cell>18.5</cell></row><row><cell>Current drinker</cell><cell>59.5</cell><cell>64.6</cell><cell>52.1</cell><cell>38.7</cell></row><row><cell>Hypertension</cell><cell>30.2</cell><cell>24.6</cell><cell>38.5</cell><cell>53.2</cell></row><row><cell>BMI categories, kg/m 2</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Normal weight (BMI &lt;25)</cell><cell>32.5</cell><cell>38.6</cell><cell>22.5</cell><cell>10.9</cell></row><row><cell>Overweight (BMI 25-30)</cell><cell>40.7</cell><cell>41.5</cell><cell>40.7</cell><cell>34.5</cell></row><row><cell>Obese (BMI ≥30)</cell><cell>26.7</cell><cell>19.8</cell><cell>36.8</cell><cell>54.7</cell></row><row><cell>C-reactive protein, mg/L</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>&lt;1</cell><cell>25.4</cell><cell>30.4</cell><cell>16.6</cell><cell>9.6</cell></row><row><cell>1 to &lt;3</cell><cell>38.5</cell><cell>39.5</cell><cell>38.9</cell><cell>29.1</cell></row><row><cell>≥3</cell><cell>36.1</cell><cell>30.1</cell><cell>44.5</cell><cell>61.3</cell></row><row><cell>LDL cholesterol, mg/dL</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>&lt;100 (optimal)</cell><cell>16.8</cell><cell>18.1</cell><cell>13.4</cell><cell>15.3</cell></row><row><cell>100-129 (near optimal)</cell><cell>32.2</cell><cell>33.8</cell><cell>30.2</cell><cell>25.3</cell></row><row><cell>130-159 (borderline high)</cell><cell>30.1</cell><cell>29.7</cell><cell>30.4</cell><cell>32.9</cell></row><row><cell>160-189 (high)</cell><cell>14.9</cell><cell>13.6</cell><cell>17.9</cell><cell>17.2</cell></row><row><cell>≥190 (very high)</cell><cell>6.0</cell><cell>4.8</cell><cell>8.1</cell><cell>9.3</cell></row><row><cell>High triglycerides (≥150 mg/dL)</cell><cell>27.6</cell><cell>24.4</cell><cell>30.7</cell><cell>44.2</cell></row><row><cell>Low HDL cholesterol (&lt; 40 mg/dL)</cell><cell>26.3</cell><cell>23.3</cell><cell>30.9</cell><cell>37.8</cell></row><row><cell>Low eGFR creatinine (&lt;60 mL/min</cell><cell>1.0</cell><cell>0.8</cell><cell>1.2</cell><cell>1.2</cell></row><row><cell>per 1.73 m 2 )</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Left ventricular hypertrophy</cell><cell>1.7</cell><cell>1.2</cell><cell>2.8</cell><cell>3.5</cell></row><row><cell>Hs-cTnT categories, ng/L</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>&lt;5</cell><cell>69.2</cell><cell>72.9</cell><cell>64.1</cell><cell>52.6</cell></row><row><cell>5-8</cell><cell>23.1</cell><cell>20.9</cell><cell>26.3</cell><cell>32.1</cell></row><row><cell>9-13</cell><cell>7.8</cell><cell>6.2</cell><cell>9.6</cell><cell>15.3</cell></row></table><note>Estimates are percentages unless otherwise indicated. BMI indicates body mass index; eGFR, estimated glomerular filtration rate; HbA1c, hemoglobin A1c; HDL, high-density lipoprotein; hs-cTnT, cardiac troponin T measured with a highsensitivity assay; and LDL, low-density lipoprotein.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 . Adjusted Risk Ratios (95% CIs) for the Association of Prediabetes and Diabetes Mellitus With 6-Year Incident Elevated (≥14 ng/L) hs-cTnT at Visit 4 (1996-1998) According to Diagnostic Categories of Prediabetes and Diabetes Mellitus Defined by HbA1c and Stratified by Baseline Category of hs-cTnT at Visit 2 (1990-1992)</head><label>2</label><figDesc>Forsyth County), sex (male or female), body mass index (kg/m 2 ), C-reactive protein (mg/L), smoking (current, former, or never), mean systolic blood pressure (mm Hg), low-density lipoprotein cholesterol (mg/dL), high-density lipoprotein cholesterol (mg/ dL), triglycerides (mg/dL), estimated glomerular filtration rate (mL/min per 1.73 m 2 ), current use of hypertension medication (yes or no), current lipid-lowering medication use (yes or no), alcohol use (current, former, or never), and left ventricular hypertrophy (yes or no). CI indicates confidence interval; HbA1c, hemoglobin A1c; hs-cTnT, cardiac troponin T measured with a high-sensitivity assay; and RR, risk ratio.*P values for linear trend were obtained by numbering the categories 1 through 3 and including this categoric variable as a linear term in the model.</figDesc><table><row><cell></cell><cell></cell><cell cols="4">Baseline (Visit 2, 1990-1992) Troponin Group (n=9051)</cell><cell></cell></row><row><cell></cell><cell cols="2">&lt;5 ng/L (n=6259)</cell><cell cols="2">5-8 ng/L (n=2090)</cell><cell cols="2">9-13 ng/L (n=702)</cell></row><row><cell>HbA1c Diagnostic Criteria</cell><cell>n/N</cell><cell>RR (95% CI)</cell><cell>n/N</cell><cell>RR (95% CI)</cell><cell>n/N</cell><cell>RR (95% CI)</cell></row><row><cell>&lt;5.7% (no diabetes)</cell><cell>42/4509</cell><cell>1 (reference)</cell><cell>78/1290</cell><cell>1 (reference)</cell><cell>94/383</cell><cell>1 (reference)</cell></row><row><cell>5.7-6.4% (prediabetes)</cell><cell>25/1344</cell><cell>2.03 (1.19-3.48)</cell><cell>40/552</cell><cell>1.19 (0.78-1.81)</cell><cell>51/201</cell><cell>0.98 (0.62-1.56)</cell></row><row><cell>Diabetes mellitus (≥6.5% or diagnosis)</cell><cell>11/406</cell><cell>3.34 (1.60-6.98)</cell><cell>27/248</cell><cell>2.30 (1.35-3.92)</cell><cell>27/118</cell><cell>1.40 (0.77-2.57)</cell></row><row><cell>P for trend*</cell><cell></cell><cell>&lt;0.001</cell><cell></cell><cell>0.006</cell><cell></cell><cell>0.389</cell></row><row><cell cols="7">Data were adjusted for age (y), race-center (whites, Washington County; whites Minneapolis; blacks, Jackson; blacks, Forsyth County;</cell></row><row><cell>and whites,</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3 . C Statistics and Differences in C Statistics for Clinical Events (Coronary Heart Disease, Heart Failure, and All-Cause Mortality) From Models With and Without Incident Elevated hs-cTnT in the Overall Population and Among Persons With Diabetes Mellitus</head><label>3</label><figDesc></figDesc><table><row><cell></cell><cell cols="3">Coronary Heart Disease</cell><cell></cell><cell>Heart Failure</cell><cell></cell><cell cols="2">All-Cause Mortality</cell></row><row><cell>Model</cell><cell cols="9">C Statistic Difference P Value C Statistic Difference P Value C Statistic Difference P Value</cell></row><row><cell>Overall population (n=8005)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Base model*</cell><cell cols="2">0.7093 Reference</cell><cell>-</cell><cell cols="2">0.7447 Reference</cell><cell>-</cell><cell cols="2">0.7199 Reference</cell><cell>-</cell></row><row><cell>+ elevated hs-cTnT</cell><cell>0.7118</cell><cell>0.0025</cell><cell>0.085</cell><cell>0.7541</cell><cell cols="3">0.0094 &lt;0.001 0.7237</cell><cell>0.0038</cell><cell>0.005</cell></row><row><cell>Persons with diabetes mellitus (n=569)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Base model*</cell><cell cols="2">0.6519 Reference</cell><cell>-</cell><cell cols="2">0.6860 Reference</cell><cell>-</cell><cell cols="2">0.6871 Reference</cell><cell>-</cell></row><row><cell>+ elevated hs-cTnT</cell><cell>0.6551</cell><cell>0.0033</cell><cell>0.173</cell><cell>0.6998</cell><cell>0.0139</cell><cell cols="2">0.001 0.6941</cell><cell>0.0070</cell><cell>0.002</cell></row></table><note>hs-cTnT indicates cardiac troponin T measured with a high-sensitivity assay; HbA1c, hemoglobin A1c. *Base model includes: age (y), race-center (whites, Washington County; whites, Minneapolis; blacks, Jackson; blacks, Forsyth County; and whites, Forsyth County</note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">Downloaded from http://ahajournals.org by onJune 30, 2021   </note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">CirculationOctober 14, 2014</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgments</head><p>We thank the staff and participants of the ARIC Study for their important contributions. Reagents for the high-sensitivity cardiac troponin and C-reactive protein assays were donated by Roche Diagnostics.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sources of Funding</head><p>This research was supported by National Institutes of Health/National Institute of Diabetes and Digestive and Kidney Diseases grant R01 DK089174 to Dr Selvin. The ARIC study is carried out as a collaborative study supported by National Heart, Lung, and Blood Institute contracts (HHSN268201100005C, HHSN268201100006C, HHSN 268201100007C, HHSN268201100008C, HHSN268201100009C, HHSN268201100010C, HHSN268201100011C, and HHSN26820 1100012C).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosures</head><p>Drs Hoogeveen and Ballantyne have received grant support from Roche Diagnostics and are coinvestigators on a provisional patent filed by Roche for use of biomarkers in heart failure prediction. The other authors report no conflicts.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CLINICAL PERSPECTIVE</head><p>Persons with prediabetes and diabetes mellitus are at high risk for cardiovascular events. However, the relationships of prediabetes and diabetes mellitus to the development of subclinical myocardial damage are unclear. We evaluated the associations of diabetes mellitus and prediabetes with the development of subclinical myocardial damage, as assessed by an incident elevation (≥14 ng/L) in cardiac troponin T measured with a highly sensitive assay during 6 years of follow-up. We also evaluated the subsequent risk of cardiovascular events and deaths by diabetes mellitus status among those persons with and without incident elevations in the high-sensitivity assay for cardiac troponin T. We found that both prediabetes and diabetes mellitus were independently associated with the development of subclinical myocardial damage. Furthermore, those persons with evidence of incident subclinical myocardial damage were at high risk for the future mortality and cardiovascular events, particularly heart failure. These results support a possible deleterious effect of hyperglycemia on the myocardium, possibly reflecting a microvascular cause. With the growing dual epidemics of obesity and diabetes mellitus, these results underscore the importance of preventing progression to early hyperglycemic states and the development of diabetes mellitus. Our results suggest that primary and secondary prevention of atherosclerotic disease in diabetes mellitus, for example via statin therapy, may not be sufficient to fully address the cardiac risk associated with hyperglycemic states. There is a possibility that the major improvements we have seen in cardiovascular morbidity and mortality over the past several decades may be disrupted by the epidemic of diabetes mellitus and prediabetes.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Prognostic significance of silent myocardial infarction in newly diagnosed type 2 diabetes mellitus: United Kingdom Prospective Diabetes Study (UKPDS) 79</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">M</forename><surname>Davis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Coleman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rr; Ukpds</forename><surname>Holman</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Group</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">127</biblScope>
+			<biblScope unit="page" from="980" to="987" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Elevated risk of cardiovascular disease prior to clinical diagnosis of type 2 diabetes</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">B</forename><surname>Hu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Stampfer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Haffner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">G</forename><surname>Solomon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">C</forename><surname>Willett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Manson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="1129" to="1134" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Glycated hemoglobin, diabetes, and cardiovascular risk in nondiabetic adults</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Selvin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">W</forename><surname>Steffes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Zhu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Matsushita</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Wagenknecht</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Pankow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Coresh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">L</forename><surname>Brancati</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">362</biblScope>
+			<biblScope unit="page" from="800" to="811" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Emerging Risk Factors Collaboration. Diabetes mellitus, fasting glucose, and risk of cause-specific death</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Seshasai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kaptoge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Thompson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Di</forename><surname>Angelantonio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Gao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Sarwar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Whincup</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">H</forename><surname>Mukamal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename><surname>Gillum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">F</forename><surname>Holme</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Njølstad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Fletcher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Nilsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Lewington</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Collins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Gudnason</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Thompson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">G</forename><surname>Sattar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Selvin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Hu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">B</forename><surname>Danesh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">364</biblScope>
+			<biblScope unit="page" from="829" to="841" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Markers of dysglycaemia and risk of coronary heart disease in people without diabetes: Reykjavik prospective study and systematic review</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Sarwar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Aspelund</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Eiriksdottir</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Gobin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Seshasai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">G</forename><surname>Forouhi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Sigurdsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Danesh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Gudnason</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS Med</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">e1000278</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Coronary flow reserve is reduced in young men with IDDM</title>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">P</forename><surname>Pitkänen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Nuutila</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">T</forename><surname>Raitakari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Rönnemaa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Koskinen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Iida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Lehtimäki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">K</forename><surname>Laine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Takala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Viikari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Knuuti</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="248" to="254" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Reduced myocardial flow reserve in non-insulin-dependent diabetes mellitus</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Yokoyama</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Momomura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Ohtake</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Yonekura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Nishikawa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Sasaki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Omata</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Coll Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="1472" to="1477" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Impairment of coronary vascular reserve and ACh-induced coronary vasodilation in diabetic patients with angiographically normal coronary arteries and normal left ventricular systolic function</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Nitenberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Valensi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Sachs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Dali</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Aptecar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Attali</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="1017" to="1025" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Prevalence and determinants of troponin T elevation in the general population</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">W</forename><surname>Wallace</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Abdullah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Drazner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Das</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Khera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">K</forename><surname>Mcguire</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Wians</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Sabatine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Morrow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>De Lemos</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">113</biblScope>
+			<biblScope unit="page" from="1958" to="1965" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Role of chronic hyperglycemia in the pathogenesis of coronary microvascular dysfunction in diabetes</title>
+		<author>
+			<persName><forename type="first">Di</forename><surname>Carli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">F</forename><surname>Janisse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Grunberger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Ager</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Coll Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="1387" to="1393" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Dysglycaemia, vasculopenia, and the chronic consequences of diabetes</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Gerstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">H</forename><surname>Werstuck</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Diabetes Endocrinol</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="71" to="78" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Coronary artery calcification in type 2 diabetes and insulin resistance: the Framingham offspring study</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Meigs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Larson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>'agostino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Levy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Clouse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Nathan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Wilson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">W</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O'</forename><surname>Donnell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="1313" to="1319" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">S</forename><surname>Moebus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Stang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Möhlenkamp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Dragano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Schmermund</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Slomiany</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Hoffmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bauer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Broecker-Preuss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Mann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Siegrist</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Erbel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">H</forename><surname>Jöckel</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Association of impaired fasting glucose and coronary artery calcification as a marker of subclinical atherosclerosis in a population-based cohort-results of the Heinz Nixdorf Recall Study</title>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="81" to="89" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+		<respStmt>
+			<orgName>Heinz Nixdorf Recall Study Group</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Insulin resistance independently predicts the progression of coronary artery calcification</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">K</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Fortmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Fair</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Iribarren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">D</forename><surname>Rubin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Varady</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Go</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Quertermous</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Hlatky</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am Heart J</title>
+		<imprint>
+			<biblScope unit="volume">157</biblScope>
+			<biblScope unit="page" from="939" to="945" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Relation of carotid artery wall thickness to diabetes mellitus, fasting glucose and insulin, body size, and physical activity</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Folsom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Eckfeldt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Weitzman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">E</forename><surname>Chambless</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Barnes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">B</forename><surname>Cram</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">G</forename><surname>Hutchinson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Atherosclerosis Risk in Communities (ARIC) Study Investigators. Stroke</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="66" to="73" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">The association between A1C and subclinical cardiovascular disease: the multi-ethnic study of atherosclerosis</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Mcneely</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Mcclelland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Bild</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Jacobs</surname><genName>Jr</genName></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Tracy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Cushman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Goff</surname><genName>Jr</genName></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">C</forename><surname>Astor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Shea</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Siscovick</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="1727" to="1733" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Analytical validation of a high-sensitivity cardiac troponin T assay</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Giannitsis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kurz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Hallermayer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Jarausch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Jaffe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">A</forename><surname>Katus</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Chem</title>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="page" from="254" to="261" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Evaluation of high-sensitivity assays for cardiac troponin</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Morrow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Antman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Chem</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="5" to="8" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Detection of acute changes in circulating troponin in the setting of transient stress test-induced myocardial ischaemia using an ultrasensitive assay: results from TIMI 35</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Sabatine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Morrow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>De Lemos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Jarolim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Braunwald</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur Heart J</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="162" to="169" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Saunders</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Nambi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>De Lemos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">E</forename><surname>Chambless</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Virani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Boerwinkle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Hoogeveen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">C</forename><surname>Astor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">H</forename><surname>Mosley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Folsom</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Cardiac troponin T measured by a highly sensitive assay predicts coronary heart disease, heart failure, and mortality in the Atherosclerosis Risk in Communities Study</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Heiss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Coresh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Ballantyne</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">123</biblScope>
+			<biblScope unit="page" from="1367" to="1376" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Chronic hyperglycemia and subclinical myocardial injury</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Rubin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Matsushita</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Ballantyne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Hoogeveen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Coresh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Selvin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Coll Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">59</biblScope>
+			<biblScope unit="page" from="484" to="489" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Association between blood glucose levels and high-sensitivity cardiac troponin T in an overt cardiovascular disease-free community-based study</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Zheng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Ye</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Luo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Xiao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Wu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Res Clin Pract</title>
+		<imprint>
+			<biblScope unit="volume">97</biblScope>
+			<biblScope unit="page" from="139" to="145" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">The ARIC investigators. The Atherosclerosis Risk in Communities (ARIC) study: design and objectives</title>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">129</biblScope>
+			<biblScope unit="page" from="687" to="702" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title level="m" type="main">American Diabetes A. Standards of medical care in diabetes: 2013. Diabetes Care</title>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="S11" to="S66" />
+		</imprint>
+	</monogr>
+	<note>suppl</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Calibration of analytes over twenty-five years in the atherosclerosis risk in communities study</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Parrinello</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Grams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Couper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Ballantyne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Hoogeveen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Eckfeldt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Selvin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Coresh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Heart Association Epidemiology and Prevention and Nutrition</title>
+		<imprint>
+			<biblScope unit="volume">129</biblScope>
+			<biblScope unit="page">P018</biblScope>
+			<date type="published" when="2014">2014. 2014</date>
+		</imprint>
+	</monogr>
+	<note>Physical Activity and Metabolism. Scientific Sessions</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Measurement of HbA1c from stored whole blood samples in the Atherosclerosis Risk in Communities study</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Selvin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Coresh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Zhu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Folsom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">W</forename><surname>Steffes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Diabetes</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="118" to="124" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Reagent for the enzymatic determination of serum total cholesterol with improved lipolytic efficiency</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Siedel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">O</forename><surname>Hägele</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ziegenhorn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">W</forename><surname>Wahlefeld</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Chem</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="1075" to="1080" />
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Estimation of the concentration of low-density lipoprotein cholesterol in plasma, without use of the preparative ultracentrifuge</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">T</forename><surname>Friedewald</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">I</forename><surname>Levy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Fredrickson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Chem</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="499" to="502" />
+			<date type="published" when="1972">1972</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Reagent for the enzymatic determination of serum total triglycerides with improved lipolytic efficiency</title>
+		<author>
+			<persName><forename type="first">U</forename><surname>Nägele</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">O</forename><surname>Hägele</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Sauer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Wiedemann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Lehmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">W</forename><surname>Wahlefeld</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Gruber</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Chem Clin Biochem</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="165" to="174" />
+			<date type="published" when="1984">1984</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<title level="m" type="main">Clinical Chemistry Determinations, Version 1.0. Chapel Hill</title>
+		<author>
+			<persName><surname>Operations Manual No</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1987">1987</date>
+			<publisher>ARIC Coordinating Center, School of Public Health</publisher>
+			<pubPlace>NC</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>University of North Carolina</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Cohort Component Procedures, Version 1.0. Chapel Hill</title>
+	</analytic>
+	<monogr>
+		<title level="j">Operations Manual</title>
+		<imprint>
+			<biblScope unit="issue">2</biblScope>
+			<date type="published" when="1987">1987</date>
+			<publisher>ARIC Coordinating Center, School of Public Health</publisher>
+		</imprint>
+		<respStmt>
+			<orgName>University of North Carolina</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<title level="m" type="main">Sitting Blood Pressure, Version 1.0. Chapel Hill</title>
+		<author>
+			<persName><surname>Operations Manual No</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1987">1987</date>
+			<publisher>ARIC Coordinating Center, School of Public Health</publisher>
+			<pubPlace>NC</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>University of North Carolina</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Levey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Stevens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">H</forename><surname>Schmid</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">L</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">F</forename><surname>Castro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">I</forename><surname>Feldman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Kusek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Eggers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Van Lente</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Greene</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Coresh</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Chronic Kidney Disease Epidemiology Collaboration). A new equation to estimate glomerular filtration rate</title>
+		<author>
+			<persName><surname>Ckd-Epi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">150</biblScope>
+			<biblScope unit="page" from="604" to="612" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Improved sex-specific criteria of left ventricular hypertrophy for clinical and computer interpretation of electrocardiograms: validation with autopsy findings</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">N</forename><surname>Casale</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Devereux</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Alonso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Campo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Kligfield</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">75</biblScope>
+			<biblScope unit="page" from="565" to="572" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Stroke incidence and survival among middle-aged adults: 9-year follow-up of the Atherosclerosis Risk in Communities (ARIC) cohort</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">D</forename><surname>Rosamond</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Folsom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">E</forename><surname>Chambless</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">H</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">G</forename><surname>Mcgovern</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Howard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">S</forename><surname>Copper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Shahar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stroke</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="736" to="743" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Community surveillance of coronary heart disease in the Atherosclerosis Risk in Communities (ARIC) study: methods and initial two years&apos; experience</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>White</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Folsom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">E</forename><surname>Chambless</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Sharret</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Conwill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Higgins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">D</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">A</forename><surname>Tyroler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="223" to="233" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Classification of heart failure in the Atherosclerosis Risk in Communities (ARIC) study: a comparison of diagnostic criteria</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">D</forename><surname>Rosamond</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">P</forename><surname>Chang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Baggett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">G</forename><surname>Bertoni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Shahar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Deswal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Heiss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">E</forename><surname>Chambless</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circ Heart Fail</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="152" to="159" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Sources of variability in measurements of cardiac troponin T in a community-based sample: the Atherosclerosis Risk in Communities study</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Agarwal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Avery</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Ballantyne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Catellier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Nambi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Saunders</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Sharrett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Coresh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Heiss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Hoogeveen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Chem</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="page" from="891" to="897" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Multivariable prognostic models: issues in developing models, evaluating assumptions and adequacy, and measuring and reducing errors</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">E</forename><surname>Harrell</surname><genName>Jr</genName></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">L</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Mark</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stat Med</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="361" to="387" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<monogr>
+		<title level="m" type="main">Standards of medical care in diabetes: 2010. Diabetes Care</title>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="S11" to="S61" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Trends in prevalence and control of diabetes in the United States</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Selvin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Parrinello</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Sacks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Coresh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">160</biblScope>
+			<biblScope unit="page" from="517" to="525" />
+			<date type="published" when="1988">1988-1994 and 1999-2010. 2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">The global need to define normality: the 99 th percentile value of cardiac troponin</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Sandoval</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">S</forename><surname>Apple</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Chem</title>
+		<imprint>
+			<biblScope unit="volume">60</biblScope>
+			<biblScope unit="page" from="455" to="462" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Age-and sex-dependent upper reference limits for the high-sensitivity cardiac troponin T assay</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">O</forename><surname>Gore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Seliger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Defilippi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Nambi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Christenson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">A</forename><surname>Hashim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Hoogeveen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Ayers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Sun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">K</forename><surname>Mcguire</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Ballantyne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>De Lemos</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Coll Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">63</biblScope>
+			<biblScope unit="page" from="1441" to="1448" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Racial differences in glycemic markers: a cross-sectional analysis of community-based data</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Selvin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">W</forename><surname>Steffes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Ballantyne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Hoogeveen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Coresh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">L</forename><surname>Brancati</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">154</biblScope>
+			<biblScope unit="page" from="303" to="309" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">A conundrum addressed: the prognostic value of HbA1c</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Selvin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">L</forename><surname>Brancati</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat Rev Endocrinol</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note>c1; author reply c2</note>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">No racial differences in the association of glycated hemoglobin with kidney disease and cardiovascular outcomes</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Selvin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Rawlings</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Bergenstal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Coresh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">L</forename><surname>Brancati</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="2995" to="3001" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">HbA1c and heart failure risk among diabetic patients</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">T</forename><surname>Katzmarzyk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Horswell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Hu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Endocrinol Metab</title>
+		<imprint>
+			<biblScope unit="volume">99</biblScope>
+			<biblScope unit="page" from="E263" to="E267" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">No ethnic differences in the association of glycated hemoglobin with retinopathy: the National Health and Nutrition Examination Survey</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Bower</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">L</forename><surname>Brancati</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Selvin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="569" to="573" />
+			<date type="published" when="2005">2005-2008. 2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Emerging Risk Factors Collaboration. Diabetes mellitus, fasting blood glucose concentration, and risk of vascular disease: a collaborative meta-analysis of 102 prospective studies</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Sarwar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Gao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Seshasai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Gobin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kaptoge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Di</forename><surname>Angelantonio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Ingelsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Lawlor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Selvin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Stampfer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Stehouwer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Lewington</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Pennells</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Thompson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sattar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>White</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">R</forename><surname>Ray</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">K</forename><surname>Danesh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">375</biblScope>
+			<biblScope unit="page" from="2215" to="2222" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Association of serial measures of cardiac troponin T using a sensitive assay with incident heart failure and cardiovascular mortality in older adults</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Defilippi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>De Lemos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Christenson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Gottdiener</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">J</forename><surname>Kop</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Zhan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Seliger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">304</biblScope>
+			<biblScope unit="page" from="2494" to="2502" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Association of troponin T detected with a highly sensitive assay and cardiac structure and mortality risk in the general population</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>De Lemos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Drazner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Omland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Ayers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Khera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rohatgi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Hashim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Berry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Das</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Morrow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">K</forename><surname>Mcguire</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">304</biblScope>
+			<biblScope unit="page" from="2503" to="2512" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Troponin T, N-terminal pro-B-type natriuretic peptide, and incidence of stroke: the atherosclerosis risk in communities study</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Folsom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Nambi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Bell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">W</forename><surname>Oluleye</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">F</forename><surname>Gottesman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">L</forename><surname>Lutsey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Huxley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Ballantyne</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stroke</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page" from="961" to="967" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Hyperglycemia and arterial stiffness: the Atherosclerosis Risk in the Communities study</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Rubin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Nambi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">E</forename><surname>Chambless</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">W</forename><surname>Steffes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Juraschek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Coresh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Sharrett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Selvin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Atherosclerosis</title>
+		<imprint>
+			<biblScope unit="volume">225</biblScope>
+			<biblScope unit="page" from="246" to="251" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">Glucose, obesity, metabolic syndrome, and diabetes relevance to incidence of heart failure</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">B</forename><surname>Horwich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">C</forename><surname>Fonarow</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Coll Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="283" to="293" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">Cardiovascular outcomes in trials of oral diabetes medications: a systematic review</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Selvin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bolen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Yeh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Wiley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Wilson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Marinopoulos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Feldman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Vassy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Wilson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">B</forename><surname>Bass</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">L</forename><surname>Brancati</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">168</biblScope>
+			<biblScope unit="page" from="2070" to="2080" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<title level="a" type="main">Effect of intensive glucose lowering treatment on all cause mortality, cardiovascular death, and microvascular events in type 2 diabetes: metaanalysis of randomised controlled trials</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Boussageon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Bejan-Angoulvant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Saadatian-Elahi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lafont</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Bergeonneau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Kassaï</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Erpeldinger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Wright</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Gueyffier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Cornu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMJ</title>
+		<imprint>
+			<biblScope unit="volume">343</biblScope>
+			<biblScope unit="page">4169</biblScope>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main">Cardiovascular effects of intensive lifestyle intervention in type 2 diabetes</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Wing</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Bolin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">L</forename><surname>Brancati</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Bray</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Clark</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Coday</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Crow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Curtis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Egan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Espeland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Evans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Foreyt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ghazarian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">W</forename><surname>Gregg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Harrison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">P</forename><surname>Hazuda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">O</forename><surname>Hill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Horton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">S</forename><surname>Hubbard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Jakicic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Jeffery</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">C</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Kahn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Kitabchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">C</forename><surname>Knowler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Lewis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Maschak-Carey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Montez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Murillo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Nathan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Patricio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Peters</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Pi-Sunyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Pownall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Reboussin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Regensteiner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>Rickman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H</forename><surname>Ryan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Safford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Wadden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">E</forename><surname>Wagenknecht</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>West</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">F</forename><surname>Williamson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sz; Look Ahead Research</forename><surname>Yanovski</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Group</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">369</biblScope>
+			<biblScope unit="page" from="145" to="154" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title level="a" type="main">ORIGIN Trial Investigators. Basal insulin and cardiovascular and other outcomes in dysglycemia</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Gerstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Bosch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">R</forename><surname>Dagenais</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Díaz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Jung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Maggioni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Pogue</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Probstfield</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ramachandran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Riddle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">E</forename><surname>Rydén</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Yusuf</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">367</biblScope>
+			<biblScope unit="page" from="319" to="328" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Holman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Haffner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Mcmurray</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Bethel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Holzhauer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Hua</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Belenkov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Boolell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Buse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">M</forename><surname>Buckley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Chacra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">T</forename><surname>Chiang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Charbonnel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Chow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Davies</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Deedwania</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Diem</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Einhorn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Fonseca</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">R</forename><surname>Fulcher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Gaciong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Gaztambide</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Giles</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Horton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ilkova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Jenssen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Kahn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Krum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Laakso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Leiter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">S</forename><surname>Levitt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Mareev</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Martinez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Masson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Mazzone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Meaney</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Nesto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Pan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Prager</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Raptis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Rutten</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Sandstroem</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Schaper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Scheen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Schmitz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Sinay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Soska</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Stender</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Tamás</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Tognoni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tuomilehto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Villamil</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Vozár</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Califf</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">362</biblScope>
+			<biblScope unit="page" from="1463" to="1476" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+		<respStmt>
+			<orgName>NAVIGATOR Study Group</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Chiasson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">G</forename><surname>Josse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Gomis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hanefeld</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Karasik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Laakso</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<analytic>
+		<title level="a" type="main">Acarbose treatment and the risk of cardiovascular disease and hypertension in patients with impaired glucose tolerance: the STOP-NIDDM trial</title>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">290</biblScope>
+			<biblScope unit="page" from="486" to="494" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+		<respStmt>
+			<orgName>STOP-NIDDM Trial Research Group</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

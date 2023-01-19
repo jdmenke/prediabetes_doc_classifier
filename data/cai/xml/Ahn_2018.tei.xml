@@ -1,0 +1,1126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Sex difference in the effect of the fasting serum glucose level on the risk of coronary heart disease</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2017-09-04">4 September 2017</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Song</forename><surname>Vogue</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Preventive Medicine</orgName>
+								<orgName type="institution">Yonsei University Wonju College of Medicine</orgName>
+								<address>
+									<settlement>Wonju</settlement>
+									<country key="KR">South Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Hyeon</forename><surname>Chang</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Institute of Genomic Cohort</orgName>
+								<orgName type="institution">Yonsei University</orgName>
+								<address>
+									<settlement>Wonju</settlement>
+									<country key="KR">South Korea</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Preventive Medicine</orgName>
+								<orgName type="institution">Yonsei University College of Medicine</orgName>
+								<address>
+									<settlement>Seoul</settlement>
+									<country key="KR">South Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>PhD, FAHA</roleName><forename type="first">Chung</forename><surname>Mo</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Preventive Medicine</orgName>
+								<orgName type="institution">Yonsei University College of Medicine</orgName>
+								<address>
+									<settlement>Seoul</settlement>
+									<country key="KR">South Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName><roleName>MD</roleName><forename type="first">Il</forename><surname>Suh</surname></persName>
+							<email>isuh@yuhs.ac</email>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Preventive Medicine</orgName>
+								<orgName type="institution">Yonsei University College of Medicine</orgName>
+								<address>
+									<settlement>Seoul</settlement>
+									<country key="KR">South Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Preventive Medicine</orgName>
+								<orgName type="institution">Yonsei University College of Medicine</orgName>
+								<address>
+									<addrLine>50-1 Yonsei-ro, Seodaemun-gu</addrLine>
+									<postCode>03722</postCode>
+									<settlement>Seoul</settlement>
+									<country key="KR">South Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Sex difference in the effect of the fasting serum glucose level on the risk of coronary heart disease</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2017-09-04">4 September 2017</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">ECDDD4020FC9D6C616D2137BADB9B440</idno>
+					<idno type="DOI">10.1016/j.jjcc.2017.07.013</idno>
+					<note type="submission">Received 4 April 2017 Received in revised form 14 July 2017 Accepted 31 July 2017</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.1" ident="GROBID" when="2022-07-19T23:01+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>Glucose Coronary heart disease Diabetes mellitus Women Prospective study</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Materials and methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study population</head><p>Data were collected from the Korea Medical Insurance Corporation (KMIC) study. The KMIC provides health insurance to civil service workers, teachers, and their dependents in South Korea. Of the entire South Korean population (approximately 43 million in 1990), 4,603,361 (11%) were insured by KMIC, including 1,213,594 workers and their 3,389,767 dependents in 1990. All insured workers are required to participate in biennial medical examinations performed by the KMIC. The KMIC study</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>Type 2 diabetes is one of the fastest growing public health problems worldwide <ref type="bibr" target="#b0">[1]</ref><ref type="bibr" target="#b1">[2]</ref><ref type="bibr" target="#b2">[3]</ref>. Diabetes is a risk factor for cardiovascular disease, and the risk of coronary heart disease (CHD) in diabetic individuals is at least 2-fold greater than that in non-diabetic individuals <ref type="bibr" target="#b3">[4]</ref><ref type="bibr" target="#b4">[5]</ref><ref type="bibr" target="#b5">[6]</ref>. Glucose level cut-offs for diagnosing diabetes are mainly based on what has been considered a threshold for microvascular complications such as retinopathy <ref type="bibr" target="#b6">[7]</ref>. There is still a limited scientific understanding of the relationship between a wide range of blood glucose levels and macrovascular complications.</p><p>Women have a lower cardiovascular mortality rate than men <ref type="bibr" target="#b7">[8]</ref>. Interestingly, women with diabetes have an increased relative risk of CHD compared to women without diabetes, which is approximately twice as high as that in men with diabetes <ref type="bibr" target="#b8">[9]</ref><ref type="bibr" target="#b9">[10]</ref><ref type="bibr" target="#b10">[11]</ref><ref type="bibr" target="#b11">[12]</ref><ref type="bibr" target="#b12">[13]</ref><ref type="bibr" target="#b13">[14]</ref>. These findings assert that diabetes weakens the advantages of being female. However, few studies have investigated the effect of the sex difference and fasting serum glucose levels below the diabetic range on the risk of CHD. Therefore, we investigated the association between fasting serum glucose levels and the incident risk of CHD, and we evaluated whether the association between nondiabetic blood glucose levels and the risk of CHD is different between men and women. cohort consisted of 115,200 men and 67,932 women aged 35-59 years who underwent health examinations in 1990 (95% participation rate) and 1992 (94% participation rate). The study was composed of a 25% random sample of male workers and all female workers <ref type="bibr" target="#b14">[15]</ref>. Data on fasting serum glucose levels and major cardiovascular risk factors for 108,461 men and 64,119 women were available. After excluding 8317 men and 4561 women who reported any diagnosed diseases at baseline, we enrolled 100,144 men and 59,558 women for the analyses (Fig. <ref type="figure" target="#fig_0">1</ref>). The study was approved by the Institutional Review Board of Severance Hospital at Yonsei University.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data collection</head><p>The KMIC biennial examinations were conducted in a standard manner by medical staff at local hospitals. In 1990, examinations were conducted at 416 hospitals. Participants' smoking history, alcohol consumption, physical activity, and health status were assessed by self-administered questionnaires in 1992. Participants' weight, height, fasting serum glucose level, total cholesterol level, and systolic and diastolic blood pressures were measured in 1990 and 1992, and the values were averaged for analysis. Each hospital that participated in the assessments followed internal and external quality control procedures, as stipulated by the Korean Society of Quality Control in Clinical Pathology <ref type="bibr" target="#b15">[16,</ref><ref type="bibr" target="#b16">17]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Main outcome measures</head><p>Primary outcome measures were incidence and mortality of CHD. CHD was defined by the International Classification of Diseases, 10th revision (ICD-10) codes I20-I25 [angina pectoris, acute myocardial infarction (MI), subsequent acute MI, other acute ischemic heart disease, and chronic ischemic heart disease]. Nonfatal outcomes were ascertained from diagnoses from health insurance claims data, and fatal outcomes were collected from causes of death on death certificates from the National Statistical Office. For individuals with more than one event, whether fatal or non-fatal, only the first event was used in the analyses. The followup period was 11 years from January 1, 1993 to December 31, 2003.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analysis</head><p>Data are expressed as means with standard deviations or frequencies with percentages. We stratified study participants into four groups: normal fasting glucose level &lt;100 mg/dL, impaired fasting glucose (IFG) level of 100-109 mg/dL, IFG level of 110-125 mg/dL, and diabetic fasting serum glucose level !126 mg/dL. The IFG group was divided into two stages that corresponded to the old and new American Diabetes Association criteria: fasting glucose levels of 100-109 and 110-125 mg/dL <ref type="bibr" target="#b17">[18]</ref>. We used a log-rank test to evaluate differences in the cumulative survival among the groups according to baseline fasting glucose levels and sex. The independent effects of fasting serum glucose levels on CHD were analyzed using the Cox proportional hazard models, after adjusting for age, body mass index, blood pressure, total cholesterol level, and cigarette smoking status. A log-likelihood ratio test was performed to test the significance of the interaction term of sex with the fasting serum glucose levels for CHD. Hazard ratios (HRs) with 95% confidence intervals (CIs) were calculated for the incident risk of CHD. Values of p &lt; 0.05 were considered statistically significant, and all analyses were performed using SAS version 9.4 (SAS Institute, Cary, NC, USA) and R version 3.4.0 (R Development Core Team, Austria).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>During the 11-year follow-up, 2503 men and 656 women developed CHD. The general characteristics of the study participants are presented in Table <ref type="table" target="#tab_0">1</ref> according to the baseline fasting serum glucose categories. The increasing categories of the fasting serum glucose level were associated with a higher mean age, body mass index, total cholesterol level, and systolic and diastolic blood pressures in both sexes.</p><p>Table <ref type="table">2</ref> presents the number of events from CHD for 100,144 men and 59,558 women. During the 11-year follow-up, a total of 3159 (2503 in men and 656 in women) CHD events occurred. The crude mortality rates for CHD were 27.6 per 100,000 person-years in men and 5.5 per 100,000 person-years in women.</p><p>Fig. <ref type="figure">2</ref> shows the Kaplan-Meier curve for survival from CHD according to baseline fasting glucose levels and sex. Among participants with a normal fasting glucose level and IFG level of 100-125 mg/dL, the survival probability from CHD was higher in women than in men (p for log-rank test &lt;0.001). However, among participants with a diabetic fasting serum glucose level, the difference in the survival from CHD between men and women was not significant (p = 0.934).</p><p>Table <ref type="table" target="#tab_1">3</ref> shows the HRs for CHD according to baseline fasting serum glucose levels. The HRs in men increased at a diabetic fasting serum glucose level (!126 mg/dL) compared to a normal fasting serum glucose level (&lt;100 mg/dL), whereas the HRs in women increased from an IFG level !110 mg/dL. Compared to men with normal fasting glucose level &lt;100 mg/dL, the multivariableadjusted HRs in men with IFG level of 110-125 mg/dL and men with diabetic fasting glucose level !126 mg/dL were 1.07 (95% CI 0.92-1.25) and 1.92 (95% CI 1.70-2.16), respectively. Among women, the multivariable-adjusted HR in women with IFG level of 110-125 mg/dL and women with diabetic fasting glucose level !126 mg/dL were 1.62 (95% CI 1.11-2.36) and 2.85 (95% CI 2.11-3.85), respectively. The sex difference in HRs for CHD was statistically significant (p for interaction with sex = 0.021, multivariable-adjusted model).</p><p>We also demonstrated differences in the mean levels of baseline risk factors between men with and without diabetes compared to women with and without diabetes (Supplementary Table <ref type="table" target="#tab_0">1</ref>). Differences in the baseline levels of the body mass index, systolic blood pressure, and total cholesterol among participants with and without diabetes were significantly greater in women than in men.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>This was a longitudinal study with a large sample size and longterm follow-up period, which enabled us to investigate the relationship between several fasting serum glucose levels and the incident risk of CHD in men and women. The relative risks of CHD in women increased from a prediabetic range (!110 mg/dL), whereas those in men increased at a diabetic range (!126 mg/dL). Women had higher HRs for CHD than men, and differences in HRs between men and women were statistically significant. Previous studies have reported that the relative risk of cardiovascular disease increases more in women than in men <ref type="bibr" target="#b8">[9,</ref><ref type="bibr" target="#b9">10,</ref><ref type="bibr" target="#b18">19,</ref><ref type="bibr" target="#b19">20]</ref>. Our findings are in agreement with the results of previous studies that showed that the diabetic range of fasting serum glucose was associated with a more significant CHD risk in women than in men after adjusting for major cardiovascular risk factors. Moreover, the interesting aspect of our study is that the prediabetic range of fasting serum glucose was associated with CHD only in women. Few studies have investigated the sex difference on the CHD risk in association with hyperglycemia lower than the diabetic range. The Framingham study reported that the incidence of cardiovascular disease was positively associated with casual blood glucose levels in nondiabetic women, whereas such an association was not observed in men <ref type="bibr" target="#b20">[21]</ref>. A prospective study reported that asymptomatic hyperglycemia, defined as the top 5% of the casual blood glucose distribution (!126 mg/dL), was a significant risk factor for mortality due to CHD in women but not in men <ref type="bibr" target="#b21">[22]</ref>. The Hoorn study, which examined the association between the continuous blood glucose concentration and cardiovascular disease mortality, showed no clear, consistent differences between men and women <ref type="bibr" target="#b22">[23]</ref>. Differences in the glucose assay methods, endpoint measurements, and small number of events in the previous studies may have contributed to these inconsistencies.</p><p>The reason why hyperglycemia has a greater relative risk for CHD in women than in men is unclear. Several mechanisms may explain why hyperglycemia has a greater adverse effect in women than in men. Hyperglycemia may have a stronger additive or synergistic effect on overweight, hypertension, hypercholesterolemia, and smoking in women than in men. A previous study reported that the increased risk of cardiovascular disease in diabetic women can be mediated in part by the loss of a woman's usually favorable lipoprotein profile in the presence of diabetes <ref type="bibr" target="#b23">[24]</ref>. Our study's results corroborate these explanations, because they showed that differences in the baseline levels of the body mass index, systolic blood pressure, and total cholesterol level among participants with and without diabetes were significantly greater in women than in men (Supplementary Table <ref type="table" target="#tab_0">1</ref>). These findings were also consistent with those of a previous study, which reported that differences in the levels of blood pressure and lipids between individuals with and without diabetes were significantly Fig. <ref type="figure">2</ref>. Survival probability from coronary heart disease events according to baseline fasting serum glucose levels and sex during the 11-year follow-up. Normoglycemic, baseline fasting serum glucose level &lt;100 mg/dL; impaired fasting glucose (IFG), 100 mg/dL baseline fasting serum glucose level &lt;126 mg/dL; diabetic, baseline fasting serum glucose level !126 mg/dL. Values for p denote the results of the log-rank test for sex differences for each fasting serum glucose level. greater in women than in men <ref type="bibr" target="#b24">[25]</ref>. This would potentially explain why the attenuation of HRs for CHD was considerably greater in women than in men after multivariable adjustment. The sex difference in the CHD risk related to the fasting serum glucose level may be mediated in part by differences in the levels of other cardiovascular risk factors <ref type="bibr" target="#b25">[26,</ref><ref type="bibr" target="#b26">27]</ref>. Another possible explanation for the sex difference in the effect of diabetes on the CHD risk is the persistently more favorable survival rate for women without diabetes than for men without diabetes <ref type="bibr" target="#b19">[20]</ref>. In the present study, there was a marked male predominance in the CHD incidence among participants with nondiabetic glucose levels, whereas the gap between men and women was almost eliminated among participants with diabetic fasting glucose levels (Fig. <ref type="figure" target="#fig_0">1</ref>). In addition, previous studies have indicated that the greater risk of CHD associated with diabetes in women may indicate a treatment bias that favors men <ref type="bibr" target="#b27">[28]</ref><ref type="bibr" target="#b28">[29]</ref><ref type="bibr" target="#b29">[30]</ref><ref type="bibr" target="#b30">[31]</ref><ref type="bibr" target="#b31">[32]</ref>. Men with diabetes or a history of cardiovascular disease are more likely to receive aspirin, statins, or antihypertensive drugs than women do. The excess relative risk of CHD in women with diabetes may be due to the more aggressive treatment of cardiovascular risk factors in men with diabetes than in women with diabetes.</p><p>Several possible limitations of the present study should be considered. First, there was no objective information on antidiabetic medications for this study population. Thus, individuals who indicated that they had any previously diagnosed disease were excluded. Second, an oral glucose tolerance test was not performed in the current study, and insulin levels were not measured. Although the 2-hour glucose tolerance test is a better predictor for cardiovascular mortality than the fasting glucose test <ref type="bibr" target="#b32">[33]</ref>, the fasting serum glucose test is recommended for use in mass screening, as it is easier and faster to perform, more convenient, and less expensive. Third, the accuracy of diagnoses from health insurance claims data and death certificates may be considered. A previous study analyzing validity of diagnosis in Korean national health insurance claims data has reported that the accuracy for diagnosing acute MI was more than 70% <ref type="bibr" target="#b33">[34]</ref>. Fourth, the present study was performed in only middle-aged Korean men and women, which may limit the generalizability of our results to other populations.</p><p>In conclusion, women had a higher hazard ratio of CHD associated with fasting serum glucose than men. The stronger effect of fasting serum glucose levels on the CHD risk in women was significant from a prediabetic range (!110 mg/dL). These findings suggest that more careful glycemic control may be needed in women with hyperglycemia to prevent CHD.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1 .</head><label>1</label><figDesc>Fig. 1. Flow chart of participants' selection. KMIC, Korea Medical Insurance Corporation.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Baseline characteristics of 100,144 men and 59,558 women.</figDesc><table><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="3">Fasting serum glucose level, mg/dL</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell>&lt;100</cell><cell></cell><cell></cell><cell>100-109</cell><cell></cell><cell>110-125</cell><cell></cell><cell cols="2">!126</cell><cell></cell><cell>p for trend</cell></row><row><cell>Men</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>N (%)</cell><cell></cell><cell></cell><cell cols="2">80,167 (80.1)</cell><cell cols="2">11,865 (11.8)</cell><cell></cell><cell>4815 (4.8)</cell><cell></cell><cell cols="2">3297 (3.3)</cell><cell></cell><cell></cell></row><row><cell cols="2">Fasting serum glucose, mg/dL</cell><cell></cell><cell>86.2 AE 7.7</cell><cell></cell><cell cols="2">103.8 AE 2.8</cell><cell></cell><cell>115.5 AE 4.3</cell><cell></cell><cell cols="2">161.5 AE 38.1</cell><cell></cell><cell>&lt;0.001</cell></row><row><cell>Age, years</cell><cell></cell><cell></cell><cell cols="2">44.5 AE 6.6</cell><cell cols="2">45.7 AE 6.5</cell><cell></cell><cell>46.7 AE 6.6</cell><cell></cell><cell cols="2">48.0 AE 6.4</cell><cell></cell><cell>&lt;0.001</cell></row><row><cell cols="2">Body mass index, kg/m 2</cell><cell></cell><cell cols="2">23.3 AE 2.4</cell><cell cols="2">23.8 AE 2.5</cell><cell></cell><cell>23.9 AE 2.5</cell><cell></cell><cell cols="2">24.2 AE 2.5</cell><cell></cell><cell>&lt;0.001</cell></row><row><cell cols="2">Total cholesterol, mg/dL</cell><cell></cell><cell cols="2">192.4 AE 31.9</cell><cell cols="2">198.2 AE 34.1</cell><cell></cell><cell cols="2">200.2 AE 35.6</cell><cell cols="2">206.6 AE 40.7</cell><cell></cell><cell>&lt;0.001</cell></row><row><cell cols="2">Systolic blood pressure, mmHg</cell><cell></cell><cell cols="2">124.1 AE13.3</cell><cell cols="2">128.6 AE 14.7</cell><cell></cell><cell cols="2">131.5 AE15.5</cell><cell cols="2">132.2 AE 16.2</cell><cell></cell><cell>&lt;0.001</cell></row><row><cell cols="2">Diastolic blood pressure, mmHg</cell><cell></cell><cell>81.3 AE 9.2</cell><cell></cell><cell cols="2">84.1 AE9.7</cell><cell></cell><cell cols="2">85.6 AE 10.0</cell><cell cols="2">86.1 AE10.2</cell><cell></cell><cell>&lt;0.001</cell></row><row><cell cols="2">Current smoker (%)</cell><cell></cell><cell cols="2">44,701 (55.8)</cell><cell cols="2">6593 (55.6)</cell><cell></cell><cell cols="2">2661 (55.3)</cell><cell cols="2">1791 (54.3)</cell><cell></cell><cell>0.382</cell></row><row><cell>Women</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>N (%)</cell><cell></cell><cell></cell><cell cols="2">55,222 (92.7)</cell><cell cols="2">3045 (5.1)</cell><cell></cell><cell>810 (1.4)</cell><cell></cell><cell cols="2">481 (0.8)</cell><cell></cell><cell></cell></row><row><cell cols="2">Fasting serum glucose, mg/dL</cell><cell></cell><cell>84.0 AE 7.5</cell><cell></cell><cell cols="2">103.5 AE 2.7</cell><cell></cell><cell>115.0 AE 4.2</cell><cell></cell><cell cols="2">157.9 AE 35.2</cell><cell></cell><cell>&lt;0.001</cell></row><row><cell>Age, years</cell><cell></cell><cell></cell><cell>42.2 AE 6.1</cell><cell></cell><cell cols="2">44.3 AE 6.7</cell><cell></cell><cell>45.7 AE 6.7</cell><cell></cell><cell cols="2">46.7 AE 6.8</cell><cell></cell><cell>&lt;0.001</cell></row><row><cell cols="2">Body mass index, kg/m 2</cell><cell></cell><cell cols="2">22.2 AE 2.4</cell><cell cols="2">23.1 AE 2.7</cell><cell></cell><cell>23.8 AE 2.7</cell><cell></cell><cell cols="2">24.2 AE 3.0</cell><cell></cell><cell>&lt;0.001</cell></row><row><cell cols="2">Total cholesterol, mg/dL</cell><cell></cell><cell cols="2">188.1 AE31.7</cell><cell cols="2">199.2 AE 35.1</cell><cell></cell><cell cols="2">206.3 AE 38.1</cell><cell cols="2">214.8 AE 43.1</cell><cell></cell><cell>&lt;0.001</cell></row><row><cell cols="2">Systolic blood pressure, mmHg</cell><cell></cell><cell cols="2">115.6 AE 12.0</cell><cell cols="2">121.3 AE 14.5</cell><cell></cell><cell cols="2">125.1 AE16.4</cell><cell cols="2">127.5 AE17.4</cell><cell></cell><cell>&lt;0.001</cell></row><row><cell cols="2">Diastolic blood pressure, mmHg</cell><cell></cell><cell cols="2">75.2 AE 8.8</cell><cell cols="2">78.8 AE 9.7</cell><cell></cell><cell>81.2 AE 10.3</cell><cell></cell><cell cols="2">82.7 AE 11.0</cell><cell></cell><cell>&lt;0.001</cell></row><row><cell cols="2">Current smoker (%)</cell><cell></cell><cell>172 (0.3)</cell><cell></cell><cell cols="2">16 (0.5)</cell><cell></cell><cell>1 (0.1)</cell><cell></cell><cell>4 (0.8)</cell><cell></cell><cell></cell><cell>0.030</cell></row><row><cell cols="5">Values are expressed as mean AE standard deviation or number (%).</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Table 2</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="5">Total CHD, fatal and, non-fatal CHD during the 11-year follow-up.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">Men</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">Women</cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell cols="2">All events</cell><cell cols="2">Fatal events</cell><cell cols="2">Non-fatal events</cell><cell cols="2">All events</cell><cell cols="2">Fatal events</cell><cell cols="2">Non-fatal events</cell></row><row><cell></cell><cell>ICD-10 codes</cell><cell>No. of</cell><cell>Crude</cell><cell>No. of</cell><cell>Crude</cell><cell>No. of</cell><cell>Crude</cell><cell>No. of</cell><cell>Crude</cell><cell>No. of</cell><cell>Crude</cell><cell>No. of</cell><cell>Crude</cell></row><row><cell></cell><cell></cell><cell>events</cell><cell>rates/1</cell><cell>events</cell><cell>rates/</cell><cell>events</cell><cell>rates/</cell><cell>events</cell><cell>rates/</cell><cell>events</cell><cell>rates/</cell><cell>events</cell><cell>rates/</cell></row><row><cell></cell><cell></cell><cell></cell><cell>00,000</cell><cell></cell><cell>100,000</cell><cell></cell><cell>100,000</cell><cell></cell><cell>100,000</cell><cell></cell><cell>100,000</cell><cell></cell><cell>100,000</cell></row><row><cell></cell><cell></cell><cell></cell><cell>p-y</cell><cell></cell><cell>p-y</cell><cell></cell><cell>p-y</cell><cell></cell><cell>p-y</cell><cell></cell><cell>p-y</cell><cell></cell><cell>p-y</cell></row><row><cell>CHD</cell><cell>I20-I25</cell><cell>2503</cell><cell>234.7</cell><cell>297</cell><cell>27.6</cell><cell>2206</cell><cell>206.8</cell><cell>656</cell><cell>101.1</cell><cell>36</cell><cell>5.5</cell><cell>620</cell><cell>95.6</cell></row><row><cell>Acute MI</cell><cell>I21</cell><cell>870</cell><cell>81.6</cell><cell>261</cell><cell>24.3</cell><cell>609</cell><cell>57.1</cell><cell>96</cell><cell>14.8</cell><cell>30</cell><cell>4.6</cell><cell>66</cell><cell>10.2</cell></row><row><cell>Angina pectoris</cell><cell>I20</cell><cell>1274</cell><cell>119.4</cell><cell>20</cell><cell>1.8</cell><cell>1254</cell><cell>117.6</cell><cell>444</cell><cell>68.4</cell><cell>5</cell><cell>0.8</cell><cell>439</cell><cell>67.7</cell></row><row><cell>Other CHD</cell><cell>I22-I25</cell><cell>359</cell><cell>33.7</cell><cell>16</cell><cell>1.5</cell><cell>343</cell><cell>32.2</cell><cell>116</cell><cell>17.9</cell><cell>1</cell><cell>0.1</cell><cell>115</cell><cell>17.7</cell></row></table><note>ICD, international classification of diseases; p-y, person-years; CHD, coronary heart disease; MI, myocardial infarction.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 3</head><label>3</label><figDesc>Hazard ratios for coronary heart disease according to baseline fasting serum glucose levels.</figDesc><table><row><cell>Men</cell><cell>Women</cell></row></table><note>a Adjusted for age, body mass index, blood pressure, total cholesterol level, and cigarette smoking status.</note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">S.V. Ahn et al. / Journal of Cardiology 71 (2018) 149-154</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgments</head><p>We thank the National Health Insurance Corporation (formerly the Korea Medical Insurance Corporation) for providing the data. This study has been derived from the doctoral dissertation of the first author.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Funding</head><p>This research did not receive any specific grant from funding agencies in the public, commercial, or not-for-profit sectors.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conflict of interest</head><p>The authors declare that they have no conflict of interest.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Appendix A. Supplementary data</head><p>Supplementary material related to this article can be found, in the online version, at doi:10.1016/j.jjcc.2017.07.013.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Global prevalence of diabetes: estimates for the year 2000 and projections for 2030</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Wild</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Roglic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Green</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Sicree</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>King</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="1047" to="1053" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Global burden of diabetes, 1995-2025: prevalence, numerical estimates, and projections</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>King</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Aubert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">H</forename><surname>Herman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="1414" to="1431" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Global and societal implications of the diabetes epidemic</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Zimmet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">G</forename><surname>Alberti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Shaw</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">414</biblScope>
+			<biblScope unit="page" from="782" to="787" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Mortality from coronary heart disease and stroke in relation to degree of glycaemia: the Whitehall study</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Fuller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Shipley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Rose</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Jarrett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Keen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br Med J</title>
+		<imprint>
+			<biblScope unit="volume">287</biblScope>
+			<biblScope unit="page" from="867" to="870" />
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Diabetes and cardiovascular disease. The Framingham study</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">B</forename><surname>Kannel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Mcgee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">241</biblScope>
+			<biblScope unit="page" from="2035" to="2038" />
+			<date type="published" when="1979">1979</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">A prospective study of coronary heart disease in relation to fasting insulin, glucose, and diabetes. The Atherosclerosis Risk in Communities (ARIC) Study</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Folsom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Szklo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Stevens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Liao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Eckfeldt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="935" to="942" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Report of the expert committee on the diagnosis and classification of diabetes mellitus</title>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="S5" to="20" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+	<note>Expert Committee on the Diagnosis and Classification of Diabetes Mellitus</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Sex differentials in morbidity and mortality risks examined by age and cause in the same cohort</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Wingard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Cohn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Kaplan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Cirillo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Cohen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">130</biblScope>
+			<biblScope unit="page" from="601" to="610" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Gender difference in all-cause and cardiovascular mortality related to hyperglycaemia and newly-diagnosed diabetes</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Hu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Decode</forename><surname>Study Group</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="608" to="617" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Lipoprotein(a) as a determinant of coronary heart disease in young women: a stronger risk factor than diabetes?</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Enas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">97</biblScope>
+			<biblScope unit="page" from="293" to="295" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Sex differences in all-cause and cardiovascular mortality, hospitalization for individuals with and without diabetes, and patients with diabetes diagnosed early and late</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Roche</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">P</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="2582" to="2590" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Diabetes as risk factor for incident coronary heart disease in women compared with men: a systematic review and meta-analysis of 64 cohorts including 858,507 individuals and 28,203 coronary events</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Peters</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Huxley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Woodward</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="page" from="1542" to="1551" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Sex differences in cardiovascular outcomes, pharmacological treatments and indicators of care in patients with newly diagnosed diabetes: analyses on administrative database</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Baviera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Santalucia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Cortesi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Marzona</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tettamanti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Avanzini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Nobili</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Riva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Caso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Fortino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bortolotti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Merlino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Roncaglioni</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="270" to="275" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Sex differences in cardiovascular mortality in diabetics and nondiabetic subjects: a population-based study (Italy)</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Ballotari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Ranieri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Luberto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Caroli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Greci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Giorgi</forename><surname>Rossi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Manicardi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Endocrinol</title>
+		<imprint>
+			<biblScope unit="page">914057</biblScope>
+			<date type="published" when="2015">2015. 2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Underweight and mortality</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">Y</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">V</forename><surname>Ahn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Kang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">T</forename><surname>Khaw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">C</forename><surname>Willett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Suh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Public Health Nutr</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="1751" to="1756" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Annual report on external quality assessment in clinical chemistry in Korea (1992)</title>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">K</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">H</forename><surname>Kwon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">D</forename><surname>Kim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Pathol Qual Cont</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="1" to="13" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">S</forename><surname>Chung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">S</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">K</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">Q</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">N</forename><surname>Yi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">H</forename><surname>Choi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annual report on external quality assessment in clinical chemistry in Korea</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="1" to="13" />
+			<date type="published" when="1990">1990. 1991</date>
+		</imprint>
+	</monogr>
+	<note>J Clin Pathol Qual Cont</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Follow-up report on the diagnosis of diabetes mellitus</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Genuth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">G</forename><surname>Alberti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Bennett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Buse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Defronzo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kahn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kitzmiller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">C</forename><surname>Knowler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Lebovitz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Lernmark</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Nathan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Palmer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Rizza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Saudek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Shaw</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="3160" to="3167" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Cardiovascular disease in women</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">P</forename><surname>Castelli</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Obstet Gynecol</title>
+		<imprint>
+			<biblScope unit="volume">158</biblScope>
+			<biblScope unit="page" from="1553" to="1560" />
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Why is diabetes mellitus a stronger risk factor for fatal ischemic heart disease in women than in men? The Rancho Bernardo Study</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">L</forename><surname>Barrett-Connor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Cohn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Wingard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Edelstein</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">265</biblScope>
+			<biblScope unit="page" from="627" to="631" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Is hyperglycemia associated with cardiovascular disease? The Framingham Study</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">W</forename><surname>Wilson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Cupples</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">B</forename><surname>Kannel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am Heart J</title>
+		<imprint>
+			<biblScope unit="volume">121</biblScope>
+			<biblScope unit="page" from="586" to="590" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">A prospective population-based study of gender differential in mortality from cardiovascular-disease and all causes in asymptomatic hyperglycaemics</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Janghorbani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Jones</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">H</forename><surname>Gilmour</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Hedley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Zhianpour</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="397" to="405" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Hyperglycaemia is associated with all-cause and cardiovascular mortality in the Hoorn population: the Hoorn Study</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>De Vegt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Dekker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">G</forename><surname>Ruhe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Stehouwer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Nijpels</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Bouter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Heine</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="926" to="931" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Is insulin really a heart-disease risk factor</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Wingard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">L</forename><surname>Barrettconnor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ferrara</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="1299" to="1304" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Excess risk of fatal coronary heart disease associated with diabetes in men and women: meta-analysis of 37 prospective cohort studies</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Huxley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Barzi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Woodward</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMJ</title>
+		<imprint>
+			<biblScope unit="volume">332</biblScope>
+			<biblScope unit="page" from="73" to="78" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Diurnal glycemic fluctuation is associated with severity of coronary artery disease in prediabetic patients: possible role of nitrotyrosine and glyceraldehyde-derived advanced glycation end products</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Watanabe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Kawai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kitayama</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Akao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Motoyama</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Wakasa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Saito</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Aoki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Fujibayashi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Tsuchiya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Nakanishi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Saito</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Takeuchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kajinami</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">69</biblScope>
+			<biblScope unit="page" from="625" to="631" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Different postprandial lipid metabolism and insulin resistance between non-diabetic patients with and without coronary artery disease</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Nakamura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Monma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kajitani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kozu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ikeda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Noda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Nakajima</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Endo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Takahashi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Nozaki</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">66</biblScope>
+			<biblScope unit="page" from="435" to="444" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Sex disparities in the treatment and control of cardiovascular risk factors in type 2 diabetes</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Gouni-Berthold</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">K</forename><surname>Berthold</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Mantzoros</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bohm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Krone</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="1389" to="1391" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Sex disparities in treatment of cardiac risk factors in patients with type 2 diabetes</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Wexler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Grant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Meigs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Nathan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Cagliero</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="514" to="520" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Changing aspirin use in patients with type 2 diabetes in the UKPDS</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Cull</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Haw</forename><surname>Neil</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Holman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabet Med</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="1368" to="1371" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Aspirin use among adults with diabetes -recent trends and emerging sex disparities</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Persell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Baker</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">164</biblScope>
+			<biblScope unit="page" from="2492" to="2499" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Undertreatment and overtreatment with statins: the Oslo Health Study</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Tonstad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">O</forename><surname>Rosvold</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Furu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Skurtveit</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">255</biblScope>
+			<biblScope unit="page" from="494" to="502" />
+			<date type="published" when="2000">2000-2001. 2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Glucose tolerance and cardiovascular mortality: comparison of fasting and 2-hour diagnostic criteria</title>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">161</biblScope>
+			<biblScope unit="page" from="397" to="405" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+		<respStmt>
+			<orgName>DECODE Study Group</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Validity of the diagnosis of acute myocardial infarction in Korean national medical health insurance claims data: the Korean heart study (1)</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Kimm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Yun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Jang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Jee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Korean Circ J</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="10" to="15" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,820 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Fasting and postchallenge hyperglycemia and risk of cardiovascular disease in Chinese: The Chin-Shan Community Cardiovascular Cohort study</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Kuo-Liong</forename><surname>Chien</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Nutrition</orgName>
+								<orgName type="department" key="dep2">School of Public Health</orgName>
+								<orgName type="institution">Harvard University</orgName>
+								<address>
+									<settlement>Boston</settlement>
+									<region>MA</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Internal Medicine</orgName>
+								<orgName type="institution">National Taiwan University Hospital</orgName>
+								<address>
+									<settlement>Taipei</settlement>
+									<country key="TW">Taiwan</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department" key="dep1">Institute of Preventive Medicine</orgName>
+								<orgName type="department" key="dep2">College of Public Health</orgName>
+								<orgName type="institution">National Taiwan University</orgName>
+								<address>
+									<settlement>Taipei</settlement>
+									<country key="TW">Taiwan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>PhD</roleName><forename type="first">Hsiu-Ching</forename><surname>Hsu</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Internal Medicine</orgName>
+								<orgName type="institution">National Taiwan University Hospital</orgName>
+								<address>
+									<settlement>Taipei</settlement>
+									<country key="TW">Taiwan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Ta-Chen</forename><surname>Su</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Ming-Fong</forename><surname>Chen</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Internal Medicine</orgName>
+								<orgName type="institution">National Taiwan University Hospital</orgName>
+								<address>
+									<settlement>Taipei</settlement>
+									<country key="TW">Taiwan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Yuan-Teh</forename><surname>Lee</surname></persName>
+							<email>ytlee@ha.mc.ntu.edu.tw</email>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Internal Medicine</orgName>
+								<orgName type="institution">National Taiwan University Hospital</orgName>
+								<address>
+									<settlement>Taipei</settlement>
+									<country key="TW">Taiwan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Frank</forename><forename type="middle">B</forename><surname>Hu</surname></persName>
+							<email>frank.hu@channing.harvard.edu</email>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Nutrition</orgName>
+								<orgName type="department" key="dep2">School of Public Health</orgName>
+								<orgName type="institution">Harvard University</orgName>
+								<address>
+									<settlement>Boston</settlement>
+									<region>MA</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Internal Medicine</orgName>
+								<orgName type="institution">National Taiwan University Hospital</orgName>
+								<address>
+									<settlement>Taipei</settlement>
+									<country key="TW">Taiwan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>PHD a Boston, MA</roleName><surname>Taipei</surname></persName>
+						</author>
+						<author>
+							<persName><surname>Taiwan</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Internal Medicine</orgName>
+								<orgName type="institution">National Taiwan University Hospital</orgName>
+								<address>
+									<addrLine>Taipei 100</addrLine>
+									<country key="TW">Taiwan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff4">
+								<orgName type="department">Department of Nutrition</orgName>
+								<orgName type="institution" key="instit1">Harvard School of Public Health</orgName>
+								<orgName type="institution" key="instit2">Harvard University</orgName>
+								<address>
+									<postCode>02115</postCode>
+									<settlement>Boston</settlement>
+									<region>MA</region>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Fasting and postchallenge hyperglycemia and risk of cardiovascular disease in Chinese: The Chin-Shan Community Cardiovascular Cohort study</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">F13D9FBE9F532597F37CF9323EFA3E56</idno>
+					<idno type="DOI">10.1016/j.ahj.2008.06.019</idno>
+					<note type="submission">Submitted August 1, 2007; accepted June 16, 2008.</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.1" ident="GROBID" when="2022-07-19T23:01+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Background Whether fasting glucose is superior to postchallenge glucose or insulin level for prediction of cardiovascular disease (CVD) remains controversial. The aim of our study was to compare fasting, postchallenge glucose and other markers as predictors of CVD in a community-based prospective cohort study among 2,165 adult participants.</p><p>Methods A standard 75-g oral glucose tolerance test was performed, with measurements of fasting and 2-hour postchallenge plasma glucose and insulin levels. We defined the CVD outcome as incident coronary heart disease and stroke. Cox regression model was used to estimate the relative risk (RR) for CVD.</p><p>Results A total of 166 individuals developed major CVD events during 10.5 years of follow-up. Both fasting and postchallenge glucose were significantly associated with CVD risk (adjusted RR in the highest quartile vs the lowest quartile 1.74, 95% confidence interval [CI] 1.06-2.86 for fasting glucose; RR in highest quartile 2.05, 95% CI 1.23-3.42 for postchallenge glucose). Postchallenge and fasting glucose had similar areas of receiver operative characteristics curves (0.65, 95% CI 0.58-0.72 for postchallenge glucose; 0.65, 95% CI 0.58-0.72 for fasting glucose). In mutually adjusted models, fasting and postchallenge glucose remained significant risk factors for CVD, whereas insulin resistance variables became nonsigificant.</p><p>Conclusions These findings show that fasting and postchallenge glucose concentrations are independent predictors of CVD risk among ethnic Chinese in Taiwan.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Abnormal glucose homeostasis, presented by fasting hyperglycemia or postchallenge hyperglycemia, is a precursor to diabetes mellitus and is widely used as diagnostic criteria for diabetes. <ref type="bibr" target="#b0">1,</ref><ref type="bibr" target="#b1">2</ref> Postchallenge hyperglycemia, a marker for impaired glucose tolerance, is also an indicator for peripheral insulin resistance. <ref type="bibr" target="#b1">2,</ref><ref type="bibr" target="#b2">3</ref> Fasting hyperglycemia, with elevated fasting glucose level, can result from elevated hepatic glucose output and/or defect in early insulin secretion. <ref type="bibr" target="#b1">2,</ref><ref type="bibr" target="#b3">4</ref> Although both postchallenge and fasting hyperglycemia are considered as important risk factors for cardiovascular disease (CVD) end points, few prospective studies have compared the relationships between these variables and risk of CVD. <ref type="bibr" target="#b1">2</ref> Insulin resistance markers, including homeostasis model assessment (HOMA), <ref type="bibr" target="#b4">5</ref> quantitative insulin sensitivity check index (QUICKI), <ref type="bibr" target="#b5">6</ref> and insulin sensitivity index (ISI 0,120 ), <ref type="bibr" target="#b6">7</ref> have also been associated with cardiovascular risk, <ref type="bibr" target="#b7">8</ref> but data are sparse in Asian populations. Therefore, we conducted a prospective study to examine the roles of postchallenge glucose and other insulin resistance biomarkers in predicting CVD incidence among ethnic Chinese in Taiwan.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Subjects and methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study participants</head><p>Details of this cohort study have been published previously. <ref type="bibr" target="#b8">[9]</ref><ref type="bibr" target="#b9">[10]</ref><ref type="bibr" target="#b10">[11]</ref> Briefly, the Chin-Shan Community Cardiovascular Cohort (CCCC) study began in 1990 by recruiting 1,703 men and 1,899 women aged ≥35 years in the Chin-Shan township. Information about anthropometry, lifestyle, and medical conditions was assessed by interview questionnaires in 2-year cycles, and the validity and reproducibility of the collected data and measurements have been reported in detail elsewhere. <ref type="bibr" target="#b9">10</ref> The participants were invited to receive 75 g glucose tolerance test during the survey in 1994-1995. <ref type="bibr" target="#b10">11</ref> For follow-up cohort from 1994-1995 to the end of 2005 (median 10.5, interquartile range 9.5-10.6 years), we included 2,165 individuals (953 men, 1,212 women) without CVD. Incident CVD included coronary heart disease and stroke cases. Incident coronary heart disease cases (n = 70) were defined as fatal coronary heart disease (n = 22) and hospitalization due to nonfatal myocardial infarction or percutaneous coronary intervention and coronary bypass surgery (n = 48). Nonfatal myocardial infarction and hospitalizations for percutaneous coronary intervention and coronary artery bypass graft were ascertained by the combined information from patient interviews and medical record review. Incident stroke cases (n = 100) were ascertained according to the following criteria: a sudden neurological deficit of vascular origin that lasted longer than 24 hours, with supporting evidence from the image study and medical records. The National Taiwan University Hospital Committee Review Board approved the study protocol.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Measurement of glucose metabolism markers</head><p>Analyses of glucose and insulin were prescribed previously. <ref type="bibr" target="#b10">11</ref> Briefly, after centrifugation by 1,500g for 10 minutes, glucose levels were measured on supernatant by enzymatic assay (Merck 3389 commercial kit, Darmstadt, Germany) in a Eppendorf 5060 autoanalyzer (Eppendorf Corp., Hamburg, Germany). Plasma insulin level was determined using the ELISA method in which a reagent kit supplied by the Dako Co (Glostrup, Denmark) was used. We calculated the HOMA-insulin resistance (IR) <ref type="bibr" target="#b4">5</ref> and HOMA %B. <ref type="bibr" target="#b11">12</ref> In addition, we estimated 2 markers for insulin sensitivity indices, QUICKI and ISI 0,120 . QUICKI was calculated as inverse of sum logarithm fasting insulin and glucose. <ref type="bibr" target="#b5">6</ref> ISI 0,120 estimated the disposition of plasma glucose, given body weight and ambient insulin levels. <ref type="bibr" target="#b6">7</ref> We further grouped participants into 3 categories according to the American Diabetes Association (ADA) recommendation as follows: (1) postchallenge 2-hour glucose criteria-2-hour plasma glucose concentration of 200 mg/dL or more or on hypoglycemic medication as diabetes, 140-199 mg/dL for impaired glucose tolerance (IGT), &lt;140 mg/dL for normal glucose tolerance; (2) fasting glucose criteria alone-fasting plasma glucose ≥126 mg/dL or on hypoglycemic medication as diabetes, 110-125 mg/dL for impaired fasting glucose (IFG), and &lt;110 mg/dL for normal fasting glucose. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analysis</head><p>Participants were categorized on the basis of quartiles of postchallenge glucose levels. The CVD incidence rates were calculated as the number of cases divided by person-years of follow-up, stratified by various glucose and insulin resistance marker quartiles. We analyzed the associations between glucose and insulin resistance markers and risk of CVD by using Cox regression model, adjusted for potential confounding factors. Model 1 was adjusted for age groups (35-44, 45-54, 55-64, 65-74, ≥75 years) and gender only. Model 2 included additional confounding factors including body mass index (&lt;18, 18-20.9, 21-22.9, 23-24.9, or ≥25 kg/m 2 ), smoking (yes/no or abstinence), current alcohol drink-ing (regular/no), marital status (single, married and living with spouse, or divorced and separated), education level (&lt;9 years, at least 9 years), occupation (no work, labor, official, or business), regular exercise habit (yes/no), and family history of coronary heart disease (yes/no). In model 3, we additionally adjusted for the status of metabolic syndrome defined by the revised National Cholesterol Education Program (NCEP) criteria with Asian waist circumference criteria. <ref type="bibr" target="#b12">13</ref> To test for linear trend across categories, we used the median levels in quartiles as a continuous variable. In addition, we estimated the relative risks (RRs) associated with a change of one standard deviation in the glucose and insulin resistance variables. Furthermore, we used the area under the curve of receiver operative characteristics (ROC curve) to compare the discriminative ability of various glucose and insulin resistance markers. <ref type="bibr" target="#b13">14</ref> We examined the independent effects of fasting and postchallenge glucose levels on CVD outcomes by including 2 markers simultaneously in the model as continuous variables. All statistical tests were 2-tailed and probability values &lt;.05 were considered statistically significant. Analyses were performed with SAS version 9.1 (SAS Institute, Cary, NC) and Stata version 9.1 (Stata Corporation, College Station, TX).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>Participants with higher fasting glucose or postchallenge glucose levels were older, heavier, and had higher prevalence of metabolic syndrome and diagnosed diabetes (Table <ref type="table" target="#tab_0">I</ref>). Participants with higher postchallenge glucose had similar characteristics in terms of obesity, lifestyle factors, and socioeconomic status as those with higher fasting glucose.</p><p>Table <ref type="table" target="#tab_1">II</ref> showed the RRs of CVD events during 10.5 years of follow-up across quartiles of markers baseline. After adjustment for cardiovascular risk factors and the metabolic syndrome, both fasting and postchallenge glucose were significantly associated with CVD (RR in the highest quartile vs the lowest quartile 1.74, 95% confidence interval [CI] 1.06-2.86 for fasting glucose; RR in highest quartile 2.05, 95% CI 1.23-3.42 for postchallenge glucose). Other markers, such as HOMA-IR and QUICKI also showed significant associations with CVD in multivariate model (RR 1.82, 95% CI 1.14-2.91 for HOMA-IR; RR 0.57, 95% CI 0.36-0.91 for QUICKI), but these associations were attenuated and became nonsignificant after additional adjustment for the presence of metabolic syndrome. The RRs of various glucose and insulin measurements did not change appreciably even after controlling for systolic blood pressure, high-density lipoprotein (HDL) cholesterol and low-density lipoprotein (LDL) cholesterol in the models. With regard to one standard deviation change, fasting and postchallenge glucose levels were only significant predictors for CVD events in the multivariate adjusted model (RR 1.25, 95% CI 1.11-1.40 for fasting glucose; RR 1.29, 95% CI 1.16-1.43 for postchallenge glucose).</p><p>The patterns of the above associations were similar when incident coronary heart disease or stroke cases were analyzed separately (data not shown). In addition, exclusion of subjects with diagnosed diabetes at baseline did not substantially alter the findings. Table <ref type="table" target="#tab_2">III</ref> showed the RRs of CVD events according to the ADA definitions of glucose status. After adjustment for cardiovascular risk factors and the metabolic syndrome, the newly identified diabetes defined by postchallenge glucose had a stronger association with CVD than that defined by fasting glucose. However, IFG was significantly associated with CVD (RR 1.58, 95% CI 1.02-2.46), but IGT was not (RR 1.05, 95% CI 0.68-1.62).</p><p>To compare the predictive values of various glucose and insulin resistance markers, we estimated the ROC curve for each marker separately. The results showed that postchallenge and fasting glucose had similar areas of ROC curve (0.648, 95% CI 0.581-0.715 for postchallenge glucose; 0.645, 95% CI 0.575-0.715 for fasting glucose). We conducted the likelihood ratio test and found postchallenge glucose had the highest χ 2 value (71.5) than fasting glucose (21.2).</p><p>In the final model, both fasting and postchallenge glucose were significantly associated with CHD risk after mutual adjustment: the RRs comparing extreme quartiles of fasting and postchallenge glucose were 1.61 (95% CI 1.01-2.58, P trend = .003) and 1.72 (95% CI 1.02-2.89, P trend = .015), respectively (Table <ref type="table" target="#tab_3">IV</ref>). Further adjustment for metabolic syndrome only slightly attenuated these associations.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>In this prospective cohort of middle-aged to older ethnic Chinese, higher levels of fasting and postchallenge glucose were significantly associated with increased risk of CVD. Insulin resistance indices (HOMA and QUICKI) were also associated with CVD risk, but these associations became nonsignificant after further adjustment for the metabolic syndrome.</p><p>Several previous studies showed postchallenge glucose was more strongly associated with CVD than fasting glucose. <ref type="bibr" target="#b14">[15]</ref><ref type="bibr" target="#b15">[16]</ref><ref type="bibr" target="#b16">[17]</ref><ref type="bibr" target="#b17">[18]</ref><ref type="bibr" target="#b18">[19]</ref> The prospective Diabetes Epidemiology: Collaborative analysis Of Diagnostic Criteria in Europe (DECODE) study demonstrated a linear relationship between postchallenge hyperglycemia and coronary heart disease risk, but an independent relationship with fasting hyperglycemia was only found in high glucose level. <ref type="bibr" target="#b14">15</ref> Subsequent analyses of the DECODE study found stronger association with cardiovascular and all-cause mortality for postchallenge glucose than for fasting glucose during approximately 9 years of follow-up. <ref type="bibr" target="#b15">16</ref> In a small Italian study, postprandial, but not fasting blood glucose significantly predicted cardiovascular events in diabetic patients during 5 years of follow-up. <ref type="bibr" target="#b16">17</ref> Other studies, however, suggested that fasting glucose was as predictive of morbidity and mortality as postchallenge glucose. In the Baltimore Longitudinal Study of Aging, <ref type="bibr" target="#b19">20</ref> both fasting plasma glucose and IGT were significantly associated increased risk of mortality during 13.4 years of follow-up. A meta-analysis of 38 reports demonstrated a dose-response positive relationship between fasting and postchallenge glucose and CVD incident and mortality, with the RR slightly higher for the postchallenge glucose. The pooled RRs comparing the highest with the lowest categories were 1.58 (95% CI 1.19-2.10) for postchallenge and 1.33 (95% CI 1.06-1.67) for fasting glucose. <ref type="bibr" target="#b20">21</ref> Our data suggested that very low fasting glucose levels might increase risk of CVD, consistent with a U-shape relationship association between fasting glucose and the risk of CVD. <ref type="bibr" target="#b21">22</ref> This relationship may be explained by elevated catecholamine and decreased potassium levels in hypoglycemia that were associated with cardiac ischemia and poor prognosis. <ref type="bibr" target="#b22">23</ref> Moreover, our findings showed that the risk associated with higher fasting glucose decreased appreciably after adjusting for the metabolic syndrome. This may result from overcontrol because an elevated fasting glucose is a component of metabolic syndrome.</p><p>Previous study suggested that fasting hyperglycemia was associated with β cell dysfunction, whereas postchallenge hyperglycemia tended to be more strongly related to insulin resistance, higher blood pressure, obesity, and dyslipidemia rates. <ref type="bibr" target="#b2">3</ref> Previous studies on the associations between IFG and IGT and CVD risk have been inconclusive. <ref type="bibr" target="#b23">24,</ref><ref type="bibr" target="#b24">25</ref> In our study, according to the ADA criteria, newly identified diabetes by postchallenge glucose had higher RR than that defined by fasting glucose criteria. On the other hand, IFG was more strongly associated with CVD risk than IGT. These discrepant results may result from relatively small number of cases in those categories.</p><p>Our results support the hypothesis that postchallenge glucose levels provide additional information beyond measuring fasting glucose, possibly reflecting increased peripheral tissue insulin resistance. Although fasting glucose is now used as a standard diagnostic criterion for diabetes, the oral glucose tolerance test still provides important information for predicting CVD risk. <ref type="bibr" target="#b25">26</ref> In clinical practice and in lifestyle and pharmacological interventions, the postchallenge glucose should still be emphasized as a target to reduce the diabetes incidence and CVD risk. <ref type="bibr" target="#b7">8</ref> Furthermore, the C-statistics for both fasting and postchallenge glucose were similar (0.645 and 0.648, respectively), suggesting that either one has independent discriminatory power in predicting future cardiovascular events. Therefore, it seems that either fasting glucose or postchallenge glucose but not both would be sufficient in risk-stratification of Chinese adults.</p><p>To our knowledge, this is the first extensive investigation on various glucose and insulin resistance markers and risk of CVD in Chinese. Studies from other Asian populations have demonstrated that postchallenge glucose may be related to CVD events, <ref type="bibr" target="#b26">27,</ref><ref type="bibr" target="#b27">28</ref> but the head-tohead comparison of postchallenge and fasting glucose is not available. Because of the prospective cohort design, the baseline measurements of all cohort members were unlikely to be affected by storage and laboratory issues that might be raised in some nested case-control studies. In addition, the use of a community-based population could reduce the possibility of selection bias. We also included important socioeconomic status and lifestyle factors in the models to control for potential confounding factors.</p><p>Our study had several potential limitations. First, the number of incident cases of CVD events was relatively small, even with 10.5 years follow-up. This would reduce the power to detect the subtle differences between various glucose and insulin markers and make some of the RR estimates unstable. Second, because glucose and insulin levels were measured only once, our results might be prone to intraindividual variations, which might have attenuated our results. Finally, the study results may not be generalizable to other ethnic groups.</p><p>In conclusion, our data suggest that fasting and postchallenge glucose concentrations are statistically significant independent predictors of CVD risk in a Chinese population. Our data indicate that postchallenge glucose, a measurement of peripheral tissue insulin resistance status, should be taken into consideration in assessing CVD risk in Asian populations. Because of only moderate correlation coefficients between postchallenge glucose and other glucose and insulin resistance markers, postchallenge glucose can provide useful information for comprehensive evaluation of CVD risk in Asian populations.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table I .</head><label>I</label><figDesc>Distribution of baseline demographic, lifestyle, and socioeconomic factors in the Study Population in the CCCC cohort(1994-1995), specified by fasting and postchallenge glucose quartiles</figDesc><table><row><cell></cell><cell></cell><cell></cell><cell>Fasting</cell><cell></cell><cell></cell><cell></cell><cell cols="2">Postchallenge</cell><cell></cell><cell></cell></row><row><cell></cell><cell>1</cell><cell>2</cell><cell>3</cell><cell>4</cell><cell></cell><cell>1</cell><cell>2</cell><cell>3</cell><cell>4</cell><cell></cell></row><row><cell></cell><cell>&lt;97</cell><cell cols="2">97-104 105-117</cell><cell>≥ ≥118</cell><cell></cell><cell cols="3">&lt;101 101-122 123-152</cell><cell>≥153</cell><cell></cell></row><row><cell></cell><cell cols="4">n = 584 n = 508 n = 556 n = 516</cell><cell>P</cell><cell cols="4">n = 542 n = 543 n = 543 n = 537</cell><cell>P</cell></row><row><cell>Female gender</cell><cell>58.4</cell><cell>56.9</cell><cell>56.1</cell><cell>52.1</cell><cell>.20</cell><cell>45</cell><cell>58.5</cell><cell>62.7</cell><cell>59.3</cell><cell>&lt;.0001</cell></row><row><cell>Current smoker (yes)</cell><cell>31.3</cell><cell>30.1</cell><cell>32.7</cell><cell>36.8</cell><cell>.11</cell><cell>38.8</cell><cell>30.4</cell><cell>29.9</cell><cell>30.1</cell><cell>.003</cell></row><row><cell>Alcohol drinking (yes)</cell><cell>25.5</cell><cell>27.6</cell><cell>30.6</cell><cell>30.2</cell><cell>.19</cell><cell>33.3</cell><cell>23.6</cell><cell>26.8</cell><cell>28.4</cell><cell>.005</cell></row><row><cell>Married status</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>.52</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>.038</cell></row><row><cell>Single</cell><cell>3.3</cell><cell>3.2</cell><cell>1.4</cell><cell>2.7</cell><cell></cell><cell>1.7</cell><cell>3</cell><cell>3.3</cell><cell>2.3</cell><cell></cell></row><row><cell>Lived with spouse</cell><cell>87.0</cell><cell>86.8</cell><cell>87.7</cell><cell>86.0</cell><cell></cell><cell>90.1</cell><cell>87.9</cell><cell>85.8</cell><cell>84</cell><cell></cell></row><row><cell>Divorced or separate</cell><cell>9.8</cell><cell>10.0</cell><cell>10.8</cell><cell>11.3</cell><cell></cell><cell>8.2</cell><cell>9.2</cell><cell>10.9</cell><cell>13.7</cell><cell></cell></row><row><cell>Education level</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>.17</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>.94</cell></row><row><cell>&lt;9 y</cell><cell>93.7</cell><cell>94.7</cell><cell>91.4</cell><cell>93.6</cell><cell></cell><cell>92.9</cell><cell>93.9</cell><cell>93.4</cell><cell>93.3</cell><cell></cell></row><row><cell>≥9 y</cell><cell>6.3</cell><cell>5.3</cell><cell>8.6</cell><cell>6.4</cell><cell></cell><cell>7.1</cell><cell>6.2</cell><cell>6.6</cell><cell>6.7</cell><cell></cell></row><row><cell>Job status</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>.70</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>&lt;.0001</cell></row><row><cell>No job</cell><cell>50.3</cell><cell>50.2</cell><cell>47.5</cell><cell>49.4</cell><cell></cell><cell>35.5</cell><cell>47.8</cell><cell>54.8</cell><cell>58.7</cell><cell></cell></row><row><cell>Blue collar</cell><cell>32.5</cell><cell>33.3</cell><cell>32.2</cell><cell>33.9</cell><cell></cell><cell>44.6</cell><cell>34.1</cell><cell>29.1</cell><cell>23.2</cell><cell></cell></row><row><cell>White collar</cell><cell>17.1</cell><cell>16.5</cell><cell>20.3</cell><cell>16.7</cell><cell></cell><cell>19.9</cell><cell>18.1</cell><cell>16.1</cell><cell>18</cell><cell></cell></row><row><cell>Regular exercise (yes)</cell><cell>16.4</cell><cell>16.7</cell><cell>14.4</cell><cell>15.9</cell><cell>.72</cell><cell>12.8</cell><cell>17.5</cell><cell>16.3</cell><cell>17.5</cell><cell>.12</cell></row><row><cell>Family history of CHD</cell><cell>9.6</cell><cell>9.8</cell><cell>11.2</cell><cell>9.5</cell><cell>.78</cell><cell>10.4</cell><cell>10.3</cell><cell>9.5</cell><cell>10.2</cell><cell>.96</cell></row><row><cell>Metabolic syndrome</cell><cell>13.6</cell><cell>21.3</cell><cell>46.8</cell><cell>71.5</cell><cell>&lt;.0001</cell><cell>18.5</cell><cell>23.5</cell><cell>42.4</cell><cell>66.0</cell><cell>&lt;.0001</cell></row><row><cell>Diagnosed diabetes</cell><cell>2.4</cell><cell>2.6</cell><cell>3.6</cell><cell>21.5</cell><cell>&lt;.0001</cell><cell>0.9</cell><cell>2.6</cell><cell>2.5</cell><cell>22.3</cell><cell>&lt;.0001</cell></row><row><cell>Age, mean, y</cell><cell>53.8</cell><cell>53.9</cell><cell>53.5</cell><cell>55.6</cell><cell>.015</cell><cell>51.0</cell><cell>52.8</cell><cell>55.6</cell><cell>57.2</cell><cell>&lt;.0001</cell></row><row><cell>Body mass index, mean, kg/m 2</cell><cell>22.7</cell><cell>23.4</cell><cell>24.0</cell><cell>24.8</cell><cell>&lt;.0001</cell><cell>23.0</cell><cell>23.2</cell><cell>23.9</cell><cell>24.8</cell><cell>&lt;.0001</cell></row><row><cell>Systolic blood pressure, mean, mm Hg</cell><cell>122.3</cell><cell>123.9</cell><cell>127.2</cell><cell>130.8</cell><cell>&lt;.0001</cell><cell>121.9</cell><cell>122.1</cell><cell>126.7</cell><cell>133.1</cell><cell>&lt;.0001</cell></row><row><cell>HDL cholesterol, mean, mg/dL</cell><cell>43.6</cell><cell>40.7</cell><cell>39.9</cell><cell>37.5</cell><cell>&lt;.0001</cell><cell>42.8</cell><cell>42.4</cell><cell>39.3</cell><cell>37.8</cell><cell>&lt;.0001</cell></row><row><cell>LDL cholesterol, mean, mg/dL</cell><cell>124.2</cell><cell>128.9</cell><cell>128.6</cell><cell>138.3</cell><cell>&lt;.0001</cell><cell>120.1</cell><cell>127.2</cell><cell>132.3</cell><cell>140.8</cell><cell>&lt;.0001</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table II .</head><label>II</label><figDesc>Median levels, incidence rates, RRs (and 95% CIs) of CVD events (n = 166) during 10 years of follow-up according to quartiles of baseline fasting glucose, postchallenge glucose and insulin resistance in 1994-1995 in the CCCC study Incidence rates presented as per 1000 person years. Model 1: adjusted for age groups (35-44, 45-54, 55-64, 65-74, ≥75 years ) and gender; model 2: model 1 covariates plus body mass index (&lt;18, 18-20.9, 21-22.9, 23-24.9, or ≥25 kg/m 2 ), smoking (yes/no or abstinence), current alcohol drinking (regular/no), marital status(single, married and living with spouse, or divorced and separate), education level (&lt;9 years, at least 9 years), occupation (no work, labor, official or business), regular exercise habit (yes/no), and family history of coronary heart disease (yes/no); model 3: model 2 covariates plus the metabolic syndrome status (yes/no). py, Person years.</figDesc><table><row><cell>Quartiles</cell><cell>1</cell><cell>2</cell><cell>95% CI</cell><cell>3</cell><cell>95% CI</cell><cell>4</cell><cell>95% CI</cell><cell>P trend</cell></row><row><cell>Fasting glucose</cell><cell>92</cell><cell>101</cell><cell></cell><cell>111</cell><cell></cell><cell>134</cell><cell></cell><cell></cell></row><row><cell>Rate (/1000 py)</cell><cell>6.4</cell><cell>3.7</cell><cell></cell><cell>9</cell><cell></cell><cell>15.2</cell><cell></cell><cell></cell></row><row><cell>Model 1</cell><cell>1</cell><cell>0.55</cell><cell>0.31-0.98</cell><cell>1.47</cell><cell>0.95-2.29</cell><cell>2.21</cell><cell>1.46-3.33</cell><cell>&lt;.0001</cell></row><row><cell>Model 2</cell><cell>1</cell><cell>0.55</cell><cell>0.31-0.97</cell><cell>1.48</cell><cell>0.94-2.32</cell><cell>2.09</cell><cell>1.37-3.19</cell><cell>&lt;.0001</cell></row><row><cell>Model 3</cell><cell>1</cell><cell>0.49</cell><cell>0.26-0.90</cell><cell>1.22</cell><cell>0.74-2.03</cell><cell>1.74</cell><cell>1.06-2.86</cell><cell>.001</cell></row><row><cell>Postchallenge glucose</cell><cell>87</cell><cell>113</cell><cell></cell><cell>136</cell><cell></cell><cell>196</cell><cell></cell><cell></cell></row><row><cell>Rate (/1000 py)</cell><cell>4.7</cell><cell>5.7</cell><cell></cell><cell>8.3</cell><cell></cell><cell>15.3</cell><cell></cell><cell></cell></row><row><cell>Model 1</cell><cell>1</cell><cell>1.24</cell><cell>0.72-2.14</cell><cell>1.50</cell><cell>0.90-2.50</cell><cell>2.52</cell><cell>1.58-4.03</cell><cell>&lt;.0001</cell></row><row><cell>Model 2</cell><cell>1</cell><cell>1.20</cell><cell>0.69-2.08</cell><cell>1.45</cell><cell>0.87-2.42</cell><cell>2.39</cell><cell>1.48-3.85</cell><cell>&lt;.0001</cell></row><row><cell>Model 3</cell><cell>1</cell><cell>1.14</cell><cell>0.64-2.05</cell><cell>1.24</cell><cell>0.72-2.14</cell><cell>2.05</cell><cell>1.23-3.42</cell><cell>.001</cell></row><row><cell>Fasting insulin</cell><cell>1.88</cell><cell>4.10</cell><cell></cell><cell>6.60</cell><cell></cell><cell>12.17</cell><cell></cell><cell></cell></row><row><cell>Rate (/1000 py)</cell><cell>8.1</cell><cell>8.2</cell><cell></cell><cell>7.6</cell><cell></cell><cell>9.6</cell><cell></cell><cell></cell></row><row><cell>Model 1</cell><cell>1</cell><cell>1.23</cell><cell>0.79-1.91</cell><cell>1.31</cell><cell>0.83-2.06</cell><cell>1.62</cell><cell>1.05-2.50</cell><cell>.029</cell></row><row><cell>Model 2</cell><cell>1</cell><cell>1.21</cell><cell>0.77-1.90</cell><cell>1.19</cell><cell>0.75-1.90</cell><cell>1.43</cell><cell>0.90-2.27</cell><cell>.16</cell></row><row><cell>Model 3</cell><cell>1</cell><cell>1.03</cell><cell>0.64-1.65</cell><cell>0.95</cell><cell>0.58-1.57</cell><cell>0.97</cell><cell>0.58-1.60</cell><cell>.85</cell></row><row><cell>Postchallenge insulin</cell><cell>6.045</cell><cell>17.1</cell><cell></cell><cell>30.1</cell><cell></cell><cell>60.49</cell><cell></cell><cell></cell></row><row><cell>Rate (/1000 py)</cell><cell>7</cell><cell>8.1</cell><cell></cell><cell>9.2</cell><cell></cell><cell>9.1</cell><cell></cell><cell></cell></row><row><cell>Model 1</cell><cell>1</cell><cell>1.28</cell><cell>0.80-2.03</cell><cell>1.32</cell><cell>0.84-2.09</cell><cell>1.43</cell><cell>0.90-2.27</cell><cell>.66</cell></row><row><cell>Model 2</cell><cell>1</cell><cell>1.20</cell><cell>0.75-1.93</cell><cell>1.29</cell><cell>0.81-2.04</cell><cell>1.32</cell><cell>0.81-2.15</cell><cell>.87</cell></row><row><cell>Model 3</cell><cell>1</cell><cell>1.10</cell><cell>0.67-1.80</cell><cell>1.13</cell><cell>0.69-1.84</cell><cell>0.93</cell><cell>0.55-1.57</cell><cell>.57</cell></row><row><cell>HOMA-IR</cell><cell>0.469</cell><cell>1.05</cell><cell></cell><cell>1.79</cell><cell></cell><cell>3.52</cell><cell></cell><cell></cell></row><row><cell>Rate (/1000 py)</cell><cell>7.2</cell><cell>8.2</cell><cell></cell><cell>7.2</cell><cell></cell><cell>10.9</cell><cell></cell><cell></cell></row><row><cell>Model 1</cell><cell>1</cell><cell>1.37</cell><cell>0.87-2.15</cell><cell>1.44</cell><cell>0.90-2.30</cell><cell>1.99</cell><cell>1.29-3.07</cell><cell>.002</cell></row><row><cell>Model 2</cell><cell>1</cell><cell>1.36</cell><cell>0.86-2.15</cell><cell>1.34</cell><cell>0.83-2.17</cell><cell>1.82</cell><cell>1.14-2.91</cell><cell>.017</cell></row><row><cell>Model 3</cell><cell>1</cell><cell>1.31</cell><cell>0.80-2.15</cell><cell>1.08</cell><cell>0.63-1.84</cell><cell>1.36</cell><cell>0.80-2.30</cell><cell>.36</cell></row><row><cell>HOMA %B</cell><cell>14.74</cell><cell>33.4</cell><cell></cell><cell>54.3</cell><cell></cell><cell>95.00</cell><cell></cell><cell></cell></row><row><cell>Rate (/1000 py)</cell><cell>10</cell><cell>9.6</cell><cell></cell><cell>7.7</cell><cell></cell><cell>6.3</cell><cell></cell><cell></cell></row><row><cell>Model 1</cell><cell>1</cell><cell>1.19</cell><cell>0.79-1.79</cell><cell>1.07</cell><cell>0.70-1.64</cell><cell>0.93</cell><cell>0.59-1.47</cell><cell>.31</cell></row><row><cell>Model 2</cell><cell>1</cell><cell>1.05</cell><cell>0.70-1.60</cell><cell>0.94</cell><cell>0.60-1.45</cell><cell>0.78</cell><cell>0.48-1.25</cell><cell>.11</cell></row><row><cell>Model 3</cell><cell>1</cell><cell>0.88</cell><cell>0.56-1.37</cell><cell>0.81</cell><cell>0.51-1.28</cell><cell>0.71</cell><cell>0.43-1.17</cell><cell>.11</cell></row><row><cell>QUICKI</cell><cell>0.23</cell><cell>0.27</cell><cell></cell><cell>0.32</cell><cell></cell><cell>0.42</cell><cell></cell><cell></cell></row><row><cell>Rate (/1000 py)</cell><cell>10.6</cell><cell>7.6</cell><cell></cell><cell>8.2</cell><cell></cell><cell>7.2</cell><cell></cell><cell></cell></row><row><cell>Model 1</cell><cell>1</cell><cell>0.78</cell><cell>0.51-1.19</cell><cell>0.70</cell><cell>0.46-1.06</cell><cell>0.52</cell><cell>0.34-0.80</cell><cell>.004</cell></row><row><cell>Model 2</cell><cell>1</cell><cell>0.81</cell><cell>0.52-1.24</cell><cell>0.77</cell><cell>0.50-1.19</cell><cell>0.57</cell><cell>0.36-0.91</cell><cell>.023</cell></row><row><cell>Model 3</cell><cell>1</cell><cell>0.88</cell><cell>0.56-1.38</cell><cell>0.99</cell><cell>0.62-1.59</cell><cell>0.77</cell><cell>0.45-1.30</cell><cell>.36</cell></row><row><cell>ISI 0,120</cell><cell>0.1</cell><cell>0.16</cell><cell></cell><cell>0.23</cell><cell></cell><cell>0.39</cell><cell></cell><cell></cell></row><row><cell>Rate (/1000 py)</cell><cell>13.5</cell><cell>8.5</cell><cell></cell><cell>6.2</cell><cell></cell><cell>5.9</cell><cell></cell><cell></cell></row><row><cell>Model 1</cell><cell>1</cell><cell>0.63</cell><cell>0.43-0.94</cell><cell>0.53</cell><cell>0.34-0.82</cell><cell>0.47</cell><cell>0.30-0.74</cell><cell>.37</cell></row><row><cell>Model 2</cell><cell>1</cell><cell>0.64</cell><cell>0.42-0.96</cell><cell>0.56</cell><cell>0.35-0.87</cell><cell>0.50</cell><cell>0.31-0.80</cell><cell>.36</cell></row><row><cell>Model 3</cell><cell>1</cell><cell>0.70</cell><cell>0.45-1.09</cell><cell>0.68</cell><cell>0.41-1.12</cell><cell>0.69</cell><cell>0.41-1.16</cell><cell>.36</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table III .</head><label>III</label><figDesc>Incidence rates (/1000 person-year) and RRs (and 95% CIs) of CVD events during 10.5 years of follow-up according to ADA criteria of diabetes in 1994-1995 in the CCCC study</figDesc><table><row><cell cols="2">Fasting glucose Normal</cell><cell>IFG</cell><cell>95% CI</cell><cell>Newly identified diabetes</cell><cell>95% CI</cell><cell>Diagnosed diabetes</cell><cell>95% CI</cell><cell></cell></row><row><cell>Number</cell><cell>1276</cell><cell>466</cell><cell></cell><cell>264</cell><cell></cell><cell>158</cell><cell></cell><cell></cell></row><row><cell>Rate</cell><cell>5.7</cell><cell>10.5</cell><cell></cell><cell>11.2</cell><cell></cell><cell>20.9</cell><cell></cell><cell></cell></row><row><cell>Model 1</cell><cell>1</cell><cell cols="2">1.86 1.27-2.71</cell><cell>1.86</cell><cell>1.18-2.93</cell><cell>3.13</cell><cell cols="2">2.00-4.90 &lt;.0001</cell></row><row><cell>Model 2</cell><cell>1</cell><cell cols="2">1.87 1.28-2.75</cell><cell>1.72</cell><cell>1.09-2.73</cell><cell>3.01</cell><cell cols="2">1.90-4.75 &lt;.0001</cell></row><row><cell>Model 3</cell><cell>1</cell><cell cols="2">1.58 1.02-2.46</cell><cell>1.40</cell><cell>0.83-2.38</cell><cell>2.78</cell><cell>1.67-4.64</cell><cell>.001</cell></row><row><cell>Postchallenge</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>glucose</cell><cell>Normal</cell><cell>IGT</cell><cell>95% CI</cell><cell>Newly identified diabetes</cell><cell>95% CI</cell><cell>Diagnosed diabetes</cell><cell>95% CI</cell><cell>P trend</cell></row><row><cell>Number</cell><cell>1343</cell><cell>448</cell><cell></cell><cell>149</cell><cell></cell><cell>158</cell><cell></cell><cell></cell></row><row><cell>Rate</cell><cell>5.8</cell><cell>9.3</cell><cell></cell><cell>17.5</cell><cell></cell><cell>20.9</cell><cell></cell><cell></cell></row><row><cell>Model 1</cell><cell>1</cell><cell cols="2">1.26 0.85-1.87</cell><cell>2.37</cell><cell>1.47-3.83</cell><cell>2.86</cell><cell cols="2">1.83-4.46 &lt;.0001</cell></row><row><cell>Model 2</cell><cell>1</cell><cell cols="2">1.20 0.80-1.79</cell><cell>2.32</cell><cell>1.42-3.78</cell><cell>2.71</cell><cell cols="2">1.71-4.28 &lt;.0001</cell></row><row><cell>Model 3</cell><cell>1</cell><cell cols="2">1.05 0.68-1.62</cell><cell>1.88</cell><cell>1.11-3.18</cell><cell>2.48</cell><cell>1.51-4.06</cell><cell>.0002</cell></row><row><cell>Models as Table II.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table IV .</head><label>IV</label><figDesc>Relative risks and 95% CIs of the highest quartiles from multivariate models with combination of fasting glucose, postchallenge glucose and another insulin resistance marker, after adjustment for confounding factors</figDesc><table><row><cell>Marker</cell><cell>RR</cell><cell>95% CI</cell><cell>P trend</cell><cell>Marker</cell><cell>RR</cell><cell>95% CI</cell><cell>P trend</cell></row><row><cell>Fasting glucose</cell><cell>1.61</cell><cell>1.01-2.58</cell><cell>.003</cell><cell>Postchallenge glucose</cell><cell>1.72</cell><cell>1.02-2.89</cell><cell>.015</cell></row><row><cell>Fasting glucose</cell><cell>2.09</cell><cell>1.36-3.24</cell><cell>&lt;.0001</cell><cell>Fasting insulin</cell><cell>1.10</cell><cell>0.68-1.77</cell><cell>.79</cell></row><row><cell>Fasting glucose</cell><cell>2.01</cell><cell>1.31-3.09</cell><cell>&lt;.0001</cell><cell>Postchallenge insulin</cell><cell>1.14</cell><cell>0.70-1.86</cell><cell>.65</cell></row><row><cell>Fasting glucose</cell><cell>2.01</cell><cell>1.26-3.19</cell><cell>&lt;.0001</cell><cell>HOMA-IR</cell><cell>1.19</cell><cell>0.71-2.00</cell><cell>.64</cell></row><row><cell>Fasting glucose</cell><cell>2.02</cell><cell>1.31-3.10</cell><cell>&lt;.0001</cell><cell>HOMA %B</cell><cell>0.94</cell><cell>0.57-1.52</cell><cell>.77</cell></row><row><cell>Fasting glucose</cell><cell>2.01</cell><cell>1.27-3.19</cell><cell>&lt;.0001</cell><cell>QUICKI</cell><cell>0.87</cell><cell>0.52-1.45</cell><cell>.57</cell></row><row><cell>Fasting glucose</cell><cell>1.83</cell><cell>1.14-2.94</cell><cell>.001</cell><cell>ISI 0,120</cell><cell>0.72</cell><cell>0.43-1.21</cell><cell>.28</cell></row><row><cell>Postchallenge glucose</cell><cell>2.34</cell><cell>1.44-3.80</cell><cell>&lt;.0001</cell><cell>Fasting insulin</cell><cell>1.18</cell><cell>0.73-1.92</cell><cell>.62</cell></row><row><cell>Postchallenge glucose</cell><cell>2.71</cell><cell>1.54-4.76</cell><cell>&lt;.0001</cell><cell>Postchallenge insulin</cell><cell>0.75</cell><cell>0.42-1.34</cell><cell>.29</cell></row><row><cell>Postchallenge glucose</cell><cell>2.20</cell><cell>1.34-3.59</cell><cell>.000</cell><cell>HOMA-IR</cell><cell>1.43</cell><cell>0.87-2.36</cell><cell>.22</cell></row><row><cell>Postchallenge glucose</cell><cell>2.42</cell><cell>1.50-3.90</cell><cell>&lt;.0001</cell><cell>HOMA %B</cell><cell>0.83</cell><cell>0.51-1.36</cell><cell>.34</cell></row><row><cell>Postchallenge glucose</cell><cell>2.19</cell><cell>1.34-3.59</cell><cell>.001</cell><cell>QUICKI</cell><cell>0.73</cell><cell>0.44-1.20</cell><cell>.21</cell></row><row><cell>Postchallenge glucose</cell><cell>2.73</cell><cell>1.19-6.27</cell><cell>.003</cell><cell>ISI 0,120</cell><cell>1.18</cell><cell>0.51-2.72</cell><cell>.60</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">American Heart JournalOctober 2008</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>We thank the participants in the Chin-Shan community for their participation.</p></div>
+			</div>
+
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Fasting hyperglycemia in non-insulin-dependent diabetes mellitus: contributions of excessive hepatic glucose production and impaired tissue glucose uptake</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Defronzo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Ferrannini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Simonson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Metabolism</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="387" to="395" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Impaired glucose tolerance and impaired fasting glycaemia: the current status on definition and intervention</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Unwin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Shaw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Zimmet</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabet Med</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="708" to="723" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Impaired glucose tolerance and fasting hyperglycaemia have different characteristics</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Davies</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">T</forename><surname>Raymond</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Day</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabet Med</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="433" to="440" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Different mechanisms for impaired fasting glucose and impaired postprandial glucose tolerance in humans</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Meyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Pimenta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Woerle</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="1909" to="1914" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Homeostasis model assessment: insulin resistance and ?cell function from fasting plasma glucose and insulin concentrations in man</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Matthws</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Hosker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Rudenski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="412" to="419" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Quantitative insulin sensitivity check index: a simple, accurate method for assessing insulin sensitivity in humans</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Katz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Nambi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Mather</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Endocrinol Metab</title>
+		<imprint>
+			<biblScope unit="volume">85</biblScope>
+			<biblScope unit="page" from="2402" to="2410" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Validation of the insulin sensitivity index (ISI(0,120)): comparison with other measures</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Gutt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Davis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">B</forename><surname>Spitzer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Res Clin Pract</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="177" to="184" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Inhibition of postprandial hyperglycemia by acarbose is a promising therapeutic strategy for the treatment of patients with the metabolic syndrome</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Yamagishi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Nakamura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Takeuchi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Med Hypotheses</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="page" from="152" to="154" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Hyperuricemia as a risk factor on cardiovascular events in Taiwan: The Chin-Shan Community Cardiovascular Cohort study</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">L</forename><surname>Chien</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Hsu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">C</forename><surname>Sung</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Atherosclerosis</title>
+		<imprint>
+			<biblScope unit="volume">183</biblScope>
+			<biblScope unit="page" from="147" to="155" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Chin-Shan Community Cardiovascular Cohort in Taiwan: baseline data and five-year follow-up morbidity and mortality</title>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">T</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">C</forename><surname>Sung</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Clinical Epidemiology</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="836" to="846" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Hyperinsulinemia and related atherosclerotic risk factors in the population at cardiovascular risk: a community-based study</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">L</forename><surname>Chien</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">T</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">C</forename><surname>Sung</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clinical Chemistry</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="838" to="846" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Use and abuse of HOMA modeling</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">M</forename><surname>Wallace</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Levy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Matthews</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="1487" to="1495" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Can we apply the National Cholesterol Education Program Adult Treatment Panel definition of the metabolic syndrome to Asians?</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Tan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Wai</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="1182" to="1186" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Principles and practical application of the receiver-operating characteristic analysis for diagnostic tests</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Greiner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Pfeiffer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Smith</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Prev Vet Med</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="23" to="41" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Diabetes Epidemiology: Collaborative analysis Of Diagnostic criteria in Europe. Glucose tolerance and mortality: comparison of WHO and American Diabetes Association diagnostic criteria</title>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">354</biblScope>
+			<biblScope unit="page" from="617" to="621" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+		<respStmt>
+			<orgName>The DECODE study group, European Diabetes Epidemiology Group</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Glucose tolerance and cardiovascular mortality: comparison of fasting and 2-hour diagnostic criteria</title>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">161</biblScope>
+			<biblScope unit="page" from="397" to="405" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+		<respStmt>
+			<orgName>Decode Study Group</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Postprandial blood glucose is a stronger predictor of cardiovascular events than fasting blood glucose in type 2 diabetes mellitus, particularly in women: lessons from the San Luigi Gonzaga Diabetes Study</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Cavalot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Petrelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Traversa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Endocrinol Metab</title>
+		<imprint>
+			<biblScope unit="volume">91</biblScope>
+			<biblScope unit="page" from="813" to="819" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Two-hour glucose is a better risk predictor for incident coronary heart disease and cardiovascular mortality than fasting glucose</title>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Qiao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Pyorala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Pyorala</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur Heart J</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="1267" to="1275" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Impaired glucose tolerance is a risk factor for cardiovascular disease, but not impaired fasting glucose. The Funagata Diabetes Study</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tominaga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Eguchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Manaka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="920" to="924" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">The relation of fasting and 2-h postchallenge plasma glucose concentrations to mortality: data from the Baltimore Longitudinal Study of Aging with a critical review of the literature</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Sorkin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Muller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Fleg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="2626" to="2632" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">The relationship between glucose and incident cardiovascular events. A metaregression analysis of published data from 20 studies of 95,783 individuals followed for 12.4 years</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Coutinho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Gerstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="233" to="240" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Low fasting plasma glucose level as a predictor of cardiovascular disease and all-cause mortality</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Wei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">W</forename><surname>Gibbons</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">L</forename><surname>Mitchell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">101</biblScope>
+			<biblScope unit="page" from="2047" to="2052" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Association between hyper-and hypoglycaemia and 2 year all-cause mortality risk in diabetic patients with acute coronary events</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Svensson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">K</forename><surname>Mcguire</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Abrahamsson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur Heart J</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="1255" to="1261" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Impaired glucose tolerance, but not impaired fasting glucose, is associated with increased levels of coronary heart disease risk factors: results from the Baltimore Longitudinal Study on Aging</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Blake</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Meigs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Muller</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="2095" to="2100" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Impaired fasting glucose is not a risk factor for atherosclerosis</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hanefeld</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Temelkova-Kurktschiev</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Schaper</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabet Med</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="212" to="218" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Comparison of metabolic risk profiles between subjects with fasting and 2-hour plasma glucose impairment: The Kinmen Study</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">T</forename><surname>Tsai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Chou</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="19" to="24" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Effects of impaired fasting glucose and impaired glucose tolerance on predicting incident type 2 diabetes in a Chinese population with high post-prandial glucose</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">Y</forename><surname>Yuan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">X</forename><surname>Zhu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Res Clin Pract</title>
+		<imprint>
+			<biblScope unit="volume">66</biblScope>
+			<biblScope unit="page" from="183" to="191" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Blood glucose and risk of cardiovascular disease in the Asia Pacific region</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Lawes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Parag</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Bennett</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="2836" to="2842" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

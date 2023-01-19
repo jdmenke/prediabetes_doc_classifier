@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Impaired Fasting Glucose and the Risk of Incident Diabetes Mellitus and Cardiovascular Events in an Adult Population MESA (Multi-Ethnic Study of Atherosclerosis)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><roleName>MD, MS</roleName><forename type="first">Joseph</forename><surname>Yeboah</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Department of Internal Medicine/Cardiology</orgName>
+								<orgName type="department" key="dep2">†Department of Internal Medicine/ Cardiology</orgName>
+								<orgName type="institution">University of Virginia School of Medicine</orgName>
+								<address>
+									<settlement>Charlottesville</settlement>
+									<region>Virginia</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">‡Division of Public Health Sciences</orgName>
+								<orgName type="institution">Wake Forest University School of Medicine</orgName>
+								<address>
+									<settlement>Winston-Salem, North Carolina</settlement>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="institution">Wake Forest University School of Medicine</orgName>
+								<address>
+									<settlement>Winston-Salem, North Carolina</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MD, MPH</roleName><forename type="first">Alain</forename><forename type="middle">G</forename><surname>Bertoni</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MD, MHS</roleName><forename type="first">David</forename><forename type="middle">M</forename><surname>Herrington</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MD, MS</roleName><forename type="first">Wendy</forename><forename type="middle">S</forename><surname>Post</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MD, MSC</roleName><forename type="first">Gregory</forename><forename type="middle">L</forename><surname>Burke</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="institution">North Carolina</orgName>
+								<address>
+									<settlement>Charlottesville, Winston-Salem, Baltimore, Maryland</settlement>
+									<region>Virginia</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff4">
+								<orgName type="department">§Division of Cardiology</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff5">
+								<orgName type="department">Department of Medicine</orgName>
+								<orgName type="institution">Johns Hopkins University School of Medicine</orgName>
+								<address>
+									<settlement>Baltimore</settlement>
+									<region>Maryland</region>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Impaired Fasting Glucose and the Risk of Incident Diabetes Mellitus and Cardiovascular Events in an Adult Population MESA (Multi-Ethnic Study of Atherosclerosis)</title>
+					</analytic>
+					<monogr>
+						<idno type="ISSN">0735-1097/$36.00</idno>
+					</monogr>
+					<idno type="MD5">BF8D7FB35AF45BADFA17B6A5DF40DC7A</idno>
+					<idno type="DOI">10.1016/j.jacc.2011.03.025</idno>
+					<note type="submission">received January 14, 2011; revised manuscript received March 2, 2011, accepted March 22, 2011.</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.1" ident="GROBID" when="2022-07-19T23:00+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The purpose of the study was to assess the cardiovascular risk of impaired fasting glucose (IFG).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Background</head><p>The associations between IFG, incident type 2 diabetes mellitus (T2DM), and cardiovascular (CV) events remains unclear.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head><p>The MESA (Multi-Ethnic Study of Atherosclerosis) study included participants who were 45 to 84 years or age and free of clinical CV disease at baseline (2000 to 2002). Type 2 DM was defined as fasting glucose Ͼ125 mg/dl or receiving antidiabetes medication at baseline and follow-up examinations; IFG was defined as no T2DM and fasting glucose 100 to 125 mg/dl. Cox proportional hazards analysis was used to assess the association between IFG and incident DM and also between IFG and incident CV events.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>Of 6,753 participants included in these analyses, 840 (12.7%) had T2DM and 940 (13.8%) had IFG at the baseline examination. During 7.5 years of follow-up, there were 418 adjudicated CV events. Type 2 DM was associated with an increased CV incidence in the univariate model (hazard ratio [HR]: 2.83, 95% confidence interval [CI]: 2.25 to 3.56, p Ͻ 0.0001) and multivariate model adjusted for demographics and traditional risk factors (HR: 1.87, 95% CI: 1.47 to 2.37, p Ͻ 0.0001) compared with subjects not having T2DM (IFG plus normal fasting glucose). Impaired fasting glucose was associated with increased incidence of T2DM (HR: 13.2, 95% CI: 10.8 to 16.2, p Ͻ 0.001) that remained after adjusting for demographics, highest educational level, physical activity, and body mass index (HR: 10.5, 95% CI: 8.4 to 13.1, p Ͻ 0.001) compared with normal fasting glucose. Impaired fasting glucose was associated with incident CV events in the univariate model (HR: 1.64, 95% CI: 1.26 to 2.14, p Ͻ 0.001) but not in the full multivariate model (HR: 1.16, 95% CI: 0.88 to 1.52, p ϭ 0.3) compared with normal fasting glucose.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusions</head><p>Having IFG was not independently associated with an increased short-term risk for incident CV events. These data reiterate the importance of intervention for persons with IFG to reduce their incidence of T2DM.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>It has been estimated that Ͼ44 million adults in the United States have impaired fasting blood glucose (IFG), and the numbers will likely continue to increase as a consequence of the ongoing obesity epidemic <ref type="bibr" target="#b0">(1,</ref><ref type="bibr" target="#b1">2)</ref>. Persons with IFG (pre-diabetes) are at an increased risk of having type 2 diabetes mellitus (T2DM) develop compared with subjects with normal fasting glucose (NFG) <ref type="bibr" target="#b2">(3,</ref><ref type="bibr" target="#b3">4)</ref>. However, the relationship between IFG and clinical cardiovascular (CV) events is less well established, with some but not all studies suggesting that IFG is an independent cardiovascular disease (CVD) risk factor. Furthermore, the currently available data concerning IFG and CV events are from cohorts with established CVD <ref type="bibr" target="#b4">(5)</ref><ref type="bibr" target="#b5">(6)</ref><ref type="bibr" target="#b6">(7)</ref> and/or from either single sex or race/ethnicity groups <ref type="bibr">(8 -12)</ref>, limiting their applicability to general populations.</p><p>Several meta-analyses have attempted to address this question but these meta-analyses have limitations, such as single race/ethnicity, the use of International Classification of Disease-Ninth Revision (ICD-9) codes, significant loss to follow-up of participants, and differences in the constituents of the composite outcomes in the studies that were included in these meta-analyses <ref type="bibr" target="#b12">(13)</ref><ref type="bibr" target="#b13">(14)</ref><ref type="bibr" target="#b14">(15)</ref>. Moreover, the degree of adjustment for potential confounders in the studies included in these meta-analyses was variable, limiting the validity of the direct comparison of risk in these studies <ref type="bibr" target="#b12">(13)</ref><ref type="bibr" target="#b13">(14)</ref><ref type="bibr" target="#b14">(15)</ref>. Some of the studies included in these meta-analysis had follow-up periods as long as 21 years, a period by which most persons with impaired fasting glucose would have had diabetes mellitus (DM) develop for at least 10 years, making it unclear whether this increased CV risk was due to DM or to IFG <ref type="bibr" target="#b12">(13,</ref><ref type="bibr" target="#b13">14)</ref>.</p><p>To clarify the associations of IFG with both T2DM and CVD in a more ethnically diverse population, we examined baseline IFG and 7.5-year incident T2DM and CV events in the MESA (Multi-Ethnic Study of Atherosclerosis) study.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study population and data collection.</head><p>The study design for the MESA study has been published elsewhere <ref type="bibr" target="#b15">(16)</ref>. In brief, the MESA study is a prospective cohort study to investigate the prevalence, correlates, and progression of subclinical CVD in persons without known CVD at baseline. The cohort includes 6,814 women and men ages 45 to 84 years recruited from 6 U.S. communities (Baltimore, Maryland; Chicago, Illinois; Forsyth County, North Carolina; Los Angeles County, California; northern Manhattan, New York; and St. Paul, Minnesota). The MESA cohort participants were 38% white, 28% African American, 22% Hispanic, and 12% Chinese. Persons with a history of physician-diagnosed myocardial infarction, angina, heart failure, stroke, or transient ischemic attack, or who had undergone an invasive procedure for CVD (coronary artery bypass graft surgery, angioplasty, valve replacement, pacemaker placement, or other vascular surgeries) were excluded from participation. This study was approved by the institutional review boards of each study site, and written informed consent was obtained from all participants.</p><p>Demographics, medical history, and anthropometric and laboratory data for the present study were taken from the first examination of the MESA cohort (July 2000 to August 2002). Current smoking was defined as having smoked a cigarette in the last 30 days. Use of antihypertensive and other medications was based on review of prescribed medication containers. Resting blood pressure was measured 3 times in the seated position, and the average of the second and third readings was recorded. Hypertension was defined as a systolic blood pressure Ն140 mm Hg, diastolic blood pressure Ն90 mm Hg, or use of medication prescribed for hypertension. Body mass index was calculated as weight (kg) divided by height (m 2 ). Total cholesterol and highdensity lipoprotein cholesterol were measured from blood samples obtained after a 12-h fast. Low-density lipoprotein cholesterol was estimated by the Friedewald equation <ref type="bibr" target="#b16">(17)</ref>. Fasting blood glucose (serum) was measured by the glucose oxidase method on the Vitros analyzer (Johnson &amp; Johnson Clinical Diagnostics, Rochester, New York).</p><p>Diabetes mellitus was defined as fasting glucose Ͼ125 mg/dl or the use of hypoglycemic medications. Among subjects not reporting use of hypoglycemic medications, we defined IFG as between 100 and 125 mg/dl and NFG as Ͻ100 mg/dl. Definition of incident DM. Fasting blood glucose was measured, and data on the use of diabetes medication were collected from the MESA study participants during examinations 2, 3, and 4 (follow-up through 2007). Incident T2DM in the present study was defined as fasting blood glucose Ͼ125 mg/dl or use of hypoglycemic medications during examinations 2, 3, or 4 of participants who did not have T2DM during the baseline MESA study examination <ref type="bibr">(2000 to 2002)</ref>. Ascertainment of CV events. Cardiovascular events were adjudicated by a MESA study committee that included cardiologists, physician epidemiologists, and neurologists. A detailed description of the CV event adjudication process has already been published (21). For the purposes of this study, we define our composite outcome (composite event) as incident myocardial infarction, definite angina, probable angina (if followed by coronary artery bypass grafting and percutaneous coronary intervention), resuscitated cardiac arrest, stroke, stroke death, coronary heart disease death, or other CVD death as defined by the MESA protocol. Statistical analysis. Descriptive data are presented as mean Ϯ SD for continuous variables or the frequencies of participants for categorical variables. Kaplan-Meier analysis was used to assess the univariate association of the 3 categories of glucose control (NFG, IFG, and T2DM) with incident CV events. Cox proportional hazards regression model was use to assess the association of: 1) fasting blood glucose (as a continuous variable) with incident CV event; 2) DM (compared with subjects not having T2DM) with incident CV events; and 3) IFG (compared with NFG) with incident CV events in both the univariate analysis and multivariable analysis, adjusting for confounders including age, sex, race/ ethnicity, systolic blood pressure, body mass index (BMI), cigarette smoking, total cholesterol, high-density lipoprotein cholesterol, triglycerides, blood pressure medications use, and 3-hydroxy-3-methylglutaryl-coenzyme A (HMG-CoA) reductase inhibitors use. Potential confounders were selected on the basis of prior evidence of an association with CV events from previous studies. The association between IFG (compared with NFG) and the components of our composite outcome and all cause mortality was also assessed.</p><p>Cox proportional hazards analysis was also used to assess the association between IFG (compared with normoglycemia) and incidence of DM in a univariate analysis and also in a multivariate analysis adjusting for age, sex, race/ ethnicity, BMI, physical activity, and educational level. Finally, traditional CV risk factor profiles and incident CV event rates of the subcohort with IFG at baseline in whom T2DM developed and those in whom it did not were compared. A 2-tailed value of p Ͻ 0.05 was considered significant. All statistical analyses were performed using SAS version 9.2.2 (SAS Institute, Cary, North Carolina).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>Twenty-nine participants had missing data on fasting blood glucose, and 32 participants had no follow-up information, resulting in a final sample of 6,753 (840 with T2DM, 940 with IFG, and 4,973 with NFG). The mean age of the cohort was 62.2 years; 52.9% were female; 38.4% were Caucasian, 11.8% Chinese, 27.8% African American, and 22% Hispanic. Table <ref type="table">1</ref> shows the demographic characteristics of the 3 fasting blood glucose categories in the MESA cohort. Subjects with NFG were relatively younger and generally had a better CV risk profile compared with subjects having either IFG or T2DM. There were 418 adjudicated CV events during the 7.5 years of follow-up: 105 in the DM group, 72 in the IFG group, and 241 in the NFG group. Association of fasting blood glucose and incident CV events. Fasting blood glucose was associated with incident CV events in both the univariate and the multivariate analysis (hazard ratio [HR] per 10 mg/dl increase: 1.08, 95% confidence interval [CI]: 1.06 to 1.10, p Ͻ 0.0001; and HR: 1.05, 95% CI: 1.03 to 1.08, p Ͻ 0.0001, respectively; data not shown). Figure <ref type="figure" target="#fig_1">1</ref>  3) (Fig. <ref type="figure">3</ref>). Similar HRs and 95% CIs were obtained when individual CV outcomes and all-cause mortality were evaluated (Table <ref type="table">2</ref>). Impaired fasting glucose was not associated with incident CV events in any sex or race/ethnicity   Similarly, participants with normal glucose at baseline (NFG) who had DM during follow-up did not have a significantly higher incident CV events compared with participant with NFG at baseline who did not have DM during follow-up (data not shown).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>The goal of this study was to evaluate the hypothesis that IFG is an independent risk factor for CV events in a population-based sample of adults free of CVD at baseline. After 7.5 years of follow-up of the largest multi-ethnic cohort so far studied on this subject, we observed that: 1) the threshold of fasting blood glucose that is independently associated with CV risk may be in the DM range; 2) IFG is an independent risk factor for future T2DM; and 3) IFG is not an independent CV risk factor. Since T2DM is an independent CV risk factor, aggressive lifestyle modifications that reduce the incidence of T2DM in persons with IFG may have significant impact on CV events rates in this population.  <ref type="table">1</ref>.</p><p>Even though current theory supports the association between IFG and incident CV events, the data are mixed <ref type="bibr" target="#b4">(5)</ref><ref type="bibr" target="#b5">(6)</ref><ref type="bibr" target="#b6">(7)</ref><ref type="bibr" target="#b7">(8)</ref><ref type="bibr" target="#b8">(9)</ref><ref type="bibr" target="#b9">(10)</ref><ref type="bibr" target="#b10">(11)</ref><ref type="bibr" target="#b11">(12)</ref><ref type="bibr" target="#b12">(13)</ref><ref type="bibr" target="#b13">(14)</ref><ref type="bibr" target="#b14">(15)</ref>. Coutinho et al. <ref type="bibr" target="#b9">(10)</ref> showed in a meta-analysis of 20 studies that the progressive relationship between glucose levels and CV risk extends below the diabetic threshold. Kim et al. <ref type="bibr" target="#b8">(9)</ref> showed in a cross-sectional study that IFG may not be associated with increased CV risk in community-based subjects. Tominaga et al. <ref type="bibr" target="#b11">(12)</ref> used a Japanese population to show that impaired glucose tolerance was a risk factor for CVD but IFG was not a risk factor for CVD. Pankow et al. <ref type="bibr" target="#b10">(11)</ref> showed in the ARIC study that in addition to the poor agreement between IFG and post-challenge glucose levels, neither fasting glucose nor impaired glucose tolerance was associated with adverse CV risk profile. Kanaya et al. <ref type="bibr" target="#b6">(7)</ref> also showed that IFG is not independently associated with increased risk of CV events in post-menopausal women with coronary artery disease. However, Levitzky et al. <ref type="bibr" target="#b7">(8)</ref> used the Framingham Offspring Study participants to show that IFG may be an independent CV risk factor in women but not in men. Sawar et al. <ref type="bibr" target="#b12">(13)</ref> added a systematic review of Western cohorts to the Reykjavik prospective study to show a modest CV risk among Caucasians with IFG. The findings of this study <ref type="bibr" target="#b12">(13)</ref> were also limited by the incomplete adjustment for confounders in these studies and the use of ICD-9 codes in the ascertainment of outcomes. Ford et al. ( <ref type="formula">14</ref>) also showed a modest increase CV risk in their meta-analyses on the association of IFG and CV outcomes. However, those researchers admitted in their conclusions that depending on the set of studies included in their meta-analysis, their findings could be interpreted as no increase or at most a very modest increase in CV risk <ref type="bibr" target="#b13">(14)</ref>. The present study adds to the data, suggesting that while IFG is a risk factor for T2DM and DM is an independent CV risk factor, IFG per se is not an independent CV risk factor, at least during a relatively short time-frame.</p><p>The concept of IFG defined as fasting blood glucose between 110 and 125 mg/dl was recommended by the American Diabetes Association Expert Committee in 1997 as a risk category for further screening using a more definitive test such as a 2-h post-challenge glucose test in subjects at risk of developing T2DM <ref type="bibr" target="#b18">(19)</ref>. Data from population studies suggested that a fasting blood glucose range of 94 to 103 mg/dl predicted persons in whom T2DM would develop <ref type="bibr" target="#b19">(20)</ref>. On the basis of these population-based studies and in an attempt to increase the sensitivity of IFG as a screening tool, the fasting glucose criterion was lowered in 2003 by the American Diabetes Association to 100 to 125 mg/dl. The implication of the lowering of the fasting glucose criterion was an almost quadrupling of the number of Americans with IFG, from 12 million to 44 million <ref type="bibr" target="#b0">(1)</ref>. The present study found IFG as an independent risk factor for the development of T2DM, supporting the notion that interventions aimed at reducing the incidence of IFG would ultimately result in a reduction in the incidence of T2DM in the population.</p><p>Diabetes mellitus is considered a coronary heart disease equivalent <ref type="bibr" target="#b10">(11)</ref>, and persons with IFG (pre-diabetes) have an increased risk of T2DM developing. Supported by a meta-regression analysis <ref type="bibr" target="#b9">(10)</ref>, IFG was postulated to be an independent CV risk factor, and this has been adopted by the American Diabetes Association. In the present study, the significant association of IFG and CV events in our univariate model was explained by traditional CV risk factors, suggesting that the proposed increased CV risk may be due to the coexistence of traditional CV risk factors in persons with IFG.</p><p>The subset of IFG subjects in whom T2DM developed during the follow-up period had similar risk for CV events compared with subjects with IFG who did not have T2DM during the follow-up period. The subjects with IFG in whom T2DM developed during follow-up were younger, more likely to be female, and obese. Thus, DM was more likely to develop in young obese females with IFG in this cohort, and they would, therefore, be at relatively high risk of future CV events. This finding needs replication in other cohorts but has major public health implications with regard to target blood pressure and lipid goals, and cost and allocation of resources for the prevention and treatment of CV diseases. More studies aimed at identifying the subset of subjects with IFG in whom T2DM would develop and who are therefore at risk of CV events are needed. Study limitations. The follow-up period was only 7.5 years. We considered defining IFG and DM using a time-dependent variable approach (updating the status at each examination); however, we had insufficient incident CV events/limited follow-up time post-transition to produce meaningful results. Therefore, we caution readers to interpret the results of this study within the context of the duration of follow-up. It is unclear but possible that, given the strong association between IFG and incident T2DM, a longer duration of follow-up may reveal a positive association between IFG and CVD events. The sample size of the subjects with IFG was modest. Our investigation of incident CV in the IFG subgroup was limited by the relatively short follow-up time for incident CV after conversion to T2DM. The participants with T2DM had DM for a variable period before enrollment in the MESA study; thus, a comparison of the risk of CV in this group versus IFG or new T2DM is perhaps not a fair comparison to make. Our study is observational, and although we adjusted for the known confounders in our models, results may still be affected by residual confounding. Finally, we used a population-based cohort free of clinical CVD at baseline, and our findings do not apply to populations with clinical CVD who are at risk for recurrent CVD.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusions</head><p>After 7.5 years of follow-up, simply having IFG was not associated with an increased risk for incident CV events. More studies aimed at identifying persons with IFG in whom T2DM would develop, and who are, therefore, at increased risk of CV events are needed.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head></head><label></label><figDesc>Abbreviations and Acronyms BMI ‫؍‬ body mass index CI ‫؍‬ confidence interval CV ‫؍‬ cardiovascular CVD ‫؍‬ cardiovascular disease DM ‫؍‬ diabetes mellitus HR ‫؍‬ hazard ratio IFG ‫؍‬ impaired fasting glucose NFG ‫؍‬ normal fasting glucose T2DM ‫؍‬ type 2 diabetes mellitus</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 1 CV</head><label>1</label><figDesc>Figure 1 CV Event-Free Survival of the MESA Study Cohort Kaplan-Meier curves showing the cardiovascular (CV) event-free survival of participants categorized as diabetes mellitus (red line), pre-diabetes or impaired fasting glucose (IFG) (green line), and normoglycemic (blue line) in the MESA (Multi-Ethnic Study of Atherosclerosis) study.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 2</head><label>2</label><figDesc>Figure 2Risk for Incident Diabetes Mellitus in the MESA Study</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head></head><label></label><figDesc>is the Kaplan-Meier adjusted curves showing comparison of the event-free survival rates of subjects with NFG, IFG, and DM in the MESA cohort (95.2%, 92.6%, and 87.5%, respectively; log-rank p Ͻ 0.0001).Diabetes mellitus was associated with incident CV events in both the univariate and multivariate models when compared with subjects without DM (IFG plus NFG [HR: 2.58, 95% CI: 2.07 to 3.22; p Ͻ 0.0001; and HR: 1.87, 95% CI: 1.47 to 2.37, p Ͻ 0.0001]), respectively (data not shown). IFG and incidence of DM. A total of 410 participants without DM at baseline had DM during the 7 years of follow-up. Compared with NFG, IFG was associated with</figDesc><table><row><cell cols="4">Demographic Characteristics of Subjects With Diabetes Mellitus, Impaired Fasting Glucose, and Normal Fasting Glucose in the MESA Study Demographic Characteristics of Subjects With Diabetes Mellitus, Impaired Fasting Glucose, Table 1 and Normal Fasting Glucose in the MESA Study</cell><cell></cell></row><row><cell>Variable</cell><cell>Normoglycemia (n ‫؍‬ 4,973)</cell><cell>Impaired Fasting Glucose (n ‫؍‬ 940)</cell><cell>Diabetes Mellitus (n ‫؍‬ 840)</cell><cell>p Value</cell></row><row><cell>Age, yrs</cell><cell>61.3 Ϯ 10.3</cell><cell>64.2 Ϯ 9.8</cell><cell>64.7 Ϯ 9.4</cell><cell>Ͻ0.001</cell></row><row><cell>Male</cell><cell>44.6</cell><cell>56.0</cell><cell>52.4</cell><cell>Ͻ0.001</cell></row><row><cell>Race/ethnicity</cell><cell></cell><cell></cell><cell></cell><cell>Ͻ0.001</cell></row><row><cell>Caucasian</cell><cell>43.4</cell><cell>31.0</cell><cell>18.6</cell><cell></cell></row><row><cell>Chinese</cell><cell>11.2</cell><cell>14.5</cell><cell>12.3</cell><cell></cell></row><row><cell>African American</cell><cell>25.5</cell><cell>29.7</cell><cell>38.4</cell><cell></cell></row><row><cell>Hispanic</cell><cell>19.9</cell><cell>24.9</cell><cell>30.7</cell><cell></cell></row><row><cell>Body mass index, kg/m 2</cell><cell>27.6 Ϯ 5.2</cell><cell>30.1 Ϯ 5.7</cell><cell>30.6 Ϯ 5.8</cell><cell>Ͻ0.001</cell></row><row><cell>Cigarette smoking</cell><cell></cell><cell></cell><cell></cell><cell>0.85</cell></row><row><cell>Never</cell><cell>50.5</cell><cell>49.8</cell><cell>49.8</cell><cell></cell></row><row><cell>Former</cell><cell>36.3</cell><cell>37.9</cell><cell>37.4</cell><cell></cell></row><row><cell>Current</cell><cell>13.2</cell><cell>12.3</cell><cell>12.8</cell><cell></cell></row><row><cell>Systolic BP, mm Hg</cell><cell>124.5 Ϯ 21.2</cell><cell>132.0 Ϯ 21.2</cell><cell>133.1 Ϯ 22.1</cell><cell>Ͻ0.001</cell></row><row><cell>Diastolic BP, mm Hg</cell><cell>71.5 Ϯ 10.1</cell><cell>74.2 Ϯ 10.6</cell><cell>72.0 Ϯ 10.3</cell><cell>Ͻ0.001</cell></row><row><cell>Cholesterol, mg/dl</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Total</cell><cell>195.1 Ϯ 35.0</cell><cell>194.5 Ϯ 35.2</cell><cell>188.5 Ϯ 40.0</cell><cell>Ͻ0.001</cell></row><row><cell>LDL</cell><cell>117.9 Ϯ 31.1</cell><cell>118.3 Ϯ 31.1</cell><cell>111.9 Ϯ 33.7</cell><cell>Ͻ0.001</cell></row><row><cell>HDL</cell><cell>52.5 Ϯ 15.2</cell><cell>47.2 Ϯ 12.7</cell><cell>46.0 Ϯ 12.7</cell><cell>Ͻ0.001</cell></row><row><cell>Triglycerides</cell><cell>123.3 Ϯ 73.8</cell><cell>147.2 Ϯ 91.7</cell><cell>163.1 Ϯ 142.1</cell><cell>Ͻ0.001</cell></row><row><cell>BP medication use</cell><cell>31.1</cell><cell>56.1</cell><cell>64.0</cell><cell>Ͻ0.001</cell></row><row><cell>Statin use</cell><cell>12.6</cell><cell>16.8</cell><cell>26.0</cell><cell>Ͻ0.001</cell></row><row><cell>Fasting glucose, mg/dl</cell><cell>86.2 Ϯ 7.0</cell><cell>107.8 Ϯ 7.0</cell><cell>151.6 Ϯ 56.4</cell><cell>Ͻ0.001</cell></row><row><cell>Highest educational level</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Less than high school</cell><cell>14.9</cell><cell>24.0</cell><cell>29.7</cell><cell></cell></row><row><cell>High school</cell><cell>17.7</cell><cell>19.4</cell><cell>20.0</cell><cell></cell></row><row><cell>More than high school</cell><cell>67.4</cell><cell>56.6</cell><cell>50.3</cell><cell></cell></row></table><note>Values are mean Ϯ SD or %. BP ϭ blood pressure; HDL ϭ high-density lipoprotein; LDL ϭ low-density lipoprotein; MESA ϭ Multi-Ethnic Study of Atherosclerosis. an increased incidence of DM in the univariate analysis (HR: 13.2, 95% CI: 10.7 to 16.2, p Ͻ 0.0001) and after adjusting for age, sex, race/ethnicity, BMI, physical activity, and measures of socioeconomic status such as highest educational level (HR: 11.5, 95% CI: 9.3 to 14.3; p Ͻ 0.0001), and in the full multivariate model (HR: 10.5, 95% CI: 8.4 to 13.1, p Ͻ 0.0001) (Fig. 2). IFG and incident CV events. Compared with NFG, IFG was associated with incident CV events in the univariate analysis (HR: 1.64, 95% CI: 1.26 to 2.14, p Ͻ 0.001) and after adjusting for age, sex, race/ethnicity (HR: 1.31, 95% CI: 1.00 to 1.72, p ϭ 0.03). The association was attenuated in the full multivariate model (HR: 1.16, 95% CI: 0.88 to 1.52, p ϭ 0.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head></head><label></label><figDesc>Hazard Ratio of Impaired Fasting Glucose Compared With Normoglycemia for the Primary Outcome of Cardiovascular Disease Events and Individual Cardiovascular Disease Outcomes in the MESA Study Table 2 Hazard Ratio of Impaired Fasting Glucose Compared With Normoglycemia for the Primary Outcome of Cardiovascular Disease Events and Individual Cardiovascular Disease Outcomes in the MESA Study All-cause death was not a constituent of our composite outcome. Hard coronary heart disease (CHD): myocardial infarction (MI), resuscitated cardiac arrest, or CHD death. Multivariate model was adjusted for age, sex, race/ethnicity, body mass index, systolic blood pressure, total cholesterol, high-density lipoprotein, triglycerides, cigarette smoking, blood pressure medications, and statin use. CI ϭ confidence interval; MESA ϭ Multi-Ethnic Study of Atherosclerosis. Demographic Characteristics of Participants With Impaired Fasting Glucose Who Did and Did Not Have Diabetes Mellitus During Follow-Up in the MESA Study Table 3 Demographic Characteristics of Participants With Impaired Fasting Glucose Who Did and Did Not Have Diabetes Mellitus During Follow-Up in the MESA Study</figDesc><table><row><cell></cell><cell>No. of</cell><cell>Univariate Model</cell><cell></cell><cell>Multivariate Model</cell><cell></cell></row><row><cell>Outcome</cell><cell>Events</cell><cell>(95% CI)</cell><cell>p Value</cell><cell>(95% CI)</cell><cell>p Value</cell></row><row><cell>Composite</cell><cell>418</cell><cell>1.64 (1.26-2.14)</cell><cell>Ͻ0.0001</cell><cell>1.16 (0.88-1.52)</cell><cell>0.29</cell></row><row><cell>Hard CHD</cell><cell>283</cell><cell>1.41 (1.01-1.97)</cell><cell>0.04</cell><cell>1.01 (0.72-1.42)</cell><cell>0.97</cell></row><row><cell>MI</cell><cell>183</cell><cell>1.57 (1.00-2.48)</cell><cell>0.05</cell><cell>1.21 (0.76-1.94)</cell><cell>0.42</cell></row><row><cell>Stroke</cell><cell>114</cell><cell>1.22 (0.69-2.13)</cell><cell>0.49</cell><cell>0.85 (0.48-1.51)</cell><cell>0.58</cell></row><row><cell>Angina</cell><cell>211</cell><cell>1.95 (1.36-2.81)</cell><cell>Ͻ0.0001</cell><cell>1.44 (0.99-2.10)</cell><cell>0.06</cell></row><row><cell>All-cause death*</cell><cell>223</cell><cell>1.23</cell><cell>0.23</cell><cell>0.95 (0.67-1.35)</cell><cell>0.78</cell></row><row><cell></cell><cell></cell><cell>Diabetes Mellitus</cell><cell></cell><cell>No Diabetes</cell><cell></cell></row><row><cell>Variables</cell><cell></cell><cell>(n ‫؍‬ 273)</cell><cell></cell><cell>Mellitus (n ‫؍‬ 600)</cell><cell>p Value</cell></row><row><cell>Age, yrs</cell><cell></cell><cell>62.1 Ϯ 10.0</cell><cell></cell><cell>65.0 Ϯ 9.6</cell><cell>Ͻ0.01</cell></row><row><cell>Male</cell><cell></cell><cell>50.6</cell><cell></cell><cell>59.8</cell><cell>0.01</cell></row><row><cell>Race/ethnicity</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>0.08</cell></row><row><cell>Caucasian</cell><cell></cell><cell>28.1</cell><cell></cell><cell>32.5</cell><cell></cell></row><row><cell>Chinese</cell><cell></cell><cell>11.4</cell><cell></cell><cell>16.0</cell><cell></cell></row><row><cell>African American</cell><cell></cell><cell>33.0</cell><cell></cell><cell>27.8</cell><cell></cell></row><row><cell>Hispanic</cell><cell></cell><cell>27.5</cell><cell></cell><cell>23.7</cell><cell></cell></row><row><cell>Systolic BP, mm Hg</cell><cell></cell><cell>131.9 Ϯ 19.2</cell><cell></cell><cell>131.5 Ϯ 21.0</cell><cell>0.80</cell></row><row><cell cols="2">Current/former cigarette smoking</cell><cell>52.8</cell><cell></cell><cell>46.7</cell><cell>0.50</cell></row><row><cell>Body mass index, kg/m 2</cell><cell></cell><cell>31.7 Ϯ 6.1</cell><cell></cell><cell>29.3 Ϯ 5.1</cell><cell>Ͻ0.001</cell></row><row><cell>Cholesterol, mg/dl</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Total</cell><cell></cell><cell>192.2 Ϯ 37.2</cell><cell></cell><cell>196.0 Ϯ 33.8</cell><cell>0.13</cell></row><row><cell>LDL</cell><cell></cell><cell>115.6 Ϯ 31.8</cell><cell></cell><cell>119.9 Ϯ 30.3</cell><cell>0.06</cell></row><row><cell>HDL</cell><cell></cell><cell>46.3 Ϯ 11.9</cell><cell></cell><cell>47.7 Ϯ 13.1</cell><cell>0.15</cell></row><row><cell>Triglycerides</cell><cell></cell><cell>154.5 Ϯ 97.5</cell><cell></cell><cell>143.0 Ϯ 86.4</cell><cell>0.08</cell></row><row><cell>Framingham risk score</cell><cell></cell><cell>9.6 Ϯ 7.9</cell><cell></cell><cell>10.6 Ϯ 8.6</cell><cell>0.09</cell></row></table><note>*Values are mean Ϯ SD or %.Abbreviations as in Table</note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">JACC Vol. 58, No. 2, 2011 Yeboah et al. July 5, 2011:140-6 IFG, Incident Type 2 DM, and CVD Events in Adults</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">Yeboah et al. JACC Vol. 58, No. 2, 2011 IFG, Incident Type 2 DM, and CVD Events in Adults July 5, 2011:140-6</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="145">JACC Vol. 58, No. 2, 2011 Yeboah et al. July 5, 2011:140-6 IFG, Incident Type 2 DM, and CVD Events in Adults</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">JACC Vol. 58, No. 2, 2011 IFG, Incident Type 2 DM, and CVD Events in Adults July 5, 2011:140-6</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgments</head><p>The authors would like to thank the investigators, the staff, and the participants of the MESA study for their valuable contributions. A full list of participating MESA investigators and institutions can be found at http://www.mesa-nhlbi.org.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Reprint requests and correspondence: Dr. Joseph Yeboah, Department of Internal Medicine/Cardiology, University of Virginia Medical Center, Lee Street, Charlottesville, Virginia 22908. Email: jy5y@hscmail.mcc.virginia.edu.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Prevalence of diabetes and impaired fasting glucose in adults-United States</title>
+	</analytic>
+	<monogr>
+		<title level="j">Centers for Disease Control and Prevention</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="833" to="837" />
+			<date type="published" when="1999">1999-2000. 2003</date>
+		</imprint>
+	</monogr>
+	<note>MMWR Morb Mortal Wkly Rep</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Lowering the criterion for impaired fasting glucose will not provide clinical benefit</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Davidson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">B</forename><surname>Landsman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Alexander</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="3329" to="3330" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Impaired glucose tolerance and impaired fasting glycaemia: the current status on definition and intervention</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Unwin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Shaw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Zimmet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">G</forename><surname>Alberti</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabet Med</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="708" to="723" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Relation of impaired fasting and postload glucose with incident type 2 diabetes in a Dutch population: the Hoorn study</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>De Vegt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Dekker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Jager</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">285</biblScope>
+			<biblScope unit="page" from="2109" to="2113" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Impaired fasting glucose concentrations in nondiabetic patients with ischemic heart disease: a marker for a worse prognosis</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">Z</forename><surname>Fisman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Motro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Tenenbaum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Boyko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Mandelzweig</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Behar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am Heart J</title>
+		<imprint>
+			<biblScope unit="volume">141</biblScope>
+			<biblScope unit="page" from="485" to="490" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">High fasting glucose levels as a predictor of worse clinical outcome in patients with coronary artery disease: results from the Bezafibrate Infarction Prevention (BIP) study</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Arcavi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Behar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Caspi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Reshef</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Boyko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Knobler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am Heart J</title>
+		<imprint>
+			<biblScope unit="volume">147</biblScope>
+			<biblScope unit="page" from="239" to="245" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Impaired fasting glucose and cardiovascular outcomes in postmenopausal women with coronary artery disease</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Kanaya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Herrington</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Vittinghoff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">142</biblScope>
+			<biblScope unit="page" from="813" to="820" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Impact of impaired fasting glucose on cardiovascular disease: the Framingham Heart Study</title>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">S</forename><surname>Levitzky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Pencina</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Agostino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Coll Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="page" from="264" to="270" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">American Diabetes Association classification of impaired fasting glucose: impact on prevalence of impaired fasting glucose, coronary heart disease risk factors, and coronary heart disease in a community-based medical practice</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Chunawala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Linde</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Reaven</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Coll Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="293" to="297" />
+			<date type="published" when="1997">1997. 2003. 2006</date>
+		</imprint>
+	</monogr>
+	<note>Comparison of the</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">The relationship between glucose and incident cardiovascular events. A metaregression analysis of published data from 20 studies of 95,783 individuals followed for 12.4 years</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Coutinho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Gerstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Yusuf</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="233" to="240" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Cardiometabolic risk in impaired fasting glucose and impaired glucose tolerance</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Pankow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">K</forename><surname>Kwan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">B</forename><surname>Duncan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Couper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Golden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Ballantyne</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="325" to="331" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Impaired glucose tolerance is a risk factor for cardiovascular disease, but not impaired fasting glucose. The Funagata Diabetes Study</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tominaga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Eguchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Manaka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Igarashi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Kato</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sekikawa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="920" to="924" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Markers of dysglycemia and risk of coronary heart disease in people without diabetes. Reykjavik prospective study and systemic review</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Sawar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Aspelund</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Eiriksdottir</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS Med</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">e1000278</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Pre-diabetes and risk of cardiovascular disease: a systemic review of evidence</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Ford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Li</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Coll Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="1310" to="1317" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Is non diabetic hyperglycemia a risk factor for cardiovascular disease? A meta-analysis of prospective studies</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">B</forename><surname>Levitan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Song</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Ford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Liu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">164</biblScope>
+			<biblScope unit="page" from="2147" to="2155" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Multi-Ethnic Study of Atherosclerosis: objectives and design</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Bild</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Bluemke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">L</forename><surname>Burke</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">156</biblScope>
+			<biblScope unit="page" from="871" to="881" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Estimation of the concentration of low-density lipoprotein cholesterol in plasma, without use of the preparative ultracentrifuge</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">T</forename><surname>Friedewald</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">I</forename><surname>Levy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Fredrickson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Chem</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="499" to="502" />
+			<date type="published" when="1972">1972</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Predictive value of brachial flow-mediated dilation for incident cardiovascular events in a population-based study: the Multi-Ethnic Study of Atherosclerosis</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Yeboah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Folsom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">L</forename><surname>Burke</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">120</biblScope>
+			<biblScope unit="page" from="502" to="509" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Report of the Expert Committee on the Diagnosis and Classification of Diabetes Mellitus</title>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="1183" to="1197" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+	<note>The Expert Committee on the Diagnosis and Classification of Diabetes Mellitus</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Follow-up report on the diagnosis of diabetes mellitus</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Genuth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">G</forename><surname>Alberti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Bennett</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="3160" to="3167" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main">Key Words: cardiovascular events y diabetes mellitus y impaired fasting glucose y population</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

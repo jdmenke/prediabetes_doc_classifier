@@ -1,0 +1,802 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Gender difference in all-cause and cardiovascular mortality related to hyperglycaemia and newly-diagnosed diabetes The DECODE Study Group</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2003-05-15">15 May 2003</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><roleName>Dr</roleName><forename type="first">G</forename><surname>Hu</surname></persName>
+							<email>hu.gang@ktl.fi</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Epidemiology and Health Pro-motion</orgName>
+								<orgName type="laboratory">Diabetes and Genetic Epi-demiology Unit</orgName>
+								<orgName type="institution">National Public Health Institute</orgName>
+								<address>
+									<addrLine>Mannerheimintie 166</addrLine>
+									<postCode>00300</postCode>
+									<settlement>Helsinki</settlement>
+									<country key="FI">Finland</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Epidemiology and Health Promotion</orgName>
+								<orgName type="laboratory">Diabetes and Genetic Epidemiology Unit</orgName>
+								<orgName type="institution">National Public Health Institute</orgName>
+								<address>
+									<settlement>Helsinki</settlement>
+									<country key="FI">Finland</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Gender difference in all-cause and cardiovascular mortality related to hyperglycaemia and newly-diagnosed diabetes The DECODE Study Group</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2003-05-15">15 May 2003</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">CE9069B3EB3400BBB15F97DB4760A3F1</idno>
+					<idno type="DOI">10.1007/s00125-003-1096-6</idno>
+					<note type="submission">Received: 25 November 2002 / Revised: 10 January 2003</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.1" ident="GROBID" when="2022-07-19T23:01+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Sex difference</term>
+					<term>mortality</term>
+					<term>type 2 diabetes</term>
+					<term>hyperglycaemia</term>
+					<term>impaired glucose regulation FPG</term>
+					<term>fasting plasma glucose; 2hPG</term>
+					<term>2-hour plasma glucose</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Aim/hypothesis. Diabetic women generally have a greater relative risk of cardiovascular diseases than diabetic men in comparison with non-diabetic women and men. Reasons for this excess risk in diabetic women is still unclear. The aim of this study is to evaluate whether the association between different degrees of hyperglycaemia and the risk of all-cause and cardiovascular mortality is different in women and men. Methods. We analysed baseline glucose concentrations from 14 prospective European cohorts including 8172 men and 9407 women aged 30 to 89 years without history of diabetes, with a median follow-up of 8.3 years. Hazards ratios for all-cause and cardiovascular mortality were estimated adjusting for other risk factors.</p><p>Results. The mortality rates for all-cause and cardiovascular diseases were higher in men than in women in normoglycaemia, impaired glucose regulation and newly-diagnosed diabetes; the largest sex differential for cardiovascular mortality was in normoglycaemic people. The hazards ratios for all-cause and cardiovascular mortality were higher in newly-diagnosed diabetic women than men compared with normoglycaemic women and men, respectively; however, this sex difference was only significant for cardiovascular mortality. For smokers and for subjects with hypertension, hypercholesterolaemia or who where overweight, the hazards ratios for cardiovascular mortality in diabetic patients compared with normoglycaemic people were also higher in women than in men. Conclusions/interpretation. Newly diagnosed diabetic women showed higher relative risks for death from cardiovascular disease than diabetic men. Thus a more aggressive control of hyperglycaemia as well as of other cardiovascular risk factors might be appropriate in women with asymptomatic hyperglycaemia. [Diabetologia (2003) 46:608-617]    </p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>There is a significant difference in cardiovascular disease (CVD) risks between sexes <ref type="bibr" target="#b0">[1,</ref><ref type="bibr" target="#b1">2,</ref><ref type="bibr" target="#b2">3,</ref><ref type="bibr" target="#b3">4]</ref>. Among middle-aged people, men have two-to five-times higher CVD mortality rates than women <ref type="bibr" target="#b2">[3,</ref><ref type="bibr" target="#b3">4]</ref>. The sex difference in CVD mortality cannot be completely explained by abnormal levels of conventional CVD risk factors, such as high blood pressure, lipid abnormalities, smoking and obesity <ref type="bibr" target="#b3">[4]</ref>. Diabetes is associated with increased mortality, especially from CVD <ref type="bibr" target="#b4">[5,</ref><ref type="bibr" target="#b5">6]</ref>. Hyperglycaemia, in the absence of clinically diagnosed diabetes, is also associated with an increased CVD risk <ref type="bibr" target="#b6">[7,</ref><ref type="bibr" target="#b7">8,</ref><ref type="bibr" target="#b8">9,</ref><ref type="bibr" target="#b9">10,</ref><ref type="bibr" target="#b10">11,</ref><ref type="bibr" target="#b11">12,</ref><ref type="bibr" target="#b22">13,</ref><ref type="bibr" target="#b23">14]</ref>. Several studies indicated a greater relative risk of CVD with diabetes <ref type="bibr" target="#b3">[4,</ref><ref type="bibr" target="#b23">14]</ref> and hyperglycaemia <ref type="bibr" target="#b6">[7,</ref><ref type="bibr" target="#b10">11,</ref><ref type="bibr" target="#b24">15]</ref> among women than men, while the Hoorn Study reported no consistent differences <ref type="bibr" target="#b8">[9]</ref>. Two previous meta-analyses, which included studies that did not adjust for major CVD risk factors, concluded that diabetes is a stronger risk factor for CVD mortality in women than in men <ref type="bibr" target="#b25">[16,</ref><ref type="bibr" target="#b26">17]</ref>. A recent meta-analysis indicated that the excess relative risk of CVD mortality in women compared with men who had diabetes was absent after adjusting for classic CVD risk factors <ref type="bibr" target="#b27">[18]</ref>. The reason for the higher relative risk of CVD mortality in diabetic women than in diabetic men is still unclear.</p><p>New diagnostic criteria for diabetes mellitus were approved by the American Diabetes Association (ADA) in 1997 and the World Health Organization (WHO) in 1999 <ref type="bibr" target="#b28">[19,</ref><ref type="bibr" target="#b29">20]</ref>. Few studies have evaluated the association of hyperglycaemia with CVD mortality separately for men and women according to these new diagnostic criteria. The aim of this study was to assess firstly, whether the association between different degrees of hyperglycaemia with all-cause and CVD mortality is stronger in women than in men and secondly, whether a sex difference exists with other cardiovascular risk factors (smoking, hypertension, hypercholesterolaemia and overweight).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Subjects and methods</head><p>Participants and methods. Centres in Europe that had carried out population-based studies using the standard 2-h 75-g OGTT, were invited to participate in the DECODE (Diabetes Epidemiology: Collaborative analysis Of Diagnostic criteria in Europe) study. The study populations and the methods used to recruit the participants have been described previously <ref type="bibr" target="#b9">[10,</ref><ref type="bibr" target="#b10">11,</ref><ref type="bibr">21,</ref><ref type="bibr" target="#b12">22]</ref>. A new population from Ely, UK was also included in the current analysis <ref type="bibr" target="#b13">[23]</ref>. All investigations were carried out in accordance with the Declaration of Helsinki. Individual data on fasting and 2-h glucose concentrations and a number of other variables were sent to the Diabetes and Genetic Epidemiology Unit of the National Public Health Institute in Helsinki, Finland for data analyses. The inclusion criteria for the current study are firstly, studies with follow-up data on all-cause and/or CVD mortality, and with all required confounding variables: BMI, blood pressure, serum total cholesterol, and smoking habits and secondly, studies including both men and women.</p><p>Of the cohorts 14 provided data on all-cause mortality and 13 on CVD mortality. A total of 8172 men and 9407 women not previously diagnosed with diabetes were included in the data analysis (Table <ref type="table" target="#tab_0">1</ref>). The median duration of follow-up was 8.3 years (5.9 and 10.8 years for the 25th and the 75th quartiles, respectively).</p><p>Plasma glucose was determined in 10 of the 14 cohorts, whole blood glucose in two, capillary blood glucose in one and serum glucose in one. Before the data were analysed, glucose concentrations were transformed to plasma glucose concentrations:</p><p>The equations are based on 294 matched samples of whole blood (capillary and serum) glucose and plasma glucose concentrations drawn from a standard 75-g OGTT in 74 individuals at 0, 30, 60 and 120 min at the Diabetes and Genetic Epidemiology Unit, National Public Health Institute in Finland. The relationships between glucose concentrations as measured by the different methods used were estimated using a mixed model with random effects for the individual and the sample, in the Steno Diabetes Centre in Denmark (J. Tuomilehto, B. Carstensen, personal communication).</p><p>Vital status (alive or dead) information was recorded for each subject attending the baseline examination in each of all studies. Subjects who emigrated, for whom the vital status could not be confirmed, were treated as censored at the time of emigration. The follow-up was almost complete, from 98% in the Newcastle Study to 100% in most of the other studies <ref type="bibr" target="#b9">[10]</ref>. Fatal events were classified using the International Classification of Diseases. Cardiovascular diseases were defined with codes 401 to 448 for the Eighth or Ninth Revisions. Covariates included age, centre, BMI, systolic blood pressure, serum total cholesterol and cigarette smoking. BMI was calculated as weight (kg) divided by the square of height (m). Overweight was defined as BMI greater than or equal to 25 kg/m 2 . Hypertension was defined as systolic blood pressure greater than or equal to 140 mmHg and/or diastolic blood pressure greater than or equal to 90 mmHg. Hypercholesterolaemia was defined as serum total cholesterol greater than or equal to 6.5 mmol/l. Subjects were classified as never, ex-and current-smokers.</p><p>Classification of glucose abnormality. According to the 1999 WHO recommendations for the diagnosis of diabetes <ref type="bibr" target="#b29">[20]</ref>, subjects without previously diagnosed diabetes were classified into three categories: normoglycaemia, fasting plasma glucose (FPG) less than 6.1 mmol/l and 2-h plasma glucose (2hPG) less than 7.8 mmol/l; impaired glucose regulation (IGR), FPG 6.1 to 6.99 mmol/l and/or 2hPG 7.8 to 11.09 mmol/l; and newly-diagnosed diabetes, FPG greater than or equal to 7.0 mmol/l and/or 2hPG greater than or equal to 11.1 mmol/l. Statistical analysis. Differences of mean glucose concentrations and major CVD risk factors between sexes in each of the three glucose categories were tested using analysis of covariance or logistic regression after adjustment for age. The sex-specific all-cause and CVD mortality rates were calculated by 10-year age intervals and age standardized by the direct method using a European standard population aged 30 to 89 years <ref type="bibr" target="#b14">[24]</ref> for each of three categories: normoglycaemia, IGR, and newly-diagnosed diabetes. The sex difference in absolute age standardized mortality rates was assessed by the ratio of men to women.</p><p>Sex-specific hazards ratios (95% CI) of all-cause and CVD mortality for subjects with newly-diagnosed diabetes were estimated for each centre separately, adjusting for age, BMI, systolic blood pressure, cholesterol and smoking using the normoglycaemic people (FPG &lt;6.1 mmol/l and 2hPG &lt;7.8 mmol/l) as the reference group. A meta-analysis was carried out to as-sess the overall association of asymptomatic previously undiagnosed diabetes with the risk of all-cause and CVD mortality using a fixed effect approach according to known methods <ref type="bibr" target="#b15">[25]</ref>. A fixed rather than a random effects approach was chosen because the statistic Q for measuring study-to-study variation in effect size was not statistically significant. As the effect size did not show heterogeneity, data from centres where all required confounding variables were available were then pooled to increase statistical power in calculating of the hazards ratios by glucose levels.</p><p>Using the pooled database including all centres together, sex-specific hazards ratios (95% CI) of all-cause and CVD mortality were estimated for IGR and newly-diagnosed diabetes, adjusting for age, centre, BMI, systolic blood pressure, cholesterol and smoking, with reference to the normoglycaemic. The association of different glucose categories with mortality was additionally examined between sexes with other CVD risk factors using a Cox model, adjusting for other covariates. A chi-squared log-likelihood ratio test was carried out to test the significance of the interaction term of sex with glucose levels and other covariates for all-cause and CVD mortality.</p><p>To assess whether the absolute level of mortality was different in men and women, we compared the relative hazards ratios of men and women within various glucose categories according to the WHO 1999 diagnostic criteria, with the normal glucose category in women as the reference group. SPSS for Windows 10.1 was used for statistical analysis. A p value of less than 0.05 was considered to be statistically significant.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>The major CVD risk factor characteristics in people with normoglycaemia, IGR, and newly-diagnosed diabetes are shown in Table <ref type="table" target="#tab_1">2</ref>. Normoglycaemic men had Data are means (SD) or % a Impaired glucose regulation, FPG 6.1-6.99 mmol/l and/or 2hPG 7.8-11.09 mmol/l; newly-diagnosed diabetes, FPG ≥7.0 mmol/l and/or 2hPG ≥11.1 mmol/l. Fig. <ref type="figure">1A, B</ref>. Individual and overall hazard ratios and 95% CI (lines) for all-cause mortality in newly-diagnosed diabetes with reference to normal glucose among men (A) and women (B), adjusted for age, BMI, systolic blood pressure, total cholesterol and smoking. Normal glucose, FPG &lt;6.1 mmol/l and 2-h PG &lt;7.8 mmol/l; newly-diagnosed diabetes, FPG ≥7.0 mmol/l and/or 2-h PG ≥11.1 mmol/l. *No death case was found in subjects with the newly-diagnosed diabetes higher mean values of FPG concentration, BMI, systolic and diastolic blood pressure, and a higher prevalence of current smoking, hypertension and overweight than normoglycaemic women. Lower mean values of 2-h PG and total cholesterol concentrations, and a lower prevalence of hypercholesterolaemia were observed in normoglycaemic men rather than in women. For subjects newly-diagnosed as diabetes, these sex differences of mean values of BMI, systolic blood pressure and total cholesterol concentration, and prevalence of hypertension, hypercholesterolaemia, and overweight decreased or were no longer significant.</p><p>Overall, among the 17 579 participants of the 14 cohorts, there were 1797 deaths from all causes. For the 13 cohorts which registered CVD deaths, there were 16 511 subjects and 699 CVD deaths (Table <ref type="table" target="#tab_0">1</ref>). The age-standardized mortality rates from all causes and CVD were higher in men than in women in each of three categories: normoglycaemia, IGR, and newlydiagnosed diabetes (Table <ref type="table" target="#tab_2">3</ref>). The sex ratio of absolute mortality rate was smaller for newly-diagnosed diabetes and larger for normoglycaemia. The sex ratios of age-standardized all-cause and cardiovascular mortality rates (men/women) were 1.80 and 1.37 in the diabetic group, 1.86 and 2.07 in IGR, 1.94 and 2.11 in normoglycaemia, respectively.</p><p>Multivariate-adjusted hazards ratios for all-cause and CVD mortality with newly-diagnosed diabetes for each individual centre and for all combined are shown in Fig. <ref type="figure">1</ref>, Fig. <ref type="figure">2</ref>. The statistics for study-to-study vari- The results for the multivariate-adjusted Cox models for all-cause and CVD mortality in glucose categories by sex are shown in Fig. <ref type="figure">3</ref>. Relative to normal glucose all-cause mortality was increased in both IGR and newly-diagnosed diabetes in both genders. For CVD death, only men and women with newly-diagnosed diabetes showed increased risks compared with normoglycaemic men and women. While newly-diagnosed diabetic women had higher hazards ratios for all-cause and CVD mortality than diabetic men, this sex difference was statistically significant only for CVD mortality (χ 2 =8.21, 1df, p &lt;0.005).</p><p>We also analysed the association of hyperglycaemia with mortality by sex with different CVD risk fac-tors (Table <ref type="table" target="#tab_3">4</ref>). For subjects who smoked or had hypertension, hypercholesterolaemia, or overweight separately, the hazards ratios for all-cause and CVD mortality tended to be higher in newly-diagnosed diabetic women than in diabetic men compared with normoglycaemic women and men. The sex differential in relative risk was significant only for CVD mortality in newly-diagnosed diabetes who reported past or current smoking (χ 2 =9.05, 1df, p&lt;0.0005), had hypertension (χ 2 =8.82, 1df, p&lt;0.005), exhibited hypercholesterolaemia (χ 2 =11.93, 2df, p&lt;0.001), or were overweight (χ 2 =6.45, 1df, p&lt;0.025), respectively. For people without any of these CVD risk factors, there was no difference in the relative risk of death between men and women with IGR or newly-diagnosed diabetes, in comparison with normoglycaemic men and women.</p><p>In comparison to normoglycaemic women, the hazards ratios of death from all causes and CVD of normal glycaemia in men, IGR and newly-diagnosed diabetes in men and women are shown in Fig. <ref type="figure">4</ref>. After adjustment for covariates, the hazards ratios for allcause and cardiovascular mortality were higher in men than in women in each glucose category. The largest absolute sex differential for mortality, especially from CVD appeared in normoglycaemia, followed by that in people with IGR and the smallest gender difference was seen in people with newly-diagnosed diabetes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>Our analysis, based on a large European population with more than 155 000 person years of follow-up, addresses the sex difference in the risk of death related to hyperglycaemia. In this study, asymptomatic previously undiagnosed diabetic women by the WHO 1999 criteria had higher relative risks for death from all causes, and especially from CVD than diabetic men, when compared with those in normoglycaemic women and men. These associations are adjusted for age, study centre, BMI, systolic blood pressure, total cholesterol and smoking. Our results are not in agreement with a recent meta-analysis <ref type="bibr" target="#b27">[18]</ref>, which found that the excess relative risk of CVD mortality in women compared with men with diabetes was absent after adjusting for age, hypertension, total cholesterol, and smoking. a Data are given as hazard ratios (95% CI), adjusted for age, BMI, systolic blood pressure, total cholesterol, smoking and centre b IGR (impaired glucose regulation): FPG 6.1-6.99 mmol/l and/or 2hPG 7.8-11.09 mmol/l; newly-diagnosed diabetes: FPG ≥7.0 mmol/l and/or 2hPG ≥11.1 mmol/l.</p><p>c Hypertension: systolic blood pressure ≥140 mmHg and/or diastolic blood pressure ≥90 mmHg. d Hypercholesterolaemia: serum total cholesterol ≥6.5 mmol/l. e Overweight: BMI ≥25 kg/m 2 .</p><p>Studies on the sex difference in risk of death related to hyperglycaemia are scant and inconsistent. A 14-year follow-up study shows a linear association between ischaemic heart disease mortality and FPG in non-diabetic Rancho Bernardo men (FPG &lt;7.8 mmol/l), but a threshold relation at 6.1 mmol/l in women <ref type="bibr" target="#b16">[26]</ref>. The age-adjusted relative hazard of ischaemic heart disease death in diabetic patients compared with non-diabetic people is also greater in Rancho Bernardo women than in men <ref type="bibr" target="#b23">[14]</ref>. The Dubbo Study indicates a continuous association between FPG and mortality from coronary heart disease or all causes in elderly Australian non-diabetic women, but not in men <ref type="bibr" target="#b17">[27]</ref>. A prospective analysis from the Framingham Study shows that the incidence of CVD is positively and linearly associated with casual glucose levels in non-diabetic women, but such an association is not seen in men <ref type="bibr" target="#b7">[8]</ref>. The Hoorn study assesses the association of continuous glucose concentration with mortality and the interaction between sexes in people without known diabetes. They show no clear consistent differences between men and women <ref type="bibr" target="#b8">[9]</ref>. An 11.6 year follow-up study in Scotland indicates that asymptomatic hyperglycaemia (casual blood glucose &gt;7.0 mmol/l) is a risk factor for CVD in both genders and for all-cause mortality in women, but not in men. The degree of this association is greater in women than in men <ref type="bibr" target="#b24">[15]</ref>. The differences in glucose assay methods, glucose load and the time after loading, and the small number of events obtained during follow-up might contribute to these inconsistencies.</p><p>The reason why diabetes has a greater relative risk for death from all causes, especially from CVD in women than in men is not clear. When any other coronary heart disease risk factors exist, diabetes is associated with an increased risk of cardiovascular death <ref type="bibr" target="#b18">[28]</ref>. Therefore, in our study we wanted to evaluate if the association between asymptomatic newly-diagnosed diabetes and mortality would also be the same in men as in women with other CVD risk factors. In people who smoked, had hypertension, exhibited hypercholesterolaemia, or were overweight, the relative risk from CVD mortality was 1.3 to 2.1 times higher in diabetic women than in diabetic men compared with normoglycaemic women and men respectively. Hyperglycaemia could have a stronger additive or synergistic effect on smoking, hypertension, hypercholesterolaemia, and overweight in women than in men. In this study adjustment for other measured confounding factors was done, thus the findings are likely to be real. One study has also indicated that the increased CVD risk of diabetic women could be mediated in part by women's usually favourable lipoprotein profile lost in the presence of diabetes <ref type="bibr" target="#b18">[28]</ref>.</p><p>In this study, absolute levels of mortality, i.e. agestandardised death rates from all causes and CVD are higher in men than in women in any glucose category. The multivariate-adjusted risk from all-cause and CVD mortality was also greater in men than in women in each of three glucose categories. The largest absolute sex differential for CVD mortality is for people with normal glucose, followed by those with IGR, and the smallest in people with newly-diagnosed asymptomatic diabetes. Thus, men are at a higher risk of death from risk factors other than hyperglycaemia. The difference in CVD risk factors between men and women is the likely explanation for the sex differential in CVD risk. The higher risk of death associated with either hyperglycaemia itself or the combined effect of hyperglycaemia with other risk factors in diabetic women compared with diabetic men might result in a decrease in the sex difference in mortality among diabetic patients. The impact of gender and general risk factors on the occurrence of atherosclerotic vascular disease in Type 2 diabetes has been recently reviewed <ref type="bibr" target="#b25">[16]</ref>. It indicates that the overall relative risk (the ratio of men to women) for coronary heart disease mortality in diabetes is 1.46 (1.21-1.95) and in nondiabetes 2.29 (2.05-2.55) and also suggests that the gender differential is reduced in diabetes, which is consistent with our results.</p><p>Since hyperglycaemia could have a stronger additive or synergistic effect on smoking, hypertension, hypercholesterolaemia, and overweight in women than in men, this study suggests more aggressive intervention in subjects with hyperglycaemia, especially women. Clinical trials have indicated that antihypertensive treatment was particularly beneficial in diabetic patients than non-diabetic patients <ref type="bibr" target="#b19">[29,</ref><ref type="bibr" target="#b20">30]</ref>, and in these trials the majority of the patients were female. While a more efficient control of glycaemiaucose and improvement of other CVD risk factors is important in all diabetic patients, it is possible that women with asymptomatic diabetes or even IGR could particularly benefit from more intensive intervention strategies to reduce the risk of CVD.</p><p>This study is a large collaborative study from 14 centres in Europe. Although this study has a number of strengths, several limitations also need to be considered. Firstly, CVD incidence data are not available, however, people with prevalent CVD might be included in this analysis. Secondly, no follow-up data about people with newly-diagnosed diabetes under regular health care are collected. Thirdly, the accuracy of CVD classification of the death certificates is not perfect and could vary among the populations included in this study. Nevertheless, the same principles of death certification were applied to both sexes and across the other risk factor strata. Thus such misclassifications in the individual centres make little difference for the analyses applied in this kind of study. Also, all deaths in all centres were coded using the same code of International Classification of Diseases. Finally, several other risk factors, such as serum low-density lipoprotein, high-density lipoprotein, triglyceride concentrations, HgbA 1c , C-reactive protein, microalbuminuria, waist to hip ratio, number of cigarettes, physical inactivity, fibrinogen, homocysteine, acute and chronic infections, haemostatic factors, psychosocial factors, dietary factors and genetic effects, are not available for our analysis. These could affect the sex-specific mortality or they could act as mediating factors.</p><p>In conclusion, in both non-diabetic and diabetic populations, men have higher absolute risks of death from all causes and CVD than women. The difference is larger in non-diabetic subjects than in people with IGR or newly-diagnosed asymptomatic diabetics. The relative risk of death associated with newly-diagnosed diabetes is greater in women than in men, and thus the absolute sex difference in the risk of death is reduced in the diabetic population. This is important to keep in mind when studying CVD risk factors in the population and when planning a strategy to prevent CVD, especially in the female population.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 . Baseline characteristic of subjects and the number of deaths in study cohorts in the DECODE Study</head><label>1</label><figDesc></figDesc><table><row><cell>Study centres</cell><cell>Number</cell><cell>Mean age</cell><cell>Men</cell><cell>Duration</cell><cell cols="2">Number of deaths</cell></row><row><cell></cell><cell>of subjects</cell><cell>(range)</cell><cell>(%)</cell><cell>of follow-up</cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell>(years)</cell><cell></cell><cell>(years)</cell><cell>All causes</cell><cell>Cardiovascular</cell></row><row><cell>Oulu, Finland</cell><cell>1068</cell><cell>61 (55-89)</cell><cell>42</cell><cell>4.4</cell><cell>82</cell><cell>-</cell></row><row><cell>Vantaa, Finland</cell><cell>551</cell><cell>65 (64-66)</cell><cell>44</cell><cell>8.1</cell><cell>40</cell><cell>24</cell></row><row><cell>MONICA-87, Finland</cell><cell>2682</cell><cell>54 (44-64)</cell><cell>47</cell><cell>11.0</cell><cell>246</cell><cell>111</cell></row><row><cell>MONICA-92, Finland</cell><cell>1841</cell><cell>54 (44-64)</cell><cell>45</cell><cell>6.0</cell><cell>61</cell><cell>23</cell></row><row><cell>MONICA-86, Sweden</cell><cell>553</cell><cell>48 (30-65)</cell><cell>51</cell><cell>15.0</cell><cell>42</cell><cell>14</cell></row><row><cell>MONICA-90, Sweden</cell><cell>684</cell><cell>47 (30-64)</cell><cell>47</cell><cell>11.0</cell><cell>23</cell><cell>4</cell></row><row><cell>MONICA-94, Sweden</cell><cell>883</cell><cell>52 (30-74)</cell><cell>48</cell><cell>7.0</cell><cell>29</cell><cell>11</cell></row><row><cell>MONICA, Krakow, Poland</cell><cell>359</cell><cell>58 (44-73)</cell><cell>48</cell><cell>6.6</cell><cell>28</cell><cell>16</cell></row><row><cell>Newcastle, UK</cell><cell>779</cell><cell>55 (30-76)</cell><cell>52</cell><cell>6.7</cell><cell>41</cell><cell>17</cell></row><row><cell>Goodinge, UK</cell><cell>1039</cell><cell>55 (39-76)</cell><cell>44</cell><cell>9.7</cell><cell>113</cell><cell>41</cell></row><row><cell>Ely, UK</cell><cell>1114</cell><cell>54 (40-69)</cell><cell>43</cell><cell>10.0</cell><cell>52</cell><cell>10</cell></row><row><cell>Glostrup, Denmark</cell><cell>1974</cell><cell>51 (39-70)</cell><cell>51</cell><cell>27.0</cell><cell>638</cell><cell>293</cell></row><row><cell>Hoorn, the Netherlands</cell><cell>2380</cell><cell>62 (49-77)</cell><cell>46</cell><cell>10.2</cell><cell>294</cell><cell>99</cell></row><row><cell>Cremona, Italy</cell><cell>1672</cell><cell>58 (40-88)</cell><cell>44</cell><cell>6.9</cell><cell>108</cell><cell>36</cell></row><row><cell>Total</cell><cell>17579</cell><cell>55 (30-89)</cell><cell>47</cell><cell>-</cell><cell>1797</cell><cell>699</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 .</head><label>2</label><figDesc>Age-adjusted mean or prevalence of major cardiovascular risk factors among subjects in different glucose categories by sex in the DECODE Study</figDesc><table><row><cell></cell><cell cols="2">Normoglycaemic</cell><cell cols="2">Impaired glucose regulation a</cell><cell cols="2">Newly diagnosed diabetes a</cell></row><row><cell></cell><cell>Men</cell><cell>Women</cell><cell>Men</cell><cell>Women</cell><cell>Men</cell><cell>Women</cell></row><row><cell>Subjects</cell><cell>5690</cell><cell>6947</cell><cell>1925</cell><cell>1920</cell><cell>557</cell><cell>540</cell></row><row><cell>Age (years)</cell><cell>54.9 (9.7)</cell><cell>54.7 (9.6)</cell><cell>56.1 (10.2)</cell><cell>57.9 (10.6)</cell><cell>56.3 (10.8)</cell><cell>59.9 (11.4)</cell></row><row><cell>Fasting plasma glucose (mmol/l)</cell><cell>5.2 (0.5) d</cell><cell>5.1 (0.5)</cell><cell>6.1 (0.6) d</cell><cell>5.9 (0.6)</cell><cell>7.5 (2.1) d</cell><cell>7.3 (2.0)</cell></row><row><cell>2 h plasma glucose (mmol/l)</cell><cell>5.2 (1.3) d</cell><cell>5.5 (1.2)</cell><cell>7.7 (1.8) d</cell><cell>8.2 (1.6)</cell><cell>11.7 (4.3)</cell><cell>12.2 (4.2)</cell></row><row><cell>BMI (kg/m 2 )</cell><cell>26.1 (3.5) c</cell><cell>25.9 (4.3)</cell><cell>27.0 (4.0) d</cell><cell>27.6 (4.9)</cell><cell>28.1 (4.3)</cell><cell>28.9 (5.9)</cell></row><row><cell>Systolic blood pressure (mmHg)</cell><cell>136 (21) d</cell><cell>134 (22)</cell><cell>143 (21)</cell><cell>144 (24)</cell><cell>147 (23)</cell><cell>148 (26)</cell></row><row><cell>Diastolic blood pressure (mmHg)</cell><cell>83 (12) d</cell><cell>80 (12)</cell><cell>86 (12) d</cell><cell>83 (12)</cell><cell>88 (13) d</cell><cell>85 (13)</cell></row><row><cell>Total cholesterol (mmol/l)</cell><cell>6.2 (1.2) d</cell><cell>6.4 (1.2)</cell><cell>6.3 (1.3) c</cell><cell>6.4 (1.3)</cell><cell>6.3 (1.4)</cell><cell>6.4 (1.4)</cell></row><row><cell>Current-smoking (%)</cell><cell>34.0 d</cell><cell>23.0</cell><cell>33.7 d</cell><cell>18.8</cell><cell>37.1 d</cell><cell>19.4</cell></row><row><cell>Hypertension (%) b</cell><cell>46.8 d</cell><cell>41.4</cell><cell>61.0 d</cell><cell>57.4</cell><cell>65.0</cell><cell>64.7</cell></row><row><cell>Hypercholesterolaemia (%) b</cell><cell>38.1 d</cell><cell>42.7</cell><cell>41.1 d</cell><cell>46.0</cell><cell>42.6 c</cell><cell>48.1</cell></row><row><cell>Overweight (%)</cell><cell>60.7 d</cell><cell>52.5</cell><cell>68.9</cell><cell>67.5</cell><cell>76.8 c</cell><cell>74.0</cell></row><row><cell>None of the above cardiovascular</cell><cell>14.3 d</cell><cell>25.6</cell><cell>9.0 d</cell><cell>18.2</cell><cell>6.6 d</cell><cell>12.9</cell></row><row><cell>risk factors (%)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3 .</head><label>3</label><figDesc>Age-standardized mortality rate per 1000 person-years of subjects in different glucose categories by sex in the DECODE Study a</figDesc><table><row><cell cols="4">Fig. 2A, B. Individual and overall hazard ratios and 95% CI</cell><cell cols="5">total cholesterol and smoking. Normal glucose, FPG</cell></row><row><cell cols="4">(lines) for cardiovascular mortality in newly-diagnosed diabe-</cell><cell cols="5">&lt;6.1 mmol/l and 2-h PG &lt;7.8 mmol/l; newly-diagnosed diabe-</cell></row><row><cell cols="4">tes with reference to normal glucose among men (A) and</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="4">women (B), adjusted for age, BMI, systolic blood pressure,</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>Men</cell><cell></cell><cell></cell><cell></cell><cell>Women</cell><cell></cell><cell></cell><cell>Sex ratio in</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>mortality</cell></row><row><cell></cell><cell>No.</cell><cell>No.</cell><cell>Mortality rate</cell><cell></cell><cell>No.</cell><cell>No.</cell><cell>Mortality rate</cell><cell>rate</cell></row><row><cell></cell><cell cols="3">subjects deaths (95% CI)</cell><cell></cell><cell cols="3">subjects deaths (95% CI)</cell></row><row><cell>All-cause mortality</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Normoglycaemia</cell><cell>5690</cell><cell>713</cell><cell cols="2">14.96 (14.22-15.70)</cell><cell>6947</cell><cell>398</cell><cell>7.71 (7.20-8.22)</cell><cell>1.94</cell></row><row><cell cols="2">Impaired glucose regulation b 1925</cell><cell>309</cell><cell cols="2">17.88 (16.63-19.13)</cell><cell>1920</cell><cell>186</cell><cell>9.60 (8.72-10.48)</cell><cell>1.86</cell></row><row><cell>Newly diagnosed diabetes b</cell><cell>557</cell><cell>119</cell><cell cols="2">22.08 (19.77-24.39)</cell><cell>540</cell><cell>72</cell><cell cols="2">12.25 (10.53-13.97) 1.80</cell></row><row><cell>Total</cell><cell>8172</cell><cell>1141</cell><cell cols="2">16.26 (15.65-16.87)</cell><cell>9407</cell><cell>656</cell><cell>8.49 (8.07-8.97)</cell><cell>1.92</cell></row><row><cell>Cardiovascular mortality</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Normoglycaemia</cell><cell>5549</cell><cell>292</cell><cell cols="2">6.30 (5.81-6.79)</cell><cell>6724</cell><cell>127</cell><cell>2.99 (2.65-3.33)</cell><cell>2.11</cell></row><row><cell>Impaired glucose regulation</cell><cell>1717</cell><cell>135</cell><cell cols="2">7.61 (6.79-8.43)</cell><cell>1627</cell><cell>59</cell><cell>3.67 (3.13-4.21)</cell><cell>2.07</cell></row><row><cell>Newly diagnosed diabetes</cell><cell>458</cell><cell>49</cell><cell cols="2">10.27 (8.58-11.96)</cell><cell>436</cell><cell>37</cell><cell>7.47 (6.01-8.93)</cell><cell>1.37</cell></row><row><cell>Total</cell><cell>7724</cell><cell>476</cell><cell cols="2">6.97 (6.56-7.38)</cell><cell>8787</cell><cell>223</cell><cell>3.47 (3.18-3.76)</cell><cell>2.01</cell></row></table><note>tes, FPG ≥7.0 mmol/l and/or 2-h PG ≥11.1 mmol/l. *No death case was found in subjects with the newly-diagnosed diabetes ation in effect size showed that there was no heterogeneity in the outcomes of meta-analyses (all p values &gt;0.10). Therefore, the pooled database including all centres together was used in further analyses.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 4 .</head><label>4</label><figDesc>Multivariate-adjusted hazard ratios for death from all causes and cardiovascular diseases in different glucose categories by sex according to the presence of cardiovascular risk factors in the DECODE Study a</figDesc><table><row><cell>Glucose category</cell><cell>All cause</cell><cell></cell><cell>Cardiovascular diseases</cell><cell></cell></row><row><cell></cell><cell>Men</cell><cell>Women</cell><cell>Men</cell><cell>Women</cell></row><row><cell>Current-smoking</cell><cell>N=2745</cell><cell>N=2050</cell><cell>N=2643</cell><cell>N=1968</cell></row><row><cell>Normoglycaemia</cell><cell>1.00</cell><cell>1.00</cell><cell>1.00</cell><cell>1.00</cell></row><row><cell>IGR b</cell><cell>1.19 (0.98-1.46)</cell><cell>1.14 (0.81-1.62)</cell><cell>1.21 (0.90-1.64)</cell><cell>1.21 (0.68-2.16)</cell></row><row><cell>Newly diagnosed diabetes b</cell><cell>1.71 (1.27-2.30)</cell><cell>1.24 (0.71-2.18)</cell><cell>1.49 (0.95-2.34)</cell><cell>2.73 (1.32-5.63)</cell></row><row><cell>Ex-plus current-smoking</cell><cell>N=5704</cell><cell>N=3508</cell><cell>N=5370</cell><cell>N=3326</cell></row><row><cell>Normoglycaemia</cell><cell>1.00</cell><cell>1.00</cell><cell>1.00</cell><cell>1.00</cell></row><row><cell>IGR</cell><cell>1.10 (0.94-1.28)</cell><cell>1.34 (1.00-1.79)</cell><cell>1.06 (0.84-1.34)</cell><cell>1.30 (0.78-2.16)</cell></row><row><cell>Newly diagnosed diabetes</cell><cell>1.41 (1.12-1.79)</cell><cell>1.53 (0.98-2.39)</cell><cell>1.21 (0.84-1.75)</cell><cell>3.71 (2.07-6.65)</cell></row><row><cell>Hypertension c</cell><cell>N=4183</cell><cell>N=4317</cell><cell>N=3860</cell><cell>N=3895</cell></row><row><cell>Normoglycaemia</cell><cell>1.00</cell><cell>1.00</cell><cell>1.00</cell><cell>1.00</cell></row><row><cell>IGR</cell><cell>1.21 (1.01-1.43)</cell><cell>1.14 (0.89-1.45)</cell><cell>1.31 (1.02-1.69)</cell><cell>1.23 (0.84-1.81)</cell></row><row><cell>Newly diagnosed diabetes</cell><cell>1.33 (1.03-1.72)</cell><cell>1.81 (1.31-2.49)</cell><cell>1.41 (0.97-2.07)</cell><cell>3.19 (2.04-5.00)</cell></row><row><cell>Hypercholesterolaemia d</cell><cell>N=3189</cell><cell>N=4094</cell><cell>N=3112</cell><cell>N=3964</cell></row><row><cell>Normoglycaemia</cell><cell>1.00</cell><cell>1.00</cell><cell>1.00</cell><cell>1.00</cell></row><row><cell>IGR</cell><cell>1.16 (0.94-1.42)</cell><cell>1.33 (1.05-1.68)</cell><cell>1.16 (0.86-1.56)</cell><cell>1.52 (1.04-2.22)</cell></row><row><cell>Newly diagnosed diabetes</cell><cell>1.31 (0.96-1.77)</cell><cell>1.84 (1.28-2.65)</cell><cell>1.18 (0.76-1.83)</cell><cell>3.84 (2.35-6.26)</cell></row><row><cell>Overweight e</cell><cell>N=5180</cell><cell>N=5311</cell><cell>N=4904</cell><cell>N=4926</cell></row><row><cell>Normoglycaemia</cell><cell>1.00</cell><cell>1.00</cell><cell>1.00</cell><cell>1.00</cell></row><row><cell>IGR</cell><cell>1.19 (1.00-1.43)</cell><cell>1.27 (1.00-1.62)</cell><cell>1.36 (1.05-1.75)</cell><cell>1.16 (0.76-1.78)</cell></row><row><cell>Newly diagnosed diabetes</cell><cell>1.39 (1.09-1.78)</cell><cell>1.82 (1.32-2.52)</cell><cell>1.42 (0.98-2.04)</cell><cell>3.25 (2.00-5.28)</cell></row><row><cell>None of the above risk factors</cell><cell>N=999</cell><cell>N=2167</cell><cell>N=949</cell><cell>N=2001</cell></row><row><cell>Normoglycaemia</cell><cell>1.00</cell><cell>1.00</cell><cell>1.00</cell><cell>1.00</cell></row><row><cell>IGR</cell><cell>1.60 (0.77-3.34)</cell><cell>1.34 (0.76-2.35)</cell><cell>4.27 (1.30-14.1)</cell><cell>1.09 (0.30-4.03)</cell></row><row><cell>Newly diagnosed diabetes</cell><cell>2.86 (0.82-10.0)</cell><cell>2.56 (1.09-5.99)</cell><cell>8.72 (1.62-46.9)</cell><cell>7.28 (1.30-40.7)</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">b Hypertension: systolic blood pressure ≥140 mmHg and/or diastolic blood pressure ≥90 mmHg; Hypercholesterolaemia: serum total cholesterol ≥6.5 mmol/l; Overweight: BMI ≥25 kg/m 2 . c p&lt;0.05, men vs women. d p&lt;0.001, men vs women.</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">G.Hu et al.:  Gender difference in all-cause and cardiovascular mortality related to hyperglycaemia</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Acknowledgements. This analysis has been carried out with the help of grants from Novartis Pharma AG, Basel Switzerland and from the Finnish Academy (grants 46558, 76502 and 77618). The DECODE Study was initially funded by Novo Nordisk, Bagsvaerd, Denmark.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Organization.</head><p>The DECODE Study (Diabetes Epidemiology: Collaborative analysis Of Diagnostic Criteria in Europe) was undertaken in 1997 upon the initiative of the European Diabetes Epidemiology Group (Chairman: K. Borch-Johnsen; Vice-chairman: A. Neil; Secretary: B. Balkau).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Investigators and Study Centres included in this analysis:</head><p>Denmark: Glostrup Population Studies: S. Larsen, K. Borch-Johnsen, Centre for Preventive Medicine, Glostrup.</p><p>Finland: FIN-MONICA: J. </p></div>
+			</div>
+
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Total mortality and mortality from heart disease, cancer and stroke from 1950 to 1987 in 27 countries. National Institute of Health</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Thom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">H</forename><surname>Epstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Feldman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">E</forename><surname>Leaverton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Wolz</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1992">1992</date>
+			<biblScope unit="page" from="92" to="3088" />
+			<pubPlace>Bethesda</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Myocardial infarction and coronary deaths in the World Health Organization MONICA Project. Registration procedures, event rates, and case-fatality rates in 38 populations from 21 countries in four continents</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Tunstall-Pedoe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kuulasmaa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Amouyel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Arveiler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Rajakangas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Pajak</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">90</biblScope>
+			<biblScope unit="page" from="583" to="612" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">WHO MONICA Project, and ARIC Study Sex difference in ischaemic heart disease mortality and risk factors in 46 communities: an ecologic analysis</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Jackson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Chambless</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Higgins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kuulasmaa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Wijnberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Williams</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cardiovasc Risk Factors</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="43" to="54" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Sex, age, cardiovascular risk factors, and coronary heart disease: a prospective follow-up study of 14 786 middleaged men and women in Finland</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Jousilahti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Vartiainen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tuomilehto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Puska</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">99</biblScope>
+			<biblScope unit="page" from="1165" to="1172" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">World Health Organisation Study Group on Diabetes Mellitus</title>
+		<imprint>
+			<biblScope unit="volume">727</biblScope>
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">Technical Report Series</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Diabetes, hyperglycaemia and arterial disease</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Jarrett</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Complications of diabetes</title>
+				<editor>
+			<persName><forename type="first">H</forename><surname>Keen</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Jarrett</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1982">1982</date>
+			<biblScope unit="page" from="179" to="203" />
+		</imprint>
+	</monogr>
+	<note>2nd edn</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Relationship of clinical diabetes and asymptomatic hyperglycaemia to risk of coronary heart disease mortality in men and women</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">H</forename><surname>Pan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">B</forename><surname>Cedres</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Liu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J</title>
+		<imprint>
+			<biblScope unit="volume">123</biblScope>
+			<biblScope unit="page" from="504" to="516" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Is hyperglycaemia associated with cardiovascular disease? The Framingham Study</title>
+		<author>
+			<persName><forename type="first">Pwf</forename><surname>Wilson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Cupples</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">B</forename><surname>Kannel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am Heart J</title>
+		<imprint>
+			<biblScope unit="volume">121</biblScope>
+			<biblScope unit="page" from="586" to="590" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Hyperglycaemia is associated with all-cause and cardiovascular mortality in the Hoorn population: the Hoorn study</title>
+		<author>
+			<persName><surname>Vegt F De</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Dekker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">G</forename><surname>Ruhé</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Dia</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="926" to="931" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Glucose tolerance and mortality: Comparison of WHO and American Diabetes Association diagnostic criteria</title>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">354</biblScope>
+			<biblScope unit="page" from="617" to="621" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+		<respStmt>
+			<orgName>DECODE Study Group</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Glucose tolerance and cardiovascular mortality: Comparison of the fasting and the 2-hour diagnostic criteria</title>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">161</biblScope>
+			<biblScope unit="page" from="397" to="404" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+		<respStmt>
+			<orgName>DECODE Study group</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Isolated postchallenge hyperglycaemia and the risk of fatal cardiovascular disease in older women and men</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Barrett-Connor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ferrara</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="371" to="375" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+	<note>BMJ</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Is fasting glucose sufficient to define diabetes? Epidemiological data from 20 European studies</title>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="647" to="654" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+		<respStmt>
+			<orgName>DECODE Study Group</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Fasting proinsulin concentrations predict the development of type 2 diabetes</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">J</forename><surname>Wareham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Byrne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">E</forename><surname>Day</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">N</forename><surname>Hales</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="262" to="270" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><surname>Waterhouse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Muir</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Correa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Powell</surname></persName>
+		</author>
+		<title level="m">Cancer incidence in five continents</title>
+				<meeting><address><addrLine>IARC, Lyon</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1976">1976</date>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page">456</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">The statistical basis of meta-analysis</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Fleiss</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stat Methods Med Res</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="121" to="145" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Sex differences in fasting glycemia as a risk factor for ischemic heart disease death</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Scheidt-Nave</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Barrett-Connor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Wingard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Cohn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Edelstein</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">133</biblScope>
+			<biblScope unit="page" from="565" to="576" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Fasting plasma glucose in non-diabetic elderly women predicts increased all-causes mortality and coronary heart disease risk</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Simons</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Friedlander</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mccallum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Simons</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Aust N Z J</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="41" to="47" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Heart disease and diabetes</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Wingard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E ;</forename><surname>Barrett-Connor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">I</forename><surname>Harris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Cowie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Stern</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Boyko</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Diabetes in America</title>
+				<editor>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Reiber</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">P</forename><forename type="middle">H</forename><surname>Bennett</surname></persName>
+		</editor>
+		<meeting><address><addrLine>U.S; Washington DC</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1995">1995</date>
+			<biblScope unit="page" from="429" to="448" />
+		</imprint>
+	</monogr>
+	<note>2nd edn</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Effect of diuretic-based antihypertensive treatment on cardiovascular disease risk in older diabetic patients with isolated systolic hypertension. Systolic Hypertension in the Elderly Program Cooperative Research Group</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Curb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Pressel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Cutler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">276</biblScope>
+			<biblScope unit="page" from="1886" to="1892" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Effects of calcium-channel blockade in older patients with diabetes and systolic hypertension</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tuomilehto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Rastenyte</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">H</forename><surname>Birkenhager</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">340</biblScope>
+			<biblScope unit="page" from="677" to="684" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+	<note>Systolic Hypertension in Europe Trial Investigators</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title level="m" type="main">Gender difference in all-cause and cardiovascular mortality related to hyperglycaemia</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Hu</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">617</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Postchallenge hyperglycemia and mortality in a national sample of U.S. adults</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Saydah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Miret</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Sung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Varas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Gause</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">L</forename><surname>Brancati</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="1397" to="1402" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Why is diabetes mellitus a stronger risk factor for fatal ischemic heart disease in women than in men? The Rancho Bernardo Study</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">L</forename><surname>Barrett-Connor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Cohn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Wingard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Edelstein</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">265</biblScope>
+			<biblScope unit="page" from="627" to="631" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">A prospective population based study of gender differential in mortality from cardiovascular disease and &quot;all causes&quot; in asymptomatic hyperglycaemics</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Janghorbani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Jones</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">H</forename><surname>Gilmour</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Hedley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Zhianpour</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="397" to="405" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">The impact of gender and general risk factors on the occurrence of atherosclerotic vascular disease in non-insulin-dependent diabetes mellitus</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Orchard</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Med</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="323" to="333" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Impact of diabetes on coronary artery disease in women and men: a meta-analysis of prospective studies</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">L</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Cheung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Cape</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Zinman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="962" to="968" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Explaining the sex difference in coronary heart disease mortality among patients with type 2 diabetes mellitus: a meta-analysis</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Kanaya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Grady</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Barrett-Connor</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">162</biblScope>
+			<biblScope unit="page" from="1737" to="1745" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Report of the Expert Committee on the Diagnosis and Classification of Diabetes Mellitus</title>
+	</analytic>
+	<monogr>
+		<title level="m">The Expert Committee on the Diagnosis and Classification of Diabetes Mellitus</title>
+				<imprint>
+			<date type="published" when="1997">1997</date>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="1183" to="1197" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title level="m" type="main">World Health Organisation Consultation (1999) Definition, diagnosis and classification of diabetes mellitus and its complications. Part 1: diagnosis and classification of diabetes mellitus</title>
+		<imprint/>
+	</monogr>
+	<note>Report of a WHO Consultation 99.2. Geneva 21. DECODE Study Group (1998) Will new diagnostic criteria for diabetes mellitus change phenotype of patients with</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

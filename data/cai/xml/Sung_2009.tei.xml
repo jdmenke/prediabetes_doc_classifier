@@ -1,0 +1,1183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Fasting Blood Glucose and the Risk of Stroke and Myocardial Infarction</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2021-06-30">June 30, 2021</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><roleName>MD, MPH</roleName><forename type="first">Joohon</forename><surname>Sung</surname></persName>
+						</author>
+						<author role="corresp">
+							<persName><roleName>PhD;</roleName><forename type="first">Yun-Mi</forename><surname>Song</surname></persName>
+							<email>yunmisong@skku.edu</email>
+						</author>
+						<author>
+							<persName><roleName>PhD</roleName><forename type="first">Shah</forename><surname>Ebrahim</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MSc, DM, DCH</roleName><forename type="first">Debbie</forename><forename type="middle">A</forename><surname>Lawlor</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Epidemiology</orgName>
+								<orgName type="department" key="dep2">Graduate School of Public Health</orgName>
+								<orgName type="department" key="dep3">Institute of Health and Environment</orgName>
+								<orgName type="department" key="dep4">Department of Epidemiology and Cancer Prevention</orgName>
+								<orgName type="institution">Seoul National University</orgName>
+								<address>
+									<settlement>Seoul</settlement>
+									<country>South Korea (J.S.</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="institution">National Cancer Center</orgName>
+								<address>
+									<settlement>Goyang</settlement>
+									<region>Gyeonggi-do</region>
+									<country>South Korea (J.S.</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="department" key="dep1">Department of Family Medicine</orgName>
+								<orgName type="department" key="dep2">Center for Clinical Research</orgName>
+								<orgName type="laboratory">Noncommunicable Disease Epidemiology Unit</orgName>
+								<orgName type="institution" key="instit1">Samsung Medical Center</orgName>
+								<orgName type="institution" key="instit2">Samsung Biomedical Research Institute</orgName>
+								<orgName type="institution" key="instit3">SungKyunKwan University School of Medicine</orgName>
+								<address>
+									<settlement>Seoul</settlement>
+									<country>South Korea (Y.S.</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Epidemiology and Population Health</orgName>
+								<address>
+									<settlement>London</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff4">
+								<orgName type="department">School of Hygiene and Tropical Medicine</orgName>
+								<orgName type="laboratory">MRC Centre for Causal Analyses in Translational Epidemiology</orgName>
+								<orgName type="institution">University of Bristol</orgName>
+								<address>
+									<settlement>London, Bristol</settlement>
+									<country>UK (S.E.), UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff5">
+								<orgName type="department">Department of Family Medicine</orgName>
+								<orgName type="institution" key="instit1">Samsung Medical Center</orgName>
+								<orgName type="institution" key="instit2">Sungkyunkwan University School of Medicine</orgName>
+								<address>
+									<addrLine>50 Irwondong</addrLine>
+									<postCode>135-710</postCode>
+									<settlement>Gangnamgu, Seoul</settlement>
+									<country key="KR">South Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Fasting Blood Glucose and the Risk of Stroke and Myocardial Infarction</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2021-06-30">June 30, 2021</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">0E81E117093DA006DC0E16DCEF1B51F9</idno>
+					<idno type="DOI">10.1161/CIRCULATIONAHA.108.776989</idno>
+					<note type="submission">Received March 9, 2008; accepted November 6, 2008.</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.1" ident="GROBID" when="2022-07-19T23:01+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>cerebral hemorrhage Ⅲ cerebral infarction Ⅲ cohort studies Ⅲ glucose Ⅲ myocardial infarction</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Background-Although diabetes is a well-known risk factor of atherosclerotic cardiovascular diseases, the cardiovascular disease risk of glycemia below the current diabetic threshold remains uncertain. Methods and Results-A total of 652 901 Korean men aged 30 to 64 years from the Korean National Health Insurance System were categorized into 8 groups by fasting blood glucose (FBG) level at baseline and were followed up for cardiovascular diseases occurrence during 1992-2001. Over the follow-up period of 8.8 years, 10 954 stroke and 3766 myocardial infarction events occurred. In age-adjusted analyses, there was evidence of linear associations between FBG and myocardial infarction, ischemic stroke, and intracerebral hemorrhagic stroke. However, with additional adjustment for socioeconomic position, behaviors, and other cardiovascular disease risk factors, the associations with myocardial infarction and intracerebral hemorrhagic stroke were markedly attenuated with increased risk only at the highest FBG levels (Ն7.5 mmol/L). With full adjustment, the association with ischemic stroke persisted; a linear increase in the risk of ischemic stroke was observed from FBG level of 5.6 mmol/L. When the analyses were repeated with those persons who had been diagnosed with diabetes removed, there was no evidence of associations of FBG with intracerebral hemorrhagic stroke, but the association with ischemic stroke persisted. Conclusions-In this Korean male population, the association with high FBG differed between ischemic stroke, intracerebral hemorrhagic stroke, and myocardial infarction. The linear increase in the risk of ischemic stroke, independently of other cardiovascular risk factors, was observed at a level below the current FBG criteria for impaired fasting glucose (Ն5.6 mmol/L). However, for other cardiovascular diseases, the current cutoff for diagnosing diabetes appropriately identified Korean men at risk. (Circulation. 2009;119:812-819.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>A recent global estimate predicted a marked increase in the number of people with diabetes from 171 million in 2000 to 366 million in 2030, which will create a commensurate rise in diabetes-related health outcomes. <ref type="bibr" target="#b0">1</ref> Diabetes increases the risk of atherosclerotic cardiovascular disease (CVD), <ref type="bibr" target="#b1">2,</ref><ref type="bibr" target="#b2">3</ref> but some uncertainties still exist regarding the relation between hyperglycemia below the threshold for a diagnosis of diabetes and CVD risk. <ref type="bibr" target="#b3">4</ref> Currently, diabetes is defined with a cutoff level of glycemia corresponding to the threshold (fasting blood glucose [FBG]  Ն7 mmol/L) for microvascular diabetic complications. However, a continuous or U-shaped association has been observed between blood glucose (fasting or postload) and CVD risk in some, <ref type="bibr" target="#b4">[5]</ref><ref type="bibr" target="#b5">[6]</ref><ref type="bibr" target="#b6">[7]</ref><ref type="bibr" target="#b7">[8]</ref><ref type="bibr" target="#b8">[9]</ref><ref type="bibr" target="#b9">[10]</ref><ref type="bibr" target="#b10">[11]</ref> although not all, <ref type="bibr" target="#b3">4,</ref><ref type="bibr" target="#b11">12</ref> studies of healthy individuals without diabetes. This raises the question of whether there is a threshold level of FBG at which relative risk of CVD increases markedly and whether this is lower than the current diabetic criteria. <ref type="bibr" target="#b12">13</ref> The evaluation of whether FBG below a diabetic threshold is an independent risk factor for CVD is important in public health terms because the rise in obesity and diabetes prevalence is associated with an upward shift in the population distribution of FBG.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Editorial p 773 Clinical Perspective p 819</head><p>The association between FBG and intracerebral hemorrhagic stroke (IHS) is another issue to be clarified because IHS is one of the major causes of CVD in Asian populations in which diabetes prevalence is rising most rapidly, and it is uncertain whether its association with glycemia is different from other subtypes of CVD. The association of diabetes itself with IHS remains uncertain, <ref type="bibr" target="#b2">3,</ref><ref type="bibr" target="#b4">5,</ref><ref type="bibr" target="#b13">14</ref> with inverse, <ref type="bibr" target="#b14">15</ref> null, <ref type="bibr" target="#b2">3,</ref><ref type="bibr" target="#b15">16</ref> or positive <ref type="bibr" target="#b16">17</ref> associations reported. Many studies of Western populations have examined the association of fasting or postload glucose across its distribution and stroke risk, but few have had sufficient data on IHS to examine associations with this specific subtype. Insight would be gained by using data from a large Asian study with sufficient cases of ischemic stroke (IS) and IHS as well as myocardial infarction (MI) <ref type="bibr" target="#b17">18,</ref><ref type="bibr" target="#b18">19</ref> to clarify the nature of the association between FBG and these specific subtypes of CVD outcomes.</p><p>We evaluated the association between FBG and stroke subtypes (IS and IHS) and MI in a prospective cohort study of Korean men, taking other major cardiovascular risk factors such as blood cholesterol level, blood pressure (BP), and obesity into consideration. Our study participants from the Korean National Health Insurance System (KNHS) provide a unique opportunity to evaluate the independent association of FBG with CVD because of the large sample size, high incidence of both ischemic and hemorrhagic types of stroke, and number of people with FBG levels below the diabetic threshold.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study Participants</head><p>Study participants were Korean male public servants aged 30 to 64 years, who underwent a health examination between 1986 and 1990 provided by the Korea Medical Insurance Corporation, one of the major institutions of the KNHS at that time. All public servants were invited to a biennial routine health examination provided by KNHS since 1980, and Ϸ95% of them undertook this health examination. Details have been published previously. <ref type="bibr" target="#b19">20</ref> Women public servants were not included in the present study. The association of diabetes with coronary heart disease shows consistent differences between women and men, with relative and absolute risks being higher in women than in men, including in Asian populations. <ref type="bibr" target="#b20">21</ref> These consistent differences would necessitate separate analyses for men and women, and the small number of women in our study population did not permit this separate analysis. Among the total of 755 108 men who underwent the examination between 1986 and 1990, 652 901 men (85.5%) were included in the analyses presented here. A total of 102 207 men were excluded from the analyses for the following reasons: change in employment status between health examination and beginning of study, which resulted in the men no longer being on the books of the KNHS; therefore, we were unable to check their vital status and occurrence of outcomes during the follow-up (nϭ80 697); experienced or reported a death (4728) or a history of MI or stroke before or during the baseline assessment (nϭ2479); missing data on FBG (nϭ13 674); or extreme outliers (lower or upper 0.05% of distribution) with respect to FBG levels (nϭ629).</p><p>FBG and cholesterol levels after a minimum of 6 hours of fasting and additional risk factors data were obtained from the biennial multiphasic health examination data set, which allowed us to obtain repeat measurements of the main exposure and covariates for most of the participants. To minimize regression dilution bias, we took the average of the repeat measurements (up to 2.6 measurements per participant) of FBG, cholesterol, weight, and BP between 1986 and 1992. For height, the median value between 1986 and 1996 was selected.</p><p>Study subjects were divided into 3 glucose groups: normal Ͻ5.6, impaired FBG 5.6 to 6.9, and diabetic range of FBG Ն7.0 mmol/L. To be able to examine in detail the nature of any association (eg, U-shaped, linear) across the FBG distribution, those with impaired fasting glucose (5.6 to 6.9 mmol/L) were further divided into 3 groups (5.6 to 6.0, 6.1 to 6.4, 6.5 to 6.9 mmol/L) reflecting the criteria for metabolic syndrome reported by the National Cholesterol Education Program Adult Treatment Panel III, <ref type="bibr" target="#b21">22</ref> and those with normal or diabetic range of FBG levels were further divided into 0.5-mmol/L intervals. Thus, in total we had 8 categories of FBG: Ͻ4.6, 4.6 to 5.0, 5.1 to 5.5, 5.6 to 6.0, 6.1 to 6.4, 6.5 to 6.9, 7.0 to 7.4, Ն7.5 mmol/L (Ͻ83, 83 to 91, 92 to 99, 100 to 109, 110 to 116, 117 to 125, 126 to 134, and Ն135 mg/dL).</p><p>Body mass index (BMI) was calculated as the weight in kilograms divided by the height in meters squared. Weights and heights were measured in light clothing with the use of standardized stadiometers and scales by registered nursing staff. A single measurement of BP was taken, with a standard mercury or electronic sphygmomanometer, with the man rested and in the seated position. Information on health-related behaviors was obtained from a self-administered questionnaire in 1988 and 1990, and each health habit was classified on the basis of the categorical responses. Smoking habits were classified into 4 groups: never smoker, ex-smoker, smoking 1 to 19 cigarettes per day, and smoking Ն20 cigarettes per day. Our only information on exercise/physical activity was obtained from a single question, which permitted participants to be classified into those who reported engaging in regular exercise or not. The amount of alcohol consumed was calculated from questions that asked about drinking frequency per week and usual amount of drink (including questions about the amount of the most popular Korean liquor, Soju) consumed at each drinking time. The weekly alcohol consumption level was divided into 4 categories: Ͻ30, 30 to 104, 105 to 209, and Ն210 g/wk.</p><p>Socioeconomic position was assessed by salary grade and was grouped into 4 categories on the basis of the quartile distribution of salary grade in each age stratum. Area of residence was categorized into 3 groups: capital, large city, and other area.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Follow-Up of Cardiovascular Mortality and Morbidity</head><p>All nonfatal and fatal MI and strokes occurring between October 1, 1992, and July 31, 2001, were ascertained through data linkage with death data of the Korea National Statistical Office and with the medical claim data of KNHS. Nonfatal events were defined by the cases who were admitted to the hospital for at least 48 hours to exclude those admissions for investigations to rule out a suspicious cardiovascular diagnosis. Given the easy accessibility to the healthcare system by national health insurance system members and the obligatory death reporting system in Korea, it is likely that the great majority of cases have been identified.</p><p>The following codes in the International Statistical Classification of Diseases, 10th Revision were used: MI (I21 to I24), all stroke (I60 to I69), IS (I63, I67.8), and IHS (I61). Subarachnoid hemorrhage was not examined as a separate stroke subtype because of small numbers.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Analytical Methods</head><p>Follow-up started in October 1992 and continued, for stroke, until the date of the first admission attributable to stroke or date of death and, for MI, until the date of the first admission attributable to MI or death. If neither the outcome event nor death occurred to a participant until July 31, 2001, he or she was considered to be censored.</p><p>Hazard ratios for MI and stroke subtypes by 8 FBG subgroups were estimated by Cox proportional hazards regression analysis after testing the proportionality assumption in 570 453 men who were not missing any covariates, initially in an age-adjusted model and then in a multivariable-adjusted model (conventional cardiovascular risk factors and socioeconomic position adjustments) to examine the association between FBG level and CVD independent of other risk factors. In this analysis, participants who reported a past history of diabetes (before September 30, 1992) were combined with the highest FBG group regardless of their FBG level measured at the health examination.</p><p>We examined whether there is a linear trend of increasing CVD risk with increase in FBG level across the nondiabetic normal range (4.6 to 6.9 mmol/L) of FBG. The main analysis of the association between FBG and CVD risk was repeated with the exclusion of all diagnosed diabetics to determine the safe level of FBG in nondiabetic men.</p><p>The population proportional attributable risk was estimated as a measure of absolute effect assuming that any association that we identified in our multivariable model between FBG and CVD is causal in this population. The formula used was Population Proportional Attributable RiskϭPrevalence exposure (HRϪ1)/HR, where Prevalence exposure is the prevalence of the exposure (higher FBG level than cutoff), and HR is the hazard ratio from the multivariable model. <ref type="bibr" target="#b22">23</ref> We evaluated whether the association between glucose and CVD was modified by age and BMI by including interaction terms (FBG groupϫage group and FBG groupϫBMI quartile group) into a multivariable-adjusted Cox proportional hazard model.</p><p>This study was approved by the institutional review board of Samsung Medical Center (Seoul, Korea). The authors had full access to and take responsibility for the integrity of the data. All authors have read and agree to the manuscript as written. None of authors have any conflict of interest.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>During the 8.8 (SD 1.1) years of follow-up of 5 719 488 person-years, totals of 10 954 stroke events (5357 IS, 3090 IHS, and 2507 other types) and 3766 MI events occurred. The mean serum FBG level was 5.1 (SD 1.0) mmol/L, and 4.3% of participants had hyperglycemia compatible with diabetes (FBG Ն7.0 mmol/L) (nϭ14 011; 2.1%) or had diabetes history (nϭ14 440; 2.2%), with an additional 12.9% (nϭ84 042) having a FBG in the impaired fasting glucose range (FBG 5.6 to 6.9 mmol/L).</p><p>Table <ref type="table" target="#tab_0">1</ref> shows the different profiles of cardiovascular risk factors and socioeconomic factors according to FBG level at baseline examination. Older age, higher BMI, higher total cholesterol, and higher BP were all associated with higher FBG. Participation in regular exercise seemed to be greater in those with higher FBG.</p><p>Table <ref type="table" target="#tab_1">2</ref> shows the association between FBG and stroke subtypes and MI in the 570 453 men with complete data on all covariates. When we undertook age-adjusted analyses in the whole cohort of 652 901 men, the results were essentially the same as those presented in Table <ref type="table" target="#tab_1">2</ref>. Age-adjusted analysis showed the risks for IS, IHS, and MI increased gradually with increasing FBG level. Additional adjustment for behavioral and socioeconomic covariates (smoking, alcohol, exercise, area of residence, and salary level) did not substantively alter the strength of any of these associations.</p><p>With additional adjustment for BP, BMI, and total cholesterol level, however, there was marked attenuation of associations for MI and IHS, and clear increased risk was only seen for those in the category that combined diabetes with a FBG Ն7.5 mmol/L. The hazard ratio (95% CI) of MI for this group compared with the reference group of 4.6 to 5.0 mmol/L in the fully adjusted model was 1.79 (1.59, 2.02), and that for IHS was 1.36 (1.18, 1.58).</p><p>When men with previously diagnosed diabetes were excluded from the analysis, no association of FBG with IHS was observed in the fully adjusted model, but the increased risk of MI (that was observed when men with diabetes were included in the highest FBG category) remained for those men in the highest (Ն7.5 mmol/L) FBG category (Figure).</p><p>The association between FBG and IS was somewhat attenuated with full adjustment for covariates, but even in this model the risk of IS started to increase from the current cutoff FBG level (Ն5.6 mmol/L) of impaired fasting glucose (Table <ref type="table" target="#tab_1">2</ref>). The increase in IS risk from this FBG level was also seen in analyses that excluded men with a previous diagnosis of diabetes (Figure). When we looked at a spline curve (Figure I in the online-only Data Supplement), the FBG level at which the risk for stroke subtypes and MI started increasing did not differ substantively from that in the Figure <ref type="figure">.</ref> A trend test in men with normal FBG levels below diabetic threshold but not extremely low (FBS 4.6 to 6.9 mmol/L) showed that there was a positive linear trend between FBG level and the risk of IS, but no such trend was observed for IHS and MI (probability values shown in Table <ref type="table" target="#tab_1">2</ref>).</p><p>When we compared our models in which we tested a linear association of FBG with each outcome to one in which a curvilinear association was assumed (glucose was entered into the model as an exponential function), the curvilinear associations did not show any better fit of the model than the linear associations.</p><p>The population attributable risks of diabetes using the current FBG level of Ն7.0 mmol/L for all stroke, IS, and MI were 5.6%, 9.5%, and 4.8%, respectively. Lowering the threshold to levels associated with increased hazard ratios for these diseases increased these population attributable risks only modestly (Ն6.1 mmol/L: 6.4%, 10.5%, and 5.4%; Ն5.6 mmol/L: 7.1%, 12.1%, and 5.7%, for all stroke, IS, and MI, respectively).</p><p>Tables I and II in the online-only Data Supplement show the associations of FBG with cardiovascular outcomes stratified by BMI and age quartiles, respectively. There was some evidence that the effect of FBG on IS differed by BMI level and age, with stronger association in those with lower BMI levels and in those aged Ն40 years. The association of FBG with MI tended to be stronger in those who were older at baseline.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>In this large cohort study of Korean men, we have shown that the association between FBG level and CVD differed according to specific disease categories. Once other CVD risk factors were taken into account, there was a linear association between FBG level Ͼ5.6 mmol/L and IS, but for IHS and MI, only those in the very highest category of FBG or those with existing diabetes were at increased risk. The level of FBG at which relative risk of IS started to increase was lower than the current cutoff level used to diagnose diabetes.</p><p>The findings of different associations between glycemia and different stroke subtypes in our study suggest that evaluation of the risk of hyperglycemia associated with the stroke without any consideration of stroke subtypes may mask the size of risk associated with IS somewhat. Given the wide variation in the stroke subtype incidence between populations, <ref type="bibr" target="#b16">17,</ref><ref type="bibr" target="#b17">18</ref> the different associations of FBG across major CVD subtypes need to be considered, together with the population prevalence of each subtype, to set the level of FBG at which CVD hazard starts to increase in a population.</p><p>We hypothesized that IHS may have a different association with hyperglycemia from IS, as has been found with other common risk factors such as cholesterol, obesity, and smok-ing. <ref type="bibr">24 -27</ref> Previous studies have either not contributed detailed data on stroke subtypes when studying the effect of diabetes <ref type="bibr" target="#b15">16,</ref><ref type="bibr" target="#b27">28,</ref><ref type="bibr" target="#b28">29</ref> and prediabetes <ref type="bibr" target="#b4">5,</ref><ref type="bibr" target="#b29">30</ref> or have shown either a decrease <ref type="bibr" target="#b14">15</ref> or an increase <ref type="bibr" target="#b16">17</ref> in risk of IHS in diabetic subjects, warranting further clarification of the association between hyperglycemia and IHS. Previous studies have been limited by the small number of IHS events <ref type="bibr" target="#b2">3,</ref><ref type="bibr" target="#b28">29</ref> or because a retrospective study design was employed. <ref type="bibr" target="#b14">15</ref> Even findings from major prospective cohort studies have had limited statistical power: the Framingham Study, with only 18 IHS events, reported a positive association, whereas the Honolulu Heart Study, with 112 IHS events, showed no association, but both studies had produced estimates with wide CIs that actually appear to be statistically consistent with each other. <ref type="bibr" target="#b16">17</ref> With larger numbers of IHS cases, wider glycemic variation, and available information about other cardiovascular risk factors, we believe that our study may provide better insight into the association between FBG and IHS. In our study, a positive association was observed with IHS when BP, cholesterol, and BMI were not adjusted, but it was markedly attenuated in fully adjusted analysis. Our examination of this association in those with no prior diagnosis of diabetes suggests that diagnosed diabetes is associated with increased risk of IHS, but beyond this group, FBG is not a major independent risk factor for IHS.</p><p>Our hypothesis that the association of FBG with IHS might differ from that with IS and MI was in part based on results  Assessed by putting the continuous scale of the glucose groups in the corresponding model. ¶Assessed by putting the continuous scale of the glucose groups in the corresponding model after excluding those whose FBG level was very low (Ͻ4.6 mmol/L) or above the cutoff level of diabetes mellitus (Ն7.0 mmol/L) (nϭ396 951 men) and those who reported a past history of diabetes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Figure.</head><p>Hazard ratio (95% CIs) for the risk of stroke subtypes and MI associated with FBG in 557 019 Korean men after excluding those who reported a past history of diabetes, 1992-2001, adjusted for age, height, BP level, serum total cholesterol level, BMI, smoking, alcohol consumption, regular exercise, level of monthly salary, and area of residence.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sung et al</head><p>Glucose, Stroke, and Myocardial Infarction from studies of other cardiovascular risk factors, including smoking, cholesterol, and BP. In a number of previous studies, including several from this population, <ref type="bibr" target="#b19">20,</ref><ref type="bibr" target="#b24">25,</ref><ref type="bibr" target="#b26">27</ref> these risk factors have tended to have similar associations with IS and MI but different associations with IHS, lending support to the hypothesis that IS and MI share much of their etiology, but IHS differs in its etiology and pathophysiology. <ref type="bibr" target="#b30">31</ref> Interestingly, in this study we found that the associations with FBG were stronger for IS than for MI, and indeed the association with MI was more similar to that for IHS. Studies in which the magnitude of the association of FBG with IS have been compared with that with coronary heart disease in Western populations have found somewhat stronger associations with coronary heart disease (opposite to our findings). <ref type="bibr" target="#b11">12,</ref><ref type="bibr" target="#b13">14</ref> These studies, on the whole, have used a higher referent FBG level (Ͻ7.8 mmol/L) than we used (4.6 to 5.1 mmol/L), which may have resulted in underestimation of the strength of association between FBG and IS by including those with FBG associated with increased risk into the referent group. Differences between the studied populations, in the distribution of major CVDs, and in defining IS might also contribute to differences between studies. For example, all strokes make up a larger contribution to total CVD mortality in populations from East Asia than they do in Western populations, and IHS is more common in East Asian populations. Given that hyperglycemia is a well-established risk factor for microvascular complications and that IS may be due to either small-artery disease leading to lacunar infarct, which is increased in diabetic patients, <ref type="bibr" target="#b31">32,</ref><ref type="bibr" target="#b32">33</ref> or largeartery disease, it seems plausible that hyperglycemic subjects would be more strongly associated with IS than with MI (a large-artery [macrovascular] condition). Thus, glycemia might be a risk factor that exhibits important etiologic differences between IS and MI if one has a sufficiently large study to determine these differences.</p><p>In our study, the level of FBG at which relative risk of IS started to increase was lower than the current cutoff for diabetes, and the graded association between FBG and IS suggests that further lowering of FBG might be of value in protecting against IS in nondiabetics. Although some caution is required in assuming that our associations are causal, the population attributable risk fraction in this population suggests that an additional 2.6% of Korean men would be correctly identified as at risk of IS if the cutoff for defining FBG risk level were reduced to 5.6 mmol/L.</p><p>Although our study is one of the largest to date to be able to examine in detail the relationship of FBG across its distribution with CVD subtypes, there are some limitations. We could not differentiate those who were being treated for diabetes because of a lack of relevant data. Consequently, we classified those who reported a diagnosis of diabetes into the highest category of FBG, which would avoid possible FBG classification errors. Furthermore, our findings were not altered substantively when we repeated analyses with those who had a diagnosis of diabetes removed. Within-person FBG variation is a potential source of measurement error in this and other studies that have examined this association. Previous studies have either ignored this possibility or have obtained repeated measures of FBG in a small subsample and used this to correct for possible regression dilution bias. However, we averaged values over several screening visits, which will mitigate against this source of variation. Because we evaluated only the FBG/CVD association, our study is not informative about the association between CVD and postprandial glucose or casual random glucose. We could not fully adjust for other potentially important confounders such as physical activity, central obesity, triglycerides, high-density lipoprotein cholesterol, BP control, adherence to preventive recommendations, or the use of antiplatelet drugs, lipid-lowering agents, or other medications because of the lack of detailed information, which might have resulted in residual confounding.</p><p>Because we ascertained the occurrence of outcome events from medical claims data and death report data, there may be some inaccuracy, particularly by stroke subtype. However, previous studies evaluating the accuracy of medical claim data in a sample of hospital-admitted Korean public servants reported the accuracy of diagnosis (percentage of cases who meet review criteria of stroke or MI diagnoses among those who were identified to have these diseases from the medical claim data of KNHS) of IS, IHS, and MI as 83.4%, 85.7%, and 85.6%, respectively, and we believe that these levels of accuracy are acceptable in large epidemiological studies. It is likely that the small error rates in diagnosis will not differ across the exposure (FBG) levels of main interests in this study. <ref type="bibr" target="#b33">34,</ref><ref type="bibr" target="#b34">35</ref> There were small amounts of missing data on some covariates. When the missing data of each covariate were added up in the multivariable-adjusted models, 13% of the study samples were not included. However, the similarity between the results of an age-adjusted model using the whole cohort and the multiple covariate-adjusted models suggests that the changes in the effect estimates on adjustment were not caused by excluding participants with missing data. Finally, our study is of men only, and we cannot assume that our findings are generalizable to women.</p><p>In conclusion, the association with high FBG differed between IS, IHS, and MI in this middle-aged Korean male population. Hyperglycemia increases the risk for IS independently of other cardiovascular risk factors. The linear increase of IS at FBG levels below the current criteria for diabetes suggests that these criteria may need to be revised.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sources of Funding</head><p>This study was supported by the Ministry of Science and Technology, Korea (National R&amp;D project grant M1-0306-03-0000), Samsung Biomedical Research Institute (Samsung Biomedical Research Institute C-A7-416-1), and Ministry of Health and Welfare Korea (01-PJ1-PG1-01CH10-0007). D.A. Lawlor is funded by a UK Department of Health Career Scientist Award and works in a UK Medical Research Council Centre. The views expressed in this article are those of the authors and not necessarily of any funding body. The funding bodies had no influence over how data were analyzed or interpreted.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosures</head><p>None.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 . Characteristics of Study Participants According to FBG Level at Baseline Examination (1986 -1992) in 652 901 Korean Men From the KNHS</head><label>1</label><figDesc></figDesc><table><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>Sung et al</cell><cell cols="5">Glucose, Stroke, and Myocardial Infarction</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">Level of FBG, mmol/L</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>No. of</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Characteristics</cell><cell>Persons*</cell><cell>Ͻ4.6</cell><cell>4.6 -5.0</cell><cell>5.1-5.5</cell><cell>5.6 -6.0</cell><cell>6.1-6.4</cell><cell>6.5-6.9</cell><cell>7.0 -7.4</cell><cell>Ն7.5</cell></row><row><cell>No. of participants</cell><cell>652 901</cell><cell>173 790</cell><cell>235 930</cell><cell>133 413</cell><cell>62 470</cell><cell>15 591</cell><cell>9553</cell><cell>5179</cell><cell>16 975</cell></row><row><cell>(persons)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>No. of person-years</cell><cell>5 719 488</cell><cell>1 532 071</cell><cell>2 077 420</cell><cell>1 168 835</cell><cell>542 659</cell><cell>133 967</cell><cell>81 292</cell><cell>43 978</cell><cell>139 266</cell></row><row><cell>Age, mean (SD), y</cell><cell>652 901</cell><cell>41.3 (8.5)</cell><cell>42.4 (8.5)</cell><cell>43.3 (8.7)</cell><cell>44.6 (8.8)</cell><cell>46.1 (8.8)</cell><cell>47.1 (8.6)</cell><cell>47.8 (8.4)</cell><cell>49.2 (7.8)</cell></row><row><cell>Height, mean (SD), cm</cell><cell cols="2">618 437 169.0 (5.1)</cell><cell>168.9 (5.1)</cell><cell>168.8 (5.1)</cell><cell>168.6 (5.2)</cell><cell>168.4 (5.2)</cell><cell>168.2 (5.2)</cell><cell>168.2 (5.2)</cell><cell>168.1 (5.1)</cell></row><row><cell>BMI, mean (SD), kg/m 2</cell><cell>618 357</cell><cell>22.9 (2.3)</cell><cell>23.1 (2.4)</cell><cell>23.4 (2.4)</cell><cell>23.6 (2.5)</cell><cell>23.8 (2.5)</cell><cell>24.0 (2.5)</cell><cell>24.2 (2.5)</cell><cell>23.9 (2.5)</cell></row><row><cell>Systolic BP, mean</cell><cell cols="9">652 876 121.6 (11.7) 123.3 (12.2) 125.5 (13.1) 128.3 (14.2) 131.0 (15.6) 131.6 (15.6) 132.2 (15.9) 131.7 (15.8)</cell></row><row><cell>(SD), mm Hg</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Cholesterol, mean</cell><cell>652 886</cell><cell>4.8 (0.8)</cell><cell>4.9 (0.8)</cell><cell>4.9 (0.8)</cell><cell>5.0 (0.8)</cell><cell>5.1 (0.9)</cell><cell>5.1 (0.9)</cell><cell>5.2 (0.9)</cell><cell>5.3 (1.0)</cell></row><row><cell>(SD), mmol/L</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Past medical history of</cell><cell>652 901</cell><cell>0.31</cell><cell>0.45</cell><cell>0.85</cell><cell>2.37</cell><cell>6.07</cell><cell>12.01</cell><cell>21.10</cell><cell>41.53</cell></row><row><cell>diabetes, %</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Smoking habit, %</cell><cell>619 999</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Never</cell><cell></cell><cell>24.9</cell><cell>27.0</cell><cell>27.1</cell><cell>26.7</cell><cell>25.7</cell><cell>26.1</cell><cell>25.1</cell><cell>26.3</cell></row><row><cell>Past</cell><cell></cell><cell>14.5</cell><cell>15.3</cell><cell>15.6</cell><cell>15.3</cell><cell>15.2</cell><cell>15.1</cell><cell>16.1</cell><cell>16.2</cell></row><row><cell>Current, 1-19</cell><cell></cell><cell>45.3</cell><cell>43.4</cell><cell>42.9</cell><cell>43.4</cell><cell>44.0</cell><cell>43.6</cell><cell>42.2</cell><cell>40.8</cell></row><row><cell>cigarettes/d</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Current, Ն20</cell><cell></cell><cell>15.3</cell><cell>14.3</cell><cell>14.4</cell><cell>14.6</cell><cell>15.1</cell><cell>15.2</cell><cell>16.6</cell><cell>16.7</cell></row><row><cell>cigarettes/d</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Alcohol consumption</cell><cell>599 819</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>(g/wk), %</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Ͻ30</cell><cell></cell><cell>49.0</cell><cell>46.8</cell><cell>44.5</cell><cell>42.9</cell><cell>43.3</cell><cell>44.2</cell><cell>45.9</cell><cell>49.2</cell></row><row><cell>30-104</cell><cell></cell><cell>18.7</cell><cell>18.5</cell><cell>17.8</cell><cell>17.0</cell><cell>16.5</cell><cell>17.0</cell><cell>15.1</cell><cell>14.8</cell></row><row><cell>105-209</cell><cell></cell><cell>13.7</cell><cell>14.2</cell><cell>14.9</cell><cell>15.0</cell><cell>14.7</cell><cell>14.3</cell><cell>14.2</cell><cell>12.8</cell></row><row><cell>Ն210</cell><cell></cell><cell>18.6</cell><cell>20.5</cell><cell>22.8</cell><cell>25.1</cell><cell>25.5</cell><cell>24.5</cell><cell>24.8</cell><cell>23.2</cell></row><row><cell>Engaging in regular</cell><cell>618 401</cell><cell>18.8</cell><cell>19.7</cell><cell>20.5</cell><cell>21.0</cell><cell>21.4</cell><cell>22.4</cell><cell>21.0</cell><cell>22.3</cell></row><row><cell>exercise, %</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Pay level (quartile), %</cell><cell>599 741</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>First (lowest)</cell><cell></cell><cell>26.8</cell><cell>25.8</cell><cell>28.4</cell><cell>32.1</cell><cell>34.5</cell><cell>33.1</cell><cell>30.0</cell><cell>25.8</cell></row><row><cell>Second</cell><cell></cell><cell>27.2</cell><cell>27.4</cell><cell>27.4</cell><cell>27.3</cell><cell>27.3</cell><cell>27.6</cell><cell>28.8</cell><cell>33.0</cell></row><row><cell>Third</cell><cell></cell><cell>29.8</cell><cell>30.3</cell><cell>28.6</cell><cell>26.4</cell><cell>24.9</cell><cell>25.8</cell><cell>27.0</cell><cell>27.5</cell></row><row><cell>Fourth (highest)</cell><cell></cell><cell>16.2</cell><cell>16.5</cell><cell>15.6</cell><cell>14.2</cell><cell>13.3</cell><cell>13.5</cell><cell>14.2</cell><cell>13.7</cell></row><row><cell>Area or residence, %</cell><cell>652 260</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Capital</cell><cell></cell><cell>21.7</cell><cell>23.7</cell><cell>22.6</cell><cell>20.7</cell><cell>20.7</cell><cell>20.6</cell><cell>20.9</cell><cell>21.5</cell></row><row><cell>Large city</cell><cell></cell><cell>25.2</cell><cell>25.5</cell><cell>24.5</cell><cell>23.6</cell><cell>22.9</cell><cell>23.3</cell><cell>23.7</cell><cell>23.6</cell></row><row><cell>Other area</cell><cell></cell><cell>53.1</cell><cell>50.8</cell><cell>52.9</cell><cell>55.7</cell><cell>56.4</cell><cell>56.1</cell><cell>55.4</cell><cell>54.9</cell></row><row><cell>*With available data.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 . Associations Between FBG Level and CVD in 570 453 Men With Complete Data on All Covariates, 1992-2001</head><label>2</label><figDesc></figDesc><table><row><cell></cell><cell></cell><cell>No., Cases/</cell><cell>Age-Adjusted Association,</cell><cell>Partially Adjusted Association, †</cell><cell>Fully Adjusted Association, ‡</cell></row><row><cell>FBG, mmol/L</cell><cell>Rate*</cell><cell>Participants</cell><cell>HR (95% CI)</cell><cell>HR (95% CI)</cell><cell>HR (95% CI)</cell></row><row><cell>MI (I21-I24) §</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Ͻ4.6</cell><cell>54</cell><cell>716/149 099</cell><cell>1.04 (0.95, 1.15)</cell><cell>1.01 (0.92, 1.11)</cell><cell>1.10 (1.00, 1.21)</cell></row><row><cell>4.6-5.0</cell><cell>57</cell><cell>1061/209 802</cell><cell>1.00</cell><cell>1.00</cell><cell>1.00</cell></row><row><cell>5.1-5.5</cell><cell>66</cell><cell>678/116 384</cell><cell>1.07 (0.98, 1.18)</cell><cell>1.09 (0.99, 1.20)</cell><cell>0.99 (0.90, 1.09)</cell></row><row><cell>5.6-6.0</cell><cell>84</cell><cell>384/52 236</cell><cell>1.26 (1.12, 1.41)</cell><cell>1.28 (1.14, 1.44)</cell><cell>1.05 (0.93, 1.18)</cell></row><row><cell>6.1-6.4</cell><cell>101</cell><cell>104/11 880</cell><cell>1.39 (1.14, 1.70)</cell><cell>1.41 (1.16, 1.73)</cell><cell>1.05 (0.85, 1.28)</cell></row><row><cell>6.5-6.9</cell><cell>137</cell><cell>79/6649</cell><cell>1.81 (1.44, 2.28)</cell><cell>1.83 (1.46, 2.30)</cell><cell>1.30 (1.03, 1.63)</cell></row><row><cell>7.0-7.4</cell><cell>128</cell><cell>37/3340</cell><cell>1.64 (1.18, 2.27)</cell><cell>1.64 (1.18, 2.28)</cell><cell>1.13 (0.81, 1.56)</cell></row><row><cell>Ն7.5 or known diabetes</cell><cell>217</cell><cell>387/21 063</cell><cell>2.39 (2.13, 2.69)</cell><cell>2.38 (2.12, 2.68)</cell><cell>1.79 (1.59, 2.02)</cell></row><row><cell>P for linear trend</cell><cell></cell><cell></cell><cell>Ͻ0.0001</cell><cell>Ͻ0.0001</cell><cell>Ͻ0.0001</cell></row><row><cell>P for linear trend ¶</cell><cell></cell><cell></cell><cell>Ͻ0.0001</cell><cell>Ͻ0.0001</cell><cell>0.1439</cell></row><row><cell>Increase by 1 mmol</cell><cell>68</cell><cell>3446/570 453</cell><cell>1.18 (1.16, 1.21)</cell><cell>1.19 (1.16, 1.21)</cell><cell>1.11 (1.09, 1.14)</cell></row><row><cell>All stroke (I60-I69)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Ͻ4.6</cell><cell>139</cell><cell>1826/149 099</cell><cell>0.96 (0.91, 1.02)</cell><cell>0.95 (0.90, 1.01)</cell><cell>1.02 (0.97, 1.09)</cell></row><row><cell>4.6-5.0</cell><cell>160</cell><cell>2954/209 802</cell><cell>1.00</cell><cell>1.00</cell><cell>1.00</cell></row><row><cell>5.1-5.5</cell><cell>194</cell><cell>1988/116 384</cell><cell>1.13 (1.06, 1.19)</cell><cell>1.12 (1.06, 1.18)</cell><cell>1.01 (0.95, 1.07)</cell></row><row><cell>5.6-6.0</cell><cell>256</cell><cell>1168/52 236</cell><cell>1.36 (1.27, 1.46)</cell><cell>1.33 (1.25, 1.43)</cell><cell>1.07 (1.00, 1.14)</cell></row><row><cell>6.1-6.4</cell><cell>328</cell><cell>337/11 880</cell><cell>1.59 (1.42, 1.79)</cell><cell>1.55 (1.38, 1.73)</cell><cell>1.07 (0.96, 1.20)</cell></row><row><cell>6.5-6.9</cell><cell>419</cell><cell>239/6649</cell><cell>1.94 (1.70, 2.22)</cell><cell>1.88 (1.65, 2.15)</cell><cell>1.28 (1.12, 1.46)</cell></row><row><cell>7.0-7.4</cell><cell>412</cell><cell>118/3340</cell><cell>1.85 (1.54, 2.22)</cell><cell>1.80 (1.50, 2.16)</cell><cell>1.17 (0.97, 1.41)</cell></row><row><cell>Ն7.5 or known diabetes</cell><cell>649</cell><cell>1142/21 063</cell><cell>2.48 (2.32, 2.66)</cell><cell>2.45 (2.29, 2.63)</cell><cell>1.94 (1.80, 2.08)</cell></row><row><cell>P for linear trend</cell><cell></cell><cell></cell><cell>Ͻ0.0001</cell><cell>Ͻ0.0001</cell><cell>Ͻ0.0001</cell></row><row><cell>P for linear trend ¶</cell><cell></cell><cell></cell><cell>Ͻ0.0001</cell><cell>Ͻ0.0001</cell><cell>0.0031</cell></row><row><cell>Increase by 1 mmol</cell><cell>195</cell><cell>9772/570 453</cell><cell>1.</cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head></head><label></label><figDesc>No. of events per 100 000 person-years. †Adjusted for age, height, smoking, alcohol consumption, regular exercise, level of monthly salary, and area of residence. ‡Additionally adjusted for BP level, serum total cholesterol level, and BMI. §International Statistical Classification of Diseases, 10th Revision.</figDesc><table><row><cell>IS (I63, I67.8)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Ͻ4.6</cell><cell>64</cell><cell>840/149 099</cell><cell>0.96 (0.88, 1.04)</cell><cell>0.95 (0.87, 1.03)</cell><cell>1.02 (0.93, 1.11)</cell></row><row><cell>4.6-5.0</cell><cell>75</cell><cell>1383/209 802</cell><cell>1.00</cell><cell>1.00</cell><cell>1.00</cell></row><row><cell>5.1-5.5</cell><cell>93</cell><cell>950/116 384</cell><cell>1.14 (1.05, 1.24)</cell><cell>1.14 (1.05, 1.24)</cell><cell>1.03 (0.95, 1.12)</cell></row><row><cell>5.6-6.0</cell><cell>130</cell><cell>591/52 236</cell><cell>1.44 (1.31, 1.59)</cell><cell>1.43 (1.30, 1.58)</cell><cell>1.15 (1.05, 1.27)</cell></row><row><cell>6.1-6.4</cell><cell>150</cell><cell>154/11 880</cell><cell>1.51 (1.28, 1.78)</cell><cell>1.49 (1.26, 1.76)</cell><cell>1.05 (0.89, 1.24)</cell></row><row><cell>6.5-6.9</cell><cell>231</cell><cell>132/6649</cell><cell>2.21 (1.85, 2.64)</cell><cell>2.18 (1.82, 2.60)</cell><cell>1.50 (1.25, 1.79)</cell></row><row><cell>7.0-7.4</cell><cell>234</cell><cell>67/3340</cell><cell>2.15 (1.68, 2.75)</cell><cell>2.12 (1.66, 2.71)</cell><cell>1.41 (1.10, 1.80)</cell></row><row><cell>Ն7.5 or known diabetes</cell><cell>428</cell><cell>754/21 063</cell><cell>3.30 (3.01, 3.61)</cell><cell>3.27 (2.99, 3.58)</cell><cell>2.56 (2.34, 2.81)</cell></row><row><cell>P for linear trend</cell><cell></cell><cell></cell><cell>Ͻ0.0001</cell><cell>Ͻ0.0001</cell><cell>Ͻ0.0001</cell></row><row><cell>P for linear trend ¶</cell><cell></cell><cell></cell><cell>Ͻ0.0001</cell><cell>Ͻ0.0001</cell><cell>0.0002</cell></row><row><cell>Increase by 1 mmol</cell><cell>97</cell><cell>4871/570 453</cell><cell>1.27 (1.25, 1.29)</cell><cell>1.27 (1.25, 1.28)</cell><cell>1.21 (1.19, 1.23)</cell></row><row><cell>IHS (I61)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Ͻ4.6</cell><cell>39</cell><cell>512/149 099</cell><cell>0.91 (0.81, 1.01)</cell><cell>0.91 (0.82, 1.02)</cell><cell>0.98 (0.88, 1.10)</cell></row><row><cell>4.6-5.0</cell><cell>47</cell><cell>867/209 802</cell><cell>1.00</cell><cell>1.00</cell><cell>1.00</cell></row><row><cell>5.1-5.5</cell><cell>56</cell><cell>572/116 384</cell><cell>1.11 (1.00, 1.24)</cell><cell>1.09 (0.98, 1.21)</cell><cell>0.97 (0.87, 1.08)</cell></row><row><cell>5.6-6.0</cell><cell>77</cell><cell>351/52 236</cell><cell>1.42 (1.25, 1.60)</cell><cell>1.35 (1.19, 1.53)</cell><cell>1.03 (0.91, 1.17)</cell></row><row><cell>6.1-6.4</cell><cell>115</cell><cell>118/11 880</cell><cell>1.95 (1.60, 2.36)</cell><cell>1.83 (1.51, 2.22)</cell><cell>1.16 (0.95, 1.41)</cell></row><row><cell>6.5-6.9</cell><cell>119</cell><cell>68/6649</cell><cell>1.93 (1.51, 2.47)</cell><cell>1.82 (1.42, 2.33)</cell><cell>1.14 (0.89, 1.46)</cell></row><row><cell>7.0-7.4</cell><cell>105</cell><cell>30/3340</cell><cell>1.65 (1.14, 2.37)</cell><cell>1.56 (1.09, 2.25)</cell><cell>0.91 (0.63, 1.31)</cell></row><row><cell>Ն7.5 or known diabetes</cell><cell>135</cell><cell>237/21 063</cell><cell>1.83 (1.58, 2.11)</cell><cell>1.79 (1.55, 2.07)</cell><cell>1.36 (1.18, 1.58)</cell></row><row><cell>P for linear trend</cell><cell></cell><cell></cell><cell>Ͻ0.0001</cell><cell>Ͻ0.0001</cell><cell>Ͻ0.0001</cell></row><row><cell>P for linear trend ¶</cell><cell></cell><cell></cell><cell>Ͻ0.0001</cell><cell>Ͻ0.0001</cell><cell>0.2742</cell></row><row><cell>Increase by 1 mmol</cell><cell>55</cell><cell>2755/570 453</cell><cell>1.17 (1.14, 1.20)</cell><cell>1.16 (1.13, 1.19)</cell><cell>1.08 (1.05, 1.11)</cell></row><row><cell>HR indicates hazard ratio.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table><note>*</note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">Glucose, Stroke, and Myocardial Infarction</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">Downloaded from http://ahajournals.org by onJune 30, 2021   </note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">February 17, 2009 Downloaded from http://ahajournals.org by on June 30, 2021</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">Circulation February 17, 2009 Downloaded from http://ahajournals.org by on June 30, 2021</note>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CLINICAL PERSPECTIVE</head><p>In a very large cohort study of 652 901 Korean men aged 30 to 64 years, we examined the association of fasting blood glucose (FBG) with future risk of myocardial infarction (MI), ischemic stroke (IS), and intracerebral hemorrhagic stroke (IHS). Over the follow-up period of 8.8 years, 10 954 stroke (5357 IS, 3090 IHS, and 2507 other types) and 3766 MI events occurred. In age-adjusted analyses, there was evidence of linear associations between FBG and MI, IS, and IHS. However, with additional adjustment for socioeconomic position, lifestyle behaviors (smoking, alcohol, and exercise), and other cardiovascular disease risk factors, the associations with MI and IHS were markedly attenuated, with increased risk only at the highest FBG levels (Ն7.5 mmol/L). With full adjustment, the linear association with IS persisted; a linear increase in the risk of IS was observed from FBG levels of 5.6 mmol/L. This is the largest study to date to examine associations with stroke subtypes as well as MI. Our results suggest that for East Asian men, the threshold currently used for defining impaired fasting glucose may need to be revised downward when FBG is used to predict future IS, but current thresholds would appropriately identify those at increased risk of MI or IHS.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sung et al</head><p>Glucose, Stroke, and Myocardial Infarction</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Global prevalence of diabetes: estimates for the year 2000 and projections for 2030</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Wild</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Roglic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Green</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Sicree</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>King</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="1047" to="1053" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Report of the Expert Committee on the Diagnosis and Classification of Diabetes Mellitus</title>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="S5" to="S20" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+	<note>The Export Committee on the Diagnosis and Classification of Diabetes Mellitus</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Diabetes and the risk of stroke: the Honolulu Heart Program</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Abbott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Donahue</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">W</forename><surname>Macmahon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Reed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Yano</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">257</biblScope>
+			<biblScope unit="page" from="949" to="952" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Independent associations of fasting insulin, glucose, and glycated haemoglobin with stroke and coronary heart disease in older women</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Lawlor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Fraser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ebrahim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Davey</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS Med</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page">e263</biblScope>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Glucose intolerance and 22-year stroke incidence: the Honolulu Heart Program</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Burchfiel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Curb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">L</forename><surname>Rodriguez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Abbott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Chiu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Yano</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stroke</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="951" to="957" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">The relationship between glucose and incident cardiovascular events: a metaregression analysis of published data from 20 studies of 95,783 individuals followed for 12.4 years. Diabetes Care</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Coutinho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Gerstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Yusuf</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="233" to="240" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Comparison of risk factors for stroke incidence and stroke mortality in 20 years of follow-up in men and women in the Renfrew/Paisley Study in Scotland</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Hart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Hole</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Davey</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stroke</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="1893" to="1896" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Blood glucose and risk of cardiovascular disease in the Asia Pacific region</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Lawes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Parag</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Bennett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Suh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">H</forename><surname>Lam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Whitlock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Barzi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Woodward</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="2836" to="2842" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Is nondiabetic hyperglycemia a risk factor for cardiovascular disease? A meta-analysis of prospective studies</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">B</forename><surname>Levitan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Song</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Ford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Liu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">164</biblScope>
+			<biblScope unit="page" from="2147" to="2155" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Hyperglycaemia and mortality from all causes and from cardiovascular disease in five populations of Asian origin</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Nakagami</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="385" to="394" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Diabetes as a risk factor for stroke: a population perspective</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Stegmayr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Asplund</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="1061" to="1068" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Impaired glucose tolerance and the likelihood of nonfatal stroke and myocardial infarction: the Third National Health and Nutrition Examination Survey</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">I</forename><surname>Qureshi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">H</forename><surname>Giles</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Croft</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stroke</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="1329" to="1332" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">Is there a glycemic threshold for mortality risk? Diabetes Care</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">I</forename><surname>Harris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Eastman</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="331" to="333" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Stroke in patients with diabetes mellitus</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">N</forename><surname>Mankovsky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Ziegler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Metab Res Rev</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="268" to="287" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Stroke in patients with diabetes: the Copenhagen Stroke Study</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Jorgensen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Nakayama</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">O</forename><surname>Raaschou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">S</forename><surname>Olsen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stroke</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="1977" to="1984" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">The effects of diabetes on the risks of major cardiovascular diseases and death in the Asia-Pacific region</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Woodward</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Barzi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Pan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ueshima</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rodgers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Macmahon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="360" to="366" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Risk of hospitalized stroke in men enrolled in the Honolulu Heart Program and the Framingham Study: a comparison of incidence and risk factor effects</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">L</forename><surname>Rodriguez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>'agostino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Abbott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Kagan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Burchfiel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Yano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ross</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">W</forename><surname>Silbershatz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Higgins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">W</forename><surname>Popper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wolf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Curb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stroke</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="230" to="236" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><surname>Thammaroj</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Subramaniam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Bhattacharya</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stroke in Asia. Neuroimaging Clin N Am</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="273" to="282" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Risk of hemorrhagic stroke in Asian American ethnic groups</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Klatsky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">D</forename><surname>Friedman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sidney</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Kipp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kubo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Armstrong</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neuroepidemiology</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="26" to="31" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Which cholesterol level is related to the lowest mortality in a population with low mean cholesterol level: a 6.4-year follow-up study of 482,472 Korean men</title>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">M</forename><surname>Song</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Sung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Kim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">151</biblScope>
+			<biblScope unit="page" from="739" to="747" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Excess risk of fatal coronary heart disease associated with diabetes in men and women: meta-analysis of 37 prospective cohort studies</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Huxley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Barzi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Woodward</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMJ</title>
+		<imprint>
+			<biblScope unit="volume">332</biblScope>
+			<biblScope unit="page" from="73" to="78" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Definition of metabolic syndrome: report of the National Heart, Lung, and Blood Institute</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Grundy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">B</forename><surname>Brewer</surname><genName>Jr</genName></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">I</forename><surname>Cleeman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Smith</surname><genName>Jr</genName></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lenfant</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Heart Association conference on scientific issues related to definition. Circulation</title>
+		<imprint>
+			<biblScope unit="volume">109</biblScope>
+			<biblScope unit="page" from="433" to="438" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Use and misuse of population attributable fractions</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Rockhill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Newman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Weinberg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Public Health</title>
+		<imprint>
+			<biblScope unit="volume">88</biblScope>
+			<biblScope unit="page" from="15" to="19" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Different risk factors for different stroke subtypes: association of blood pressure, cholesterol, and antioxidants</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Leppala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Virtamo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Fogelholm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Albanes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">P</forename><surname>Heinonen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stroke</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="2535" to="2540" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Body mass index and ischemic and hemorrhagic stroke: a prospective study in Korean men</title>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">M</forename><surname>Song</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Sung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Davey</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Ebrahim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stroke</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="831" to="836" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Association of cholesterol with stroke risk varies in stroke subtypes and patient subgroups</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Tirschwell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">L</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Heckbert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">N</forename><surname>Lemaitre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">T</forename><surname>Longstreth</surname><genName>Jr</genName></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">M</forename><surname>Psaty</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neurology</title>
+		<imprint>
+			<biblScope unit="volume">63</biblScope>
+			<biblScope unit="page" from="1868" to="1875" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">The association of smoking and cardiovascular disease in a population with low cholesterol levels: a study of 648,346 men from the Korean national health system prospective cohort study</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Lawlor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">M</forename><surname>Song</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Sung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ebrahim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Davey</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stroke</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page" from="760" to="767" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Multiple Risk Factor Intervention Trial Research Group. Risk factors for death from different types of stroke</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Neaton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">N</forename><surname>Wentworth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cutler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Stamler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Kuller</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="493" to="499" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Body height, cardiovascular risk factors, and risk of stroke in middle-aged men and women: a 14-year follow-up of the Finnmark Study</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Njolstad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Arnesen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">G</forename><surname>Lund-Larsen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">94</biblScope>
+			<biblScope unit="page" from="2877" to="2882" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Ten-year risk of cardiovascular incidence related to diabetes, prediabetes, and the metabolic syndrome</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Grundy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Smith</surname><genName>Jr</genName></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">L</forename><surname>Vega</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Zeng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Zhao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am Heart J</title>
+		<imprint>
+			<biblScope unit="volume">153</biblScope>
+			<biblScope unit="page" from="552" to="558" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Secular trends in mortality by stroke subtype in the 20th century: a retrospective analysis</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Lawlor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Davey</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Leon</forename><surname>Da</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Sterne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ebrahim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">360</biblScope>
+			<biblScope unit="page" from="1818" to="1823" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Risk factors in lacunar syndromes: a case-control study</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Gandolfo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Caponnetto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Del</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Santoloci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Loeb</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Neurol Scand</title>
+		<imprint>
+			<biblScope unit="volume">77</biblScope>
+			<biblScope unit="page" from="22" to="26" />
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Hypertension and diabetes mellitus as determinants of multiple lacunar infarcts</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Mast</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Thompson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Mohr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Sacco</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stroke</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="30" to="33" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Korean Research Group for Cardiovascular Disease Prevention and Control. The accuracy of myocardial infarction diagnosis in medical insurance claims</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">Y</forename><surname>Ryu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Suh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Jee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">B</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">S</forename><surname>Kim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Yonsei Med J</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="570" to="576" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">The accuracy of ICD codes for cerebrovascular diseases in medical insurance claims</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">S</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">B</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">Y</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">S</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Jee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Suh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">W</forename><surname>Koh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">Y</forename><surname>Ryu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">H</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Chae</forename><forename type="middle">Y</forename><surname>Hong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Suh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Korean J Prev Med</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="76" to="82" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

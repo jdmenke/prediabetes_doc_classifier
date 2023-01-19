@@ -1,0 +1,925 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Risk of Cardiovascular Disease and Death in Individuals With Prediabetes Defined by Different Criteria: The Whitehall II Study</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Dorte</forename><surname>Vistisen</surname></persName>
+							<email>dorte.vistisen@regionh.dk.</email>
+							<affiliation key="aff0">
+								<orgName type="institution">Steno Diabetes Center Copenhagen</orgName>
+								<address>
+									<settlement>Gentofte</settlement>
+									<country key="DK">Denmark</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Daniel</forename><forename type="middle">R</forename><surname>Witte</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Public Health</orgName>
+								<orgName type="institution">Aarhus University</orgName>
+								<address>
+									<settlement>Aarhus</settlement>
+									<country key="DK">Denmark</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Danish Diabetes Academy</orgName>
+								<address>
+									<settlement>Odense</settlement>
+									<country key="DK">Denmark</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Eric</forename><forename type="middle">J</forename><surname>Brunner</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Epidemiology and Public Health</orgName>
+								<orgName type="institution">University College London</orgName>
+								<address>
+									<settlement>London</settlement>
+									<country key="GB">U.K</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Mika</forename><surname>Kivimäki</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Epidemiology and Public Health</orgName>
+								<orgName type="institution">University College London</orgName>
+								<address>
+									<settlement>London</settlement>
+									<country key="GB">U.K</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Adam</forename><surname>Tab</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Epidemiology and Public Health</orgName>
+								<orgName type="institution">University College London</orgName>
+								<address>
+									<settlement>London</settlement>
+									<country key="GB">U.K</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="department" key="dep1">1st Department of Medicine</orgName>
+								<orgName type="department" key="dep2">Faculty of Medi-cine</orgName>
+								<orgName type="institution">Semmelweis University</orgName>
+								<address>
+									<settlement>Budapest</settlement>
+									<country key="HU">Hungary</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Marit</forename><forename type="middle">E</forename><surname>Jørgensen</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Steno Diabetes Center Copenhagen</orgName>
+								<address>
+									<settlement>Gentofte</settlement>
+									<country key="DK">Denmark</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff5">
+								<orgName type="institution" key="instit1">National Institute of Public Health</orgName>
+								<orgName type="institution" key="instit2">Southern Denmark University</orgName>
+								<address>
+									<settlement>Copenhagen</settlement>
+									<country key="DK">Denmark</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Kristine</forename><surname>Faerch</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Steno Diabetes Center Copenhagen</orgName>
+								<address>
+									<settlement>Gentofte</settlement>
+									<country key="DK">Denmark</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Risk of Cardiovascular Disease and Death in Individuals With Prediabetes Defined by Different Criteria: The Whitehall II Study</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">A28E69F336368AA157FCD2A6EE9E3EF7</idno>
+					<idno type="DOI">10.2337/dc17-2530</idno>
+					<note type="submission">Received 5 December 2017 and accepted 18 January 2018.</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.1" ident="GROBID" when="2022-07-19T23:01+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>We compared the risk of cardiovascular disease (CVD) and all-cause mortality in subgroups of prediabetes defined by fasting plasma glucose (FPG), 2-h plasma glucose (2hPG), or HbA 1c .</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESEARCH DESIGN AND METHODS</head><p>In the Whitehall II cohort, 5,427 participants aged 50-79 years and without diabetes were followed for a median of 11.5 years. A total of 628 (11.6%) had prediabetes by the World Health Organization (WHO)/International Expert Committee (IEC) criteria (FPG 6.1-6.9 mmol/L and/or HbA 1c 6.0-6.4%), and 1,996 (36.8%) by the American Diabetes Association (ADA) criteria (FPG 5.6-6.9 mmol/L and/or HbA 1c 5.7-6.4%). In a subset of 4,730 individuals with additional measures of 2hPG, 663 (14.0%) had prediabetes by 2hPG. Incidence rates of a major event (nonfatal/fatal CVD or allcause mortality) were compared for different definitions of prediabetes, with adjustment for relevant confounders.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head><p>Compared with that for normoglycemia, incidence rate in the context of prediabetes was 54% higher with the WHO/IEC definition and 37% higher with the ADA definition (P &lt; 0.001) but declining to 17% and 12% after confounder adjustment (P ‡ 0.111). Prediabetes by HbA 1c was associated with a doubling in incidence rate for both the IEC and ADA criteria. However, upon adjustment, excess risk was reduced to 13% and 17% (P ‡ 0.055), respectively. Prediabetes by FPG or 2hPG was not associated with an excess risk in the adjusted analysis.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CONCLUSIONS</head><p>Prediabetes defined by HbA 1c was associated with a worse prognosis than prediabetes defined by FPG or 2hPG. However, the excess risk among individuals with prediabetes is mainly explained by the clustering of other cardiometabolic risk factors associated with hyperglycemia.</p><p>In 1979-1980, the World Health Organization (WHO), the American Diabetes Association (ADA), the European Association for the Study of Diabetes (EASD), and other diabetes organizations made a common agreement regarding the diagnostic criteria for diabetes and impaired glucose tolerance (IGT) based on the oral glucose tolerance test (OGTT) (1,2). Since then, the diagnostic criteria for diabetes and prediabetes have changed several times, and there is currently no consensus on the definition of</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>prediabetes between the different organizations worldwide <ref type="bibr" target="#b2">(3)</ref><ref type="bibr" target="#b3">(4)</ref><ref type="bibr" target="#b4">(5)</ref>. It is generally accepted that diabetes and prediabetes can be diagnosed on the basis of measures of fasting plasma glucose (FPG), 2-h plasma glucose (2hPG) after an OGTT, or hemoglobin A 1c (HbA 1c ). In clinical practice, FPG and HbA 1c are preferred over the OGTT, which is inconvenient, less reproducible, and more costly. However, the cut points for FPG and HbA 1c vary by the different organizations. In 2003, ADA suggested to lower the cut point for impaired fasting glycemia (IFG) from 6.1 mmol/L (110 mg/dL) to 5.6 mmol/L (100 mg/dL) <ref type="bibr" target="#b5">(6)</ref> in order to capture more individuals with IGT without performing an OGTT. The sensitivity for identifying IGT was increased with the new lower criterion for fasting glucose, but it also resulted in a two-to fourfold increase in the prevalence of IFG across countries <ref type="bibr" target="#b6">(7)</ref>. Furthermore, with the lower cutoff, the overall incidence rate for diabetes among people with IFG was greatly reduced <ref type="bibr" target="#b7">(8)</ref>. This observation, together with a lack of evidence for a reduction in adverse outcomes among these newly defined individuals with IFG, have led the WHO not to adopt the lower cutoff for IFG <ref type="bibr" target="#b2">(3)</ref>.</p><p>More recently, HbA 1c was recommended for the diagnosis of diabetes by both ADA and WHO <ref type="bibr" target="#b8">(9,</ref><ref type="bibr">10)</ref>. However, in terms of identifying individuals with prediabetes or intermediate hyperglycemia, the two organizations again differed in their recommendations. While ADA now recommends using HbA 1c in the range of 5.7-6.4% (39-47 mmol/mol) for defining prediabetes, <ref type="bibr">WHO</ref> has not yet adopted HbA 1c for diagnosing intermediate hyperglycemia/prediabetes <ref type="bibr" target="#b8">(9)</ref>. The International Expert Committee (IEC), in turn, acknowledges the elevated risk of progression to diabetes associated with increasing HbA 1c levels and recommends initiation of prevention strategies in individuals with HbA 1c levels in a narrower range of 6.0-6.4% (42-47 mmol/mol) <ref type="bibr" target="#b9">(11)</ref>.</p><p>In addition to increasing risk of diabetes, both fasting glucose and HbA 1c levels in the range of prediabetes are associated with increased risk of cardiovascular disease (CVD) and mortality <ref type="bibr" target="#b10">(12,</ref><ref type="bibr" target="#b11">13)</ref>. However, large inconsistencies between studies have been observed due to the use of different cut points and reference groups <ref type="bibr" target="#b12">(14)</ref>, and direct comparisons between the associations of different glucose and HbA 1c criteria with development of CVD and/or mortality within the same population are sparse <ref type="bibr" target="#b13">(15)</ref>. In the ongoing Whitehall II study we therefore compared the risk of fatal or nonfatal CVD or all-cause mortality in individuals with prediabetes identified by FPG, 2hPG, or HbA 1c using the cut points suggested by ADA versus WHO/IEC. Additionally, we examined the associations of continuous prediabetes levels of FPG, 2hPG, or HbA 1c with the 10-year risk of CVD or mortality.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESEARCH DESIGN AND METHODS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study Design and Participants</head><p>The prospective cohort study is based on participants from the Whitehall II study, which is an occupational cohort of 10,308 British civil servants (6,896 men and 3,412 women) initially recruited in 1985. The study population has been followed with clinical examinations every 5 years. (Whitehall II data, protocols, and other metadata are available to the scientific community. Please refer to the Whitehall II data sharing policy at https://www.ucl .ac.uk/whitehallII/data-sharing.) This study is based on phase <ref type="bibr">7 (2002-2004)</ref> and phase <ref type="bibr">9 (2007-2009)</ref>, where FPG, 2hPG, and HbA 1c were measured, excluding participants with known diabetes. The study population consists of the 5,427 participants with complete information on both HbA 1c and FPG (87% of whom also had 2hPG measured). All the included participants had been fasting $8 h.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Ethics</head><p>The University College London Ethics Committee reviewed and approved the study. Written informed consent was obtained from all participants at each study phase. The Whitehall II study has previously been described in detail (16,17).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Definition of Prediabetes</head><p>At each study phase the participants underwent a standard 75-g OGTT with measurement of plasma glucose in the fasting state and after 120 min. HbA 1c was also measured. Prediabetes was defined according to the WHO/IEC criteria as FPG 6.1-6.9 mmol/L and/or HbA 1c 6.0-6.4% (42-47 mmol/mol) and according to the ADA criteria as FPG 5.6-6.9 mmol/L and/or HbA 1c 5.7-6.4% (39-47 mmol/mol). For 2hPG, we defined prediabetes as 7.8-11.0 mmol/L according to the definition by WHO and ADA. Normoglycemia was defined as values below the cut points for prediabetes for each diagnostic criterion.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Assessment of Clinical Characteristics</head><p>At all clinical examinations, measurements of anthropometry and handling of blood samples were carried out according to standard protocols (16). Plasma glucose concentrations were measured by the glucose oxidase method (17). HbA 1c was measured in whole blood, drawn into EDTA Monovette tubes, using the validated (18) Tosoh G8 high-performance ion-exchange liquid chromatography platform (Tosoh Bioscience, Tessenderlo, Belgium). Information on medication, family history of diabetes, smoking, and alcohol intake was obtained from questionnaire.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Outcome Ascertainment</head><p>Outcome was defined as a composite end point of CVD or death. The participants' unique National Health Service (NHS) identification numbers were linked to the NHS Hospital Episode Statistics database (19). Incidence of CVD was assessed over the follow-up period from 2002-2004 to the end of follow-up (30 June 2015) and included fatal and nonfatal coronary heart disease (defined by ICD-9 codes 410-414 or ICD-10 codes I20-25) and stroke. Nonfatal myocardial infarction was determined using data from questionnaires, study electrocardiograms, hospital acute electrocardiograms, cardiac enzymes, and physician records (16). In the definition of stroke, cases identified by self-report only were excluded. Stroke included first subarachnoid hemorrhage, cerebral infarction, intracerebral hemorrhage, not specified stroke (ICD-10 codes I60-I64), and transient cerebral ischemic attacks (ICD-10 code G45). Cases of stroke were ascertained from participants' general practitioners, by information extracted from hospital medical records, or from the NHS Hospital Episode Statistics database. Cardiovascular event ascertainment in the Whitehall II study has recently been validated <ref type="bibr" target="#b15">(20)</ref>. All-cause mortality was assessed from 2002-2004 to end of follow-up by flagging participants at the NHS Central Registry, which provided information on the cause and date of death.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical Analysis</head><p>Participants were followed from the date of their 2002-2004 (or 2007-2009) clinical examination until first registered event or to the end of follow-up <ref type="bibr">(30 June 2015)</ref>. When relevant, prediabetes status was allowed to change from normoglycemia in phase <ref type="bibr">7 (2002-2004)</ref> to prediabetes in phase <ref type="bibr">9 (2007-2009)</ref>. Poisson regression analysis with log-person time as offset was used to estimate crude incidence rates of an event and adjusted incidence rate ratios for subgroups of prediabetes defined by different criteria (WHO/IEC and ADA) and by different glycemic measures (FPG, 2hPG, and HbA 1c ). Rate ratios were adjusted in a stepwise approach; first, with adjustment for age, sex, and ethnicity, and second, with further adjustment for previous CVD and the CVD risk factors identified in the Framingham Heart Study <ref type="bibr" target="#b16">(21)</ref>: smoking, total cholesterol, HDL cholesterol, systolic blood pressure, and use of antihypertensive treatment. To account for the nonconstant effect of age over time on CVD risk and mortality, we split the follow-up period of each participant into 1-year age bands prior to analysis.</p><p>We performed two sensitivity analyses: 1) we repeated the analyses using only fatal and nonfatal CVD events as outcome (constituting 65% of the composite events) and censoring the study participants at time of death, and 2) in a subset with complete information on FPG, HbA 1c , and 2hPG levels (n = 4,730), we expanded the analyses to include prediabetes by 2hPG (i.e., IGT).</p><p>We further calculated the sensitivity, specificity, positive predictive value (PPV), and negative predictive value for the 10-year risk of an event for each prediabetes subgroup. We also estimated the 10-year risk of an event across the prediabetes range of glycemia by the ADA criteria using Poisson regression analysis with models fitted separately for FPG, 2hPG, and HbA 1c . In the models, the glycemic measure was specified with natural cubic splines with three knots to facilitate detection of a potential inflection point in the associations.</p><p>Statistical analyses were performed in R, version 3.2.3 (R Foundation for Statistical Computing [www.r-project.org]), and SAS, version 9.4 (SAS Institute, Cary, NC).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Prediabetes by Different Definitions</head><p>With use of the WHO/IEC criteria, 402 (7.4%) of the 5,427 participants in the study population had prediabetes by the FPG criterion and 288 (5.3%) by the HbA 1c criterion (n = 628 in total <ref type="bibr">[11.6%]</ref>). With the ADA criteria, 1,418 (26.1%) had prediabetes by FPG levels and 940 (17.3%) by HbA 1c (n = 1,996 in total <ref type="bibr">[36.8%]</ref>). (See Supplementary Fig. <ref type="figure" target="#fig_0">1</ref> for further details.) Thus, the proportion of individuals with prediabetes was more than threefold higher with the ADA criteria compared with the WHO/IEC criteria. With application of the ADA criteria in the subset of the 4,730 individuals with full data on FPG, 2hPG, and HbA 1c , 26.6% had prediabetes by FPG, 15.8% by HbA 1c , and 14.2% by 2hPG.</p><p>For both WHO/IEC-and ADA-defined prediabetes, individuals identified by FPG levels only were more likely to be men and to report a higher amount of alcohol consumption than those identified by HbA 1c (Table <ref type="table" target="#tab_0">1</ref>). Those identified by HbA 1c only were more likely to be of nonwhite ethnicity, were older, and had lower levels of total cholesterol, LDL cholesterol, and blood pressure than those identified by FPG levels only. However, those identified by HbA 1c were more likely to have had a previous CVD event and to be receiving antihypertensive and/or lipid-lowering treatment (Table <ref type="table" target="#tab_0">1</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Event Rates in Individuals With Prediabetes by Different Definitions</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Overall Event Rates</head><p>Median follow-up time for a CVD or mortality event was 11.5 (interquartile range 8.9; 12.1) years. During follow-up, 134 (21.3%) individuals with prediabetes by WHO/IEC FPG or HbA 1c criteria developed CVD or died. The corresponding number was 370 (18.5%) in the ADA prediabetes group. With the WHO/IEC criteria, the incidence rate of an event in those with prediabetes was 22.7/1,000 person-years (PY), which was 54% higher than in individuals with normoglycemia (Table <ref type="table" target="#tab_1">2</ref>). The higher incidence rate in the prediabetes group was unaffected by adjustment for age, sex, and ethnicity but decreased to 17% and became nonsignificant after adjustment for previous CVD, smoking, total cholesterol, HDL cholesterol, systolic blood pressure, and use of antihypertensive treatment. With use of the ADA criteria, the incidence rate for the prediabetes group was somewhat lower at 18.9/1,000 PY, which was 37% higher compared with the normoglycemic group, and decreased to only 12% higher (nonsignificant) in the fully adjusted model (Table <ref type="table" target="#tab_1">2</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Event Rates by Glycemic Criteria</head><p>Kaplan-Meier survival curves for an event for individuals with prediabetes versus normoglycemia by different glycemic criteria are shown in Fig. <ref type="figure" target="#fig_0">1</ref>, whereas rates and rate ratios are shown in Table <ref type="table" target="#tab_0">1</ref>. In individuals defined as having prediabetes by FPG levels (without taking the HbA 1c level into account), the rate of an event was 19.4 for FPG levels 6.1-6.9 mmol/L (WHO criteria) and 16.5 for FPG levels 5.6-6.9 mmol/L (ADA criteria) (Fig. <ref type="figure" target="#fig_0">1A</ref> and Table <ref type="table" target="#tab_1">2</ref>). In the fully adjusted model, the incidence rates were at the same level as that of the normoglycemic group for both the WHO and ADA criteria (Table <ref type="table" target="#tab_1">2</ref>).</p><p>Among individuals with prediabetes by HbA 1c levels (without taking the FPG level into account), the incidence rate was 29.5 for HbA 1c levels 6.0-6.4% (IEC criteria) and 26.0 for HbA 1c levels 5.7-6.4% (ADA criteria) (Fig. <ref type="figure" target="#fig_0">1B</ref> and Table <ref type="table" target="#tab_1">2</ref>), which was approximately twice that of the rate in the normoglycemic group for both the WHO and ADA criteria. Adjustment for age, sex, and ethnicity decreased the excess in incidence rate to ;50%, and additional adjustment reduced it further to an excess of 13-17% (nonsignificant) (Table <ref type="table" target="#tab_1">2</ref>).</p><p>Analyses limiting the outcome to only include CVD-related events confirmed the associations reported above (Supplementary Table <ref type="table" target="#tab_0">1</ref>).</p><p>In the sensitivity analysis including only individuals with 2hPG measurements, the rate of an event for individuals with prediabetes by 2hPG was 19.3, which was 44% higher than in the normoglycemic group (,7.8 mmol/L). Upon confounder adjustment there was no excess risk associated with prediabetes (Table <ref type="table" target="#tab_1">2</ref> and Supplementary Fig. <ref type="figure" target="#fig_1">2</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Comparing Event Rates Between Nonoverlapping Groups</head><p>The incidence rate of an event in individuals with prediabetes by FPG levels 5.6-6.0 mmol/L but normal HbA 1c levels (,5.7%) was low and comparable with that of the normoglycemic group (FPG ,5.6 mmol/L and HbA 1c ,5.7%) (;13/ 1,000 PY [Supplementary Fig. <ref type="figure">3]</ref>). In contrast, the incidence rate in people with prediabetes by HbA 1c 5.7-5.9% but normal FPG (,5.6 mmol/L) was twice as high at 26.0/1,000 PY (Supplementary Fig. <ref type="figure">3</ref>). After adjustment for age, sex, and ethnicity, the rate was still 64% (95% CI 25; 117) higher in the group with HbA 1c 5.7-5.9% but normal FPG (,5.6 mmol/L) compared with the group with FPG levels 5.6-6.0 mmol/L but normal HbA 1c levels (,5.9%). Further adjustment for previous CVD, smoking, total cholesterol, HDL cholesterol, systolic blood pressure, and antihypertensive treatment reduced this to 33% (95% CI 0; 77) (P = 0.046).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Performance of the Different Glycemic Criteria</head><p>The sensitivity and PPV for the 10-year risk of an event were low for all the prediabetes subgroups (Supplementary Table <ref type="table" target="#tab_1">2</ref>). Use of the ADA criteria for FPG and HbA 1c more than doubled the sensitivity but decreased compared with the results with use of the WHO/IEC criteria. The PPV was higher for prediabetes defined by HbA 1c than by FPG or 2hPG, whereas the negative predictive value was similar across all the prediabetes subgroups.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Exploring Event Rates by Increasing Levels of Glycemia</head><p>The 10-year absolute risk of an event across the prediabetes range by the ADA criteria for FPG, 2hPG, and HbA 1c is shown in Fig. <ref type="figure" target="#fig_1">2</ref>. The risk was higher for all levels of HbA 1c , whereas for FPG and 2hPG the risk across the prediabetes range was somewhat comparable. There was no indication of an inflection point for any of the glycemic measures.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CONCLUSIONS</head><p>In the present large prospective Whitehall II cohort study of adults aged 50-80 years with simultaneous measures of different glycemic measures, we found that the prevalence of prediabetes defined by FPG and/or HbA 1c was three times higher when the ADA criteria were used than when the WHO/IEC definitions were used. Individuals with prediabetes defined by HbA 1c had substantially higher risk of CVD and mortality than those defined by the FPG or 2hPG criteria irrespective of whether the cut point of 5.7% (39 mmol/mol) or 6.0% (42 mmol/mol) was used. For none of the glycemic measures did we find an inflection point for risk of CVD and mortality over the prediabetes range. Furthermore, the excess risk of CVD and death associated with having prediabetes was greatly reduced in HbA 1cdefined prediabetes and null in FPG-and 2hPG-defined prediabetes after adjustment for demographic and cardiovascular risk factors. These findings indicate that there is no obvious optimal glycemic cutoff for risk stratification, and the higher risk for CVD and death among individuals with prediabetes is mainly explained by its clustering with other risk factors Data are means (SD) or percentage (95% CI). WHO/IEC: normal glycemia, FPG ,6.1 mmol/L and HbA 1c ,6.0%, and for prediabetes by FPG only, FPG 6.1-6.9 mmol/L and HbA 1c ,6.0%; HbA 1c only, HbA 1c ,6.0-6.4% and FPG ,6.1 mmol/L; and both, FPG 6.1-6.9 mmol/L and HbA 1c 6.0-6.4%. ADA: normal glycemia, FPG ,5.6 mmol/L and HbA 1c ,5.7%, and for prediabetes by FPG only, FPG 5.6-6.9 mmol/L and HbA 1c ,5.7%; HbA 1c only, HbA 1c ,5.7-6.4% and FPG ,5.6 mmol/L; and both, FPG 5.6-6.9 mmol/L and HbA 1c 5.7-6.4%. P is the level of significance for the overall unadjusted test of difference between groups of normal glycemia and prediabetes subgroups, using t tests for difference in means or log(means) and x 2 tests for difference in proportions. a Versus normal glycemia, P , 0.05. b Versus FPG only, P , 0.05. c Versus HbA 1c only, P , 0.05. associated with hyperglycemia. This challenges the use of the prediabetes classification as a stand-alone tool for risk stratification among older adults. Only a few previous studies have compared different definitions of prediabetes in relation to CVD and mortality in the same population <ref type="bibr" target="#b13">(15,</ref><ref type="bibr" target="#b17">22)</ref>. Warren et al. <ref type="bibr" target="#b13">(15)</ref> found in the prospective Atherosclerosis Risk in Communities (ARIC) study that HbA 1c was more specific and provided better risk discriminating regarding future major events compared with FPG or 2hPG concentrations. After adjustment for cardiovascular risk factors, the risk of all-cause mortality was reduced but still significantly elevated in those with HbA 1cdefined prediabetes. However, incidence rates for cardiovascular mortality became all prediabetes subgroups after adjustment for  cardiovascular risk factors <ref type="bibr" target="#b13">(15)</ref>, which is in accordance with the findings from our analysis and underscores focusing on nonglycemic risk factors in individuals with prediabetes. In contrast to the ARIC study, we also reported absolute 10-year risk estimates over the prediabetes range of all the three glycemic measures, and these showed a higher absolute risk for HbA 1c than for FPG and 2hPG concentrations. We found no inflection point of risk in the association, which is in line with the findings from the population-based Australian Diabetes, Obesity and Lifestyle (AusDiab) study <ref type="bibr" target="#b11">(13)</ref>. We further evaluated the risk associated with different combinations of HbA 1c and FPG levels, which enabled us to show that prediabetes HbA 1c levels are associated with elevated risk of CVD and death even when FPG levels are normal, while the opposite is not the case (i.e., prediabetes FPG and normal HbA 1c levels). In support of this finding, data from the ADDITION study (Anglo-Danish-Dutch Study of Intensive Treatment in People with Screen Detected Diabetes in Primary Care) showed that among individuals with normal glucose tolerance on an OGTT, those with HbA 1c levels in the range 6.0-6.4% had 21% higher risk of all-cause mortality than those with HbA 1c levels ,6.0% <ref type="bibr" target="#b18">(23)</ref>, again suggesting that HbA 1c predicts mortality beyond fasting and 2-h glucose levels. In relation to the use of FPG for diagnosis of prediabetes, results from meta-analyses have shown that prediabetes defined by the WHO IFG criterion, but not the ADA IFG criterion, is associated with increased risk of cardiovascular and all-cause mortality <ref type="bibr" target="#b19">(24)</ref>. Similar results were found in relation to the risk of stroke <ref type="bibr" target="#b20">(25)</ref>. A recent meta-analysis, however, concluded that IFG defined by the ADA criterion is associated with an increased risk of all-cause mortality, cardiovascular mortality, coronary heart disease, and stroke <ref type="bibr" target="#b12">(14)</ref>. However, a subgroup analysis revealed that among individuals aged 55 years or older, ADA-defined IFG was not associated with all-cause mortality <ref type="bibr" target="#b12">(14)</ref>. Combined with our results, these findings suggest that the increased CVD and mortality risk associated with prediabetes FPG levels may decrease with age. It is thus likely that FPG is better for risk stratification in younger adults, whereas HbA 1c is a better and more stable measure for health status in older adults, but this hypothesis needs to be tested in study populations with a wide age range. Part of the stronger association found between HbA 1c and incident CVD may be explained by the capacity of HbA 1c to reflect average glycemia, but HbA 1c may also indirectly capture information about other important pathophysiological processes such as iron metabolism and lowgrade inflammation <ref type="bibr" target="#b21">(26,</ref><ref type="bibr" target="#b22">27)</ref>. However, their causal effects need to be examined in more detail.</p><p>A major strength of the Whitehall II cohort is that the measures of FPG, 2hPG, and HbA 1c were obtained simultaneously and can be linked to validated measures of morbidity and mortality over a long follow-up period <ref type="bibr" target="#b15">(20)</ref>. Deaths attributable to causes other than CVD were included in the analysis to avoid bias from competing risk. However, two out of three of the composite events were related to CVD, and sensitivity analyses with only CVD as outcome were consistent with our conclusions. Another strength of the current analysis is the application of all the different definitions for prediabetes. Most previous studies have only focused on a single definition of prediabetes (either WHO/IEC or ADA) and thereby used different reference groups for defining normoglycemia <ref type="bibr" target="#b11">(13,</ref><ref type="bibr" target="#b18">23,</ref><ref type="bibr" target="#b23">28)</ref>. Accordingly, event rates cannot be compared directly across studies to derive solid evidence on the association of prediabetes with morbidity and mortality. This could also explain why previous meta-analyses on the relationship of prediabetes with future morbidity and mortality have shown conflicting results <ref type="bibr" target="#b10">(12,</ref><ref type="bibr" target="#b11">13,</ref><ref type="bibr" target="#b19">24,</ref><ref type="bibr" target="#b20">25)</ref>. In the Whitehall II study, some individuals with prediabetes may develop diabetes during follow-up and subsequently receive treatment to reduce CVD risk. This could potentially have biased the results in the sense that the calculated event rates for WHO/IEC-defined prediabetes are underestimated relative to the rates in ADAdefined prediabetes, which have lower levels of glycemia and therefore are less likely to convert to diabetes during followup. It is also possible that the way diabetes has been diagnosed by general practitioners between the study visits during follow-up may have introduced bias. Before 2012, diabetes was mostly diagnosed by measurement of FPG levels, but after 2012 there has been a shift from FPG to HbA 1c for diagnosis of diabetes in clinical practice in the U.K. <ref type="bibr" target="#b8">(9)</ref>. However, given that end of follow-up in our study was 30 June 2015, we expect these effects to even out. Therefore, it is reasonable to believe that the differential associations of FPG versus HbA 1c with CVD and mortality are not caused by diagnosis and treatment of diabetes and CVD risk in individuals identified by one specific diagnostic criterion over another during follow-up.</p><p>During the last decades there has been an increased focus on identifying high-risk individuals in order to prevent future disease and premature mortality. As a result, the diagnostic thresholds have been lowered for many diseases <ref type="bibr" target="#b24">(29)</ref>, which has increased sensitivity at the cost of specificity. With the adoption of HbA 1c diagnostic criterion for diabetes <ref type="bibr" target="#b8">(9,</ref><ref type="bibr" target="#b25">30)</ref>, the possibility of also using HbA 1c to risk stratify individuals for diabetes prevention is obvious, but the challenge is to choose the optimal cut point. As shown in this and other studies <ref type="bibr" target="#b11">(13,</ref><ref type="bibr" target="#b23">28)</ref>, there does not seem to be an inflection point in the nondiabetes range for HbA 1c in the association with CVD or mortality. Accordingly, when deciding on the diagnostic test and thresholds used to guide preventive interventions one needs to consider the effectiveness of interventions as well as the health and economic consequences of false positives and false negatives <ref type="bibr" target="#b4">(5,</ref><ref type="bibr" target="#b26">31)</ref>. The major diabetes prevention trials performed thus far have included individuals with IGT and not people identified as having high risk by FPG or HbA 1c <ref type="bibr" target="#b27">(32)</ref><ref type="bibr" target="#b28">(33)</ref><ref type="bibr" target="#b29">(34)</ref>. Despite the limited evidence for prevention in these groups of individuals, the current recommendations from ADA suggest that all individuals with prediabetes (IFG, IGT, or HbA 1c 5.7-6.4%) should be targeted for diabetes preventive efforts (lifestyle modification or metformin) <ref type="bibr" target="#b30">(35)</ref>. Because of the poor concordance between the different diagnostic criteria, it is questionable whether results from trials in IGT will apply to individuals identified by slightly elevated FPG or HbA 1c levels. Thus, intervention studies among individuals identified by FPG or HbA 1c aiming at reducing risk for diabetes and CVD are warranted in order to improve and modify the current recommendations <ref type="bibr" target="#b31">(36)</ref>. More recent research also suggests that intermediate time points or different glucose curve patterns during an OGTT may be relevant to use for risk stratification purposes (37,38). In addition, it will be important to evaluate prediabetes in the context of overall CVD risk because relationship of glycemia with other cardiovascular risk factors. Thus, future risk prediction models should study whether easily measured risk factors and/or cheap predict future diabetes, CVD, and mortality.</p><p>In conclusion, our study showed that individuals with prediabetes defined using the ADA criteria have a lower risk of CVD and all-cause mortality than individuals with prediabetes identified by the WHO/IEC criteria. This difference was mainly driven by the lower incidence of CVD or death among individuals with IFG but normal levels of HbA 1c . Our results showed a high incidence rate of CVD and death in those with HbA 1c levels 5.7-5.9%, which advocates for lowering the cut point for prediabetes to ,6.0% for CVD preventive interventions. That said, our study also shows that a substantial part of the excess risk in prediabetes is explained by other CVD risk factors, suggesting that the use of prediabetes as an independent factor for risk stratification is questionable.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 -</head><label>1</label><figDesc>Figure 1-Kaplan-Meier survival curves for an event (CVD or mortality) for individuals with prediabetes (light blue and dark blue) versus normal glycemia (gray), using FPG, n = 5,427 1c , n = 5,427 (B); or 2hPG, n = 4,730 (C).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2 -</head><label>2</label><figDesc>Figure 2-Association between glycemia in the prediabetes range and 10-year risk of an event (CVD or mortality).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 -</head><label>1</label><figDesc>Baseline characteristics by normal glycemia and subgroups of prediabetes defined by WHO/IEC and ADA</figDesc><table><row><cell></cell><cell></cell><cell></cell><cell>Prediabetes</cell><cell></cell><cell></cell></row><row><cell></cell><cell>Normal glycemia</cell><cell>FPG only</cell><cell>HbA 1c only</cell><cell>Both</cell><cell>P</cell></row><row><cell>WHO/IEC</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>N</cell><cell>4,799</cell><cell>340</cell><cell>226</cell><cell>62</cell><cell></cell></row><row><cell>Men (%)</cell><cell>71.6 (70.3; 72.9)</cell><cell>85.6 (81.4; 89.1) a</cell><cell>67.3 (60.7; 73.3) b</cell><cell>66.1 (53.0; 77.7) b</cell><cell>,0.001</cell></row><row><cell>White ethnicity (%)</cell><cell>93.6 (92.9; 94.3)</cell><cell>90.6 (87.0; 93.5) a</cell><cell>80.1 (74.3; 85.1) ab</cell><cell>83.9 (72.3; 92.0) a</cell><cell>,0.001</cell></row><row><cell>Age (years)</cell><cell>61.2 (6.1)</cell><cell>61.8 (6.1)</cell><cell>65.5 (6.4) ab</cell><cell>64.2 (5.7) ab</cell><cell>,0.001</cell></row><row><cell>BMI (kg/m 2 )</cell><cell>26.4 (4.1)</cell><cell>28.2 (4.4) a</cell><cell>27.7 (4.7) a</cell><cell>30.4 (6.2) abc</cell><cell>,0.001</cell></row><row><cell>Total cholesterol (mmol/L)</cell><cell>5.7 (1.0)</cell><cell>5.7 (1.0)</cell><cell>5.3 (1.1) ab</cell><cell>5.6 (1.3)</cell><cell>,0.001</cell></row><row><cell>HDL cholesterol (mmol/L)</cell><cell>1.6 (0.4)</cell><cell>1.5 (0.5) a</cell><cell>1.5 (0.4) a</cell><cell>1.4 (0.3) a</cell><cell>,0.001</cell></row><row><cell>Systolic blood pressure (mmHg)</cell><cell>126.6 (16.2)</cell><cell>134.4 (17.3) a</cell><cell>128.5 (17.8) b</cell><cell>136.9 (19.3) ac</cell><cell>,0.001</cell></row><row><cell>FPG (mmol/L)</cell><cell>5.2 (0.4)</cell><cell>6.3 (0.2) a</cell><cell>5.5 (0.9) ab</cell><cell>6.4 (0.2) ac</cell><cell>,0.001</cell></row><row><cell>2hPG (mmol/L)</cell><cell>6.1 (1.5)</cell><cell>7.4 (2.0) a</cell><cell>7.5 (2.5) a</cell><cell>9.5 (2.3) abc</cell><cell>,0.001</cell></row><row><cell>HbA 1c (%)</cell><cell>5.2 (0.4)</cell><cell>5.5 (0.5) a</cell><cell>6.1 (0.1) ab</cell><cell>6.1 (0.1) ab</cell><cell>,0.001</cell></row><row><cell>HbA 1c (mmol/mol)</cell><cell>34 (4)</cell><cell>37 (5) a</cell><cell>43 (1) ab</cell><cell>44 (2) ab</cell><cell>,0.001</cell></row><row><cell>Previous CVD (%)</cell><cell>9.7 (8.9; 10.6)</cell><cell>12.1 (8.8; 16.0)</cell><cell>18.1 (13.3; 23.8) ab</cell><cell>24.2 (14.2; 36.7) ab</cell><cell>,0.001</cell></row><row><cell>Current smoker (%)</cell><cell>7.9 (7.2; 8.7)</cell><cell>5.9 (3.6; 8.9)</cell><cell>10.2 (6.6; 14.9)</cell><cell>9.7 (3.6; 19.9)</cell><cell>0.282</cell></row><row><cell>Antihypertensive treatment (%)</cell><cell>21.9 (20.7; 23.1)</cell><cell>36.2 (31.1; 41.5) a</cell><cell>42.0 (35.5; 48.8) a</cell><cell>45.2 (32.5; 58.3) a</cell><cell>,0.001</cell></row><row><cell>ADA</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>N</cell><cell>3,431</cell><cell>1,056</cell><cell>578</cell><cell>362</cell><cell></cell></row><row><cell>Men (%)</cell><cell>69.4 (67.8; 70.9)</cell><cell>83.9 (81.5; 86.1) a</cell><cell>66.8 (62.8; 70.6) b</cell><cell>75.1 (70.4; 79.5) abc</cell><cell>,0.001</cell></row><row><cell>White ethnicity (%)</cell><cell>94.3 (93.5; 95.1)</cell><cell>94.5 (93.0; 95.8)</cell><cell>83.4 (80.1; 86.3) ab</cell><cell>87.0 (83.1; 90.3) ac</cell><cell>,0.001</cell></row><row><cell>Age (years)</cell><cell>60.8 (6.0)</cell><cell>61.1 (6.0)</cell><cell>64.8 (6.6) ab</cell><cell>63.6 (6.1) abc</cell><cell>,0.001</cell></row><row><cell>BMI (kg/m 2 )</cell><cell>26.1 (4.1)</cell><cell>27.4 (4.2) a</cell><cell>27.2 (4.5) a</cell><cell>28.5 (4.5) abc</cell><cell>,0.001</cell></row><row><cell>Total cholesterol (mmol/L)</cell><cell>5.7 (1.0)</cell><cell>5.8 (1.0)</cell><cell>5.5 (1.1) ab</cell><cell>5.6 (1.2) b</cell><cell>,0.001</cell></row><row><cell>HDL cholesterol (mmol/L)</cell><cell>1.6 (0.5)</cell><cell>1.5 (0.4) a</cell><cell>1.6 (0.4) a</cell><cell>1.5 (0.4) abc</cell><cell>,0.001</cell></row><row><cell>(mmHg)</cell><cell>125.7 (16.2)</cell><cell>130.9 (16.5) a</cell><cell>127.3 (16.9) ab</cell><cell>131.2 (16.6) ac</cell><cell>,0.001</cell></row><row><cell>FPG (mmol/L)</cell><cell>5.0 (0.3)</cell><cell>5.9 (0.3) a</cell><cell>5.2 (0.7) ab</cell><cell></cell><cell>,0.001</cell></row><row><cell>2hPG (mmol/L)</cell><cell>5.9 (1.5)</cell><cell>6.5 (1.7) a</cell><cell>6.7 (2.1) a</cell><cell>7.8 (2.1) abc</cell><cell>,0.001</cell></row><row><cell>HbA 1c (%)</cell><cell>5.1 (0.3)</cell><cell>5.3 (0.4) a</cell><cell>5.9 (0.2) ab</cell><cell>5.9 (0.2) ab</cell><cell>,0.001</cell></row><row><cell>HbA 1c (mmol/mol)</cell><cell>33 (3)</cell><cell>34 (4) a</cell><cell>41 (2) ab</cell><cell>41 (2) ab</cell><cell>,0.001</cell></row><row><cell>Previous CVD (%)</cell><cell>9.5 (8.5; 10.5)</cell><cell>10.5 (8.7; 12.5)</cell><cell>18.0 (14.9; 21.4) ab</cell><cell>19.9 (15.9; 24.4) ab</cell><cell>,0.001</cell></row><row><cell>Current smoker (%)</cell><cell>8.0 (7.1; 8.9)</cell><cell>6.8 (5.4; 8.5)</cell><cell>9.3 (7.1; 12.0)</cell><cell>8.6 (5.9; 11.9)</cell><cell>0.312</cell></row><row><cell>Antihypertensive treatment (%)</cell><cell>19.5 (18.2; 20.9)</cell><cell>27.1 (24.4; 29.9) a</cell><cell>33.7 (29.9; 37.8) ab</cell><cell>41.7 (36.6; 47.0) abc</cell><cell>,0.001</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 -</head><label>2</label><figDesc>Rates and rate ratios with 95% CI of an event (CVD or mortality) for prediabetes subgroups, using the WHO/IEC criteria or the ADA criteria</figDesc><table><row><cell></cell><cell>Definition</cell><cell>Rate per 1,000 PY</cell><cell>RR</cell><cell>RR adj1</cell><cell>RR adj2</cell></row><row><cell>WHO/IEC</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Overall</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">Normal glycemia FPG ,6.1 mmol/L and HbA 1c ,6.0%</cell><cell>14.8 (13.7; 15.9)</cell><cell>ref.</cell><cell>ref.</cell><cell>ref.</cell></row><row><cell>Prediabetes</cell><cell>FPG 6.1-6.9 mmol/L or HbA 1c 6.0-6.4%</cell><cell>22.7 (19.2; 26.9)</cell><cell cols="3">1.54 (1.28; 1.85) 1.51 (1.25; 1.81) 1.17 (0.97; 1.41)</cell></row><row><cell>By HbA 1c</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">Normal glycemia HbA 1c ,6.0%</cell><cell>14.9 (13.9; 15.9)</cell><cell>ref.</cell><cell>ref.</cell><cell>ref.</cell></row><row><cell>Prediabetes</cell><cell>HbA 1c 6.0-6.4%</cell><cell>29.5 (23.4; 37.3)</cell><cell cols="3">1.99 (1.55; 2.53) 1.52 (1.19; 1.95) 1.13 (0.88; 1.46)</cell></row><row><cell>By FPG</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">Normal glycemia FPG ,6.1 mmol/L</cell><cell>15.3 (14.2; 16.4)</cell><cell>ref.</cell><cell>ref.</cell><cell>ref.</cell></row><row><cell>Prediabetes</cell><cell>FPG 6.1-6.9 mmol/L</cell><cell>19.4 (15.6; 24.2)</cell><cell cols="3">1.27 (1.01; 1.60) 1.17 (0.93; 1.48) 1.00 (0.79; 1.26)</cell></row><row><cell>By 2hPG</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">Normal glycemia 2hPG ,7.8 mmol/L</cell><cell>13.4 (12.4; 14.6)</cell><cell>ref.</cell><cell>ref.</cell><cell>ref.</cell></row><row><cell>Prediabetes</cell><cell>2hPG 7.8-11.0 mmol/L</cell><cell>19.3 (16.3; 23.0)</cell><cell cols="3">1.44 (1.19; 1.75) 1.14 (0.94; 1.39) 1.00 (0.82; 1.22)</cell></row><row><cell>ADA</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Overall</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">Normal glycemia FPG ,5.6 mmol/L and HbA 1c ,5.7%</cell><cell>13.8 (12.7; 15.1)</cell><cell>ref.</cell><cell>ref.</cell><cell>ref.</cell></row><row><cell>Prediabetes</cell><cell>FPG 5.6-6.9 mmol/L or HbA 1c 5.7-6.4%</cell><cell>18.9 (17.1; 21.0)</cell><cell cols="3">1.37 (1.20; 1.57) 1.34 (1.17; 1.54) 1.12 (0.97; 1.28)</cell></row><row><cell>By HbA 1c</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">Normal glycemia HbA 1c ,5.7%</cell><cell>13.7 (12.7; 14.8)</cell><cell>ref.</cell><cell>ref.</cell><cell>ref.</cell></row><row><cell>Prediabetes</cell><cell>HbA 1c 5.7-6.4%</cell><cell>26.0 (22.6; 29.8)</cell><cell cols="3">1.89 (1.62; 2.22) 1.49 (1.27; 1.75) 1.17 (1.00; 1.38)</cell></row><row><cell></cell><cell>HbA 1c 5.7-5.9%</cell><cell>24.6 (20.8; 29.0)</cell><cell cols="3">1.79 (1.50; 2.15) 1.43 (1.19; 1.72) 1.18 (0.98; 1.42)</cell></row><row><cell></cell><cell>HbA 1c 6.0-6.4%</cell><cell>29.5 (23.4; 37.3)</cell><cell cols="3">2.15 (1.68; 2.76) 1.62 (1.26; 2.08) 1.13 (0.87; 1.46)</cell></row><row><cell>By FPG</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">Normal glycemia FPG ,5.6 mmol/L</cell><cell>15.2 (14.1; 16.5)</cell><cell>ref.</cell><cell>ref.</cell><cell>ref.</cell></row><row><cell>Prediabetes</cell><cell>FPG 5.6-6.9 mmol/L</cell><cell>16.5 (14.5; 18.7)</cell><cell cols="3">1.08 (0.93; 1.25) 1.00 (0.86; 1.16) 0.93 (0.80; 1.08)</cell></row><row><cell></cell><cell>FPG 5.6-6.0 mmol/L</cell><cell>15.4 (13.2; 17.9)</cell><cell cols="3">1.01 (0.85; 1.20) 0.94 (0.79; 1.12) 0.91 (0.76; 1.08)</cell></row><row><cell></cell><cell>FPG 6.1-6.9 mmol/L</cell><cell>19.4 (15.6; 24.2)</cell><cell cols="3">1.27 (1.01; 1.61) 1.16 (0.91; 1.46) 0.98 (0.77; 1.24)</cell></row><row><cell>By 2hPG</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">Normal glycemia 2hPG ,7.8 mmol/L</cell><cell>13.4 (12.4; 14.6)</cell><cell>ref.</cell><cell>ref.</cell><cell>ref.</cell></row><row><cell>Prediabetes</cell><cell>2hPG 7.8-11.0 mmol/L</cell><cell>19.3 (16.3; 23.0)</cell><cell cols="3">1.44 (1.19; 1.75) 1.14 (0.94; 1.39) 1.00 (0.82; 1.22)</cell></row></table><note>ref., reference; RR, crude rate ratio; RR adj1 , rate ratio adjusted for age, sex, and ethnicity; RR adj2 , rate ratio adjusted for age, sex, ethnicity, previous CVD, smoking, total cholesterol, HDL cholesterol, systolic blood pressure, and antihypertensive treatment.</note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="900">CVD and Mortality in Prediabetes Diabetes Care Volume 41, April 2018</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">care.diabetesjournals.orgVistisen and Associates 901</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="902">CVD and Mortality in Prediabetes Diabetes Care Volume 41, April 2018</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">care.diabetesjournals.orgVistisen and Associates 903</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="904">CVD and Mortality in Prediabetes Diabetes Care Volume 41, April 2018</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">care.diabetesjournals.orgVistisen and Associates 905</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="906">CVD and Mortality in Prediabetes Diabetes Care Volume 41, April 2018</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Acknowledgments. The authors thank all par-</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>ticipating women and men in the Whitehall II study, as well as all Whitehall II research scientists, study and data managers, and clinical and administrative staff who make the study possible.</p><p>Funding. The U.K. Medical Research Council (K013351 to M.K.), British Heart Foundation (RG/13/2/30098 to M.K.), and the U.S. National Institutes of Health (R01-HL-36310 and R01-AG-013196 to M.K.) have supported collection of data in the Whitehall II study. D.R.W. is supported by the Danish Diabetes Academy, which is funded by an unrestricted grant from the Novo Nordisk Foundation. M.K. is supported by NordForsk and the Academy of Finland (311492). K.F. is supported by a grant from the Novo Nordisk Foundation.</p><p>The funders of the study had no role in study design, data collection, analysis, interpretation, or writing of the manuscript. Duality of Interest. M.E.J. has received research grants from AstraZeneca (investigator-initiated research). No other potential conflicts of interest relevant to this article were reported. Author Contributions. D.V. and K.F. contributed to the study concept and design, planned the statistical analyses, and drafted the manuscript. D.V. conducted the statistical M.K., and A.T. provided data. D.V. and K.F. had final responsibility for the decision to submit for publication. All authors provided intellectual input and read and approved the final version of the manuscript. D.V. and K.F. are the guarantors of this work and, as such, had full access to all the data in the study and take responsibility for the integrity of the data and the accuracy of the data analysis. Prior Presentation. Parts of this study were presented at the 77 th Scientific Sessions of the American Diabetes Association, San Diego, CA, 9-13 June 2017.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Classification and diagnosis of diabetes mellitus and other categories of glucose intolerance</title>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="1039" to="1057" />
+			<date type="published" when="1979">1979</date>
+		</imprint>
+		<respStmt>
+			<orgName>National Diabetes Group</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">World Health Organization. WHO Expert Committee on Diabetes Mellitus: Second Report. Geneva</title>
+		<imprint>
+			<biblScope unit="issue">646</biblScope>
+			<date type="published" when="1980">1980</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">Tech. Rep. Ser</note>
+	<note>World Health Org.</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">World Health Organization. Definition and Diagnosis of Diabetes Mellitus and Intermediate Hyperglycemia</title>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<pubPlace>Geneva, World Health Org.</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Classification and diagnosis of diabetes. Sec. 2. In Standards of Medical Care in Diabetesd2017</title>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="S11" to="S24" />
+			<date type="published" when="2017">2017</date>
+			<publisher>American Diabetes Association</publisher>
+		</imprint>
+	</monogr>
+	<note>Suppl. 1</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">The need for international consensus on prediabetes</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">E</forename><surname>Makaroff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Diabetes Endocrinol</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="5" to="7" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Follow-up report on the diagnosis of diabetes mellitus</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Genuth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">G</forename><surname>Alberti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Bennett</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="3160" to="3167" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Creating a pandemic of prediabetes: the proposed new diagnostic criteria for impaired fasting glycemia</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Borch-Johnsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Colagiuri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Balkau</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="1396" to="1402" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Creating a pandemic of prediabetes: the proposed new diagnostic criteria for impaired fasting glycaemia</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Balkau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Hillier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Vierron</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s00125-005-1695-5</idno>
+		<ptr target="https://doi.org/10.1007/s00125-005-1695-5" />
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="801" to="802" />
+			<date type="published" when="2004">2004. 2005</date>
+		</imprint>
+	</monogr>
+	<note>Diabetologia</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Use of Glycated Hemoglobin (HbA1c) in the Diagnosis of Diabetes Mellitus. Geneva, World Health Org</title>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="S14" to="S80" />
+			<date type="published" when="2011">2011. 2014</date>
+			<publisher>American Diabetes Association</publisher>
+		</imprint>
+	</monogr>
+	<note>Standards of medical care in diabetesd2014. Suppl. 1</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+	</analytic>
+	<monogr>
+		<title level="m">The International Expert Committee. International Expert Committee report on the role of the A1C assay in the diagnosis of diabetes</title>
+				<imprint>
+			<date type="published" when="2009">2009</date>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="1327" to="1334" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Pre-diabetes and the risk for cardiovascular disease: a systematic review of the evidence</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Ford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Li</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Coll Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="1310" to="1317" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Continuous relationships between non-diabetic hyperglycemia and both cardiovascular disease and all-cause mortality: the Australian Diabetes, Obesity, and Lifestyle (AusDiab) study</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">L</forename><surname>Barr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Boyko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">Z</forename><surname>Zimmet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Wolfe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Tonkin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Shaw</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="415" to="424" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Association between prediabetes and risk of cardiovascular disease and all cause mortality: systematic review and meta-analysis</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Cai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Mai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Hu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMJ</title>
+		<imprint>
+			<biblScope unit="volume">355</biblScope>
+			<biblScope unit="page">5953</biblScope>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Comparative prognostic performance of definitions of prediabetes: a prospective cohort analysis of the Atherosclerosis Risk in Communities (ARIC) study</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Warren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Pankow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Matsushita</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Diabetes Endocrinol</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="2215" to="2221" />
+			<date type="published" when="2005">2017. 2005. 2009</date>
+		</imprint>
+	</monogr>
+	<note>Lancet</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Metabolically healthy obesity and the risk of cardiovascular disease and type 2 diabetes: the Whitehall II cohort study</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Chapelle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Teixeira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Maisin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Chem Lab Med</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="551" to="559" />
+			<date type="published" when="2010">2010. 2015</date>
+		</imprint>
+	</monogr>
+	<note>Eur Heart J</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Validity of cardiovascular disease event ascertainment using linkage to UK hospital records</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kivimäki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">D</forename><surname>Batty</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Singh-Manoux</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Britton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Brunner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Shipley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Epidemiology</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="735" to="739" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">General cardiovascular risk profile for use in primary care</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>D'agostino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Vasan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Pencina</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">117</biblScope>
+			<biblScope unit="page" from="743" to="753" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title level="m" type="main">Prediabetes&quot;: are there problems with this label? Yes, the label creates further problems! Diabetes Care</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Yudkin</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page" from="1468" to="1471" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">HbA1c as predictor of all-cause mortality in individuals at high risk of diabetes with normal glucose tolerance, identified by screening: a follow-up study of the Anglo-Danish-Dutch Study of Intensive Treatment in People with Screen-Detected Diabetes in Primary Care (ADDITION)</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">V</forename><surname>Skriver</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Borch-Johnsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Lauritzen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sandbek</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Denmark. Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="2328" to="2333" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Associations of prediabetes with all-cause and cardiovascular mortality: a meta-analysis</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Cai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Chen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Med</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="684" to="692" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Effect of pre-diabetes on future risk of stroke: meta-analysis</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Saver</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K-S</forename><surname>Hong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Song</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K-H</forename><surname>Chang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Ovbiagele</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMJ</title>
+		<imprint>
+			<biblScope unit="volume">344</biblScope>
+			<biblScope unit="page">e3564</biblScope>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Association between inflammation and biological variation in hemoglobin A1c in U.S. nondiabetic adults</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Hempe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Mccarter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">A</forename><surname>Fonseca</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Endocrinol Metab</title>
+		<imprint>
+			<biblScope unit="volume">100</biblScope>
+			<biblScope unit="page" from="2364" to="2371" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Biomarkers of subclinical inflammation and increases in glycemia, insulin resistance and betacell function in non-diabetic individuals: the Whitehall II study</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Herder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ferch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Carstensen-Kirberg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Endocrinol</title>
+		<imprint>
+			<biblScope unit="volume">175</biblScope>
+			<biblScope unit="page" from="367" to="377" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Glycated hemoglobin, diabetes, and cardiovascular risk in nondiabetic adults</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Selvin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">W</forename><surname>Steffes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Zhu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">362</biblScope>
+			<biblScope unit="page" from="800" to="811" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Lowering the thresholds of diseasedare any of us still healthy?</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">G</forename><surname>Pickering</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Hypertens</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="672" to="674" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Diagnosis and classification of diabetes mellitus</title>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="S62" to="S69" />
+			<date type="published" when="2011">2011</date>
+			<publisher>American Diabetes Association</publisher>
+		</imprint>
+	</monogr>
+	<note>Suppl. 1</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Implications of risk stratification for diabetes prevention: the case of hemoglobin A1c</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">W</forename><surname>Gregg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Geiss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Zhuo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">F</forename><surname>Williamson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Albright</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Prev Med</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page" from="S375" to="S380" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note>Suppl. 4</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Effects of diet and exercise in preventing NIDDM in people with impaired glucose tolerance. The Da Qing IGT and Diabetes Study</title>
+		<author>
+			<persName><forename type="first">X</forename><forename type="middle">R</forename><surname>Pan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">W</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">H</forename><surname>Hu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="537" to="544" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Prevention of type 2 diabetes mellitus by changes in lifestyle among subjects with impaired glucose tolerance</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tuomilehto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lindstrom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Eriksson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">344</biblScope>
+			<biblScope unit="page" from="1343" to="1350" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Reduction in the incidence of type 2 diabetes with lifestyle intervention or metformin</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">C</forename><surname>Knowler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Barrett-Connor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Fowler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">346</biblScope>
+			<biblScope unit="page" from="393" to="403" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Prevention or delay of type 2 diabetes. Sec. 5. In Standards of Medical Care in Diabetesd2017</title>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="S44" to="S47" />
+			<date type="published" when="2017">2017</date>
+			<publisher>American Diabetes Association</publisher>
+		</imprint>
+	</monogr>
+	<note>Suppl. 1</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Glucose patterns during an oral glucose tolerance test and associations with future diabetes, cardiovascular disease and allcause mortality rate</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ferch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Vistisen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Hulman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Vistisen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Glumer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bergman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Witte</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ferch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Pareek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Bhatt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Nielsen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">356</biblScope>
+			<biblScope unit="page">171</biblScope>
+			<date type="published" when="2017">2017. 2018. 2018</date>
+		</imprint>
+	</monogr>
+	<note>Diabetologia</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

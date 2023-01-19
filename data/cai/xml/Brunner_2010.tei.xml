@@ -1,0 +1,752 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Original Article: Complications Do the Joint British Society (JBS2) guidelines on prevention of cardiovascular disease with respect to plasma glucose improve risk stratification in the general population? Prospective cohort study</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2009-11-09">9 November 2009</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Eric</forename><forename type="middle">J</forename><surname>Brunner</surname></persName>
+							<email>e.brunner@ucl.ac.uk</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Epidemiology and Public Health</orgName>
+								<orgName type="institution">University College London</orgName>
+								<address>
+									<settlement>London</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Epidemiology and Public Health</orgName>
+								<orgName type="institution">University College London</orgName>
+								<address>
+									<postCode>1-19, WC1E 6BT</postCode>
+									<settlement>Torrington Place, London</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Shipley</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Epidemiology and Public Health</orgName>
+								<orgName type="institution">University College London</orgName>
+								<address>
+									<settlement>London</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Marmot</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Epidemiology and Public Health</orgName>
+								<orgName type="institution">University College London</orgName>
+								<address>
+									<settlement>London</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">M</forename><surname>Kivimaki</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Epidemiology and Public Health</orgName>
+								<orgName type="institution">University College London</orgName>
+								<address>
+									<settlement>London</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Witte</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Epidemiology and Public Health</orgName>
+								<orgName type="institution">University College London</orgName>
+								<address>
+									<settlement>London</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Original Article: Complications Do the Joint British Society (JBS2) guidelines on prevention of cardiovascular disease with respect to plasma glucose improve risk stratification in the general population? Prospective cohort study</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2009-11-09">9 November 2009</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">14546A5CD2B258674CCB90965737D9ED</idno>
+					<idno type="DOI">10.1111/j.1464-5491.2010.02921.x</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.1" ident="GROBID" when="2022-07-19T23:01+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>blood glucose, coronary disease, diabetes, prospective study, risk stratification Abbreviations CHD, coronary heart disease</term>
+					<term>CVD, cardiovascular disease</term>
+					<term>ECG, electrocardiogram</term>
+					<term>GP, general practitioner</term>
+					<term>HDL, high-density lipoprotein</term>
+					<term>HR, hazard ratio</term>
+					<term>JBS2, Joint British Society guidelines</term>
+					<term>MI, myocardial infarction</term>
+					<term>OGTT, oral glucose tolerance test</term>
+					<term>ROC, receiver operating characteristic</term>
+					<term>WHO, World Health Organization</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Aims British guidelines on vascular disease prevention recommend adding a random (casual) blood glucose measurement to a lipid profile in those aged ‡ 40 years. To assess this recommendation, we compared the predictive value of a risk model based on the Framingham risk score alone to one which additionally included information on fasting blood glucose, with respect to incident coronary heart disease (CHD) over 11 years.</p><p>Method Men and women aged 40-63 years in Whitehall II were followed up for incident CHD: death ⁄ non-fatal myocardial infarction; angina confirmed by doctor diagnosis or electrocardiogram (ECG) and all first events. Fasting blood glucose was specified as a continuous variable or categorized by World Health Organization (WHO) 1999 glycaemic status (normal glucose tolerance, impaired fasting glucose or newly diagnosed diabetes).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>The hazard ratio for incident CHD was 1.10 (95%CI 1.09; 1.12) in men and 1.13 (1.10; 1.17) in women per percentage point increase in Framingham risk. The excess risk remained unchanged in models which added glycaemic status or continuous fasting glucose. The area under the receiver operating characteristic (ROC) curve for the Framingham score and incident coronary heart disease [0.70 (0.68; 0.73)] did not change when glycaemic status or fasting glucose was added to the prediction model. Reclassification with these modified models improved discrimination based on the Framingham score alone when glycaemic status was added, net reclassification improvement 2.4% (95% CI 0.2%; 4.6%), but not when fasting glucose was added.</p><p>Conclusion Better detection of unrecognized diabetes is a valuable consequence of including a random blood glucose in a vascular risk profile. Our results suggest that this strategy is unlikely to improve risk stratification for CHD.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>Coronary heart disease (CHD) prevention guidelines are based on the calculated 10-year risk of a coronary event <ref type="bibr" target="#b0">[1]</ref>. The information required to calculate this risk consists of the noninvasive measures age, sex, blood pressure, smoking status and known diabetes, plus a lipid profile that requires a blood sample. British guidelines on prevention of cardiovascular disease (CVD) <ref type="bibr" target="#b1">[2]</ref> recommend that all adults aged 40 years or over should have a CVD risk assessment every 5 years. In primary care, the information required for this assessment, especially the lipid profile, is often not available or incomplete. Guidelines further recommend that, when a lipid profile is not available, a random (non-fasting ⁄ casual) total cholesterol and high-density lipoprotein (HDL) cholesterol should be measured; and that a random glucose should be measured in the same sample. In doing so, the Joint British Societies guidelines (JBS2) effectively recommend a population-wide diabetes screening policy in those aged ‡ 40 years. Integrating chronic disease risk assessment is a rational development; however, the evidence that glucose adds predictive value to a CVD risk profile is circumstantial <ref type="bibr" target="#b2">[3]</ref><ref type="bibr" target="#b3">[4]</ref><ref type="bibr" target="#b4">[5]</ref>. At present, established CVD risk assessment models include diabetes status but not one or more of the available measures of glycaemia <ref type="bibr" target="#b1">[2,</ref><ref type="bibr" target="#b5">6]</ref>.</p><p>Specifically, it is unclear whether risk stratification for incident CHD is improved by adding a random or a fasting glucose value to a Framingham score-based risk equation. Conceptually, such an improvement may be achieved by two distinct mechanisms: (i) by improving the risk estimation across the entire population or (ii) by identifying undiagnosed Type 2 diabetes in a number of individuals and considering them to have coronary risk at an equivalent level to those with established coronary disease <ref type="bibr" target="#b1">[2,</ref><ref type="bibr" target="#b6">7]</ref>.</p><p>We studied the effect of adding a glucose measurement to a lipid profile on the prediction of incident CHD through these two mechanisms, based on a baseline examination and 11 years of follow-up among Whitehall II study participants without known diabetes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Subjects and methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study sample</head><p>The Whitehall II study was established in 1985 and included 10 308 civil servants aged 35-55 years at the start of the study (6895 men). A detailed description of methods and baseline characteristics has been published previously <ref type="bibr" target="#b7">[8]</ref>. Approval from the local Ethics Committee and written informed consent from each participant have been obtained at each study phase. We present data from phase <ref type="bibr">3 (1991-1993)</ref>, when 8104 (78.6%) of the original participants attended the research clinic, with followup for CHD to the end of phase 7 (30 September 2004). Phase 3, the baseline of this study, was the first phase in which participants underwent a full cardiovascular risk assessment, including the first 75-g 2-h oral glucose tolerance test (OGTT). Of 7262 individuals aged ‡ 40 years <ref type="bibr" target="#b1">[2]</ref> without prevalent CHD [myocardial infarction (MI) or angina pectoris] or diabetes, 394 (5.4%) were excluded because they lacked data for one or more risk factors (systolic blood pressure, total and HDL cholesterol, body mass index, fasting glucose and smoking status). The sample selected for the analyses thus consisted of 6868 participants (4775 men).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Follow-up for coronary heart disease</head><p>Incident CHD was assessed during follow-up through a combination of sources. Participants received a questionnaire at 2.5-year intervals and attended screening visits 5 and 10 years after the phase 3 baseline. Potential cases of non-fatal MI and angina pectoris were ascertained by questionnaire items on chest pain <ref type="bibr" target="#b8">[9]</ref>, doctors' diagnoses, medication, diagnostic tests and hospital admissions. A 12-lead resting electrocardiogram (ECG) (Mingorec; Siemens Healthcare, Erlangen, Germany) was performed at each clinic phase and assigned Minnesota codes <ref type="bibr" target="#b9">[10]</ref>. If a CHD event was suspected, confirmation was sought through direct contact with the treating general practitioner (GP) or by collecting evidence from clinical notes from hospitals. All available evidence was collated for each episode and coded according to a standard protocol following MONICA criteria by two independent coders, who conferred in case of disagreement <ref type="bibr" target="#b10">[11]</ref>. Definite angina was identified on the basis of doctor diagnosis or ECG, excluding self-report cases without confirmation. In addition, the Office for National Statistics (ONS) supplied death certificates with cause of death for 99.9% of participants. Coronary death was defined by underlying cause (International Classification of Diseases 9, code 410-414). Incident CHD was categorized into three groups on the basis of the first event as (i) fatal CHD ⁄ non-fatal MI, (ii) definite angina pectoris and (iii) all confirmed CHD (fatal CHD ⁄ nonfatal MI or definite angina).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Fasting glucose and diabetes at baseline</head><p>For the purpose of this analysis, the presence of previously undiagnosed diabetes at baseline was assessed by fasting plasma glucose performed at the baseline clinic visit. Further analyses are based on this fasting glucose measurement. Fasting glucose has been analysed as a continuous variable and categorized by glycaemic status, i.e. normal glucose tolerance (&lt; 6.1 mmol ⁄ l), impaired fasting glucose (6.1-6.9 mmol ⁄ l) or new diabetes ( ‡ 7.0 mmol ⁄ l), according to the World Health Organization (WHO) classification <ref type="bibr" target="#b11">[12]</ref>. Sex-specific quintiles of fasting glucose were also analysed (data not shown).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Analysis</head><p>We calculated the 10-year Framingham risk of incident CHD according to the published algorithm <ref type="bibr" target="#b0">[1]</ref>. We computed a Cox proportional hazard model assessing the risk of CHD associated with the Framingham Risk Score and subsequently added the WHO glycaemic status or continuous fasting glucose to the model. Sex-specific estimates are presented where the interaction test was significant and sex-adjusted results are presented where it was not. We used predicted hazards from each of these models to calculate the area under a receiver operating characteristic (ROC) curve. The statistical significance of differences in area under the ROC curve was assessed using the Stata 10 roccomp procedure (Stata Corp., College Station, TX, USA). We examined whether risk prediction based on Framingham score category corresponding to &lt; 10.0%, 10.0-14.9% and ‡ 15.0% was significantly improved following reclassification after adding glycaemic status or fasting glucose to the risk estimation model.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>Baseline characteristics of the study population are shown in Table <ref type="table" target="#tab_0">1</ref>. During an average follow-up time of 11.3 (sd 2.6) years, there were 198 cases of incident fatal CHD ⁄ non-fatal MI and 315 incident cases of angina. Seventy participants had both these outcomes and therefore, overall, 443 incident cases of all CHD were observed.</p><p>Screen-detected diabetes, based on fasting glucose, predicted coronary death ⁄ non-fatal MI in a Cox model adjusted for age and sex [hazard ratio (HR) = 2.52, 95% CI 1.11; 5.70]. Impaired fasting glucose was not a significant predictor of major CHD events in this minimally adjusted model (HR = 1.47, 95% CI 0.80; 2.1). Most cases of incident CHD occurred independently of the occurrence of diabetes. Three hundred and ninety-three participants developed CHD only; 277 developed diabetes only and 50 developed both during follow-up. There was no evidence of a non-linear effect of fasting glucose with respect to any of the three CHD outcomes. In models that included age, sex and linear and quadratic terms for fasting glucose, the latter was not significant (P ‡ 0.46).</p><p>Table <ref type="table" target="#tab_1">2</ref> shows hazard ratios for incident (i) fatal CHD ⁄ nonfatal MI, (ii) angina and (iii) all CHD. Each percentage increase in Framingham score was associated with a 10-18% increase in the risk of incident disease using the three definitions of CHD (model 1). Presence of impaired fasting glucose was not associated with CHD risk independently of Framingham score, whereas new diabetes was an independent risk factor for fatal CHD ⁄ non-fatal MI (model 2). For this outcome but not the others, the effect of fasting glucose as a continuous variable was evident, over and above the effect of the Framingham score (model 3). Adding a term for new diabetes to model 3 showed that the observation was largely attributable to the 69 individuals with fasting glucose ‡ 7.0 mmol ⁄ l (data not shown). Model 2 was run using the American Diabetes Association definition of impaired fasting glucose (5.6-6.9 mmol ⁄ l). The results were similar (HR 1.22-1.29) to those obtained using the WHO definition (HR 1.17-1.25).</p><p>We compared areas under the ROC curves for predicting incident CHD, using Framingham risk score alone as the reference prediction model, with models which additionally included the glycaemic status or fasting glucose variable. Comparisons were made utilizing each of the three outcome measures. The areas under the ROC curve for the reference models were, respectively, 0.76 (95% CI 0.72; 0.79) for fatal CHD ⁄ non-fatal MI, 0.71 (95% CI 0.68; 0.74) for angina and 0.70 (95% CI 0.68; 0.73) for all CHD. Adding glycaemic status or fasting did not change any of these areas under the ROC curve estimates. Similarly, quintile of fasting glucose did not add to the predictive value of the Framingham equation in any of the models. Table <ref type="table" target="#tab_2">3</ref> shows the reclassification of individuals between risk categories after modifying the Framingham risk score with algorithms including glycaemic status or fasting glucose. Adding glycaemic status, five participants were appropriately reclassified to a higher risk category among the incident major CHD cases and none was inappropriately reclassified to low-risk category. Among those who did not develop CHD, 15 were appropriately classified to a lower risk category and 24 inappropriately to higher risk categories. The net reclassification improvement was 2.4% (95% CI 0.2-4.6). Adding the fasting glucose value, changes between categories were similar but the net reclassification improvement was not significant [1.8% ()0.2 to 3.8)]. The net reclassification improvements for angina and all CHD were all close to zero (data not shown).  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DIABETICMedicine</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Original article</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>Adding a fasting glucose measurement to a lipid profile did not improve the Framingham risk prediction of incident CHD in the Whitehall II cohort over 11 years of follow-up. The Framingham risk score alone performed best at predicting major coronary events and moderately well at predicting any manifestation of coronary disease. We looked for a gain in risk stratification over and above the Framingham risk calculation as a result of adding either fasting glucose as a continuous measure or glycaemic status in three categories-normal glucose tolerance, impaired fasting glucose or diabetes. Neither approach led to improved discrimination using the area under the curve method.</p><p>The expected gain in prediction attributable to newly identified diabetes was evident with fatal CHD ⁄ non-fatal MI as outcome, but the net reclassification improvement was modest (2.4%). The limited improvement in discriminative ability was obtained by finding individuals with a fasting glucose level in the diabetic range rather than by utilizing fasting glucose in the prediction model. Our results thus broadly agree with those from an Australian study using cardiovascular mortality as outcome <ref type="bibr" target="#b12">[13]</ref>. That study found no evidence that fasting glucose added to risk stratification over and above conventional risk factors.</p><p>Our study was based on fasting glucose rather than the random blood sample recommended in the JBS2 guidelines. The measurements were taken as a part of a quality-controlled study protocol. As within-individual variability of a random blood glucose taken under varying circumstances in routine clinical practice can be expected to be higher, it is likely that the associations with future CHD in this study were stronger than would be obtained in clinical practice.</p><p>The JBS2 guidelines suggest that when a lipid profile is taken in a non-fasting, randomly timed sample, a glucose measurement should be added, with the rationale that CVD risk prediction will be improved in people with undiagnosed diabetes and that the added measurement carries a low opportunity cost. The first premise is relatively uncontentious, although it assumes the CVD risk equivalence between those with established diabetes and symptomatic CVD <ref type="bibr" target="#b6">[7]</ref> also applies to newly detected diabetes. The second premise deserves examination.</p><p>Population-wide opportunistic screening strategies for diabetes require consideration of follow-on testing. The ADDITION trial <ref type="bibr" target="#b13">[14]</ref> indicates that a staged screening approach, starting with a random capillary blood glucose and a glycated haemoglobin (HbA 1c ) measure, leads to 29% of the initial screened sample having to return for a fasting glucose measure, 27% of whom require a full OGTT <ref type="bibr" target="#b14">[15]</ref>. These proportions may be higher if the initial stage is based solely on a random blood glucose, as JBS2 recommends. The additional workload is likely to be complicated by the reluctance of many high-risk individuals to attend the second and third stages of diabetes screening.</p><p>It is probable that our results accurately reflect the lack of added coronary risk stratification flowing from the JBS2 guideline on random glucose measurement in non-diabetic populations. However, those with undetected diabetes do potentially benefit from the added random glucose measurement with respect to prevention of cardiovascular disease and the complications of diabetes if identified and treated <ref type="bibr" target="#b1">[2]</ref>. The present study showed a clear relation between screen-detected diabetes and 11-year risk of major incident coronary events after adjustment for age and sex, having excluded participants with known diabetes at baseline. JBS2 guidelines recommend that this latter group should be targeted for CVD prevention regardless of their Framingham risk score. Another frequently used guideline, the SCORE score, published by the European Society of Cardiology (http:// www.escardio.org/Policy/prevention/tools/health-toolkit/Pages/ SCORE-Risk-Charts.aspx), indicates that the absolute CVD risk level for men and women with diabetes should be multiplied by 3 and 5 respectively, putting most diabetic men aged ‡ 40 years or most diabetic women aged ‡ 50 at levels of risk which warrant treatment.</p><p>Our study lacks a baseline HbA 1c measurement and it may be that this alternative measure of glucose metabolism significantly improves on a random or fasting blood glucose in CVD risk quantification. Of the few studies that assessed this question, some suggest that HbA 1c may be superior <ref type="bibr" target="#b15">[16,</ref><ref type="bibr" target="#b16">17]</ref>, while others do not <ref type="bibr" target="#b12">[13]</ref>. A recent large study showed that adding HbA 1c to Framingham risk added modestly to CHD prediction in men but not women <ref type="bibr" target="#b4">[5]</ref>.</p><p>Our findings are subject to potential bias, particularly among screen positives for diabetes. Impaired glucose tolerance and diabetic range glucose values at phases 3 and 5 were classified according to then current WHO criteria <ref type="bibr" target="#b17">[18]</ref> and participants were informed by letter, with advice to the participant to consult their doctor. At phase 3, results were sent directly to the GP, whereas at phase 5 the GP letter was given to the participant. It is unclear how this advice influenced medical care during the 1990s; however, reduction of vascular risk among those below the diabetes threshold was probably not widespread.</p><p>The Whitehall II study is not representative of the UK population. Our findings were obtained in adults aged approximately 50 years at baseline and are not relevant to older people <ref type="bibr" target="#b18">[19]</ref>. The study is not able to address risk stratification in the UK's ethnic minority populations <ref type="bibr" target="#b19">[20]</ref>. Nevertheless, with respect to the central question of glucose and Framingham score as predictors of coronary outcomes, it is unlikely the internal or external validity of our findings is subject to major selection bias. Consistent with this view, prevalence of undiagnosed diabetes in the study sample was about 1%, close to an estimate for the general population based on electronic patient records <ref type="bibr" target="#b20">[21]</ref>. We did not include incident stroke events in our endpoints; however, the few additional cases in the cohort, aged 40-63 years at baseline, are unlikely to change our findings materially.</p><p>The aim of a cardiovascular risk assessment is to classify correctly those at differing levels of risk. Our results suggest that addition of a random blood glucose the time of a lipid profile is likely to add little to the prediction of CHD among those below the diagnostic threshold for diabetes, while potentially benefitting those close to or above the threshold.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Competing interests</head><p>Nothing to declare.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Baseline characteristics and incident events by sex (n = 6870)</figDesc><table><row><cell>General characteristics</cell><cell>Men (n = 4775)</cell><cell>Women (n = 2093)</cell></row><row><cell>Age (years)</cell><cell>49.2 AE 5.9</cell><cell>50.1 AE 6.0</cell></row><row><cell>Height (cm)</cell><cell>176 AE 6.7</cell><cell>162 AE 6.6</cell></row><row><cell>Weight (kg)</cell><cell>78.1 AE 11.1</cell><cell>67.3 AE 12.7</cell></row><row><cell>BMI (kg ⁄ m 2 )</cell><cell>25.1 AE 3.1</cell><cell>25.6 AE 4.7</cell></row><row><cell>Systolic blood pressure (mmHg)</cell><cell>122 AE 13</cell><cell>118 AE 14</cell></row><row><cell>Diastolic blood pressure (mmHg)</cell><cell>81 AE 9</cell><cell>7 7 AE 9</cell></row><row><cell>Current smoking (%)</cell><cell>12.1</cell><cell>16.0</cell></row><row><cell>Total cholesterol (mmol ⁄ l)</cell><cell>6.5 AE 1.1</cell><cell>6.5 AE 1.2</cell></row><row><cell>HDL cholesterol (mmol ⁄ l)</cell><cell>1.3 AE 0.3</cell><cell>1.7 AE 0.4</cell></row><row><cell>LDL cholesterol (mmol ⁄ l)</cell><cell>4.4 AE 1.0</cell><cell>4.3 AE 1.1</cell></row><row><cell>Triglycerides (mmol ⁄ l)</cell><cell>1.5 AE 1.0</cell><cell>1.2 AE 0.7</cell></row><row><cell>Total cholesterol ⁄ HDL ratio</cell><cell>5.2 AE 1.7</cell><cell>4.1 AE 1.5</cell></row><row><cell>Fasting glucose (mmol ⁄ l)</cell><cell>5.3 AE 0.7</cell><cell>5.1 AE 0.6</cell></row><row><cell>Normal glucose tolerance, n (%)</cell><cell>4542 (95.1%)</cell><cell>2027 (96.8%)</cell></row><row><cell>Impaired fasting glucose, n (%)</cell><cell>179 (3.8%)</cell><cell>53 (2.5%)</cell></row><row><cell>New diabetes, n (%)</cell><cell>54 (1.1%)</cell><cell>15 (0.7%)</cell></row><row><cell>Framingham risk (% ⁄ 10 years)</cell><cell>9.0 (5.5)</cell><cell>4.4 (3.8)</cell></row><row><cell>Incident CHD events</cell><cell>Cumulative incidence n (%)</cell><cell>Cumulative incidence n (%)</cell></row><row><cell>Incident fatal CHD ⁄ non-fatal MI</cell><cell>161 (3.4%)</cell><cell>37 (1.8%)</cell></row><row><cell>Incident angina</cell><cell>240 (5.0%)</cell><cell>75 (3.6%)</cell></row><row><cell>Incident all CHD*</cell><cell>333 (7.0%)</cell><cell>110 (5.3%)</cell></row></table><note>*Seventy participants had both incident fatal CHD ⁄ non-fatal MI and incident angina and therefore contribute to both endpoints. Mean AE sd or n (%). BMI, body mass index; CHD, coronary heart disease; HDL, high-density lipoprotein; LDL, low-density lipoprotein; MI, myocardial infarction; sd, standard deviation.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2</head><label>2</label><figDesc>Hazard ratios from models based on calculated 10-year Framingham risk with the addition of glycaemic status or fasting glucose Model 1 predictor is Framingham risk score only, model 2 predictors are Framingham risk and WHO glycaemic status and model 3 predictors are Framingham risk and fasting glucose. *P value &lt; 0.001; †P value &lt; 0.05. ‡For angina, the table shows the effect of the Framingham risk score in men and women combined (adjusted for sex) as there was no evidence of interaction with sex (P = 0.17).</figDesc><table><row><cell></cell><cell></cell><cell cols="2">Fatal CHD ⁄ non-fatal</cell><cell>Angina</cell><cell></cell><cell>All CHD</cell><cell></cell></row><row><cell></cell><cell></cell><cell>MI</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Model</cell><cell></cell><cell>HR</cell><cell>95% CI</cell><cell>HR</cell><cell>95% CI</cell><cell>HR</cell><cell>95% CI</cell></row><row><cell>1</cell><cell>Framingham risk (per %)-men</cell><cell>1.12</cell><cell>(1.10; 1.14)*</cell><cell>1.11 ‡</cell><cell>(1.09; 1.12)*</cell><cell>1.10</cell><cell>(1.09; 1.12)*</cell></row><row><cell></cell><cell>Framingham risk (per %)-women</cell><cell>1.18</cell><cell>(1.13; 1.23)*</cell><cell></cell><cell></cell><cell>1.13</cell><cell>(1.10; 1.17)*</cell></row><row><cell>2</cell><cell>Framingham risk (per %)-men</cell><cell>1.12</cell><cell>(1.10; 1.14)*</cell><cell>1.11 ‡</cell><cell>(1.09; 1.12)*</cell><cell>1.10</cell><cell>(1.09; 1.12)*</cell></row><row><cell></cell><cell>Framingham risk (per %)-women</cell><cell>1.18</cell><cell>(1.13; 1.23)*</cell><cell></cell><cell></cell><cell>1.13</cell><cell>(1.10; 1.17)*</cell></row><row><cell></cell><cell>Impaired fasting glucose</cell><cell>1.22</cell><cell>(0.64; 2.30)</cell><cell>1.17</cell><cell>(0.70; 1.97)</cell><cell>1.25</cell><cell>(0.82; 1.93)</cell></row><row><cell></cell><cell>New diabetes</cell><cell>2.36</cell><cell>(1.11; 5.04) †</cell><cell>1.10</cell><cell>(0.45; 2.66)</cell><cell>1.29</cell><cell>(0.64; 2.59)</cell></row><row><cell>3</cell><cell>Framingham risk (per %)-men</cell><cell>1.12</cell><cell>(1.11; 1.14)*</cell><cell>1.11 ‡</cell><cell>(1.09; 1.12)*</cell><cell>1.10</cell><cell>(1.08; 1.11)*</cell></row><row><cell></cell><cell>Framingham risk (per %)-women</cell><cell>1.18</cell><cell>(1.13; 1.23)*</cell><cell></cell><cell></cell><cell>1.13</cell><cell>(1.10; 1.17)*</cell></row><row><cell></cell><cell>Fasting glucose (per mmol ⁄ l)</cell><cell>1.15</cell><cell>(1.02; 1.31) †</cell><cell>1.07</cell><cell>(0.94; 1.22)</cell><cell>1.09</cell><cell>(0.98; 1.21)</cell></row></table><note>CHD, coronary heart disease; CI, confidence interval; HR, hazard ratio; MI, myocardial infarction; WHO, World Health Organization.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3</head><label>3</label><figDesc>Reclassification of the predicted 10-year risk of incident CHD based on the Framingham score alone vs. with added fasting glucose measures (glycaemic status or fasting glucose)</figDesc><table><row><cell></cell><cell></cell><cell cols="3">Predicted 10-year risk (including</cell><cell>Reclassified</cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell cols="2">glucose measure)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Status at follow-up</cell><cell>Predicted 10-year</cell><cell>Low</cell><cell>Medium</cell><cell>High</cell><cell>Increased</cell><cell>Decreased</cell><cell>Net correctly</cell></row><row><cell>examination</cell><cell>risk (Framingham)</cell><cell>(&lt; 10%)</cell><cell>(10-14.9%)</cell><cell>( ‡ 15%)</cell><cell>risk</cell><cell>risk</cell><cell>reclassified (%)</cell></row><row><cell></cell><cell></cell><cell cols="2">Glycaemic status added</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Fatal CHD ⁄ non-fatal MI</cell><cell>Low (&lt; 10.0%)</cell><cell>165</cell><cell>1</cell><cell>2</cell><cell>5</cell><cell>0</cell><cell>2.5%</cell></row><row><cell></cell><cell cols="2">Medium (10.0-14.9%) 0</cell><cell>17</cell><cell>2</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>High ( ‡ 15.0%)</cell><cell>0</cell><cell>0</cell><cell>11</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Non-CHD</cell><cell>Low (&lt; 10.0%)</cell><cell>6457</cell><cell>16</cell><cell>6</cell><cell>24</cell><cell>15</cell><cell>-0.1%</cell></row><row><cell></cell><cell cols="2">Medium (10.0-14.9%) 12</cell><cell>88</cell><cell>2</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>High ( ‡ 15.0%)</cell><cell>0</cell><cell>3</cell><cell>86</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Net reclassification</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>2.4% (0.2 to 4.6)</cell></row><row><cell>improvement (95% CI)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell cols="2">Fasting glucose added</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Fatal CHD ⁄ non-fatal MI</cell><cell>Low (&lt; 10.0%)</cell><cell>165</cell><cell>2</cell><cell>1</cell><cell>4</cell><cell>0</cell><cell>2.0%</cell></row><row><cell></cell><cell cols="2">Medium (10.0-14.9%) 0</cell><cell>18</cell><cell>1</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>High ( ‡ 15.0%)</cell><cell>0</cell><cell>0</cell><cell>11</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Non-CHD</cell><cell>Low (&lt; 10.0%)</cell><cell>6458</cell><cell>18</cell><cell>3</cell><cell>25</cell><cell>14</cell><cell>-0.2%</cell></row><row><cell></cell><cell cols="2">Medium (10.0-14.9%) 12</cell><cell>86</cell><cell>4</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>High ( ‡ 15.0%)</cell><cell>0</cell><cell>2</cell><cell>87</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Net reclassification</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>1.8% (-0.2 to 3.8)</cell></row><row><cell>improvement (95% CI)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="4">CHD, coronary heart disease; CI, confidence interval; MI, myocardial infarction.</cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">Journal compilation ª 2010 Diabetes UK. Diabetic Medicine, 27, 550-555</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">ª 2010 The Authors. Journal compilation ª 2010 Diabetes UK. Diabetic Medicine, 27, 550-555</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">ª 2010 The Authors.</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgements</head><p>This work was funded by the UK </p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supporting information</head><p>Additional Supporting Information may be found in the online version of this article: Table <ref type="table">S1</ref>. Hazard ratios from models based on calculated 10-year Framingham risk with the addition of the American Diabetes Association (ADA) definition of glycaemic status.</p><p>Please note: Wiley-Blackwell are not responsible for the content or functionality of any supporting materials supplied by the authors. Any queries (other than for missing material) should be directed to the corresponding author for the article.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Prediction of coronary heart disease using risk factor categories</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">W</forename><surname>Wilson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>'agostino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Levy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Belanger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Silbershatz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Kannel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">B</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">97</biblScope>
+			<biblScope unit="page" from="1837" to="1847" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Joint British Societies&apos; guidelines on prevention of cardiovascular disease in clinical practice</title>
+	</analytic>
+	<monogr>
+		<title level="j">Joint British Society</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="1" to="52" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+	<note>Heart</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">The relationhip between glucose and incident cardiovascular events</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Coutinho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Gerstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Yusuf</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="233" to="240" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Relation between blood glucose and coronary mortality over 33 years in the Whitehall study</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Brunner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Shipley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Witte</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Fuller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Marmot</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="26" to="31" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Evaluation of the Framingham risk score in the European Prospective Investigation of Cancer-Norfolk cohort: does adding glycated hemoglobin improve the prediction of coronary heart disease events?</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Simmons</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sharp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Boekholdt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Sargeant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">T</forename><surname>Khaw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">J</forename><surname>Wareham</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">168</biblScope>
+			<biblScope unit="page" from="1209" to="1216" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Predicting cardiovascular risk in England and Wales: prospective derivation and validation of QRISK2</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hippisley-Cox</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Coupland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Vinogradova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Robson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Minhas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sheikh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br Med J</title>
+		<imprint>
+			<biblScope unit="volume">336</biblScope>
+			<biblScope unit="page" from="1475" to="1482" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Mortality from coronary heart disease in subjects with type 2 diabetes and in non-diabetic subjects with and without prior myocardial infarction</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Haffner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lehto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Ronnemaa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Pyorala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Laakso</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">339</biblScope>
+			<biblScope unit="page" from="229" to="234" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Cohort profile: the Whitehall II study</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Marmot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Brunner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="251" to="256" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main">Cardiovascular survey methods</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Rose</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Blackburn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">F</forename><surname>Gillum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Prineas</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1982">1982</date>
+			<publisher>World Health Organization</publisher>
+			<pubPlace>Geneva</pubPlace>
+		</imprint>
+	</monogr>
+	<note>2nd edn</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Methodology of ECG interpretation in the Glasgow programme</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">W</forename><surname>Macfarlane</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">W</forename><surname>Devine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Latif</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mclaughlin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Shoat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Watts</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Meth Inform Med</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="354" to="361" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Myocardial infarction and coronary deaths in the World Health Organization MONICA project. Registration procedures, event rates, and case-fatality rates in 38 populations from 21 countries in four continents</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Tunstall-Pedoe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kuulasmaa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Amouyel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Arveiler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Rajakangas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Pajak</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">90</biblScope>
+			<biblScope unit="page" from="583" to="612" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Definition, diagnosis and classification of diabetes mellitus and its complications. Part 1: diagnosis and classification of diabetes mellitus provisional report of a WHO consultation</title>
+		<author>
+			<persName><forename type="first">Kgmm</forename><surname>Alberti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">Z</forename><surname>Zimmet</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabet Med</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="539" to="553" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Continuous relationships between non-diabetic hyperglycaemia and both cardiovascular disease and all-cause mortality: the Australian Diabetes, Obesity, and Lifestyle (AusDiab) study</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">L</forename><surname>Barr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Boyko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">Z</forename><surname>Zimmet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Wolfe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Tonkin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="415" to="424" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">The ADDITION study: proposed trial of the cost-effectiveness of an intensive multifactorial intervention on morbidity and mortality among people with Type 2 diabetes detected by screening</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Lauritzen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Griffin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Borch-Johnsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">J</forename><surname>Wareham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">H</forename><surname>Wolffenbuttel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Rutten</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Obes Relat Metab Disord</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="S6" to="S11" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Population-based stepwise screening for unrecognised Type 2 diabetes is ineffective in general practice despite reliable algorithms</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">O</forename><surname>Christensen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sandbaek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Lauritzen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Borch-Johnsen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="1566" to="1573" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">GHb is a better predictor of cardiovascular disease than fasting or postchallenge plasma glucose in women without diabetes. The Rancho Bernardo Study</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Barrett-Connor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Wingard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Shan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Edelstein</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="450" to="456" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Hyperglycaemia is associated with all-cause and cardiovascular mortality in the Hoorn population: the Hoorn Study</title>
+		<author>
+			<persName><forename type="first">De</forename><surname>Vegt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Dekker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Ruhe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">G</forename><surname>Stehouwer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Nijpels</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Bouter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="926" to="931" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Report of a WHO Study Group</title>
+		<idno>no. 727</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Geneva: World Health Organization</title>
+		<imprint>
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">Technical Report Series</note>
+	<note>Diabetes mellitus</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Use of Framingham risk score and new biomarkers to predict cardiovascular mortality in older people: population-based observational cohort study</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>De Ruijter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">G</forename><surname>Westendorp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">J</forename><surname>Assendelft</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">P</forename><surname>Den Elzen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>De Craen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Le</forename><surname>Cs</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br Med J</title>
+		<imprint>
+			<biblScope unit="volume">338</biblScope>
+			<biblScope unit="page">3083</biblScope>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Predicted and observed cardiovascular disease in South Asians: application of FINRISK, Framingham and SCORE models to Newcastle Heart Project data</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Bhopal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Fischbacher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Vartiainen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Unwin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>White</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Alberti</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Public Health (Oxf)</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="93" to="100" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Identifying undiagnosed diabetes: cross-sectional survey of 3.6 million patients&apos; electronic records</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Holt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Stables</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hippisley-Cox</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>'hanlon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Majeed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Gen Pract</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="page" from="192" to="196" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

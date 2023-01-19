@@ -1,0 +1,976 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Effects of High Blood Pressure on Cardiovascular Disease Events Among Chinese Adults With Different Glucose Metabolism</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Jingyan</forename><surname>Tian</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Endocrinology and Me-tabolism</orgName>
+								<orgName type="institution" key="instit1">Shanghai Institute of Endocrine and Metabolic Diseases</orgName>
+								<orgName type="institution" key="instit2">Ruijin Hospital</orgName>
+								<orgName type="institution" key="instit3">Shanghai Jiaotong Uni-versity School of Medicine</orgName>
+								<address>
+									<settlement>Shanghai</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Chang-Sheng</forename><surname>Sheng</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Center for Epidemiological Studies and Clinical Trials and Center for Vascular Evaluation</orgName>
+								<orgName type="institution" key="instit1">Shang-hai Institute of Hypertension</orgName>
+								<orgName type="institution" key="instit2">Ruijin Hospital</orgName>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="institution">Shanghai Jiaotong University School of Medi-cine</orgName>
+								<address>
+									<settlement>Shanghai</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Weihong</forename><surname>Sun</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Institute of Health Sciences</orgName>
+								<orgName type="institution" key="instit1">Shanghai Insti-tutes for Biological Sciences</orgName>
+								<orgName type="institution" key="instit2">Chinese Academy of Sciences</orgName>
+								<orgName type="institution" key="instit3">Shanghai Jiaotong University School of Medicine</orgName>
+								<address>
+									<settlement>Shanghai</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Xiaomin</forename><surname>Song</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department">Department of Endocrinology and Metabolism</orgName>
+								<orgName type="institution" key="instit1">Yangpu Hospital</orgName>
+								<orgName type="institution" key="instit2">Tongji University School of Medicine</orgName>
+								<address>
+									<settlement>Shanghai</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Haiyan</forename><surname>Wang</surname></persName>
+							<affiliation key="aff5">
+								<orgName type="institution">Pingliang Community Health Service Center</orgName>
+								<address>
+									<settlement>Yangpu District, Shanghai</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Qifang</forename><surname>Li</surname></persName>
+							<affiliation key="aff6">
+								<orgName type="department">Department of Anesthesia</orgName>
+								<orgName type="institution" key="instit1">Ruijin Hospital</orgName>
+								<orgName type="institution" key="instit2">Shang-hai Jiaotong University School of Medicine</orgName>
+								<address>
+									<settlement>Shang-hai</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Wenyi</forename><surname>Li</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Endocrinology and Me-tabolism</orgName>
+								<orgName type="institution" key="instit1">Shanghai Institute of Endocrine and Metabolic Diseases</orgName>
+								<orgName type="institution" key="instit2">Ruijin Hospital</orgName>
+								<orgName type="institution" key="instit3">Shanghai Jiaotong Uni-versity School of Medicine</orgName>
+								<address>
+									<settlement>Shanghai</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Weiqing</forename><surname>Wang</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Endocrinology and Me-tabolism</orgName>
+								<orgName type="institution" key="instit1">Shanghai Institute of Endocrine and Metabolic Diseases</orgName>
+								<orgName type="institution" key="instit2">Ruijin Hospital</orgName>
+								<orgName type="institution" key="instit3">Shanghai Jiaotong Uni-versity School of Medicine</orgName>
+								<address>
+									<settlement>Shanghai</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Effects of High Blood Pressure on Cardiovascular Disease Events Among Chinese Adults With Different Glucose Metabolism</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">DF84C176D8344651B1755F5929398232</idno>
+					<idno type="DOI">10.2337/dc18-0918</idno>
+					<note type="submission">Received 26 April 2018 and accepted 14 June 2018.</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.1" ident="GROBID" when="2022-07-19T23:00+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>To investigate cardiovascular disease (CVD) risks caused by blood pressure (BP) of 130-139/80-89 mmHg among Chinese adults with different glucose metabolism.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESEARCH DESIGN AND METHODS</head><p>A prospective population-based cohort of 2,132 adults in Shanghai was established in 2002, and CVD information was collected during 10.9 years of follow-up. After assessing the association between BP categories and incident CVD, we analyzed the risk for CVD by blood glucose categories and BP categories combined by using multiple Cox regression analysis among 1,419 participants at follow-up.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head><p>The corresponding incidence of CVD per 1,000 person-years for the BP &lt;130/80 mmHg, 130-139/80-89 mmHg, and ‡140/90 mmHg or treated groups were 3.0, 6.0, and 13.9, respectively. After adjusting for age, sex, and other factors, BP ‡140/ 90 mmHg was significantly associated with a higher CVD risk in general (hazard ratio 2.68 [95% CI 1.36-5.25]) and in various blood glucose categories (normoglycemia 2.59, prediabetes 3.03, diabetes mellitus [DM] 4.98). However, BP of 130-139/ 80-89 mmHg was significantly associated with a higher CVD risk in an estimated baseline 10-year atherosclerotic CVD (ASCVD) risk ‡10% (3.82 [1.42-9.78]) or DM (3.54 [1.05-11.88]) but not in the general population or for a baseline 10-year ASCVD risk &lt;10%, normoglycemia, or prediabetes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CONCLUSIONS</head><p>BP of 130-139/80-89 mmHg may result in a significantly higher CVD risk in Chinese adults with an estimated 10-year ASCVD risk ‡10% or DM but not in those with normoglycemia or prediabetes.</p><p>High blood pressure (BP) is an important public health concern and a risk factor for adverse health outcomes, including coronary heart disease, stroke, and chronic kidney disease. In patients with diabetes mellitus (DM), the presence of hypertension substantially increases the risk of cardiovascular disease (CVD) events, and reductions in BP can reduce cardiovascular morbidity and mortality (1,2).</p><p>In the past 30 years, the BP level for the diagnosis and treatment of hypertension in the general hypertensive population and the optimal level to which BP should be reduced in patients with DM have not been agreed on (3,4). Since the American Diabetes Association publication of a position statement on DM and hypertension in</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>September 2017 <ref type="bibr" target="#b4">(5)</ref> and the American College of Cardiology/American Heart Association publication of the 2017 guidelines for the prevention, detection, evaluation, and management of high BP in adults <ref type="bibr" target="#b5">(6)</ref>, significant controversy has surrounded the applicability of the guidelines to patients with BP 130-139/80-89 mmHg <ref type="bibr" target="#b7">(7)</ref><ref type="bibr" target="#b8">(8)</ref><ref type="bibr" target="#b9">(9)</ref><ref type="bibr" target="#b10">(10)</ref><ref type="bibr" target="#b11">(11)</ref><ref type="bibr" target="#b12">(12)</ref><ref type="bibr" target="#b13">(13)</ref>.</p><p>Moreover, the latest American guidelines state that there is limited quality evidence on the precise BP target in adults with DM, and the guidelines do not suggest the optimal level for prediabetes <ref type="bibr" target="#b5">(6)</ref>. We have found that prediabetes combined with BP $140/90 mmHg could significantly promote CVD risks <ref type="bibr" target="#b14">(14)</ref>. However, data are lacking on how BP levels of 130-139/80-89 mmHg affect long-term CVD risks in Chinese adults with different glucose metabolism, especially in DM or prediabetes. The current study has allowed us to observe the 10-year CVD risks and explore the optimal BP level among Chinese adults with various blood glucose categories and BP categories combined.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESEARCH DESIGN AND METHODS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study Population</head><p>The cohort was established in 2002, and the study design and population have been described previously <ref type="bibr" target="#b14">(14)</ref><ref type="bibr" target="#b15">(15)</ref><ref type="bibr" target="#b16">(16)</ref><ref type="bibr" target="#b17">(17)</ref>. Briefly, a cross-sectional survey was conducted in an urban community in Shanghai, China, in 2002. The first examination of 2,132 male and female participants ages 18-76 years from the Pingliang community was conducted from November 2002 to January 2003. At baseline, all participants underwent physical examination and were interviewed with standardized questionnaires. Data were collected on physiciandiagnosed DM status and hypertension, family history of DM, educational background, and lifestyle factors, such as cigarette smoking, alcohol consumption, and currently used medications for hypertension and DM. Plasma glucose was measured during an oral glucose tolerance test, and serum lipid profile was assayed in all participants.</p><p>A total of 1,609 participants (75.5%) were included in the follow-up, which lasted from July to December 2013, but an additional follow-up was done from September to October 2014 for those unavailable for the previous one. All participants at follow-up were interviewed with the same standardized questionnaires, with the addition of information related to CVD events. After exclusion of 159 participants with previous CVD and 31 with missing data, 1,419 participants were included in the final analysis.</p><p>This study was approved by Ruijin Hospital ethics committee (Shanghai, China). Written informed consent was obtained from each participant, and all methods were carried out in accordance with relevant guidelines and regulations.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study End Points</head><p>We documented nonfatal coronary heart disease, nonfatal cerebrovascular disease, and cardiovascular death occurring between baseline 2002 and October 2014 <ref type="bibr" target="#b14">(14,</ref><ref type="bibr" target="#b15">15)</ref>. Nonfatal coronary heart disease was further defined as nonfatal myocardial infarction, coronary revascularization, and hospitalizations for unstable angina. Nonfatal cerebrovascular disease included cerebral ischemic attack, cerebral hemorrhage, and cerebral infarction from any cause. Information on cardiovascular deaths was obtained from the official death certificates of the district. Finally, after excluding four participants who experienced cerebral ischemic attack, 139 CVD events were analyzed.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>BP and Blood Glucose Measurement</head><p>BP was measured with a mercury sphygmomanometer after checking for device accuracy. BP was measured three times, with a 1-min interval between measurements. Systolic BP (SBP) and diastolic BP (DBP) were the mean of the last two of the three measurements taken in participants in the sitting position after 5 min of rest. BP categories were defined as ,130/80 mmHg, 130-139/80-89 mmHg, and $140/90 mmHg or treated.</p><p>Plasma glucose was measured during a 75-g oral glucose tolerance test, and type 2 DM was defined by a fasting plasma glucose (FPG) level $7.0 mmol/L and/or a 2-h postchallenge glucose (2hPG) level $11.1 mmol/L, a previous physician diagnosis of type 2 DM, or use of antidiabetic medication at baseline. Prediabetes was defined as impaired fasting glucose or impaired glucose tolerance alone or combined. Impaired fasting glucose was defined as FPG between 5.6 and 7.0 mmol/L and 2hPG ,7.8 mmol/L. Impaired glucose tolerance was defined as 2hPG between 7.8 and 11.1 mmol/L (18). Normoglycemia was defined by FPG ,5.6 mmol/L and 2hPG ,7.8 mmol/L.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Other Variables of Interest</head><p>Triglycerides (TG), total serum cholesterol (TC), HDL, and LDL levels were measured enzymatically. Anthropometric measurements were conducted by trained nurses or clinical postgraduates. Smoking and alcohol consumption, educational background, diet, and physical activity were acquired through welldesigned questionnaires. Assessment methods of these variables have been described elsewhere <ref type="bibr" target="#b14">(14)</ref>. Briefly, family history of DM was defined as at least one first-degree relative or grandparents with DM. Smoking and drinking status were classified as currently, formerly, and never consumed. Physical activity was calculated as the product of the duration and frequency of each activity (in hours per day) weighted by an estimate of the metabolic equivalent of that activity <ref type="bibr" target="#b14">(14)</ref>. Ten-year atherosclerotic CVD (ASCVD) risk was estimated using prediction equations validated by the Prediction for ASCVD Risk in China project <ref type="bibr" target="#b18">(19)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data Analysis</head><p>For database management and statistical analysis, we used SAS 9.2 software (SAS Institute Inc., Cary, NC). Data are expressed as mean 6 SD, %, geometric mean with 95% limits, or hazard ratios (HRs) with 95% CIs. All statistical tests were two-sided, with P , 0.05 considered significant. Serum TG values were log-transformed before analysis because of skewed distribution.</p><p>Multiple Cox regression analysis was performed to compute HRs with their 95% CIs. The log-rank test was used to compare the cumulative incidence of CVD between groups, with the Kaplan-Meier survival function used to show the time to events. We considered individuals with BP ,130/80 mmHg (or with normoglycemia, if considered) as the reference group. Dummy variables were used to compute HRs (95% CIs) for each subgroup against the reference group.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Baseline Characteristics</head><p>The follow-up time was 10.5-12.0 years (mean 10.9 years). The mean values of anthropometric data and metabolic variables by BP category at baseline are presented in Table <ref type="table" target="#tab_0">1</ref>. Participants with a BP of 130-139/80-89 mmHg and $140/90 mmHg or treated were more likely to be male and to have more cigarette or alcohol consumption. Compared with those with BP ,130/80 mmHg, age, FPG, 2hPG, LDL, TC, TG, BMI, waist circumference, and waistto-hip ratio were higher among participants with BP 130-139/80-89 mmHg and the highest among participants with BP $140/90 mmHg or treated. No significant difference was found in family history of DM and physical activity among these three groups.</p><p>Among participants with hypertension at baseline, 36.8% were currently taking antihypertensive medications, among whom 35.1% used angiotensin receptor blockers or ACE inhibitors and 48.6% of these patients had controlled BP (SBP ,140 mmHg, DBP ,90 mmHg). Moreover, we compared the baseline characteristics between participants who attended follow-up with those lost to follow-up and found no significant difference in glucose levels, blood lipid profile, BP, and any other factors between the two groups (data not shown).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>BP Categories and CVD</head><p>During the follow-up, 139 participants (9.8%) experienced CVD events, and the corresponding incidence of CVD per 1,000 person-years for the BP ,130/ 80 mmHg, 130-139/80-89 mmHg, and $140/90 mmHg or treated groups were 3.0, 6.0, and 13.9, respectively.</p><p>Supplementary Table <ref type="table" target="#tab_0">1</ref> shows the adjusted HRs and 95% CIs of 10.9-year risk of CVD according to BP levels, using BP ,130/80 mmHg as the reference. No significantly elevated CVD risks were found in the BP 130-139/80-89 mmHg group in a crude and adjusted model. After adjusting for age, sex, BMI, and other factors, multiple Cox regression analysis showed that BP $140/90 mmHg or treated was significantly associated with the development of CVD (HR 2.68 [95% CI 1.36-5.25]).</p><p>Figure <ref type="figure">1</ref> shows the Kaplan-Meier survival curve for CVD according to BP category at baseline. The cumulative survival rate for CVD was significantly lower in participants with BP $140/90 mmHg or treated.</p><p>Sensitivity Analysis of CVD Risks for 130-139/80-89 mmHg Sensitivity analysis was performed according to various baseline characteristics of the study population on the risk of CVD for BP of 130-139/80-89 mmHg compared with that for BP ,130/80 mmHg. No significant differences were found in predictive values across groups for age, sex, BMI, smoking, and drinking. However, a significant prediction of CVD for BP of 130-139/80-89 mmHg was found in participants with an estimated baseline 10-year ASCVD Figure <ref type="figure">2</ref> presents the effect of various categories of glucose metabolism and BP categories combined on the prevalence of CVD among Chinese adults. Rates per 1,000 person-years were calculated in these nine groups.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CONCLUSIONS</head><p>With the release of the American Diabetes Association and American College of Cardiology/American Heart Association guidelines, significant controversy exists about the optimal BP target among patients with DM or prediabetes worldwide. Our study investigated the CVD risks caused by a BP of 130-139/80-89 mmHg in a Chinese population-based cohort and found for the first time in our knowledge that a BP of 130-139/80-89 mmHg results in a significantly higher CVD risk in Chinese adults with an estimated 10-year ASCVD risk $10% or DM but not in those with normoglycemia or prediabetes.</p><p>Evidence in support of a lower threshold (130/80 mmHg) has been reported in recent studies, including the Systolic Blood Pressure Intervention Trial (SPRINT) and a meta-analysis of randomized controlled trials of antihypertensive medications. In SPRINT (4), targeting an SBP of ,120 mmHg (automated BP corresponding to 130 mmHg in office) versus ,140 mmHg resulted in lower rates of fatal and nonfatal major cardiovascular events and death among 9,361 patients without DM. Subsequently, a systematic review and meta-analysis provided strong support for lowering SBP to ,130 mmHg, which led to decreased risks of CVD <ref type="bibr" target="#b19">(20,</ref><ref type="bibr" target="#b20">21)</ref>. However, these studies were not stratified according to baseline 10-year ASCVD risk. A metaanalysis of data in 67,475 patients across 11 trials and 26 randomized groups showed that treating 1,000 patients for 5 years would prevent 14 (95% CI 8-21), 20 , 24 , and 38 (16-61) cardiovascular events (P = 0.04 for trend) in those with a baseline 5-year ASCVD risk of ,11%, 11-15%, 15-21%, and .21%, respectively (22). The current study investigated the CVD events with BP 130-139/80-89 mmHg in the general population stratified for 10-year ASCVD risk. We confirmed that a BP of 130-139/80-89 mmHg does not result in a significantly increased risk of CVD in general, but it does in those with an estimated 10-year ASCVD risk $10% (HR 3.82 [95% CI 1.42-9.78]; P = 0.005) (Supplementary Table <ref type="table" target="#tab_1">2</ref>), which supports the use of predictive baseline ASCVD equations to inform BPlowering treatment decisions. The prevalence of hypertension among adults with DM is ;80%, and the coexistence of hypertension and DM markedly increases the risk of developing CVD and microvascular disease <ref type="bibr" target="#b21">(23)</ref>. The presence of type 2 DM almost triples the risk of developing CVD at any level of SBP, starting from prehypertensive levels <ref type="bibr" target="#b22">(24)</ref>. Accumulated evidence suggests that BP reduction in patients with type 2 DM and hypertension largely improves CVD outcomes <ref type="bibr" target="#b23">(25)</ref>. However, the optimal BP target in individuals with DM remains controversial. Moreover, little or insufficient evidence exists on the outcome benefit of the threshold for the initiation of antihypertensive therapy in patients with prediabetes.</p><p>To judge the usefulness and appropriateness of the new threshold, we must look at its influence on the long-term incidence of the CVD <ref type="bibr" target="#b7">(7)</ref>. The current study, a population-based prospective cohort lasting 10.9 years, enabled us to explore the incidence of CVD among individuals with a BP of 130-139/80-89 mmHg and DM or prediabetes. After assessing the association between BP categories and risk of CVD, we continued to analyze the risk for CVD by blood glucose categories and BP categories combined. As expected, we found that the coexistence of BP $140/90 mmHg or treated and DM was associated with the most significant increases in the incidence of CVD (HR 4.98 [95% CI 1.88-13.17]). A BP of 130-139/80-89 mmHg combined with DM increased the CVD risk 3.54 times (95% CI 1.05-11.88). Of note, a BP of 130-139/ 80-89 mmHg combined with prediabetes was not associated with an elevated CVD risk in the crude and adjusted models. To our knowledge, we provide the first data on the occurrence of CVD among Chinese adults with a BP of 130-139/80-89 mmHg and DM or prediabetes.</p><p>The appropriate BP target in patients with DM is a long-time controversial issue. On the basis of the UKPDS (UK Prospective Diabetes Study) 36 <ref type="bibr" target="#b23">(25)</ref> and clinical trials from UKPDS 38 <ref type="bibr" target="#b24">(26)</ref>, Hypertension Optimal Treatment (HOT) trial <ref type="bibr" target="#b25">(27)</ref>, Appropriate Blood Pressure Control in Diabetes (ABCD) trial <ref type="bibr" target="#b26">(28)</ref>, and Action in Diabetes and Vascular Disease: Preterax and Diamicron MR Controlled Evaluation (ADVANCE) study <ref type="bibr" target="#b27">(29)</ref>, previous hypertension and DM guidelines suggested a BP target ,130/80 mmHg in patients with DM <ref type="bibr" target="#b28">(30,</ref><ref type="bibr" target="#b30">31)</ref>. After the publication of the Action to Control Cardiovascular Risk in Diabetes (ACCORD)-BP study (3), targeting SBP to ,120 mmHg versus ,140 mmHg did not reduce the rate of fatal and nonfatal CVD events in patients with DM; therefore, more guidelines returned to a recommended BP ,140/90 mmHg in patients with hypertension and DM. However, the ACCORD-BP results were questioned in the literature because of statistical power. The secondary analysis of the ACCORD trial demonstrated a significant outcome benefit in the intensive BP/ standard glycemic group <ref type="bibr" target="#b31">(32)</ref>. Recently, a pooled analysis from the ACCORD-BP and SPRINT studies showed that intensive BP lowering (SBP target ,120 mmHg) may have a similar favorable effect and appears to decrease cardiovascular events in patients with and without type 2 DM <ref type="bibr" target="#b32">(33)</ref>. In addition, a meta-analysis of 13 randomized clinical trials in 37,736 participants suggested that in patients with type 2 DM or prediabetes, an SBP treatment goal of 130-135 mmHg is acceptable <ref type="bibr" target="#b33">(34)</ref>.</p><p>Very few published studies focused on the optimal BP level in individuals with prediabetes. Our previous study showed that prediabetes combined with BP $140/90 mmHg increases the risk for CVD <ref type="bibr" target="#b14">(14)</ref>. A post hoc analysis of SPRINT showed that the beneficial effects of intensive SBP treatment (target ,120 mmHg) on CVD events and all-cause mortality are similar among individuals with prediabetes (defined as fasting serum glucose $5.6 mmol/L) and normoglycemia; however, only fasting blood glucose was used to define the prediabetes status, whereas 2-h blood glucose was not included in the diagnoses <ref type="bibr" target="#b34">(35)</ref>. In the current study where glycemic status was defined by FPG and 2hPG, we found that a BP of 130-139/80-89 mmHg may result in a significantly increased CVD risk in DM rather than in normoglycemia or prediabetes.</p><p>This study had several limitations. First, because serum creatinine and urinary albumin levels were not measured at baseline, related information of chronic kidney disease could not be evaluated among participants with a BP of 130-139/80-89 mmHg. Nonetheless, we assayed these levels in the 10.9-year follow-up to investigate chronic kidney disease factors in this population in the future 16-year follow-up. Second, we did not perform a baseline HbA 1c test in every participant in 2002 and, therefore, might have missed some participants with DM detected by HbA 1c alone. However, the clinical diagnosis of both prediabetes and DM were based on FPG and 2hPG, and HbA 1c was not included in the diagnostic criteria until 2010 (18).</p><p>In conclusion, this study confirms that patients with a BP of 130-139/80-89 mmHg combined with an estimated 10-year ASCVD risk $10% or DM may have an increased risk for CVD. A BP of 130-139/80-89 mmHg does not lead to a significantly elevated CVD risk among those with normoglycemia or prediabetes. DM and an increased baseline 10-year ASCVD risk may result in increased CVD events in the future, which implies that the targeted BP should be ,130-139/80-89 mmHg in these patients. The current change in the 2017 guidelines was mainly based on epidemiological evidence, not randomized controlled trials; thus, there is little or insufficient evidence on the outcome benefit of antihypertensive therapy from adequately powered, placebocontrolled clinical trials, even in the SBP range of 130-139 mmHg. Additional trials are imperative to explore the optimal BP target among patients with BP 130-139/ 80-89 mmHg and DM in China.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 -</head><label>1</label><figDesc>Characteristics of the study participants according to the BP categories at baseline</figDesc><table><row><cell>BP category (mmHg)</cell></row></table><note>Data are mean 6 SD, %, or geometric mean (95% limits). #Serum TG values were log-transformed before analysis because of skewed distribution.Figure 1-Kaplan-Meier survival curve for CVD according to the BP categories (mmHg) at baseline.risk $10% (HR 3.82 [95% CI 1.42-9.78]; P = 0.005) but not in those with a baseline ASCVD risk ,10% (Supplementary Table2).</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 -</head><label>2</label><figDesc>Multivariable-adjusted HRs for the risks of CVD according to various blood glucose categories and BP categories combined at baseline Model 1 adjusted for age and sex. Model 2 adjusted for age, sex, BMI, family history of DM, physical activity, and cigarette smoking and alcohol status. *P , 0.05; **P , 0.01.</figDesc><table><row><cell>Adjusted HR (95% CI)</cell></row></table><note>Figure2-The effect of various blood glucose categories and BP categories combined on the prevalence of CVD among Chinese adults. Rates per 1,000 person-years were calculated in these nine groups.</note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="1896">Effect of High BP and Glucose Metabolism on CVD Diabetes Care Volume 41, September 2018</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">care.diabetesjournals.orgTian and Associates 1897</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="1898">Effect of High BP and Glucose Metabolism on CVD Diabetes Care Volume 41, September 2018</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="1900">Effect of High BP and Glucose Metabolism on CVD Diabetes Care Volume 41, September 2018</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Acknowledgments. The authors thank the staff and volunteers from the three hospitals in this study. </p></div>
+			</div>
+
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Long-term follow-up after tight control of blood pressure in type 2 diabetes</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Holman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Paul</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Bethel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">A</forename><surname>Neil</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Matthews</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">359</biblScope>
+			<biblScope unit="page" from="1565" to="1576" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">ADVANCE Collaborative Group. Risks of cardiovascular events and effects of routine blood pressure lowering among patients with type 2 diabetes and atrial fibrillation: results of the ADVANCE study</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Du</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Ninomiya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>De Galan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur Heart J</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="1128" to="1135" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">ACCORD Study Group. Effects of intensive bloodpressure control in type 2 diabetes mellitus</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">C</forename><surname>Cushman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">W</forename><surname>Evans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Byington</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">362</biblScope>
+			<biblScope unit="page" from="1575" to="1585" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">A randomized trial of intensive versus standard blood-pressure control</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Wright</surname><genName>Jr</genName></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Williamson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">K</forename><surname>Whelton</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">373</biblScope>
+			<biblScope unit="page" from="2103" to="2116" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+		<respStmt>
+			<orgName>SPRINT Research Group</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Diabetes and hypertension: a position statement by the American Diabetes Association</title>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">H</forename><surname>De Boer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bangalore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Benetos</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="1273" to="1284" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">K</forename><surname>Whelton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Carey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">S</forename><surname>Aronow</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">for the prevention, detection, evaluation, and management of high blood pressure in adults: executive summary: a report of the American College of Cardiology/American Heart Association Task Force on clinical practice guidelines</title>
+		<ptr target="ACC/AHA/AAPA/ABC/ACPM/AGS/APhA/ASH/ASPC/NMA/PCNAguideline" />
+	</analytic>
+	<monogr>
+		<title level="j">Hypertension</title>
+		<imprint>
+			<biblScope unit="volume">71</biblScope>
+			<biblScope unit="page" from="1269" to="1324" />
+			<date type="published" when="2018">2018. 2018</date>
+		</imprint>
+	</monogr>
+	<note>Hypertension</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Global impact of 2017 American College of Cardiology/American Heart Association Hypertension guidelines: a perspective from China</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Liu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">137</biblScope>
+			<biblScope unit="page" from="546" to="548" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Individualizing blood pressure targets for people with diabetes and hypertension: comparing the ADA and the ACC/AHA recommendations</title>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">H</forename><surname>De Boer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Bakris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Cannon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">319</biblScope>
+			<biblScope unit="page" from="1319" to="1320" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Cardiovascular disease and risk management: Standards of Medical Care in Diabetesd2018</title>
+	</analytic>
+	<monogr>
+		<title level="j">American Diabetes Association</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="S86" to="S104" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note>Diabetes Care. Suppl. 1</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Could 130/80 mm Hg be adopted as the diagnostic threshold and management goal of hypertension in consideration of the characteristics of Asian populations?</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kario</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hypertension</title>
+		<imprint>
+			<biblScope unit="volume">71</biblScope>
+			<biblScope unit="page" from="979" to="984" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Blood pressure measurement and hypertension diagnosis in the 2017 US guidelines: first things first</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Stergiou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Palatini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Asmar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hypertension</title>
+		<imprint>
+			<biblScope unit="volume">71</biblScope>
+			<biblScope unit="page" from="963" to="965" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">World Hypertension League. Global implications of blood pressure thresholds and targets: guideline conversations from the World Hypertension League</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">T</forename><surname>Lackland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">J</forename><surname>Beilin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nrc</forename><surname>Campbell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hypertension</title>
+		<imprint>
+			<biblScope unit="volume">71</biblScope>
+			<biblScope unit="page" from="985" to="987" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Cardiovascular outcomes trials in type 2 diabetes: where do we go from here? Reflections from a Diabetes Care Editors&apos; Expert Forum</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">T</forename><surname>Cefalu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kaul</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Gerstein</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="14" to="31" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Effects of prediabetes mellitus alone or plus hypertension on subsequent occurrence of cardiovascular disease and diabetes mellitus: longitudinal study</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Qiu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Shen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Song</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hypertension</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="page" from="525" to="530" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Contribution of birth weight and adult waist circumference to cardiovascular disease risk in a longitudinal study</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Qiu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Li</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sci Rep</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">9768</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Birth weight and risk of type 2 diabetes, abdominal obesity and hypertension among Chinese adults</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">Y</forename><surname>Tian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Cheng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><forename type="middle">M</forename><surname>Song</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Endocrinol</title>
+		<imprint>
+			<biblScope unit="volume">155</biblScope>
+			<biblScope unit="page" from="601" to="607" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Gender-related affecting factors of prediabetes on its 10-year outcome</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Song</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Qiu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Zhang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMJ Open Diabetes Res Care</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="S62" to="S69" />
+			<date type="published" when="2010">2016. 2010</date>
+			<publisher>American Diabetes Association</publisher>
+		</imprint>
+	</monogr>
+	<note>Diabetes Care. Suppl. 1</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Predicting the 10-year risks of atherosclerotic cardiovascular disease in Chinese population: the China-PAR project (Prediction for ASCVD Risk in China)</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Hu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">134</biblScope>
+			<biblScope unit="page" from="1430" to="1440" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Systolic blood pressure reduction and risk of cardiovascular disease and mortality: a systematic review and network meta-analysis</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Bundy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Stuchlik</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="775" to="781" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Blood Pressure Lowering Treatment Trialists&apos; Collaboration. Blood pressure-lowering treatment based on cardiovascular risk: a metaanalysis of individual patient data</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Ettehad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Emdin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kiran</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">387</biblScope>
+			<biblScope unit="page" from="591" to="598" />
+			<date type="published" when="2014">2016. 2014</date>
+		</imprint>
+	</monogr>
+	<note>Lancet</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Prevalence of hypertension in type 2 diabetes mellitus: impact of the tightening definition of high blood pressure and association with confounding risk factors</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Kabakov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Norymberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Osher</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Cardiometab Syndr</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="95" to="101" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Diabetes, other risk factors, and 12-yr cardiovascular mortality for men screened in the Multiple Risk Factor Intervention Trial</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Stamler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Vaccaro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Neaton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Wentworth</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="434" to="444" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Association of systolic blood pressure with macrovascular and microvascular complications of type 2 diabetes (UKPDS 36): prospective observational study</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">I</forename><surname>Adler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">M</forename><surname>Stratton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">A</forename><surname>Neil</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMJ</title>
+		<imprint>
+			<biblScope unit="volume">321</biblScope>
+			<biblScope unit="page" from="412" to="419" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Tight blood pressure control and risk of macrovascular and microvascular complications in type 2 diabetes: UKPDS 38</title>
+	</analytic>
+	<monogr>
+		<title level="j">BMJ</title>
+		<imprint>
+			<biblScope unit="volume">318</biblScope>
+			<biblScope unit="page" from="703" to="713" />
+			<date type="published" when="1998">1999. 1998</date>
+		</imprint>
+		<respStmt>
+			<orgName>UK Prospective Diabetes Study Group</orgName>
+		</respStmt>
+	</monogr>
+	<note>BMJ</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Effects of intensive bloodpressure lowering and low-dose aspirin in patients with hypertension: principal results of the Hypertension Optimal Treatment (HOT) randomised trial</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Hansson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Zanchetti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">G</forename><surname>Carruthers</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">351</biblScope>
+			<biblScope unit="page" from="1755" to="1762" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+		<respStmt>
+			<orgName>HOT Study Group</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Effect of blood pressure control on diabetic microvascular complications in patients with hypertension and type 2 diabetes</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">O</forename><surname>Estacio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">W</forename><surname>Jeffers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Gifford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Schrier</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="B54" to="B64" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+	<note>Suppl. 2</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">ADVANCE Collaborative Group. Effects of a fixed combination of perindopril and indapamide on macrovascular and microvascular outcomes in patients with type 2 diabetes mellitus (the ADVANCE trial): a randomised controlled trial</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Patel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Macmahon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Chalmers</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">370</biblScope>
+			<biblScope unit="page" from="829" to="840" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">The Task Force for the Management of Arterial Hypertension of the European Society of Hypertension; The Task Force for the Management of Arterial Hypertension of the European Society of Cardiology</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Mancia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">De</forename><surname>Backer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Dominiczak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cardiology</title>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<publisher>ESC</publisher>
+		</imprint>
+	</monogr>
+	<note>Guidelines for the management of arterial hypertension: the Task Force for the Management of Arterial Hypertension of the European Society of Hypertension (ESH) and of the European Society of</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Eur Heart J</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="1462" to="1536" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">evidence-based guideline for the management of high blood pressure in adults: report from the panel members appointed to the Eighth Joint National Committee (JNC 8)</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>James</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Oparil</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">L</forename><surname>Carter</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">311</biblScope>
+			<biblScope unit="page" from="507" to="520" />
+			<date type="published" when="2014">2014. 2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Outcomes of combined cardiovascular risk factor management strategies in type 2 diabetes: the ACCORD randomized trial</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">L</forename><surname>Margolis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>O'connor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">M</forename><surname>Morgan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="1721" to="1728" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Intensive blood pressure lowering in patients with and patients without type 2 diabetes: a pooled analysis from two randomized trials</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">F</forename><surname>Brouwer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Vehmeijer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">N</forename><surname>Kalkman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="1142" to="1148" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Blood pressure targets in subjects with type 2 diabetes mellitus/impaired fasting glucose: observations from traditional and Bayesian random-effects meta-analyses of randomized trials</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bangalore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Lobach</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">H</forename><surname>Messerli</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">123</biblScope>
+			<biblScope unit="page" from="2799" to="2810" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Effect of intensive versus standard blood pressure treatment according to baseline prediabetes status: a post hoc analysis of a randomized trial</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Bress</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>King</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">E</forename><surname>Kreider</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="1401" to="1408" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+		<respStmt>
+			<orgName>SPRINT Research Group</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

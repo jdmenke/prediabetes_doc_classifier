@@ -1,0 +1,1263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Interaction of Body Mass Index and Diabetes as Modifiers of Cardiovascular Mortality in a Cohort Study</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Seung</forename><forename type="middle">Hyun</forename><surname>Ma</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Preventive Medicine</orgName>
+								<orgName type="institution">Seoul National University College of Medicine</orgName>
+								<address>
+									<settlement>Seoul</settlement>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Cancer Research Institute</orgName>
+								<orgName type="institution">Seoul National University</orgName>
+								<address>
+									<settlement>Seoul</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Bo-Young</forename><surname>Park</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Cancer Epidemiology Branch</orgName>
+								<orgName type="institution">National Cancer Center</orgName>
+								<address>
+									<settlement>Goyang</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jae</forename><forename type="middle">Jeong</forename><surname>Yang</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Preventive Medicine</orgName>
+								<orgName type="institution">Seoul National University College of Medicine</orgName>
+								<address>
+									<settlement>Seoul</settlement>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Cancer Research Institute</orgName>
+								<orgName type="institution">Seoul National University</orgName>
+								<address>
+									<settlement>Seoul</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">En-Joo</forename><surname>Jung</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Preventive Medicine</orgName>
+								<orgName type="institution">Seoul National University College of Medicine</orgName>
+								<address>
+									<settlement>Seoul</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Yohwan</forename><surname>Yeo</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Preventive Medicine</orgName>
+								<orgName type="institution">Seoul National University College of Medicine</orgName>
+								<address>
+									<settlement>Seoul</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Yungi</forename><surname>Whang</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Preventive Medicine</orgName>
+								<orgName type="institution">Seoul National University College of Medicine</orgName>
+								<address>
+									<settlement>Seoul</settlement>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Biomedical Science</orgName>
+								<orgName type="institution">Seoul National University Graduate School</orgName>
+								<address>
+									<settlement>Seoul</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Soung-Hoon</forename><surname>Chang</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department">Department of Preventive Medicine</orgName>
+								<orgName type="institution">Konkuk University School of Medicine</orgName>
+								<address>
+									<settlement>Chungju</settlement>
+									<country key="KR">Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Hai-Rim</forename><surname>Shin</surname></persName>
+							<affiliation key="aff5">
+								<orgName type="institution" key="instit1">Non-communicable Disease and Health Promotion</orgName>
+								<orgName type="institution" key="instit2">Western Pacific Regional Office</orgName>
+								<orgName type="institution" key="instit3">World Health Organization</orgName>
+								<address>
+									<settlement>Manila</settlement>
+									<country key="PH">Philippines</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Daehee</forename><surname>Kang</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Preventive Medicine</orgName>
+								<orgName type="institution">Seoul National University College of Medicine</orgName>
+								<address>
+									<settlement>Seoul</settlement>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Cancer Research Institute</orgName>
+								<orgName type="institution">Seoul National University</orgName>
+								<address>
+									<settlement>Seoul</settlement>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Biomedical Science</orgName>
+								<orgName type="institution">Seoul National University Graduate School</orgName>
+								<address>
+									<settlement>Seoul</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Keun-Young</forename><surname>Yoo</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Preventive Medicine</orgName>
+								<orgName type="institution">Seoul National University College of Medicine</orgName>
+								<address>
+									<settlement>Seoul</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName><roleName>MD</roleName><forename type="first">Sue</forename><forename type="middle">Kyung</forename><surname>Park</surname></persName>
+							<email>suepark@snu.ac.kr</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Preventive Medicine</orgName>
+								<orgName type="institution">Seoul National University College of Medicine</orgName>
+								<address>
+									<settlement>Seoul</settlement>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Cancer Research Institute</orgName>
+								<orgName type="institution">Seoul National University</orgName>
+								<address>
+									<settlement>Seoul</settlement>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Biomedical Science</orgName>
+								<orgName type="institution">Seoul National University Graduate School</orgName>
+								<address>
+									<settlement>Seoul</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff6">
+								<address>
+									<addrLine>103 Daehak-ro, Jongno-gu</addrLine>
+									<postCode>110-799</postCode>
+									<settlement>Seoul</settlement>
+									<country key="KR">Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Interaction of Body Mass Index and Diabetes as Modifiers of Cardiovascular Mortality in a Cohort Study</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">1CA3D3C70F0460840AD79D30A11E50DE</idno>
+					<idno type="DOI">10.3961/jpmph.2012.45.6.394</idno>
+					<note type="submission">Received: August 9, 2012 Accepted: October 10, 2012</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.1" ident="GROBID" when="2022-07-19T23:00+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Diabetes mellitus</term>
+					<term>Body mass index</term>
+					<term>Cardiovascular diseases</term>
+					<term>Mortality</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Objectives: Diabetes and obesity each increases mortality, but recent papers have shown that lean Asian persons were at greater risk for mortality than were obese persons. The objective of this study is to determine whether an interaction exists between body mass index (BMI) and diabetes, which can modify the risk of death by cardiovascular disease (CVD).</p><p>Methods: Subjects who were over 20 years of age, and who had information regarding BMI, past history of diabetes, and fasting blood glucose levels (n=16 048), were selected from the Korea Multi-center Cancer Cohort study participants. By 2008, a total of 1290 participants had died; 251 and 155 had died of CVD and stroke, respectively. The hazard for deaths was calculated with hazard ratio (HR) and 95% confidence interval (95% CI) by Cox proportional hazard model.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results:</head><p>Compared with the normal population, patients with diabetes were at higher risk for CVD and stroke deaths (HR, 1.84; 95% CI, 1.33 to 2.56; HR, 1.82; 95% CI, 1.20 to 2.76; respectively). Relative to subjects with no diabetes and normal BMI (21 to 22.9 kg/m 2 ), lean subjects with diabetes (BMI &lt;21 kg/m 2 ) had a greater risk for CVD and stroke deaths (HR, 2.83; 95% CI, 1.57 to 5.09; HR, 3.27; 95% CI, 1.58 to 6.76; respectively), while obese subjects with diabetes (BMI ≥25 kg/m 2 ) had no increased death risk (p-interaction &lt;0.05).</p><p>This pattern was consistent in sub-populations with no incidence of hypertension.</p><p>Conclusions: This study suggests that diabetes in lean people is more critical to CVD deaths than it is in obese people.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>INTRODUCTION</head><p>Diabetes is one of the most rapidly increasing public health issues. The prevalence rate of diabetes is expected to show a continual increase from 2.8% in 2000 to 4.4% in 2030, and the rate of increase will be higher in developing countries than in developed countries <ref type="bibr" target="#b0">[1]</ref>. In South Korea, the prevalence rate in adults 30 years of age and older has rapidly increased from 1% to 4% in the 1970s to 9.5% in 2007 (the National Nutrition Survey <ref type="bibr" target="#b1">[2]</ref>).</p><p>Obesity is an independent risk factor for diabetes <ref type="bibr" target="#b2">[3]</ref>. Although insulin secretion is increased in obese persons, insulin action is decreased; these are the clinical conditions of type 2 diabetes <ref type="bibr" target="#b3">[4,</ref><ref type="bibr" target="#b4">5]</ref>.</p><p>Obesity is consistently associated with an increased risk in all causes of mortality, and particularly with cardiovascular disease (CVD), including ischemic heart diseases <ref type="bibr" target="#b5">[6]</ref><ref type="bibr" target="#b6">[7]</ref><ref type="bibr" target="#b7">[8]</ref><ref type="bibr" target="#b8">[9]</ref>. Diabetes is also associated with an increased risk for all-cause and CVD deaths <ref type="bibr" target="#b9">[10]</ref>. Obesity is a risk factor for both diabetes and cardiovascular morbidity and mortality; therefore, the direct association between body mass index (BMI) and cardiovascular mortality observed in the general population might be expected. Persons with both disorders are expected to be at a higher risk for death relative to normal persons without both disorders because both factors are risk factors for CVD death. However, the combined effect of diabetes and obesity for CVD mortality may be more complicated and may generate results that are different from these simple expectations. This study was designed to explore the combined effects of weight status and diabetes on cardiovascular mortality in prospective cohort study.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>METHODS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study Population and Data Collection</head><p>The study population was selected from the Korean Multicenter Cancer Cohort (KMCC), a community-based prospective cohort, and from participants recruited from urban and rural areas in Korea (Haman, Chungju, Uljin, and Youngil). The KMCC is described in more depth in a previous study <ref type="bibr" target="#b10">[11]</ref>.</p><p>We excluded 2361 of the KMCC participants whose enrollment age was under 20 years; 1527 who had no fasting blood glucose (FBG) levels, and 79 with no past medical history for diabetes. We ultimately analyzed 16 048 individuals in this study. By <ref type="bibr">December 31, 2008</ref>, the total person-years were 147 296 person-years, and the median follow-up duration was 9.41 years.</p><p>Information on general lifestyle, anthropometric measurements, diet, cigarette smoking, alcohol consumption, reproductive factors, and other environmental factors were obtained using structured questionnaire interviews. Anthropometric indices (height, weight, etc.) were measured directly using standard methods during the baseline physical examination. Weight and height were measured to the nearest 0.5 kg and 0.5 cm, respectively. BMI was calculated as weight (kg), / height (m 2 ) and was categorized as &lt;21, 21 to 22.9, 23 to 24.9, and ≥25 kg/m 2 <ref type="bibr" target="#b11">[12]</ref>. Blood was collected after overnight fasting to determine FBG levels.</p><p>The study protocol for the KMCC was approved by the institutional review boards of Seoul National University and the National Cancer Center of Korea (H0110-084-002, C-1012-082-344).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Definition of Main Exposure and Outcome Variables</head><p>We used a combined definition that incorporated the past diagnosis of diabetes and the FBG levels at enrollment. Participants with diabetes were classified as patients having known diabetes mellitus (i.e., patients diagnosed as diabetic in a hospital or having undergone previous treatment for diabetes) or FBG ≥126 mg/dL. Participants with impaired glucose tolerance (IGT) were defined as having FBG levels of 100 to 125 mg/dL and no past history of diabetes. Those with 'No diabetes' was defined as having FBG levels of no more than 100 mg/dL and no past history of diabetes <ref type="bibr" target="#b12">[13]</ref>.</p><p>Overweight and obesity were defined by the World Health Organization (WHO) Asia-Pacific Guideline (overweight, 23≤ BMI &lt;25 kg/m 2 ; obesity, BMI &gt;25 kg/m 2 ). Optimum BMI levels were defined as a BMI of 21 to 22.9 kg/m 2 , based on a WHO expert consultation report <ref type="bibr" target="#b11">[12]</ref> and BMI &lt;21 kg/m 2 was defined as underweight in this study population.</p><p>We classified the cause of death according to the International Classification of Disease 10th revision (ICD-10). We used the national death certificate database and merged death certificate data until December 31, 2008. Deaths were divided into those resulting from CVD (ICD-10 codes I00-I99) <ref type="bibr" target="#b13">[14]</ref>, diseases of the heart (ICD-10 codes I00-I09, I11, I13, I20 -I51), and stroke (ICD-10 codes I60-I69) <ref type="bibr" target="#b14">[15]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical Analysis</head><p>Differences in means and proportions for baseline characteristics of the combined definition of past diagnosis of diabetes mellitus (DM) and FBG were tested using 1-way ANOVA and chi-square analyses, respectively. The Cox proportional hazards regression was used to estimate hazard ratios (HRs) and 95% confidence intervals (CIs) for CVD mortality. Co-linearity between covariates was examined by calculating the mean and individual covariate variance inflation factors. None of the individual covariate variance inflation factors was greater than 1.5 and the mean variance inflation factor for all covariates included in the CVD models was 1.03. The assumption that each predictor affects mortality proportionally over the entire follow-up period was examined using graphical methods and was found to be reasonable for all the predictors considered here. The significance of the explanatory variables in-cluded in the Cox models was computed by the likelihood-ratio test. Tests for trend were performed by using the ordered category as a continuous variable in the proportional hazard model.</p><p>We evaluated whether the association between diabetes and mortality was modified by obesity. The group with normal BMI (21 to 22.9) and no diabetes were chosen as a reference, to look into mortality according to the joint classification of BMI and the combined definition of past diagnosis of DM and FBG. We used the Cox regression model to test for an interaction the diabetes group and obesity group. To test an interaction, we performed the analysis including diabetes group, obesity group and multiplicative interaction terms of both. Statistical significance of interaction was assumed at a p-value of 0.05 or smaller.</p><p>Since cigarette smoking <ref type="bibr" target="#b15">[16]</ref>, alcohol consumption <ref type="bibr" target="#b16">[17]</ref>, and hypertension <ref type="bibr" target="#b17">[18]</ref> are associated with higher risk for CVD deaths, we re-evaluated the combined effect between diabetes and BMI in the group without these three major risk factors. Analyses were done with SAS version 9.2 (SAS Institute Inc., Cary, NC, USA).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head><p>Selected characteristics of the subjects are presented in Table <ref type="table" target="#tab_0">1</ref>. A total of 16 048 people were subjects of the analysis, with 60% females, and the total mean age was 55.7 years of age. At baseline (1993), subjects with diabetes were associated with greater age, higher levels of BMI, smoking status, and history of hypertension, but with a lower likelihood of being female, having a high education status, or alcohol drinking.</p><p>Table <ref type="table" target="#tab_1">2</ref> shows the HRs (95% CIs) of diabetes and IGT for CVD mortality, relative to the normal population without IGT and diabetes, in the KMCC cohort study subjects from 1993 to 2008. The hazard for CVD death was increased from that of the normal population by having diabetes or IGT (p&lt;0.001). Compared to the normal population, subjects with diabetes had a 1.84-fold higher risk of CVD death (95% CI, 1.33 to 2.56). The hazard for heart disease and stroke also showed an increasing trend from the normal population to the IGT group to the diabetes groups (p-trend, 0.09 and 0.01, respectively). Diabetes was associated with a 1.84-fold and a 1.82-fold higher risk for  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Interaction Between Diabetes and BMI for CVD Mortality</head><p>heart disease and stroke deaths, respectively (95% CI, 1.04 to 3.24; 95% CI, 1.20 to 2.76).</p><p>Table <ref type="table" target="#tab_2">3</ref> shows the HRs (95% CIs) for each category of diabetes and BMI for CVD mortality, relative to the normal population without IGT/diabetes and with optimal BMI levels, in the KMCC cohort study subjects from 1993 to 2008. Relative to diabetic subjects having optimal BMI levels and no IGT, the underweight diabetes group had a risk of CVD death (HR, 2.83; 95% CI, 1.57 to 5.09), whereas the obese diabetes group had a risk for CVD death similar to the reference group (HR, 1.15; 95% CI, 0.60 to 2.21). The risk for CVD death differed according to the presence of obesity and diabetes (p-for interaction, 0.019). Heart disease and stroke mortality also showed similar results. The hazard ratio of the underweight diabetes group was highest for heart disease and stroke (HR, 2.17; 95% CI, 0.70 to 6.73; HR, 3.27; 95% CI, 1.58 to 6.76; respectively). On the other hand, the obese diabetes group did not show any differences in heart disease and stroke mortality compared to the reference group (HR, 1.43; 95% CI, 0.51 to 4.04; HR, 0.98; 95% CI, 0.39 to 2.42; respectively). With respect to stroke mortality, the BMI and diabetes status showed a significant interaction (p-for interaction, 0.025); however, for heart disease mortality, no interaction was apparent (p-for interaction, 0.709).</p><p>Table <ref type="table" target="#tab_3">4</ref> shows the HRs (95% CIs) for each category of diabetes and BMI for CVD mortality, relative to the normal population without IGT or diabetes and with optimal BMI levels, among nonsmokers, nondrinkers, and subjects without hypertension history. Among nondrinkers and subjects without hypertension history, the risk for CVD and stroke mortality was significantly increased in the underweight diabetes group when compared to the reference group (for CVD: HR, 2.84; 95% CI, 1.26 to 6.38 and HR, 3.10; 95% CI, 1.72 to 5.61; for stroke: HR, 3.81; 95% CI, 1.44 to 10.99 and HR, 3.75; 95% CI, 1.79 to 7.84; respectively). Among nonsmokers, the risk elevation in the underweight diabetes group was maintained, although not statistically significant. In contrast, the risk for CVD and stroke was concurrently decreased in both the underweight non-diabetes and the non-IGT and obese diabetes groups without hypertension history (p-for interaction, 0.004 for CVD death; 0.012 for stroke death), although not statistically significant.</p><p>We shows that each of the three diabetes groups showed an increased hazard ratio as BMI decreased, when compared to the obese group (data are not shown). The normal and IGT groups showed no change in all mortality, while in the diabe- </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCUSSION</head><p>In this prospective cohort study, we found that lean persons (BMI &lt;21 kg/m 2 ) with diabetes had at an elevated risk for CVD death, whereas obese persons (BMI ≥25 kg/m 2 ) with diabetes Adjusted for age (5-year categories), gender, educational attainment (high school graduate versus more), cigarette smoking (never, current, and past) and alcohol consumption (never, current, and past).</p><p>Interaction Between Diabetes and BMI for CVD Mortality had no elevated risk for death. These results are consistent in a hypertension-free population; a similar pattern is found in nonsmokers and nondrinkers, despite a lack of statistical significance due to the small sample size. Some recent studies match the conclusion of our study <ref type="bibr" target="#b18">[19]</ref>. However, BMI and CVD mortality with respect to diabetes currently show a variety of results, including positive <ref type="bibr" target="#b19">[20,</ref><ref type="bibr" target="#b20">21]</ref>, inverse <ref type="bibr" target="#b21">[22]</ref>, and null <ref type="bibr" target="#b22">[23]</ref> associations. For example, the study by Batty et al. <ref type="bibr" target="#b19">[20]</ref>, which targeted only Caucasian males, indicated that the diabetes group shows an increased CVD mortality as BMI increases. However, a different study that compared BMI and CVD mortality in White and African-American males showed different results <ref type="bibr" target="#b23">[24]</ref>. A study by Khalangot et al. <ref type="bibr" target="#b20">[21]</ref>, which targeted patients with diabetes, indicated an increased mortality in the underweight group, no increased mortality in class I obesity (BMI, 30 to 34.9), similar to our results, however a severely obese group (BMI ≥35) showed increased mortality. However, these findings have low comparability with our study since the study was focused on Ukrainian people.</p><p>A study by Weiss et al. <ref type="bibr" target="#b21">[22]</ref> indicated a decreased mortality in patients with diabetes as their weight increased. It is difficult to apply the findings of this study to our study, or to generalize the results, since the study was focused on an elderly, hospitalized population. A study by Nilsson et al. <ref type="bibr" target="#b18">[19]</ref>, which targeted the general population group, indicated that the cause of mortality as an outcome was a combined effect of diabetes and BMI, similar to the findings of our study, but no analysis of CVD mortality was possible because the targeted number of patients was only 432 people. Generalization to the entire population was also difficult since this study was focused on a population group consisting of people over 75 years old.</p><p>The findings of the present study show interaction of BMI and diabetes to modify cardiovascular mortality in sub-populations without cigarette smoking, alcohol drinking or hypertension. Our results also indicated that subjects without hypertension history were consistent. However, nonsmokers and non-drinker groups tended to be consistent but the results were not statistically different from the main results of the present study. In the case of smoking and drinking, Nonsmokers and non-drinker groups had more deaths resulting from causes other than CVD and stroke mortality. The obesity paradox implies paradoxically decreased mortality in association with increasing BMI up to and including obesity and has been reported among patients with hypertension <ref type="bibr" target="#b24">[25]</ref>. To our results, a combined effect of BMI and diabetes could modify CVD and stroke mortality without the obesity paradox effect of hypertension.</p><p>In the general population, obesity is a risk factor for both diabetes and CVD mortality <ref type="bibr" target="#b25">[26,</ref><ref type="bibr" target="#b26">27]</ref>. A positive association between obesity and CVD mortality has also been identified in individuals with coronary heart disease at baseline <ref type="bibr" target="#b27">[28]</ref> . Therefore, the lack of an association between increasing BMI and CVD mortality observed in the present study seemed counterintuitive.</p><p>We suggest several explanations for the protective effect of elevated BMI on mortality in subjects with diabetes. For example, overweight may reflect the protective effects of increased energy stores. In end-stage renal patients, protein-energy wasting and inflammation contribute to elevated mortality and underpin the direct association observed between BMI and survival <ref type="bibr" target="#b28">[29,</ref><ref type="bibr" target="#b29">30]</ref>. The increased energy stores in subjects with diabetes who also have elevated BMI may therefore protect them from similar energy wasting and inflammation. Indeed, adipose tissue acts as a buffer against malnutrition and may represent an evolutionary survival advantage <ref type="bibr" target="#b30">[31]</ref>.</p><p>Our study has some limitations. For example, BMI was measured on only a single occasion. As such, the potential impact of weight change over time cannot be assessed. Therefore, obese or overweight people who lost weight may have altered their survival. A second possibility is that the lowest BMI values in the present study may possibly have resulted from a catabolic process and did not reflect long-term thinness. Subjects with less than one year of follow up were omitted from the analysis, to minimize the impact of this possibility. Another limitation is that the use of self-reported information prevented us from distinguishing between the two types of the disease. The possibility of weight loss after diagnosis of diabetes (mainly of type 1) would result in an underestimate of the role of BMI in determining the risk of the disease. However, the prevalence of type 1 diabetes is substantially lower than that of type 2 diabetes in this region <ref type="bibr" target="#b31">[32,</ref><ref type="bibr" target="#b32">33]</ref> and type 1 diabetes also increases CVD mortality <ref type="bibr" target="#b33">[34]</ref> so that an inability to distinguish between types of diabetes probably does not substantially affect the interpretation of the results. The use of self-reported diabetes may also represent some measurement error; however, studies conducted in community-based populations have found self-reported diabetes to be moderately to highly accurate in determining disease status <ref type="bibr" target="#b34">[35]</ref>.</p><p>Nonetheless, the present study has the following merits. First, it can clearly identify the timing of the findings according to a Seung Hyun Ma, et al. population based prospective cohort and it indicates a decreased possibility of bias resulting in potential confounding variables due to memory, according to the survey data. In addition, the median length of follow-up was 9.4 years (25 to 75 percentile; 5.8 to 11.6 years), which provided relatively good statistical power.</p><p>The present investigation demonstrates that lean people with diabetes constitute a high-risk group for CVD mortality. No similar effect on CVD mortality is seen in overweight or obese people, either with or without diabetes. These observations can have important clinical implications because they indicate that in lean people with diabetes might have a worse prognostic significance than in normal and obese people with diabetes or without diabetes.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head></head><label></label><figDesc>pISSN 1975-8375 eISSN 2233-4521</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 .</head><label>1</label><figDesc>General characteristics of the study population at the time of recruitment</figDesc><table><row><cell></cell><cell>Normal population (n=11 791)</cell><cell>Subjects with IGT (n=2545)</cell><cell>Subjects (n=1712) with diabetes</cell><cell>p-value</cell></row><row><cell>Age</cell><cell cols="4">55.4 (12.1) 56.0 (12.4) 57.1 (11.8) &lt;0.001</cell></row><row><cell cols="4">Body mass index (kg/m 2 ) 23.5 (3.3) 23.6 (3.3) 24.3 (3.4)</cell><cell>&lt;0.001</cell></row><row><cell cols="2">Duration of follow-up (y) 9.0 (3.4)</cell><cell>9.8 (4.1)</cell><cell>9.2 (4.0)</cell><cell>&lt;0.001</cell></row><row><cell>Female</cell><cell>60.4</cell><cell>58.6</cell><cell>58.1</cell><cell>0.07</cell></row><row><cell>Educated</cell><cell>78.8</cell><cell>74.1</cell><cell>71.6</cell><cell>&lt;0.001</cell></row><row><cell>Current smoker</cell><cell>27.4</cell><cell>28.4</cell><cell>28.5</cell><cell>0.03</cell></row><row><cell>Current drinker</cell><cell>38.0</cell><cell>37.3</cell><cell>35.6</cell><cell>0.006</cell></row><row><cell>History of hypertension</cell><cell>9.9</cell><cell>12.4</cell><cell>19.6</cell><cell>&lt;0.001</cell></row></table><note>Values are presented as mean (SD) or %. IGT, impaired glucose tolerance.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 .</head><label>2</label><figDesc>HRs (95% CIs) of diabetes and IGT for cardiovascular disease mortality relative to normal population without IGT and diabetes in the KMCC cohort population from 1993 to 2008</figDesc><table><row><cell></cell><cell>Person-year</cell><cell>No. of deaths</cell><cell>HR (95% CI) 1</cell><cell>HR (95% CI) 2</cell></row><row><cell cols="3">Cardiovascular disease mortality 3</cell><cell></cell></row><row><cell>Normal</cell><cell>106 657</cell><cell>161</cell><cell cols="2">1.00 (reference) 1.00 (reference)</cell></row><row><cell>IGT</cell><cell>24 849</cell><cell>41</cell><cell cols="2">1.09 (0.77, 1.54) 1.05 (0.74, 1.49)</cell></row><row><cell>Diabetes</cell><cell>15 788</cell><cell>49</cell><cell cols="2">1.92 (1.39, 2.64) 1.84 (1.33, 2.56)</cell></row><row><cell>p-trend</cell><cell></cell><cell></cell><cell>&lt;0.001</cell><cell>&lt;0.001</cell></row><row><cell cols="2">Heart disease mortality 4</cell><cell></cell><cell></cell></row><row><cell>Normal</cell><cell>106 657</cell><cell>50</cell><cell cols="2">1.00 (reference) 1.00 (reference)</cell></row><row><cell>IGT</cell><cell>24 849</cell><cell>13</cell><cell cols="2">1.06 (0.57, 1.94) 1.00 (0.54, 1.85)</cell></row><row><cell>Diabetes</cell><cell>15 788</cell><cell>15</cell><cell cols="2">1.93 (1.10, 3.38) 1.84 (1.04, 3.25)</cell></row><row><cell>p-trend</cell><cell></cell><cell></cell><cell>0.07</cell><cell>0.09</cell></row><row><cell>Stroke mortality 5</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Normal</cell><cell>106 657</cell><cell>99</cell><cell cols="2">1.00 (reference) 1.00 (reference)</cell></row><row><cell>IGT</cell><cell>24 849</cell><cell>26</cell><cell cols="2">1.14 (0.74, 1.75) 1.09 (0.71, 1.69)</cell></row><row><cell>Diabetes</cell><cell>15 788</cell><cell>30</cell><cell cols="2">1.92 (1.27, .89) 1.82 (1.20, 2.76)</cell></row><row><cell>p-trend</cell><cell></cell><cell></cell><cell>0.008</cell><cell>0.01</cell></row><row><cell cols="3">Other cardiovascular disease mortality 6</cell><cell></cell></row><row><cell>Normal</cell><cell>106 657</cell><cell>10</cell><cell cols="2">1.00 (reference) 1.00 (reference)</cell></row><row><cell>IGT</cell><cell>24 849</cell><cell>2</cell><cell cols="2">0.86 (0.19, 3.92) 0.89 (0.19, 4.17)</cell></row><row><cell>Diabetes</cell><cell>15 788</cell><cell>3</cell><cell cols="2">1.85 (0.51, 6.71) 1.82 (0.49, 6.81)</cell></row><row><cell>p-trend</cell><cell></cell><cell></cell><cell>0.60</cell><cell>0.63</cell></row><row><cell cols="5">HR, hazard ratio; CI, confidence interval; IGT, impaired glucose tolerance;</cell></row><row><cell cols="5">KMCC, Korean Multi-center Cancer Cohort; ICD-10, International Classifica-</cell></row><row><cell cols="2">tion of Disease 10th revision.</cell><cell></cell><cell></cell></row><row><cell cols="3">1 Adjusted for age (5-year categories).</cell><cell></cell></row><row><cell cols="5">2 Adjusted for age (5-year categories), gender, educational attainment (high</cell></row><row><cell cols="5">school graduate versus more, cigarette smoking (never, current, and past),</cell></row><row><cell cols="5">alcohol consumption (never, current, and past), past history of hypertension</cell></row></table><note>(yes/no) and body mass index (&lt;21, 21-22.9, 23-24.9, ≥25).</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3 .</head><label>3</label><figDesc>Hazard ratios 1 (95% confidence intervals) of each category of diabetes and BMI for cardiovascular disease mortality relative to normal population without IGT, diabetes, and with optimal BMI levels in the KMCC cohort population from 1993 to 2008</figDesc><table><row><cell></cell><cell>Person-year</cell><cell>No. of deaths</cell><cell>Normal</cell><cell>No. of deaths</cell><cell>IGT</cell><cell>No. of deaths</cell><cell>Diabetes</cell><cell>p-interac-tion</cell></row><row><cell cols="2">Cardiovascular disease mortality 2</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>BMI &lt;21</cell><cell>30 012</cell><cell>34</cell><cell>0.88 (0.56, 1.40)</cell><cell>11</cell><cell>1.02 (0.52, 1.99)</cell><cell>16</cell><cell>2.83 (1.57, 5.09)</cell><cell>0.02</cell></row><row><cell>21-22.9</cell><cell>32 823</cell><cell>39</cell><cell>1.00 (reference)</cell><cell>10</cell><cell>0.98 (0.49, 1.97)</cell><cell>12</cell><cell>2.10 (1.09, 4.02)</cell><cell></cell></row><row><cell>23-24.9</cell><cell>32 736</cell><cell>32</cell><cell>0.91 (0.57, 1.46)</cell><cell>6</cell><cell>0.67 (0.29, 1.59)</cell><cell>6</cell><cell>1.17 (0.49, 2.77)</cell><cell></cell></row><row><cell>≥25</cell><cell>42 004</cell><cell>49</cell><cell>1.09 (0.71, 1.68)</cell><cell>13</cell><cell>1.30 (0.69, 2.45)</cell><cell>12</cell><cell>1.15 (0.60, 2.21)</cell><cell></cell></row><row><cell>Heart disease mortality 3</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>BMI &lt;21</cell><cell>30 012</cell><cell>12</cell><cell>0.91(0.41, 2.01)</cell><cell>4</cell><cell>1.07 (0.35, 3.31)</cell><cell>4</cell><cell>2.17 (0.70, 6.73)</cell><cell>0.71</cell></row><row><cell>21-22.9</cell><cell>32 823</cell><cell>13</cell><cell>1.00 (reference)</cell><cell>5</cell><cell>1.44 (0.51, 4.08)</cell><cell>4</cell><cell>2.03 (0.66, 6.25)</cell><cell></cell></row><row><cell>23-24.9</cell><cell>32 736</cell><cell>9</cell><cell>0.77 (0.33, 1.79)</cell><cell>2</cell><cell>0.67 (0.15, 2.96)</cell><cell>2</cell><cell>1.28 (0.29, 5.71)</cell><cell></cell></row><row><cell>≥25</cell><cell>42 004</cell><cell>16</cell><cell>1.16 (0.56, 2.43)</cell><cell>2</cell><cell>0.62 (0.14, 2.75)</cell><cell>5</cell><cell>1.43 (0.51, 4.04)</cell><cell></cell></row><row><cell>Stroke mortality 4</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>BMI &lt;21</cell><cell>30 012</cell><cell>20</cell><cell>0.89 (0.49, 1.63)</cell><cell>7</cell><cell>1.12 (0.48, 2.63)</cell><cell>11</cell><cell>3.27 (1.58, 6.76)</cell><cell>0.03</cell></row><row><cell>21-22.9</cell><cell>32 823</cell><cell>23</cell><cell>1.00 (reference)</cell><cell>4</cell><cell>0.67 (0.23, 1.95)</cell><cell>8</cell><cell>2.43 (1.08, 5.44)</cell><cell></cell></row><row><cell>23-24.9</cell><cell>32 736</cell><cell>22</cell><cell>1.06 (0.59, 1.91)</cell><cell>4</cell><cell>0.77 (0.26, 2.21)</cell><cell>3</cell><cell>0.95 (0.28, 3.16)</cell><cell></cell></row><row><cell>≥25</cell><cell>42 004</cell><cell>29</cell><cell>1.12 (0.64, 1.94)</cell><cell>10</cell><cell>1.69 (0.79, 3.56)</cell><cell>6</cell><cell>0.98 (0.39, 2.42)</cell><cell></cell></row></table><note>BMI, body mass index; IGT, impaired glucose tolerance; KMCC, Korean Multi-center Cancer Cohort; ICD-10, International Classification of Disease 10th revision.1 Adjusted for age (5-year categories), gender, educational attainment (high school graduate versus more), cigarette smoking (never, current, and past), alcohol consumption (never, current, and past) and past history of hypertension (yes/no).2 ICD-10 codes of I00-I99.3 ICD-10 codes of I00-I09, I11, I13, I20-I51. 4 ICD-10 codes of I60-I69.Seung Hyun Ma, et al. tes group, CVD and stroke mortality increased in the underweight group (HR, 2.34; 95% CI, 1.06 to 5.19; HR, 2.99; 95% CI, 1.01 to 8.58; respectively).</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 4 .</head><label>4</label><figDesc>Hazard ratios (95% confidence intervals) of each category of diabetes and BMI for cardiovascular disease mortality among subjects without cigarette smoking, alcohol consumption, or hypertension in the KMCC cohort population from 1993 to 2008</figDesc><table><row><cell></cell><cell cols="3">Person-year No. of deaths</cell><cell>Normal</cell><cell>IGT</cell><cell>Diabetes</cell><cell>p-interaction</cell></row><row><cell cols="2">Cardiovascular disease mortality 1</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Nonsmokers 2</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>BMI</cell><cell>&lt;21</cell><cell>14 890</cell><cell>26</cell><cell>0.85 (0.47, 1.52)</cell><cell>0.35 (0.08, 1.48)</cell><cell>1.92 (0.74, 5.00)</cell><cell>0.44</cell></row><row><cell></cell><cell>21-22.9</cell><cell>19 552</cell><cell>41</cell><cell>1.00 (reference)</cell><cell>0.93 (0.38, 2.26)</cell><cell>1.65 (0.72, 3.79)</cell><cell></cell></row><row><cell></cell><cell>23-24.9</cell><cell>21 291</cell><cell>29</cell><cell>0.71 (0.40, 1.26)</cell><cell>0.74 (0.29, 1.92)</cell><cell>0.89 (0.27, 2.92)</cell><cell></cell></row><row><cell></cell><cell>≥25</cell><cell>30 424</cell><cell>56</cell><cell>0.95 (0.58, 1.57)</cell><cell>1.21 (0.59, 2.50)</cell><cell>1.03 (0.49, 2.19)</cell><cell></cell></row><row><cell>Nondrinkers 3</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>BMI</cell><cell>&lt;21</cell><cell>16 167</cell><cell>34</cell><cell>1.05 (0.59, 1.88)</cell><cell>0.52 (0.16, 1.75)</cell><cell>2.84 (1.26, 6.38)</cell><cell>0.12</cell></row><row><cell></cell><cell>21-22.9</cell><cell>18 115</cell><cell>37</cell><cell>1.00 (reference)</cell><cell>1.11 (0.45, 2.73)</cell><cell>1.95 (0.84, 4.56)</cell><cell></cell></row><row><cell></cell><cell>23-24.9</cell><cell>19 126</cell><cell>27</cell><cell>0.91 (0.49, 1.65)</cell><cell>0.74 (0.26, 2.15)</cell><cell>1.07 (0.32, 3.57)</cell><cell></cell></row><row><cell></cell><cell>≥25</cell><cell>26 012</cell><cell>52</cell><cell>1.19 (0.70, 2.04)</cell><cell>1.69 (0.83, 3.49)</cell><cell>1.02 (0.44, 2.38)</cell><cell></cell></row><row><cell cols="3">Subjects without hypertension history 4</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>BMI</cell><cell>&lt;21</cell><cell>28 470</cell><cell>55</cell><cell>0.68 (0.41, 1.12)</cell><cell>1.07 (0.54, 2.10)</cell><cell>3.10 (1.72, 5.61)</cell><cell>0.004</cell></row><row><cell></cell><cell>21-22.9</cell><cell>30 423</cell><cell>57</cell><cell>1.00 (reference)</cell><cell>0.86 (0.39, 1.84)</cell><cell>2.04 (1.04, 4.01)</cell><cell></cell></row><row><cell></cell><cell>23-24.9</cell><cell>29 585</cell><cell>36</cell><cell>0.74 (0.44, 1.23)</cell><cell>0.74 (0.31, 1.76)</cell><cell>1.23 (0.49, 3.15)</cell><cell></cell></row><row><cell></cell><cell>≥25</cell><cell>35 518</cell><cell>55</cell><cell>0.97 (0.61, 1.54)</cell><cell>1.32 (0.67, 2.59)</cell><cell>0.82 (0.37, 1.84)</cell><cell></cell></row><row><cell>Stroke mortality 5</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Nonsmokers 2</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>BMI</cell><cell>&lt;21</cell><cell>14 890</cell><cell>16</cell><cell>0.92 (0.42, 2.01)</cell><cell>0.33 (0.04, 2.51)</cell><cell>2.89 (0.96, 8.79)</cell><cell>0.42</cell></row><row><cell></cell><cell>21-22.9</cell><cell>19 552</cell><cell>22</cell><cell>1.00 (reference)</cell><cell>0.87 (0.25, 3.01)</cell><cell>1.77 (0.59, 5.36)</cell><cell></cell></row><row><cell></cell><cell>23-24.9</cell><cell>21 291</cell><cell>21</cell><cell>1.07 (0.53, 2.16)</cell><cell>1.13 (0.38, 3.42)</cell><cell>0.54 (0.07, 4.07)</cell><cell></cell></row><row><cell></cell><cell>≥25</cell><cell>30 424</cell><cell>33</cell><cell>1.01 (0.52, 1.97)</cell><cell>1.78 (0.75, 4.22)</cell><cell>1.08 (0.39, 2.97)</cell><cell></cell></row><row><cell>Nondrinkers 3</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>BMI</cell><cell>&lt;21</cell><cell>16 167</cell><cell>20</cell><cell>1.05 (0.49, 2.28)</cell><cell>0.31 (0.04, 2.39)</cell><cell>3.81 (1.44, 10.09)</cell><cell>0.14</cell></row><row><cell></cell><cell>21-22.9</cell><cell>18 115</cell><cell>18</cell><cell>1.00 (reference)</cell><cell>0.65 (0.15, 2.90)</cell><cell>1.49 (0.43, 5.26)</cell><cell></cell></row><row><cell></cell><cell>23-24.9</cell><cell>19 126</cell><cell>21</cell><cell>1.28 (0.62, 2.66)</cell><cell>0.98 (0.28, 3.47)</cell><cell>1.23 (0.28, 5.48)</cell><cell></cell></row><row><cell></cell><cell>≥25</cell><cell>26 012</cell><cell>31</cell><cell>1.28 (0.63, 2.57)</cell><cell>2.17 (0.89, 5.23)</cell><cell>0.77 (0.22, 2.71)</cell><cell></cell></row><row><cell cols="3">Subjects without hypertension with diabetes 4</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>BMI</cell><cell>&lt;21</cell><cell>28 470</cell><cell>34</cell><cell>0.74 (0.39, 1.42)</cell><cell>1.24 (0.53, 2.93)</cell><cell>3.75 (1.79, 7.84)</cell><cell>0.012</cell></row><row><cell></cell><cell>21-22.9</cell><cell>30 423</cell><cell>31</cell><cell>1.00 (reference)</cell><cell>0.58 (0.17, 1.93)</cell><cell>2.37 (1.04, 5.58)</cell><cell></cell></row><row><cell></cell><cell>23-24.9</cell><cell>29 585</cell><cell>23</cell><cell>0.92 (0.49, 1.75)</cell><cell>0.89 (0.31, 2.59)</cell><cell>0.86 (0.20, 3.68)</cell><cell></cell></row><row><cell></cell><cell>≥25</cell><cell>35 518</cell><cell>34</cell><cell>1.03 (0.56, 1.88)</cell><cell>1.75 (0.77, 3.95)</cell><cell>1.07 (0.40, 2.84)</cell><cell></cell></row><row><cell cols="8">BMI, body mass index; KMCC, Korean Multi-center Cancer Cohort; IGT, impaired glucose ICD-10, International Classification of Disease 10th revision.</cell></row><row><cell cols="2">1 ICD-10 codes of I00-I99.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="8">2 Adjusted for age (5-year categories), gender, educational attainment (high school graduate versus more), alcohol consumption (never, current, and past) and</cell></row><row><cell cols="2">past history of hypertension (yes/no).</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table><note>3Adjusted for age (5-year categories), gender, educational attainment (high school graduate versus more), cigarette smoking (never, current, and past) and past history of hypertension (yes/no).4</note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="3">ICD-10 codes of I00-I99.<ref type="bibr" target="#b3">4</ref> ICD-10 codes of I00-I09, I11, I13, I20-I51.<ref type="bibr" target="#b4">5</ref> ICD-10 codes of I60-I69.<ref type="bibr" target="#b5">6</ref> ICD-10 codes of I10 ,I12,I14-I19, I52-59, and I70-I99.</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">ICD-10 codes of I60-I69.</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>ACKNOWLEDGEMENTS</head></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CONFLICT OF INTEREST</head><p>The authors have no conflicts of interest with the material presented in this paper.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Global prevalence of diabetes: estimates for the year 2000 and projections for 2030</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Wild</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Roglic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Green</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Sicree</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>King</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="1047" to="1053" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">The Korea Centers for Disease Control and Prevention. Korean National Health and Nutrition Examination Survey</title>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note>cited</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Prediction of incident diabetes mellitus in middle-aged adults: the Framingham Offspring Study</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">W</forename><surname>Wilson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Meigs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Sullivan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Fox</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Nathan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D' Agostino Rb</forename><surname>Sr</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">167</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="1068" to="1074" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Body mass index and diabetes in Asia: a cross-sectional pooled analysis of 900,000 individuals in the Asia cohort consortium</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Boffetta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Mclerran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Inoue</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Sinha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>He</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS One</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page">e19930</biblScope>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Prevalence of obesity, diabetes, and obesity-related health risk factors</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">H</forename><surname>Mokdad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Ford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Bowman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">H</forename><surname>Dietz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Vinicor</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Vs</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">289</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="76" to="79" />
+			<date type="published" when="2001">2001. 2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Overweight, obesity, and mortality from cancer in a prospectively studied cohort of U.S. adults</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">E</forename><surname>Calle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Rodriguez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Walker-Thurmond</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Thun</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">348</biblScope>
+			<biblScope unit="issue">17</biblScope>
+			<biblScope unit="page" from="1625" to="1638" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Bodymass index and mortality in a prospective cohort of U.S. adults</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">E</forename><surname>Calle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Thun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Petrelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Rodriguez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">W</forename><surname>Heath</surname><genName>Jr</genName></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">341</biblScope>
+			<biblScope unit="issue">15</biblScope>
+			<biblScope unit="page" from="1097" to="1105" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Body-mass index and cause-specific mortality in 900 000 adults: collaborative analyses of 57 prospective studies</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Whitlock</surname></persName>
+			<affiliation>
+				<orgName type="collaboration">Prospective Studies Collaboration</orgName>
+			</affiliation>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lewington</surname></persName>
+			<affiliation>
+				<orgName type="collaboration">Prospective Studies Collaboration</orgName>
+			</affiliation>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Sherliker</surname></persName>
+			<affiliation>
+				<orgName type="collaboration">Prospective Studies Collaboration</orgName>
+			</affiliation>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Clarke</surname></persName>
+			<affiliation>
+				<orgName type="collaboration">Prospective Studies Collaboration</orgName>
+			</affiliation>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Emberson</surname></persName>
+			<affiliation>
+				<orgName type="collaboration">Prospective Studies Collaboration</orgName>
+			</affiliation>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">373</biblScope>
+			<biblScope unit="issue">9669</biblScope>
+			<biblScope unit="page" from="1083" to="1096" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Association between body-mass index and risk of death in more than 1 million Asians</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Zheng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">F</forename><surname>Mclerran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Rolland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Inoue</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Matsuo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">364</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="719" to="729" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Risk of cardiovascular and all-cause mortality in individuals with diabetes mellitus, impaired fasting glucose, and impaired glucose tolerance: the Australian Diabetes, Obesity, and Lifestyle Study (AusDiab)</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">L</forename><surname>Barr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">Z</forename><surname>Zimmet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Welborn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Jolley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Magliano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Dunstan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">116</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="151" to="157" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Korean Multi-center Cancer Cohort Study including a Biological Materials Bank (KMCC-I)</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">Y</forename><surname>Yoo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">R</forename><surname>Shin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Chang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">S</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Asian Pac J Cancer Prev</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="85" to="92" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Appropriate body-mass index for Asian populations and its implications for policy and intervention strategies</title>
+	</analytic>
+	<monogr>
+		<title level="m">WHO Expert Consultation</title>
+				<imprint>
+			<date type="published" when="2004">2004</date>
+			<biblScope unit="volume">363</biblScope>
+			<biblScope unit="page" from="157" to="163" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Report of the committee on the classification and diagnostic criteria of diabetes mellitus</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Seino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Nanjo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Tajima</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Kadowaki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kashiwagi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Committee of the Japan Diabetes Society on the Diagnostic Criteria of Diabetes Mellitus</title>
+				<imprint>
+			<date type="published" when="2010">2010</date>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="212" to="228" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">BMI-mortality paradox and fitness in African American and Caucasian men with type 2 diabetes</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Kokkinos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Myers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Faselis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Doumas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kheirbek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Nylen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="1021" to="1027" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Body mass index, diabetes, hypertension, and short-term mortality: a population-based observational study</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Jerant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Franks</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Board Fam Med</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="422" to="431" />
+			<date type="published" when="2000">2000-2006. 2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Mortality from all causes and from coronary heart disease related to smoking and changes in smoking during a 35-year follow-up of middle-aged Finnish men</title>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Qiao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tervahauta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Nissinen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tuomilehto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur Heart J</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">19</biblScope>
+			<biblScope unit="page" from="1621" to="1626" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Alcohol dosing and total mortality in men and women: an updated meta-analysis of 34 prospective studies</title>
+		<author>
+			<persName><forename type="first">Di</forename><surname>Castelnuovo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Costanzo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bagnardi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Donati</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Iacoviello</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>De Gaetano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">166</biblScope>
+			<biblScope unit="issue">22</biblScope>
+			<biblScope unit="page" from="2437" to="2445" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Morbidity and mortality in the Swedish trial in old patients with hypertension (STOP-Hypertension)</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Dahlöf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">H</forename><surname>Lindholm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Hansson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Scherstén</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Ekbom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">O</forename><surname>Wester</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">338</biblScope>
+			<biblScope unit="issue">8778</biblScope>
+			<biblScope unit="page" from="1281" to="1285" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Survival of the fattest: unexpected findings about hyperglycaemia and obesity in a population based study of 75-year-olds</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Nilsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Hedberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Öhrvik</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMJ Open</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">e000012</biblScope>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Obesity and overweight in relation to mortality in men with and without type 2 diabetes/impaired glucose tolerance: the original Whitehall Study</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">D</forename><surname>Batty</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kivimaki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">D</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Marmot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Shipley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="2388" to="2391" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Body mass index and the risk of total and cardiovascular mortality among patients with type 2 diabetes: a large prospective study in Ukraine</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Khalangot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tronko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Kravchenko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kulchinska</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Hu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Heart</title>
+		<imprint>
+			<biblScope unit="volume">95</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="454" to="460" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Body mass index and risk of all-cause and cardiovascular mortality in hospitalized elderly patients with diabetes mellitus</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Weiss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Boaz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Beloosesky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kornowski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Grossman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabet Med</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="253" to="259" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Risk factors in V-shaped risk associations with all-cause mortality in type 2 diabetes-The Hong Kong Diabetes Registry</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">Y</forename><surname>So</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Ma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Kong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">W</forename><surname>Lam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Ho</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Metab Res Rev</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="238" to="246" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Differences in cardiovascular disease mortality associated with body mass between Black and White persons</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Abell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">M</forename><surname>Egan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">W</forename><surname>Wilson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lipsitz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">F</forename><surname>Woolson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">T</forename><surname>Lackland</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Public Health</title>
+		<imprint>
+			<biblScope unit="volume">98</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="63" to="66" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Obesity paradox in patients with hypertension and coronary artery disease</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Uretsky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">H</forename><surname>Messerli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bangalore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Champion</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Cooper-Dehoff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Zhou</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Med</title>
+		<imprint>
+			<biblScope unit="volume">120</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="863" to="870" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title level="m" type="main">Systematic review of the long-term effects and economic consequences of treatments for obesity and implications for health improvement</title>
+		<author>
+			<persName><forename type="first">A; National</forename><surname>Avenell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hta</forename><surname>Co-Ordinating Center For</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+			<publisher>York Publishing</publisher>
+			<biblScope unit="page" from="1" to="182" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Metabolic syndrome in the Philippine general population: prevalence and risk for atherosclerotic cardiovascular disease and diabetes mellitus</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">D</forename><surname>Morales</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">E</forename><surname>Punzalan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Paz-Pacheco</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">G</forename><surname>Sy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Duante</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Group</title>
+				<imprint>
+			<date type="published" when="2003">2003. 2008</date>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="36" to="43" />
+		</imprint>
+	</monogr>
+	<note>National Nutrition And Health Survey</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Obesity and overweight in relation to disease-specific mortality in men with and without existing coronary heart disease in London: the original Whitehall study</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">D</forename><surname>Batty</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Shipley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Jarrett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Breeze</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Marmot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Davey</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Heart</title>
+		<imprint>
+			<biblScope unit="volume">92</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="886" to="892" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Inflammation and nutrition in renal insufficiency</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kalantar-Zadeh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Stenvinkel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Pillon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Kopple</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv Ren Replace Ther</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="155" to="169" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">How to reconcile and altered risk factor patterns in dialysis patients</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Kopple</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Semin Dial</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="602" to="605" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">The evolution of human fatness and susceptibility to obesity: an ethological approach</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Wells</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biol Rev Camb Philos Soc</title>
+		<imprint>
+			<biblScope unit="volume">81</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="183" to="205" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Incidence of childhood type 1 diabetes worldwide</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Karvonen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Viik-Kajander</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Moltchanova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Libman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>La-Porte</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tuomilehto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Mondiale (DiaMond) Project Group. Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="1516" to="1526" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Is diabetes in Korea different?</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename><surname>Ahn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Korean Med Assoc</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="707" to="714" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Causespecific mortality trends in a large population-based cohort with long-standing childhood-onset type 1 diabetes</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Secrest</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Becker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">F</forename><surname>Kelsey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Laporte</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Orchard</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes</title>
+		<imprint>
+			<biblScope unit="volume">59</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="3216" to="3222" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Agreement between self-report questionnaires and medical record data was substantial for diabetes, hypertension, myocardial infarction and stroke but not for heart failure</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Okura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">H</forename><surname>Urban</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Mahoney</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Jacobsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Rodeheffer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="1096" to="1103" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

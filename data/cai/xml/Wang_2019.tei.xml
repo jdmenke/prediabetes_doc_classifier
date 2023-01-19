@@ -1,0 +1,1015 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Ideal Cardiovascular Health Metrics and Major Cardiovascular Events in Patients With Prediabetes and Diabetes</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2019-07-31">July 31, 2019.</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Tiange</forename><surname>Wang</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>PhD</roleName><forename type="first">Jieli</forename><surname>Lu</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>PhD</roleName><forename type="first">Qing</forename><surname>Su</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>PhD</roleName><forename type="first">Yuhong</forename><surname>Chen</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>PhD</roleName><forename type="first">Yufang</forename><surname>Bi</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>PhD</roleName><forename type="first">Yiming</forename><surname>Mu</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MD, PhD</roleName><forename type="first">Lulu</forename><surname>Chen</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>PhD</roleName><forename type="first">Ruying</forename><surname>Hu</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>PhD</roleName><forename type="first">Xulei</forename><surname>Tang</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>PhD</roleName><forename type="first">Xuefeng</forename><surname>Yu</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>PhD</roleName><forename type="first">Mian</forename><surname>Li</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MD, PhD</roleName><forename type="first">Min</forename><surname>Xu</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>PhD</roleName><forename type="first">Yu</forename><surname>Xu</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>PhD</roleName><forename type="first">Zhiyun</forename><surname>Zhao</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>PhD</roleName><forename type="first">Li</forename><surname>Yan</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>PhD</roleName><forename type="first">Guijun</forename><surname>Qin</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>PhD</roleName><forename type="first">Qin</forename><surname>Wan</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>PhD</roleName><forename type="first">Gang</forename><surname>Chen</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>PhD</roleName><forename type="first">Meng</forename><surname>Dai</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>BS</roleName><forename type="first">Di</forename><surname>Zhang</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>BS</roleName><forename type="first">Zhengnan</forename><surname>Gao</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>PhD</roleName><forename type="first">Guixia</forename><surname>Wang</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>PhD</roleName><forename type="first">Feixia</forename><surname>Shen</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>PhD</roleName><forename type="first">Zuojie</forename><surname>Luo</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>PhD</roleName><forename type="first">Yingfen</forename><surname>Qin</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>PhD</roleName><forename type="first">;</forename><forename type="middle">Li</forename><surname>Chen</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>PhD</roleName><forename type="first">Yanan</forename><surname>Huo</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>PhD</roleName><forename type="first">Qiang</forename><surname>Li</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>PhD</roleName><forename type="first">Zhen</forename><surname>Ye</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>PhD</roleName><forename type="first">Yinfei</forename><surname>Zhang</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Chao</forename><surname>Liu</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>PhD</roleName><forename type="first">Youmin</forename><surname>Wang</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>PhD</roleName><forename type="first">Shengli</forename><surname>Wu</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>PhD</roleName><forename type="first">Tao</forename><surname>Yang</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>PhD</roleName><forename type="first">Huacong</forename><surname>Deng</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>PhD</roleName><forename type="first">Donghui</forename><surname>Li</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>PhD</roleName><forename type="first">Shenghan</forename><surname>Lai</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>PhD</roleName><forename type="first">Zachary</forename><forename type="middle">T</forename><surname>Bloomgarden</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Lixin</forename><surname>Shi</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>PhD</roleName><forename type="first">Guang</forename><surname>Ning</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>PhD</roleName><forename type="first">Jiajun</forename><surname>Zhao</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>PhD</roleName><forename type="first">Weiqing</forename><surname>Wang</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Li</forename><surname>Chen</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department">Shanghai National Clinical Research Center for Endocrine and Metabolic Diseases</orgName>
+								<orgName type="institution">Key Laboratory for Endocrine and Metabolic Diseases of the National Health Commission of the PR China</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="institution" key="instit1">Shanghai Institute of Endocrine and Metabolic Diseases</orgName>
+								<orgName type="institution" key="instit2">Ruijin Hospital</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="institution">Shanghai Jiaotong University School of Medicine</orgName>
+								<address>
+									<settlement>Shanghai</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<orgName type="institution">Research JAMA Cardiology | Original Investigation</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff4">
+								<orgName type="institution">The First Affiliated Hospital of Wenzhou Medical University</orgName>
+								<address>
+									<settlement>Wenzhou</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff5">
+								<orgName type="institution">Qilu Hospital of Shandong University</orgName>
+								<address>
+									<settlement>Jinan</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Ideal Cardiovascular Health Metrics and Major Cardiovascular Events in Patients With Prediabetes and Diabetes</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2019-07-31">July 31, 2019.</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">761DBB439B90F1FE6E6DA53F0E3CF259</idno>
+					<idno type="DOI">10.1001/jamacardio.2019.2499</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.1" ident="GROBID" when="2022-07-19T23:00+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>Group Information: The 4C Study Group members are listed at the end of the article</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>for the 4C Study Group IMPORTANCE Whether optimal cardiovascular health metrics may counteract the risk of cardiovascular events among patients with prediabetes or diabetes is unclear.</p><p>OBJECTIVE To investigate the associations of ideal cardiovascular health metrics (ICVHMs) with subsequent development of cardiovascular disease (CVD) among participants with prediabetes or diabetes as compared with participants with normal glucose regulation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DESIGN, SETTING, AND PARTICIPANTS</head><p>The China Cardiometabolic Disease and Cancer Cohort Study was a nationwide, population-based, prospective cohort study of 20 communities from various geographic regions in China. The study included 111 765 participants who were free from CVD or cancer at baseline. Data were analyzed between 2011 and 2016.</p><p>EXPOSURES Prediabetes and diabetes were defined according to the American Diabetes Association 2010 criteria. Seven ICVHMs were adapted from the American Heart Association recommendations.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>MAIN OUTCOMES AND MEASURES</head><p>The composite of incident fatal or nonfatal CVD, including cardiovascular death, myocardial infarction, stroke, and hospitalized or treated heart failure.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head><p>Of the 111 765 participants, 24 881 (22.3%) had normal glucose regulation, 61 024 (54.6%) had prediabetes, and 25 860 (23.1%) had diabetes. Mean (SD) age ranged from 52.9 (8.6) years to 59.4 (8.7) years. Compared with participants with normal glucose regulation, among participants with prediabetes, the multivariable-adjusted hazard ratio for CVD was 1.34 (95% CI, 1.16-1.55) for participants who had 1 ICVHM or less and 0.57 (95% CI, 0.43-0.75) for participants who had at least 5 ICVHMs; among participants with diabetes, the hazard ratios for CVD were 2.05 (95% CI, 1.76-2.38) and 0.80 (95% CI, 0.56-1.15) for participants who had 1 ICVHM or less and at least 5 ICVHMs, respectively. Such pattern of association between ICVHMs and CVD was more prominent for participants younger than 55 years (prediabetes and at least 5 ICVHMs: hazard ratio [HR], 0.32; 95% CI, 0.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>T ype 2 diabetes poses a major threat to public health. According to the data from the International Diabetes Federation, 1 in 11 adults aged 20 to 79 years had diabetes globally in 2017 (425 million), and China has become the epicenter of the diabetes epidemic. <ref type="bibr">1</ref> Cardiovascular complications are the leading cause of disability and mortality among patients with type 2 diabetes. <ref type="bibr" target="#b16">[2]</ref><ref type="bibr" target="#b17">[3]</ref><ref type="bibr" target="#b18">[4]</ref><ref type="bibr" target="#b19">[5]</ref> Diabetes confers about a 2-fold excess risk of cardiovascular disease (CVD) events independent of conventional risk factors. <ref type="bibr" target="#b20">6,</ref><ref type="bibr" target="#b21">7</ref> Moreover, among patients with type 2 diabetes, CVD occurs earlier and with greater severity compared with individuals without diabetes. <ref type="bibr" target="#b22">8</ref> In addition, as a high-risk state for diabetes, prediabetes is also associated with a modest increase in the risk of CVD. <ref type="bibr" target="#b23">9,</ref><ref type="bibr" target="#b24">10</ref> Given the epidemic proportion of prediabetes worldwide and especially in China and the United States, 1 if a causal relation exists, such modest increase in risk might still translate into substantial burden of CVD events. <ref type="bibr" target="#b23">9</ref> In 2010, the American Heart Association (AHA) suggested 7 ideal cardiovascular health metrics (ICVHMs), including healthy lifestyle behaviors and ideal metabolic measures, to promote optimal cardiovascular health in the population. <ref type="bibr" target="#b25">11</ref> Following the recommendations of the AHA, several population-based studies have supported a beneficial effect of ideal cardiovascular health on CVD events. <ref type="bibr" target="#b27">[12]</ref><ref type="bibr" target="#b28">[13]</ref><ref type="bibr" target="#b29">[14]</ref> Such evidence has been derived from general populations so far. Individuals with prediabetes or diabetes are at higher risks of developing CVD than those with normal glucose regulation. <ref type="bibr" target="#b20">6,</ref><ref type="bibr" target="#b21">7,</ref><ref type="bibr" target="#b23">9,</ref><ref type="bibr" target="#b24">10</ref> However, whether patients with prediabetes or diabetes who achieved a greater number of ICVHMs may have lower risk for CVD is unclear.</p><p>To this end, in a nationwide prospective population-based study, we investigated the individual and combined associations of ICVHMs with the risk of CVD events among individuals with prediabetes or diabetes compared with the risk of CVD events among individuals with normal glucose regulation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study Design and Population</head><p>The China Cardiometabolic Disease and Cancer Cohort (4C) Study is a multicenter, population-based, prospective cohort study. <ref type="bibr" target="#b30">15</ref> During 2011 to 2012, 193 846 men and women 40 years or older were recruited from local resident registration systems of 20 communities from various geographic regions in China to represent the general population. During 2014 to 2016, all participants were invited to attend an in-person visit, and 170 240 participants (87.8%) were followed up. At baseline and the follow-up visit, demographic characteristics, lifestyle and dietary factors, and medical history were collected by using standard questionnaires. Anthropometric and blood pressure measurements, oral glucose tolerance tests, and blood samples were obtained following a standard protocol. The analysis included 111 765 participants who had complete baseline information on cardiovascular health metrics and diabetes status and were free from CVD or cancer at baseline. This study was approved by the Medical Ethics Committee of Ruijin Hospital, Shanghai Jiaotong University. All study participants provided written informed consent.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data Collection</head><p>Data collection was performed in local community clinics by trained study personnel according to a standard protocol at baseline and the follow-up visit. A questionnaire comprising information on demographic characteristics, lifestyle factors (including cigarette smoking and alcohol drinking), family history, and medical history was administered by trained interviewers. Current alcohol drinker was defined as a person who drank alcohol regularly in the past 6 months. Education attainment was categorized as less than high school and high school or more. A food frequency questionnaire was used to collect habitual dietary intake by asking the consumption frequency and portion size of typical food items during the previous 12 months. The International Physical Activity Questionnaire was used to assess physical activity. <ref type="bibr" target="#b31">16</ref> Height and body weight were measured according to a standard protocol, and body mass index (BMI) was calculated as the weight in kilograms divided by height in meters squared.</p><p>Three blood pressure measurements were obtained from each participant by using an automated electronic device (OMRON Model HEM-752 FUZZY) in a seated position after at least a 5-minute quiet rest. Participants were required to avoid alcohol, coffee, tea, smoking, and exercise at least 30 minutes before the blood pressure measurement. The 3 readings were averaged for the analysis.</p><p>All participants underwent an oral glucose tolerance test after an overnight fast of at least 10 hours, and blood samples were collected at 0 and 2 hours during the test. Fasting and 2-hour plasma glucose concentrations were measured locally using a glucose oxidase or hexokinase method within 2 hours after blood sample collection under a stringent quality control program. Finger capillary whole-blood samples were collected by the Hemoglobin Capillary Collection System (Bio-Rad Laboratories) and were stored at 2°C to 8°C and shipped to the central laboratory in the Shanghai Institute of Endocrine and Metabolic Diseases, which was certificated by the National Glycohemoglobin Standardization Program and the College of American Pathologists Laboratory Accreditation Program. Glycated hemoglobin A 1c (HbA 1c ) was measured within 4 weeks after collection by high-performance liquid chromatography using the VARIANT II Hemoglobin Testing System (Bio-Rad Laboratories). The capillary HbA 1c values and the venous values from whole-blood samples collected using ethylene diamine tetraacetic acid dipotassium</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Key Points</head><p>Question Are ideal cardiovascular health metrics (ICVHMs) associated with lower risks of cardiovascular disease among patients with prediabetes or diabetes? Findings In this cohort study of 111 765 Chinese participants, compared with participants with normal glucose regulation, participants with prediabetes or diabetes who achieved at least 5 ICVHMs had lower or no increased risks of cardiovascular disease events compared with participants with normal glucose regulation.</p><p>Meaning Our findings emphasize the importance of promoting the adherence to ICVHMs in the prevention of cardiovascular disease events among patients with prediabetes or diabetes. tubes were highly correlated (r = 0.99) in a validation subsample. 17 Total cholesterol was measured at the central laboratory using an autoanalyzer (ARCHITECT ci16200 analyzer; Abbott Laboratories).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Assessment of Prediabetes and Diabetes</head><p>Baseline prediabetes and diabetes were defined according to the American Diabetes Association 2010 criteria. <ref type="bibr" target="#b32">18</ref>   <ref type="bibr">19,</ref><ref type="bibr" target="#b33">20</ref> and we have validated that a BMI of at least 23 was associated with greater risks of CVD events and elevated HbA 1c than a BMI of at least 24 or at least 25 as compared with their corresponding normal BMI in this study cohort (eTable 2 in the Supplement). We used fruit and vegetable intake to evaluate a healthy diet because data on whole grain and sodium consumption were not collected, and fruits and vegetables are primary dietary components highlighted by the AHA 2020 Strategic Impact Goals and have been associated with lower risks of CVD. <ref type="bibr" target="#b34">21,</ref><ref type="bibr" target="#b35">22</ref> We replaced fasting plasma glucose with HbA 1c as one metric to estimate glucose metabolism in participants with prediabetes or diabetes, in accordance with the stringent HbA 1c goals of the current American Diabetes Association clinical practice recommendations. <ref type="bibr" target="#b36">23</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Ascertainment of Cardiovascular Events</head><p>The outcome of this study was the composite of incident fatal or nonfatal CVD events including cardiovascular death, myocardial infarction, stroke, and hospitalized or treated heart failure. Myocardial infarction was defined by characteristic changes in levels of troponin T and creatine-kinase-MB isoform, symptoms of myocardial ischemia, changes in electrocardiogram results, or a combination of them. Stroke was defined as a fixed neurologic deficit at least 24 hours because of a presumed vascular cause. Heart failure was identified by hospitalization or an emergency department visit requiring a treatment with infusion therapy for a clinical syndrome presenting with multiple signs and symptoms in consistence with cardiac decompensation or inadequate cardiac pump function. Deaths and clinical outcomes were collected from local vital registries of the National Disease Surveillance Point System and National Health Insurance System. Two members of the outcome adjudication committee independently verified each clinical event and assigned potential causes of death, and discrepancies were adjudicated by discussion involving other members of the committee. All members of the committee were unaware of the baseline risk factors of study participants.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical Analysis</head><p>Baseline characteristics of participants with normal glucose regulation, prediabetes, and diabetes were summarized as means with standard deviation for continuous variables and percentages for categorical variables. Person-time for each participant was calculated from the date of enrollment to the date of CVD diagnosis, death, or the end of follow-up, whichever came first. Cox proportional hazards models were used to calculate hazard ratios (HRs) and 95% confidence intervals for CVD events, with multivariable adjustment for age, sex, education attainment, family history of diabetes, and family history of CVD. We first estimated the risk of CVD events according to individual and combined ICVHMs among participants with prediabetes or diabetes compared with participants with normal glucose regulation. In the analysis of the association between each component of the ICVHMs and CVD events, we further adjusted for all other ICVHMs. As a next analysis, we stratified participants into subgroups according to age and sex and examined the association between ICVHMs and CVD risk among participants with prediabetes or diabetes as compared with participants with normal glucose regulation in each age or sex subgroup. Among participants with prediabetes or diabetes, we also analyzed the risk of CVD events according to individual and combined ICVHMs. To test whether the pattern of association varies across stratifications, we estimated multiplicative interactions by including the product term (exposure × stratification variable) in the models. We replicated the main analyses for nonfatal CVD events and CVD mortality in secondary analyses. All reported P values are nominal and 2-sided, and a P value of less than .05 was considered statistically significant. All statistical analyses were performed by using SAS software, version 9.2 (SAS Institute Inc).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>Of As shown in Table <ref type="table" target="#tab_4">2</ref>, compared with participants with normal glucose regulation, participants with prediabetes who had 1 of these ICVHMs exhibited significantly lower risk for CVD: ideal BMI (HR, 0.84; 95% CI, 0.72-0.98), physical activity at goal (HR, 0.78; 95% CI, 0.64-0.95), healthy diet (HR, 0.82; 95% CI, 0.71-0.95), ideal total cholesterol (HR, 0.86; 95% CI, 0.75-0.99), and ideal blood pressure (HR, 0.58; 95% CI, 0.48-0.71). Compared with participants with normal glucose regulation, among participants with prediabetes, the HR for CVD gradu-ally decreased from 1.34 (95% CI, 1.16-1.55) in those who had 1 ICVHM or less to 0.57 (95% CI, 0.43-0.75) in those who had more than 5 ICVHMs. Participants with diabetes who had ideal blood pressure had a marginally lower risk for CVD (HR, 0.91; 95% CI, 0.71-1.18), and the risk for CVD decreased with an increasing number of ICVHMs (≤1 ICVHM: HR, 2.05; 95% CI, 1.76-2.38; ≥5 ICVHMs: HR, 0.80; 95% CI, 0.56-1.15), as compared with participants with normal glucose regulation.</p><p>Among participants with prediabetes, the magnitude of the incremental risk for CVD associated with fewer ICVHMs was greatest among participants who were younger than 55 years (≥5 ICVHMs: HR, 0.32; 95% CI, 0.16-0.63; ≤1 ICVHM: HR, 1.58; 95% CI, 1.13-2.21) and was lowest among participants who were 65 years or older (≥5 ICVHMs: HR, 0.80; 95% CI, 0.50-1.26; ≤1 ICVHM: HR, 1.01; 95% CI, 0.79-1.31; P for interaction = .02; Figure <ref type="figure">1A</ref>). Similar age-related interactions with the number of ICVHMs were observed among participants with diabetes compared with those with normal glucose regulation (younger than 55 years and ≥5 ICVHMs: HR, 0.99; 95% CI, 0.44-2.26; ≤1 ICVHM: HR, 2.46; 95% CI, 1.71-3.54; 65 years or older and ≥5 ICVHMs: HR, 0.79; 95% CI, 0.46-1.35; ≤1 ICVHM: HR, 1.73; 95% CI, 1.36-2.22; P for interaction &lt;.001; Figure <ref type="figure">1B</ref>). No statistically significant interaction was observed with sex (Figure <ref type="figure">1C and D</ref>). Among participants with prediabetes, compared with participants who had 1 ideal metric or none, the HR for CVD was 0.80 (95% CI, 0.69-0.93), 0.66 (95% CI, 0.56-0.77), 0.55 (95% CI, 0.46-0.67), and 0.42 (95% CI, 0.32-0.57) for participants who had 2, 3, 4, and at least 5 ideal metrics, respectively, and was 0.82 (95% CI, 0.79-0.86) per 1-number increment in ICVHMs. A similar pattern was observed among participants with diabetes; each 1-number increment in ICVHMs was associated with an HR of 0.85 (95% CI, 0.80-0.89) for CVD (Table <ref type="table" target="#tab_7">3</ref>). The graded association of more ICVHMs with lower risk for CVD events was consistent across normal glucose regulation, prediabetes, and diabetes strata (eTable 4 in the Supplement).</p><p>Consistent results were observed in strata of age, sex, education attainment, family history of diabetes, family history of CVD, and diabetes duration (for participants with diabetes only) (Figure <ref type="figure">2</ref>). We observed an interaction of each 1-number increment in ICVHMs with age on CVD events among participants with prediabetes. The HR for CVD was 0.89 (95% CI, 0.82-0.96) among participants who were 65 years or older and 0.74 (95% CI, 0.67-0.83) among participants who were younger than 55 years (P for interaction = .03). There were no other significant interactions. Secondary analyses showed more sig-nificant results for nonfatal CVD events but less significant results for CVD mortality (eTables 5 and 6 in the Supplement).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>In this Chinese nationwide prospective cohort study of 111 765 adults, participants with prediabetes or diabetes who had 5 or more ICVHMs exhibited lower or no significant excess risk of CVD events compared with those with normal glucose regulation. Compared with 1 ICVHM or none, 5 or more ideal metrics were associated with 58% and 61% lower CVD risks among participants with prediabetes and diabetes, respectively. Each additional ICVHM was associated with 18% and 15% lower risks of CVD events among participants with prediabetes and diabetes, respectively.</p><p>To the best of our knowledge, this study is the first to comprehensively investigate the association of ICVHMs with CVD events among individuals with diabetes or prediabetes. Randomized clinical trials evaluating cardiovascular effects of multifactorial interventions in individuals with impaired glucose tolerance or type 2 diabetes are sparse and yield mixed results. <ref type="bibr" target="#b37">[24]</ref><ref type="bibr">[25]</ref><ref type="bibr">[26]</ref><ref type="bibr">[27]</ref><ref type="bibr">[28]</ref>   (24 881 with normal glucose regulation, 61 024 with prediabetes, and 25 860 with diabetes) were included in the analysis. Hazard ratios (95% CI) were adjusted for age, sex, education attainment (less than high school or high school or greater), family history of diabetes (yes or no), and family history of CVD (yes or no). Interaction between the combination of glucose tolerance status with number of ICVHMs and age on CVD: P for interaction = .02 (A); P for interaction &lt;.001 (B). Interaction between the combination of glucose tolerance status with number of ICVHMs and sex on CVD: P for interaction = .59 (C); P for interaction = .35 (D). with type 2 diabetes showed that intensive lifestyle intervention focused on weight loss did not reduce CVD events over a median of 9.6 years of follow-up. Prospective observational studies with regard to cardiovascular effects among patients with diabetes are limited and have mainly assessed lifestyle behaviors. <ref type="bibr">[29]</ref><ref type="bibr">[30]</ref><ref type="bibr">[31]</ref> In this study, taking advantage of the AHA ICVHMs, we analyzed a comprehensive cardiovascular risk factor profile to ascertain its association with CVD risk. Importantly, we found that patients with prediabetes or diabetes who had 5 or more ICVHMs appeared to have no significant excess or even lower risk of CVD events compared with the overall population with normal glucose regulation. In view of the rising epidemic of prediabetes and diabetes globally and in China, our findings emphasize the importance of an early intervention targeting both lifestyle behaviors and metabolic profiles among individuals with prediabetes and diabetes for the prevention of CVD. Interestingly, we detected that among younger individuals, patients with prediabetes who had 5 or more ICVHMs showed lower CVD risk than individuals with normal glucose regulation, while such an association was not seen among older individuals. We speculate that the high prevalence of comorbidities and medications for chronic diseases among the elderly population may compromise the benefit of the ICVHMs. <ref type="bibr" target="#b29">14</ref> However, our results did indicate that even among the elderly individuals with prediabetes or diabetes, each additional ICVHM was associated with substantially lower risk of CVD (11% to 13%), highlighting the benefit of achieving and maintaining an ideal cardiovascular health across the life course. <ref type="bibr">32</ref> With regard to each component of cardiovascular health metrics, an ideal blood pressure was predominantly associated with lower CVD risks among individuals with prediabetes or diabetes. Surprisingly, an ideal HbA 1c level was not independently associated with the CVD risk among individuals with prediabetes. In 2018, the Whitehall II Study 10 of 5427 participants aged 50 to 79 years reported that the risk of CVD associated with prediabetes defined by HbA 1c was absolutely  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Strengths and Limitations</head><p>The strengths of this study included the large nationwide sample size, the prospective study design, the well-validated definitions of the CVD outcomes, and the comprehensive analyses including individuals with normal glucose regulation, prediabetes, or diabetes. Our study also has notable limitations. First, the relatively short follow-up duration might limit the statistical power for CVD events. Second, the cardiovascular health metrics were evaluated only at baseline, so changes in the metrics over time could not be accounted for in this study. Participants who were excluded owing to missing data on cardiovascular health metrics included a slightly higher pro-portion of men, so a selection bias may exist. The results, then, should be interpreted cautiously. Third, we evaluated an ideal diet mainly on the basis of fruit and vegetable intake, and the absence of comprehensive dietary data may underestimate the actual association of a healthy diet with CVD events. Fourth, we could not fully rule out all the residual and unmeasured confounders, such as genetic predisposition, medications, and psychological status and possible reverse causation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusions</head><p>In this Chinese nationwide prospective population-based study, patients with prediabetes or diabetes who achieved a greater number of ICVHMs exhibited lower or no significant excess risks of CVD events compared with individuals with normal glucose regulation. In addition, among patients with prediabetes or diabetes, each additional ICVHM was associated with at least 15% lower risk of CVD. Our findings emphasize the importance of promoting the adherence to ICVHMs in the prevention of CVD events among patients with prediabetes or diabetes. </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 1 .</head><label>1</label><figDesc>Baseline Characteristics of Participants With Normal Glucose Regulation, Prediabetes, and Diabetes (N = 111 765) a</figDesc><table><row><cell cols="4">Ideal Cardiovascular Health Metrics and Major Cardiovascular Events in Patients With Prediabetes and Diabetes</cell><cell>Original Investigation Research</cell></row><row><cell></cell><cell>No. (%)</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>Normal Glucose</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Baseline Characteristic</cell><cell>Regulation</cell><cell>Prediabetes</cell><cell>Diabetes</cell><cell></cell></row><row><cell>Participants</cell><cell>24 881 (22.3)</cell><cell>61 024 (54.6)</cell><cell>25 860 (23.1)</cell><cell></cell></row><row><cell>Age, mean (SD), y</cell><cell>52.9 (8.6)</cell><cell>56.5 (8.7)</cell><cell>59.4 (8.7)</cell><cell></cell></row><row><cell>Men</cell><cell>7872 (31.6)</cell><cell>20 018 (32.8)</cell><cell>9945 (38.5)</cell><cell></cell></row><row><cell>High school or greater education</cell><cell>9962 (40.0)</cell><cell>22 895 (37.5)</cell><cell>9135 (35.3)</cell><cell></cell></row><row><cell>Current alcohol drinker</cell><cell>2487 (10.2)</cell><cell>6501 (10.9)</cell><cell>2767 (10.9)</cell><cell></cell></row><row><cell>Family history of diabetes</cell><cell>2530 (10.2)</cell><cell>7400 (12.1)</cell><cell>5346 (20.7)</cell><cell></cell></row><row><cell>Family history of CVD</cell><cell>4216 (16.9)</cell><cell>10 495 (17.2)</cell><cell>4189 (16.2)</cell><cell></cell></row><row><cell>Smoking status</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Current</cell><cell>4818 (19.4)</cell><cell>11 128 (18.2)</cell><cell>4997 (19.3)</cell><cell></cell></row><row><cell>Former, quit ≤12 mo</cell><cell>136 (0.6)</cell><cell>378 (0.6)</cell><cell>228 (0.9)</cell><cell></cell></row><row><cell>Never or quit &gt;12 mo</cell><cell>19 927 (80.1)</cell><cell>49 518 (81.2)</cell><cell>20 635 (79.8)</cell><cell></cell></row><row><cell>BMI levels</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>&lt;23</cell><cell>11 007 (44.2)</cell><cell>20 731 (34.0)</cell><cell>5852 (22.6)</cell><cell></cell></row><row><cell>≥23 to &lt;25</cell><cell>6253 (25.1)</cell><cell>14 830 (24.3)</cell><cell>5850 (22.6)</cell><cell></cell></row><row><cell>≥25</cell><cell>7621 (30.6)</cell><cell>25 463 (41.7)</cell><cell>14 158 (54.8)</cell><cell></cell></row><row><cell>Physical activity at goal</cell><cell>3219 (12.9)</cell><cell>9027 (14.8)</cell><cell>3559 (13.8)</cell><cell></cell></row><row><cell>Fruit and vegetable intake, mean (SD), cup/d</cell><cell>4.1 (5.6)</cell><cell>4.6 (4.5)</cell><cell>4.6 (10.2)</cell><cell>Abbreviations: BMI, body mass index</cell></row><row><cell>Total cholesterol, mean (SD), mg/dL</cell><cell>185.0 (40.6)</cell><cell>192.4 (44.0)</cell><cell>196.6 (46.9)</cell><cell>(calculated as weight in kilograms</cell></row><row><cell>Systolic blood pressure, mean (SD), mm Hg</cell><cell>128 (20)</cell><cell>132 (20)</cell><cell>138 (21)</cell><cell>divided by height in meters squared); ICVHMs, ideal cardiovascular</cell></row><row><cell>Diastolic blood pressure, mean (SD), mm Hg</cell><cell>77 (11)</cell><cell>78 (11)</cell><cell>80 (11)</cell><cell>health metrics.</cell></row><row><cell>Glycated hemoglobin A 1c , mean (SD), %</cell><cell>5.3 (0.3)</cell><cell>5.8 (0.3)</cell><cell>7.1 (1.5)</cell><cell>SI conversion factors: To convert</cell></row><row><cell>ICVHMs, No.</cell><cell></cell><cell></cell><cell></cell><cell>cholesterol levels to millimoles per</cell></row><row><cell>≤1 2</cell><cell>494 (2.0) 3296 (13.3)</cell><cell>9004 (14.8) 16 710 (27.4)</cell><cell>4865 (18.8) 8036 (31.1)</cell><cell>liter, multiply by 0.0259; glycated hemoglobin A 1c to proportion of total hemoglobin, multiply by 0.01.</cell></row><row><cell>3</cell><cell>6754 (27.2)</cell><cell>17 937 (29.4)</cell><cell>7450 (28.8)</cell><cell>a Percentages may not sum to 100%</cell></row><row><cell>4</cell><cell>7279 (29.3)</cell><cell>11 641 (19.1)</cell><cell>3893 (15.1)</cell><cell>owing to rounding. The number of</cell></row><row><cell>≥5</cell><cell>7058 (28.4)</cell><cell>5732 (9.4)</cell><cell>1616 (6.3)</cell><cell>missing values is 2135 for alcohol drinkers.</cell></row></table><note>jamacardiology.com (Reprinted) JAMA Cardiology September 2019 Volume 4, Number 9</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Table 2 .</head><label>2</label><figDesc>Hazard Ratio (95% CI) of CVD Events According to Individual and Combined ICVHMs Among Participants With Prediabetes or Diabetes as Compared With the Overall Participants With Normal Glucose Regulation a</figDesc><table><row><cell>Category</cell><cell>Person-Years</cell><cell>No. of Cases</cell><cell>HR (95% CI) b</cell><cell></cell></row><row><cell>Normal glucose regulation</cell><cell>92 244</cell><cell>453</cell><cell>1 [Reference]</cell><cell></cell></row><row><cell>Prediabetes</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Ideal smoking status</cell><cell>178 928</cell><cell>1017</cell><cell>0.89 (0.78-1.02)</cell><cell></cell></row><row><cell>Ideal BMI</cell><cell>74 792</cell><cell>383</cell><cell>0.84 (0.72-0.98)</cell><cell></cell></row><row><cell>Physical activity at goal</cell><cell>32 903</cell><cell>157</cell><cell>0.78 (0.64-0.95)</cell><cell></cell></row><row><cell>Healthy diet</cell><cell>101 941</cell><cell>508</cell><cell>0.82 (0.71-0.95)</cell><cell></cell></row><row><cell>Untreated total cholesterol &lt;200 mg/dL</cell><cell>122 210</cell><cell>632</cell><cell>0.86 (0.75-0.99)</cell><cell></cell></row><row><cell>Untreated blood pressure &lt;120/80 mm Hg</cell><cell>58 472</cell><cell>156</cell><cell>0.58 (0.48-0.71)</cell><cell></cell></row><row><cell>Glycated hemoglobin A 1c &lt;5.7%</cell><cell>50 843</cell><cell>311</cell><cell>1.03 (0.89-1.19)</cell><cell></cell></row><row><cell>No. of ICVHMs</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>≤1</cell><cell>32 967</cell><cell>307</cell><cell>1.34 (1.16-1.55)</cell><cell></cell></row><row><cell>2</cell><cell>60 272</cell><cell>436</cell><cell>1.08 (0.95-1.23)</cell><cell></cell></row><row><cell>3</cell><cell>64 473</cell><cell>351</cell><cell>0.89 (0.78-1.03)</cell><cell>Abbreviations: BMI, body mass index</cell></row><row><cell>4</cell><cell>42 146</cell><cell>174</cell><cell>0.75 (0.63-0.89)</cell><cell>(calculated as weight in kilograms</cell></row><row><cell>≥5</cell><cell>20 906</cell><cell>54</cell><cell>0.57 (0.43-0.75)</cell><cell>divided by height in meters squared); HR, hazard ratio; ICVHMs, ideal</cell></row><row><cell>Diabetes</cell><cell></cell><cell></cell><cell></cell><cell>cardiovascular health metrics.</cell></row><row><cell>Ideal smoking status</cell><cell>74 324</cell><cell>846</cell><cell>1.33 (1.16-1.52)</cell><cell>SI conversion factors: To convert</cell></row><row><cell>Ideal BMI</cell><cell>20 848</cell><cell>235</cell><cell>1.41 (1.19-1.66)</cell><cell>cholesterol levels to millimoles per liter, multiply by 0.0259; glycated</cell></row><row><cell>Physical activity at goal</cell><cell>12 868</cell><cell>137</cell><cell>1.31 (1.07-1.61)</cell><cell>hemoglobin A 1c to proportion of total</cell></row><row><cell>Healthy diet</cell><cell>41 844</cell><cell>450</cell><cell>1.31 (1.13-1.52)</cell><cell>hemoglobin, multiply by 0.01.</cell></row><row><cell>Untreated total cholesterol &lt;200 mg/dL</cell><cell>45 014</cell><cell>483</cell><cell>1.33 (1.15-1.53)</cell><cell>a 111 765 participants (24 881 with</cell></row><row><cell>Untreated blood pressure &lt;120/80 mm Hg</cell><cell>13 418</cell><cell>71</cell><cell>0.91 (0.71-1.18)</cell><cell>normal glucose regulation, 61 024 with prediabetes, and 25 860 with</cell></row><row><cell>Glycated hemoglobin A 1c &lt;6.5%</cell><cell>31 659</cell><cell>337</cell><cell>1.31 (1.13-1.51)</cell><cell>diabetes) were included in</cell></row><row><cell>No. of ICVHMs</cell><cell></cell><cell></cell><cell></cell><cell>the analysis.</cell></row><row><cell>≤1</cell><cell>17 554</cell><cell>272</cell><cell>2.05 (1.76-2.38)</cell><cell>b Adjusted for age, sex, education</cell></row><row><cell>2</cell><cell>28 819</cell><cell>366</cell><cell>1.63 (1.42-1.88)</cell><cell>attainment (less than high school or high school or greater), family</cell></row><row><cell>3</cell><cell>26 777</cell><cell>305</cell><cell>1.48 (1.27-1.71)</cell><cell>history of diabetes (yes or no), and</cell></row><row><cell>4</cell><cell>14 000</cell><cell>133</cell><cell>1.29 (1.07-1.57)</cell><cell>family history of CVD (yes or no).</cell></row><row><cell>≥5</cell><cell>5909</cell><cell>31</cell><cell>0.80 (0.56-1.15)</cell><cell>Individual cardiovascular health metrics were mutually adjusted.</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_5"><head></head><label></label><figDesc>Figure 1. Hazard Ratio (95% CI) of Cardiovascular Disease (CVD) Events in Relation to Number of Ideal Cardiovascular Health Metrics (ICVHMs) Among Participants With Prediabetes or Diabetes Compared With the Overall Participants With Normal Glucose Regulation, According to Age and Sex Categories</figDesc><table><row><cell>A</cell><cell cols="2">CVD events among participants with prediabetes</cell><cell></cell><cell>B</cell><cell cols="2">CVD events among participants with diabetes</cell></row><row><cell></cell><cell></cell><cell>Hazard Ratio</cell><cell></cell><cell></cell><cell></cell><cell>Hazard Ratio</cell></row><row><cell cols="2">Source</cell><cell>(95% CI)</cell><cell></cell><cell cols="2">Source</cell><cell>(95% CI)</cell></row><row><cell cols="2">Age ≥65 y</cell><cell></cell><cell></cell><cell cols="2">Age ≥65 y</cell></row><row><cell cols="2">Normal glucose regulation</cell><cell>1.00 [Reference]</cell><cell></cell><cell cols="2">Normal glucose regulation</cell><cell>1.00 [Reference]</cell></row><row><cell cols="2">Prediabetes ideal metrics</cell><cell></cell><cell></cell><cell cols="2">Diabetes ideal metrics</cell></row><row><cell cols="2">≥5</cell><cell>0.80 (0.50-1.26)</cell><cell></cell><cell cols="2">≥5</cell><cell>0.79 (0.46-1.35)</cell></row><row><cell cols="2">4</cell><cell>0.60 (0.44-0.82)</cell><cell></cell><cell cols="2">4</cell><cell>1.27 (0.95-1.69)</cell></row><row><cell cols="2">3</cell><cell>0.85 (0.68-1.08)</cell><cell></cell><cell cols="2">3</cell><cell>1.16 (0.92-1.47)</cell></row><row><cell cols="2">2</cell><cell>1.06 (0.86-1.31)</cell><cell></cell><cell cols="2">2</cell><cell>1.36 (1.09-1.71)</cell></row><row><cell cols="2">≤1</cell><cell>1.01 (0.79-1.31)</cell><cell></cell><cell cols="2">≤1</cell><cell>1.73 (1.36-2.22)</cell></row><row><cell cols="2">Age ≥55 y to &lt;65 y</cell><cell></cell><cell></cell><cell cols="2">Age ≥55 y to &lt;65 y</cell></row><row><cell cols="2">Normal glucose regulation</cell><cell>1.00 [Reference]</cell><cell></cell><cell cols="2">Normal glucose regulation</cell><cell>1.00 [Reference]</cell></row><row><cell cols="2">Prediabetes ideal metrics</cell><cell></cell><cell></cell><cell cols="2">Diabetes ideal metrics</cell></row><row><cell cols="2">≥5</cell><cell>0.55 (0.36-0.84)</cell><cell></cell><cell cols="2">≥5</cell><cell>0.64 (0.34-1.22)</cell></row><row><cell cols="2">4</cell><cell>0.78 (0.60-1.02)</cell><cell></cell><cell cols="2">4</cell><cell>1.14 (0.83-1.58)</cell></row><row><cell cols="2">3</cell><cell>0.81 (0.65-1.01)</cell><cell></cell><cell cols="2">3</cell><cell>1.62 (1.29-2.03)</cell></row><row><cell cols="2">2</cell><cell>0.96 (0.78-1.19)</cell><cell></cell><cell cols="2">2</cell><cell>1.60 (1.28-1.99)</cell></row><row><cell cols="2">≤1</cell><cell>1.43 (1.16-1.78)</cell><cell></cell><cell cols="2">≤1</cell><cell>2.08 (1.64-2.64)</cell></row><row><cell cols="2">Age &lt;55 y</cell><cell></cell><cell></cell><cell cols="2">Age &lt;55 y</cell></row><row><cell cols="2">Normal glucose regulation</cell><cell>1.00 [Reference]</cell><cell></cell><cell cols="2">Normal glucose regulation</cell><cell>1.00 [Reference]</cell></row><row><cell cols="2">Prediabetes ideal metrics</cell><cell></cell><cell></cell><cell cols="2">Diabetes ideal metrics</cell></row><row><cell cols="2">≥5</cell><cell>0.32 (0.16-0.63)</cell><cell></cell><cell cols="2">≥5</cell><cell>0.99 (0.44-2.26)</cell></row><row><cell cols="2">4</cell><cell>0.78 (0.55-1.12)</cell><cell></cell><cell cols="2">4</cell><cell>1.36 (0.80-2.29)</cell></row><row><cell cols="2">3</cell><cell>0.92 (0.68-1.24)</cell><cell></cell><cell cols="2">3</cell><cell>1.94 (1.36-2.77)</cell></row><row><cell cols="2">2</cell><cell>1.06 (0.78-1.43)</cell><cell></cell><cell cols="2">2</cell><cell>2.40 (1.74-3.32)</cell></row><row><cell cols="2">≤1</cell><cell>1.58 (1.13-2.21)</cell><cell></cell><cell cols="2">≤1</cell><cell>2.46 (1.71-3.54)</cell></row><row><cell></cell><cell></cell><cell>0.1</cell><cell>1</cell><cell>4</cell><cell></cell><cell>0.2</cell><cell>1</cell><cell>4</cell></row><row><cell></cell><cell></cell><cell></cell><cell>Hazard Ratio (95% CI)</cell><cell></cell><cell></cell><cell>Hazard Ratio (95% CI)</cell></row><row><cell>C</cell><cell cols="2">CVD events among participants with prediabetes</cell><cell></cell><cell>D</cell><cell cols="2">CVD events among participants with diabetes</cell></row><row><cell></cell><cell></cell><cell>Hazard Ratio</cell><cell></cell><cell></cell><cell></cell><cell>Hazard Ratio</cell></row><row><cell cols="2">Source</cell><cell>(95% CI)</cell><cell></cell><cell cols="2">Source</cell><cell>(95% CI)</cell></row><row><cell>Men</cell><cell></cell><cell></cell><cell></cell><cell>Men</cell><cell></cell></row><row><cell cols="2">Normal glucose regulation</cell><cell>1.00 [Reference]</cell><cell></cell><cell cols="2">Normal glucose regulation</cell><cell>1.00 [Reference]</cell></row><row><cell cols="2">Prediabetes ideal metrics</cell><cell></cell><cell></cell><cell cols="2">Diabetes ideal metrics</cell></row><row><cell cols="2">≥5</cell><cell>0.57 (0.39-0.94)</cell><cell></cell><cell cols="2">≥5</cell><cell>0.91 (0.53-1.58)</cell></row><row><cell cols="2">4</cell><cell>0.66 (0.49-0.89)</cell><cell></cell><cell cols="2">4</cell><cell>1.20 (0.88-1.64)</cell></row><row><cell cols="2">3</cell><cell>0.96 (0.77-1.19)</cell><cell></cell><cell cols="2">3</cell><cell>1.63 (1.30-2.04)</cell></row><row><cell cols="2">2</cell><cell>1.04 (0.85 -1.28)</cell><cell></cell><cell cols="2">2</cell><cell>1.77 (1.42-2.19)</cell></row><row><cell cols="2">≤1</cell><cell>1.20 (0.97-1.49)</cell><cell></cell><cell cols="2">≤1</cell><cell>2.21 (1.78-2.75)</cell></row><row><cell cols="2">Women</cell><cell></cell><cell></cell><cell cols="2">Women</cell></row><row><cell cols="2">Normal glucose regulation</cell><cell>1.00 [Reference]</cell><cell></cell><cell cols="2">Normal glucose regulation</cell><cell>1.00 [Reference]</cell></row><row><cell cols="2">Prediabetes ideal metrics</cell><cell></cell><cell></cell><cell cols="2">Diabetes ideal metrics</cell></row><row><cell cols="2">≥5</cell><cell>0.55 (0.39-0.78)</cell><cell></cell><cell cols="2">≥5</cell><cell>0.75 (0.46-1.23)</cell></row><row><cell cols="2">4</cell><cell>0.77 ( 0.62-0.96)</cell><cell></cell><cell cols="2">4</cell><cell>1.41 (1.09-1.81)</cell></row><row><cell cols="2">3</cell><cell>0.82 (0.68-0.99)</cell><cell></cell><cell cols="2">3</cell><cell>1.44 (1.18-1.77)</cell></row><row><cell cols="2">2</cell><cell>1.06 (0.89-1.27)</cell><cell></cell><cell cols="2">2</cell><cell>1.62 (1.34-1.96)</cell></row><row><cell cols="2">≤1</cell><cell>1.46 (1.20-1.79)</cell><cell></cell><cell cols="2">≤1</cell><cell>1.98 (1.58-2.48)</cell></row><row><cell></cell><cell></cell><cell>0.2</cell><cell>1</cell><cell>2</cell><cell></cell><cell>0.2</cell><cell>1</cell><cell>4</cell></row><row><cell></cell><cell></cell><cell></cell><cell>Hazard Ratio (95% CI)</cell><cell></cell><cell></cell><cell>Hazard Ratio (95% CI)</cell></row><row><cell cols="2">A total of 111 765 participants</cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table><note>In the Steno-2 Study 27 of 160 patients with type 2 diabetes and microalbuminuria, implementations of behavior modification and pharmacologic therapy significantly reduced CVD risk by more than 50% after a follow-up of 7.8 years. In contrast, results from the Look AHEAD (Action for Health in Diabetes) 26 of 5145 overweight or obese individuals</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_6"><head></head><label></label><figDesc>Ideal Cardiovascular Health Metrics and Major Cardiovascular Events in Patients With Prediabetes and DiabetesOriginal Investigation Research</figDesc><table /><note>jamacardiology.com (Reprinted) JAMA Cardiology September 2019 Volume 4, Number 9</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_7"><head>Table 3 .</head><label>3</label><figDesc>Hazard Ratio (95% CI) of CVD Events According to Individual and Combined ICVHMs Among Participants With Prediabetes or Diabetes a</figDesc><table><row><cell></cell><cell></cell><cell>No. of</cell><cell></cell></row><row><cell>Category</cell><cell>Person-Years</cell><cell>Cases</cell><cell>HR (95% CI) b</cell></row><row><cell>Prediabetes</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Smoking status</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Nonideal</cell><cell>41 835</cell><cell>305</cell><cell>1 [Reference]</cell></row><row><cell>Ideal</cell><cell>178 928</cell><cell>1017</cell><cell>0.81 (0.69-0.95)</cell></row><row><cell>BMI</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Nonideal</cell><cell>145 971</cell><cell>939</cell><cell>1 [Reference]</cell></row><row><cell>Ideal</cell><cell>74 792</cell><cell>383</cell><cell>0.84 (0.74-0.95)</cell></row><row><cell>Physical activity</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Nonideal</cell><cell>187 860</cell><cell>1165</cell><cell>1 [Reference]</cell></row><row><cell>Ideal</cell><cell>32 903</cell><cell>157</cell><cell>0.81 (0.69-0.96)</cell></row><row><cell>Healthy diet</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Nonideal</cell><cell>118 821</cell><cell>814</cell><cell>1 [Reference]</cell></row><row><cell>Ideal</cell><cell>101 941</cell><cell>508</cell><cell>0.83 (0.74-0.93)</cell></row><row><cell>Total cholesterol</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Nonideal</cell><cell>98 553</cell><cell>690</cell><cell>1 [Reference]</cell></row><row><cell>Ideal</cell><cell>122 210</cell><cell>632</cell><cell>0.83 (0.75-0.93)</cell></row><row><cell>Blood pressure</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Nonideal</cell><cell>162 291</cell><cell>1166</cell><cell>1 [Reference]</cell></row><row><cell>Ideal</cell><cell>58 472</cell><cell>156</cell><cell>0.58 (0.49-0.69)</cell></row><row><cell>Glycated hemoglobin A 1c</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Nonideal</cell><cell>169 920</cell><cell>1011</cell><cell>1 [Reference]</cell></row><row><cell>Ideal</cell><cell>50 843</cell><cell>311</cell><cell>1.12 (0.98-1.27)</cell></row><row><cell>ICVHMs, No.</cell><cell></cell><cell></cell><cell></cell></row><row><cell>≤1</cell><cell>32 967</cell><cell>307</cell><cell>1 [Reference]</cell></row><row><cell>2</cell><cell>60 272</cell><cell>436</cell><cell>0.80 (0.69-0.93)</cell></row><row><cell>3</cell><cell>64 473</cell><cell>351</cell><cell>0.66 (0.56-0.77)</cell></row><row><cell>4</cell><cell>42 146</cell><cell>174</cell><cell>0.55 (0.46-0.67)</cell></row><row><cell>≥5</cell><cell>20 906</cell><cell>54</cell><cell>0.42 (0.32-0.57)</cell></row><row><cell>Each 1-number</cell><cell>NA</cell><cell>NA</cell><cell>0.82 (0.79-0.86)</cell></row><row><cell>increment in ICVHMs</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Diabetes</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Smoking status</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Nonideal</cell><cell>18 734</cell><cell>261</cell><cell>1 [Reference]</cell></row><row><cell>Ideal</cell><cell>74 324</cell><cell>846</cell><cell>0.81 (0.69-0.96)</cell></row><row><cell>BMI</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Nonideal</cell><cell>72 210</cell><cell>872</cell><cell>1 [Reference]</cell></row><row><cell>Ideal</cell><cell>20 848</cell><cell>235</cell><cell>0.99 (0.85-1.14)</cell></row><row><cell>Physical activity</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Nonideal</cell><cell>80 190</cell><cell>970</cell><cell>1 [Reference]</cell></row><row><cell>Ideal</cell><cell>12 868</cell><cell>137</cell><cell>0.91 (0.76-1.08)</cell></row><row><cell>Healthy diet</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Nonideal</cell><cell>51 214</cell><cell>657</cell><cell>1 [Reference]</cell></row><row><cell>Ideal</cell><cell>41 844</cell><cell>450</cell><cell>0.89 (0.78-0.99)</cell></row><row><cell>Total cholesterol</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Nonideal</cell><cell>48 044</cell><cell>624</cell><cell>1 [Reference]</cell></row><row><cell>Ideal</cell><cell>45 014</cell><cell>483</cell><cell>0.83 (0.74-0.94)</cell></row><row><cell>Blood pressure</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Nonideal</cell><cell>79 641</cell><cell>1036</cell><cell>1 [Reference]</cell></row><row><cell>Ideal</cell><cell>13 417</cell><cell>71</cell><cell>0.54 (0.42-0.69)</cell></row><row><cell>Glycated hemoglobin A 1c</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Nonideal</cell><cell>61 400</cell><cell>770</cell><cell>1 [Reference]</cell></row><row><cell>Ideal</cell><cell>31 658</cell><cell>337</cell><cell>0.85 (0.74-0.96)</cell></row><row><cell></cell><cell></cell><cell></cell><cell>(continued)</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_8"><head>Table 3 .</head><label>3</label><figDesc>Hazard Ratio (95% CI) of CVD Events According to Individual and Combined ICVHMs Among Participants With Prediabetes or Diabetes a (continued) Adjusted for age, sex, education attainment (less than high school, high school or greater), family history of diabetes (yes or no), family history of CVD (yes or no), and diabetes duration (for participants with diabetes only). Individual cardiovascular health metrics were mutually adjusted.</figDesc><table><row><cell></cell><cell></cell><cell>No. of</cell><cell></cell></row><row><cell>Category</cell><cell>Person-Years</cell><cell>Cases</cell><cell>HR (95% CI) b</cell></row><row><cell>No. of ICVHMs</cell><cell></cell><cell></cell><cell></cell></row><row><cell>≤1</cell><cell>17 554</cell><cell>272</cell><cell>1 [Reference]</cell></row><row><cell>2</cell><cell>28 819</cell><cell>366</cell><cell>0.81 (0.69-0.95)</cell></row><row><cell>3</cell><cell>26 777</cell><cell>305</cell><cell>0.74 (0.63-0.87)</cell></row><row><cell>4</cell><cell>14 000</cell><cell>133</cell><cell>0.64 (0.52-0.79)</cell></row><row><cell>≥5</cell><cell>5909</cell><cell>31</cell><cell>0.39 (0.27-0.56)</cell></row><row><cell>Each 1-number</cell><cell>NA</cell><cell>NA</cell><cell>0.85 (0.80-0.89)</cell></row><row><cell>increment in ICVHMs</cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="4">Abbreviations: BMI, body mass index; HR, hazard ratio; ICVHMs, ideal</cell></row><row><cell cols="3">cardiovascular health metrics; NA, not applicable.</cell><cell></cell></row><row><cell cols="4">a 61 024 participants with prediabetes and 25 860 with diabetes were included</cell></row><row><cell>in the analysis.</cell><cell></cell><cell></cell><cell></cell></row></table><note>b  </note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_9"><head></head><label></label><figDesc>Shanghai National Clinical Research Center for Endocrine and Metabolic Diseases, Key Laboratory for Endocrine and Metabolic Diseases of the National Health Commission of the PR China, Shanghai Institute of Endocrine and Metabolic Diseases, Ruijin Hospital, Shanghai Jiaotong University School of Medicine, Shanghai, China (T. Wang, Lu, Y. Chen, Bi, M. Li, M. Xu, Y. Xu, Z. Zhao, Dai, D. Zhang, Ning, W. Wang); Xinhua Hospital Affiliated to Shanghai Jiaotong University School of Medicine, Shanghai, China (Su); Chinese People's Liberation Army General Hospital, Beijing, China (Mu); Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China (L. Chen); Zhejiang Provincial Center for Disease Control andFigure 2. Hazard Ratio (95% CI) of Cardiovascular Disease (CVD) Events per 1-Number Increment in Ideal Cardiovascular Health Metrics (ICVHMs) According to Stratification Categories Among Participants With Prediabetes or DiabetesA total of 61 024 participants with prediabetes and 25 860 with diabetes were included in the analysis. Hazard ratios (95% CI) were adjusted for age, sex, education attainment (less than high school or high school or greater), family history of diabetes (yes or no), family history of CVD (yes or no), and diabetes duration (for participants with diabetes only).Ideal Cardiovascular Health Metrics and Major Cardiovascular Events in Patients With Prediabetes and DiabetesOriginal Investigation Research</figDesc><table><row><cell>A</cell><cell cols="2">CVD events among participants with prediabetes</cell><cell></cell><cell></cell><cell>B</cell><cell>CVD events among participants with diabetes</cell></row><row><cell></cell><cell></cell><cell>Hazard Ratio</cell><cell></cell><cell></cell><cell></cell><cell>Hazard Ratio</cell></row><row><cell cols="2">Source</cell><cell>(95% CI)</cell><cell></cell><cell>P Value for</cell><cell cols="2">Source</cell><cell>(95% CI)</cell><cell>P Value for</cell></row><row><cell cols="2">Age, y</cell><cell></cell><cell></cell><cell>Interaction</cell><cell cols="2">Age, y</cell><cell>Interaction</cell></row><row><cell cols="2">≥65</cell><cell>0.89 (0.82-0.96)</cell><cell></cell><cell></cell><cell cols="2">≥65</cell><cell>0.87 (0.80-0.94)</cell></row><row><cell cols="2">≥55 to &lt;65</cell><cell>0.81 (0.75-0.87)</cell><cell></cell><cell>.03</cell><cell cols="2">≥55 to &lt;65</cell><cell>0.82 (0.76-0.89)</cell><cell>.42</cell></row><row><cell cols="2">&lt;55</cell><cell>0.74 (0.67-0.83)</cell><cell></cell><cell></cell><cell cols="2">&lt;55</cell><cell>0.82 (0.72-0.93)</cell></row><row><cell>Sex</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>Sex</cell></row><row><cell cols="2">Men Women</cell><cell>0.85 (0.79-0.91) 0.79 (0.74-0.85)</cell><cell></cell><cell>.17</cell><cell cols="2">Men Women</cell><cell>0.84 (0.78-0.90) 0.85 (0.79-0.91)</cell><cell>.88</cell></row><row><cell cols="2">Education attainment, y</cell><cell></cell><cell></cell><cell></cell><cell cols="2">Education attainment, y</cell></row><row><cell cols="3">High school or more 0.79 (0.72-0.86) Less than high school 0.84 (0.80-0.89)</cell><cell></cell><cell>.18</cell><cell cols="2">High school or more 0.80 (0.73-0.87) Less than high school 0.87 (0.81-0.92)</cell><cell>.10</cell></row><row><cell cols="3">Family history of diabetes</cell><cell></cell><cell></cell><cell cols="2">Family history of diabetes</cell></row><row><cell cols="2">No Yes</cell><cell>0.82 (0.78-0.86) 0.88 (0.76-1.02)</cell><cell></cell><cell>.28</cell><cell cols="2">No Yes</cell><cell>0.85 (0.81-0.90) 0.82 (0.73-0.93)</cell><cell>.67</cell></row><row><cell cols="2">Family history of CVD</cell><cell></cell><cell></cell><cell></cell><cell cols="2">Family history of CVD</cell></row><row><cell cols="2">No Yes</cell><cell>0.89 (0.82-0.95) 0.77 (0.69-0.86)</cell><cell></cell><cell>.05</cell><cell cols="2">No Yes</cell><cell>0.80 (0.74-0.88) 0.81 (0.71-0.93)</cell><cell>.83</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">Diabetes duration, y</cell></row><row><cell></cell><cell></cell><cell>0.5</cell><cell>1</cell><cell>2</cell><cell cols="2">≥10</cell><cell>0.79 (0.69-0.90)</cell></row><row><cell></cell><cell></cell><cell cols="2">Hazard Ratio (95% CI)</cell><cell></cell><cell cols="2">≥5 to &lt;10</cell><cell>0.90 (0.78-1.03)</cell><cell>.25</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">0 to &lt;5</cell><cell>0.86 (0.80-0.91)</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>0.5</cell><cell>1</cell><cell>2</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>Hazard Ratio (95% CI)</cell></row></table><note>ARTICLE INFORMATIONAccepted for Publication: May 16, 2019. Published Online: July 31, 2019. doi:10.1001/jamacardio.2019.2499 Author Affiliations: jamacardiology.com (Reprinted) JAMA Cardiology September 2019 Volume 4, Number 9</note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">© 2019 American Medical Association. All rights reserved. Downloaded From: https://jamanetwork.com/ by a University of Michigan User on 07/01/2021</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">JAMA Cardiology September 2019 Volume 4, Number 9 (Reprinted) jamacardiology.com © 2019 American Medical Association. All rights reserved. Downloaded From: https://jamanetwork.com/ by a University of Michigan User on 07/01/2021</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0" />
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Author Contributions: Dr Wang had full access to all of the data in the study and takes responsibility for the integrity of the data and the accuracy of the data analysis. Drs T. Wang, J. Lu, Q. Su, and Y. Chen contributed equally as first authors. Concept and design: T. Wang, Mu, G. Wang, Lai, Ning, W. Wang. Acquisition, analysis, or interpretation of data: T. Wang, Su, Y. Chen, Bi, Lulu Chen, Hu, Tang, Yu, M. Li, M. Xu, Y. Xu, Z. Zhao, Yan, Qin, Wan, Dai, D. Zhang, Gao, Luo, Li Chen, Huo, Ye, Y. Zhang, Y. Wang </p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Tongji Hospital, Tongji Medical College</title>
+		<imprint>
+			<pubPlace>Wuhan, China (Yu</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Huazhong University of Science and Technology</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Sun Yat-sen Memorial Hospital</title>
+		<imprint/>
+		<respStmt>
+			<orgName>Sun Yat-sen University</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">The Affiliated Hospital of Luzhou Medical College</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Dalian Municipal Central Hospital</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">Jiangxi Provincial People&apos;s Hospital Affiliated to Nanchang University</title>
+		<imprint>
+			<pubPlace>Nanchang, China (Huo</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Central Hospital of Shanghai Jiading District</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Jiangsu Province Hospital on Integration of Chinese and Western Medicine</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m" type="main">Karamay Municipal People&apos;s Hospital</title>
+		<imprint>
+			<pubPlace>Xinjiang, China (Wu</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main">The First Affiliated Hospital of Chongqing Medical University</title>
+		<imprint>
+			<pubPlace>Nanjing, China (Yang; Chongqing, China (Deng; Houston, Texas (D. Li</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>The First Affiliated Hospital of Nanjing Medical University ; Department of Gastrointestinal Medical Oncology, the University of Texas MD Anderson Cancer Center</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Affiliated Hospital of Guiyang Medical College</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">The Affiliated Hospital of Luzhou Medical College</title>
+		<author>
+			<persName><forename type="first">China; Jiajun</forename><surname>Beijing</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">; ; Lulu</forename><surname>Phd</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Phd ; Lixin</forename><surname>Shi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Phd</forename><surname>Md</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sun Yat-sen Memorial Hospital</title>
+		<imprint>
+			<publisher>Zuojie Luo</publisher>
+		</imprint>
+		<respStmt>
+			<orgName>Shandong Provincial Hospital affiliated to Shandong University ; Chao Liu, MD, PhD, Jiangsu Province Hospital on Integration of Chinese and Western Medicine ; Huazhong University of Science and Technology ; Qiang Li, MD, PhD, The Second Affiliated Hospital of Harbin Medical University ; Tao Yang, MD, PhD, The First Affiliated Hospital of Nanjing Medical University ; Sun Yat-sen University ; The First Hospital of Jilin University ; The First Affiliated Hospital of Guangxi Medical University</orgName>
+		</respStmt>
+	</monogr>
+	<note>Municipal People&apos;s Hospital</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Yanan Huo, MD, PhD, Jiangxi Provincial People&apos;s Hospital Affiliated to Nanchang University</title>
+		<author>
+			<persName><forename type="first">Xulei</forename><surname>Tang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Phd</forename><surname>Md</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Zhejiang Provincial Center for Disease Control and Prevention</title>
+		<imprint/>
+		<respStmt>
+			<orgName>The First Hospital of Lanzhou University ; Gang Chen, MD, PhD, Fujian Provincial Hospital, Fujian Medical University ; Xinhua Hospital Affiliated to Shanghai Jiao-Tong University School of Medicine</orgName>
+		</respStmt>
+	</monogr>
+	<note>Qing Su</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">The First Affiliated Hospital of Anhui Medical University</title>
+		<author>
+			<persName><forename type="first">Youmin</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Phd</forename><surname>Md</surname></persName>
+		</author>
+		<imprint>
+			<pubPlace>Hefei, China</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Guijun</forename><surname>Qin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Phd</forename><surname>Md</surname></persName>
+		</author>
+		<imprint>
+			<pubPlace>Zhengzhou, China; Chongqing, China</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>The First Affiliated Hospital of Zhengzhou University ; Huacong Deng, MD, PhD, The First Affiliated Hospital of Chongqing Medical University</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<author>
+			<persName><forename type="first">Xuefeng</forename><surname>Yu</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Md</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tongji</forename><surname>Phd</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Hospital</surname></persName>
+		</author>
+		<ptr target="http://www.diabetesatlas.org/" />
+		<title level="m">Feixia Shen, MD, REFERENCES 1. International Diabetes Federation. IDF diabetes atlas</title>
+				<meeting><address><addrLine>Wuhan, China</addrLine></address></meeting>
+		<imprint/>
+		<respStmt>
+			<orgName>Tongji Medical College, Huazhong University of Science and Technology</orgName>
+		</respStmt>
+	</monogr>
+	<note>8th edition</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Accessed</forename></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2018-10-31">October 31. 2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Cardiovascular disease and risk management</title>
+		<idno type="DOI">10.2337/dc17-S012</idno>
+		<idno>doi:10. 2337/dc17-S012</idno>
+	</analytic>
+	<monogr>
+		<title level="j">American Diabetes Association</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="S75" to="S87" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note>Diabetes Care. suppl</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Improving outcomes in patients with type 2 diabetes mellitus and chronic heart failure: new hope</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kearney</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/1753-0407.12791</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J Diabetes</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="799" to="800" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Glycation and cardiovascular disease in diabetes: a perspective on the concept of metabolic memory</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">I</forename><surname>Yamagishi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Nakamura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Matsui</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/1753-0407.12475</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J Diabetes</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="141" to="148" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Macro-and microvascular endothelial dysfunction in diabetes</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Shi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Vanhoutte</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/1753-0407.12521</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J Diabetes</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="434" to="449" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Emerging Risk Factors Collaboration. Diabetes mellitus, fasting blood glucose concentration, and risk of vascular disease: a collaborative meta-analysis of 102 prospective studies</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Sarwar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Gao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Seshasai</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S0140-6736(10)60484-9</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">375</biblScope>
+			<biblScope unit="issue">9733</biblScope>
+			<biblScope unit="page" from="2215" to="2222" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Emerging Risk Factors Collaboration. Diabetes mellitus, fasting glucose, and risk of cause-specific death</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Rao Kondapally Seshasai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kaptoge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Thompson</surname></persName>
+		</author>
+		<idno type="DOI">10.1056/NEJMoa1008862</idno>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">364</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="829" to="841" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Global aetiology and epidemiology of type 2 diabetes mellitus and its complications</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Zheng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Ley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">B</forename><surname>Hu</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/nrendo.2017.151</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nat Rev Endocrinol</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="88" to="98" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Pre-diabetes and the risk for cardiovascular disease: a systematic review of the evidence</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Ford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Li</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jacc.2009.10.060</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Coll Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="issue">13</biblScope>
+			<biblScope unit="page" from="1310" to="1317" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Risk of cardiovascular disease and death in individuals with prediabetes defined by different criteria: the Whitehall II Study</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Vistisen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Witte</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Brunner</surname></persName>
+		</author>
+		<idno type="DOI">10.2337/dc17-2530</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="899" to="906" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Lloyd-Jones Dm</forename><surname>Hong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Labarthe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Defining and setting national goals for cardiovascular health promotion and disease reduction: the American Heart Association&apos;s strategic Impact Goal through 2020 and beyond</title>
+		<idno type="DOI">10.1161/CIRCULATIONAHA.109.192703</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">121</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="586" to="613" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note>American Heart Association Strategic Planning Task Force and Statistics Committee</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Community prevalence of ideal cardiovascular health, by the American Heart Association definition, and relationship with cardiovascular disease incidence</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Folsom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Yatsuya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Nettleton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">L</forename><surname>Lutsey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Cushman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">D</forename><surname>Rosamond</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jacc.2010.11.041</idno>
+	</analytic>
+	<monogr>
+		<title level="m">ARIC Study Investigators</title>
+				<imprint>
+			<date type="published" when="2011">2011</date>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="page" from="1690" to="1696" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Trends in cardiovascular health metrics and associations with all-cause and CVD mortality among US adults</title>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Cogswell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">D</forename><surname>Flanders</surname></persName>
+		</author>
+		<idno type="DOI">https://jama.jamanetwork.com/article.aspx?doi=10.1001/jama.2012.339&amp;utm_campaign=articlePDF%26utm_medium=articlePDFlink%26utm_source=articlePDF%26utm_content=jamacardio.2019.2499</idno>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">307</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="1273" to="1283" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Ideal cardiovascular health, mortality, and vascular events in elderly subjects: the Three-City Study</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Gaye</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Canonico</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Perier</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jacc.2017.05.011</idno>
+		<idno>doi:10. 1016/j.jacc.2017.05.011</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Coll Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">69</biblScope>
+			<biblScope unit="issue">25</biblScope>
+			<biblScope unit="page" from="3015" to="3026" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Predictive values of fasting glucose, postload glucose, and hemoglobin A 1c on risk of diabetes and complications in Chinese adults</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>He</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Li</surname></persName>
+		</author>
+		<idno type="DOI">10.2337/dc18-1390</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="page">181390</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+		<respStmt>
+			<orgName>4C Study Group</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">China Noncommunicable Disease Surveillance Group. Prevalence and control of diabetes in Chinese adults</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Craig</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Marshall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sjöström</surname></persName>
+		</author>
+		<idno type="DOI">https://jama.jamanetwork.com/article.aspx?doi=10.1001/jama.2013.168118&amp;utm_campaign=articlePDF%26utm_medium=articlePDFlink%26utm_source=articlePDF%26utm_content=jamacardio.2019.2499</idno>
+		<idno>doi:10.1001/ jama.2013.168118</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Med Sci Sports Exerc</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="948" to="959" />
+			<date type="published" when="2003">2003. 2010. 2013</date>
+		</imprint>
+	</monogr>
+	<note>JAMA</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">World Health Organization, International Association for the Study of Obesity, International Obesity Task Force. The Asia-Pacific Perspective: Redefining Obesity and Its Treatment</title>
+		<idno type="DOI">10.2337/dc10-S062</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="S62" to="S69" />
+			<date type="published" when="2000">2010. 2000</date>
+			<publisher>Health Communications Australia Pty Ltd</publisher>
+		</imprint>
+	</monogr>
+	<note>Diagnosis and classification of diabetes mellitus</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">BMI cut points to identify at-risk Asian Americans for type 2 diabetes screening</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">C</forename><surname>Hsu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Araneta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Kanaya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Chiang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Fujimoto</surname></persName>
+		</author>
+		<idno type="DOI">10.2337/dc14-2391</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="150" to="158" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Rapid health transition in China, 1990-2010: findings from the Global Burden of Disease Study</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Zeng</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S0140-6736(13)61097-1</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">381</biblScope>
+			<biblScope unit="issue">9882</biblScope>
+			<biblScope unit="page" from="1987" to="2015" />
+			<date type="published" when="2010">2010. 2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">China Kadoorie Biobank Study. Fresh fruit consumption and major cardiovascular disease in China</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Du</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Bennett</surname></persName>
+		</author>
+		<idno type="DOI">10.1056/NEJMoa1501451</idno>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">374</biblScope>
+			<biblScope unit="issue">14</biblScope>
+			<biblScope unit="page" from="1332" to="1343" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Glycemic targets: standards of medical care in diabetes-2018</title>
+		<idno type="DOI">10.2337/dc18-S006</idno>
+		<idno>doi:10. 2337</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="18" to="S24" />
+			<date type="published" when="2018">2018</date>
+			<publisher>American Diabetes Association</publisher>
+		</imprint>
+	</monogr>
+	<note>suppl</note>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Cardiovascular mortality, all-cause mortality, and diabetes incidence after lifestyle intervention for people with impaired glucose tolerance in the Da Qing Diabetes Prevention Study: a 23-year follow-up study</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wang</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S2213-8587(14)70057-9</idno>
+		<idno>doi:10. 1016/S2213-8587</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Diabetes Endocrinol</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="70057" to="70059" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

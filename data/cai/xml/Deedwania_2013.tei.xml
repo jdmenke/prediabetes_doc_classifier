@@ -1,0 +1,1086 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Prediabetes is not an independent risk factor for incident heart failure, other cardiovascular events or mortality in older adults: Findings from a population-based cohort study</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2013-05-31">31 May 2013</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Prakash</forename><surname>Deedwania</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">University of California</orgName>
+								<address>
+									<settlement>San Francisco</settlement>
+									<region>CA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Kanan</forename><surname>Patel</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution">University of Alabama at Birmingham</orgName>
+								<address>
+									<settlement>Birmingham</settlement>
+									<region>AL</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Gregg</forename><forename type="middle">C</forename><surname>Fonarow</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="institution">University of California</orgName>
+								<address>
+									<settlement>Los Angeles</settlement>
+									<region>CA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Ravi</forename><forename type="middle">V</forename><surname>Desai</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="institution">Lehigh Valley Hospital</orgName>
+								<address>
+									<settlement>Allentown</settlement>
+									<region>PA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Yan</forename><surname>Zhang</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution">University of Alabama at Birmingham</orgName>
+								<address>
+									<settlement>Birmingham</settlement>
+									<region>AL</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Margaret</forename><forename type="middle">A</forename><surname>Feller</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution">University of Alabama at Birmingham</orgName>
+								<address>
+									<settlement>Birmingham</settlement>
+									<region>AL</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Fernando</forename><surname>Ovalle</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution">University of Alabama at Birmingham</orgName>
+								<address>
+									<settlement>Birmingham</settlement>
+									<region>AL</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Thomas</forename><forename type="middle">E</forename><surname>Love</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="institution">Case Western Reserve University</orgName>
+								<address>
+									<settlement>Cleveland</settlement>
+									<region>OH</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Inmaculada</forename><forename type="middle">B</forename><surname>Aban</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution">University of Alabama at Birmingham</orgName>
+								<address>
+									<settlement>Birmingham</settlement>
+									<region>AL</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Marjan</forename><surname>Mujib</surname></persName>
+							<affiliation key="aff5">
+								<orgName type="institution">New York Medical College</orgName>
+								<address>
+									<settlement>Valhalla</settlement>
+									<region>NY</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName><forename type="first">Mustafa</forename><forename type="middle">I</forename><surname>Ahmed</surname></persName>
+							<email>aahmed@uab.edu</email>
+							<affiliation key="aff1">
+								<orgName type="institution">University of Alabama at Birmingham</orgName>
+								<address>
+									<settlement>Birmingham</settlement>
+									<region>AL</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Stefan</forename><forename type="middle">D</forename><surname>Anker</surname></persName>
+							<affiliation key="aff6">
+								<orgName type="department">Centre for Clinical and Basic Research</orgName>
+								<orgName type="institution">IRCCS San Raffaele</orgName>
+								<address>
+									<settlement>Rome</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Ali</forename><surname>Ahmed</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution">University of Alabama at Birmingham</orgName>
+								<address>
+									<settlement>Birmingham</settlement>
+									<region>AL</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff7">
+								<orgName type="institution">Veterans Affairs Medical Center</orgName>
+								<address>
+									<settlement>Birmingham</settlement>
+									<region>AL</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff8">
+								<orgName type="institution">University of Alabama at Birmingham</orgName>
+								<address>
+									<addrLine>1720 2nd Ave South, CH-19, Ste-219</addrLine>
+									<postCode>35294-2041</postCode>
+									<settlement>Birmingham</settlement>
+									<region>AL</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff9">
+								<orgName type="institution">Ms. Jean B. Morris of Birmingham</orgName>
+								<address>
+									<region>Alabama</region>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Prediabetes is not an independent risk factor for incident heart failure, other cardiovascular events or mortality in older adults: Findings from a population-based cohort study</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2013-05-31">31 May 2013</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">EE5A1061F87EA49A8E494CC65922A10F</idno>
+					<idno type="DOI">10.1016/j.ijcard.2013.05.038</idno>
+					<note type="submission">Received 4 September 2011 Received in revised form 24 April 2013 Accepted 4 May 2013</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.1" ident="GROBID" when="2022-07-19T23:00+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>Prediabetes Diabetes Heart failure Older adults Propensity-matched study</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Background: Whether prediabetes is an independent risk factor for incident heart failure (HF) in non-diabetic older adults remains unclear. Methods: Of the 4602 Cardiovascular Health Study participants, age ≥ 65 years, without baseline HF and diabetes, 2157 had prediabetes, defined as fasting plasma glucose (FPG) 100-125 mg/dL. Propensity scores for prediabetes, estimated for each of the 4602 participants, were used to assemble a cohort of 1421 pairs of individuals with and without prediabetes, balanced on 44 baseline characteristics.</p><p>Results: Participants had a mean age of 73 years, 57% were women, and 13% African American. Incident HF occurred in 18% and 20% of matched participants with and without prediabetes, respectively (hazard ratio {HR} associated with prediabetes, 0.90; 95% confidence interval {CI}, 0.76-1.07; p = 0.239). Unadjusted and multivariable-adjusted HRs (95% CIs) for incident HF associated with prediabetes among 4602 pre-match participants were 1.22 (95% CI, 1.07-1.40; p = 0.003) and 0.98 (95% CI, 0.85-1.14; p = 0.826), respectively. Among matched individuals, prediabetes had no independent association with incident acute myocardial infarction (HR, 1.02; 95% CI, 0.81-1.28; p = 0.875), angina pectoris (HR, 0.93; 95% CI, 0.77-1.12; p = 0.451), stroke (HR, 0.86; 95% CI, 0.70-1.06; p = 0.151) or all-cause mortality (HR, 0.99; 95% CI, 0.88-1.11; p = 0.840). Conclusions: We found no evidence that prediabetes is an independent risk factor for incident HF, other cardiovascular events or mortality in community-dwelling older adults. These findings question the wisdom of routine screening for prediabetes in older adults and targeted interventions to prevent adverse outcomes in older adults with prediabetes.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Introduction</head><p>Prediabetes is associated with increased risk of type II diabetes <ref type="bibr" target="#b0">[1]</ref>, which in turn is associated with poor cardiovascular outcomes <ref type="bibr" target="#b1">[2,</ref><ref type="bibr" target="#b2">3]</ref>. Prediabetes has also been observed to be associated with higher risk of cardiovascular events in younger adults <ref type="bibr" target="#b3">[4]</ref>. However, it is unknown whether prediabetes would also be associated with poor outcomes in older adults who might be exposed to multiple other competing risk factors. Further, whether the association of prediabetes with cardiovascular events is truly independent has not been examined in well-balanced propensity score-matched populations <ref type="bibr" target="#b4">[5,</ref><ref type="bibr" target="#b5">6]</ref>. Importantly, if prediabetes indeed had an independent association with incident cardiovascular events, whether that would translate into higher mortality in older adults with prediabetes has not been previously examined. This is important as the prevalence of prediabetes increases with age <ref type="bibr" target="#b6">[7]</ref>. Therefore, we examined the independent associations of prediabetes with incident heart failure (HF) and other cardiovascular events, and all-cause and cause-specific mortalities in propensity-matched cohorts of community-dwelling older adults in the Cardiovascular Health Study (CHS).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1.">Study design and participants</head><p>The CHS is a National Heart, Lung, and Blood Institute (NHLBI)-funded longitudinal study of community-dwelling older adults to identify the presence and severity of traditional as well as new risk factors for cardiovascular disease among older adults <ref type="bibr" target="#b7">[8]</ref>. Participants aged ≥ 65 years were recruited in two phases from four communities: Forsyth County, North Carolina, Sacramento County, California, Washington County, Maryland, and Pittsburgh, Pennsylvania. An original cohort (n = 5201) was recruited between 1989 and 1990, and a second cohort (n = 687) of African-Americans was recruited between 1992 and 1993 <ref type="bibr" target="#b8">[9]</ref>.</p><p>For the current analysis, we used a de-identified public-use copy of the CHS data obtained from the NHLBI, which is similar to the main CHS data, except that 93 participants did not consent to be included in that data. From the 5795 participants in the public-use copy of the data, we excluded 79 participants with missing baseline fasting plasma glucose (FPG) data, 930 participants with baseline diabetes, defined by the 2008 American Diabetes Association (ADA) criterion of FPG level ≥ 126 mg/dL <ref type="bibr" target="#b9">[10]</ref> or treatment with insulin or hypoglycemic drugs, and 184 participants with centrallyadjudicated baseline prevalent HF <ref type="bibr" target="#b10">[11]</ref>, resulting in a final sample size of 4602 participants for the current analysis (Fig. <ref type="figure" target="#fig_0">1</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.">Prediabetes and other baseline measurements</head><p>Of the 4602 participants without baseline diabetes, 2157 (47%) had prediabetes based on the ADA criterion of FPG 100-125 mg/dL <ref type="bibr" target="#b9">[10]</ref>, leaving 2445 (53%) without baseline prediabetes or diabetes. Data on demographic, clinical and laboratory variables were collected at baseline and have been previously described in detail <ref type="bibr" target="#b7">[8,</ref><ref type="bibr" target="#b8">9]</ref>. Missing values were imputed using values predicted by age, sex and race.</p><p>Because only the original CHS cohort had data on oral glucose tolerance test (OGTT), we assembled a second cohort to estimate the association of prediabetes based on impaired OGTT. Of the 4602 CHS participants without baseline diabetes based on baseline FPG, 4151 (90%) belonged to the CHS original cohort. Of these, 425 (10%) had diabetes based on OGTT. After excluding these 425 participants with diabetes, the cohort for OGTT analysis included 3726 participants, of whom 2431 (65%) had no prediabetes or diabetes (normal OGTT), and 1295 (35%) had prediabetes (impaired OGTT).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.3.">Outcome measures</head><p>The primary outcome of interest for the current analysis was incident HF during 13 years of total follow-up. The CHS Events Committee centrally adjudicated incident HF and other outcomes and the process of adjudication has been previously described <ref type="bibr" target="#b8">[9,</ref><ref type="bibr" target="#b11">12,</ref><ref type="bibr" target="#b12">13]</ref>. Briefly, self-reports of physician-diagnosed HF were obtained during semi-annual visits, which were later on verified through the review of medical records for symptoms, signs and clinical findings, use of medications commonly used for HF and follow-up surveillance assessments. Secondary outcomes were all-cause mortality, cause-specific mortality and other incident cardiovascular events such as acute myocardial infarction, angina pectoris, stroke, and peripheral artery disease. To account for the competing risk of death on incident HF, we also estimated the association of prediabetes with the composite endpoint of incident HF or all-cause mortality. All outcomes were centrally adjudicated by the CHS events committee and have been previously described <ref type="bibr" target="#b10">[11,</ref><ref type="bibr" target="#b12">13]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.4.">Assembly of a balanced study cohort</head><p>Due to significant imbalances in pre-match baseline characteristics between participants with and without prediabetes (Table <ref type="table" target="#tab_0">1</ref> and Fig. <ref type="figure" target="#fig_1">2</ref>), we used propensity score matching to assemble a cohort in which those with and without prediabetes would be well-balanced on all measured baseline covariates <ref type="bibr" target="#b4">[5,</ref><ref type="bibr" target="#b5">6,</ref><ref type="bibr" target="#b13">14,</ref><ref type="bibr" target="#b14">15]</ref>. The propensity score for prediabetes is the conditional probability of having prediabetes given a set of baseline covariates. We estimated a propensity score for prediabetes (FPG 100-125 mg/dL) for each of the 4602 participants using a non-parsimonious multivariable logistic regression model based on the 44 baseline characteristics shown in Fig. 2 <ref type="bibr" target="#b15">[16]</ref><ref type="bibr" target="#b16">[17]</ref><ref type="bibr" target="#b17">[18]</ref><ref type="bibr" target="#b18">[19]</ref><ref type="bibr" target="#b19">[20]</ref>. Using a greedy matching protocol described elsewhere, we assembled a cohort of 1421 pairs of participants with and without prediabetes who had similar propensity scores <ref type="bibr" target="#b20">[21]</ref><ref type="bibr" target="#b21">[22]</ref><ref type="bibr" target="#b22">[23]</ref>. Absolute standardized differences were estimated to quantify bias in the means of covariates across the groups and are displayed in a Love plot <ref type="bibr" target="#b4">[5,</ref><ref type="bibr" target="#b20">[21]</ref><ref type="bibr" target="#b21">[22]</ref><ref type="bibr" target="#b22">[23]</ref>]. An absolute standardized difference of 0% indicates no residual bias and we regard absolute standardized differences b10% is ignorable.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.5.">Statistical analysis</head><p>Descriptive analyses used Pearson's Chi-square, Wilcoxon rank-sum, McNemar's and paired sample t-tests to compare those with and without prediabetes as appropriate. Kaplan Meier analyses and Cox proportional hazard models were used to evaluate the associations of prediabetes with incident HF and other outcomes in the post-match cohorts. To examine interaction with age and insulin resistance, we examined these associations by age tertile and homeostasis model assessment-insulin resistance (HOMA-IR) median. A multivariable Cox regression model, adjusting for all covariates used in the propensity model as displayed in Fig. <ref type="figure" target="#fig_1">2</ref>, was used to estimate hazard ratios (HR) associated with prediabetes among pre-match participants. We also examined the incidence of diabetes during follow-up but before incidence of HF, and used logistic regression analysis to compare incident diabetes between those with and without prediabetes. All statistical tests were two-tailed with 95% confidence levels (CI), and SPSS for Windows (Rel. 18, 2009; Chicago: SPSS Inc.) was used for all data analysis.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1.">Baseline characteristics</head><p>Matched participants had a mean (±SD) age of 73 (± 6) years, 57% were women, and 13% were African Americans. Before matching, compared to the no prediabetes group, subjects with prediabetes were more likely to be male, white, had coronary artery disease, hypertension, chronic kidney disease, and had higher mean body mass index. These and all of the remaining 44 measured baseline characteristics were balanced after matching (Table <ref type="table" target="#tab_0">1</ref> and Fig. <ref type="figure" target="#fig_1">2</ref>). Post-match absolute standardized differences for all measured covariates were b10%, suggesting substantial covariate balance between the two groups (Fig. <ref type="figure" target="#fig_1">2</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2.">Association of prediabetes with incident heart failure</head><p>Incident HF occurred in 18% and 20% of matched participants with and without prediabetes, respectively (HR, 0.90; 95% CI, 0.76-1.07; p = 0.239; Fig. <ref type="figure" target="#fig_2">3</ref> and Table <ref type="table" target="#tab_3">2</ref>). Unadjusted, multivariable-adjusted and propensity-adjusted associations of prediabetes with incident HF among pre-match participants are displayed in Table <ref type="table" target="#tab_3">2</ref>. Prediabetes-associated HRs (95% CIs) for incident HF for matched participants age b 70, 70-75, ≥ 76 years were 0.95 (0.64-1.41; p = 0.798), 0.92 (0.69-1.24; p = 0.593), and 0.85 (0.67-1.09; p = 0.199), respectively. Prediabetes-associated HRs (95% CIs) for incident HF for matched participants at or below and above median HOMA-IR were 0.90 (0.70-1.14; p = 0.381) and 0.92 (0.72-1.17; p = 0.501), respectively. Among matched individuals, prediabetes had no association with the composite endpoint of all-cause mortality or incident HF (HR, 0.98; 95% CI, 0.88-1.09; p = 0.661). This association did not vary by age tertile or HOMA-IR median.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CHS (N=5888)</head><p>Original cohort (n=5201) and second cohort (n=687) When prediabetes was defined as impaired 2-hour OGTT, unadjusted and multivariable-adjusted HRs for incident HF prediabetes were 1.33 (95% CI, 1.14-1.54; p b 0.001) and 1.06 (95% CI, 0.90-1.25; p = 0.474), respectively.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.3.">Association of prediabetes with other incident cardiovascular events</head><p>Prediabetes had a significant unadjusted association with incident acute myocardial infarction (unadjusted HR, 1.24; 95% CI, 1.03-1.48; p = 0.022) and angina pectoris (unadjusted HR, 1.23; 95% CI, 1.06-1.43; p = 0.005) but not with stroke (unadjusted HR, 0.99; 95% CI, 0.84-1.17; p = 0.924; Table <ref type="table" target="#tab_2">3</ref>). However, these associations became non-significant after multivariable adjustment for baseline confounders, adjustment for propensity scores, and in the propensity-matched cohort (Table <ref type="table" target="#tab_2">3</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.4.">Association of prediabetes with mortality</head><p>All-cause mortality occurred in 43% and 39% of pre-match participants with and without prediabetes, respectively (unadjusted HR, 1.14; 95% CI, 1.04-1.25; p = 0.005; Table <ref type="table" target="#tab_4">4</ref>) and in 42% of matched participants both with and without prediabetes (matched HR, 0.99; 95% CI, 0.88-1.11; p = 0.840; Fig. <ref type="figure" target="#fig_3">4 and Table 4</ref>). This association did not vary by age tertile or HOMA-IR median. The associations of prediabetes with cardiovascular and non-cardiovascular mortalities are displayed in Table <ref type="table" target="#tab_4">4</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.5.">Association of prediabetes with incident diabetes</head><p>Of the 4602 participants without diabetes and prevalent HF at baseline, 3889 had data on diabetes status during follow-up. Overall, 183 (4%) had developed incident diabetes before incident HF, which </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.6.">Association of incident diabetes with outcomes</head><p>Incident HF occurred in 20% (36/183) and 21% (772/3706) of participants with and without incident diabetes, respectively (p = 0.706). All-cause mortality occurred in 32% (58/183) of participants with incident diabetes and 39% (1451/3706) of those who did not develop new-onset diabetes (unadjusted OR associated with incident diabetes, 0.72; 95% CI, 0.53-0.99; p = 0.044). Those with incident diabetes were younger than those without diabetes (mean age 71.5 versus 73.3 years for those with and without incident diabetes respectively; p b 0.001) and adjustment for age alone made this association non-significant (age-adjusted HR, 0.94; 95% CI, 0.67-1.31; p = 0.695). Additional adjustment in a multivariable model did not alter this association (adjusted HR, 0.93; 95% CI, 0.64-1.35; p = 0.691).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Discussion</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.1.">Brief summary of the key findings</head><p>In community-dwelling older adults without diabetes, prediabetes was associated with higher unadjusted risk of incident HF, other cardiovascular events and mortality. However, there was no evidence that any of these associations were independent of other confounding risk factors. Although prediabetes increased the risk of incident diabetes, the absolute rate of incident diabetes was low and incident diabetes by itself was also not an independent predictor of poor cardiovascular outcomes, likely due to deaths from other competing risk factors before the development of diabetes-related complications in older adults with incident diabetes. Prediabetes is often targeted for intervention efforts for the prevention of diabetes and subsequent adverse cardiovascular events. Findings from the current study suggest that such interventions may not improve cardiovascular outcomes in older adults.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.2.">Potential explanations for the key findings</head><p>Observed unadjusted associations of prediabetes with incident HF and other cardiovascular events are likely attributable to confounding as these associations disappeared after these confounders were accounted for. An increased cardiovascular risk in those with prediabetes would be expected to be mediated through an increased risk of incident diabetes. However, the low incidence of diabetes and short follow-up after incident diabetes may have precluded the manifestation of adverse cardiovascular effects associated with diabetes.   This is supported by our observation that incident diabetes in general had no significant association with HF and all-cause mortality. It is also possible that new-onset diabetes in older adults is pathophysiologically different from that in younger patients <ref type="bibr" target="#b23">[24]</ref>. The recent decrease of the FPG cutoff from 110 mg/dL to 100 mg/dL by the ADA to define impaired fasting glucose (IFG) may also help explain the observed non-significant associations between prediabetes and cardiovascular outcomes <ref type="bibr" target="#b24">[25]</ref>. Another potential explanation is that older adults with incident diabetes might die from other competing risk factors before development of diabetes-related complications <ref type="bibr" target="#b25">[26]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Age</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.3.">Comparison with relevant published findings</head><p>A previous study of the original CHS cohort demonstrated that the FPG ≥ 115 mg/dL (versus b115 mg/dL) was associated with cardiovascular events <ref type="bibr" target="#b26">[27]</ref>. In that study, FPG ≥ 115 group also included those with untreated diabetes and incident HF was not an end point. In a study of younger (mean age, ~60 years) veterans without a history of diabetes, serum glucose was associated with incident HF <ref type="bibr" target="#b27">[28]</ref>. A meta-regression analysis of 20 prospective studies demonstrated that the risk of cardiovascular events progressively increased with increasing serum glucose levels, even among those without diabetes <ref type="bibr" target="#b28">[29]</ref>. A recent systematic review also reported an association of prediabetes with higher risk of incident cardiovascular disease <ref type="bibr" target="#b3">[4]</ref>. Although that study did not report age, most of the participants were young and middle aged. For example, of the eighteen studies that used the same ADA criterion as in the current study, the two studies with the highest weights were based on men 40 to 59 years of age and men and women 30 to 89 years of age (mean, about 53 years), respectively <ref type="bibr" target="#b29">[30,</ref><ref type="bibr" target="#b30">31]</ref>. In contrast to the aforementioned studies, our study is distinguished by the use of FPG, exclusion of patients with prevalent HF at baseline, central adjudication of incident HF, long-term follow up, the use of propensity scores to assemble a balanced cohort, and sensitivity analysis using various definitions of prediabetes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.4.">Potential clinical and/or public health implications</head><p>Findings from the National Health and Nutrition Examination Survey <ref type="bibr">(2005)</ref><ref type="bibr">(2006)</ref> demonstrated that nearly 30% of Americans ≥ 20 years have prediabetes, which increases to about 50% for those ≥75 years <ref type="bibr" target="#b6">[7]</ref>. The ADA recommends diabetes prevention for selected high-risk individuals with prediabetes <ref type="bibr" target="#b31">[32]</ref>. Because such interventions have been shown to reduce the incidence of diabetes, it is tempting to conclude that they would also reduce cardiovascular events. However, a recent meta-analysis of randomized clinical trials of prediabetes interventions (n = 23,152) has demonstrated that while there was a significant reduction in incident diabetes, there was no reduction in all-cause mortality or cardiovascular events <ref type="bibr" target="#b32">[33]</ref>. Although that study included both younger and older patients, findings from our study suggest given the lack of an independent association between prediabetes and poor outcomes in older adults, such interventions are unlikely to improve outcomes in older adults with prediabetes <ref type="bibr" target="#b25">[26]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.5.">Limitations</head><p>Our study has several limitations. Participants without prediabetes may have developed prediabetes during follow-up, thus causing regression dilution and underestimation of the true association <ref type="bibr" target="#b33">[34]</ref>. However, the higher incidence of diabetes among those with prediabetes may have cancelled that out. In addition, our sample size might be relatively small. It is possible that some individuals with elevated HbA1c but normal FPG were misclassified as prediabetes <ref type="bibr" target="#b34">[35]</ref>. However, CHS only had a single baseline FPG level and did not collect data on HbA1c. In one study, HbA1c of 6.5% or higher identified  fewer individuals with diabetes than those identified by the ADA criterion of criterion of FPG level ≥ 126 mg/dL <ref type="bibr" target="#b35">[36]</ref>. We also do not have follow-up data on left ventricular ejection fraction. Naturally, our findings based on older adults may not be generalized to younger adults. However, despite suggestions of higher risk of cardiovascular events in younger and middle-age adults with prediabetes <ref type="bibr" target="#b3">[4]</ref>, interventions do not seem to reduce all-cause mortality or cardiovascular events in these patients <ref type="bibr" target="#b32">[33]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.6.">Conclusions</head><p>Among community-dwelling older adults, we found no evidence of an independent association of prediabetes with higher risk of incident HF, other cardiovascular events or mortality. This is in contrast to the reported association of prediabetes with higher risk of these outcomes in younger and middle-aged adults, and is likely explained in part by the fact that older adults with new-onset diabetes might die from other competing risk factors for mortality, before developing diabetes-related cardiovascular or other complications. Findings from this study should not be generalized to younger and middle-aged adults with prediabetes. Although currently there is no effective intervention to reduce all-cause mortality or cardiovascular events in those with prediabetes <ref type="bibr" target="#b32">[33]</ref>, definite answers await future large-scale prospective randomized clinical trials. However, findings of the current study suggest that there is no evidence that targeted interventions may reduce risk of adverse cardiovascular events and death in community-dwelling older adults with prediabetes and thus, older adults should not be routinely screened for prediabetes.  </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1 .</head><label>1</label><figDesc>Fig.1. Flow chart displaying assembly of the study cohort.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 2 .</head><label>2</label><figDesc>Fig.2. Love plot comparing absolute standardized differences of 44 baseline characteristics between diabetes-free older adults with and without prediabetes, before and after propensity score matching (ACE = angiotensin-converting enzyme; ADL = activities of daily living; BP = blood pressure; CCB = calcium channel blockers; COPD = chronic obstructive pulmonary disease; LV = left ventricular; MMSE = Mini-Mental State Examination; PS = potassium sparing).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>FollowFig. 3 .</head><label>3</label><figDesc>Fig. 3. Kaplan-Meier plot for incident heart failure by prediabetes among propensitymatched older adults without diabetes (*Hazard ratio when individuals with prediabetes was compared to those without prediabetes; CI=confidence interval).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Fig. 4 .</head><label>4</label><figDesc>Fig. 4. Kaplan-Meier plot for all-cause mortality by prediabetes among propensitymatched older adults without diabetes (*Hazard ratio when individuals with prediabetes was compared to those without prediabetes; CI=confidence interval).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Baseline characteristics by prediabetes.</figDesc><table><row><cell>N (%) or mean (±SD)</cell><cell>Before matching</cell><cell></cell><cell></cell><cell>After matching</cell><cell></cell><cell></cell></row><row><cell></cell><cell>Prediabetes</cell><cell></cell><cell>p value</cell><cell>Prediabetes</cell><cell></cell><cell>p value</cell></row><row><cell></cell><cell>No (n = 2445)</cell><cell>Yes (n = 2157)</cell><cell></cell><cell>No (n = 1421)</cell><cell>Yes (n = 1421)</cell><cell></cell></row><row><cell>Age, years</cell><cell>73 (±6)</cell><cell>73 (±6)</cell><cell>0.302</cell><cell>73 (±6)</cell><cell>73 (±6)</cell><cell>0.806</cell></row><row><cell>Female</cell><cell>1559 (64%)</cell><cell>1155 (54%)</cell><cell>b0.001</cell><cell>807 (57%)</cell><cell>821 (58%)</cell><cell>0.618</cell></row><row><cell>African American</cell><cell>355 (15%)</cell><cell>255 (12%)</cell><cell>0.007</cell><cell>184 (13%)</cell><cell>192 (14%)</cell><cell>0.697</cell></row><row><cell>Married</cell><cell>1635 (67%)</cell><cell>1466 (68%)</cell><cell>0.430</cell><cell>953 (67%)</cell><cell>970 (68%)</cell><cell>0.516</cell></row><row><cell>College or higher education</cell><cell>1143 (47%)</cell><cell>903 (42%)</cell><cell>0.001</cell><cell>618 (44%)</cell><cell>614 (43%)</cell><cell>0.909</cell></row><row><cell>Income ≥ $25 thousand</cell><cell>962 (39%)</cell><cell>795 (37%)</cell><cell>0.083</cell><cell>531 (37%)</cell><cell>541 (38%)</cell><cell>0.727</cell></row><row><cell>Fair and poor general health</cell><cell>502 (21%)</cell><cell>446 (21%)</cell><cell>0.903</cell><cell>303 (21%)</cell><cell>295 (21%)</cell><cell>0.746</cell></row><row><cell>Activities of daily living</cell><cell>0.1 (±0.4)</cell><cell>0.1 (±0.5)</cell><cell>0.986</cell><cell>0.1 (±0.4)</cell><cell>0.1 (±0.4)</cell><cell>0.759</cell></row><row><cell>Instrumental activities of daily living</cell><cell>0.3 (±0.7)</cell><cell>0.3 (±0.7)</cell><cell>0.701</cell><cell>0.3 (±0.7)</cell><cell>0.3 (±0.7)</cell><cell>0.979</cell></row><row><cell>Walking 0.5 mile without difficulty</cell><cell>2092 (86%)</cell><cell>1789 (83%)</cell><cell>0.015</cell><cell>1195 (84%)</cell><cell>1195 (84%)</cell><cell>1.000</cell></row><row><cell>Smoking, pack years</cell><cell>15 (±24)</cell><cell>19 (±28)</cell><cell>b0.001</cell><cell>17 (±26)</cell><cell>17 (±25)</cell><cell>0.926</cell></row><row><cell>Alcohol intake, units/week</cell><cell>2 (±5)</cell><cell>3 (±8)</cell><cell>b0.001</cell><cell>3 (±6)</cell><cell>3 (±7)</cell><cell>0.447</cell></row><row><cell>Energy expended, kcal/week</cell><cell>1757 (±1833)</cell><cell>1639 (±1823)</cell><cell>0.030</cell><cell>1736 (±1845)</cell><cell>1716 (±1862)</cell><cell>0.770</cell></row><row><cell>Body mass index, kg/m 2</cell><cell>25 (±4)</cell><cell>27 (±4)</cell><cell>b0.001</cell><cell>26 (±4)</cell><cell>26 (±4)</cell><cell>0.401</cell></row><row><cell>Medical history</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Coronary artery disease</cell><cell>364 (15%)</cell><cell>379 (18%)</cell><cell>0.014</cell><cell>225 (16%)</cell><cell>234 (17%)</cell><cell>0.685</cell></row><row><cell>Hypertension</cell><cell>1202 (49%)</cell><cell>1354 (63%)</cell><cell>b0.001</cell><cell>800 (56%)</cell><cell>808 (57%)</cell><cell>0.781</cell></row><row><cell>Chronic kidney disease</cell><cell>468 (19%)</cell><cell>484 (22%)</cell><cell>0.006</cell><cell>295 (21%)</cell><cell>301 (21%)</cell><cell>0.818</cell></row><row><cell>Stroke</cell><cell>85 (4%)</cell><cell>69 (3%)</cell><cell>0.601</cell><cell>50 (4%)</cell><cell>48 (3%)</cell><cell>0.918</cell></row><row><cell>Peripheral arterial disease a</cell><cell>262 (11%)</cell><cell>249 (12%)</cell><cell>0.372</cell><cell>163 (12%)</cell><cell>165 (12%)</cell><cell>0.952</cell></row><row><cell>Arthritis</cell><cell>1251 (51%)</cell><cell>1078 (50%)</cell><cell>0.421</cell><cell>713 (50%)</cell><cell>707 (50%)</cell><cell>0.851</cell></row><row><cell>Cancer</cell><cell>364 (15%)</cell><cell>305 (14%)</cell><cell>0.473</cell><cell>188 (13%)</cell><cell>196 (14%)</cell><cell>0.708</cell></row><row><cell>Medications</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Angiotensin converting enzyme inhibitors</cell><cell>113 (5%)</cell><cell>141 (7%)</cell><cell>0.005</cell><cell>83 (6%)</cell><cell>77 (5%)</cell><cell>0.677</cell></row><row><cell>Beta-blockers</cell><cell>219 (9%)</cell><cell>334 (16%)</cell><cell>b0.001</cell><cell>169 (12%)</cell><cell>182 (13%)</cell><cell>0.485</cell></row><row><cell>Calcium channel blockers</cell><cell>258 (11%)</cell><cell>269 (13%)</cell><cell>0.041</cell><cell>149 (11%)</cell><cell>160 (11%)</cell><cell>0.548</cell></row><row><cell>Loop diuretics</cell><cell>78 (3%)</cell><cell>105 (5%)</cell><cell>0.004</cell><cell>55 (4%)</cell><cell>55 (4%)</cell><cell>1.000</cell></row><row><cell>Potassium sparing diuretics</cell><cell>16 (1%)</cell><cell>19 (1%)</cell><cell>0.378</cell><cell>12 (1%)</cell><cell>10 (1%)</cell><cell>0.832</cell></row><row><cell>Thiazide diuretics</cell><cell>196 (8%)</cell><cell>293 (14%)</cell><cell>b0.001</cell><cell>144 (10%)</cell><cell>148 (10%)</cell><cell>0.847</cell></row><row><cell>Aspirin</cell><cell>77 (3%)</cell><cell>63 (3%)</cell><cell>0.652</cell><cell>40 (3%)</cell><cell>41 (3%)</cell><cell>1.000</cell></row><row><cell>Statins</cell><cell>54 (2%)</cell><cell>40 (2%)</cell><cell>0.397</cell><cell>32 (2%)</cell><cell>28 (2%)</cell><cell>0.699</cell></row><row><cell>Pulse, beats/min</cell><cell>66 (±10)</cell><cell>68 (±11)</cell><cell>b0.001</cell><cell>68 (±10)</cell><cell>67 (±11)</cell><cell>0.639</cell></row><row><cell>Systolic blood pressure, mm Hg</cell><cell>134 (±21)</cell><cell>138 (±21)</cell><cell>b0.001</cell><cell>136 (±21)</cell><cell>137 (±22)</cell><cell>0.841</cell></row><row><cell>Diastolic blood pressure, mm Hg</cell><cell>70 (±11)</cell><cell>72 (±11)</cell><cell>b0.001</cell><cell>71 (±11)</cell><cell>71 (±11)</cell><cell>0.721</cell></row><row><cell>Electrocardiographic findings</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Left ventricular hypertrophy</cell><cell>90 (4%)</cell><cell>102 (5%)</cell><cell>0.076</cell><cell>55 (4%)</cell><cell>56 (4%)</cell><cell>1.000</cell></row><row><cell>Atrial fibrillation</cell><cell>33 (1%)</cell><cell>58 (3%)</cell><cell>0.001</cell><cell>28 (2%)</cell><cell>26 (2%)</cell><cell>0.892</cell></row><row><cell>Bundle branch block</cell><cell>172 (7%)</cell><cell>185 (9%)</cell><cell>0.051</cell><cell>115 (8%)</cell><cell>117 (8%)</cell><cell>0.946</cell></row><row><cell>Echocardiographic finding</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Left ventricular ejection fraction b 55%</cell><cell>137 (6%)</cell><cell>181 (8%)</cell><cell>b0.001</cell><cell>101 (7%)</cell><cell>100 (7%)</cell><cell>1.000</cell></row><row><cell>Laboratory values</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Total cholesterol, mg/dL</cell><cell>212 (±38)</cell><cell>213 (±39)</cell><cell>0.497</cell><cell>213 (±38)</cell><cell>213 (±38)</cell><cell>0.997</cell></row><row><cell>Albumin, g/dL</cell><cell>3.9 (±0.3)</cell><cell>4.0 (±0.3)</cell><cell>b0.001</cell><cell>4.0 (±0.3)</cell><cell>4.0 (±0.3)</cell><cell>1.000</cell></row><row><cell>Uric acid, mg/dL</cell><cell>5.3 (±1.4)</cell><cell>6.0 (±1.5)</cell><cell>b0.001</cell><cell>5.7 (±1.4)</cell><cell>5.7 (±1.4)</cell><cell>0.870</cell></row><row><cell>C-reactive protein, mg/dL</cell><cell>3.9 (±6.5)</cell><cell>4.6 (±7.4)</cell><cell>b0.001</cell><cell>4.3 (±7.1)</cell><cell>4.3 (±7.0)</cell><cell>0.973</cell></row><row><cell>Serum insulin, μlU/mL</cell><cell>12 (±5)</cell><cell>16 (±10)</cell><cell>b0.001</cell><cell>13 (±6)</cell><cell>14 (±6)</cell><cell>0.520</cell></row><row><cell>Hemoglobin, g/dL</cell><cell>13.8 (±1.3)</cell><cell>14.2 (±1.3)</cell><cell>b0.001</cell><cell>14 (±1)</cell><cell>14 (±1)</cell><cell>0.678</cell></row></table><note>a Defined as ankle brachial index b 0.9. occurred in 148 (8%) and 35 (2%) of those with and without prediabetes, respectively (unadjusted odds ratio {OR}, 5.18; 95% CI, 3.56-7.53; p b 0.001). Incident diabetes before incident HF occurred in 7% (85/1195) and 2% (24/1202) matched participants with and without prediabetes, respectively (OR, 3.78; 95% CI, 2.37-5.96; p b 0.001).</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3</head><label>3</label><figDesc>Association of prediabetes with other incident cardiovascular events.</figDesc><table><row><cell>Outcomes</cell><cell>Events, % (n/N)</cell><cell></cell><cell>Absolute risk</cell><cell>Hazard ratio b</cell><cell>p value</cell></row><row><cell></cell><cell>No prediabetes</cell><cell>Prediabetes</cell><cell>difference (%) a</cell><cell>(95% CI)</cell><cell></cell></row><row><cell>Incident acute myocardial infarction</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Unadjusted</cell><cell>10% (226/2281)</cell><cell>12% (238/1989)</cell><cell>+2%</cell><cell>1.24 (1.03-1.48)</cell><cell>0.022</cell></row><row><cell>Multivariable-adjusted</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>1.01 (0.83-1.23)</cell><cell>0.927</cell></row><row><cell>Propensity-adjusted</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>1.01 (0.82-1.23)</cell><cell>0.939</cell></row><row><cell>Propensity matched</cell><cell>11% (143/1313)</cell><cell>11% (148/1323)</cell><cell>0%</cell><cell>1.02 (0.81-1.28)</cell><cell>0.875</cell></row><row><cell>Incident angina pectoris</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Unadjusted</cell><cell>17% (355/2145)</cell><cell>20% (363/1840)</cell><cell>+3%</cell><cell>1.23 (1.06-1.43)</cell><cell>0.005</cell></row><row><cell>Multivariable-adjusted</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>0.99 (0.84-1.16)</cell><cell>0.853</cell></row><row><cell>Propensity-adjusted</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>1.00 (0.85-1.17)</cell><cell>0.987</cell></row><row><cell>Propensity matched</cell><cell>19% (230/1241)</cell><cell>17% (212/1219)</cell><cell>−2%</cell><cell>0.93 (0.77-1.12)</cell><cell>0.451</cell></row><row><cell>Incident stroke</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Unadjusted</cell><cell>13% (314/2360)</cell><cell>13% (269/2088)</cell><cell>0%</cell><cell>0.99 (0.84-1.17)</cell><cell>0.924</cell></row><row><cell>Multivariable-adjusted</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>0.86 (0.72-1.03)</cell><cell>0.092</cell></row><row><cell>Propensity-adjusted</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>0.85 (0.71-1.02)</cell><cell>0.074</cell></row><row><cell>Propensity matched</cell><cell>14% (187/1371)</cell><cell>12% (162/1373)</cell><cell>−2%</cell><cell>0.86 (0.70-1.06)</cell><cell>0.151</cell></row></table><note>a Absolute risk differences were calculated by subtracting the percentage of events in the no prediabetes group from that of the prediabetes group before rounding. b Hazard ratios comparing prediabetes to no prediabetes group.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 2</head><label>2</label><figDesc>Association of prediabetes with incident heart failure. Absolute risk differences were calculated by subtracting the percentage of events in the no prediabetes group from that of the prediabetes group before rounding.</figDesc><table><row><cell>Outcomes</cell><cell>Events, % (n/N)</cell><cell></cell><cell>Absolute risk</cell><cell>Hazard ratio b</cell><cell>p value</cell></row><row><cell></cell><cell>No prediabetes</cell><cell>Prediabetes</cell><cell>difference (%) a</cell><cell>(95% CI)</cell><cell></cell></row><row><cell>Pre-match cohort</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Unadjusted</cell><cell>17% (424/2445)</cell><cell>20% (438/2157)</cell><cell>+3%</cell><cell>1.22 (1.07-1.40)</cell><cell>0.003</cell></row><row><cell>Multivariable-adjusted</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>0.98 (0.85-1.14)</cell><cell>0.826</cell></row><row><cell>Propensity-adjusted</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>0.94 (0.81-1.09)</cell><cell>0.397</cell></row><row><cell>Matched cohort</cell><cell>20% (282/1421)</cell><cell>18% (256/1421)</cell><cell>−2%</cell><cell>0.90 (0.76-1.07)</cell><cell>0.239</cell></row></table><note>a b Hazard ratios comparing prediabetes to no prediabetes group.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Table 4</head><label>4</label><figDesc>Association of prediabetes with mortality. Absolute risk differences were calculated by subtracting the percentage of events in the no prediabetes group from that of the prediabetes group before rounding. b Hazard ratios comparing prediabetes to no prediabetes group.</figDesc><table><row><cell>Outcomes</cell><cell>Events, % (n/N)</cell><cell></cell><cell>Absolute risk</cell><cell>Hazard ratio b</cell><cell>p value</cell></row><row><cell></cell><cell>No prediabetes</cell><cell>Prediabetes</cell><cell>difference (%) a</cell><cell>(95% CI)</cell><cell></cell></row><row><cell>All-cause mortality</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Unadjusted</cell><cell>39% (959/2445)</cell><cell>43% (936/2157)</cell><cell>+4%</cell><cell>1.14 (1.04-1.25)</cell><cell>0.005</cell></row><row><cell>Multivariable-adjusted</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>1.03 (0.93-1.14)</cell><cell>0.572</cell></row><row><cell>Propensity-adjusted</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>1.00 (0.91-1.11)</cell><cell>0.955</cell></row><row><cell>Propensity matched</cell><cell>42% (599/1421)</cell><cell>42% (591/1421)</cell><cell>0%</cell><cell>0.99 (0.88-1.11)</cell><cell>0.840</cell></row><row><cell>Cardiovascular mortality</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Unadjusted</cell><cell>15% (366/2445)</cell><cell>17% (358/2157)</cell><cell>+2%</cell><cell>1.14 (0.99-1.32)</cell><cell>0.077</cell></row><row><cell>Multivariable-adjusted</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>0.97 (0.83-1.14)</cell><cell>0.720</cell></row><row><cell>Propensity-adjusted</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>0.92 (0.79-1.08)</cell><cell>0.322</cell></row><row><cell>Propensity matched</cell><cell>18% (251/1421)</cell><cell>15% (215/1421)</cell><cell>−3%</cell><cell>0.86 (0.72-1.03)</cell><cell>0.099</cell></row><row><cell>Non-cardiovascular mortality</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Unadjusted</cell><cell>24% (590/2445)</cell><cell>27% (575/2157)</cell><cell>+3%</cell><cell>1.14 (1.01-1.27)</cell><cell>0.030</cell></row><row><cell>Multivariable-adjusted</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>1.07 (0.94-1.21)</cell><cell>0.292</cell></row><row><cell>Propensity-adjusted</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>1.06 (0.93-1.20)</cell><cell>0.405</cell></row><row><cell>Propensity matched</cell><cell>24% (347/1421)</cell><cell>26% (375/1421)</cell><cell>+2%</cell><cell>1.08 (0.94-1.25)</cell><cell>0.286</cell></row></table><note>a</note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">P. Deedwania et al. / International Journal of Cardiology 168 (2013) 3616-3622</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgments</head><p>The authors of this manuscript have certified that they comply with the Principles of Ethical Publishing in the International Journal of Cardiology.</p><p>"The Cardiovascular Health Study (CHS) was conducted and supported by the NHLBI in collaboration with the CHS Investigators. This manuscript was prepared using a limited access dataset obtained by the NHLBI and does not necessarily reflect the opinions or views of the CHS Study or the NHLBI."</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Number at risk</head></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Prevention of type 2 diabetes mellitus by changes in lifestyle among subjects with impaired glucose tolerance</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tuomilehto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lindstrom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Eriksson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">344</biblScope>
+			<biblScope unit="page" from="1343" to="1350" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">A propensity-matched study of the association of diabetes mellitus with incident heart failure and mortality among communitydwelling older adults</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Roy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">P</forename><surname>Pawar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">V</forename><surname>Desai</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">108</biblScope>
+			<biblScope unit="page" from="1747" to="1753" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Impact of diabetes mellitus on outcomes in patients with acute myocardial infarction and systolic heart failure</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">C</forename><surname>Deedwania</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">I</forename><surname>Ahmed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Feller</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Heart Fail</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="551" to="559" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Prediabetes and the risk for cardiovascular disease: a systematic review of the evidence</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Ford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Li</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Coll Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="1310" to="1317" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">The central role of the propensity score in observational studies for causal effects</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">R</forename><surname>Rosenbaum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Rubin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biometrika</title>
+		<imprint>
+			<biblScope unit="volume">70</biblScope>
+			<biblScope unit="page" from="41" to="55" />
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Using propensity score to help design observational studies: application to the tobacco litigation</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Rubin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Health Serv Outcomes Res Method</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="169" to="188" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Full accounting of diabetes and prediabetes in the U.S. population in 1988</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Cowie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">F</forename><surname>Rust</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Ford</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="287" to="294" />
+			<date type="published" when="1994">1994 and 2005-2006. 2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">The Cardiovascular Health Study: design and rationale</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">P</forename><surname>Fried</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">O</forename><surname>Borhani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Enright</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="263" to="276" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Association between hyperuricemia and incident heart failure among older adults: a propensity-matched study</title>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">J</forename><surname>Ekundayo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">J</forename><surname>Dell'italia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">W</forename><surname>Sanders</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">142</biblScope>
+			<biblScope unit="page" from="279" to="287" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Diagnosis and classification of diabetes mellitus</title>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="S55" to="60" />
+			<date type="published" when="2008">2008</date>
+			<publisher>American Diabetes Association</publisher>
+		</imprint>
+	</monogr>
+	<note>Suppl. 1</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Methods of assessing prevalent cardiovascular disease in the Cardiovascular Health Study</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">M</forename><surname>Psaty</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">H</forename><surname>Kuller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Bild</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="270" to="277" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Surveillance and ascertainment of cardiovascular events: the Cardiovascular Health Study</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">G</forename><surname>Ives</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Fitzpatrick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Bild</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="278" to="285" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Predictors of congestive heart failure in the elderly: the Cardiovascular Health Study</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Gottdiener</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Arnold</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">P</forename><surname>Aurigemma</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Coll Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="1628" to="1637" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Effects of digoxin at low serum concentrations on mortality and hospitalization in heart failure: a propensity-matched study of the DIG trial</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ahmed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Pitt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Rahimtoola</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">123</biblScope>
+			<biblScope unit="page" from="138" to="146" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">A propensity-matched study of the effects of chronic diuretic therapy on mortality and hospitalization in older adults with heart failure</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ahmed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Young</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">E</forename><surname>Love</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Levesque</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Pitt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">125</biblScope>
+			<biblScope unit="page" from="246" to="253" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">A propensity matched study of the association of education and outcomes in chronic heart failure</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Sui</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Gheorghiade</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Zannad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Young</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ahmed</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">129</biblScope>
+			<biblScope unit="page" from="93" to="99" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Mild hyperkalemia and outcomes in chronic heart failure: a propensity matched study</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">I</forename><surname>Ahmed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">J</forename><surname>Ekundayo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mujib</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">144</biblScope>
+			<biblScope unit="page" from="383" to="388" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Effects of diabetes mellitus in patients with heart failure and chronic kidney disease: a propensity-matched study of multimorbidity in chronic heart failure</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Ritchie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">J</forename><surname>Ekundayo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Muchimba</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">134</biblScope>
+			<biblScope unit="page" from="330" to="335" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">A propensity-matched study of low serum potassium and mortality in older adults with chronic heart failure</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">B</forename><surname>Alper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Campbell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Anker</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">137</biblScope>
+			<biblScope unit="page" from="1" to="8" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Low serum magnesium and cardiovascular mortality in chronic heart failure: a propensity-matched study</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Adamopoulos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Pitt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Sui</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">E</forename><surname>Love</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Zannad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ahmed</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">136</biblScope>
+			<biblScope unit="page" from="270" to="277" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Gender-related dissociation in outcomes in chronic heart failure: reduced mortality but similar hospitalization in women</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">I</forename><surname>Ahmed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Lainscak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mujib</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">148</biblScope>
+			<biblScope unit="page" from="36" to="42" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Transatlantic similarities and differences in major natural history endpoints of heart failure after acute myocardial infarction: a propensity-matched study of the EPHESUS trial</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Pitt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Zannad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Gheorghiade</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">143</biblScope>
+			<biblScope unit="page" from="309" to="316" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Incident coronary revascularization and subsequent mortality in chronic heart failure: a propensity-matched study</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Giamouzis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Agha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">J</forename><surname>Ekundayo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">140</biblScope>
+			<biblScope unit="page" from="55" to="59" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Metabolic alterations in middle-aged and elderly lean patients with type 2 diabetes</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">S</forename><surname>Meneilly</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Elahi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="1498" to="1499" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">The threshold for diagnosing impaired fasting glucose: a position statement by the European Diabetes Epidemiology Group</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">G</forename><surname>Forouhi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Balkau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Borch-Johnsen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="822" to="827" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Prediabetes and the risk of diabetes</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Deedwania</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ahmed</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">380</biblScope>
+			<biblScope unit="page">1225</biblScope>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note>author reply 1226</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Fasting and 2-hour postchallenge serum glucose measures and risk of incident cardiovascular events in the elderly: the Cardiovascular Health Study</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">L</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">I</forename><surname>Barzilay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Shaffer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">162</biblScope>
+			<biblScope unit="page" from="209" to="216" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Blood glucose and heart failure in nondiabetic patients</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Nielson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Lange</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="607" to="611" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">The relationship between glucose and incident cardiovascular events. A metaregression analysis of published data from 20 studies of 95,783 individuals followed for 12.4 years</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Coutinho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Gerstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Yusuf</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="233" to="240" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">The metabolic syndrome and cardiovascular risk in the British Regional Heart Study</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">G</forename><surname>Wannamethee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Obes (Lond)</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="S25" to="29" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+	<note>Suppl. 2</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Decode Study Group tEDEG. Glucose tolerance and cardiovascular mortality: comparison of fasting and 2-hour diagnostic criteria</title>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">161</biblScope>
+			<biblScope unit="page" from="397" to="405" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">American Diabetes A. Standards of medical care in diabetes-2008</title>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="S12" to="54" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+	<note>Suppl. 1</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Prevention of diabetes and reduction in major cardiovascular events in studies of subjects with prediabetes: meta-analysis of randomised controlled clinical trials</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Hopper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Billah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Skiba</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Krum</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Cardiovasc Prev Rehabil</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="813" to="823" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Underestimation of risk associations due to regression dilution in long-term follow-up of prospective studies</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Clarke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Shipley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lewington</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">150</biblScope>
+			<biblScope unit="page" from="341" to="353" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Comparison of the performance of HbA1c and fasting plasma glucose in identifying dysglycaemic status in Chinese high-risk subjects</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">T</forename><surname>Du</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Yin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Shi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><forename type="middle">F</forename><surname>Yu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Exp Pharmacol Physiol</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="63" to="68" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Performance characteristics of the new definition of diabetes: the insulin resistance atherosclerosis study</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lorenzo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Haffner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="335" to="337" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

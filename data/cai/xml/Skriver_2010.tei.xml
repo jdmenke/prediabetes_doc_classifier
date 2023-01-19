@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">HbA 1c as predictor of all-cause mortality in individuals at high risk of diabetes with normal glucose tolerance, identified by screening: a follow-up study of the Anglo-Danish-Dutch Study of Intensive Treatment in People with Screen-Detected Diabetes in Primary Care (ADDITION), Denmark</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2010-08-11">11 August 2010</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">M</forename><forename type="middle">V</forename><surname>Skriver</surname></persName>
+							<email>mette.skriver@alm.au.dk</email>
+						</author>
+						<author>
+							<persName><forename type="first">K</forename><surname>Borch-Johnsen</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">T</forename><surname>Lauritzen</surname></persName>
+						</author>
+						<author>
+							<persName><surname>Sandbaek</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">:</forename><forename type="middle">A</forename><surname>Sandbaek</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of General Practice</orgName>
+								<orgName type="department" key="dep2">School of Public Health</orgName>
+								<orgName type="institution">Aarhus University</orgName>
+								<address>
+									<addrLine>Bartholins Allé 2</addrLine>
+									<postCode>8000</postCode>
+									<settlement>Aarhus C</settlement>
+									<country key="DK">Denmark</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="department">Steno Diabetes Center</orgName>
+								<address>
+									<settlement>Gentofte</settlement>
+									<country key="DK">Denmark</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="department">Faculty of Health Science</orgName>
+								<orgName type="institution">Aarhus University</orgName>
+								<address>
+									<settlement>Aarhus</settlement>
+									<country key="DK">Denmark</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">HbA 1c as predictor of all-cause mortality in individuals at high risk of diabetes with normal glucose tolerance, identified by screening: a follow-up study of the Anglo-Danish-Dutch Study of Intensive Treatment in People with Screen-Detected Diabetes in Primary Care (ADDITION), Denmark</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2010-08-11">11 August 2010</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">11061801D032F971319CDA696985EE60</idno>
+					<idno type="DOI">10.1007/s00125-010-1867-9</idno>
+					<note type="submission">Received: 5 March 2010 / Accepted: 1 July 2010 /</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.1" ident="GROBID" when="2022-07-19T23:01+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>All-cause mortality</term>
+					<term>HbA 1c</term>
+					<term>Screening</term>
+					<term>Type 2 diabetes mellitus</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Aims/hypothesis Stepwise screening for type 2 diabetes will not only identify people with the disease or some other form of dysglycaemia (impaired fasting glucose or impaired glucose tolerance), but also many individuals who are phenotypically at high risk of developing diabetes, but currently have normal glucose tolerance (NGT). We therefore sought to assess whether HbA 1c adds prognostic information in relation to all-cause mortality in people who have NGT and a high risk of type 2 diabetes mellitus. Methods In a Danish population-based stepwise screening programme for type 2 diabetes mellitus in general practice, we identified 15,634 persons at high risk of type 2 diabetes, who had NGT and a recorded HbA 1c measurement. As comparison groups, we included 1,401 people identified as having type 2 diabetes mellitus and 8,149 individuals characterised as being at low risk of diabetes. All individuals were followed from time of screening (April 2001 to December 2006) until death or 31 October 2009. Excess mortality was estimated using Cox proportional hazard models with all-cause mortality as the outcome measure.</p><p>Results Compared with individuals with NGT and HbA 1c below 6.0%, adjusted hazard ratios were: 1.21 (95% CI 0.95-1.56) for individuals with NGT and HbA 1c between 6.0% and 6.5%; 2.48 (95% CI 1.23-4.99) for individuals with NGT and HbA 1c 6.5% or above (in this group there were eight deaths among 68 individuals); 1.73 (95% CI 1.40-2.13) for individuals with type 2 diabetes mellitus. Conclusions/interpretation HbA 1c level in people with NGT and at high risk of diabetes was clearly associated with increased all-cause mortality.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>Stepwise screening for type 2 diabetes has been implemented in several countries following recommendations from international organisations <ref type="bibr" target="#b0">[1]</ref><ref type="bibr" target="#b1">[2]</ref><ref type="bibr" target="#b2">[3]</ref>. This strategy will not only identify people with type 2 diabetes mellitus or some other form of dysglycaemia (impaired fasting glucose or impaired glucose tolerance), but also many individuals who have normal glucose tolerance (NGT) but are nevertheless phenotypically at high risk of developing diabetes due to one or more of the following: physical inactivity, high BMI, high amount of abdominal fat, family history of diabetes, hypertension or dyslipidaemia.</p><p>Some studies have demonstrated that HbA 1c is a risk factor for all-cause mortality in individuals with no prior diagnosis of diabetes <ref type="bibr" target="#b3">[4]</ref><ref type="bibr" target="#b4">[5]</ref><ref type="bibr" target="#b5">[6]</ref><ref type="bibr" target="#b6">[7]</ref><ref type="bibr" target="#b7">[8]</ref>. In stepwise screening for type 2 diabetes mellitus, HbA 1c is often measured. Consequently, it could be beneficial to include HbA 1c in further risk stratification of individuals phenotypically at high risk of developing diabetes, potentially separating people into a very high-risk group and a group with 'near-normal' risk. Thus our aim was to study whether HbA 1c adds prognostic information in relation to all-cause mortality in people with NGT and at high risk of diabetes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study design</head><p>The Anglo-Danish-Dutch Study of Intensive Treatment in People with Screen-Detected Diabetes in Primary Care (ADDITION) is a population-based, stepwise screening and intervention study for type 2 diabetes mellitus in general practice <ref type="bibr" target="#b8">[9]</ref>. People from the Danish part of the ADDITION study are included in this paper. The study was approved by the local ethics committees and conducted in accordance with the Declaration of Helsinki, with participants giving written informed consent. Screening started in April 2001 and ended in December 2006. In Denmark, the screening process was a stepwise, high-risk strategy, including persons aged 40 to 69 years who were registered with the 190 participating practices in five counties in Denmark (Copenhagen, Ringkøbing, Ribe, South Jutland and Aarhus County). The individuals who met the inclusion criteria received an invitation with a risk score questionnaire. The questionnaire featured questions about sex, age, family history of diabetes, BMI, leisure time physical activity and whether respondents had (1) had diabetes that disappeared again and (2) been told that they had high blood pressure <ref type="bibr" target="#b9">[10]</ref>. Persons at high risk of diabetes were advised to contact their general practitioner (GP) for further tests <ref type="bibr" target="#b9">[10,</ref><ref type="bibr" target="#b10">11]</ref>. In the second step, random capillary whole-blood glucose and HbA 1c were measured and individuals with the former ≥5.5 mmol/l or the latter ≥5.8% were invited for diagnostic testing, while the remaining participants were classified as having NGT and had no further tests. Step three was diagnostic testing for diabetes mellitus and included measurement of fasting blood glucose (FBG) (capillary whole blood; after at least 8 h fasting). An OGTT was performed on everyone with HbA 1c ≥5.8% or FBG 5.6 to 6.1 mmol/l. Capillary whole-blood samples were used to determine 2 h blood glucose (2hBG). All individuals with one diabetic value (FBG ≥6.1 and/or 2hBG ≥11.1 mmol/l) were re-invited for a confirmatory diagnostic test in accordance with WHO recommendations <ref type="bibr" target="#b11">[12]</ref>. Individuals with FBG ≥6.1 and/or 2hBG ≥11.1 mmol/l on two different days were categorised as having type 2 diabetes mellitus. People with FBG &lt;5.6 mmol/l and 2hBG &lt;7.8 mmol/l were categorised as having NGT and pooled with individuals who had been categorised as NGT at the second step of the screening programme.</p><p>Capillary whole-blood glucose was analysed using a glucose analyser (HemoCue, Angelholm, Sweden). Calibration stability was checked on a daily basis using control cuvettes. All machines were registered with the HemoCue quality assurance scheme and calibrated externally at the start of screening and at regular intervals thereafter. The average result of two samples was used for diagnostic tests of type 2 diabetes mellitus (FBG and 2hBG after OGTT).</p><p>HbA 1c was analysed in venous blood at one of two laboratories (Aarhus County Hospital, Aarhus, Denmark or Steno Diabetes Center, Gentofte, Denmark). All samples were analysed on the day of arrival using ion-exchange highperformance liquid chromatography (Tosoh, Tokyo, Japan) (normal range 4.2-6.3%).</p><p>All 15,634 persons who fully attended the screening steps described above and were found to have NGT were included. As comparison groups we included 1,401 people identified as having type 2 diabetes mellitus and 8,149 individuals characterised as being at low risk of type 2 diabetes (on the basis of risk score questionnaire) stemming from a subsample of the invited population who had been asked to complete and return the risk score questionnaire regardless of their assessed risk <ref type="bibr" target="#b10">[11]</ref>.</p><p>All participants at high risk of diabetes had blood pressure, height and body weight registered at their first consultation (second screening step), and were asked to fill in a questionnaire about lifestyle, including smoking habits. To adjust for possible confounding resulting from comorbidity, we performed record-linkage with the Danish National Hospital Discharge Register (which covers all hospitalisations in Denmark), thus identifying all cases prior to screening of ischaemic heart disease (IHD) (International Classification of Diseases version 10 [ICD-10; www.who.int/classifications/icd/en/, accessed 1 March 2010] I25.0-25.9), cerebrovascular disease (ICD-10: 60.0-69.8) and cancer (ICD-10: C00.0-97.9).</p><p>People at low risk diabetes did not need to visit a GP, so we only have information on age and sex for this group.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analysis</head><p>To estimate the prognostic impact of HbA 1c among individuals with NGT and at high risk of diabetes, those categorised as NGT were divided into three groups reflecting their HbA 1c level: HbA 1c &lt;6.0%, 6.0% to &lt;6.5% and ≥6.5%. Based on the unique Danish civil registration number, all individuals included were electronically linked to the nationwide Danish Civil Registration System (which comprises all Danes) to obtain information on death and/or emigration, and dates of those events. Survival was estimated by the Kaplan-Meier method. Possible excess mortality for individuals with NGT and at high risk of diabetes stratified by HbA 1c compared with individuals at low risk of diabetes were estimated with 95% CIs using Cox proportional hazard models. Adjustment was made for age and sex. Similarly, we estimated possible excess mortality for the different HbA 1c groups among individuals with NGT and at high risk of diabetes. Participants found to have type 2 diabetes mellitus at screening were included as a comparison group. Adjustment was made for age, sex, BMI, smoking, systolic BP, prior IHD, prior cerebrovascular disease and prior cancer. A stratified analysis with further adjustment for total cholesterol was performed on the 13,038 individuals included who had a cholesterol measurement.</p><p>The proportionality assumption was assessed graphically and tested using Schoenfeld residuals for each model.</p><p>The following variables were included as categorical: sex (male or female), smoking habits (smoker or nonsmoker [including ex-smokers]), previous IHD (yes or no), previous cerebrovascular disease (yes or no) and previous cancer (yes or no). Time since screening was used as the time scale for individuals with NGT or type 2 diabetes mellitus; time since receipt of risk score questionnaire was used for people at low risk for diabetes. Each person was followed until death, emigration (censoring) or 31 October 2009, whichever came first. Analyses were performed using Stata version 10.1 (StataCorpLP, College Station, TX, USA).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>Baseline characteristics are shown in Table <ref type="table" target="#tab_0">1</ref>. The median follow-up time per individual was close to 2,500 days and did not differ between groups. In total 798 deaths occurred among individuals with NGT, 169 among individuals at low risk of diabetes and 118 among individuals with type 2 diabetes mellitus.</p><p>Mortality by HbA 1c level The impact of HbA 1c was analysed only in individuals with NGT, but with inclusion of two comparison groups, namely those at low risk of diabetes and those found to have type 2 diabetes mellitus. After stratification, individuals with an HbA 1c of 6.5% or above had lower survival and thereby higher all-cause mortality than all other groups (Fig. <ref type="figure">1</ref>). HRs for individuals at low risk of diabetes and individuals with HbA 1c at 6.0% or below as respective reference groups are given in Table <ref type="table" target="#tab_2">2</ref>. Composed with individuals at low risk of diabetes and adjusting for age and sex, the highest HR was found for individuals with NGT and HbA 1c at 6.5% or above (HR 2.87, 95% CI 1.40-5.86). Likewise, composed with individuals found to have NGT and HbA 1c &lt;6.0%, while adjusting for other potential confounders (i.e. besides age and sex: BMI, smoking, systolic BP, previous IHD, previous cerebrovascular disease and previous cancer), the highest HR was found for individuals with NGT and HbA 1c at 6.5% or above (HR 2.48, 95% CI 1.23-4.99). For both reference groups, and for the respective adjustments, we found a dose-response relationship between level of HbA 1c and mortality, although it was not statistically significant.</p><p>Within the group of high-risk individuals, further adjustment for total cholesterol produced similar results to those reported in Table <ref type="table" target="#tab_2">2</ref> (data not shown).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>In this study the HbA 1c level was a significant predictor of mortality. Individuals with NGT, but with HbA 1c at 6.5% or above, and at high risk of diabetes had substantially increased all-cause mortality. Although, due to the low number of individuals with HbA 1c at 6.5% or above, our results are subject to some uncertainty, they do support previous findings of chronic hyperglycaemia being harmful <ref type="bibr" target="#b4">[5,</ref><ref type="bibr" target="#b12">13,</ref><ref type="bibr" target="#b13">14]</ref> and also stress the significance of HbA 1c levels in the identification of risk groups. Carotid intima-media thickness is a well-established index of early atherosclerosis and is widely used as surrogate marker of cardiovascular disease <ref type="bibr" target="#b14">[15]</ref>. A recent study found an independent relationship between HbA 1c and carotid intima-media thickness in individuals with NGT <ref type="bibr" target="#b15">[16]</ref>, although the former only contributed 4.4% to the variation of the latter. The authors suggest that glycaemic control might have a pathophysiological relevance in the development of atherosclerosis, even in individuals with NGT. It is not known whether cardiovascular disease is the main reason for the increased all-cause mortality in the present study. An international expert committee recently suggested use of HbA 1c as a diagnostic test for diabetes <ref type="bibr" target="#b16">[17]</ref>. In the present study we found that individuals with NGT and HbA 1c at 6.5% or above have the same mortality as individuals with screen-detected type 2 diabetes mellitus. This supports the proposed use of HbA 1c at 6.5% or above as the threshold for diabetes when considering individuals who have NGT yet are at high risk of diabetes.</p><p>One strength of this study is that all individuals with HbA 1c at 6.0% or above had FBG measured and almost all had an OGTT (55 individuals with HbA 1c between 6.0 and 6.5% and one with HbA 1c above 6.5% had no OGTT performed. All of these 56 individuals had FBG below 5.6 mmol/l), ensuring that individuals categorised as NGT and with HbA 1c at 6.0% or above did not have dysglycaemia at screening. Other strengths are that this study was large, involving 15,634 individuals with NGT and at high risk of diabetes, and that the screening process was in accordance with a stepwise, high-risk strategy as recommended by international organisations, as well as by health authorities in certain countries. Follow-up moreover was complete, an achievement made possible by the unique personal Danish identification code and our access to record linkage with major national registries of vital status, emigration and hospitalisations <ref type="bibr" target="#b17">[18,</ref><ref type="bibr" target="#b18">19]</ref>. All measurements of BP, height and weight were standardised. Glucose was Fig. <ref type="figure">1</ref> Kaplan-Meier curves for all-cause mortality. Light grey line, low risk; medium grey line, NGT, HbA 1c &lt;6.0%; dark grey line, NGT, HbA 1c 6.0-to &lt;6.5%; black line, type 2 diabetes; dashed line, NGT, HbA 1c ≥6.5% </p><p>-413 (30.1) FBG (mmol/l) 4.9 measured locally by the GP, but using standardised equipment, quality control procedures and duplicate measurements that minimise measurement error to a level where the quality is comparable to that achieved in centralised laboratories <ref type="bibr" target="#b19">[20]</ref>. HbA 1c analyses were done in one of two centralised laboratories.</p><p>A main limitation of the study is the small number of individuals with NGT and HbA 1c at 6.5% or above. Because of the small sample size in this group, the results are subject to some uncertainty. Another limitation is that people at high risk of diabetes and with HbA 1c below 5.8% and random blood glucose below 5.5 mmol/l did not have FBG measured or an OGTT performed; neither was an OGTT performed in individuals with HbA 1c below 5.8% and FBG below 5.6 mmol/l. Therefore we do not know whether some of those categorised as NGT with HbA 1c below 5.8% actually had some kind of dysglycaemia. If that were the case, then we have included individuals with dysglycaemia in the group of NGT individuals with HbA 1c below 6.0%. People with dysglycaemia are expected to have higher mortality than those with NGT and thereby the true mortality among NGT individuals with HbA 1c below 6.0% might be lower than that reported here. However, we expect the number of misclassified individuals to be very small. HbA 1c was measured centrally (and hence uniformly), while systolic BP was measured by the different GPs. Consequently, the effect of HbA 1c might be overestimated, while the effect of systolic BP might be underestimated. Since all GPs were expected to follow the guidelines for good clinical practice when measuring systolic BP, we expect this bias to be small. Smoking was assessed entirely on the basis of self-reported data. This might cause a misclassification of smoking status. Such a misclassification is most likely to have occurred randomly with regard to HbA 1c level, glucose tolerance status and mortality.</p><p>We have no information on lifestyle changes, pharmacological treatment, progression from NGT to type 2 diabetes mellitus or some other form of dysglycaemia, or on any changes in the included variables during follow-up. These considerations, however, are of great importance when investigating why people with NGT but at high risk of diabetes and with raised HbA 1c have high all-cause mortality.</p><p>The ADDITION study <ref type="bibr" target="#b8">[9]</ref> focuses on people found to have type 2 diabetes mellitus. Due to initiation of lifestyle changes and pharmacological treatment, we did not include information on HbA 1c for individuals found to have type 2 diabetes mellitus. Thus this study does not determine whether HbA 1c is a predictor of mortality in individuals with type 2 diabetes mellitus. Approximately half of the individuals with type 2 diabetes mellitus in this study are enrolled in the intensive pharmacological intervention arm of the ADDITION study, and we expect that almost all individuals with type 2 diabetes mellitus will have received some kind of treatment during follow-up. This will probably have influenced their survival . Relevant results from the ADDITION study will be published in 2010.</p><p>The proportion of individuals with HbA 1c at 6.5% or above among individuals with NGT was low (in a total study population of 15,634 individuals with NGT and at high risk of diabetes, we found 68 individuals with HbA 1c at 6.5% or above). In the present study, measurement of HbA 1c was an integrated part of a step-wise screening programme for type 2 diabetes mellitus, for which reason identification of individuals with NGT and HbA 1c at 6.5% or above introduced no extra cost. Henceforth, when deciding whether to include HbA 1c in the identification of individuals with high mortality, economic considerations and clinical utility will have to be taken into account.</p><p>This study adds new and important information to consider when deciding on guidance and potential treatment of individuals at high risk of diabetes who are enrolled in targeted stepwise screening for type 2 diabetes mellitus and found to have NGT. In short, HbA 1c had a prognostic value for all-cause mortality in individuals at high risk of diabetes but with NGT. For individuals with HbA 1c at 6.5% or above, the mortality was just as high as for individuals with treated screen-detected type 2 diabetes mellitus, although the sample sizes are small and these findings may be due to chance or underlying confounding factors that we have not accounted for. If the association is causal, we urge added awareness of individuals at high risk of diabetes and identified as having NGT during targeted screening for type 2 diabetes mellitus. This applies particularly to individuals with HbA 1c at 6.5% or above. New studies are needed to support our findings and to determine why this group has a high mortality rate.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Characteristics of individuals included</figDesc><table><row><cell>Characteristic</cell><cell>NGT</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 2</head><label>2</label><figDesc>HRs for all-cause mortality according to HbA 1c level Adjusted for age and sex; b adjusted for age, sex, BMI, smoking, systolic BP, IHD (prior to screening), cerebrovascular disease (prior to screening) and cancer (prior to screening)</figDesc><table><row><cell>Variable</cell><cell>n</cell><cell>Deaths (n)</cell><cell>Low-risk as reference group</cell><cell>Within the group of high-risk individuals</cell></row><row><cell></cell><cell></cell><cell></cell><cell>Adjusted HR a (95% CI)</cell><cell>Adjusted HR b (95% CI)</cell></row><row><cell>Low risk</cell><cell>8,149</cell><cell>169</cell><cell>1</cell><cell>-</cell></row><row><cell>NGT</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>HbA 1c &lt;6.0%</cell><cell>14,521</cell><cell>721</cell><cell>1.14 (0.94-1.39)</cell><cell>1</cell></row><row><cell>HbA 1c 6.0-to &lt;6.5%</cell><cell>1,045</cell><cell>69</cell><cell>1.51 (1.12-2.03)</cell><cell>1.21 (0.95-1.56)</cell></row><row><cell>HbA 1c ≥6.5%</cell><cell>68</cell><cell>8</cell><cell>2.87 (1.40-5.86)</cell><cell>2.48 (1.23-4.99)</cell></row><row><cell>Type 2 diabetes</cell><cell>1,401</cell><cell>118</cell><cell>2.08 (1.61-2.69)</cell><cell>1.73 (1.40-2.13)</cell></row></table><note>a</note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">Diabetologia (2010) 53:2328-2333</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Acknowledgements In Denmark, the ADDITION study was funded by: the Danish National Health Service in the counties of Copenhagen, Aarhus, Ringkøbing, Ribe and Southern Jutland; the Danish Research Foundation for General Practice; the Danish Centre for Evaluation and Health Technology Assessment; the Aarhus University Research Foundation; Novo Nordisk Foundation; the National Board of Health; and the Danish Medical Research Council. Unrestricted grants were given by Novo Nordisk, ASTRA Denmark, Pfizer Denmark, GlaxoSmithKline Pharma Denmark, Servier Denmark, HemoCue Denmark and Novo Nordisk Scandinavia.</p><p>Duality of interest K. Borch-Johnsen is head of the Steno Diabetes Center, a hospital integrated in the Danish National Healthcare Service, but owned by Novo Nordisk, and holds shares in Novo Nordisk. During the last 5 years K. Borch-Johnsen has received honoraria for invited lectures from sanofi-aventis, the American Diabetes Association and academic societies. T. Lauritzen has received honoraria for invited lectures from industry, approximately €5,000, during the past year; he also holds shares in Novo Nordisk. A. Sandbaek and M. V. Skriver declare that for them there is no duality of interest associated with this manuscript.</p></div>
+			</div>
+
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Type 2-diabetes. MTV of screening, diagnosis and treatment</title>
+	</analytic>
+	<monogr>
+		<title level="j">National Health Department</title>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+	<note>National Health Department</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Report of a World Health Organization and International Diabetes Federation meeting</title>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+			<biblScope unit="page" from="1" to="48" />
+			<pubPlace>Geneva</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>WHO</orgName>
+		</respStmt>
+	</monogr>
+	<note>Screening for type 2 diabetes</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Screening for type 2 diabetes: literature review and economic modelling</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Waugh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Scotland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Mcnamee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Health Technol Assess</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="1" to="125" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Relationship between HbA(1)c and mortality in a Japanese population</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Nakanishi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Yamada</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Hattori</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Suzuki</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="230" to="234" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Association of hemoglobin A1c with cardiovascular disease and mortality in adults: the European prospective investigation into cancer in Norfolk</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">T</forename><surname>Khaw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Wareham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bingham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Luben</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Welch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Day</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">141</biblScope>
+			<biblScope unit="page" from="413" to="420" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Hyperglycaemia is associated with all-cause and cardiovascular mortality in the Hoorn population: the Hoorn Study</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>De Vegt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Dekker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">G</forename><surname>Ruhe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="926" to="931" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">A New Zealand linkage study examining the associations between A1C concentration and mortality</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Brewer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Wright</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Travier</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diab Care</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="1144" to="1149" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Glycated haemoglobin, diabetes, and mortality in men in Norfolk cohort of European prospective investigation of cancer and nutrition (EPIC-Norfolk)</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">T</forename><surname>Khaw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Wareham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Luben</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMJ</title>
+		<imprint>
+			<biblScope unit="volume">322</biblScope>
+			<biblScope unit="page" from="15" to="18" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">The ADDITION study: proposed trial of the cost-effectiveness of an intensive multifactorial intervention on morbidity and mortality among people with type 2 diabetes detected by screening</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Lauritzen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Griffin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Borch-Johnsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">J</forename><surname>Wareham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">H</forename><surname>Wolffenbuttel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Rutten</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Obes Relat Metab Disord</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="S6" to="S11" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+	<note>Suppl</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">A Danish diabetes risk score for targeted screening: the Inter99 study</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Glumer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Carstensen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sandbaek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Lauritzen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Jorgensen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Borch-Johnsen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diab Care</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="727" to="733" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Population-based stepwise screening for unrecognised type 2 diabetes is ineffective in general practice despite reliable algorithms</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">O</forename><surname>Christensen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sandbaek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Lauritzen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Borch-Johnsen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="1566" to="1573" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Definition, diagnosis and classification of diabetes mellitus and its complications. Part 1: diagnosis and classification of diabetes mellitus provisional report of a WHO consultation</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">G</forename><surname>Alberti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">Z</forename><surname>Zimmet</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabet Med</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="539" to="553" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Ten-year mortality and glucose tolerance status in an elderly Finnish population</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Hiltunen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Res Clin Pract</title>
+		<imprint>
+			<biblScope unit="volume">69</biblScope>
+			<biblScope unit="page" from="81" to="87" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Continuous relationships between non-diabetic hyperglycaemia and both cardiovascular disease and all-cause mortality: the Australian Diabetes, Obesity, and Lifestyle (AusDiab) study</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">L</forename><surname>Barr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Boyko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">Z</forename><surname>Zimmet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Wolfe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Tonkin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Shaw</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="415" to="424" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Carotid-artery intima and media thickness as a risk factor for myocardial infarction and stroke in older adults. Cardiovascular Health Study Collaborative Research Group</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H</forename><surname>O'leary</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Polak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Kronmal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Manolio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">L</forename><surname>Burke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Wolfson</surname><genName>Jr</genName></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">340</biblScope>
+			<biblScope unit="page" from="14" to="22" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">A1C is associated with intima-media thickness in individuals with normal glucose tolerance</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Bobbert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Mai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Fischer-Rosinsky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">F</forename><surname>Pfeiffer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Spranger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diab Care</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="203" to="204" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">International Expert Committee report on the role of the A1C assay in the diagnosis of diabetes</title>
+	</analytic>
+	<monogr>
+		<title level="j">Diab Care</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="1327" to="1334" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note>International Expert Committee</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">L</forename><surname>Frank</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Epidemiology. When an entire country is a cohort. Science</title>
+		<imprint>
+			<biblScope unit="volume">287</biblScope>
+			<biblScope unit="page" from="2398" to="2399" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">The Danish National Hospital Register. A valuable source of data for modern health sciences</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">F</forename><surname>Andersen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Madsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Jorgensen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Mellemkjoer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Olsen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Dan Med Bull</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="263" to="268" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">The comparison of venous plasma glucose and whole blood capillary glucose in diagnoses of type 2 diabetes: a population-based screening study</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sandbaek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Lauritzen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Borch-Johnsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Mai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Christiansen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabet Med</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="1173" to="1177" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

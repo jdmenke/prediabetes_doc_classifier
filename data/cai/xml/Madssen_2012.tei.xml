@@ -1,0 +1,883 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Scandinavian Cardiovascular Journal</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2012-03-09">09 Mar 2012.</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Erik</forename><surname>Madssen</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Circulation and Medical Imaging</orgName>
+								<orgName type="institution">Norwegian University of Science and Technology</orgName>
+								<address>
+									<settlement>Trondheim, Norway</settlement>
+								</address>
+							</affiliation>
+							<affiliation key="aff5">
+								<orgName type="department">Department of Cardiology</orgName>
+								<orgName type="institution">Trondheim University Hospital</orgName>
+								<address>
+									<country key="NO">Norway</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Lars</forename><surname>Vatten</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department">Department of Public Health and General Practice</orgName>
+								<orgName type="institution">Norwegian University of Science and Technology</orgName>
+								<address>
+									<settlement>Trondheim</settlement>
+									<country>Norway,</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Tom</forename><forename type="middle">Ivar</forename><surname>Nilsen</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Kristian</forename><surname>Midthjell</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department">Department of Public Health and General Practice</orgName>
+								<orgName type="institution">Norwegian University of Science and Technology</orgName>
+								<address>
+									<settlement>Trondheim</settlement>
+									<country>Norway,</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Rune</forename><surname>Wiseth</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Circulation and Medical Imaging</orgName>
+								<orgName type="institution">Norwegian University of Science and Technology</orgName>
+								<address>
+									<settlement>Trondheim, Norway</settlement>
+								</address>
+							</affiliation>
+							<affiliation key="aff5">
+								<orgName type="department">Department of Cardiology</orgName>
+								<orgName type="institution">Trondheim University Hospital</orgName>
+								<address>
+									<country key="NO">Norway</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName><roleName>Dr</roleName><forename type="first">Ane</forename><forename type="middle">Cecilie</forename><surname>Dale</surname></persName>
+							<email>ane.c.dale@ntnu.no</email>
+						</author>
+						<author>
+							<persName><surname>Ane</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Tom</forename><surname>Ivar Nilsen</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Human Movement Science Program</orgName>
+								<orgName type="institution">Norwegian University of Science and Technology</orgName>
+								<address>
+									<settlement>Trondheim, Norway</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Ane</forename><surname>Cecilie Dale</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Circulation and Medical Imaging</orgName>
+								<orgName type="institution">Norwegian University of Science and Technology</orgName>
+								<address>
+									<settlement>Trondheim, Norway</settlement>
+								</address>
+							</affiliation>
+							<affiliation key="aff5">
+								<orgName type="department">Department of Cardiology</orgName>
+								<orgName type="institution">Trondheim University Hospital</orgName>
+								<address>
+									<country key="NO">Norway</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Circulation and Medical Imaging</orgName>
+								<orgName type="institution">Norwegian University of Science and Technology</orgName>
+								<address>
+									<postCode>8905</postCode>
+									<settlement>Mailbox</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="institution">MTFS</orgName>
+								<address>
+									<postCode>N-7491</postCode>
+									<settlement>Trondheim</settlement>
+									<country key="NO">Norway</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Scandinavian Cardiovascular Journal</title>
+					</analytic>
+					<monogr>
+						<idno type="ISSN">1401-7431 (Print) 1651-2006</idno>
+						<imprint>
+							<date type="published" when="2012-03-09">09 Mar 2012.</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">A5C97391DDB2052DAB6973DA85D6A6D7</idno>
+					<idno type="DOI">10.3109/14017431.2012.664646</idno>
+					<note type="submission">Received 12 January 2012 ; revised 31 January 2012; accepted 2 Februray 2012</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.1" ident="GROBID" when="2022-07-19T23:00+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>coronary artery disease</term>
+					<term>glucose regulation</term>
+					<term>gender</term>
+					<term>mortality</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Objectives. To assess fatal coronary artery disease (CAD) by gender and glucose regulation status. Design. 47,951 people were followed up according to fatal CAD identifi ed in the National Cause of Death Registry. Gender-effects of fatal CAD in people with impaired glucose regulation (IGR), newly diagnosed diabetes (NDM) or known diabetes (KDM) compared with people with normal glucose regulation (NGR) were calculated using Cox regression. Results. Using NGR as reference, the hazard ratios (HR, 95% confi dence intervals) associated with IGR was 1.2 (0.8 -1.9) for women and 1.2 (0.9 -1.6) for men. The corresponding HRs were 1.6 (1.2 -2.2) and 1.4 (1.1. -1.9) for NDM, and 2.5 (2.1 -2.8) and 1.8 (1.6 -2.1) for KDM. The gender-difference in mortality varied by category (P interaction ϭ 0.003). Using women as the reference, the HRs for men were 2.1 (2.0 -2.3) for NGR, 1.8 (1.0 -3.3) for IGR, 1.6 (1.0 -2.5) for NDM, and 1.2 (1.0 -1.5) for KDM. Conclusions . Diabetes mellitus, but not IGR, was associated with fatal CAD in both genders. The known gender-difference in CAD mortality was attenuated in people with abnormal glucose regulation, evident already in people with IGR.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"> <ref type="bibr">(11)</ref><p>, and that treatment strategies are less effective in women (12). Gender differences related to infl ammation and endothelial dysfunction, which are important mechanisms in atherogenesis, could also be important.</p><p>There is a lack of long-term follow-up studies that have assessed whether differences in glucose regulation may have different effects on the risk of fatal CAD, and whether the associations differ by gender. We have previously shown that known diabetes is more strongly associated with fatal CAD in women than in men ( <ref type="formula">7</ref>), but it is uncertain if there is a gender difference associated with nondiabetic hyperglycemia.</p><p>Therefore, we conducted a long-term follow-up of a large prospective study where the main aim was to assess the risk of fatal CAD in men and women</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>It is well established that diabetes mellitus increases morbidity and mortality of coronary artery disease (CAD) (1,2), which is the leading cause of death worldwide. There is also evidence that hyperglycemia below the current diagnostic threshold for diabetes mellitus, suggesting impaired glucose regulation, may increase the risk of vascular complications and death <ref type="bibr">(3 -6)</ref>.</p><p>Studies indicate that diabetes is more strongly associated with fatal cardiovascular disease in women than in men (7 -10), but the underlying reason is not clear. Possibly, the combination of hyperglycemia and other cardiovascular risk factors may yield stronger effects in women than in men (8). It has also been suggested that women with diabetes tend to have a less favorable cardiovascular risk profi le than men with impaired glucose regulation (IGR), newly diagnosed diabetes mellitus (NDM) and known diabetes mellitus (KDM), compared with the risk in men and women with normal glucose regulation (NGR). Additionally, the effect of gender within each glucose regulation category was investigated.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Material and methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The HUNT study</head><p>The fi rst wave of the Nord-Tr ø ndelag Health Study (HUNT 1) was conducted in Nord-Tr ø ndelag County in the middle of Norway (127,000 inhabitants) during 1984 -86. The county is fairly representative for Norway as a whole and the population is stable and ethnically homogenous. At HUNT 1, only 3% of people were of non-Caucasian origin and the county has a low emigration to other counties. All inhabitants 20 years of age and older (85,100) were invited to participate at HUNT 1 and a total of 74,977 (88.1% of the invited) accepted the invitation. The HUNT 1 Study has been described in detail elsewhere <ref type="bibr">(7,</ref><ref type="bibr">13)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study variables</head><p>Information on known diabetes, prevalent cardiovascular disease, smoking habits and exercise was based on self-report and collected from a baseline questionnaire. Persons who answered " yes " to the question " Do you have or have you had diabetes? " were defi ned as people with known diabetes mellitus (KDM). The participants were also asked whether they had experienced angina, myocardial infarction or stroke, and those who answered " yes " to one or more of these questions were classifi ed as having known cardiovascular disease. Participants were also asked to state if they were current, former or never-smokers and how often they performed regular exercise.</p><p>A random nonfasting capillary blood glucose test was performed in all persons aged 40 years or older. If the glucose concentration was Ն 8 mmol/L, the attendant was instructed not to change the diet or physical activity until a follow-up examination. This examination was scheduled 1 -5 days later with a fasting glucose measurement. If fasting blood glucose was Ͻ 7.0 mmol/L, an oral glucose load was given with 75 g glucose dissolved in 250 -350 mL water, and blood glucose was measured 2 hours later. All blood samples was measured in capillary whole blood, collected with fi ngertip pricking (Autoclix-lancet and device), and analyzed with Refl ocheck-Glucose ® test strips and Refl ocheck ® (Boehringer Mannheim, Mannheim, Germany) refl ectance photometer.</p><p>Categories of abnormal glucose regulation were initially determined based on the World Health Organization (WHO) 1980 criteria, but in the present study, the categories were modifi ed and recalculated according to the WHO 1999 criteria (14): Fasting blood glucose Ն 7.0 mmol/L or a blood glucose Ն 11.1 mmol/L 2 hours after the oral glucose tolerance test was regarded as newly diagnosed diabetes (NDM). Fasting blood glucose Ն 6.1 and Ͻ 7.0 mmol/L, and blood glucose Ͻ 7.8/L 2 hours after the oral glucose tolerance test was defi ned as impaired fasting glucose, and fasting blood glucose Ͻ 7.0 mmol/L and blood glucose Ն 7.8 and Ͻ 11.1 mmol/L 2 hours after the oral glucose tolerance test was defi ned as impaired glucose tolerance. Patients with impaired fasting glucose and impaired glucose tolerance were combined into one group and classifi ed as having impaired glucose regulation (IGR). Participants with a fasting blood glucose Ͻ 6.1 mmol/L and a blood glucose Ͻ 7.8 mmol/L 2 hours after the oral glucose tolerance test were classifi ed as having normal glucose regulation (NGR).</p><p>Body weight was measured to the nearest halfkilogram and body height to the nearest centimeter. Body mass index (BMI) was calculated as weight (kg) divided by the squared value of height (m) and classifi ed into four categories ( Ͻ 18.5, 18.5 -24.9, 25.0 -29.9, and Ն 30.0 kg/m 2 ). Blood pressure was measured using a calibrated mercury manometer. Based on the mean of two measurements, people with a blood pressure Ն 140/90 mmHg and/or using antihypertensive medication were classifi ed as having hypertension. Participants were classifi ed into four levels of physical exercise ( Ͻ 1, 1, and Ն 2 exercise sessions per week, or unknown) and four categories of smoking <ref type="bibr">(never, former, current, and unknown)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study population</head><p>We initially included all 73,333 participants Ն 20 years of age (37,411 women and 35,922 men), with valid values on at least one of the following variables: body weight and height, systolic or diastolic blood pressure, and a valid response to the question regarding diabetes status. Assessment of glucose regulation was only performed in people Ն 40 years in the HUNT 1 Study, excluding 25,382 individuals (12,689 women and 12,693 men) from the study, leaving 47,951 individuals (24,722 women and 23,229 men) for analysis.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Follow-up</head><p>Information on death was obtained by linking data from the HUNT 1 Study to the Cause of Death Registry at Statistics Norway, which receives all death Coronary artery disease by gender and dysglycemia 221 certifi cates of Norwegian citizens. Deaths from CAD were classifi ed according to the International Classifi cation of Disease (ICD-9: 390 -459 and ICD-10: 100 -99). Individual person time at risk was calculated from the date of participation at the baseline survey, until date of death from any or until the end of follow-up at December, 31, 2003, whichever occurred fi rst.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analysis</head><p>Baseline characteristics of the study population are displayed as means with standard deviations or proportions, and stratifi ed by gender and glucose regulation status. Cox regression analysis was used to estimate hazard ratios (HRs) with 95% confi dence intervals (CI) of deaths from CAD and total mortality for different categories of glucose regulation, stratifi ed by gender. All analyses were adjusted for age (continuous), BMI ( Ͻ 18.5, 18.5 -24.9, 25.0 -29.9, Ն 30.0 kg/m 2 ), hypertension (no/yes), established cardiovascular disease (no/yes), smoking habits (never, former, current, unknown), and exercise sessions per week ( Ͻ 1, 1, Ն 2, unknown). Departure from the proportional hazards assumption was evaluated using graphical procedures (log -log plots). Statistical interactions between gender and glucose categories were assessed in a likelihood ratio test after including a product term of the two variables in the regression model. All statistical tests were two-sided and all analyses were conducted using Stata 10.0 for Windows (Statacorp, LP).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>Baseline characteristics of the study population are displayed in Table <ref type="table" target="#tab_0">I</ref>. People with abnormal glucose regulation were older, had higher mean BMI and a higher proportion with BMI Ն 30, were more frequently hypertensive, had a higher prevalence of known cardiovascular disease, but had more favorable smoking habits than people with normal glucose regulation. The more favorable smoking habits were most apparent among women with abnormal glucose regulation.</p><p>Compared with men, women with abnormal glucose regulation were older, had higher mean BMI and a higher proportion had BMI Ն 30 kg/m 2 . Within the three groups of abnormal glucose regulation, people with NDM had higher mean BMI, a higher proportion had a BMI Ն 30 kg/m 2 , and they were more frequently hypertensive than people with IGR and KDM, while people with KDM had the highest prevalence of known cardiovascular disease.</p><p>During 18 years of follow-up, 4723 deaths from CAD occurred in the study population (Table <ref type="table" target="#tab_1">II</ref>).</p><p>Participants with KDM at baseline had the highest death rate of CAD in both genders, followed by people with NDM and people with IGR. Men had generally higher mortality from CAD than women in all a Adjusted for age (continuous), BMI ( Ͻ 18.5, 18.5 -24.9, 25.0 -29.9, Ն 30.0 kg/m 2 ), hypertension (no, yes), established cardiovascular disease (no, yes), smoking habits (never, former, current, unknown) and exercise sessions per week ( Ͻ 1, 1, Ն 2, unknown).</p><p>groups of glucose regulation except for people with KDM at baseline.</p><p>Table <ref type="table" target="#tab_1">II</ref> shows the multivariable adjusted HRs for fatal CAD in different groups of glucose regulation stratifi ed by gender using people with NGR as the reference category. With gradually more disturbed glucose regulation status, there was a gradual and consistent increase in the risk of deaths from CAD in both genders. Both women and men with IGR had a risk of death that was 20 percent higher than those with NGR, but the associations were not statistically signifi cant. Compared with people with NGR, the risk of death from CAD was 60 percent higher (HR 1.6, CI 1.2 -2.2) in women with NDM and 40 percent higher (HR 1.4, CI 1.1 -1.9) in men with NDM. Women with KDM had a two and a half-fold higher risk (HR 2.5, CI 2.1 -2.8) than those with NGR, whereas the risk in men with KDM was nearly twofold higher (HR 1.8, CI 1.6 -2.1).</p><p>Regarding total mortality (data not shown in tables), both genders had increased risk of death in all three groups of abnormal glucose regulation. The multivariable adjusted HRs for total mortality with IGR was 1 .3 (CI 1.04 -1.6) for women and 1.2 (CI 1.04 -1.4) for men. For NDM, the corresponding HRs were 1.7 (CI 1.5 -2.0) and 1.3 (CI 1.1 -1.5), and for KDM, HRs were 2.1 (CI 2.0 -2.3) and 1.7 (CI 1.6 -1.8).</p><p>Table <ref type="table" target="#tab_2">III</ref> shows the multivariable adjusted HRs for fatal CAD in men compared with women within the different groups of glucose regulation. Within the NGR group, the HR was twice as high in men as in women (HR 2.1, CI 2.0 -2.3). However, the HRs between genders became gradually and consistently weaker with increasing impairment of glucose regulation status (P interaction ϭ 0.003). Thus the HR was 1.8 (CI 1.0 -3.3) among men with IGR, 1.6 (CI 1.0 -2.5) in men with NDM and 1.2 (CI 1.0 -1.5) in men with KDM.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>The main fi nding in this large, population-based prospective study was that newly diagnosed diabetes mellitus (NDM) and known diabetes mellitus (KDM), but not impaired glucose regulation (IGR), were associated with fatal CAD in both women and men. In gender comparisons, the higher CAD mortality observed among men compared with women became gradually and consistently weaker as the abnormal glucose regulation became more advanced, and this attenuation was evident already in people with IGR.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Potentially confounding factors</head><p>We found that both men and women with abnormal glucose regulation were older and had a higher prevalence of known cardiovascular disease, hypertension and obesity than people with NGR. We also found that women with abnormal glucose regulation were older and had a higher BMI than their male a Adjusted for age (continuous), BMI ( Ͻ 18.5, 18.5 -24.9, 25.0 -29.9, Ն 30.0 kg/m 2 ), hypertension (no, yes), established cardiovascular disease (no, yes), smoking habits (never, former, current, unknown) and exercise sessions per week ( Ͻ 1, 1, Ն 2, unknown).</p><p>counterparts. These fi ndings could explain the higher mortality from CAD associated with abnormal glucose regulation and the female disadvantage of dysglycemia. However, the multivariable adjustment did not substantially attenuate the HRs of fatal CAD associated with dysglycemia. These fi ndings are consistent with the results of others <ref type="bibr">(1,</ref><ref type="bibr">15,</ref><ref type="bibr">16)</ref>, implying that intrinsic factors related to the hyperglycaemic process may be important for the increased CAD mortality in people with disturbances in the glucose metabolism. We also found that people with abnormal glucose regulation smoked less than people with NGR and that women smoked less than men. This suggests that smoking was not a likely factor for the gender-differences in CAD mortality in people with abnormal glucose regulation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Abnormal glucose regulation and fatal CAD</head><p>We observed that both NDM and KDM are associated with fatal CAD, and these fi ndings are consistent with those of previous studies (1,4). The multivariable association of IGR with fatal CAD showed 20 percent higher risk in both genders, but the associations were not statistically signifi cant, possibly due to a low number of women and men in the IGR group. Few other studies have investigated longterm CAD specifi c mortality in people with prediabetic conditions, including both patients with impaired fasting glucose and impaired glucose tolerance. Generally, impaired glucose tolerance is suggested to be a better predictor of clinical events than impaired fasting glucose (17). However, in a study of patients with known CAD, impaired fasting glucose was associated with increased risk of all-cause death and death from CAD during 7.7 years of follow-up (18), and a recent large meta-analysis (19) reported that impaired fasting glucose was associated with 17% increased (HR 1.17, CI 1.08 -1.26) risk of death from CAD.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Gender differences</head><p>We observed that the higher CAD mortality observed among men compared with women became gradually and consistently weaker as glucose regulation status became more advanced (Table <ref type="table" target="#tab_2">III</ref>). The weakening of HRs in men was evident already in people with IGR and was further reduced in patients with NDM. In people with KDM, the gender difference in mortality from CAD was strongly attenuated (HR 1.2, CI 1.0 -1.5 in men). Our fi ndings in people with KDM have previously been published in a separate analysis ( <ref type="formula">7</ref>) and are supported by other studies <ref type="bibr">(8,</ref><ref type="bibr">12)</ref>. In the present study, the gender difference in risk of fatal CAD was less pronounced in people with NDM than KDM. This suggests that the duration of prevalent diabetes may be in disfavor for women, as shown in the Nurses ' Health Study, where there was a strong positive association of duration of diabetes with mortality in women (9). Whether the presence of IGR diminishes the female advantage related to CAD mortality has not been extensively studied, and as far as we know, there are no original studies published on this topic. In a meta-analysis based on the DECODE study, allcause mortality was increased in both women and men with IGR, but cardiovascular mortality was not. The absolute gender difference in cardiovascular mortality declined in the IGR group compared with normoglycemic people (8), corresponding to our fi ndings (Table <ref type="table" target="#tab_2">III</ref>). This supports the hypothesis that any hyperglycemia, also below the diagnostic threshold for diabetes mellitus, may attenuate the usual protective effect of the female gender in CAD mortality, and should therefore be prevented.</p><p>Why hyperglycaemia should be a stronger risk factor for CAD in women than men is not completely understood. However, given that abnormal glucose regulation in patients with CAD is more prevalent in women than in men (20), this is an important topic. Most studies trying to explain this phenomenon have compared patients with diabetes and no diabetes, without differentiating between people with NGR and IGR. It is suggested that diabetes has a greater adverse effect on triglyceride and lipoprotein cholesterol concentrations in women than in men (21), which may accelerate atherosclerosis to a greater extent in women. It has also been reported that endothelial function, an important mechanism in atherogenesis, may be more impaired in women with diabetes than their male counterparts (22). In the DECODE study (8), diabetes was more strongly associated with cardiovascular mortality in women than in men among patients who smoked, were overweight, or had dyslipidemia or hypertension. That fi nding could suggest that synergistic effects between cardiovascular risk factors could be stronger in diabetic women diabetic men. It has also been proposed that the pathophysiological mechanisms leading to adverse outcomes in CAD could differ by gender (23) and that treatment strategies may therefore be less effective in women.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Limitations of the study</head><p>Apart from the clear strengths by the large sample size and long-term follow-up, the present work has some limitations. There are factors that may have led to an underestimation of the association between the three groups of abnormal glucose regulation and fatal CAD in our study. The initial blood glucose measurement was conducted in a nonfasting state and only people with a random nonfasting blood glucose concentration Ն 8 mmol/L were scheduled for a fasting follow-up test. If all blood glucose measurements had been conducted in a fasting state, more people with IGR and NDM would probably have been identifi ed. This could explain why we did not fi nd a statistically signifi cant association between IGR and fatal CAD. Also, during 18 years of follow-up, the prevalence of diabetes and obesity increased in the study population <ref type="bibr">(24)</ref>. Thus, it is likely that also the prevalence of IGR would have increased, leading to a larger number of people in the categories IGR and KDM during follow-up. Diabetes was defi ned by self-reporting which could underestimate the prevalence. However, it has been demonstrated that self-reporting of diabetes in the HUNT population was correct in 96.5% (25).</p><p>We do not have data on serum lipids in our study population, and it is possible that adjustment for lipids in the multivariable analyses would lead to attenuation of the HRs of fatal CAD in people within the three groups of abnormal glucose regulation. In addition, adjusting for lipids could have differential effects in women and men. On the other hand, it can be argued that adjustment for lipids in people with IGR or diabetes is inappropriate as dyslipidemia is a part of the diabetic process itself.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusions</head><p>In this large, prospective 18-year mortality follow-up of 47,951 individuals, we found that newly diagnosed diabetes mellitus and known diabetes mellitus, but not impaired glucose regulation, were associated with fatal coronary artery disease in both women and men. In gender comparisons, the higher CAD mortality observed among men compared with women became gradually and consistently weaker as the abnormal glucose regulation became more advanced, and this attenuation was evident already in people with impaired glucose regulation. This supports the hypothesis that any hyperglycemia, also below the diagnostic threshold for diabetes mellitus, may attenuate the usual protective effect of the female gender in CAD mortality, and should therefore be prevented.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table I .</head><label>I</label><figDesc>Baseline characteristics of the study population.</figDesc><table><row><cell></cell><cell></cell><cell>Women</cell><cell></cell><cell></cell><cell></cell><cell>Men</cell><cell></cell><cell></cell></row><row><cell></cell><cell>NGR</cell><cell>IGR</cell><cell>NDM</cell><cell>KDM</cell><cell>NGR</cell><cell>IGR</cell><cell>NDM</cell><cell>KDM</cell></row><row><cell>No. of participants</cell><cell>23 248</cell><cell>133 b</cell><cell>215</cell><cell>1 126</cell><cell>21 917</cell><cell>232 c</cell><cell>214</cell><cell>866</cell></row><row><cell>Mean age, years</cell><cell>59.8</cell><cell>72.4</cell><cell>71.1</cell><cell>71.2</cell><cell>59.0</cell><cell>68.6</cell><cell>68.5</cell><cell>68.8</cell></row><row><cell>Mean random</cell><cell>5.0</cell><cell>7.5</cell><cell>11.3</cell><cell>8.4</cell><cell>5.4</cell><cell>8.5</cell><cell>11.5</cell><cell>8.6</cell></row><row><cell>glucose, mmol/L</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Mean BMI, kg/m 2</cell><cell>26.1</cell><cell>27.6</cell><cell>30.0</cell><cell>28.1</cell><cell>25.7</cell><cell>26.7</cell><cell>27.9</cell><cell>26.4</cell></row><row><cell>Percent with</cell><cell>53.2</cell><cell>70.7</cell><cell>80.9</cell><cell>65.0</cell><cell>55.7</cell><cell>66.8</cell><cell>76.6</cell><cell>59.9</cell></row><row><cell>BMI Ͼ 25 kg/m 2</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Percent with</cell><cell>17.0</cell><cell>27.8</cell><cell>42.3</cell><cell>32.0</cell><cell>9.0</cell><cell>15.9</cell><cell>26.6</cell><cell>15.5</cell></row><row><cell>BMI Ͼ 30 kg/m 2</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Percent with</cell><cell>44.6</cell><cell>58.6</cell><cell>67.4</cell><cell>66.1</cell><cell>43.9</cell><cell>59.1</cell><cell>65.4</cell><cell>56.5</cell></row><row><cell>hypertension a</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Percent current</cell><cell>20.1</cell><cell>6.8</cell><cell>7.9</cell><cell>8.8</cell><cell>30.9</cell><cell>24.1</cell><cell>26.2</cell><cell>20.6</cell></row><row><cell>smoker</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Percent with baseline</cell><cell>7.5</cell><cell>19.5</cell><cell>22.3</cell><cell>29.0</cell><cell>11.8</cell><cell>18.5</cell><cell>26.2</cell><cell>30.9</cell></row><row><cell>CVD</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Percent exercising Ն 1/</cell><cell>49.6</cell><cell>36.8</cell><cell>34.4</cell><cell>39.2</cell><cell>50.2</cell><cell>53.0</cell><cell>32</cell><cell>48.7</cell></row><row><cell>week</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table><note>NGR, normal glucose regulation; IGR, impaired glucose regulation; NDM, newly diagnosed diabetes mellitus; KDM, known diabetes mellitus; BMI, body mass index; CVD, cardiovascular disease. a Hypertension defi ned as blood pressure Ն 140/90 or using antihypertensive medication. b 11 people with impaired fasting glucose and 122 people with impaired glucose tolerance. c 54 people with impaired fasting glucose and 178 people with impaired glucose tolerance.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table II .</head><label>II</label><figDesc>Death rate and hazard ratios (HR) of death from CAD in different groups of glucose regulation.</figDesc><table><row><cell></cell><cell></cell><cell></cell><cell>Women</cell><cell></cell><cell></cell><cell></cell><cell>Men</cell><cell></cell></row><row><cell>Glucose</cell><cell>No. of</cell><cell>No. of</cell><cell>Death rate</cell><cell>Multiadjusted a</cell><cell>No. of person</cell><cell>No. of</cell><cell>Death rate</cell><cell>Multiadjusted a</cell></row><row><cell>regulation</cell><cell>person years</cell><cell>deaths</cell><cell>per 10,000 py</cell><cell>HR (95% CI)</cell><cell>years</cell><cell>deaths</cell><cell>per 10,000 py</cell><cell>HR (95% CI)</cell></row><row><cell>NGR</cell><cell>370360</cell><cell>1494</cell><cell>40.3</cell><cell>1.0 (reference)</cell><cell>324483</cell><cell>2568</cell><cell>79.1</cell><cell>1.0 (reference)</cell></row><row><cell>IGR</cell><cell>1543</cell><cell>20</cell><cell>129.6</cell><cell>1.2 (0.8 -1.9)</cell><cell>2536</cell><cell>46</cell><cell>181.4</cell><cell>1.2 (0.9-1.6)</cell></row><row><cell>NDM</cell><cell>2286</cell><cell>37</cell><cell>161.9</cell><cell>1.6 (1.2-2.2)</cell><cell>2221</cell><cell>54</cell><cell>243.1</cell><cell>1.4 (1.1-1.9)</cell></row><row><cell>KDM</cell><cell>10734</cell><cell>267</cell><cell>341.9</cell><cell>2.5 (2.1-2.8)</cell><cell>7957</cell><cell>237</cell><cell>297.9</cell><cell>1.8 (1.6-2.1)</cell></row><row><cell cols="9">CI, confi dence interval; NGR, normal glucose regulation; IGR, impaired glucose regulation; NDM, newly diagnosed diabetes mellitus;</cell></row><row><cell cols="5">KDM, known diabetes mellitus; CAD, coronary artery disease.</cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table III .</head><label>III</label><figDesc>Hazard ratios (HR) of death from CAD in women versus men stratifi ed by glucose regulation status.</figDesc><table><row><cell></cell><cell></cell><cell>Multiadjusted a</cell></row><row><cell></cell><cell>No. of deaths</cell><cell>HR (95% CI)</cell></row><row><cell>NGR</cell><cell></cell><cell></cell></row><row><cell>Women</cell><cell>1494</cell><cell>1.0 (reference)</cell></row><row><cell>Men</cell><cell>2568</cell><cell>2.1 (2.0 -2.3)</cell></row><row><cell>IGR</cell><cell></cell><cell></cell></row><row><cell>Women</cell><cell>20</cell><cell>1.0 (reference)</cell></row><row><cell>Men</cell><cell>46</cell><cell>1.8 (1.0 -3.3)</cell></row><row><cell>NDM</cell><cell></cell><cell></cell></row><row><cell>Women</cell><cell>37</cell><cell>1.0 (reference)</cell></row><row><cell>Men</cell><cell>54</cell><cell>1.6 (1.0 -2.5)</cell></row><row><cell>KDM</cell><cell></cell><cell></cell></row><row><cell>Women</cell><cell>267</cell><cell>1.0 (reference)</cell></row><row><cell>Men</cell><cell>237</cell><cell>1.2 (1.0 -1.5)</cell></row></table><note>CI, confi dence interval; NGR, normal glucose regulation; IGR, impaired glucose regulation; NDM, newly diagnosed diabetes mellitus; KDM, known diabetes mellitus; CAD, coronary artery disease.</note></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgements</head><p>This study was supported by grants from the Liaison Committee for Central Norway Health Authority and the Norwegian University of Science and Technology.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Declaration of interest:</head><p>The authors report no confl icts of interest. The authors alone are responsible for the content and writing of the paper.</p></div>
+			</div>
+
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Diabetes, 1. other risk factors, and 12-yr cardiovascular mortality for men screened in the multiple risk factor intervention trial</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Stamler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Vaccaro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Neaton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Wentworth</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="434" to="444" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Mortality from coronary heart disease in subjects with type 2 diabetes and in nondiabetic subjects with and without prior myocardial infarction</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Haffner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lehto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Ronnemaa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Pyorala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Laakso</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">339</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="229" to="234" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Decode Study Group tEDEG. Glucose tolerance and car-4. diovascular mortality: comparison of fasting and 2-hour diagnostic criteria</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bartnik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Norhammar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Ryden</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">262</biblScope>
+			<biblScope unit="page" from="397" to="405" />
+			<date type="published" when="2001">2007. 2001</date>
+		</imprint>
+	</monogr>
+	<note>J Intern Med</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Impaired glucose tolerance is a risk factor for cardiovascular disease, but not impaired fasting glucose. The funagata diabetes study</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tominaga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Eguchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Manaka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Igarashi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Kato</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sekikawa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="920" to="924" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">L</forename><surname>Barr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">Z</forename><surname>Zimmet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Welborn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Jolley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Magliano</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">6</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Risk of cardiovascular and all-cause mortality in individuals with diabetes mellitus, impaired fasting glucose, and impaired glucose tolerance: the Australian diabetes, obesity, and lifestyle study (AusDiab)</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Dunstan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">116</biblScope>
+			<biblScope unit="page" from="151" to="157" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Diabe-7. tes mellitus and risk of fatal ischaemic heart disease by gender: 18 years follow-up of 74,914 individuals in the HUNT 1 Study</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Dale</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">I</forename><surname>Nilsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Vatten</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Midthjell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Wiseth</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur Heart J</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="2924" to="2929" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Gender difference in all-cause and car-8. diovascular mortality related to hyperglycaemia and newlydiagnosed diabetes</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Hu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Group</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="608" to="617" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">B</forename><surname>Hu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Stampfer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">G</forename><surname>Solomon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">C</forename><surname>Willett</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">9</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Zhianpour M. A prospective population based study of gender differential in mortality from cardiovascular disease and &quot; all causes &quot; in asymptomatic hyperglycaemics</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">E</forename><surname>Speizer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">161</biblScope>
+			<biblScope unit="page" from="397" to="405" />
+			<date type="published" when="1994">2001. 1994</date>
+		</imprint>
+	</monogr>
+	<note>J Clin Epidemiol</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Cardiovascular risk in 11. women with diabetes</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Rivellese</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Riccardi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Vaccaro</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nutr Metab Cardiovasc Dis</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="474" to="480" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Excess risk of fatal coro-12. nary heart disease associated with diabetes in men and women: meta-analysis of 37 prospective cohort studies</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Huxley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Barzi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Woodward</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMJ</title>
+		<imprint>
+			<biblScope unit="volume">332</biblScope>
+			<biblScope unit="page" from="73" to="78" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><surname>Holmen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Midthjell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Bjartveit</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Hjort</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Lund-Larsen</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">13</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">The Nord-Tr ø ndelag health survey 1984 -86. Purpose, background and methods. Participation, nonparticipation and frequency distributors. Verdal : Statens Institutt for folkehelse, senter for samfunnsmedisinsk forskning</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Moum</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">Report</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Defi nition, diagnosis and classi-14. fi cation of diabetes mellitus and its complications. Part 1: diagnosis and classifi cation of diabetes mellitus provisional report of a WHO consultation</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">G</forename><surname>Alberti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">Z</forename><surname>Zimmet</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabet Med</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="539" to="553" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">15. Coronary heart disease mortality amongst non-insulindependent diabetic subjects in Iceland: the independent effect of diabetes. The Reykjavik Study 17-year follow up</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Vilbergsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Sigurdsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Sigvaldason</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Sigfusson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">244</biblScope>
+			<biblScope unit="page" from="309" to="316" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">E</forename><surname>Kip</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">C</forename><surname>Marroquin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Kelley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">D</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">F</forename><surname>Kelsey</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">16</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Clinical importance of obesity versus the metabolic syndrome in cardiovascular risk in women: a report from the Women&apos;s Ischemia Syndrome Evaluation (WISE) study</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">J</forename><surname>Shaw</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">109</biblScope>
+			<biblScope unit="page" from="706" to="713" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Impaired glucose tolerance and 17. impaired fasting glucose-a review of diagnosis, clinical implications and management</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Petersen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">K</forename><surname>Mcguire</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diab Vasc Dis Res</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="9" to="15" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">Z</forename><surname>Fisman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Motro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Tenenbaum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Boyko</surname></persName>
+		</author>
+		<imprint>
+			<date>Mandelzweig 18</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Diabetes mellitus, fasting blood glucose concentration, and risk of vascular disease: a collaborative meta-analysis of 102 prospective studies</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Behar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am Heart J</title>
+		<imprint>
+			<biblScope unit="volume">141</biblScope>
+			<biblScope unit="page" from="2215" to="2222" />
+			<date type="published" when="2001">2001. 2010</date>
+		</imprint>
+	</monogr>
+	<note>Lancet</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">A</forename><surname>Dotevall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rosengren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bartnik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Malmberg</surname></persName>
+		</author>
+		<imprint>
+			<date>Ohrvik 20</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Sex-related aspects on abnormal glucose regulation in patients with coronary artery disease</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Simoons</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur Heart J</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="310" to="315" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Walden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Knopp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">W</forename><surname>Wahl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">W</forename><surname>Beach</surname></persName>
+		</author>
+		<imprint>
+			<date>Strandness 21</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Sex differences in the effect of diabetes mellitus on lipoprotein triglyceride and cholesterol concentrations</title>
+		<author>
+			<persName><forename type="first">E</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jr</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">311</biblScope>
+			<biblScope unit="page" from="953" to="959" />
+			<date type="published" when="1984">1984</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Type II diabetes abrogates sex differences in endothelial function in premenopausal women</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">O</forename><surname>Steinberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Paradisi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cronin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Crowde</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ing</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Hook</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">101</biblScope>
+			<biblScope unit="page" from="2040" to="2046" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Women and ischemic heart 23. disease: evolving knowledge</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">J</forename><surname>Shaw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Bugiardini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">N</forename><surname>Merz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Coll Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page" from="1561" to="1575" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">K</forename><surname>Midthjell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Kruger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Holmen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Tverdal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Claudi</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">24</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Rapid changes in the prevalence of obesity and known diabetes in an adult Norwegian population. The Nord-Trondelag Health Surveys: 1984 -1986 and 1995 -1997</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bjorndal</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="1813" to="1820" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Is ques-25. tionnaire information valid in the study of a chronic disease such as diabetes? The Nord-Trondelag diabetes study</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Midthjell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Holmen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bjorndal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Lund-Larsen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Epidemiol Community Health</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="537" to="542" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

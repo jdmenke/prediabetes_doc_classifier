@@ -1,0 +1,720 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Comparative prognostic performance of defi nitions of prediabetes: a prospective cohort analysis of the Atherosclerosis Risk in Communities (ARIC) study</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2016-11-15">November 15, 2016</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Warren</forename><surname>Ba</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Kunihiro</forename><surname>Matsushita</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>Prof</roleName><forename type="first">Naresh</forename><forename type="middle">M</forename><surname>Punjabi</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">R</forename><surname>Daya</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>Prof</roleName><forename type="first">Mark</forename><surname>Woodward</surname></persName>
+						</author>
+						<author role="corresp">
+							<persName><roleName>Prof</roleName><forename type="first">Elizabeth</forename><surname>Selvin</surname></persName>
+							<email>eselvin@jhu.edu</email>
+						</author>
+						<author>
+							<persName><forename type="first">Bethany</forename><surname>Warren</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">James</forename><forename type="middle">S</forename><surname>Pankow</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Natalie</forename><forename type="middle">R</forename><surname>Daya</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Morgan</forename><surname>Grams</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Epidemiology</orgName>
+								<orgName type="department" key="dep2">Welch Center for Prevention, Epidemiology and Clinical Research</orgName>
+								<orgName type="institution">Johns Hopkins Bloomberg School of Public Health</orgName>
+								<address>
+									<settlement>Baltimore</settlement>
+									<region>MD</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Prof E Selvin PhD)</orgName>
+								<orgName type="department" key="dep2">Division of Epidemiology and Community Health</orgName>
+								<orgName type="department" key="dep3">School of Public Health</orgName>
+								<orgName type="institution">University of Minnesota</orgName>
+								<address>
+									<settlement>Minneapolis</settlement>
+									<region>MN</region>
+									<country>USA (Prof</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="institution" key="instit1">J S Pankow PhD)</orgName>
+								<orgName type="institution" key="instit2">Johns Hopkins University School of Medicine</orgName>
+								<address>
+									<settlement>Baltimore</settlement>
+									<region>MD</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<orgName type="department">Prof E Selvin)</orgName>
+								<orgName type="institution">The George Institute for Global Health</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff4">
+								<orgName type="institution">University of Oxford</orgName>
+								<address>
+									<settlement>Oxford</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff5">
+								<orgName type="department">Prof M Woodward)</orgName>
+								<orgName type="institution">University of Sydney</orgName>
+								<address>
+									<settlement>Sydney</settlement>
+									<region>NSW</region>
+									<country key="AU">Australia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff6">
+								<orgName type="department">Welch Center for Prevention, Epidemiology and Clinical Research</orgName>
+								<orgName type="institution">Johns Hopkins Bloomberg School of Public Health</orgName>
+								<address>
+									<addrLine>2024 E Monument Street</addrLine>
+									<postCode>21205</postCode>
+									<settlement>Baltimore</settlement>
+									<region>MD</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Comparative prognostic performance of defi nitions of prediabetes: a prospective cohort analysis of the Atherosclerosis Risk in Communities (ARIC) study</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2016-11-15">November 15, 2016</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">94B7B9407D240E9E0DC224B7B308310C</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.1" ident="GROBID" when="2022-07-19T23:01+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Background No consensus on defi nitions of prediabetes exists among international organisations. Analysis of associations with diff erent defi nitions and clinical complications can inform the comparative value of diff erent prediabetes defi nitions. We compared the risk of future outcomes across diff erent prediabetes defi nitions based on fasting glucose concentration, HbA 1c , and 2 h glucose concentration during over two decades of follow-up in the community-based Atherosclerosis Risk in Communities (ARIC) study. We aimed to analyse the associations of defi nitions with outcomes to provide a comparison of diff erent defi nitions.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head><p>We did a prospective cohort study of participants in the ARIC study who did not have diagnosed diabetes and who attended visit 2 (1990-92; n=10 844) and who attended visit 4 (1996-98; n=7194). ARIC participants were enrolled from four communities across the USA. Fasting glucose concentration and HbA 1c were measured at visit 2 and fasting glucose concentration and 2 h glucose concentration were measured at visit 4. We compared prediabetes defi nitions based on fasting glucose concentration (American Diabetes Association [ADA] fasting glucose concentration cutoff 5•6-6•9 mmol/L and WHO fasting glucose concentration cutoff 6•1-6•9 mmol/L), HbA 1c (ADA HbA 1c cutoff 5•7-6•4% [39-46 mmol/mol] and International Expert Committee [IEC] HbA 1c cutoff 6•0-6•4% [42-46 mmol/mol]), and 2 h glucose concentration (ADA and WHO 2 h glucose concentration cutoff 7•8-11•0 mmol/L). Findings Prediabetes defi ned using the ADA fasting glucose concentration cutoff (prevalence 4112 [38%] of 10 844 people; 95% CI 37•0-38•8) was the most sensitive for major clinical outcomes, whereas using the ADA HbA 1c cutoff (2027 [19%] of 10 884 people; 18•0-19•4) and IEC HbA 1c cutoff (970 [9%] of 10 844 people; 8•4-9•5), and the WHO fasting glucose concentration cutoff (1213 [11%] of 10 844 people; 10•6-11•8) were more specifi c. After demographic adjustment, HbA 1c -based defi nitions of prediabetes had higher hazard ratios and better risk discrimination for chronic kidney disease, cardiovascular disease, peripheral arterial disease, and all-cause mortality than did fasting glucose concentration-based defi nitions (all p&lt;0•05). The C-statistic for incident chronic kidney disease was 0•636 for ADA fasting glucose concentration clinical categories and 0•640 for ADA HbA 1c clinical categories (diff erence -0•005, 95% CI -0•008 to -0•001). The C-statistics were 0•662 for ADA fasting glucose clinical concentration categories and 0•672 for ADA HbA 1c clinical categories for atherosclerotic cardiovascular disease, 0•701 for ADA fasting glucose concentration clinical categories and 0•722 for ADA HbA 1c clinical categories for peripheral arterial disease, and 0•683 for ADA fasting glucose concentration clinical categories and 0•688 for ADA HbA 1c clinical categories for all-cause mortality. Prediabetes defi ned using the ADA HbA 1c cutoff showed a signifi cant overall improvement in the net reclassifi cation index for cardiovascular outcomes and death compared with prediabetes defi ned with glucose-based defi nitions. ADA fasting glucose concentration clinical categories, WHO fasting glucose concentration clinical categories, and ADA and WHO 2 h glucose concentrations clinical categories were not signifi cantly diff erent in terms of risk discrimination for chronic kidney disease, cardiovascular outcomes, or mortality outcomes.</p><p>Interpretation Our results suggest that prediabetes defi nitions using HbA 1c were more specifi c and provided modest improvements in risk discrimination for clinical complications. The defi nition of prediabetes using the ADA fasting glucose concentration cutoff was more sensitive overall.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>Prediabetes is a pressing clinical and public health problem that aff ects approximately 12-30% of US adults aged 18 years and older, depending on the defi nition used. <ref type="bibr" target="#b0">1</ref> International organisations largely agree on the clinical cutoff points for diagnosis of diabetes and, in 2010, HbA 1c ≥6•5% (≥48 mmol/mol) was adopted for diagnosis of diabetes by many international groups, in part based on the association of HbA 1c with retinopathy. <ref type="bibr" target="#b1">[2]</ref><ref type="bibr" target="#b2">[3]</ref><ref type="bibr" target="#b3">[4]</ref><ref type="bibr" target="#b4">[5]</ref> By contrast, the category of prediabetes does not have a uniform defi nition. The American Diabetes Association (ADA) recommends using the following criteria to identify people with prediabetes: fasting glucose con centration between 5•6 and 6•9 mmol/L (100-125 mg/dL; impaired fasting glucose), HbA 1c of 5•7-6•4% (39-46 mmol/mol), or 2 h glucose concentration after a 75 g oral glucose tolerance test of 7•8-11•0 mmol/L (140-199 mg/dL; impaired glucose tolerance). <ref type="bibr" target="#b5">6</ref> WHO also recommends 2 h glucose of 7•8-11•0 mmol/L to identify impaired glucose tolerance, but recommends a fasting glucose concentration of 6•1-6•9 mmol/L (110-125 mg/dL) to identify impaired fasting glucose. <ref type="bibr" target="#b1">2</ref> In 2009, the International Expert Committee (IEC) recommended HbA 1c of 6•0-6•4% (42-46 mmol/mol) for the identifi cation of an intermediate risk group, which has been adopted by some organisations. <ref type="bibr" target="#b4">5</ref> Identifi cation of individuals with prediabetes provides an opportunity for intervention through lifestyle modifi cation and pharmacological inter ventions to prevent progression to diabetes. <ref type="bibr" target="#b5">6,</ref><ref type="bibr" target="#b6">7</ref> Consensus on defi nitions of prediabetes could help guide resource allocation and aid public health eff orts to identify people at risk of developing diabetes and its complications.</p><p>Although the selection of biomarker cutoff points for screening or diagnosis requires a broad range of considerations, associations with clinical outcomes are an important factor. <ref type="bibr" target="#b7">8</ref> Therefore, the aim of this study was to compare the prognostic performance of the abovementioned defi nitions of prediabetes in their associations with major clinical complications such as incident diabetes, chronic kidney disease, atherosclerotic cardiovascular disease, peripheral arterial disease, and all-cause mortality. We compared the risk of future outcomes across diff erent defi nitions of prediabetes by fasting glucose concentration, HbA 1c , and 2 h glucose concentration during over two decades of follow-up in the community-based Atherosclerosis Risk in Communities (ARIC) study.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study design and participants</head><p>This prospective cohort study was based on the ARIC study, which originally enrolled 15 792 adults aged 45-64 years from the communities of Jackson, MS; Forsyth County, NC; suburban Minneapolis, MN; and Washington County, MD, USA. We excluded participants with prevalent diabetes, chronic kidney disease, atherosclerotic cardiovascular disease, or peripheral arterial disease, those who were missing variables of interest, or those who fasted for less than 10 h (see appendix for full details). Detailed methods of the study have been previously published. <ref type="bibr" target="#b8">9</ref> Briefl y, the fi rst examination, including medical, social, and demographic assessment, took place from 1987 to 1989, with three follow-up visits approximately every 3 years, and a fi fth visit between 2011 and 2013. Institutional review board approval was acquired at all study sites and written consent was obtained from all participants.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Research in context</head><p>Evidence before this study We searched PubMed with the search terms "prediabetic state" OR "prediabetes", "impaired fasting glucose" OR "impaired glucose tolerance", AND "diabetes mellitus" OR "diabetes", OR "cardiovascular diseases" OR "chronic renal insuffi ciency" OR "chronic kidney disease", OR "peripheral vascular diseases" OR "peripheral arterial disease", OR "all-cause mortality" OR "mortality", AND "humans", for papers published up to June, 2015. There were no date or language restrictions. Prediabetes is characterised by elevated levels of blood glucose or hyperglycaemia that falls below the diagnostic threshold for diabetes. The prognostic value of diff erent clinical defi nitions of prediabetes has not previously been formally compared. Current defi nitions include those by the American Diabetes Association (ADA), which defi nes prediabetes as a fasting glucose concentration of 5•6-6•9 mmol/L, an HbA 1c of 5•7-6•4% (39-46 mmol/L), or a 2 h glucose concentration of 7•8-11•0 mmol/L. WHO recommends the same 2 h glucose concentration cutoff s as the ADA, but recommends a fasting glucose concentration of 6•1-6•9 mmol/L as another defi nition for prediabetes. The International Expert Committee (IEC) defi nes prediabetes as an HbA 1c of 6•0-6•4% (42-46 mmol/L).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Added value of this study</head><p>We compared the prognostic value of the ADA, WHO, and IEC defi nitions of prediabetes in the Atherosclerosis Risk in Communities (ARIC) study, a large, prospective cohort study of over 10 000 middle-aged adults followed-up for over two decades for health outcomes including incident diabetes, chronic kidney disease, atherosclerotic cardiovascular disease, peripheral arterial disease, and all-cause mortality. We found that WHO fasting glucose concentration cutoff s and HbA 1c -based defi nitions of prediabetes result in lower prevalence estimates than ADA fasting glucose concentration cutoff s and ADA and WHO 2 h glucose concentration cutoff s, but were more specifi c in identifying people at risk for long-term outcomes. We also observed that ADA fasting glucose concentration and ADA and WHO 2 h glucose concentration-based defi nitions of prediabetes are more sensitive for long-term outcomes. We found that HbA 1c -based defi nitions of prediabetes had stronger associations with long-term outcomes and provided modest, but statistically signifi cantly more information for risk discrimination than fasting glucose-based defi nitions for many major clinical complications. We did not observe meaningful diff erences between defi nitions using both ADA and WHO fasting glucose concentrations compared with those using ADA and WHO 2 h glucose concentration cutoff s for long-term risk associations.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Implications of all the available evidence</head><p>Many considerations need to be accounted for in the selection of a defi nition of prediabetes for use in population screening or other settings, but long-term risk associations can and should be taken into account when reaching consensus on a defi nition for prediabetes. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Articles Procedures</head><p>We did two main comparisons. First, with visit 2 (1990-92) as baseline, when both fasting glucose concentration and HbA 1c were measured. And, second, with visit 4 (1996-98) as baseline, when both fasting glucose concentration and 2 h glucose concentration were measured. Our fi nal sample size included 10 844 participants who attended visit 2 and 7194 participants who attended visit 4 (appendix).</p><p>Fasting glucose was measured using a hexokinase method in serum at visit 2 and in plasma at visit 4. We formally compared and recalibrated fasting glucose concentrations to ensure equivalence of the measurements over time. <ref type="bibr" target="#b9">10</ref> HbA 1c was measured in stored whole-blood samples from visit 2 by high-performance liquid chromatography using the Tosoh A 1c 2.2 Plus and Tosoh G7 methods (Tosoh Bioscience, San Francisco, CA, USA), aligned to those used in the Diabetes Control and Complications Trial. <ref type="bibr" target="#b10">11</ref> 2 h plasma glucose concentration was measured following a 75 g oral glucose tolerance test administered using a hexokinase method at visit 4. <ref type="bibr" target="#b11">12</ref> We defi ned prediabetes using three defi nitions recognised by the ADA: fasting glucose concentration cutoff Participants were prospectively followed up and incidents of diabetes, chronic kidney disease, atherosclerotic cardiovascular disease (coronary heart disease and ischaemic stroke), peripheral arterial disease, and all-cause mortality were recorded until end of follow-up in 2013 (loss to follow-up was also recorded). Incident diabetes was defi ned by self-report of a physician diagnosis of diabetes or use of glucose-lowering medication reported during a study visit or annual telephone call. <ref type="bibr" target="#b12">13,</ref><ref type="bibr" target="#b13">14</ref> Chronic kidney disease was defi ned as an estimated glomerular fi ltration rate (eGFR) of &lt;60 mL/min per 1•73 m² measured at a study visit and a reduction in eGFR of at least 25% from the baseline visit to the follow-up visit, or chronic kidney disease-related hospital admission or death by continuous active surveillance, or an end-stage renal disease event identifi ed by the US Renal Data System registry. <ref type="bibr" target="#b14">15</ref> Incident atherosclerotic cardiovascular disease events were adjudicated and included any coronary heart disease hospital admission or death, or ischaemic stroke hospital admission or death, and were obtained by continuous active surveillance. Peripheral arterial disease events were identifi ed from hospital admission records (International Classifi cation of Diseases 9 discharge codes) for peripheral arterial disease (440.2, 440.3, 440.4) or leg revascularisation (38.18, 39.25, 39.29, 39.50). All-cause mortality was ascertained from hospital and National Death Index records.</p><p>BMI, waist-to-hip ratio, blood pressure, lipid concentrations, and eGFR (calculated from serum creatinine using the Chronic Kidney Disease Epidemiology Collaboration Equation) <ref type="bibr" target="#b15">16</ref> were measured following standard protocols. <ref type="bibr" target="#b16">[17]</ref><ref type="bibr" target="#b17">[18]</ref><ref type="bibr" target="#b18">[19]</ref> Age, sex, race centre (white, Minneapolis; black, Jackson; white, Washington County; black, Forsyth County; white, Forsyth County; as defi ned in the ARIC study design), education level, smoking status, alcohol use, parental history of diabetes, and use of lipid-lowering medications were reported at study visits. Hypertension was defi ned as an elevated systolic (≥140 mm Hg) or diastolic (≥90 mm Hg) blood pressure from the mean of two measurements taken at a study visit or the use of blood-pressure-lowering medications.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analysis</head><p>We compared baseline characteristics of the study participants at the relevant visit across clinical categories (normoglycaemia, prediabetes, and undiagnosed diabetes) for the diff erent defi nitions of prediabetes. We calculated sensitivity, specifi city, positive predictive value, negative predictive value, positive likelihood ratio, and negative likelihood ratio of each prediabetes defi nition using 10 year Kaplan-Meier estimates comparing people with prediabetes to those with normoglycaemia against people with and without the events of interest. Cox proportional hazards models were used to estimate adjusted hazard ratios of incident events associated with the diff erent clinical categories, with normoglycaemia as the reference group. Demographic-adjusted models included age, sex, and race centre. Fully adjusted models included all variables in demographic-adjusted models plus education level, BMI, waist-to-hip ratio, total cholesterol concentration, HDL cholesterol concentration, triglyceride con centrations, eGFR, hypertension, smoking status, alcohol use, lipid-lowering medication use, and family history of diabetes. We used Harrell's C-statistic to compare discrimination of models with the diff erent clinical categories with respect to future outcomes and obtained 95% CIs with a jackknife approach. <ref type="bibr" target="#b19">20</ref> We calculated the continuous net reclassifi cation index (cNRI) for 10 year risk of each outcome for the diff erent clinical categories, using prediabetes defi ned using ADA fasting glucose concentration cutoff s as the reference. We did sensitivity analyses stratifying by race and sex and after excluding people with undiagnosed diabetes. <ref type="bibr" target="#b20">21</ref> As an ancillary analysis, we replicated our study using data from the Third National Health and Nutrition Examination Survey (NHANES III), a nationally representative sample of the US population, to assess the generalisability of our results (appendix). Only prospective information on fatal cardiovascular disease and all-cause mortality was available in NHANES. All analyses were done using Stata/SE (version 13).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Role of the funding source</head><p>The funder of this study had no role in study design, data collection, data analysis, data interpretation, or writing of the report. All authors had access to the data and the corresponding author had fi nal responsibility to submit for publication.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>In comparison with people with prediabetes defi ned using ADA fasting glucose concentration cutoff s at visit 2, use of ADA HbA 1c cutoff s to defi ne prediabetes was more likely to identify people who were women, black, current smokers, had hypertension, and who had less high-school education; it was less likely to identify current drinkers (table <ref type="table" target="#tab_3">1</ref>). In comparison with people defi ned using ADA fasting glucose concentration cutoff s at visit 4, use of ADA and WHO 2 h glucose concentration to defi ne prediabetes was more likely to identify women, and less  </p><formula xml:id="formula_0">Waist-to-hip ratio 0•90 (0•1) 0•94 (0•1) 0•97 (0•1) 0•91 (0•1) 0•94 (0•1) 0•97 (0•1) Fasting glucose concentration (mmol/L) 5•11 (0•3) 5•98 (0•4) 8•62 (2•5) 5•39 (0•5) 5•89 (0•7) 8•29 (2•9) HbA 1c (%) 5•34% (0•38) 5•59% (0•44) 6•97% (1•51) 5•29% (0•28) 5•98% (0•17) 7•42% (</formula><formula xml:id="formula_1">Waist-to-hip ratio 0•93 (0•1) 0•97 (0•1) 0•98 (0•1) 0•93 (0•1) 0•95 (0•1) 0•97 (0•1)</formula><p>Fasting glucose concentration (mmol/L)  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Articles</head><p>likely to identify black and obese people, but baseline risk factors were otherwise similar (table <ref type="table" target="#tab_5">2</ref>). Characteristics of participants identifi ed as having prediabetes using WHO fasting glucose concentration cutoff s and using IEC HbA 1c cutoff s are shown in the appendix. The prevalence of prediabetes varied between diff erent defi nitions of prediabetes (table <ref type="table" target="#tab_7">3</ref>). Cross-tabulation of the diff erent defi nitions are shown in the appendix.</p><p>Among 10 844 participants included in the analyses for visit 2, 3152 incident cases of diabetes, 2608 incident cases of chronic kidney disease, 1556 incident atherosclerotic cardiovascular events, 266 incident cases of peripheral arterial disease, and 3177 deaths were reported in approximately 22 years of follow-up. Among 7194 participants included in the analyses for visit 4, 1859 incident cases of diabetes, 1444 incident cases of chronic kidney disease, 760 incident atherosclerotic cardiovascular events, 115 incident cases of peripheral arterial disease, and 1568 deaths were reported in approximately 16 years of follow-up (appendix).</p><p>Comparison the sensitivity and specifi city for each defi nition of prediabetes for 10 year risk of each outcome showed that defi nitions using ADA and IEC HbA 1c cutoff s, and WHO fasting glucose concentration cutoff s had higher specifi city than ADA fasting glucose concentration cutoff s for all outcomes, whereas ADA fasting glucose concentration cutoff s, and ADA and WHO 2 h glucose concentration cutoff s, were more sensitive than WHO fasting glucose concentration cutoff s (table <ref type="table" target="#tab_8">4</ref>). ADA and IEC HbA 1c cutoff s, and WHO fasting glucose concentration cutoff s had higher positive predictive values and negative likelihood ratios for incident diabetes and higher positive likelihood ratios for all outcomes compared with ADA fasting glucose concentration cutoff s. Negative predictive values were numerically similar across outcomes.</p><p>In Cox proportional hazard models for age, sex, and, race centre, prediabetes by all fi ve defi nitions was signifi cantly associated with risk of future clinical outcomes (table <ref type="table" target="#tab_11">5</ref>). In participants identifi ed as having prediabetes using HbA 1c -based defi nitions, incidence rates were higher, hazard ratios were larger, and C-statistics for chronic kidney disease, atherosclerotic cardiovascular disease, peripheral arterial disease, and all-cause mortality were higher, than in participants identifi ed using ADA and WHO fasting glucose concentration cutoff s (table 5; appendix). Adjusting for additional risk factors did not alter our fi ndings (appendix). The diff erences in the C-statistics between HbA 1c -based defi nitions and glucosebased defi nitions, although statistically signifi cant, were small (improve ment in the C-statistic was generally less than 0•02). Prediabetes defi ned using ADA HbA 1c cutoff s also showed signifi cant overall improvement in the cNRI for atherosclerotic cardiovascular disease, peripheral arterial disease, and all-cause mortality compared to prediabetes defi ned using ADA and WHO fasting glucose concentration cutoff s (appendix). The cNRI results show that the improvement was modest and primarily driven by the correct reclassifi cation of non-events, consistent with the higher specifi city of the HbA 1c -based defi nitions than the ADA fasting glucose concentration-based defi nition.</p><p>For incident diabetes, after demographic adjustment, IEC HbA 1c cutoff s had the largest hazard ratio, but the ADA fasting glucose concentration cutoff s had a signifi cantly higher C-statistic and better classifi ed people at risk for future incident diabetes based on overall cNRI improvement (table 5; appendix). However, after adjustment for additional risk factors (fully adjusted model), no signifi cant diff erence in the C-statistics for ADA fasting glucose clinical categories compared with the other defi nitions remained (appendix).</p><p>The hazard ratios and C-statistics for all outcomes were similar when all ADA and WHO glucose prediabetes defi nitions were compared, with the exception of incident diabetes. Although the hazard ratio for WHO fasting glucose-defi ned prediabetes was higher, the C-statistic for ADA fasting glucose-defi ned prediabetes was modestly, although signifi cantly, improved for classifi cation of people at risk of developing diabetes (table 5; appendix). However, these diff erences did not persist after adjustment for additional risk factors (fully adjusted model).</p><p>Exclusion of people with undiagnosed diabetes did not alter our fi ndings (appendix). We did not observe consistent diff erences in results across outcomes in analyses by race, with the exception of incident diabetes which was signifi cantly diff erent between black and white people (appendix). Across all defi nitions, black people were less likely to report a subsequent diagnosis of diabetes or glucose-lowering-medication use during follow-up than were white people in the demographic adjusted model (all p interaction &lt;0•05; appendix). After adjustment for additional risk factors (fully adjusted model) the diff erence between black people and white people was reduced, although the interaction for some defi nitions (WHO fasting glucose concentration, IEC HbA 1c , ADA HbA 1c , and ADA and WHO 2 h glucose concentration) remained statistically signifi cant (appendix). In analyses stratifi ed by sex, a stronger association existed between prediabetes and  undiagnosed diabetes with peripheral arterial disease in women than in men for both HbA 1c -based and fasting glucose-based defi nitions (appendix). By contrast, ADA and WHO 2 h glucose was not signifi cantly associated with incident peripheral arterial disease in men or women. Mortality associations, regardless of defi nition, were also stronger in women than in men. Our ancillary analysis in NHANES III (appendix) showed similar patterns in prevalence, sensitivity, and specifi city for the diff erent defi nitions of prediabetes. For all-cause mortality, patterns in hazard ratios and Harrell's C-statistic were also similar. For fatal cardiovascular disease, hazard ratios for prediabetes identifi ed using IEC HbA 1c cutoff s were the largest, followed by ADA fasting glucose concentration cutoff s, ADA HbA 1c cutoff s, ADA and WHO 2 h glucose concentration cutoff s, and WHO fasting glucose concentration cutoff s (appendix).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>In this cohort study, we showed that prevalence of prediabetes and performance of various defi nitions of prediabetes were signifi cantly diff erent when analysed in  Positive likelihood ratio</p><formula xml:id="formula_2">Specifi city 0•63 (0•62-0•64) 0•91 (0•90-0•91) 0•83 (0•83-0•84) 0•93 (0•92-0•93) 0•74 (0•73-0•75) 0•94 (0•94-0•95) 0•72 (0•71-0•73) Positive predictive value 0•15 (0•14-0•16) 0•28 (0•26-0•31) 0•22 (0•21-0•24) 0•31 (0•28-0•34) 0•28 (0•26-0•30) 0•44 (0•40-0•48) 0•21 (0•20-0•23) Negative predictive value 0•96 (0•96-0•97) 0•95 (0•94-0•95) 0•95 (0•95-0•96) 0•94 (0•93-0•94) 0•92 (0•91-0•93) 0•89 (0•88-0•90) 0•92 (0•91-0•93) Positive likelihood ratio 1•98 (1•89-2•08) 4•41 (3•97-4•89) 3•14 (2•90-3•39) 4•81 (4•28-5•41) 2•34 (2•19-2•50) 4•84 (4•19-5•58) 1•96 (1•82-2•12) Negative likelihood ratio 0•43 (0•38-0•48) 0•66 (0•64-0•69) 0•58 (0•54-0•62) 0•71 (0•68-0•74) 0•52 (0•48-0•57) 0•76 (0•73-0•79) 0•63 (0•58-0•68) Chronic kidney disease Sensitivity 0•48 (0•43-0•53) 0•18 (0•14-0•23) 0•31 (0•27-0•37) 0•15 (0•11-0•19) 0•37 (0•31-0•44) 0•15 (0•11-0•20) 0•32 (0•26-0•39) Specifi city 0•61 (0•60-0•61) 0•89 (0•88-0•89) 0•81 (0•80-0•82) 0•91 (0•90-0•91) 0•69 (0•68-0•70) 0•91 (0•91-0•92) 0•69 (0•68-0•70) Positive predictive value 0•04 (0•04-0•05) 0•05 (0•04-0•07) 0•05 (0•05-0•07) 0•05 (0•04-0•07) 0•04 (0•03-0•05) 0•06 (0•04-0•08) 0•03 (0•03-0•04) Negative predictive value 0•97 (0•97-0•97) 0•97 (0•96-0•97) 0•97 (0•97-0•97) 0•97 (0•96-0•97) 0•97 (0•96-0•97) 0•97 (0•96-0•97) 0•97 (0•96-0•97) Positive likelihood ratio 1•21 (1•08-1•35) 1•58 (1•27-1•98) 1•64 (1•40-1•92) 1•60 (1•24-2•08) 1•20 (1•01-1•42) 1•72 (1•26-2•35) 1•03 (0•85-1•26) Negative likelihood ratio 0•86 (0•78-0•95) 0•92 (0•88-0•97) 0•85 (0•79-0•91) 0•94 (0•90-0•98) 0•91 (0•83-1•01) 0•93 (0•88-0•98) 0•99 (0•90-1•08) Atherosclerotic cardiovascular disease Sensitivity 0•47 (0•43-0•52) 0•16 (0•13-0•19) 0•34 (0•30-0•39) 0•18 (0•15-0•21) 0•39 (0•34-0•44) 0•12 (0•09-0•16) 0•32 (0•28-0•37) Specifi city 0•61 (0•60-0•62) 0•89 (0•88-0•89) 0•81 (0•81-0•82) 0•91 (0•91-0•92) 0•69 (0•68-0•70) 0•91 (0•90-0•92) 0•69 (0•68-0•70) Positive predictive value 0•06 (0•06-0•07) 0•07 (0•06-0•09) 0•09 (0•08-0•11) 0•10 (0•08-0•12) 0•07 (0•06-0•08) 0•07 (0•06-0•10) 0•06 (0•05-0•07) Negative predictive value 0•95 (0•95-0•96) 0•95 (0•94-0•95) 0•96 (0•95-0•96) 0•95 (0•95-0•96) 0•95 (0•94-0•95) 0•94 (0•94-0•95) 0•95 (0•94-0•95) Positive likelihood ratio 1•20 (1•10-1•32) 1•36 (1•11-1•66) 1•84 (1•63-2•08) 2•03 (1•68-2•45) 1•25 (1•10-1•43) 1•36 (1•03-1•79) 1•04 (0•89-1•</formula><formula xml:id="formula_3">1•35 (1•08-1•69) 1•66 (1•02-2•71) 1•56 (1•08-2•25) 1•46 (0•80-2•69) 1•36 (0•99-1•87) 0•85 (0•33-2•18) 1•17 (0•82-1•68) Negative likelihood ratio 0•77 (0•59-0•99) 0•91 (0•81-1•03) 0•87 (0•74-1•01) 0•95 (0•87-1•05) 0•84 (0•66-1•06) 1•02 (0•94-1•10) 0•92 (0•75-1•13)</formula></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>All-cause mortality</head><formula xml:id="formula_4">Sensitivity 0•46 (0•42-0•49) 0•15 (0•12-0•17) 0•31 (0•27-0•35) 0•16 (0•13-0•18) 0•35 (0•31-0•39) 0•13 (0•10-0•15) 0•33 (0•29-0•37) Specifi city 0•61 (0•60-0•62) 0•89 (0•88-0•89) 0•81 (0•81-0•82) 0•91 (0•91-0•92) 0•69 (0•68-0•70) 0•91 (0•91-0•92) 0•69 (0•68-0•70) Positive predictive value 0•08 (0•07-0•08) 0•08 (0•07-0•10) 0•11 (0•09-0•12) 0•11 (0•09-0•13) 0•10 (0•08-0•11) 0•12 (0•10-0•15) 0•09 (0•08-0•11) Negative predictive value 0•94 (0•93-0•95) 0•94 (0•93-0•94) 0•94 (0•94-0•95) 0•94 (0•93-0•94) 0•92 (0•91-0•92) 0•92 (0•91-0•92) 0•92 (0•91-0•93) Positive likelihood ratio 1•15 (1•06-1•26) 1•26 (1•04-1•53) 1•65 (1•46-1•86) 1•74 (1•45-2•10) 1•12 (0•99-1•25) 1•43 (1•14-1•80) 1•07 (0•95 1•21) Negative likelihood ratio 0•90 (0•84-0•97) 0•97 (0•94-1•00) 0•85 (0•81-0•90) 0•93 (0•90-0•96) 0•95 (0•89-1•01) 0•96 (0•93-0•99) 0•97 (0•91-1•03)</formula><p>Data are proportion (95% CI) or ratio (95% CI). ADA=American Diabetes Association. IEC=International Expert Committee. ADA fasting glucose concentration    Across all defi nitions of prediabetes, whether defi ned using fasting glucose concentration, HbA 1c , or 2 h glucose concentration, black people were less likely to report a diagnosis of diabetes or diabetes medication use during follow-up. This suggests that for the same level of hyperglycaemia, black people might be more likely to have delays in diagnosis, refl ecting disparities in socioeconomic status or access to care. There was little evidence for race interaction for the other clinical outcomes.</p><formula xml:id="formula_5">&lt;5•6 mmol/L 1 (ref) 1 (ref) 1 (ref) 1 (ref) 1 (ref) 5•6-6•9 mmol/L 2•91 (2•69-3•15)* 1•17 (1•08-1•27)* 1•24 (1•12-1•38)* 1•34 (1•03-1•74)* 1•12 (1•04-1•21)* ≥7•0 mmol/L † 19•7 (17•6-22•2)* 1•75 (1•49-2•05)* 2•10 (1•74-2•53)* 3•40 (2•30-5•01)* 1•55 (1•35-1•79)* C-statistic (95% CI) 0•713 (0•704-0•723) 0•636 (0•625-0•647) 0•662 (0•649-0•676) 0•701 (0•670-0•733) 0•683 (0•674-0•692) WHO fasting glucose concentration &lt;6•1 mmol/L 1 (ref) 1 (ref) 1 (ref) 1 (ref) 1 (ref) 6•1-6•9 mmol/L 3•81 (3•48-4•16)* 1•28 (1•14-1•43)* 1•22 (1•05-1•41)* 1•35 (0•95-1•92) 1•25 (1•13-1•38)* ≥7•0 mmol/L † 14•5 (13•0-16•2)* 1•69 (1•45-1•97)* 1•95 (1•63-2•34)* 3•09 (2•14-4•47)* 1•52 (1•32-1•75)* C-statistic (95% CI) 0•693 (0•683-0•703) 0•636 (0•625-0•647) 0•660 (0•646-0•673) 0•700 (0•668-0•732) 0•683 (0•674-0•693) ADA HbA 1c concentration &lt;5•7% (&lt;39 mmol/mol) 1 (ref) 1 (ref) 1 (ref) 1 (ref) 1 (ref)</formula><formula xml:id="formula_6">(ref) 1 (ref) 1 (ref) 1 (ref) 1 (ref) 7•8-11•0 mmol/L 2•56 (2•30-2•86)* 1•16 (1•03-1•31)* 1•08 (0•92-1•27) 0•83 (0•54-1•29) 1•17 (1•05-1•31)* ≥11•0 mmol/L † 10•6 (9•41-11•9)* 1•39 (1•18-1•63)* 1•44 (1•17-1•78)* 0•93 (0•50-1•72) 1•33 (1•15-1•55)* C-statistic (95% CI) 0•728 (0•716-0•741) 0•626 (0•611-0•641) 0•659 (0•639-0•678) 0•705 (0•658-0•752) 0•685 (0•672-0•698)</formula><p>Our fi ndings complement existing evidence and extend previous fi ndings in ARIC. One ARIC study <ref type="bibr" target="#b21">22</ref> found that fasting glucose concentration of 5•6-6•9 mmol/L and 2 h glucose of 7•8-11•0 mmol/L had similar associations with incident cardiovascular disease and all-cause mortality during a median follow-up time of 6•3 years. Our results confi rm these fi ndings, but with approximately 10 more years of follow-up and more incident events. Our fi ndings are also consistent with results from the Emerging Risk Factors Collaboration (ERFC), <ref type="bibr" target="#b22">23</ref> a 73-study, participant-level meta-analysis of 294 998 individuals. The ERFC study found that, compared with fasting glucose, random glucose, or postload glucose, HbA 1c provided a small, but signifi cant, improvement in the C-statistic for discrimination of cardiovascular disease risk.</p><p>By contrast, in the 2001 DECODE study 24 of 22 514 participants from ten diff erent European centres followed up for 8•8 years, 2 h glucose was more strongly associated with atherosclerotic cardiovascular death and all-cause mortality than was fasting glucose concentration. We do note that measurements in diff erent blood specimens (plasma, whole blood) were collected in DECODE across the ten European centres. Methodological and study population diff erences notwithstanding, the reasons why our results do not agree with the DECODE fi ndings are unclear. Meta-analyses <ref type="bibr" target="#b24">25,</ref><ref type="bibr" target="#b25">26</ref> have also shown confl icting results for whether impaired fasting glucose or impaired glucose tolerance is more strongly associated with cardiovascular disease outcomes.</p><p>Several limitations of our study should be considered in the interpretation of our fi ndings. First, we did not have concurrent measurements of fasting glucose, HbA 1c , and 2 h glucose, and all classifi cations were based on single measurements whereas in clinical practice, these measurements might be repeated. In practice, clinical decisions are based on a compendium of laboratory, clinical, and epidemiological information. Nonetheless, for prediabetes, there are currently no formal recommendations or consensus regarding repeating tests for confi rmation. Second, as part of the ARIC study protocol, abnormal laboratory values including raised fasting glucose concentration (&gt;11•1 mmol/L) or 2 h glucose (&gt;16•7 mmol/L) were reported back to the participants, although less than 1•5% of participants had elevated values that prompted a report. HbA 1c results at visit 2 were not reported to participants as they were measured retrospectively (&gt;10 years after sample collection). The reporting of the glucose measures to participants might have increased the probability of a diagnosis of diabetes. <ref type="bibr" target="#b26">27</ref> Third, we used a defi nition of incident diabetes based on self-report. Fourth, our fi ndings might not be generalisable beyond black and white Americans. Fifth, despite the large sample size and number of events, the possibility exists that the study might have been underpowered to detect moderate diff erences between defi nitions, particularly given the overlap of defi nitions. Finally, although our results in ARIC were consistent with fi ndings for allcause and cardiovascular mortality in NHANES III, further replication, especially for other major complications in diverse populations, is needed. The strengths of this study include our ability to compare the prognostic value of multiple defi nitions of prediabetes, rigorous assessment of hyperglycaemia and related risk factors with standardised protocols and trained personnel, active surveillance for major clinical complications, and over two decades of follow-up in a large, community-based population.</p><p>A number of considerations need to be weighed when deciding between defi nitions of prediabetes for screening programmes, and the optimal choice will depend on objectives. Long-term risk associations, along with considerations such as cost, availability, and the specifi c strengths and weaknesses of each biomarker, are all relevant. It is diffi cult to establish whether a strategy that would identify large numbers of people, including many people at low risk of future outcomes, might be more benefi cial than strategies that are highly specifi c, but might miss some high-risk individuals who should receive preventive interventions. Prediabetes defi ned by ADA and IEC HbA 1c cutoff s, and WHO fasting glucose concentration cutoff s identifi ed fewer people, but these defi nitions were more specifi c for the identifi cation of people at risk for long-term outcomes. HbA 1c -based defi nitions had higher relative risk associations and showed small, but statistically signifi cant, improvements in risk discrimination for a broad range of clinical complications. Whereas prediabetes defi ned by ADA fasting glucose concentration cutoff s was more sensitive, it was not as strongly associated with long-term risk of clinical complications. For long-term prediction of clinical outcomes, prediabetes defi nitions based on 2 h glucose concentration did not better predict the risk of chronic kidney disease or cardiovascular outcomes than fasting glucose concentration. The comparative usefulness of diff erent defi nitions of prediabetes will vary depending on the goals of the screening programme; however, data on long-term prognostic performance can, and should, help to inform use of and recommendations for diff erent defi nitions of prediabetes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Contributors</head><p>BW and ES designed the study and drafted the report. BW and NRD analysed the data. All authors made meaningful revisions to the manuscript.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Declaration of interests</head><p>JSP received grants from the US National Institutes of Health (NIH) unrelated to this work. KM received grants from the NIH and the US National Kidney Foundation unrelated to this work, as well as grants and personal fees from Kyowa Hakko Kirin and Fukuda Denshi and personal fees from Sumitomo Dainippon Pharma, unrelated to this work. NMP has received grants from Philips Respironics and Resmed, unrelated to this work. MW has received personal fees from Amgen, unrelated to this work. ES received grants from the NIH National Institute of Diabetes and Digestive and Kidney Diseases for this study, as well as grants from the NIH and the Foundation for the NIH, unrelated to this work. BW, NRD, and MG declare no competing interests.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head></head><label></label><figDesc>(1•16-1•81)* 1•67 (1•27-2•20)* 1•85 (0•96-3•56) 1•65 (1•35-2•01)* C-statistic (95% CI) 0•694 (0•681-0•708) 0•625 (0•610-0•640) 0•658 (0•638-0•677) 0•710 (0•662-0•757) 0•687 (0•673-0•700)ADA and WHO 2 h glucose concentration &lt;7•8 mmol/L 1</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>ADA fasting glucose clinical categories ADA HbA 1c clinical categories</head><label></label><figDesc></figDesc><table><row><cell></cell><cell>Normoglycaemia</cell><cell>Prediabetes</cell><cell>Undiagnosed diabetes</cell><cell>Normoglycaemia</cell><cell>Prediabetes</cell><cell>Undiagnosed diabetes</cell></row><row><cell></cell><cell>&lt;5•6 mmol/L</cell><cell>5•6-6•9 mmol/L</cell><cell>≥7•0 mmol/L</cell><cell>&lt;5•7%</cell><cell>5•7-6•4%</cell><cell>≥6•5%</cell></row><row><cell></cell><cell>(n=6215)</cell><cell>(n=4112)</cell><cell>(n=517)</cell><cell>(&lt;39 mmol/mol)</cell><cell>(39-46 mmol/mol)</cell><cell>(≥48 mmol/mol)</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>(n=8355)</cell><cell>(n=2027)</cell><cell>(n=462)</cell></row><row><cell>Age (years)</cell><cell>56•8 (5•6)</cell><cell>57•6 (5•7)</cell><cell>57•7 (5•6)</cell><cell>56•8 (5•6)</cell><cell>58•2 (5•6)</cell><cell>58•1 (5•6)</cell></row><row><cell>Women</cell><cell>3928 (63%)</cell><cell>1967 (48%)</cell><cell>281 (54%)</cell><cell>4794 (57%)</cell><cell>1098 (54%)</cell><cell>284 (61%)</cell></row><row><cell>Black</cell><cell>1074 (17%)</cell><cell>1031 (25%)</cell><cell>193 (37%)</cell><cell>1251 (15%)</cell><cell>818 (40%)</cell><cell>230 (50%)</cell></row><row><cell>Less than high-school education</cell><cell>1015 (16%)</cell><cell>877 (21%)</cell><cell>145 (28%)</cell><cell>1302 (16%)</cell><cell>586 (29%)</cell><cell>149 (32%)</cell></row><row><cell>BMI (kg/m² )</cell><cell>26•4 (4•8)</cell><cell>28•9 (5•2)</cell><cell>31•6 (6•1)</cell><cell>27•0 (4•8)</cell><cell>29•3 (5•8)</cell><cell>32•3 (6•3)</cell></row><row><cell>Obese (≥30 kg/m²)</cell><cell>1168 (19%)</cell><cell>1418 (34%)</cell><cell>281 (54%)</cell><cell>1813 (22%)</cell><cell>779 (38%)</cell><cell>275 (60%)</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 1 : Baseline characteristics of ARIC participants (visit 2, 1990-92) without a history of cardiovascular disease or diagnosed diabetes by diff erent defi nitions of prediabetes ADA fasting glucose clinical categories ADA and WHO 2 h glucose clinical categories</head><label>1</label><figDesc></figDesc><table><row><cell>1•43)</cell></row></table><note>Data are mean (SD) or n (%). ARIC=Atherosclerosis Risk in Communities study. ADA=American Diabetes Association. eGFR=estimated glomerular fi ltration rate.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_5"><head>Table 2 :</head><label>2</label><figDesc>Baseline</figDesc><table /><note>characteristics of ARIC participants (visit 4, 1996-98) without a history of cardiovascular disease or diagnosed diabetes by diff erent defi nitions of prediabetes Downloaded for Anonymous User (n/a) at UNIVERSITY OF MICHIGAN from ClinicalKey.com by Elsevier on July 01, 2021. For personal use only. No other uses without permission. Copyright ©2021. Elsevier Inc. All rights reserved.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_7"><head>Table 3 : Prevalence of prediabetes by defi nition</head><label>3</label><figDesc></figDesc><table /><note>Downloaded for Anonymous User (n/a) at UNIVERSITY OF MICHIGAN from ClinicalKey.com by Elsevier on July 01, 2021. For personal use only. No other uses without permission. Copyright ©2021. Elsevier Inc. All rights reserved.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_8"><head>Table 4 : 10 year sensitivity, specifi city, positive predictive value, negative predictive value, positive likelihood ratio, and negative likelihood ratio of incident clinical outcomes according to diff erent defi nitions of prediabetes versus normoglycaemia at baseline</head><label>4</label><figDesc></figDesc><table><row><cell>the context of long-term complications. Use of ADA fasting glucose concentration cutoff s or ADA and WHO 2 h glucose concentration cutoff s to defi ne prediabetes resulted in higher prevalence estimates than did use of WHO fasting glucose concentration cutoff s, ADA HbA 1c cutoff s, or IEC HbA outcomes, resulting in higher positive likelihood ratios than the other defi nitions, whereas ADA fasting glucose concentration cutoff s and ADA and WHO 2 h glucose concentration cutoff s were more sensitive than ADA and IEC HbA</cell></row></table><note>1c cutoff s. With the ADA fasting glucose concentration defi nition, over a third of the study population was estimated to have prediabetes. ADA HbA 1c cutoff s, IEC HbA 1c cutoff s, and WHO fasting glucose concentration cutoff s were the most specifi c defi nitions for identifi cation of people at risk for long-term clinical 1c cutoff s, and WHO fasting glucose concentration cutoff s. These diff erences in sensitivity and specifi city are important for choosing a defi nition of prediabetes for use in a screening programme. Diff erences in risk discrimination across prediabetes defi nitions were modest, but clinical categories for prediabetes based on HbA 1c (ADA or IEC) defi nitions</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_10"><head></head><label></label><figDesc>Data are HR (95% CI) or C-statistic (95% CI), unless otherwise specifi ed. Adjusted for age, sex (male, female), race centre (white, Minneapolis, MN; black, Jackson, MS; white, Washington County, MD; black, Forsyth County, NC; white, Forsyth County, NC). ADA=American Diabetes Association. IEC=International Expert Committee. HR=hazard ratio. *p&lt;0•05. †Undiagnosed diabetes.</figDesc><table /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_11"><head>Table 5 : Demographic adjusted hazard ratio and Harrell's C-statistic for incident outcomes by diff erent clinical categories of prediabetes and undiagnosed diabetes</head><label>5</label><figDesc>Downloaded for Anonymous User (n/a) at UNIVERSITY OF MICHIGAN from ClinicalKey.com by Elsevier on July 01, 2021. For personal use only. No other uses without permission. Copyright ©2021. Elsevier Inc. All rights reserved.</figDesc><table><row><cell>performed slightly better than those based on fasting</cell></row><row><cell>glucose concentrations for microvascular and macro-</cell></row><row><cell>vascular outcomes. Net reclassifi cation improvement also</cell></row><row><cell>supported prediabetes defi ned by ADA HbA 1c cutoff s as a</cell></row><row><cell>better classifi er for people at risk of future cardiovascular</cell></row><row><cell>and mortality outcomes. In minimally adjusted models,</cell></row><row><cell>fasting glucose-defi ned prediabetes was slightly better for</cell></row><row><cell>prediction of future diabetes than HbA 1c -defi ned</cell></row><row><cell>prediabetes. This result is not surprising because most</cell></row><row><cell>cases of diabetes would have been identifi ed by a health-</cell></row><row><cell>care provider during follow-up on the basis of elevations</cell></row><row><cell>in glucose concentrations since HbA 1c was not</cell></row><row><cell>recommended for use in diagnosis until 2009. Clinical</cell></row><row><cell>categories defi ned using ADA fasting glucose con-</cell></row><row><cell>centration, WHO fasting glucose concentration, and</cell></row><row><cell>ADA and WHO 2 h glucose concentration were generally</cell></row><row><cell>similar for risk discrimination of clinical outcomes.</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">www.thelancet.com/diabetes-endocrinology Vol 5 January 2017</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">Downloaded for Anonymous User (n/a) at UNIVERSITY OF MICHIGAN from ClinicalKey.com by Elsevier on July 01, 2021. For personal use only. No other uses without permission. Copyright ©2021. Elsevier Inc. All rights reserved.</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgments</head><p>The Atherosclerosis Risk in Communities Study is a collaborative study supported by National Heart, Lung, and Blood Institute (NHLBI) (contracts HHSN268201100005C, HHSN268201100006C, HHSN268201100007C, HHSN268201100008C, HHSN268201100009C, HHSN268201100010C, HHSN268201100011C, and HHSN268201100012C). BW was supported by National Institutes of Health (NIH)/NHLBI grant T32HL007024. This research was supported by NIH/National Institute of Diabetes and Digestive and Kidney Diseases grants R01DK089174 and K24DK106414, awarded to ES. We thank the staff and participants of the ARIC study for their important contributions.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0" />			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Trends in prevalence and control of diabetes in the United States</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Selvin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Parrinello</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Sacks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Coresh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">160</biblScope>
+			<biblScope unit="page" from="517" to="526" />
+			<date type="published" when="1988">1988-1994 and 1999-2010. 2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Use of glycated haemoglobin (HbA 1c ) in the diagnosis of diabetes mellitus: abbreviated report of a WHO consultation</title>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<publisher>World Health Organization</publisher>
+			<pubPlace>Geneva</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">Clinical Guidelines Task Force. Global guideline for type 2 diabetes. Brussels: International Diabetes Federation</title>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">ESC Guidelines on diabetes, pre-diabetes, and cardiovascular diseases developed in collaboration with the EASD: the Task Force on diabetes, pre-diabetes, and cardiovascular diseases of the European Society of Cardiology (ESC) and developed in collaboration with the European Association for the Study of Diabetes (EASD)</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Rydén</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Grant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Anker</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur Heart J</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="3035" to="3087" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">International Expert Committee report on the role of the A1C assay in the diagnosis of diabetes</title>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="1327" to="1334" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note>The International Expert Committee</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Standards of medical care in diabetes-2016</title>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="S1" to="112" />
+			<date type="published" when="2016">2016</date>
+			<publisher>American Diabetes Association</publisher>
+		</imprint>
+	</monogr>
+	<note>suppl</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Reduction in the incidence of type 2 diabetes with lifestyle intervention or metformin</title>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">346</biblScope>
+			<biblScope unit="page" from="393" to="403" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+		<respStmt>
+			<orgName>Diabetes Prevention Program Research Group</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">The defi nition, classifi cation, and prognosis of chronic kidney disease: a KDIGO Controversies Conference report</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Levey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">E</forename><surname>De Jong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Coresh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Kidney Int</title>
+		<imprint>
+			<biblScope unit="volume">80</biblScope>
+			<biblScope unit="page" from="17" to="28" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">The Atherosclerosis Risk in Communities (ARIC) study: design and objectives</title>
+	</analytic>
+	<monogr>
+		<title level="m">The ARIC Investigators</title>
+				<imprint>
+			<date type="published" when="1989">1989</date>
+			<biblScope unit="volume">129</biblScope>
+			<biblScope unit="page" from="687" to="702" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Recalibration of blood analytes over 25 years in the Atherosclerosis Risk in Communities Study: impact of recalibration on chronic kidney disease prevalence and incidence</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Parrinello</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Grams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Couper</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Chem</title>
+		<imprint>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="page" from="938" to="947" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Steff es MW. Measurement of HbA 1c from stored whole blood samples in the Atherosclerosis Risk in Communities study</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Selvin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Coresh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Zhu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Folsom</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Diabetes</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="118" to="124" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Atherosclerosis Risk in Communities (ARIC) Study. Operations Manual</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<date type="published" when="1987">1987</date>
+			<publisher>ARIC Coordinating Center</publisher>
+		</imprint>
+	</monogr>
+	<note>blood collection and processing. Version 1.0. Chapel Hill</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Glycated hemoglobin, diabetes, and cardiovascular risk in nondiabetic adults</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Selvin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">W</forename><surname>Steff Es</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Zhu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">362</biblScope>
+			<biblScope unit="page" from="800" to="811" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Validity and reliability of self-reported diabetes in the atherosclerosis risk in communities study</title>
+		<author>
+			<persName><forename type="first">Alc</forename><surname>Schneider</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Pankow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Heiss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Selvin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">176</biblScope>
+			<biblScope unit="page" from="738" to="743" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Identifi cation of incident CKD stage 3 in research studies</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Grams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Rebholz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Mcmahon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Kidney Dis</title>
+		<imprint>
+			<biblScope unit="volume">64</biblScope>
+			<biblScope unit="page" from="214" to="221" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">A new equation to estimate glomerular fi ltration rate</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Levey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Stevens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">H</forename><surname>Schmid</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">150</biblScope>
+			<biblScope unit="page" from="604" to="613" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m" type="main">Atherosclerosis Risk in Communities (ARIC) Study. Operations Manual no 2: cohort component procedures. Version 1.0. Chapel Hill</title>
+		<imprint>
+			<date type="published" when="1987">1987</date>
+			<publisher>ARIC Coordinating Center</publisher>
+			<pubPlace>NC</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title level="m" type="main">Atherosclerosis Risk in Communities (ARIC) Study. Operations Manual no 11: sitting blood pressure. Version 1.0. Chapel Hill</title>
+		<imprint>
+			<date type="published" when="1987">1987</date>
+			<publisher>ARIC Coordinating Center</publisher>
+			<pubPlace>NC</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">Atherosclerosis Risk in Communities (ARIC) Study. Operations Manual no 10: clinical chemistry determinations. Version 1.0. Chapel Hill</title>
+		<imprint>
+			<date type="published" when="1987">1987</date>
+			<publisher>ARIC Coordinating Center</publisher>
+			<pubPlace>NC</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Confi dence intervals for rank statistics: Somers&apos; D and extensions</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Newson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stata J</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="309" to="334" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Associations between prediabetes, by three diff erent diagnostic criteria, and incident CVD diff er in south Asians and Europeans</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">V</forename><surname>Eastwood</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Tillin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Sattar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">G</forename><surname>Forouhi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>Hughes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Chaturvedi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="2325" to="2332" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Cardiometabolic risk in impaired fasting glucose and impaired glucose tolerance: the atherosclerosis risk in communities study</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Pankow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">K</forename><surname>Kwan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">B</forename><surname>Duncan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="325" to="331" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Glycated hemoglobin measurement and prediction of cardiovascular disease</title>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">311</biblScope>
+			<biblScope unit="page" from="1225" to="1233" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+	<note>The Emerging Risk Factors Collaboration</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">European Diabetes Epidemiology Group. Glucose tolerance and cardiovascular mortality: comparison of fasting and 2-hour diagnostic criteria</title>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">161</biblScope>
+			<biblScope unit="page" from="397" to="405" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+		<respStmt>
+			<orgName>DECODE Study Group</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Associations of prediabetes with all-cause and cardiovascular mortality: a meta-analysis</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Cai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Chen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Med</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="684" to="692" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Pre-diabetes and the risk for cardiovascular disease. A systematic review of the evidence</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Ford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Li</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Coll Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="1310" to="1317" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Delayed diagnosis of incident type 2 diabetes mellitus in the ARIC study</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Samuels</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Cohen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">L</forename><surname>Brancati</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Coresh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Whl</forename><surname>Kao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Manag Care</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="717" to="724" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

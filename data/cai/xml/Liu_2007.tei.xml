@@ -1,0 +1,861 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Ten-year risk of cardiovascular incidence related to diabetes, prediabetes, and the metabolic syndrome</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Jing</forename><surname>Liu</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution">Capital Medical University attached Beijing Anzhen Hospital</orgName>
+								<address>
+									<settlement>Beijing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Center for Human Nutrition</orgName>
+								<orgName type="institution">University of Texas Southwestern Medical Center</orgName>
+								<address>
+									<settlement>Dallas</settlement>
+									<region>TX</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Scott</forename><forename type="middle">M</forename><surname>Grundy</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Wei</forename><surname>Wang</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution">Capital Medical University attached Beijing Anzhen Hospital</orgName>
+								<address>
+									<settlement>Beijing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Center for Human Nutrition</orgName>
+								<orgName type="institution">University of Texas Southwestern Medical Center</orgName>
+								<address>
+									<settlement>Dallas</settlement>
+									<region>TX</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Sidney</forename><forename type="middle">C</forename><surname>Smith</surname><genName>Jr</genName></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Center for Cardiovascular Science and Medicine</orgName>
+								<orgName type="institution">University of North Carolina School of Medicine</orgName>
+								<address>
+									<settlement>Chapel Hill</settlement>
+									<region>NC</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>PhD</roleName><forename type="first">Gloria</forename><forename type="middle">Lena</forename><surname>Vega</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Center for Human Nutrition</orgName>
+								<orgName type="institution">University of Texas Southwestern Medical Center</orgName>
+								<address>
+									<settlement>Dallas</settlement>
+									<region>TX</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MD, MPH</roleName><forename type="first">Zhaosu</forename><surname>Wu</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution">Capital Medical University attached Beijing Anzhen Hospital</orgName>
+								<address>
+									<settlement>Beijing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Zhechun</forename><surname>Zeng</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution">Capital Medical University attached Beijing Anzhen Hospital</orgName>
+								<address>
+									<settlement>Beijing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Wenhua</forename><surname>Wang</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution">Capital Medical University attached Beijing Anzhen Hospital</orgName>
+								<address>
+									<settlement>Beijing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName><roleName>MD, PhD</roleName><forename type="first">Dong</forename><surname>Zhao</surname></persName>
+							<email>deezhao@anzhen.org</email>
+							<affiliation key="aff1">
+								<orgName type="institution">Capital Medical University attached Beijing Anzhen Hospital</orgName>
+								<address>
+									<settlement>Beijing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="institution">TX; and Chapel Hill</orgName>
+								<address>
+									<settlement>Beijing, Dallas</settlement>
+									<region>NC</region>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff4">
+								<orgName type="department">Department of Epidemiology</orgName>
+								<orgName type="institution" key="instit1">Capital Medical University attached Beijing Anzhen Hospital</orgName>
+								<orgName type="institution" key="instit2">Beijing Institute of Heart, Lung and Blood Vessel Diseases</orgName>
+								<address>
+									<postCode>100029</postCode>
+									<settlement>Beijing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Ten-year risk of cardiovascular incidence related to diabetes, prediabetes, and the metabolic syndrome</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">9244B52543E6B365AE43251938D2EA22</idno>
+					<idno type="DOI">10.1016/j.ahj.2007.01.003</idno>
+					<note type="submission">Submitted August 8, 2006; accepted January 4, 2007.</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.1" ident="GROBID" when="2022-07-19T23:01+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Background The relative contributions of the metabolic syndrome (MetS) and dysglycemia on the risk of cardiovascular disease (CVD) have not been dissected. We aimed to compare MetS with dysglycemia in their association with the 10-year incidence risk of CVD.</p><p>Methods A total of 30 378 subjects were recruited from 11 provinces in the CMCS and followed-up for new coronary heart disease (CHD) and stroke events (ischemic stroke and hemorrhagic stroke) for 10 years. Incidence rates and HRs were estimated by the presence or absence of MetS, impaired fasting glucose (IFG) and diabetes, and by the various traits of MetS.</p><p>Results Among the subjects, 18.2% were defined as having MetS; 21.1% had IFG, and 6.8% had diabetes. Metabolic syndrome prevalence in IFG and diabetes was 38.1% and 48.7%, respectively, and the prevalence of IFG and diabetes in MetS was 44.1% and 18.3%, respectively. After adjusting for nonmetabolic risk factors, HRs of total CVD, CHD, and ischemic stroke in MetS were significant and higher than those in non-MetS, regardless of glycemic status. In the absence of MetS, the impact of dysglycemia was found only in IFG to CHD and diabetes to ischemic stroke. Hyperglycemia without any concomitant disorders was not associated with significantly higher risk of CVD.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusions</head><p>The increased CVD risk in individuals with IFG or diabetes was largely driven by the coexistence of multiple metabolic disorders rather than hyperglycemia per se. Identification of clustering of metabolic abnormalities should be given more consideration in CVD prevention.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The mortality of cardiovascular disease (CVD) has fallen in many countries, but it has been rising in China in recent decades, accompanying the rapid change in lifestyle, such as unhealthy diet and physical inactivity. <ref type="bibr" target="#b0">1</ref> Cardiovascular disease is now the leading cause of death in China, accounting for N40% in total mortality. <ref type="bibr" target="#b1">2</ref> Wellestablished risk factors for CVD are smoking, dyslipidemia, hypertension, and dysglycemia. An important condition underlying the latter 3 is obesity, which is becoming increasingly common in China. <ref type="bibr" target="#b2">3</ref> The cluster-ing of these risk factors has been called the metabolic syndrome (MetS). <ref type="bibr" target="#b3">4</ref> Because impaired glucose regulation closely interplays with other components of MetS, and elevated glucose per se is considered as one of the components in the clinical definition of MetS, to date, the CVD risk associated with MetS versus elevated glucose independent of each other has not been fully defined. <ref type="bibr" target="#b4">5</ref> Several studies have demonstrated that people with MetS had an increase in CVD prevalence, incidence, or mortality even without diabetes. <ref type="bibr" target="#b5">[6]</ref><ref type="bibr" target="#b6">[7]</ref><ref type="bibr" target="#b7">[8]</ref> On the other hand, the isolated effect of diabetes on CVD is less studied. Alexander et al <ref type="bibr" target="#b5">6</ref> reported that in the NHANES III, people with diabetes without MetS did not have an increase in coronary heart disease (CHD) prevalence; nevertheless, the follow-up study of NHANES II showed diabetes independent of MetS carries an increased risk for CHD and CVD mortality. <ref type="bibr" target="#b7">8</ref> To compare and contrast the CVD risk associated with the MetS and impaired glucose regulation independent of each other, we evaluated the 10-year incidence risk of different types of CVD (including CHD, ischemic stroke, and hemorrhagic stroke) in relation to MetS and dysglycemia (impaired fasting glucose [IFG] and diabetes) in the Chinese Multi-provincial Cohort Study (CMCS).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Subjects</head><p>The CMCS was a nationwide, multicenter, prospective cohort study on CVD. As previously reported, 9,10 a total of 30 378 subjects 35 to 64 years of age and free of CVD were included with the informed consent. Ninety percent of the participants (n = 27 249) were recruited from the baseline survey in 1992, carried out in 16 centers from 11 provinces of China. In addition, 3129 subjects from Beijing were added in 1996 to 1999. The response rate was 82.1% and 75.0% for the 2 surveys, respectively. Both surveys followed the protocol in the WHO-MONICA Project. <ref type="bibr" target="#b10">11</ref> A face-to-face follow-up for new CHD and stroke events was carried out at the end of each year for the 1992 cohort from 1992 to 1995, and the follow-up rate was 94%. From 1996, 6 centers ceased following up because of the completion of that national research project. The remainder 16 811 subjects in 10 centers of the 1992 to 1993 cohort and the 3129 subjects of the 1996 to 1999 cohort were continuously followed up till the end of 2003, and the follow-up rate was 86%.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Ascertainment of CHD and stroke</head><p>Coronary and stroke events were ascertained according to the WHO-MONICA protocol. <ref type="bibr" target="#b10">11,</ref><ref type="bibr" target="#b11">12</ref> Coronary events include acute myocardial infarction, sudden death, and other coronary deaths. The events were diagnosed based on symptoms, development in ECG (Minnesota codes for up to 4 records), serum enzymes, and autopsy findings. Stroke events included patients presenting with clinical signs and symptoms suggestive of subarachnoid hemorrhage, intracerebral hemorrhage, or cerebral infarction, which were defined as rapidly developing signs of focal (or global) disturbance of cerebral function lasting N24 hours (unless interrupted by surgery or death) with no apparent nonvascular cause. Detailed procedure of case registration and quality control has been published elsewhere. <ref type="bibr" target="#b10">[11]</ref><ref type="bibr" target="#b11">[12]</ref><ref type="bibr" target="#b12">[13]</ref> Definition of diabetes, IFG, and the MetS Diabetes was diagnosed if fasting blood glucose z126 mg/dL (7.0 mmol/L) at the baseline examination as defined by the American Diabetes Association (ADA) <ref type="bibr" target="#b13">14</ref> or with a previous clinical diagnosis. Impaired fasting glucose was defined when fasting glucose ranged from 100 to 125 mg/dL. <ref type="bibr" target="#b13">14</ref> The MetS was defined according to the updated criteria from the Third Adult Treatment Panel Report of the National Cholesterol Education Program, <ref type="bibr" target="#b3">4</ref> which requires the presence of z3 of the following: elevated triglyceride (TG) level z150 mg/dL, reduced highdensity lipoprotein cholesterol (HDL-C) (men b40 and women b50 mg/dL), elevated fasting glucose z100 mg/dL or previously diagnosed diabetes, elevated blood pressure (BP) (systolic BP z130 mm Hg and/or diastolic BP z85 mm Hg or on antihypertensive medication), or large waist circumference for Asians (z90 cm in men and z80 cm in women). Evidence to support these waist thresholds to define abdominal obesity for the Chinese population has been recently reported. <ref type="bibr" target="#b14">15</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analysis</head><p>The prevalence rates of risk factors were adjusted for age and sex and stratified by glycemic status and presence or absence of the MetS. Incidence rates were calculated by dividing the number of events occurred by person-years of follow-up. Multivariate Cox proportional hazards models were fitted to assess the hazard ratios of CVD incidence in relation to diabetes, IFG, and the MetS and adjusted for age, sex, smoking, CVD family history, and elevated total cholesterol. The interaction with sex was tested at a probability of .05, and no statistical significant interaction was found. SPSS software (Version 13; SPSS, Chicago, IL) was used for all analysis.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>This study revealed the interrelations of MetS and dysglycemia in the middle-aged Chinese population. Among the subjects, 18.2% were defined as having MetS, 21.1% had IFG, and 6.8% had diabetes (Figure <ref type="figure" target="#fig_0">1</ref>). The prevalence of MetS in IFG and diabetes was 38.1% and 48.7%, 4.0 and 5.1 times of that in subjects with normal fasting glucose (NFG), respectively. Sixty-two percent of the subjects with MetS had IFG or diabetes, which was 3.1 times of that prevalent in non-MetS. After adjustment for age and sex, the risk factor levels were higher in subjects with the MetS regardless of glucose levels, except for smoking (Table <ref type="table" target="#tab_1">I</ref>). Another potentially important finding was a strikingly higher prevalence of elevated non-HDL-C in persons with MetS.  As shown in Table <ref type="table" target="#tab_0">II</ref>, IFG or diabetes were associated with higher incidence risk of CHD, ischemic stroke, and total CVD but not hemorrhagic stroke, compared with NFG. Subjects with MetS had higher risk of CHD, ischemic stroke, hemorrhagic stroke, and total CVD than those without MetS. The impact of MetS on CVD was further assessed according to the number of components and different combinations of the components. The latter was undertaken for total CVD only because the number of cases was limited for separate analysis of CHD and stroke. Cardiovascular disease risk increased in proportion to the number MetS components (Table <ref type="table" target="#tab_0">II</ref>), and there was a wide variation depending on profile of concomitant disorders. If only 1 component was present, elevated BP was the only significant predictor of CVD. The impact of hyperglycemia was slight and nonsignificant if no other components were coexisted. When 2 components were present, 6 of the 10 combinations were associated with significantly higher risk. However, all combinations of z3 components (MetS) had significant contribution, except for those rare phenotypes (b1% of the whole sample) (Table <ref type="table" target="#tab_2">III</ref>).</p><p>To compare MetS with prediabetes and diabetes, the CVD risk was presented in Figure <ref type="figure" target="#fig_1">2</ref> according to presence or absence of MetS and glycemic status after adjusting nonmetabolic risk factors. In the absence of MetS, IFG and diabetes carried a mild and lower risk of developing CHD than MetS without IFG or diabetes, and the risk associated with IFG was higher than that for diabetes. When all forms of dysglycemia combined, hyperglycemia without MetS was associated with a mild and nonsignificant increased risk for CHD (HR 1.38, 95% CI 0.98-1.95), whereas MetS carried a significant risk of CHD even in the absence of hyperglycemia (HR 1.86, 95% CI 1.21-2.86), compared with subjects without either MetS or hyperglycemia.</p><p>Subjects with MetS had a higher incidence risk of ischemic stroke regardless of the level of dysglycemia Waist, waist circumference z90 cm in men and z80 cm in women; TG, z150 mg/dL; BP, systolic BP z130 mm Hg and/or diastolic BP z 85 mm Hg or on antihypertensive medication; GLU, z100 mg/dL or previously diagnosed diabetes; HDL-C, b40 mg/dL in men and b50 mg/dL in women.</p><p>(Figure <ref type="figure" target="#fig_1">2</ref>). Nonetheless, even in the absence of MetS, diabetes was accompanied by a higher incidence of ischemic stroke, compared with those with either NFG or IFG. This was true even if those with isolated hyperglycemia did not have higher prevalence of elevated BP than those without hyperglycemia (Table <ref type="table" target="#tab_1">I</ref>). Once MetS was present, the incidence of ischemic stroke rose markedly. Of interest, neither IFG nor diabetes was accompanied by an increased risk of hemorrhagic stroke. Individuals with MetS had a higher risk of hemorrhagic stroke than did those without MetS (Table <ref type="table" target="#tab_0">II</ref>). The significance of impact of MetS on hemorrhagic stroke, however, was lost for dysglycemic subjects when the data were controlled for non-MetS risk factors (Figure <ref type="figure" target="#fig_1">2</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>The MetS consists of a clustering of metabolic risk factors and is associated with increased risk for CVD. One of the features of MetS is impaired glucose regulation. Several reports further indicate that dysglycemia, regardless of its severity, is accompanied by increased risk for CVD. <ref type="bibr" target="#b15">[16]</ref><ref type="bibr" target="#b16">[17]</ref><ref type="bibr" target="#b17">[18]</ref> To date, the relative contributions of MetS and dysglycemia on CVD risk have not been dissected. For example, Alexander et al <ref type="bibr" target="#b5">6</ref> indicated that most of the risk for CHD associated with diabetes in the US population, which is predominantly white, can be explained by the coexistence of the MetS. Howard et al <ref type="bibr" target="#b18">19</ref> reported that the elevated CHD risk in diabetes largely depends on concomitant risk factors in American Indians. In contrast, Stern et al <ref type="bibr" target="#b19">20</ref> reported that, in patients with existing CVD from the San Antonio Heart Study, which is predominantly Hispanic, most of CVD mortality occurs in persons with diabetes, whereas MetS independent of diabetes has little impact on mortality. To our knowledge, whether MetS carries any additional CVD risk after excluding both prediabetes and diabetes and whether hyperglycemia in prediabetes or diabetes carries any additional CVD risk independent of other metabolic disorders are yet to be defined. The current study was carried out in an effort to dissect the relative contributions of MetS and dysglycemia (including prediabetes and diabetes) to several forms of CVD in the Chinese population.</p><p>The overlap between MetS and dysglycemia in the Chinese population was marked. Sixty-two percent of persons with MetS had either IFG or diabetes. This overlap most likely can be attributed to a high prevalence of abdominal obesity in persons with MetS. Hazard ratio and 95% CI for cardiovascular diseases associated with the MetS and dysglycemia after adjusting for age, sex, smoking, family history of CVD, and hypercholesterolemia by Cox proportional hazards model. X axis: 1/NFG without MetS (reference), 2/IFG without MetS; 3/diabetes without MetS, 4/NFG with MetS, 5/IFG with MetS; 6/diabetes with MetS.</p><p>In addition, dysglycemia is one of the components of the MetS diagnosis, which added to the overlap. But an important question is whether the increased CVD risk that is associated with MetS and with dysglycemia can be explained by dysglycemia per se or whether the greater risk can be attributed to a clustering of metabolic risk factors.</p><p>Our study showed that in the Chinese population, the risk of developing CVD events in individuals with IFG or diabetes without MetS was mild and lower than the risk in those with MetS without IFG or diabetes. Isolated hyperglycemic did not manifest a significantly higher risk of developing CVD, unless other metabolic disorders were coexisted. These findings strongly suggest that the risk of CVD seen in those with IFG or diabetes was largely attributable to the accompanying multiple metabolic abnormalities rather than hyperglycemia per se. Our data are consistent with the findings from clinical trails, which indicated multifactorial intervention rather than only intensive glycemic control is better in reducing CVD risk in patients with diabetes. <ref type="bibr" target="#b20">21,</ref><ref type="bibr" target="#b21">22</ref> These results point to need to identify the clustering of metabolic aberrations accompanying the MetS. Detecting only diabetes or prediabetes is not sufficient to identify persons at higher risk for CVD because of metabolic disorders. Actually, about 40% of people with MetS did not manifest hyperglycemia. However, this group classified more people with obesity and other metabolic abnormalities, and their CVD risk had already increased significantly. Similarly, most patients with dyslipidemia (65.6% for high TG and 69.1% for low HDL-C) did not present hyperglycemia: they were either isolated dyslipidemia or clustered with obesity or hypertension. The high prevalence of isolated high TG or low HDL-C may partly be due to the high consumption of dietary carbohydrates in Chinese population. <ref type="bibr" target="#b22">23</ref> Therefore, when data were split by the status of MetS, hyperglycemia was not associated with a higher prevalence of dyslipidemia.</p><p>Among the metabolic risk factors, hypertension has been reported to be the foremost contributor to risk for CVD in China. <ref type="bibr" target="#b1">2,</ref><ref type="bibr" target="#b23">24</ref> In the present study, elevated BP was the only component of MetS, which carried significant CVD risk in absence of other disorders. A higher prevalence of hypertension was particularly evident in subjects with the MetS. This higher BP thus appears to be a prominent component of the MetS in China. <ref type="bibr" target="#b14">15</ref> Although there is much focus on the MetS as a prediabetic condition and on concern about its association with a rising prevalence of diabetes in China, the importance of elevated BP as a cardiovascular risk factor in patients with the MetS and diabetes should not be overlooked. <ref type="bibr" target="#b24">25</ref> Identification and early intervention of MetS is helpful to control hypertension and associated cardiovascular risk.</p><p>Another feature of the MetS in China was a much higher non-HDL-C level. It can be explained by elevated concentrations of both low-density lipoprotein cholesterol and very low-density lipoprotein cholesterolmarkers for atherogenic apoB-containing lipoproteins. <ref type="bibr" target="#b25">26</ref> An elevation of the latter lipoproteins must be recognized as an integral part of MetS in China and a significant contributor to CHD and stroke. <ref type="bibr" target="#b26">27,</ref><ref type="bibr" target="#b27">28</ref> Since most persons with MetS had dysglycemia, we can return to the question of whether most of the CVD risk associated with the MetS can be explained by an increase in plasma glucose levels. The data are consistent with some contribution of dysglycemia to CVD risk but, certainly, not all. Subjects with MetS and diabetes had higher rates of both CHD and ischemic stroke than did MetS subjects without diabetes. This suggests that the hyperglycemia of diabetes carries independent risk. The relatively low CHD risk associated with diabetes in the absence of MetS might be due to the limited cases in this group, given the fact that few people had diabetes but without MetS.</p><p>The contribution of different MetS traits to the incidence of CVD was also considered in the present study. Our results are concordant with the findings from the Framingham Heart Study 29 that the associated CVD risk for various number and combinations of MetS components was heterogeneous. Unlike their analysis which used the group without a specific combination as the comparator, we used the group without any component as the reference to explore the bnetQ effect of a specific trait. In the present study, all those with z3 components had significantly higher CVD risk, except for the rare combinations. Our data corroborate the rationale of defining the cluster of z3 disorders as MetS. Nevertheless, the specific contribution of various MetS traits to CHD and stroke needs to be investigated in future studies with more events.</p><p>This study provides strong evidence that the multiple metabolic risk factors accompanying MetS is a major cause of both CHD and stroke in China. Although there is a large overlap between MetS and dysglycemia in China, the association between MetS and CVD cannot be explained entirely by dysglycemia. Both hypertension and dyslipidemia, which are common in persons with the MetS, likely play an equal or greater role in the causation of CVD. The data are consistent with the concept that the Chinese population is susceptible to development of multiple cardiovascular risk factors with the onset of obesity. <ref type="bibr" target="#b2">3,</ref><ref type="bibr" target="#b29">30</ref> If this is confirmed in further studies, it provides a strong rationale for early intervention in the public health sphere to prevent the epidemic of obesity that is occurring in several other countries.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1</head><label>1</label><figDesc>Figure 1</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2</head><label>2</label><figDesc>Figure 2</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table II .</head><label>II</label><figDesc>Incidence rates (1/100 000 person years) and hazard ratios of cardiovascular diseases by different traits of dysglycemia and the MetS</figDesc><table><row><cell>Traits of</cell><cell></cell><cell>CVD (CHD + stroke)</cell><cell>CHD</cell><cell>Ischemic stroke</cell><cell>Hemorrhagic stroke</cell></row><row><cell>dysglycemia</cell><cell>% of</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>and MetS</cell><cell>subjects</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Glycemic status</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>NFG</cell><cell>72.1</cell><cell>350.3 Reference</cell><cell>100.9 Reference</cell><cell>176.5 Reference</cell><cell>79.9 Reference</cell></row><row><cell>IFG</cell><cell>21.1</cell><cell>497.0 1.29 (1.10-1.51)</cell><cell>158.1 1.42 (1.06-1.89)</cell><cell>271.1 1.39 (1.12-1.73)</cell><cell>76.8 0.88 (0.60-1.30)</cell></row><row><cell>Diabetes</cell><cell>6.8</cell><cell>700.8 1.66 (1.33-2.09)</cell><cell>220.5 1.81 (1.20-2.71)</cell><cell>441.0 2.06 (1.54-2.76)</cell><cell>78.7 0.84 (0.44-1.60)</cell></row><row><cell>MetS status</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Non-MetS</cell><cell>81.8</cell><cell>323.7 Reference</cell><cell>101.1 Reference</cell><cell>159.7 Reference</cell><cell>67.2 Reference</cell></row><row><cell>MetS</cell><cell>18.2</cell><cell>757.0 2.01 (1.73-2.33)</cell><cell>207.9 1.80 (1.36-2.37)</cell><cell>450.5 2.41 (1.98-2.94)</cell><cell>130.6 1.63 (1.16-2.30)</cell></row><row><cell cols="2">Number of MetS</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>components</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>0</cell><cell>26.9</cell><cell>141.8 Reference</cell><cell>67.9 Reference</cell><cell>55.9 Reference</cell><cell>18.0 Reference</cell></row><row><cell>1</cell><cell>31.7</cell><cell>295.5 1.84 (1.40-2.42)</cell><cell>70.3 0.93 (0.59-1.45)</cell><cell>151.9 2.39 (1.57-3.64)</cell><cell>73.4 3.65 (1.79-7.46)</cell></row><row><cell>2</cell><cell>23.2</cell><cell>548.6 3.19 (2.45-4.16)</cell><cell>173.7 2.20 (1.47-3.28)</cell><cell>274.8 4.01 (2.66-6.03)</cell><cell>107.9 4.97 (2.44-10.10)</cell></row><row><cell>3</cell><cell>12.6</cell><cell>709.3 3.96 (3.00-5.22)</cell><cell>171.4 2.08 (1.33-3.27)</cell><cell>449.0 6.27 (4.14-9.51)</cell><cell>114.0 5.01 (2.36-10.61)</cell></row><row><cell>4</cell><cell>4.6</cell><cell>782.0 4.28 (3.08-5.95)</cell><cell>215.7 2.59 (1.49-4.50)</cell><cell>425.6 5.84 (3.59-9.50)</cell><cell>153.6 6.56 (2.84-15.15)</cell></row><row><cell>5</cell><cell>1.0</cell><cell cols="4">1260.7 6.76 (4.27-10.71) 598.4 7.08 (3.63-13.80) 545.5 7.39 (3.66-14.91) 196.0 8.35 (2.55-27.35)</cell></row><row><cell cols="3">Cardiovascular diseases include coronary heart disease and stroke.</cell><cell></cell><cell></cell><cell></cell></row></table><note>Incidence HR (95% CI) Incidence HR (95% CI) Incidence HR (95% CI) Incidence HR (95% CI)</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table I .</head><label>I</label><figDesc>The characteristics of subjects categorized by the presence of the MetS and glycemic status</figDesc><table><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>American Heart Journal</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>April 2007</cell></row><row><cell></cell><cell></cell><cell>Without MetS</cell><cell></cell><cell></cell><cell>With MetS</cell><cell></cell></row><row><cell></cell><cell>NFG</cell><cell>IFG</cell><cell>Diabetes</cell><cell>NFG</cell><cell>IFG</cell><cell>Diabetes</cell></row><row><cell>No. of subjects (%)</cell><cell>19 805 (65.2%)</cell><cell>3973 (13.1%)</cell><cell>1066 (3.5%)</cell><cell>2081 (6.9%)</cell><cell>2442 (8.0%)</cell><cell>1011 (3.3%)</cell></row><row><cell>Sex (male) (%)</cell><cell>53.8</cell><cell>58.6</cell><cell>62.2</cell><cell>40.3</cell><cell>50.2</cell><cell>53.4</cell></row><row><cell>Age (y)</cell><cell cols="6">46.1 (46.0-46.2) 46.4 (46.1-46.6) 47.6 (47.2-48.1) 49.5 (49.2-49.9) 49.6 (49.3-49.9) 51.4 (50.9-51.9)</cell></row><row><cell>Smoking</cell><cell cols="6">22.2 (21.6-22.8) 16.4 (15.2-17.6) 17.9 (15.6-20.2) 21.2 (19.4-23.0) 15.4 (14.0-16.8) 17.8 (15.4-20.2)</cell></row><row><cell>CVD family history</cell><cell cols="6">20.3 (19.7-20.9) 21.7 (20.4-23.0) 24.2 (21.6-26.8) 26.9 (25.0-28.8) 26.3 (24.6-28.0) 28.1 (25.3-30.9)</cell></row><row><cell>Total cholesterol</cell><cell cols="6">29.1 (28.5-29.7) 32.4 (30.9-33.9) 30.4 (27.6-33.2) 36.3 (34.2-38.4) 38.2 (36.3-40.1) 40.5 (37.5-43.5)</cell></row><row><cell>z200 mg/dL</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>LDL-C z130 mg/dL</cell><cell cols="6">22.2 (21.6-22.8) 24.4 (23.1-25.7) 23.3 (20.8-25.8) 26.5 (24.6-28.4) 28.1 (26.3-29.9) 28.3 (25.5-31.1)</cell></row><row><cell>HDL-C b 40/50 mg/dL</cell><cell>15.5 (15.0-16.0)</cell><cell>9.5 (8.6-10.4)</cell><cell>11.4 (9.5-13.3)</cell><cell cols="3">72.4 (70.5-74.3) 46.8 (44.8-48.8) 49.8 (46.7-52.9)</cell></row><row><cell>Non HDL-C z160 mg/dL</cell><cell cols="6">17.4 (16.9-17.9) 18.1 (16.9-19.3) 16.6 (14.4-18.8) 34.0 (32.0-36.0) 31.4 (29.6-33.2) 33.0 (30.1-35.9)</cell></row><row><cell>TG z150 mg/dL</cell><cell>13.4 (12.9-13.9)</cell><cell>8.0 (7.2-8.8)</cell><cell>6.8 (5.3-8.3)</cell><cell cols="3">74.2 (72.3-76.1) 51.2 (49.2-53.2) 56.2 (53.1-59.3)</cell></row><row><cell>Blood pressure</cell><cell cols="6">29.0 (28.4-29.6) 22.2 (20.9-23.5) 22.6 (20.1-25.1) 86.3 (84.8-87.8) 74.3 (69.2-72.8) 73.6 (70.9-76.3)</cell></row><row><cell>z130/85 mm Hg</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Waist circumference</cell><cell cols="6">19.7 (19.1-20.3) 12.6 (11.6-13.6) 12.6 (10.6-14.6) 86.0 (84.5-87.5) 71.0 (69.2-72.8) 70.8 (68.0-73.6)</cell></row><row><cell>z90/80 cm</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Body mass index</cell><cell cols="6">25.9 (25.3-26.5) 25.0 (23.7-26.3) 23.5 (21.0-26.0) 75.7 (73.9-77.5) 67.7 (65.8-69.6) 67.8 (64.9-70.7)</cell></row><row><cell>z25 kg/m 2</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>On drug treatment</cell><cell>3.6 (3.3-3.8)</cell><cell>2.9 (2.4-3.4)</cell><cell>3.3 (2.2-4.3)</cell><cell cols="2">13.7 (12.2-15.2) 11.1 (9.9-12.4)</cell><cell>13.8 (11.6-15.9)</cell></row><row><cell>for hypertension</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>On drug treatment</cell><cell>0.8 (0.7-1.0)</cell><cell>0.6 (0.4-0.9)</cell><cell>0.7 (0.2-1.2)</cell><cell>2.3 (1.7-2.9)</cell><cell>2.1 (1.5-2.6)</cell><cell>2.4 (1.5-3.4)</cell></row><row><cell>for dyslipidemia</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>The use of aspirin</cell><cell>0.7 (0.6-0.8)</cell><cell>0.6 (0.3-0.8)</cell><cell>0.8 (0.3-1.3)</cell><cell>1.0 (0.6-1.5)</cell><cell>1.4 (0.9-1.8)</cell><cell>1.8 (1.0-2.7)</cell></row></table><note>Sex is presented as the percentage for men. Age is presented as means and 95% CI. All other data are presented as prevalence rate (%) and 95% CI after adjusting for age and sex. HDL-C b40/50 mg/dL indicates HDL-C b40 mg/dL in men or b 50 mg/dL in women; blood pressure z130/85 mm Hg, systolic blood pressure z130 mm Hg and/or diastolic blood pressure z85 mm Hg or on antihypertensive medication; waist circumference z90/80 cm, waist circumference z90 cm in men and z80 cm in women. LDL-C, Low-density lipoprotein cholesterol.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table III .</head><label>III</label><figDesc>Incidence rates (1/100 000 person years) and hazard ratios of total cardiovascular disease by different MetS traits</figDesc><table><row><cell>MetS traits</cell><cell>% of subjects</cell><cell>No. of cases</cell><cell>Incidence</cell><cell>HR (95% CI)</cell><cell>P</cell></row><row><cell>None</cell><cell>26.9</cell><cell>71</cell><cell>141.8</cell><cell>Reference</cell><cell>NA</cell></row><row><cell>1 component</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>TG</cell><cell>4.0</cell><cell>11</cell><cell>122.5</cell><cell>0.64 (0.34-1.22)</cell><cell>.174</cell></row><row><cell>Waist</cell><cell>5.1</cell><cell>16</cell><cell>164.3</cell><cell>1.16 (0.67-2.03)</cell><cell>.600</cell></row><row><cell>GLU</cell><cell>7.4</cell><cell>30</cell><cell>208.9</cell><cell>1.32 (0.86-2.02)</cell><cell>.206</cell></row><row><cell>HDL-C</cell><cell>5.2</cell><cell>18</cell><cell>167.8</cell><cell>1.53 (0.90-2.61)</cell><cell>.117</cell></row><row><cell>BP</cell><cell>10.0</cell><cell>113</cell><cell>569.9</cell><cell>2.97 (2.19-4.01)</cell><cell>b.001</cell></row><row><cell>2 components</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>TG + HDL-C</cell><cell>1.5</cell><cell>8</cell><cell>215.7</cell><cell>1.29 (0.62-2.71)</cell><cell>.497</cell></row><row><cell>Waist + HDL-C</cell><cell>1.7</cell><cell>6</cell><cell>190.0</cell><cell>1.69 (0.72-3.98)</cell><cell>.230</cell></row><row><cell>TG + GLU</cell><cell>1.4</cell><cell>10</cell><cell>368.8</cell><cell>1.85 (0.94-3.62)</cell><cell>.073</cell></row><row><cell>Waist + TG</cell><cell>1.3</cell><cell>9</cell><cell>344.8</cell><cell>1.90 (0.94-3.84)</cell><cell>.075</cell></row><row><cell>TG + BP</cell><cell>2.1</cell><cell>19</cell><cell>427.3</cell><cell>1.99 (1.18-3.37)</cell><cell>.010</cell></row><row><cell>Waist + GLU</cell><cell>2.1</cell><cell>15</cell><cell>355.3</cell><cell>2.15 (1.22-3.80)</cell><cell>.009</cell></row><row><cell>GLU + HDL-C</cell><cell>1.7</cell><cell>12</cell><cell>342.7</cell><cell>2.82 (1.51-5.26)</cell><cell>.001</cell></row><row><cell>Waist + BP</cell><cell>4.9</cell><cell>62</cell><cell>630.4</cell><cell>3.44 (2.42-4.89)</cell><cell>b.001</cell></row><row><cell>BP + GLU</cell><cell>4.0</cell><cell>69</cell><cell>788.6</cell><cell>3.83 (2.71-5.42)</cell><cell>b.001</cell></row><row><cell>BP + HDL-C</cell><cell>2.4</cell><cell>56</cell><cell>1010.7</cell><cell>6.36 (4.43-9.14)</cell><cell>b.001</cell></row><row><cell>3 components</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Waist + TG + HDL-C</cell><cell>0.9</cell><cell>3</cell><cell>151.0</cell><cell>0.98 (0.31-3.16)</cell><cell>.975</cell></row><row><cell>Waist + TG + GLU</cell><cell>0.7</cell><cell>5</cell><cell>353.0</cell><cell>1.70 (0.68-4.27)</cell><cell>.260</cell></row><row><cell>TG + GLU + HDL-C</cell><cell>0.6</cell><cell>4</cell><cell>307.9</cell><cell>1.76 (0.64-4.84)</cell><cell>.273</cell></row><row><cell>Waist + GLU + HDL-C</cell><cell>0.8</cell><cell>4</cell><cell>258.8</cell><cell>1.85 (0.66-5.22)</cell><cell>.244</cell></row><row><cell>BP + GLU + HDL-C</cell><cell>1.0</cell><cell>10</cell><cell>467.6</cell><cell>2.38 (1.21-4.66)</cell><cell>.012</cell></row><row><cell>TG + BP + GLU</cell><cell>1.1</cell><cell>20</cell><cell>826.2</cell><cell>3.51 (2.07-5.93)</cell><cell>b.001</cell></row><row><cell>TG + BP + HDL-C</cell><cell>0.9</cell><cell>13</cell><cell>646.7</cell><cell>3.56 (1.96-6.49)</cell><cell>b.001</cell></row><row><cell>Waist + TG + BP</cell><cell>1.8</cell><cell>30</cell><cell>875.4</cell><cell>4.21 (2.68-6.60)</cell><cell>b.001</cell></row><row><cell>Waist + BP + GLU</cell><cell>2.7</cell><cell>53</cell><cell>961.4</cell><cell>5.14 (3.53-7.49)</cell><cell>b.001</cell></row><row><cell>Waist + BP + HDL-C</cell><cell>2.0</cell><cell>42</cell><cell>1003.7</cell><cell>6.20 (4.03-9.51)</cell><cell>b.001</cell></row><row><cell>4 or 5 components</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>TG + BP + GLU + HDL-C</cell><cell>0.5</cell><cell>4</cell><cell>427.7</cell><cell>1.87 (0.67-5.20)</cell><cell>.230</cell></row><row><cell>Waist + TG + GLU + HDL-C</cell><cell>0.5</cell><cell>5</cell><cell>463.0</cell><cell>2.86 (1.13-7.23)</cell><cell>.027</cell></row><row><cell>Waist + TG + BP + GLU</cell><cell>1.4</cell><cell>24</cell><cell>847.2</cell><cell>4.02 (2.47-6.56)</cell><cell>b.001</cell></row><row><cell>Waist + BP + GLU + HDL-C</cell><cell>1.0</cell><cell>19</cell><cell>840.7</cell><cell>4.62 (2.67-7.99)</cell><cell>b.001</cell></row><row><cell>Waist + TG + BP + HDL-C</cell><cell>1.2</cell><cell>23</cell><cell>926.2</cell><cell>4.74 (2.86-7.85)</cell><cell>b.001</cell></row><row><cell>Waist + TG + BP + GLU + HDL-C</cell><cell>1.0</cell><cell>25</cell><cell>1260.7</cell><cell>6.67 (4.11-10.84)</cell><cell>b.001</cell></row></table></figure>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Trends in stroke and coronary heart disease in the WHO MONICA Project</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Truelsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mahonen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Tolonen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stroke</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="1346" to="1352" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Major causes of death among men and women in China</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>He</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Gu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Wu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">353</biblScope>
+			<biblScope unit="page" from="1124" to="1134" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Is China facing an obesity epidemic and the consequences? The trends in obesity and chronic disease in China</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><forename type="middle">Y</forename><surname>Shan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Obes (Lond)</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="177" to="188" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Diagnosis and management of the metabolic syndrome: an American Heart Association/National Heart, Lung, and Blood Institute scientific statement</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Grundy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">I</forename><surname>Cleeman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Daniels</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">112</biblScope>
+			<biblScope unit="page" from="2735" to="2752" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">The metabolic syndrome: time for a critical appraisal: joint statement from the American Diabetes Association and the European Association for the Study of Diabetes</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kahn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Buse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Ferrannini</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="2289" to="2304" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">NCEP-defined metabolic syndrome, diabetes, and prevalence of coronary heart disease among NHANES III participants age 50 years and older</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Alexander</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">B</forename><surname>Landsman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Teutsch</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="1210" to="1214" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">The metabolic syndrome and 11-year risk of incident cardiovascular disease in the atherosclerosis risk in communities study</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Mcneill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">D</forename><surname>Rosamond</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Girman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Care</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="385" to="390" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Impact of the metabolic syndrome on mortality from coronary heart disease, cardiovascular disease, and all causes in United States adults</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Malik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">D</forename><surname>Wong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Franklin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">110</biblScope>
+			<biblScope unit="page" from="1245" to="1250" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Predictive value for the Chinese population of the Framingham CHD risk assessment tool compared with the Chinese Multi-Provincial Cohort Study</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Hong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D'agostino</forename><surname>Sr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">291</biblScope>
+			<biblScope unit="page" from="2591" to="2599" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">A prospective cohort study on cardiovascular disease incidence in 11 provinces of China, I: associations between risk factor level and cardiovascular disease incidence</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Yao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Zhao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chin J Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="5" to="8" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<author>
+			<persName><surname>Monica Manual</surname></persName>
+		</author>
+		<ptr target="http://www.ktl.fi/publications/monica/manual/part4/iv-1.htm" />
+		<title level="m">Part IV: event Registration</title>
+				<imprint>
+			<date type="published" when="2006-05-08">Accessed May 8, 2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Sino-MONICA project: a collaborative study on trends and determinants in cardiovascular diseases in China. Part I: morbidity and mortality monitoring</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Yao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Zhao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">103</biblScope>
+			<biblScope unit="page" from="462" to="468" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Monitoring of cardiovascular disease and risk factor trends: experiences from the WHO/MONICA project</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Gutzwiller</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Med</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="61" to="65" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Follow-up report on the diagnosis of diabetes mellitus</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Genuth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">G</forename><surname>Alberti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Bennett</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="3160" to="3167" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Ethnic-specific criteria for the metabolic syndrome: evidence from China</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Grundy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="1414" to="1416" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Fasting and postchallenge glycemia and cardiovascular disease risk: the Framingham Offspring Study</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Meigs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Nathan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D'agostino</forename><surname>Sr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="1845" to="1850" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Effects of diabetes and level of glycemia on all-cause and cardiovascular mortality. The San Antonio Heart Study</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Wei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Gaskill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Haffner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="1167" to="1172" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">The impact of diabetes mellitus on mortality from all causes and coronary heart disease in women: 20 years of follow-up</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">B</forename><surname>Hu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Stampfer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">G</forename><surname>Solomon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">161</biblScope>
+			<biblScope unit="page" from="1717" to="1723" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Coronary heart disease risk equivalence in diabetes depends on concomitant risk factors</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">V</forename><surname>Howard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">G</forename><surname>Best</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Galloway</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="391" to="397" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Impact of diabetes/metabolic syndrome in patients with established cardiovascular disease</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Stern</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename><surname>Hunt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Atheroscler Suppl</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="3" to="6" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Intensive bloodglucose control with sulphonylureas or insulin compared with conventional treatment and risk of complications in patients with type 2 diabetes (UKPDS 33)</title>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">352</biblScope>
+			<biblScope unit="page" from="837" to="853" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+		<respStmt>
+			<orgName>UK Prospective Diabetes Study (UKPDS) Group</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Multifactorial intervention and cardiovascular disease in patients with type 2 diabetes</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Gaede</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Vedel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Larsen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">348</biblScope>
+			<biblScope unit="page" from="383" to="393" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">A description on the Chinese National Nutrition and Health Survey in 2002</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Rao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Kong</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chin J Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="478" to="484" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">A prospective study of relationship between blood pressure and 10-year cardiovascular risk in a Chinese cohort aged 35-64 years</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Liu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chin J Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="730" to="734" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Prehypertension, diabetes, and cardiovascular disease risk in a population-based sample: the Strong Heart Study</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">T</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Devereux</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hypertension</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="410" to="414" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Executive summary of the clinical guidelines on the identification, evaluation, and treatment of overweight and obesity in adults</title>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">158</biblScope>
+			<biblScope unit="page" from="1855" to="1867" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Joint role of non-HDL cholesterol and glycated haemoglobin in predicting future coronary heart disease events among women with type 2 diabetes</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Schulze</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Shai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Manson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="2129" to="2136" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Treatment with atorvastatin to the National Cholesterol Educational Program goal versus dusualT care in secondary coronary heart disease prevention. The GREek Atorvastatin and Coronary-heart-disease Evaluation (GREACE) study</title>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">G</forename><surname>Athyros</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Papageorgiou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">R</forename><surname>Mercouris</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Curr Med Res Opin</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="220" to="228" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Metabolic syndrome as a precursor of cardiovascular disease and type 2 diabetes mellitus</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">W</forename><surname>Wilson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>'agostino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Parise</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">112</biblScope>
+			<biblScope unit="page" from="3066" to="3072" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Are waist circumference and body mass index independently associated with cardiovascular disease risk in Chinese adults?</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Wildman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Gu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Reynolds</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Clin Nutr</title>
+		<imprint>
+			<biblScope unit="volume">82</biblScope>
+			<biblScope unit="page" from="1195" to="1202" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

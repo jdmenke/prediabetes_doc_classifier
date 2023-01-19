@@ -1,0 +1,977 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">How well does the metabolic syndrome defined by five definitions predict incident diabetes and incident coronary heart disease in a Chinese population?</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2006-05-23">23 May 2006</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Jian-Jun</forename><surname>Wang</surname></persName>
+							<email>jianjun.wang@uku.fi</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Medicine</orgName>
+								<orgName type="institution">University of Kuopio</orgName>
+								<address>
+									<postBox>P.O. Box 1627</postBox>
+									<postCode>FIN-70210</postCode>
+									<settlement>Kuopio</settlement>
+									<country key="FI">Finland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Hong-Bing</forename><surname>Li</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Endocrinology</orgName>
+								<orgName type="institution" key="instit1">Affiliated Beijing Tongren Hospital</orgName>
+								<orgName type="institution" key="instit2">Capital University of Medical Science</orgName>
+								<address>
+									<settlement>Beijing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Leena</forename><surname>Kinnunen</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Epidemiology and Health Promotion</orgName>
+								<orgName type="institution">National Public Health Institute</orgName>
+								<address>
+									<settlement>Helsinki</settlement>
+									<country key="FI">Finland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Gang</forename><surname>Hu</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Epidemiology and Health Promotion</orgName>
+								<orgName type="institution">National Public Health Institute</orgName>
+								<address>
+									<settlement>Helsinki</settlement>
+									<country key="FI">Finland</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Public Health</orgName>
+								<orgName type="institution">University of Helsinki</orgName>
+								<address>
+									<country key="FI">Finland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Tiina</forename><forename type="middle">M</forename><surname>Järvinen</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Epidemiology and Health Promotion</orgName>
+								<orgName type="institution">National Public Health Institute</orgName>
+								<address>
+									<settlement>Helsinki</settlement>
+									<country key="FI">Finland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Maija</forename><forename type="middle">E</forename><surname>Miettinen</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Epidemiology and Health Promotion</orgName>
+								<orgName type="institution">National Public Health Institute</orgName>
+								<address>
+									<settlement>Helsinki</settlement>
+									<country key="FI">Finland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Shenyuan</forename><surname>Yuan</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Endocrinology</orgName>
+								<orgName type="institution" key="instit1">Affiliated Beijing Tongren Hospital</orgName>
+								<orgName type="institution" key="instit2">Capital University of Medical Science</orgName>
+								<address>
+									<settlement>Beijing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jaakko</forename><surname>Tuomilehto</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Epidemiology and Health Promotion</orgName>
+								<orgName type="institution">National Public Health Institute</orgName>
+								<address>
+									<settlement>Helsinki</settlement>
+									<country key="FI">Finland</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Public Health</orgName>
+								<orgName type="institution">University of Helsinki</orgName>
+								<address>
+									<country key="FI">Finland</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="institution">South Ostrobothnia Central Hospital</orgName>
+								<address>
+									<settlement>Seinäjoki</settlement>
+									<country key="FI">Finland</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">How well does the metabolic syndrome defined by five definitions predict incident diabetes and incident coronary heart disease in a Chinese population?</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2006-05-23">23 May 2006</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">2CEFAE8079E77F0344E7D69FAB2C1754</idno>
+					<idno type="DOI">10.1016/j.atherosclerosis.2006.04.027</idno>
+					<note type="submission">Received 23 February 2006; received in revised form 5 April 2006; accepted 18 April 2006</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.1" ident="GROBID" when="2022-07-19T23:01+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Metabolic syndrome</term>
+					<term>Definition</term>
+					<term>Coronary heart disease</term>
+					<term>Diabetes</term>
+					<term>Incidence</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>We evaluate the ability of the metabolic syndrome (MetS) defined by five definitions for predicting both incident CHD and diabetes combined, diabetes alone, and CHD alone in a Chinese population. The screening survey for type 2 diabetes was conducted in 1994. A follow-up study of 541 high-risk non-diabetic individuals who were free of CHD at baseline was carried out in 1999 in Beijing area. The MetS was defined by the World Health Organization (WHO), European Group for the Study of Insulin Resistance (EGIR), American College of Endocrinology (ACE), the International Diabetes Federation (IDF), and the National Cholesterol Education Program and the American Heart Association (AHA) (updated NCEP) criteria. From a multiple logistic regression adjusting for age, sex, education, occupation, smoking, family history of diabetes, and total cholesterol, the relative risk of the ACE-defined MetS for incident diabetes alone (67 cases) was 2.29 (95% CI, 1.20-4.34). The MetS defined by the five definitions was associated with a 1.8-3.9 times increased risk for both incident CHD and diabetes combined (59 cases), and with a 1.9-3.0 times for total incident diabetes (126 cases). None of the five definitions predicted either incident CHD alone (177 cases) or total incident CHD (236 cases).</p><p>In conclusion, the MetS defined by the current definitions appears to be more effective at predicting incident diabetes.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Instruction</head><p>The metabolic syndrome (MetS) is recognized as a cluster of risk factors associated with cardiovascular disease (CVD) and diabetes <ref type="bibr" target="#b0">[1,</ref><ref type="bibr" target="#b1">2]</ref>. The underlying mechanism of the syndrome is not completely understood. In general, obesity and sedentary lifestyle coupled with unbalanced diet and still largely unknown genetic factors clearly interact to produce the syndrome <ref type="bibr" target="#b2">[3,</ref><ref type="bibr" target="#b3">4]</ref>. To aid in international comparison across prospective studies have showed that the MetS defined by the NCEP and WHO definitions was associated with the risk of coronary heart disease (CHD), CVD and all-cause mortality, and type 2 diabetes <ref type="bibr" target="#b10">[11]</ref><ref type="bibr" target="#b11">[12]</ref><ref type="bibr" target="#b12">[13]</ref><ref type="bibr" target="#b13">[14]</ref><ref type="bibr" target="#b14">[15]</ref>. Besides, several studies have estimated the magnitude of the association between of the MetS mainly based on the two definitions and incident CVD or CHD in non-diabetic individuals <ref type="bibr" target="#b15">[16]</ref><ref type="bibr" target="#b17">[17]</ref><ref type="bibr" target="#b18">[18]</ref><ref type="bibr" target="#b19">[19]</ref><ref type="bibr" target="#b20">[20]</ref>. However, none of these studies has assessed the ability of the MetS defined by the established definitions to predict both incident CHD and diabetes combined, diabetes alone, and CHD alone. Therefore, the aim of the present study was to evaluate the ability of the WHO, EGIR, ACE, IDF and updated NCEP definitions of the MetS with respect to prediction of both incident CHD and type 2 diabetes combined, incident type 2 diabetes alone, and incident CHD alone in a Chinese population.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1.">Study population</head><p>The Beijing Project as part of the National Diabetes Survey <ref type="bibr" target="#b21">[21]</ref> was carried out between July 1994 and January 1995. The sample and design of the Beijing Project have been described previously <ref type="bibr" target="#b22">[22]</ref>. In summary, 76 units in Beijing area including 33 villages, 15 factories, 11 military camps, 17 urban communities, were randomly ascertained with a multi-stage sampling method. In these units, 20,682 inhabitants aged 25 years or older participated in the finger blood glucose screening survey. The participation rate was 92%. A total of 2499 participants who at the screening had a 2 h capillary blood glucose ≥6.7 mmol/l were invited to participate in the OGTT, and 1566 subjects (62.7%) took part in the OGTT (Fig. <ref type="figure" target="#fig_0">1</ref>).</p><p>From October 1999 to January 2000, the 5-year followup survey was conducted in subjects who performed the OGTT at baseline. Of the initial 1566 subjects, 483 had moved out of Beijing and 181 persons could not be followed because of logistic reasons. The remaining 902 persons (57.6%) participated in the follow-up examination. The non-participants did not differ significantly from participants in age, sex, body mass index (BMI), waist circumference (WC), waist-to-hip ratio (WHR), plasma fasting and 2 h post-load glucose and serum insulin levels, serum triglycerides, cholesterol levels and timed 2 h urinary albumin excretion rate (UAER), and the frequency of diabetes, hypertension and obesity at baseline. Of the 902 subjects who participated in the follow-up study, 296 with newly diagnosed diabetes or CHD at baseline, and 65 with known diabetes were excluded in this study, leaving 541 subjects. Among them 126 had developed type 2 diabetes (60 men, 66 women) and 236 CHD (103 men, 133 women) during the 5year follow-up. The enrolment and examinations of subjects were conducted in accordance with the Helsinki Declaration. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.">Measurements</head><p>The anthropometric, electrocardiography (ECG) and laboratory measurements were undertaken at baseline and followup separately. The assay conditions such as storage of the blood samples, experimental methods, kit producers, technicians, laboratory and instruments in two surveys were identical. The specifically trained physicians performed faceto-face interviews using a standardized questionnaire, which included questions about past medical history, family history of diabetes, history of pharmacological treatment, smoking habits, occupation and education. Family history of diabetes, and antihypertensive and hypolipidaemic medication were dichotomized. Smoking status included current smoker and non-smoker. Occupation was classified as white collar or blue collar. Three education categories were created according to the total number of school years: 0-6, 7-12, and ≥13 years. Body weight of the subjects wearing light clothing without shoes was measured with a 0.1 kg precision. Height was measured to the nearest 0.5 cm. BMI was calculated as the weight in kilograms divided by the square of the height in meters. WC was defined as the average of two measurements taken after inspiration and expiration at the midpoint between the lowest rib and iliac crest. Hip circumference was measured at the point of trochanter major. WHR was defined as waist circumference to hip circumference. After each subject had been seated for 5 min, blood pressure was measured twice to the nearest 2 mmHg from the left arm of the participant who was in the sitting position using a standard sphygmomanometer. The average of the two measurements was used for all analyses. Diastolic blood pressure (DBP) was recorded at the fifth Korotkoff sound. All subjects underwent 12-lead ECG, which was interpreted by two trained readers according to the Minnesota code <ref type="bibr" target="#b23">[23]</ref>. Disagreements between two readers were adjudicated by a cardiologist. Neither the cardiologist nor the readers were aware of clinical data.</p><p>After 10-12 h of an overnight fast, each subject voided, and then the fasting blood sample was collected. A 75 g anhydrous glucose dissolved in 300 ml of water was given orally over the course of 5 min and a second blood sample was drawn 2 h later for the glucose and insulin determination respectively. A urine sample was collected immediately after 2 h blood collection to quantify timed 2 h UAER. Blood samples were immediately centrifuged and processed further. Plasma glucose was detected in duplicate within 2 h by a glucose oxidase method at the Laboratory Center of Beijing Tongren Hospital. Serum insulin was determined by a double-antibody radioimmunoassay (Huadong Insulin Kit, Sichuan, China). Urinary albumin concentration was measured by radioimmunoassay (401MA kit, Beijing, China). Their intra-and interassay CVs were &lt;6% and &lt;8% for insulin, &lt;5% and &lt;7% for urinary albumin. Serum total cholesterol level and triglycerides were measured by enzymatic methods (Zhongsheng Reagents, Beijing, China).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.3.">Diagnosis of diabetes and CHD</head><p>According to the WHO 1999 criteria <ref type="bibr" target="#b4">[5]</ref>, the participants were classified in categories of glucose intolerance or diabetes at baseline and follow-up based on fasting plasma glucose (FPG) and 2 h post-glucose load (2 h PG): impaired fasting glucose (IFG) (FPG 6.1-6.9 mmol/l), impaired glucose tolerance (IGT) (2 h PG 7.8-11.0 mmol/l), impaired glucose regulation (IGR) (FPG 6.1-6.9 mmol/l and/or 2 h PG 7.8-11.0 mmol/l), and diabetes (FPG ≥7.0 mmol/l or 2 h PG ≥11.1 mmol/l). According to the baseline and follow-up surveys, CHD was defined as being present when a person met at least one of the following criteria: a history of previous myocardial infarction before baseline examination (n = 8); the occurrence of Minnesota code items 1.1-1.3 (abnormal Q and QS patterns) (positive: baseline, n = 62; incident cases, n = 147), 5.1-5.3 (T wave abnormalities) (positive: baseline, n = 75; incident cases, n = 137), or 7.1 (complete left bundle branch block) (positive: baseline, n = 1; incident cases, n = 1) positive on ECG <ref type="bibr" target="#b23">(23)</ref>. All cases of CHD were non-fatal. We had no access to the mortality data, but since the follow-up period was only 5 years, we estimate that there were not many deaths from CHD in this sample.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.4.">Study groups</head><p>The participants were divided into four study groups by disease status during the follow-up: neither CHD nor diabetes; incident CHD alone; incident diabetes alone; both incident CHD and diabetes combined. The total incident diabetes group (combined all diabetes cases) and total incident CHD group (combined all CHD cases) were used for further comparison with the neither CHD nor diabetes group.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.5.">Definitions of the MetS</head><p>Since serum total cholesterol instead of HDL-cholesterol was measured in this study, to minimize the missing cases of the MetS diagnosed by low HDL-cholesterol, we defined dyslipdemia as triglycerides ≥1.7 mmol/l or current use of hypolipidemic medication in all definitions. The recommended standards of obesity for Asian were used in the updated NCEP, WHO, EGIR and IDF definitions (BMI ≥25; waist circumference ≥90 cm for men and ≥80 cm for women) <ref type="bibr" target="#b8">[9]</ref>. In addition, the subjects with the insulin resistance in the WHO definition were defined as the 25% of the subjects without diabetes who had the highest fasting insulin concentrations as proposed by the EGIR for epidemiological studies.</p><p>The WHO definition defines the syndrome with insulin resistance (upper quartile of fasting insulin levels in the individuals without diabetes) and/or IGR, and at least two of the following: systolic blood pressure (SBP) ≥140 mmHg and/or DBP ≥90 mmHg or current use of antihypertensive drugs; triglycerides ≥1.7 mmol/l or current use of hypolipidemic medication; UAER ≥20 g/min; WHR &gt;0.90 and/or BMI ≥25 kg/m 2 for men or WHR &gt;0.85 and/or BMI ≥25 kg/m 2 for women. The EGIR definition considers the MetS to be present in subjects with fasting insulin in the upper quartile of the population distribution, in the presence of at least 2 of these risk factors: FPG ≥6.1 mmol/l; SBP ≥140 mmHg and/or DBP ≥90 mmHg or current use of antihypertensive drugs; triglycerides ≥2.0 mmol/l or current use of hypolipidemic medication; waist circumference ≥90 cm in men or ≥80 cm in women. The ACE definition considers the MetS to be present with two or more abnormalities: FPG 6.1-6.9 mmol/l or 2 h PG 7.8-11.0 mmol/l; SBP ≥130 mmHg and/or DBP ≥85 mmHg or current use of antihypertensive drugs; triglycerides ≥1.7 mmol/l or current use of hypolipidemic medication. The IDF definition considers the MetS to be present in subjects who had central obesity defined as ethnicity specific values of WC (≥90 cm in men or ≥80 cm in women), in the presence of at least two of the following: FPG ≥5.6 mmol/l; SBP ≥130 mmHg and/or DBP ≥85 mmHg or current use of antihypertensive drugs; triglycerides ≥1.7 mmol/l or current use of hypolipidemic medication. The updated NCEP definition considers the syndrome to be present with at least three of the following: FPG ≥5.6 mmol/l; SBP ≥130 mmHg or DBP ≥85 mmHg or current use of antihypertensive drugs; triglyceride ≥1.7 mmol/l or current use of hypolipidemic medication; WC ≥90 cm in men or ≥80 cm in women.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.6.">Statistical analyses</head><p>All statistical analyses were performed with SPSS 11.5 software. Because of the skewed distribution of serum triglycerides, insulin and UAER, these variables were log transformed for statistical analyses. Differences in baseline characteristics between groups were tested using univariate ANOVA or the Mantel-Haenszel method after adjustment for age and sex. A multiple logistic regression was applied with the conversion to both CHD and diabetes combined, diabetes alone, CHD alone, total diabetes, and total CHD as a depen-dent variable, respectively. Different definitions of the MetS were used as independent variables in the analyses, respectively, adjusting for age, sex, education, occupation, smoking, family history of diabetes, and total cholesterol. The sensitivity and specificity of the different definitions of the MetS for total incident diabetes were determined and then compared by using McNemar's test.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Results</head><p>Table <ref type="table" target="#tab_0">1</ref> reports the baseline characteristics by CHD or diabetes status during the 5-year follow-up in 541 subjects without CHD or diabetes at baseline. Subjects who developed both incident CHD and diabetes during follow-up were the oldest, heaviest, and most often hypertensive, dyslipidemic, hyperglycemic, microalbuminuric and insulin resistant among the four study groups. There was no significant difference in the frequency of hypertension, microalbuminuria and obesity (BMI ≥30 kg/m 2 ) between incident CHD alone and incident diabetes alone group, although subjects with incident diabetes alone were more often dyslipidemic, hyperglycemic, microalbuminuric, overweight (BMI ≥25 kg/m 2 ) and insulin resistant than those with neither incident CHD nor diabetes. Table <ref type="table" target="#tab_1">2</ref> show the relative risks (RRs) of both incident CHD and diabetes combined, incident diabetes alone, incident CHD alone, total incident diabetes and CHD associated with the MetS or its individual components according to the WHO, EGIR, ACE, IDF and updated NCEP definitions during the 5-year follow-up. After adjustment for age, sex, education, occupation, smoking, family history of diabetes and total cholesterol, the MetS defined by five definitions was asso-ciated with a 1.8-3.9 times increased risk for development of both CHD and diabetes combined. Only the ACE-defined MetS was associated with an increased risk of incident diabetes alone (RR, 2.29; 95% CI, 1.20-4.34), while none of the other definitions predicted the development of CHD alone. The RR of the ACE definition for both incident CHD and diabetes combined, and for incident diabetes alone appeared to be the highest among all definitions of the MetS, respectively. When combining all incident diabetes or CHD, the MetS as defined by the five definitions was associated with a 1.9-3.0 times increased risk of total incident diabetes, whereas none of the five definitions predicted total incident CHD.</p><p>The individual components of the MetS, such as IFG (FPG ≥6.1 mmol/l or FPG ≥5.6 mmol/l), IGT, IGR, insulin resistance measured as upper fasting insulin quartile, hypertension (BP ≥140/90 or ≥130/85 mmHg), central obesity defined by WHO definition (WHR &gt;0.90 in men, &gt;0.85 in women; BMI ≥25 kg/m 2 ), microalbuminuria and hypertriglyceridaemia (triglycerides ≥1.7 mmol/l or ≥2.0 mmol/l) were associated with a 1.6-4.4 times increased risk of both incident CHD and diabetes combined in the same model. Also these individual components except for microalbuminuria were associated with a 1.7-3.3 times increased risk of total incident diabetes. In contrast, some individual components, including FPG ≥6.1 mmol/l, IGT, IGR, insulin resistance and central obesity defined by the WHO definition, were associated with a 1.6-3.5 times increased risk for incident diabetes alone. Although, only microalbuminuria was associated with a risk of total incident CHD (RR: 1.89, 95% CI 1.05-3.43), no association was evident between the individual components of the MetS and incident CHD alone or total incident CHD. We compared the sensitivity and specificity between different definitions of the MetS for total incident diabetes. The ACE definition had the highest sensitivity for total incident diabetes compared to the other four definitions (0.65), despite the least specificity (0.63), while the EGIR definition had the lowest sensitivity among all definitions (0.24) despite having the most specificity (0.88). The IDF definition also was insensitive for total incident diabetes in men (sensitivity: 0.28; specificity: 0.81). There was no significant deference in sensitivity for total incident diabetes between the WHO and updated NCEP definition, but the sensitivity of the latter was higher than that of the IDF definition (0.52 versus 0.44) (data not shown).</p><p>We carried out some additional analyses to choose subjects with normal glucose tolerance (FPG &lt;6.1 mmol/l and 2 h PG &lt;7.8 mmol/l, n = 153) as the reference group (subject who had IGR and did not develop either incident CHD or diabetes were excluded from the reference group). After adjustment for all confounding factors, the MetS defined by the WHO and ACE definitions was associated with an about 2.0 times increased risk for total CHD, an about 3.4 times for CHD alone, a 6.0 times for diabetes alone and a 3.5-4.9 times for total diabetes. The other definitions, however, still did not predict incident total CHD (data not shown).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Discussion</head><p>To the best of our knowledge, this is the first prospective cohort study reporting the relationship between the MetS and incident CHD alone or diabetes alone or both in a Chinese population, using the five modified definitions. Although the prevalence of type 2 diabetes in China has been rising, it is still lower compared with many Western countries. Therefore, the present study introduced a capillary glucose pre-screening for OGTT at baseline so as to find high-risk non-diabetic individuals, while the initial participants at first survey were drawn randomly from a population. This selection procedure has two advantages: first, the yield of abnormal glucose tolerance at OGTT can be maximized in a large population survey; second, the follow-up study may be more efficient because more high-risk cases can be included at baseline only at cost of missing a small number of individuals with diabetes or IGT <ref type="bibr" target="#b24">[24]</ref>. Compared with a study in a general adult population in China <ref type="bibr" target="#b25">[25]</ref>, the present study showed that the individuals based on the NECP criteria had higher prevalence of abdominal obesity (WC ≥102 cm in men, ≥88 cm in women) (21.2% versus 7.7%), hypertriglyceridaemia (34.4% versus 24.8%), hypertension (59.2% versus 41.2%), and high fasting glucose at baseline (27.8% versus 12.7%) (data not shown). Compared with a general US population <ref type="bibr" target="#b26">[26]</ref>, the present population also had higher prevalence of hypertension (59.2% versus 34.0%), high fasting glucose (27.8% versus 12.6%), and hypertriglyceridaemia (34.4% versus 30.0%), but low prevalence of abdominal obesity (27.8% versus 38.6%). This may mainly explain why the present study had a higher incidence of CHD compared with other studies <ref type="bibr" target="#b17">[17]</ref><ref type="bibr" target="#b18">[18]</ref><ref type="bibr" target="#b19">[19]</ref>. In addition, the single ECG-based diagnosis of CHD in a population-based survey may be another cause of the higher incidence. In contrast, the other studies identified the cases of CHD in a general population mainly based on hospital records other than the single ECG-based diagnosis. Therefore, the study sample in the present study represents a populationbased high-risk segment identified by raised post-prandial glucose rather than a general population. However, given that the high-risk population raised threshold of the reference group and the odds ratio would be expected to be higher in a general population, the major findings from the study are relevant for health promotion in the general population.</p><p>An obvious question raised in this report was why all definitions and the components of the MetS were not predictors of incident CHD in the Chinese population. One explanation was that the five definitions of the MetS did not contain the key risk factors of CVD, such as age, cigarette smoking, total cholesterol and LDL cholesterol. These risk factors have been shown to be strongly associated with the development of CHD and total mortality in middle-aged or elderly individuals in previous prospective studies <ref type="bibr" target="#b27">[27,</ref><ref type="bibr" target="#b28">28]</ref>. Our study also displayed that elevated levels of total cholesterol (≥ 5.7 mmol/l), age and smoking were predictors of incident CHD alone or total incident CHD (data not shown). Another explanation was that the present study ascertained non-fatal cases of CHD based on the ECG abnormality other than hospital records used in the other studies. In general, patients who are diagnosed as CHD or CVD based on hospital records have more signs of the disease than those ascertained by ECG abnormalities. Among those with CHD diagnosed by hospital records, more cases with the MetS at baseline would have been identified, which might make the syndrome to be more effective at predicting CVD. Third explanation was that unlike the present study, the other studies which showed the MetS predicted incident CHD or CVD did not excluded cases with incident diabetes from cases with incident CVD or CHD as outcomes. The present results uniquely showed that the five definitions of the MetS strongly predicted the development of both CHD and diabetes combined, and total incident diabetes. Finally, subject in the reference group who had IGR and did not develop the incident diabetes and CHD may affect the finding. If the subjects with IGR were excluded from the reference group, the MetS based on the WHO and ACE definitions predicted the risk of CHD despite higher RRs for incident diabetes. The findings suggest the MetS defined by any definition is more effective at predicting incident diabetes. However, further studies are needed to confirm the findings in other populations, especially in general populations.</p><p>Our previous study has showed that the cut-off points for obesity, insulin resistance as a requirement of the MetS and omission of IGT influenced sensitivity of different definitions for predicting incident diabetes <ref type="bibr" target="#b29">[29]</ref>. Although the new IDF definition recommended ethnicity-specific values for central obesity, it defined central obesity as a prerequisite for presence of the MetS, and IGT was excluded in the definition as well. However, one of the most controversial aspects of the MetS in Chinese population is without doubt the standard of obesity. Thus far, there has not been a unified cut-off of obesity because of lack of consistent results from varied studies in China. It has been controversial which anthropometric index of obesity is the best predictor of CHD or diabetes in Chinese <ref type="bibr" target="#b30">[30,</ref><ref type="bibr" target="#b31">31]</ref>. A study in Chinese women displayed WHR or BMI was a better predictor than WC for incident CHD <ref type="bibr" target="#b32">[32]</ref>. Our study also found that a BMI of ≥25 kg/m 2 or a WHR of &gt;0.90 (women: &gt;0.85) other than a WC of ≥90 cm (women: ≥80 cm) was a better predictor of incident diabetes. Lowering the cut point of WC from 90 to 85 cm in men still did not change the trend (data not shown). Compared with IFG (FPG ≥5.6 mmol/l), IGT was a better predictor of incident diabetes alone. Clearly, central obesity defined as WC ≥90 cm (women: ≥80 cm) as a requirement and exclusion of IGT in the IDF definition mainly led to a lower sensitivity of the definition for predicting future diabetes in the Chinese population, especially in men. In contrast, the updated NCEP definition used a set of clinical criteria that are similar to those of the IDF criteria, however, central obesity was not deemed a necessity. As a result, the sensitivity of the updated NCEP definition for total incident diabetes in Chinese men improved greatly (data not shown).</p><p>A main limitation in this study is lack of HDL-cholesterol values although all other components of the MetS in terms of different definitions were included. However, triglycerides of at least 1.7 mmol/l or current use of hypolipidaemic drugs were defined as dyslipidemia may minimize the missing cases of the MetS determined by low HDL-cholesterol. In addition, since HDL-cholesterol is as a component in each of the five definitions, and was equally excluded from each definition due to missing data in this study, each of definitions would be expected to be given similar weight. Thus, the comparison for ability of predictive value between definitions would be valid.</p><p>In summary, The MetS defined by the current definitions appears to be more effective at predicting incident diabetes. The definitions defined by insulin resistance or central obesity as a requirement do not seem to be useful for predicting incident diabetes in Chinese, especially in men.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1 .</head><label>1</label><figDesc>Fig. 1. Study population at the baseline and at the follow-up examination.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Baseline characteristics by CHD or diabetic status during the 5-year follow-up in 541 subjects without CHD or diabetes at baseline</figDesc><table><row><cell></cell><cell>Both incident CHD and</cell><cell>Incident</cell><cell>Incident</cell><cell>Neither incident CHD</cell><cell>P-value a</cell></row><row><cell></cell><cell>diabetes combined</cell><cell>diabetes alone</cell><cell>CHD alone</cell><cell>nor diabetes</cell><cell></cell></row><row><cell>n (male/female)</cell><cell>59 (24/35)</cell><cell>67 (36/31)</cell><cell>177 (79/98)</cell><cell>238 (132/106)</cell><cell></cell></row><row><cell>Age (years)</cell><cell>51.2 ± 9.5</cell><cell>47.9 ± 10.7</cell><cell>49.5 ± 10.4</cell><cell>45.6 ± 10.9</cell><cell>&lt;0.001</cell></row><row><cell>Body mass index (kg/m 2 )</cell><cell>26.3 ± 3.6</cell><cell>25.2 ± 3.5</cell><cell>24.8 ± 4.4</cell><cell>23.9 ± 3.1</cell><cell>&lt;0.001</cell></row><row><cell>Waist circumference (cm)</cell><cell>89.8 ± 10.3</cell><cell>88.3 ± 9.1</cell><cell>83.3 ± 9.2</cell><cell>82.3 ± 8.4</cell><cell>&lt;0.001</cell></row><row><cell>Men</cell><cell>90.2 ± 10.8</cell><cell>88.1 ± 7.5</cell><cell>83.4 ± 9.4</cell><cell>82.4 ± 7.1</cell><cell>0.007</cell></row><row><cell>Women</cell><cell>89.6 ± 10.1</cell><cell>88.5 ± 10.8</cell><cell>83.1 ± 9.2</cell><cell>82.1 ± 9.7</cell><cell>0.008</cell></row><row><cell>Waist-to-hip ratio</cell><cell>0.92 ± 0.09</cell><cell>0.90 ± 0.07</cell><cell>0.88 ± 0.07</cell><cell>0.87 ± 0.07</cell><cell>0.001</cell></row><row><cell>Systolic blood pressure (mmHg)</cell><cell>139 ± 22</cell><cell>124 ± 19</cell><cell>125 ± 21</cell><cell>122 ± 20</cell><cell>&lt;0.001</cell></row><row><cell>Diastolic blood pressure (mmHg)</cell><cell>84 ± 12</cell><cell>78 ± 11</cell><cell>78 ± 12</cell><cell>77 ± 12</cell><cell>0.001</cell></row><row><cell>Urinary albumin excretion rate</cell><cell>7.0 (0.5-122)</cell><cell>4.5 (0.8-130)</cell><cell>4.6 (0-141)</cell><cell>3.7 (0-592)</cell><cell>0.001</cell></row><row><cell>(g/min)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Total cholesterol (mmol/l)</cell><cell>5.3 ± 1.7</cell><cell>5.1 ± 1.7</cell><cell>4.8 ± 1.8</cell><cell>4.4 ± 1.7</cell><cell>0.032</cell></row><row><cell>Triglycerides (mmol/l)</cell><cell>1.8 ± 0.8</cell><cell>1.8 ± 1.1</cell><cell>1.4 ± 1.0</cell><cell>1.4 ± 0.9</cell><cell>0.006</cell></row><row><cell>Fasting insulin (pmol/l)</cell><cell>50 (4-1130)</cell><cell>45 (29-110)</cell><cell>45 (2-129)</cell><cell>42 (3-266)</cell><cell>0.013</cell></row><row><cell>Fasting plasma glucose (mmol/l)</cell><cell>6.0 ± 0.6</cell><cell>5.8 ± 0.9</cell><cell>5.6 ± 0.7</cell><cell>5.6 ± 0.7</cell><cell>&lt;0.001</cell></row><row><cell>2 h Post-load glucose (mmol/l)</cell><cell>7.8 ± 1.8</cell><cell>7.4 ± 1.7</cell><cell>6.4 ± 1.7</cell><cell>6.2 ± 1.6</cell><cell>&lt;0.001</cell></row><row><cell>Current smoker (%)</cell><cell>34</cell><cell>28</cell><cell>26</cell><cell>29</cell><cell>0.698</cell></row><row><cell>Body mass index ≥25 kg/m 2 (%)</cell><cell>66</cell><cell>54</cell><cell>43</cell><cell>37</cell><cell>&lt;0.001</cell></row><row><cell>Body mass index ≥30 kg/m 2 (%)</cell><cell>16</cell><cell>8</cell><cell>7</cell><cell>4</cell><cell>0.035</cell></row><row><cell>Fasting plasma glucose ≥6.1 mmol/l</cell><cell>49</cell><cell>40</cell><cell>24</cell><cell>23</cell><cell>&lt;0.001</cell></row><row><cell>(%)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Fasting plasma glucose ≥5.6 mmol/l</cell><cell>80</cell><cell>61</cell><cell>53</cell><cell>52</cell><cell>&lt;0.001</cell></row><row><cell>(%)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Impaired glucose tolerance (%)</cell><cell>49</cell><cell>43</cell><cell>24</cell><cell>17</cell><cell>&lt;0.001</cell></row><row><cell>Impaired glucose regulation (%)</cell><cell>70</cell><cell>64</cell><cell>41</cell><cell>35</cell><cell>&lt;0.001</cell></row><row><cell>Upper fasting insulin quartile (%)</cell><cell>33</cell><cell>30</cell><cell>20</cell><cell>16</cell><cell>0.048</cell></row><row><cell>Waist-to-hip ratio &gt;0.90 (women</cell><cell>71</cell><cell>75</cell><cell>50</cell><cell>48</cell><cell>&lt;0.001</cell></row><row><cell>&gt;0.85) (%)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Waist girth ≥90 cm (women ≥80 cm)</cell><cell>66</cell><cell>60</cell><cell>55</cell><cell>48</cell><cell>0.037</cell></row><row><cell>(%)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Waist girth ≥102 cm (women</cell><cell>41</cell><cell>24</cell><cell>21</cell><cell>13</cell><cell>&lt;0.001</cell></row><row><cell>≥88 cm) (%)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Serum triglycerides ≥1.7 mmol/l or</cell><cell>59</cell><cell>43</cell><cell>31</cell><cell>29</cell><cell>&lt;0.001</cell></row><row><cell>use medication (%)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Serum triglycerides &gt;2.0 mmol/l or</cell><cell>48</cell><cell>34</cell><cell>23</cell><cell>21</cell><cell>&lt;0.001</cell></row><row><cell>use medication (%)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Urinary albumin excretion rate</cell><cell>27</cell><cell>11</cell><cell>11</cell><cell>7.5</cell><cell>0.008</cell></row><row><cell>≥20 g/min (%)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Blood pressure ≥140/90 mmHg or</cell><cell>64</cell><cell>36</cell><cell>35</cell><cell>31</cell><cell>&lt;0.001</cell></row><row><cell>medication (%)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Blood pressure ≥130/85 mmHg or</cell><cell>78</cell><cell>58</cell><cell>59</cell><cell>49</cell><cell>0.001</cell></row><row><cell>medication (%)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table><note>Data are means ± S.D. or percentages or median (range).a Adjusted for age and sex.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2</head><label>2</label><figDesc>Relative risks of both incident CHD and diabetes combined, incident diabetes alone, incident CHD alone, incident diabetes, and incident CHD from the MetS or its individual components during the 5-year follow-up according to the WHO, EGIR, ACE, IDF and updated NCEP definitions in 541 subjects without CHD or diabetes</figDesc><table><row><cell></cell><cell>Relative risk (95% CI) a</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>Both incident CHD</cell><cell>Incident diabetes</cell><cell>Incident CHD alone</cell><cell>Total incident diabetes</cell><cell>Total incident CHD</cell></row><row><cell></cell><cell>and diabetes</cell><cell>alone (2)</cell><cell>(3)</cell><cell>(1) + (2)</cell><cell>(1) + (3)</cell></row><row><cell></cell><cell>combined (1)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>n (male/female)</cell><cell>59 (24/35)</cell><cell>67 (36/31)</cell><cell>177 (79/98)</cell><cell>126 (60/66)</cell><cell>236 (103/133)</cell></row><row><cell>The metabolic syndrome</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>WHO definition</cell><cell>2.76 (1.49-5.11)</cell><cell>1.88 (0.98-3.59)</cell><cell>0.80 (0.49-1.33)</cell><cell>2.39 (1.51-3.77)</cell><cell>1.18 (0.78-1.77)</cell></row><row><cell>EGIR definition</cell><cell>1.77 (1.01-3.59)</cell><cell>1.86 (0.85-4.09)</cell><cell>1.14 (0.59-2.21)</cell><cell>1.88 (1.08-3.27)</cell><cell>1.13 (0.66-1.93)</cell></row><row><cell>ACE definition</cell><cell>3.94 (1.97-7.87)</cell><cell>2.29 (1.20-4.34)</cell><cell>1.13 (0.71-1.79)</cell><cell>2.97 (1.85-4.76)</cell><cell>1.29 (0.87-1.92)</cell></row><row><cell>IDF definition</cell><cell>3.17 (1.66-6.05)</cell><cell>1.39 (0.70-2.78)</cell><cell>1.01 (0.60-1.69)</cell><cell>2.05 (1.27-3.30)</cell><cell>1.26 (0.82-1.94)</cell></row><row><cell>Updated NCEP definition</cell><cell>3.73 (1.94-7.16)</cell><cell>1.56 (0.82-2.98)</cell><cell>0.99 (0.60-1.61)</cell><cell>2.33 (1.47-3.70)</cell><cell>1.24 (0.82-1.87)</cell></row><row><cell cols="2">The individual components of the metabolic syndrome</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Fasting plasma glucose</cell><cell>3.22 (1.73-6.02)</cell><cell>2.71 (1.43-5.16)</cell><cell>1.08 (0.64-1.81)</cell><cell>2.96 (1.85-4.73)</cell><cell>1.25 (0.82-1.92)</cell></row><row><cell>≥6.1 mmol/l</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Fasting plasma glucose</cell><cell>4.39 (2.03-9.50)</cell><cell>1.80 (0.96-3.40)</cell><cell>0.89 (0.57-1.39)</cell><cell>2.61 (1.61-4.24)</cell><cell>1.08 (0.73-1.60)</cell></row><row><cell>≥5.6 mmol/l</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>2 h Post-load glucose</cell><cell>2.31 (1.23-4.35)</cell><cell>3.15 (1.60-6.19)</cell><cell>1.32 (0.77-2.26)</cell><cell>2.84 (1.77-4.56)</cell><cell>1.20 (0.77-1.86)</cell></row><row><cell>7.8-11.0 mmol/l</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Impaired glucose regulation</cell><cell>2.85 (1.49-5.43)</cell><cell>3.52 (1.84-6.71)</cell><cell>1.14 (0.72-1.79)</cell><cell>3.31 (2.07-5.28)</cell><cell>1.15 (0.78-1.70)</cell></row><row><cell>Upper quartile insulin</cell><cell>1.64 (1.12-3.25)</cell><cell>1.60 (1.05-3.12)</cell><cell>0.81 (0.46-1.43)</cell><cell>1.78 (1.08-2.73)</cell><cell>0.89 (0.56-1.42)</cell></row><row><cell>Blood pressure ≥130/85 mmHg or</cell><cell>2.75 (1.28-5.93)</cell><cell>1.19 (0.62-2.28)</cell><cell>0.99 (0.62-1.58)</cell><cell>1.67 (1.02-2.74)</cell><cell>1.18 (0.78-1.78)</cell></row><row><cell>medication use</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Blood pressure ≥140/90 mmHg or</cell><cell>3.32 (1.75-6.30)</cell><cell>0.86 (0.45-1.66)</cell><cell>0.86 (0.53-1.38)</cell><cell>1.75 (1.10-2.77)</cell><cell>1.18 (0.78-1.77)</cell></row><row><cell>medication use</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Waist circumference ≥90 cm</cell><cell>1.57 (0.79-3.12)</cell><cell>1.46 (0.74-2.87)</cell><cell>1.08 (0.68-1.73)</cell><cell>1.48 (0.91-2.41)</cell><cell>1.10 (0.72-1.66)</cell></row><row><cell>(women: ≥80 cm)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Waist-to-hip ratio &gt;0.90 (women:</cell><cell>1.99 (1.02-3.88)</cell><cell>2.91 (1.46-5.80)</cell><cell>0.99 (0.63-1.56)</cell><cell>2.58 (1.58-4.21)</cell><cell>0.96 (0.65-1.43)</cell></row><row><cell>&gt;0.85)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>BMI ≥25 kg/m 2</cell><cell>2.69 (1.40-5.14)</cell><cell>2.00 (1.07-3.76)</cell><cell>1.14 (0.71-1.80)</cell><cell>2.18 (1.39-3.44)</cell><cell>1.28 (0.86-1.89)</cell></row><row><cell>Triglycerides ≥1.7 mmol/l or</cell><cell>3.18 (1.69-6.00)</cell><cell>1.35 (0.72-2.54)</cell><cell>1.04 (0.65-1.68)</cell><cell>2.10 (1.33-3.30)</cell><cell>1.26 (0.84-1.88)</cell></row><row><cell>medication use</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Triglycerides &gt;2.0 mmol/l or</cell><cell>2.86 (1.53-5.36)</cell><cell>1.22 (0.62-2.37)</cell><cell>1.02 (0.60-1.74)</cell><cell>1.90 (1.19-3.04)</cell><cell>1.33 (0.86-2.07)</cell></row><row><cell>medication use</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Urinary albumin excretion rate</cell><cell>4.33 (2.05-9.15)</cell><cell>0.80 (0.28-2.31)</cell><cell>1.03 (0.50-2.12)</cell><cell>1.82 (0.98-3.38)</cell><cell>1.89 (1.05-3.43)</cell></row><row><cell>(g/min) ≥20 g/min</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table><note>a Adjusted for age, sex, education, occupation, smoking, diabetic family history, and total cholesterol.</note></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgments</head><p>This work was supported by a grant from the Bureau of Public Health of Beijing and the Preventive and Treatment Office of Beijing and the Academy of Finland (46558, 77618, 204274 and 205657).</p></div>
+			</div>
+
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Banting lecture 1988. Role of insulin resistance in human disease</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Reaven</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="1595" to="1607" />
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Insulin resistance. A multifaceted syndrome responsible for NIDDM, obesity, hypertension, dyslipidemia, and atherosclerotic cardiovascular disease</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Defronzo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Ferrannini</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="173" to="194" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">A lifecourse study of risk for hyperinsulinaemia, dyslipidemia and obesity (the central metabolic syndrome) at age 49-51 years</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Parker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Lamont</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Unwin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabet Med</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="406" to="415" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Heritability of features of the insulin resistance syndrome in a community-based study of healthy families</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Freeman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">W</forename><surname>Mansfield</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Barrett</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabet Med</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="994" to="999" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">Report of a WHO Consultation. Part 1: Diagnosis and Classification of Diabetes and Mellitus</title>
+		<ptr target="http://www.whqlibdoc.who.int/hq/1999/whoncdncs99.2.pdf" />
+		<editor>World Health Organization. Definition</editor>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<pubPlace>Geneva, World Health Organization</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Diagnosis and Classification of Diabetes Mellitus and its Complications</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Comment on the provisional report from the WHO consultation. European Group for the Study of Insulin Resistance (EGIR)</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Balkau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Charles</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabet Med</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="442" to="443" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Executive Summary of the Third Report of the National Cholesterol Education Program (NCEP) Expert Panel on Detection, Evaluation, and Treatment of High Blood Cholesterol in Adults (Adult Treatment Panel III)</title>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">285</biblScope>
+			<biblScope unit="page" from="2486" to="2497" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+		<respStmt>
+			<orgName>National Institute of Health</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">American College of Endocrinology position statement on the insulin resistance syndrome</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Einhorn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Reaven</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Cobin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Endocr Pract</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="237" to="252" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">The metabolic syndrome-a new worldwide definition</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">G</forename><surname>Alberti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Zimmet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Shaw</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">366</biblScope>
+			<biblScope unit="page" from="1059" to="1062" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Diagnosis and management of the metabolic syndrome: an American Heart Association/National Heart, Lung, and Blood Institute Scientific Statement</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Grundy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">I</forename><surname>Cleeman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Daniels</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">112</biblScope>
+			<biblScope unit="page" from="2735" to="2752" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">The metabolic syndrome and total and cardiovascular disease mortality in middle-aged men</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">M</forename><surname>Lakka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Laaksonen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Lakka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">288</biblScope>
+			<biblScope unit="page" from="2709" to="2716" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Prevalence of the metabolic syndrome and its relation to all-cause and cardiovascular mortality in non-diabetic European men and women</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Hu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Qiao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tuomilehto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">164</biblScope>
+			<biblScope unit="page" from="1066" to="1076" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Impact of the metabolic syndrome on mortality from coronary heart disease, cardiovascular disease, and all causes in United States adults</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Malik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">D</forename><surname>Wong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Franklin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">110</biblScope>
+			<biblScope unit="page" from="1245" to="1250" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Metabolic syndrome and development of diabetes mellitus: application and validation of recently suggested definitions of the metabolic syndrome in a prospective cohort study</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Laaksonen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">M</forename><surname>Lakka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">K</forename><surname>Niskanen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">156</biblScope>
+			<biblScope unit="page" from="1070" to="1077" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">The metabolic syndrome as predictor of type 2 diabetes: the San Antonio heart study</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lorenzo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Okoloise</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Stern</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Haffner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="3153" to="3159" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Insulin resistance, the metabolic syndrome, and risk of incident cardiovascular disease in non-diabetic American Indians: the Strong Heart Study</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">E</forename><surname>Resnick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Jones</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Ruotolo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="861" to="867" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J.-J</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Atherosclerosis</title>
+		<imprint>
+			<biblScope unit="volume">192</biblScope>
+			<biblScope unit="page" from="161" to="168" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">The metabolic syndrome and 11-year risk of incident cardiovascular disease in the atherosclerosis risk in communities study</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Mcneill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">D</forename><surname>Rosamond</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Girman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="385" to="390" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">C-reactive protein, the metabolic syndrome, and prediction of cardiovascular events in the Framingham Offspring Study</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Rutter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Meigs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Sullivan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D'agostino</forename><surname>Sr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Wilson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">W</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">110</biblScope>
+			<biblScope unit="page" from="380" to="385" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Carotid atherosclerosis and coronary heart disease in the metabolic syndrome: prospective data from the Bruneck study</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Bonora</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kiechl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Willeit</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="1251" to="1257" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Does the metabolic syndrome improve identification of individuals at risk of type 2 diabetes and/or cardiovascular disease?</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Stern</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Gonzalez-Villalpando</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename><surname>Hunt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Haffner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="2676" to="2681" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Prevalence of diabetes and its risk factors in China, 1994. National Diabetes Prevention and Control Cooperative Group</title>
+		<author>
+			<persName><forename type="first">X</forename><forename type="middle">R</forename><surname>Pan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">Y</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">W</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Liu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="1664" to="1669" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">The metabolic syndrome defined by factor analysis and incident type 2 diabetes in a Chinese population with high post-prandial glucose</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Qiao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Miettinen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lappalainen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Hu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tuomilehto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="2429" to="2437" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">The electrocardiogram in population studies. A classification system</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Blackburn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Keys</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Simonson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Rautaharju</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Punsar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="1160" to="1175" />
+			<date type="published" when="1960">1960</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Impaired glucose tolerance and its relationship to ECG-indicated coronary heart disease and risk factors among Chinese. Da Qing IGT and diabetes study</title>
+		<author>
+			<persName><forename type="first">X</forename><forename type="middle">R</forename><surname>Pan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">H</forename><surname>Hu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">W</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">H</forename><surname>Bennett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Howard</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="150" to="156" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Prevalence of the metabolic syndrome and overweight among adults in China</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Gu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Reynolds</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Wu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">365</biblScope>
+			<biblScope unit="page" from="1398" to="1405" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Prevalence of the metabolic syndrome among US adults: findings from the third National Health and Nutrition Examination Survey</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Ford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">H</forename><surname>Giles</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">H</forename><surname>Dietz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">287</biblScope>
+			<biblScope unit="page" from="356" to="359" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Smoking and diabetes differ in their associations with subclinical atherosclerosis and coronary heart disease-the ARIC Study</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Sharrett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Coady</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Folsom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Couper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Heiss</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Atherosclerosis</title>
+		<imprint>
+			<biblScope unit="volume">172</biblScope>
+			<biblScope unit="page" from="143" to="149" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Prospective association between low and high total and low-density lipoprotein cholesterol and coronary heart disease in elderly men</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Curb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Abbott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">L</forename><surname>Rodriguez</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Geriatr Soc</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="1975" to="1980" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">The metabolic syndrome and incident diabetes: assessment of four suggested definitions of the metabolic syndrome in a Chinese population with high post-prandial glucose</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Hu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Miettinen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tuomilehto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Horm Metab Res</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="708" to="715" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Predictive values of body mass index and waist circumference for risk factors of certain related diseases in Chinese adults-study on optimal cut-off points of body mass index and waist circumference in Chinese adults</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">F</forename><surname>Zhou</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biomed Environ Sci</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="83" to="96" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Prediction of hypertension, diabetes, dyslipidemia or albuminuria using simple anthropometric indexes in Hong Kong Chinese</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">T</forename><surname>Ko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Chan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Cockram</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Woo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Obes Relat Metab Disord</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="1136" to="1142" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Anthropometric predictors of coronary heart disease in Chinese women</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><forename type="middle">O</forename><surname>Shu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">T</forename><surname>Gao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Obes Relat Metab Disord</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="734" to="774" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,842 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">A prospective study of low fasting glucose with cardiovascular disease events and all-cause mortality: The Women&apos;s Health Initiative</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Morgana</forename><surname>Mongraw-Chaffin</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Medicine</orgName>
+								<orgName type="institution">University of California San Diego</orgName>
+								<address>
+									<settlement>San Diego</settlement>
+									<region>CA</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Department of Epidemiology &amp; Prevention</orgName>
+								<orgName type="department" key="dep2">Wake Forest School of Medicine</orgName>
+								<orgName type="institution">Winston-Salem NC</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Andrea</forename><forename type="middle">Z</forename><surname>Lacroix</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Family Medicine and Public Health</orgName>
+								<orgName type="institution">University of California San Diego</orgName>
+								<address>
+									<settlement>San Diego</settlement>
+									<region>CA</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Dorothy</forename><forename type="middle">D</forename><surname>Sears</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Medicine</orgName>
+								<orgName type="institution">University of California San Diego</orgName>
+								<address>
+									<settlement>San Diego</settlement>
+									<region>CA</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Family Medicine and Public Health</orgName>
+								<orgName type="institution">University of California San Diego</orgName>
+								<address>
+									<settlement>San Diego</settlement>
+									<region>CA</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Lorena</forename><surname>Garcia</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Public Health Services</orgName>
+								<orgName type="institution">University of California Davis</orgName>
+								<address>
+									<settlement>Davis</settlement>
+									<region>CA</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Lawrence</forename><forename type="middle">S</forename><surname>Phillips</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department" key="dep1">Division of Endocrinology and Metabolism</orgName>
+								<orgName type="department" key="dep2">Department of Medicine</orgName>
+								<orgName type="institution">Atlanta VA Medical Center</orgName>
+								<address>
+									<settlement>Decatur</settlement>
+									<region>GA</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff5">
+								<orgName type="institution">Emory University School of Medicine</orgName>
+								<address>
+									<settlement>Atlanta</settlement>
+									<region>GA</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Elena</forename><surname>Salmoirago-Blotcher</surname></persName>
+							<affiliation key="aff6">
+								<orgName type="department">Centers for Behavioral and Preventive Medicine at the Warren Alpert Medical School</orgName>
+								<orgName type="institution" key="instit1">The Miriam Hospital</orgName>
+								<orgName type="institution" key="instit2">Brown University</orgName>
+								<address>
+									<settlement>Providence</settlement>
+									<region>RI</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Oleg</forename><surname>Zaslavsky</surname></persName>
+							<affiliation key="aff7">
+								<orgName type="department">School of Nursing</orgName>
+								<orgName type="institution">University of Washington</orgName>
+								<address>
+									<settlement>Seattle</settlement>
+									<region>WA</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Cheryl</forename><forename type="middle">A M</forename><surname>Anderson</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Family Medicine and Public Health</orgName>
+								<orgName type="institution">University of California San Diego</orgName>
+								<address>
+									<settlement>San Diego</settlement>
+									<region>CA</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff8">
+								<orgName type="department" key="dep1">Department of Epidemiology &amp; Prevention</orgName>
+								<orgName type="department" key="dep2">Wake Forest School of Medicine</orgName>
+								<orgName type="department" key="dep3">Medical Center Boulevard</orgName>
+								<address>
+									<addrLine>Winston-Salem</addrLine>
+									<postCode>27157</postCode>
+									<region>NC</region>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">A prospective study of low fasting glucose with cardiovascular disease events and all-cause mortality: The Women&apos;s Health Initiative</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">DAD2F28CF16F56F0990B614054039869</idno>
+					<idno type="DOI">10.1016/j.metabol.2017.02.010</idno>
+					<note type="submission">Received 1 June 2016 Accepted 9 February 2017</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.1" ident="GROBID" when="2022-07-19T23:00+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>Cardiovascular disease</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Background. While there is increasing recognition of the risks associated with hypoglycemia in patients with diabetes, few studies have investigated incident causespecific cardiovascular outcomes with regard to low fasting glucose in the general population.</p><p>Objective. We hypothesized that low fasting glucose would be associated with cardiovascular disease risk and all-cause mortality in postmenopausal women. Methods. To test our hypothesis, we used both continuous incidence rates and Cox proportional hazards models in 17,287 participants from the Women's Health Initiative with fasting glucose measured at baseline. Participants were separated into groups based on fasting glucose level: low (&lt; 80 mg/dL), normal/reference (80-99 mg/dL), impaired (100-125 mg/dL), and diabetic (≥126 mg/dL).</p><p>Results. Participants were free of cardiovascular disease at enrollment, had mean age of 62 years, and were 52% Caucasian, 24% African American, 8% Asian, and 12% Hispanic.</p><p>Median follow-up was 15 years. Graphs of continuous incidence rates compared to fasting glucose distribution exhibited evidence of a weak J-shaped association with heart failure and mortality that was predominantly due to participants with treated diabetes. Impaired and diabetic fasting glucose were positively associated with all outcomes. Associations for low fasting glucose differed, with coronary heart disease (HR = 0.64 (0.42, 0.98)) significantly inverse; stroke (0.73 (0.48, 1.13)), combined cardiovascular disease (0.91 (0.73, 1.14)), and allcause mortality (0.97 (0.79, 1.20)) null or inverse and not significant; and heart failure (1.27 (0.80, 2.02)) positive and not significant.</p><p>Conclusions. Fasting glucose at the upper range, but not the lower range, was significantly associated with incident cardiovascular disease and all-cause mortality.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>1.</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>In spite of the wealth of literature on the health effects of glycemic levels and diabetes, little evidence exists for the health effects of low blood sugar outside of the context of clinical hypoglycemia. It is well-recognized that elevated fasting glucose both in the diabetic range (≥126 mg/dL), as well as in the impaired or "pre-diabetes" range (100-125 mg/dL) confers increased cardiometabolic risk <ref type="bibr" target="#b0">[1]</ref>. At the other end of the spectrum, subclinical hypoglycemia (&lt;80 mg/dL) could also be indicative of metabolic dysregulation. Individuals with fasting glucose below or in the lower range of normal might have difficulty maintaining stable glucose levels, either through dysfunctional counter-regulatory mechanisms or other comorbidities that may increase their risk for cardiovascular diseases and early mortality.</p><p>There is increasing concern about the relationship between low fasting glucose and the combined outcomes of cardiovascular disease (CVD) or all-cause mortality <ref type="bibr" target="#b1">[2]</ref><ref type="bibr" target="#b2">[3]</ref><ref type="bibr" target="#b3">[4]</ref>. This concern is further supported by studies showing a J-shaped relationship for hemoglobin A1c (HbA1c) with cardiovascular disease and mortality <ref type="bibr" target="#b4">[5]</ref><ref type="bibr" target="#b7">[6]</ref><ref type="bibr" target="#b8">[7]</ref>, as well as by evidence from the ACCORD Trial showing specifically that intensive therapy for glycemic control in patients with diabetes is associated with increased mortality <ref type="bibr" target="#b9">[8]</ref>. Despite this concern, only a few studies have investigated incident cardiovascular disease or cause-specific cardiovascular outcomes with regard to low fasting glucose in the general population <ref type="bibr" target="#b1">[2]</ref><ref type="bibr" target="#b2">[3]</ref><ref type="bibr" target="#b3">[4]</ref><ref type="bibr" target="#b10">9,</ref><ref type="bibr" target="#b11">10]</ref>. To our knowledge, there have also been no studies that determined if these more specific relationships differ by race.</p><p>We hypothesized that participants in the Women's Health Initiative (WHI) with low fasting glucose would be at increased risk of incident CVD and all-cause mortality compared to women with fasting glucose in the normal range. Based on prior work by Park et al., the meta-analysis by The Emerging Risk Factors Collaboration, and the results of the ACCORD Trial <ref type="bibr" target="#b2">[3,</ref><ref type="bibr" target="#b3">4,</ref><ref type="bibr" target="#b12">11]</ref>, we further hypothesized that these associations would be stronger in those younger than 70 years compared to older individuals. Similarly, we hypothesized a stronger relationship in those receiving treatment for type 2 diabetes, based on the known hypoglycemic risk of glucose lowering medications and the results of the ACCORD Trial <ref type="bibr" target="#b9">[8]</ref>. Finally, to investigate these relationships in different racial groups, we hypothesized that there would be significant heterogeneity by race.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1.">Study Population</head><p>The Women's Health Initiative cohort includes 161,808 postmenopausal women age 50-79 who enrolled in one or more of the WHI Clinical Trials or the Observational Study between 1993 and 1998 <ref type="bibr" target="#b13">[12]</ref>. This study includes a stratified sample of participants from the WHI that had fasting glucose measured at baseline and were free of CVD at enrollment (n = 17,287). Fasting glucose measurements are available from a stratified random sample of WHI participants from the following WHI components: 8.6% of participants in the hormone trials, 1% of the observational study, and 4.5% of the Diet Modification Trial, as well as 1584 cases of treated type 2 diabetes and 2198 controls from an ancillary case-control study <ref type="bibr" target="#b14">[13]</ref>. Minorities were specifically oversampled to approximate distributions in the general population <ref type="bibr" target="#b15">[14]</ref>. The WHI protocol was approved by institutional review boards at all participating study sites and all participants provided written informed consent.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.">Study Measures</head><p>Fasting serum glucose was measured using the hexokinase method on the Hitachi 747 <ref type="bibr" target="#b16">[15]</ref>. For our primary analysis, we grouped participants according to fasting glucose level into four categories: low glucose (&lt;80 mg/dL), normal glucose (80-99 mg/dL), impaired fasting glucose (100-125 mg/dL), and diabetes (≥126 mg/dL or diabetes diagnosis or diabetes medication use).</p><p>Participants were followed for incident coronary heart disease, stroke, heart failure, and all-cause mortality through September 30, 2014 and these events were adjudicated by local and central physician adjudicators <ref type="bibr" target="#b17">[16]</ref>. For this study, specific CVD events were analyzed separately and as a combined CVD outcome. Some participants were censored because they did not consent to the extension studies <ref type="bibr" target="#b15">[14]</ref>.</p><p>Socioeconomic factors, smoking status, medical history, and physical activity were self-reported at baseline. Other covariates including BMI and blood pressure were measured at baseline using a standardized assessment protocol and cholesterol was assayed from fasting blood. Full documentation on data collection and variable definitions can be found on the WHI website: https://www.whi.org/researchers/data/ Pages/Available%20Data.aspx.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.3.">Statistical Analysis</head><p>We calculated the means and standard deviations of baseline characteristics by glucose category and used non-parametric tests for trend to determine if there were significant differences across the levels of fasting glucose. We investigated the continuous associations of fasting glucose with CVD events and all-cause mortality incidence rates using Poisson regression with linear spline terms and 3 knots at the cut-points for the fasting glucose categories. We calculated Kaplan-Meier survival curves and 95% confidence bands for CVD events and all-cause mortality by fasting glucose categories. We then used Cox proportional hazards models to determine hazard ratios and 95% confidence intervals for CVD events and all-cause mortality by fasting glucose categories using normal glucose as the reference. We included as confounders baseline demographic and socioeconomic factors of age, race, income, and education, as well as clinical CVD risk factors of total cholesterol, blood pressure, smoking, and body mass index (BMI). We also adjusted for diabetes treatment to account for confounding by indication.</p><p>Based on our a priori hypotheses that these associations would be stronger in those younger than 70 and that they would differ by race, we formally tested for differences by age and race. Finally, we performed a number of subgroup analyses to determine whether our results were sensitive to cancer diagnosis, thyroid conditions, diabetes medication use, hormone replacement therapy, smoking status, family history of CVD, and reverse causality (by excluding the first 5 years of follow up). Subgroup analysis by diabetes medication use also accounted for any oversampling of participants with diabetes from the case-control study. All analyses were performed using STATA 11 <ref type="bibr" target="#b18">[17]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Results</head><p>The study population of 17,287 participants had a mean age of 62 years at baseline (range 50 to 79 years) and was 52% Caucasian, 24% African American, 8% Asian, and 12% Hispanic.</p><p>Participants with low fasting glucose at baseline were more likely to be younger, have income over $35,000 a year, have lower BMI, total cholesterol, and blood pressure, and have higher HDL cholesterol (Table <ref type="table" target="#tab_0">1</ref>). They were also more likely to have used hormone therapy (HT) and less likely to have liver disease. Participants with higher baseline fasting glucose had a higher incidence of combined CVD at follow-up, with the possible exception of low fasting glucose and heart failure, and had higher mortality. Participants who self-reported as African American, Hispanic, or Native American were more likely to be in the higher fasting glucose categories, while Caucasian participants were more likely to be in the low fasting glucose category. The mean follow-up was 13.6 years (range: &lt;1 to 19.5 years). Fig. <ref type="figure">1</ref> shows the continuous incidence rates of CVD events and mortality across the fasting glucose distribution. For coronary heart disease and stroke the relationships with fasting glucose appeared monotonic. For heart failure, combined CVD, and all-cause mortality a slight J-shape was visible, although the confidence intervals at the lower range of fasting glucose were very wide (Fig. <ref type="figure">1A</ref>). This J-shape was no longer apparent and the curve in the upper range was attenuated when participants treated with diabetes medications were excluded (Fig. <ref type="figure">1B</ref>). Supplemental Fig. <ref type="figure">1</ref> shows separation of the survival curves for fasting glucose in the normal, impaired, and diabetic ranges across all CVD events and mortality, but overlapping curves and confidence intervals for low and normal fasting glucose. For heart failure only, survival was consistently, but nonsignificantly, lower for fasting glucose in the low category compared to normal.</p><p>Cox proportional survival models revealed a significantly increased risk for all CVD events and all-cause mortality in participants with impaired and high fasting glucose compared to those with fasting glucose in the normal range (Table <ref type="table" target="#tab_1">2</ref>). The hazard ratios remained significant throughout adjustment. Compared to participants with normal glucose levels, low fasting glucose was associated with nonsignificant trends toward reduced risk of coronary heart disease and stroke, but higher heart failure risk. The only significant hazard ratios were for coronary heart disease and these associations were attenuated with adjustment for cholesterol, blood pressure, body mass index, smoking, and diabetes treatment. Relative to normal glucose, low fasting glucose was not associated with combined CVD or all-cause mortality. While estimates for heart failure were higher for low fasting glucose compared to the normal range, these estimates were not significant (Table <ref type="table" target="#tab_1">2</ref>). Inclusion of other CVD risk factors strengthened the estimate for the low fasting glucose group, but adjustment for diabetes treatment strongly attenuated all heart failure estimates, especially for the diabetic category. Failure to see such attenuation in the low or impaired fasting glucose categories may be explained by the higher level of diabetes treatment in the highest fasting glucose category (182 participants compared to 56 in the low category and 28 in the impaired category). Additional adjustment for physical activity produced similar results (data not shown).</p><p>Statistically significant heterogeneity by age (&lt; 70 and ≥ 70 years) was observed for stroke and heart failure, but not coronary heart disease, all-cause CVD, or mortality (Table <ref type="table" target="#tab_2">3</ref>). For stroke, there was a significant inverse association for those &lt; 70 years of age, but a non-significant positive association for those ≥ 70. For heart failure, the subgroup results by age were the reverse of that for stroke. A significant overall difference by race was found only for all-cause mortality (p = 0.044), with higher risk associated with low glucose for those self-reporting as Hispanic/Latino compared to Caucasian. There were no overall differences by race for coronary heart disease, stroke, heart failure, and all CVD (p = 0.44, 0.25, 0.57, and 0.44 respectively). Event numbers in American Indian/Alaskan Native and other groups were too small for analysis. Other subgroup results were similar for all outcomes, except for several significantly different hazard ratios for heart failure (Table <ref type="table" target="#tab_2">3</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Discussion</head><p>In the Women's Health Initiative, impaired fasting glucose and glucose in the diabetic range were associated with increased risk for cardiovascular disease and all-cause mortality. Despite some minor visual evidence of J-shaped relationships between fasting glucose levels and CVD events, there were no significant associations with low fasting glucose. Results for all outcomes except heart failure were robust to multiple subgroup and sensitivity conditions. With the exception of age for heart failure and stroke and race for all-cause mortality, there was little evidence to support our hypotheses about heterogeneity. The contrast of Hispanic participants being more likely to have fasting glucose in the impaired or diabetic ranges compared to Caucasian participants, yet having a higher mortality risk associated with low fasting glucose, requires further consideration.</p><p>While other risk factors that exhibit a J-shaped association for all-cause mortality, such as body mass index, exhibit a much more linear association with cardiovascular risk, the evidence for fasting glucose exhibits a different pattern. A large meta-analysis of prospective observational studies using individual participant data by The Emerging Risk Factors Collaboration found a J-shaped association between fasting glucose and coronary heart disease risk <ref type="bibr" target="#b3">[4]</ref>. Although studies of incident cardiovascular events are rare, several smaller studies have found similar results. Wei et al. found significant associations for low fasting glucose (&lt; 80 mg/dL) with cardiovascular and all-cause mortality in adults aged 25-64 years from the combined Aerobics Center Longitudinal and San Antonio Heart Studies <ref type="bibr" target="#b1">[2]</ref>. Similarly, Tanne et al. found increased risk for incident stroke at both ends of the fasting glucose range in older participants with stable coronary heart disease in Israel <ref type="bibr" target="#b10">[9]</ref>. and Park et al. found similar results for both incident coronary heart disease and stroke in the Korean Cancer Prevention Study among participants without diagnosed diabetes at baseline <ref type="bibr" target="#b2">[3]</ref>. The study by Preiss et al. is an exception in the field, finding no significant increase in cardiovascular risk for either low (by quintiles) or impaired fasting glucose in white men from the West of Scotland Coronary Prevention Study <ref type="bibr" target="#b11">[10]</ref>. <ref type="bibr">Park et al. and</ref> The Emerging Risk Factors Collaboration also found an interaction by age in the relationship between fasting glucose and incident CVD, suggesting a stronger association in younger individuals <ref type="bibr" target="#b2">[3,</ref><ref type="bibr" target="#b3">4]</ref>. Specifically, Park et al. observed a significantly higher CVD risk in under age 55 with low glucose (&lt;70 mg/dL) compared to older women <ref type="bibr" target="#b2">[3]</ref>. Having found no significantly increased risk associated with low fasting glucose, our results are not consistent with the prior literature. Variations in the source population or in analysis, including the adjustment for diabetes and diabetes medication use, may explain these differences. Specifically, the attenuation of the association in the lower glucose range when we excluded participants taking diabetes medication suggests that the increased risk associated with low fasting glucose may be a result of pharmacological treatment of diabetes, consistent with the results of the ACCORD Trial <ref type="bibr" target="#b9">[8]</ref>, and not a marker of risk in the general population. Evidence about the role that sex and age play in these relationships is also lacking.</p><p>Evidence about the health risks of low fasting glucose is sparse, but recent studies offer contradictory evidence on the association between HbA1c in the lower range (below 5.0% or 31 mmol/mol) and risk for all-cause mortality <ref type="bibr" target="#b4">[5]</ref><ref type="bibr" target="#b7">[6]</ref><ref type="bibr" target="#b8">[7]</ref><ref type="bibr" target="#b19">18,</ref><ref type="bibr" target="#b20">19]</ref>. Selvin et al. not only provide evidence for a difference in shape in the all-cause mortality relationship for HbA1c compared to fasting glucose (J-shaped and more linear, respectively) in a non-diabetic population, but also strongly suggest that HbA1c is a better indicator of cardiovascular risk <ref type="bibr" target="#b4">[5]</ref>. While fasting glucose and HbA1c share a similar clinical purpose, the measurements differ in several ways including potentially different determinants for low values <ref type="bibr" target="#b7">[6,</ref><ref type="bibr" target="#b21">20]</ref>, and different distributional association with risk for cardiovascular disease and mortality <ref type="bibr" target="#b4">[5]</ref>. HbA1c is a much more stable indicator of average glucose levels than fasting glucose. As such, a single low fasting glucose measurement in an individual may be accompanied over time by greater variation in glucose levels <ref type="bibr" target="#b22">[21,</ref><ref type="bibr" target="#b23">22]</ref>. While glucose variability is associated with chronic disease complications, including the development of CVD, in diabetic populations <ref type="bibr" target="#b24">[23]</ref>, the evidence is sparse and the association in non-diabetic groups and the general population is mostly unknown <ref type="bibr" target="#b4">[5]</ref>. The cumulative nature of glucose exposure reflected by HbA1c compared to the immediate indication offered by fasting glucose may help explain the discrepancies between studies investigating these glycemic markers. Therefore, the primary limitation of this study is the inability to determine whether our findings would differ if we had been able to assess HbA1c in addition to fasting glucose. Unfortunately, HbA1c levels were not measured in the WHI cohort, so these studies will have to be conducted in other cohorts. Second, as in many other studies, fasting glucose was only measured at a single time point so we could not determine glucose variability and whether such variability was associated with incident CVD and mortality. Third, as the WHI consists only of women, we could not determine whether these relationships differ by sex. Fourth, the significant heterogeneity for heart failure, specifically by age and smoking status, may indicate that the association between low fasting glucose and this outcome varies by subgroup. The explanation for this heterogeneity is unclear. The sensitivity analysis indicates that the relationship may be weaker at older ages, suggesting that by using this postmenopausal population we are missing associations that might be significant in a younger population. Finally, this study shares the limitations common to observational studies, such as residual confounding.</p><p>This study has a number of strengths. The large number of participants with measured fasting glucose and the large number of events provided an opportunity to assess these associations separately for specific CVD event types and to determine whether these relationships were the same for CVD and for all-cause mortality. The WHI also has the benefit of racial diversity, which allows us to determine whether these relationships exhibit heterogeneity by race. The use of WHI also  allows us to help fill the gap in the literature about these associations specifically in postmenopausal women.</p><p>In the WHI cohort, low fasting glucose at baseline was not significantly associated with survival from specific cardiovascular disease events or all-cause mortality, except for an inverse association between low fasting glucose and coronary heart disease. While these results do not support the hypothesis that low fasting glucose is associated with increased risk for CVD and mortality, heterogeneity by age suggests that further investigation of the relationship with heart failure in younger populations is warranted.</p><p>Supplementary data to this article can be found online at http://dx.doi.org/10.1016/j.metabol.2017.02.010.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 -</head><label>1</label><figDesc>Characteristics (mean (SD) of 17,287 adults aged 45-84 in WHI by fasting glucose category.</figDesc><table><row><cell>Characteristic</cell><cell>Low fasting glucose</cell><cell>Normal fasting glucose</cell><cell>Impaired fasting glucose</cell><cell>Diabetes (≥126 mg/dL</cell><cell>p-value</cell></row><row><cell></cell><cell>(&lt;80 mg/dL)</cell><cell>(80 to 99 mg/dL)</cell><cell>(100 to 125 mg/dL)</cell><cell>or medication)</cell><cell>for trend ⁎</cell></row><row><cell>n</cell><cell>942</cell><cell>10,333</cell><cell>3901</cell><cell>2111</cell><cell>-</cell></row><row><cell>Fasting glucose (mg/dL)</cell><cell>75.4 (1.72)</cell><cell>90.2 (0.05)</cell><cell>107.7 (0.11)</cell><cell>158.8 (1.13)</cell><cell>-</cell></row><row><cell>Age (years)</cell><cell>61.8 (0.24)</cell><cell>62.3 (0.07)</cell><cell>62.8 (0.11)</cell><cell>62.9 (0.15)</cell><cell>&lt;0.001</cell></row><row><cell>Race</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>&lt;0.001</cell></row><row><cell>Caucasian</cell><cell>56.9 (1.61)</cell><cell>56.9 (0.49)</cell><cell>48.3 (0.80)</cell><cell>33.3 (1.03)</cell><cell></cell></row><row><cell>African American</cell><cell>24.4 (1.40)</cell><cell>20.3 (0.40)</cell><cell>24.4 (0.69)</cell><cell>39.0 (1.06)</cell><cell></cell></row><row><cell>Hispanic</cell><cell>10.9 (1.02)</cell><cell>11.5 (0.31)</cell><cell>13.4 (0.55)</cell><cell>15.3 (0.78)</cell><cell></cell></row><row><cell>Asian</cell><cell>4.46 (0.67)</cell><cell>7.40 (0.26)</cell><cell>9.54 (0.47)</cell><cell>7.48 (0.57)</cell><cell></cell></row><row><cell>Native American</cell><cell>1.59 (0.41)</cell><cell>2.07 (0.14)</cell><cell>2.33 (0.24)</cell><cell>3.41 (0.40)</cell><cell></cell></row><row><cell cols="2">Education (% ≥ high school) 91.3 (0.92)</cell><cell>92.3 (0.26)</cell><cell>91.7 (0.44)</cell><cell>87.1 (0.73)</cell><cell>&lt;0.001</cell></row><row><cell>Income (% ≥ $35,000)</cell><cell>60.2 (1.62)</cell><cell>56.5 (0.50)</cell><cell>51.6 (0.81)</cell><cell>43.2 (1.09)</cell><cell>&lt;0.001</cell></row><row><cell>Current Smoking (%)</cell><cell>16.0 (1.77)</cell><cell>17.0 (0.55)</cell><cell>18.6 (0.92)</cell><cell>17.7 (1.22)</cell><cell>0.22</cell></row><row><cell>BMI (kg/m 2 )</cell><cell>26.8 (0.18)</cell><cell>28.1 (0.06)</cell><cell>30.7 (0.10)</cell><cell>32.5 (0.14)</cell><cell>&lt;0.001</cell></row><row><cell>Cholesterol (mg/dL)</cell><cell>212.9 (1.17)</cell><cell>218.1 (0.36)</cell><cell>218.2 (0.62)</cell><cell>212.4 (0.92)</cell><cell>&lt;0.001</cell></row><row><cell>LDL (mg/dL)</cell><cell>123.4 (1.11)</cell><cell>128.2 (0.34)</cell><cell>130.9 (0.58)</cell><cell>124.9 (0.85)</cell><cell>0.28</cell></row><row><cell>HDL (mg/dL)</cell><cell>63.5 (0.50)</cell><cell>61.5 (0.15)</cell><cell>55.4 (0.23)</cell><cell>51.7 (0.28)</cell><cell>&lt;0.001</cell></row><row><cell>Systolic BP (mmHg)</cell><cell>124.3 (0.55)</cell><cell>126.8 (0.17)</cell><cell>131.2 (0.28)</cell><cell>134.3 (0.39)</cell><cell>&lt;0.001</cell></row><row><cell>Diastolic BP (mmHg)</cell><cell>75.4 (0.30)</cell><cell>75.7 (0.09)</cell><cell>77.4 (0.15)</cell><cell>76.7 (0.21)</cell><cell>&lt;0.001</cell></row><row><cell>Liver disease (%)</cell><cell>1.80 (0.43)</cell><cell>2.11 (0.14)</cell><cell>2.31 (0.24)</cell><cell>3.32 (0.39)</cell><cell>0.005</cell></row><row><cell>HT use ever (%)</cell><cell>92.8 (2.93)</cell><cell>90.6 (0.85)</cell><cell>75.6 (1.28)</cell><cell>69.4 (1.69)</cell><cell>&lt;0.001</cell></row><row><cell>Throughout follow-up</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>CVD (%)</cell><cell>6.90 (0.83)</cell><cell>9.00 (0.28)</cell><cell>12.20 (0.52)</cell><cell>22.41 (0.91)</cell><cell>&lt;0.001</cell></row><row><cell>CHD (%)</cell><cell>2.76 (0.53)</cell><cell>4.12 (0.20)</cell><cell>5.38 (0.36)</cell><cell>10.04 (0.65)</cell><cell>&lt;0.001</cell></row><row><cell>Stroke (%)</cell><cell>2.34 (0.49)</cell><cell>3.48 (0.18)</cell><cell>4.28 (0.32)</cell><cell>6.87 (0.55)</cell><cell>&lt;0.001</cell></row><row><cell>Heart failure (%)</cell><cell>2.12 (0.47)</cell><cell>1.71 (0.13)</cell><cell>3.02 (0.27)</cell><cell>6.87 (0.55)</cell><cell>&lt;0.001</cell></row><row><cell>Mortality (%)</cell><cell>10.9 (0.31)</cell><cell>11.5 (0.31)</cell><cell>13.6 (0.55)</cell><cell>19.6 (0.86)</cell><cell>&lt;0.001</cell></row></table><note>Abbreviations: BMI (body mass index), BP (blood pressure), CVD (combined cardiovascular disease), CHD (coronary heart disease), HDL (high-density lipoprotein), HT (hormone therapy), LDL (low-density lipoprotein), SD (standard deviation). ⁎ Cuzick non-parametric test for trend.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 -</head><label>2</label><figDesc>Cox proportional hazard ratios and 95% confidence intervals (HR (CI)) for cardiovascular disease and all-cause mortality by fasting glucose category in WHI.</figDesc><table><row><cell>Model</cell><cell cols="2">Fasting glucose categories</cell><cell></cell><cell></cell></row><row><cell></cell><cell>Low</cell><cell>Normal</cell><cell>Impaired</cell><cell>High/Diabetes</cell></row><row><cell></cell><cell>(&lt; 80 mg/dL)</cell><cell>(80-99 mg/dL)</cell><cell>(100-125 mg/dL)</cell><cell>(≥ 126 mg/dL)</cell></row><row><cell>CHD</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Model 1</cell><cell>0.70 (0.47, 1.04)</cell><cell>1.00 (REF)</cell><cell>1.33 (1.13, 1.57)</cell><cell>2.83 (2.40, 3.34)</cell></row><row><cell>Model 2</cell><cell>0.64 (0.42, 0.98)</cell><cell>1.00 (REF)</cell><cell>1.38 (1.17, 1.63)</cell><cell>2.95 (2.49, 3.50)</cell></row><row><cell>Model 3</cell><cell>0.66 (0.43, 1.02)</cell><cell>1.00 (REF)</cell><cell>1.28 (1.07, 1.52)</cell><cell>2.63 (2.20, 3.15)</cell></row><row><cell>Model 4</cell><cell>0.66 (0.43, 1.02)</cell><cell>1.00 (REF)</cell><cell>1.28 (1.07, 2.58)</cell><cell>2.15 (1.53, 3.02)</cell></row><row><cell>Stroke</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Model 1</cell><cell>0.69 (0.45, 1.06)</cell><cell>1.00 (REF)</cell><cell>1.26 (1.05, 1.52)</cell><cell>2.33 (1.92, 2.83)</cell></row><row><cell>Model 2</cell><cell>0.73 (0.48, 1.13)</cell><cell>1.00 (REF)</cell><cell>1.22 (1.01, 1.47)</cell><cell>2.15 (1.76, 2.63)</cell></row><row><cell>Model 3</cell><cell>0.71 (0.45, 1.10)</cell><cell>1.00 (REF)</cell><cell>1.14 (0.94, 1.39)</cell><cell>2.03 (1.64, 2.50)</cell></row><row><cell>Model 4</cell><cell>0.70 (0.45, 1.10)</cell><cell>1.00 (REF)</cell><cell>1.14 (0.94, 1.39)</cell><cell>2.08 (1.58, 2.72)</cell></row><row><cell>Heart failure</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Model 1</cell><cell>1.29 (0.81, 2.05)</cell><cell>1.00 (REF)</cell><cell>1.75 (1.39, 2.21)</cell><cell>4.23 (3.39, 5.27)</cell></row><row><cell>Model 2</cell><cell>1.27 (0.80, 2.02)</cell><cell>1.00 (REF)</cell><cell>1.80 (1.42, 2.67)</cell><cell>4.14 (3.30, 5.21)</cell></row><row><cell>Model 3</cell><cell>1.46 (0.91, 2.32)</cell><cell>1.00 (REF)</cell><cell>1.47 (1.15, 1.88)</cell><cell>2.91 (2.28, 3.73)</cell></row><row><cell>Model 4</cell><cell>1.45 (0.91, 2.31)</cell><cell>1.00 (REF)</cell><cell>1.48 (1.16, 1.89)</cell><cell>1.45 (0.95, 2.17)</cell></row><row><cell>All</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Model 1</cell><cell>0.91 (0.73, 1.13)</cell><cell>1.00 (REF)</cell><cell>1.29 (1.16, 1.43)</cell><cell>2.63 (2.36, 2.94)</cell></row><row><cell>Model 2</cell><cell>0.91 (0.73, 1.14)</cell><cell>1.00 (REF)</cell><cell>1.30 (1.17, 1.45)</cell><cell>2.53 (2.26, 2.83)</cell></row><row><cell>Model 3</cell><cell>0.96 (0.77, 1.20)</cell><cell>1.00 (REF)</cell><cell>1.18 (1.06, 1.32)</cell><cell>2.18 (1.94, 2.46)</cell></row><row><cell>Model 4</cell><cell>0.96 (0.77, 1.20)</cell><cell>1.00 (REF)</cell><cell>1.18 (1.06, 1.32)</cell><cell>1.57 (1.32, 1.87)</cell></row><row><cell>All-cause mortality</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Model 1</cell><cell>1.01 (0.83, 1.23)</cell><cell>1.00 (REF)</cell><cell>1.22 (1.10, 1.35)</cell><cell>2.01 (1.79, 2.24)</cell></row><row><cell>Model 2</cell><cell>0.97 (0.79, 1.20)</cell><cell>1.00 (REF)</cell><cell>1.24 (1.12, 1.37)</cell><cell>2.06 (1.83, 2.31)</cell></row><row><cell>Model 3</cell><cell>1.01 (0.82, 1.24)</cell><cell>1.00 (REF)</cell><cell>1.16 (1.04, 1.29)</cell><cell>1.84 (1.63, 2.08)</cell></row><row><cell>Model 4</cell><cell>1.01 (0.81, 1.24)</cell><cell>1.00 (REF)</cell><cell>1.16 (1.04, 1.29)</cell><cell>1.23 (1.02, 1.48)</cell></row><row><cell cols="5">Model 1: Adjusted for age; model 2: model 1 + race, income, and education; model 3: model 2 + total cholesterol, blood pressure, body mass</cell></row><row><cell>index, smoking.</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="5">Model 4: Model 3 + diabetes treatment (n = 56, 28, and 182 for treatment in low, normal, and impaired categories) Bold indicates statistical</cell></row><row><cell>significance at the p &lt; 0.05 level.</cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table><note>Fig.1-Continuous incidence rates and 95% confidence bands for coronary heart disease, stroke, heart failure, combined cardiovascular disease, and all-cause mortality across the fasting glucose distribution in 17,287 WHI participants for A. All participants and B. Participants not taking medication for diabetes. Vertical gray lines indicate the cut-points for low (&lt;80 mg/dL), normal (80-99 mg/dL), impaired (100-125 mg/dL), and diabetic (≥126 mg/dL) glucose levels.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3 -</head><label>3</label><figDesc>Sensitivity analyses for low fasting glucose (&lt;80 mg/dL) compare to normal glucose (80-99 mg/dL) and cardiovascular disease: hazard ratios and 95% confidence intervals.</figDesc><table><row><cell cols="3">Analytic approach Coronary heart disease Stroke</cell><cell>Heart failure</cell><cell cols="2">All cardiovascular disease All-cause mortality</cell></row><row><cell>Primary analysis ⁎</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell># events</cell><cell>874</cell><cell>694</cell><cell>458</cell><cell>2133</cell><cell>2237</cell></row><row><cell>HR (95% CI)</cell><cell>0.70 (0.47, 1.04)</cell><cell>0.69 (0.45, 1.06)</cell><cell>1.29 (0.81, 2.05)</cell><cell>0.91 (0.73, 1.13)</cell><cell>1.01 (0.83, 1.23)</cell></row><row><cell cols="2">Excluding deaths in the first 5 years of follow up</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell># events</cell><cell>816</cell><cell>671</cell><cell>416</cell><cell>2022</cell><cell>1935</cell></row><row><cell>HR (95% CI)</cell><cell>0.69 (0.46, 1.04)</cell><cell>0.72 (0.47, 1.11)</cell><cell cols="2">1.38 (0.86, 2.19) 0.92 (0.74, 1.15)</cell><cell>1.10 (0.90, 1.36)</cell></row><row><cell>Age &lt; 70 years</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell># events</cell><cell>564</cell><cell>506</cell><cell>279</cell><cell>1498</cell><cell>1416</cell></row><row><cell>HR (95% CI)</cell><cell>0.72 (0.44-1.18)</cell><cell>0.44 (0.23-0.83)</cell><cell cols="2">1.69 (1.00-2.86) 0.87 (0.66-1.13)</cell><cell>1.06 (0.83-1.36)</cell></row><row><cell>Age ≥ 70 years</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell># events</cell><cell>310</cell><cell>188</cell><cell>179</cell><cell>635</cell><cell>821</cell></row><row><cell>HR (95% CI)</cell><cell>0.65 (0.33-1.28)</cell><cell cols="2">1.36 (0.75-2.48) 0.69 (0.25-1.88)</cell><cell>1.01 (0.68-1.48)</cell><cell>0.95 (0.67-1.34)</cell></row><row><cell>Caucasian</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell># events</cell><cell>484</cell><cell>343</cell><cell>283</cell><cell>1122</cell><cell>1409</cell></row><row><cell>HR (95% CI)</cell><cell>0.57 (0.33-1.00)</cell><cell>0.96(0.59-1.56)</cell><cell>1.18 (0.67-2.09)</cell><cell>0.78 (0.57-1.05)</cell><cell>0.85 (0.65-1.10)</cell></row><row><cell>African American</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell># events</cell><cell>236</cell><cell>212</cell><cell>122</cell><cell>619</cell><cell>471</cell></row><row><cell>HR (95% CI)</cell><cell>0.79 (0.40-1.57)</cell><cell>0.27 (0.07-1.09)</cell><cell>1.17 (0.46-2.98)</cell><cell>0.91 (0.60-1.38)</cell><cell>1.24 (0.81-1.89)</cell></row><row><cell>Asian/Pacific Islander</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell># events</cell><cell>49</cell><cell>48</cell><cell>12</cell><cell>113</cell><cell>118</cell></row><row><cell>HR (95% CI)</cell><cell>1.23 (0.17-9.20)</cell><cell>0.90 (0.12-6.66)</cell><cell cols="2">6.25 (0.70-56.14) 1.93 (0.70-5.35)</cell><cell>1.06 (0.33-3.36)</cell></row><row><cell>Hispanic/Latino</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell># events</cell><cell>73</cell><cell>71</cell><cell>34</cell><cell>194</cell><cell>165</cell></row><row><cell>HR (95% CI)</cell><cell>0.41 (0.06-3.06)</cell><cell>0.27 (0.04-1.97)</cell><cell cols="2">1.38 (0.17-11.02) 1.20 (0.62-2.30)</cell><cell>1.69 (0.87-3.30)</cell></row><row><cell cols="2">Not obese (BMI &lt; 30 kg/m 2 )</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell># events</cell><cell>463</cell><cell>253</cell><cell>194</cell><cell>1163</cell><cell>1327</cell></row><row><cell>HR (95% CI)</cell><cell>0.71 (0.44-1.13)</cell><cell>-</cell><cell cols="2">1.55 (0.93-2.59) 0.97 (0.76-1.24)</cell><cell>1.01 (0.81-1.26)</cell></row><row><cell cols="2">Obese (BMI ≥ 30 kg/m 2 )</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell># events</cell><cell>411</cell><cell>441</cell><cell>264</cell><cell>970</cell><cell>910</cell></row><row><cell>HR (95% CI)</cell><cell>0.82 (0.38-1.74)</cell><cell cols="2">0.77 (0.50-1.19) 0.80 (0.25-2.56)</cell><cell>0.78 (0.47-1.31)</cell><cell>1.07 (0.68-1.70)</cell></row><row><cell>Not hyperthyroid</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell># events</cell><cell>94</cell><cell>80</cell><cell>60</cell><cell>267</cell><cell>255</cell></row><row><cell>HR (95% CI)</cell><cell>0.87 (0.27, 2.81)</cell><cell>-</cell><cell>1.24 (0.38, 4.04)</cell><cell>0.74 (0.35, 1.59)</cell><cell>1.02 (0.54, 1.95)</cell></row><row><cell>Hyperthyroid</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell># events</cell><cell>32</cell><cell>21</cell><cell>20</cell><cell>85</cell><cell>56</cell></row><row><cell>HR (95% CI)</cell><cell>1.13 (0.15, 8.69)</cell><cell cols="2">2.10 (0.26, 17.15) 1.20 (0.15, 9.41)</cell><cell>1.58 (0.56, 4.43)</cell><cell>0.64 (0.09, 4.76)</cell></row><row><cell>No cancer</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell># events</cell><cell>817</cell><cell>663</cell><cell>420</cell><cell>2001</cell><cell>2087</cell></row><row><cell>HR (95% CI)</cell><cell>0.72 (0.48, 1.08)</cell><cell>0.73 (0.48, 1.13)</cell><cell cols="2">1.37 (0.86, 2.18) 0.94 (0.95, 1.17)</cell><cell>1.02 (0.82, 1.25)</cell></row><row><cell>Cancer</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell># events</cell><cell>41</cell><cell>27</cell><cell>30</cell><cell>108</cell><cell>105</cell></row><row><cell>HR (95% CI)</cell><cell>0.46 (0.06, 3.15)</cell><cell>-</cell><cell>-</cell><cell>0.67 (0.21, 2.14)</cell><cell>0.71 (0.22, 2.26)</cell></row><row><cell cols="2">No diabetes medication</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell># events</cell><cell>739</cell><cell>619</cell><cell>344</cell><cell>1827</cell><cell>1956</cell></row><row><cell>HR (95% CI)</cell><cell>0.70 (0.47, 1.04)</cell><cell>0.69 (0.45, 1.07)</cell><cell cols="2">1.29 (0.81, 2.05) 0.91 (0.73, 1.13)</cell><cell>1.01 (0.83, 1.24)</cell></row><row><cell cols="2">Diabetes medication use</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell># events</cell><cell>135</cell><cell>68</cell><cell>114</cell><cell>300</cell><cell>274</cell></row><row><cell>HR (95% CI)</cell><cell>-</cell><cell>-</cell><cell></cell><cell>-</cell><cell>-</cell></row><row><cell>No HT</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell># events</cell><cell>414</cell><cell>312</cell><cell>220</cell><cell>933</cell><cell>1026</cell></row><row><cell>HR (95% CI)</cell><cell>0.73 (0.41, 1.31)</cell><cell>0.78 (0.42, 1.44)</cell><cell>0.63 (0.25, 1.54)</cell><cell>0.82 (0.58, 1.17)</cell><cell>0.91 (0.67, 1.23)</cell></row><row><cell>HT use</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell># events</cell><cell>433</cell><cell>359</cell><cell>230</cell><cell>1156</cell><cell>1111</cell></row><row><cell>HR (95% CI)</cell><cell>0.51 (0.27, 0.97)</cell><cell>0.67 (0.36, 1.22)</cell><cell cols="2">2.07 (1.20, 3.58) 0.92 (0.69, 1.24)</cell><cell>1.09 (0.82, 1.44)</cell></row><row><cell>Never smokers</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell># events</cell><cell>453</cell><cell>341</cell><cell>183</cell><cell>1058</cell><cell>991</cell></row><row><cell>HR (95% CI)</cell><cell>0.77 (0.46, 1.30)</cell><cell>0.81 (0.46, 1.42)</cell><cell>0.57 (0.21, 1.55)</cell><cell>0.92 (0.68, 1.25)</cell><cell>0.91 (0.67, 1.25)</cell></row><row><cell>Ever smokers</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell># events</cell><cell>408</cell><cell>348</cell><cell>265</cell><cell>1051</cell><cell>1207</cell></row><row><cell>HR (95% CI)</cell><cell>0.58 (0.31, 1.10)</cell><cell>0.58 (0.30, 1.13)</cell><cell cols="2">1.97 (1.16-3.35) 0.91 (0.66, 1.26)</cell><cell>1.07 (0.82,1.41)</cell></row><row><cell>No family history</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell># events</cell><cell>249</cell><cell>228</cell><cell>127</cell><cell>670</cell><cell>703</cell></row><row><cell>HR (95% CI)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table><note>0.84 (0.45-1.55) 0.55 (0.24-1.25) 0.88 (0.35-2.18) 0.97 (0.67-1.39) 0.93 (0.66-1.33) CVD family history</note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">M E T A B O L I S M C L I N I C A L A N D E X P E R I M E N T A L 7 0 ( 2 0 1 7 ) 1 1 6 -1 2 4</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgements</head><p>The authors would like to acknowledge the study staff and participants of the Health Initiative for their invaluable contributions. A full list of WHI investigators is available here: https:// www.whi.org/researchers/Documents%20%20Write%20a%20Paper/ WHI%20Investigator%20Long%20List.pdf.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>R E F E R E N C E S</head></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Author Contributions</head><p>MMC developed the hypothesis and designed the study. MMC designed the analysis and analyzed the data. All authors interpreted data for the manuscript, wrote and revised the manuscript, approved the final version for publication, and agree to be accountable for all aspects of the work.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Funding Sources</head><p>MMC was supported by T32 training grants National Heart, Lung, and Blood Institute 5T32HL079891-06 and 5T32HL007261-34. The WHI programs is funded by the National Heart, Lung, and Blood Institute, National Institutes of Health, U.S. Department of Health and Human Services through contracts, HHSN268201100046C, HHSN268201100001C, HHSN268201100002C, HHSN268201100003C, HHSN268201100004C.</p><p>LP was supported in part by FDA award RO1FD003527 (L.S.P), VA awards HSR&amp;D IIR 07-138 (L.S.P and I01-CX001025 (L.S.P.), NIH awards R21DK099716 (L.S.P), DK066204 (L.S.P.), U01 DK091958 (L.S.P. U01 DK098246 (L.S.P.), and a Cystic Fibrosis Foundation award PHILLI12A0 (L.S.P). LP is also supported in part by the VA. This work is not intended to reflect the official opinion of the VA or the U.S. government.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Role of the Funding Source</head><p>The sponsors of this work played no role in the study design; data collection; analysis or interpretation of data; in the writing of the report; or in the decision to submit the article for publication.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosures</head><p>Dr. Philips wishes to disclose:</p><p>With regard to potential conflicts of interest, within the past several years, Lawrence Phillips has served on Scientific Advisory Boards for Boehringer Ingelheim and Janssen, and has or had research support from Merck, Amylin, Eli Lilly, Novo Nordisk, Sanofi, PhaseBio, Roche, Abbvie, Vascular Pharmaceuticals, Janssen, Glaxo SmithKline, and the Cystic Fibrosis Foundation. In the past, he was a speaker for Novartis and Merck, but not for the last several years. He is also a cofounder of a company, Diasyst, which aims to develop and commercialize diabetes management software programs.</p><p>The other authors have nothing to disclose.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Standards of medical care in diabetes-2014</title>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="S14" to="80" />
+			<date type="published" when="2014">2014</date>
+			<publisher>American Diabetes Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Low fasting plasma glucose level as a predictor of cardiovascular disease and all-cause mortality</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Wei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">W</forename><surname>Gibbons</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">L</forename><surname>Mitchell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Kampert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Stern</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">N</forename><surname>Blair</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">101</biblScope>
+			<biblScope unit="page" from="2047" to="2052" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Fasting glucose level and the risk of incident atherosclerotic cardiovascular diseases</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Guallar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Linton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D-C</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Jang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">K</forename><surname>Son</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="1988" to="1993" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Diabetes mellitus, fasting blood glucose concentration, and risk of vascular disease: a collaborative meta-analysis of 102 prospective studies</title>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">375</biblScope>
+			<biblScope unit="page" from="2215" to="2222" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note>The Emerging Risk Factors Collaboration</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">E</forename><surname>Selvin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">W</forename><surname>Steffes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Zhu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Matsushita</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Wagenknecht</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Pankow</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Glycated hemoglobin</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Bold for the subgroups indicates a significant difference from primary model results at p &lt; 0.05 level, except for race/ethnicity where the comparator is Caucasian. Paired subgroups are mutually exclusive. For example, the cancer analysis includes only participants with a diagnosis of cancer</title>
+	</analytic>
+	<monogr>
+		<title level="j">Abbreviations: CVD (cardiovascular disease)</title>
+		<imprint>
+			<publisher>HR</publisher>
+		</imprint>
+	</monogr>
+	<note>CI (confidence intervals). hazard ratio), HT (hormone therapy</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Bold indicates significant difference from zero at p &lt; 0.05 level. cardiovascular risk in nondiabetic adults</title>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">362</biblScope>
+			<biblScope unit="page" from="800" to="811" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note>⁎ Primary analysis is from the age adjusted survival model (model 1 in Table 2)</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Low hemoglobin a(1c) in nondiabetic adults: an elevated risk state?</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Aggarwal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Schneider</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Selvin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="2055" to="2060" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Low hemoglobin A1c and risk of all-cause mortality among US adults without diabetes</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Carson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Fox</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">K</forename><surname>Mcguire</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">B</forename><surname>Levitan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Laclaustra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Mann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cardiovasc Qual Outcomes</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="661" to="667" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">The Action to Control Cardiovascular Risk in Diabetes Study Group</title>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">358</biblScope>
+			<biblScope unit="page" from="2545" to="2559" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+	<note>Effects of intensive glucose lowering in type 2 diabetes</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Fasting plasma glucose and risk of incident ischemic stroke or transient ischemic attacks: a prospective cohort study</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Tanne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Koren-Morag</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Goldbourt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stroke</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="2351" to="2355" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Fasting plasma glucose in non-diabetic participants and the risk for incident cardiovascular events, diabetes, and mortality: results from WOSCOPS 15-year follow-up †</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Preiss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Welsh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">M</forename><surname>Murray</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Shepherd</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Packard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Macfarlane</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur Heart J</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="1230" to="1236" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Effects of randomization to intensive glucose control on adverse events, cardiovascular disease, and mortality in older versus younger adults in the ACCORD trial</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Williamson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Gerstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Byington</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">C</forename><surname>Cushman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">N</forename><surname>Ginsberg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="634" to="643" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Design of the Women&apos;s health initiative clinical trial and observational study</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Prentice</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Cummings</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">S</forename><surname>Freedman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Furberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Henderson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Control Clin Trials</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="61" to="109" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Validity of diabetes self-reports in the Women&apos;s Health Initiative: comparison with medication inventories and fasting glucose measurements</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">L</forename><surname>Margolis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Qi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Brzyski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Bonds</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">V</forename><surname>Howard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kempainen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Trials</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="240" to="247" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main">Women&apos;s Health Initiative website</title>
+		<author>
+			<persName><forename type="first">Whi</forename><surname>About</surname></persName>
+		</author>
+		<idno>11.9</idno>
+		<ptr target="https://www.whi.org/about/SitePages/About%20WHI.aspx" />
+		<imprint>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Implementation of the Women&apos;s Health Initiative study design</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">L</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Manson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Wallace</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Lund</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Hall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Davis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">2003</biblScope>
+			<biblScope unit="page" from="S5" to="S17" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Outcomes ascertainment and adjudication methods in the Women&apos;s Health Initiative</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Curb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mctiernan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Heckbert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Kooperberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Stanford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Nevitt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="S122" to="128" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+	<note>Suppl.</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">Stata statistical software release 11</title>
+		<author>
+			<persName><surname>Statacorp</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<biblScope unit="page">StataCorp LP</biblScope>
+			<pubPlace>College Station, TX</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">No evidence of an increased mortality risk associated with low levels of glycated haemoglobin in a non-diabetic UK population</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Pfister</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Sharp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Luben</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">T</forename><surname>Khaw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">J</forename><surname>Wareham</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page" from="2025" to="2032" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Association of hemoglobin A1c with cardiovascular disease and mortality in adults: the European prospective investigation into cancer in Norfolk</title>
+		<author>
+			<persName><forename type="first">K-T</forename><surname>Khaw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Wareham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bingham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Luben</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Welch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Day</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">141</biblScope>
+			<biblScope unit="page" from="413" to="420" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">HbA1c levels in non-diabetic older adults -no Jshaped associations with primary cardiovascular events, cardiovascular and all-cause mortality after adjustment for confounders in a meta-analysis of individual participant data from six cohort studies</title>
+		<author>
+			<persName><forename type="first">Ben</forename><surname>Schöttker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Rathmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Herder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Thorand</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Wilsgaard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Njølstad</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMC Med</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note>Epub ahead of print</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Postchallenge plasma glucose and glycemic spikes are more strongly associated with atherosclerosis than fasting glucose or HbA1c level</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">S</forename><surname>Temelkova-Kurktschiev</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Koehler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Henklel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Leonhardt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Fuecker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hanefeld</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="1830" to="1834" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Real-life glycaemic profiles in non-diabetic individuals with low fasting glucose and normal HbA1c: the A1C-derived average glucose (ADAG) study</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Borg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Kuenen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Carstensen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Zheng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Nathan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Heine</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="1608" to="1611" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Do in the literature indicate that glycaemic variability is a clinical problem? Glycaemic variability and vascular complications of diabetes</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Cavalot</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Obes Metab</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="3" to="8" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>
