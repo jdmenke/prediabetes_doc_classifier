@@ -1,0 +1,1077 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Associations Between Prediabetes, by Three Different Diagnostic Criteria, and Incident CVD Differ in South Asians and Europeans</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Sophie</forename><forename type="middle">V</forename><surname>Eastwood</surname></persName>
+							<email>sophie.eastwood@ucl.ac.uk.</email>
+							<affiliation key="aff0">
+								<orgName type="department">Institute of Cardiovascular Science</orgName>
+								<orgName type="institution">University College London</orgName>
+								<address>
+									<settlement>London</settlement>
+									<country key="GB">U.K</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Therese</forename><surname>Tillin</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Institute of Cardiovascular Science</orgName>
+								<orgName type="institution">University College London</orgName>
+								<address>
+									<settlement>London</settlement>
+									<country key="GB">U.K</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Naveed</forename><surname>Sattar</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Institute of Cardiovascular and Medical Sci-ences</orgName>
+								<orgName type="institution">University of Glasgow</orgName>
+								<address>
+									<settlement>Glasgow</settlement>
+									<country key="GB">U.K</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Nita</forename><forename type="middle">G</forename><surname>Forouhi</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Medical Research Council Epidemiology Unit</orgName>
+								<orgName type="institution">University of Cambridge</orgName>
+								<address>
+									<settlement>Cambridge</settlement>
+									<country key="GB">U.K</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Alun</forename><forename type="middle">D</forename><surname>Hughes</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Institute of Cardiovascular Science</orgName>
+								<orgName type="institution">University College London</orgName>
+								<address>
+									<settlement>London</settlement>
+									<country key="GB">U.K</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Nish</forename><surname>Chaturvedi</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Institute of Cardiovascular Science</orgName>
+								<orgName type="institution">University College London</orgName>
+								<address>
+									<settlement>London</settlement>
+									<country key="GB">U.K</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Associations Between Prediabetes, by Three Different Diagnostic Criteria, and Incident CVD Differ in South Asians and Europeans</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">6CF9327B93051BF1EC23679B6FC949B1</idno>
+					<idno type="DOI">10.2337/dc15-1078</idno>
+					<note type="submission">Received 21 May 2015 and accepted 21 September 2015.</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.1" ident="GROBID" when="2022-07-19T22:45+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>We examined longitudinal associations between prediabetes and cardiovascular disease (CVD) (coronary heart disease [CHD] and stroke) in Europeans and South Asians.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>In parallel with the global diabetes epidemic, population surveys indicate an escalating prevalence of nondiabetic hyperglycemia (12-29%, depending on definition) <ref type="bibr" target="#b0">(1)</ref>, herein referred to as "prediabetes." Historically, prediabetic states have been defined by either fasting (impaired fasting glycemia <ref type="bibr">[IFG]</ref>) or postchallenge (impaired glucose tolerance [IGT]) glycemia <ref type="bibr" target="#b2">(2)</ref>, though recently HbA 1c -based definitions of prediabetes have been advocated <ref type="bibr">(3,</ref><ref type="bibr" target="#b3">4)</ref>. Controversy exists regarding the role of prediabetes in cardiovascular disease (CVD) risk, particularly concerning whether proactive identification and management are warranted <ref type="bibr" target="#b4">(5)</ref>.</p><p>Large prospective studies indicate that glycemia (by glucose or HbA 1c ) below the diabetic threshold is weakly related to CVD risk <ref type="bibr" target="#b5">(6)</ref><ref type="bibr" target="#b6">(7)</ref><ref type="bibr" target="#b7">(8)</ref>, and a recent Mendelian randomization study hinted at a limited causal role for dysglycemia in coronary heart disease (CHD) <ref type="bibr" target="#b8">(9)</ref>. However, studies examining the CVD consequences of prediabetes by specific diagnostic criteria are limited to European origin populations or focus on risk factors or mortality rather than clinical disease <ref type="bibr" target="#b9">(10)</ref><ref type="bibr" target="#b10">(11)</ref><ref type="bibr" target="#b11">(12)</ref><ref type="bibr" target="#b12">(13)</ref><ref type="bibr" target="#b13">(14)</ref>. Host and migrant South Asian populations have a markedly greater prevalence of overt diabetes <ref type="bibr" target="#b14">(15)</ref> and higher CVD rates than populations of European descent <ref type="bibr" target="#b15">(16)</ref>; yet, associations between prediabetes and CVD have not been compared in these ethnic groups. Relatively more prediabetes is identified by HbA 1c than IFG/IGT criteria in people of South Asian origin, whereas prevalence is similar by either criterion in European origin populations <ref type="bibr" target="#b16">(17)</ref>. Therefore, it has been suggested that the HbA 1c definition of prediabetes may be a less discerning indicator of CVD risk in South Asians <ref type="bibr" target="#b17">(18)</ref>. However, our previous work suggests that diabetes is more strongly related to CVD risk in South Asians than Europeans <ref type="bibr" target="#b15">(16,</ref><ref type="bibr" target="#b18">19)</ref>; whether similar ethnic differences exist for prediabetes remains unstudied.</p><p>With use of data from a communitybased cohort study, our objectives were as follows: 1) to examine longitudinal associations between prediabetes and CVD in U.K. Europeans and South Asians, 2) to describe ethnic differences in these associations, and 3) to explore potential reasons for any ethnic differences.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESEARCH DESIGN AND METHODS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study Participants and Design</head><p>The Southall And Brent REvisited (SABRE) study is a community-based multiethnic cohort study of cardiometabolic disease; details have previously been published (20). Participants aged 40-69 years at baseline <ref type="bibr">(1988)</ref><ref type="bibr">(1989)</ref><ref type="bibr">(1990)</ref><ref type="bibr">(1991)</ref>; n = 4,857, 2,346 European, 1,710 South Asian, and 801 African Caribbean) were randomly selected from primary care physician lists and workplaces in northwest London. South Asian participants were first-generation migrants originating from the Indian subcontinent, approximately half of whom (52%) were of Punjabi Sikh origin. A male preponderance in the data exists, as the baseline study was initially designed to examine cardiometabolic disease in men. Participants were followed for death, hospitalization, and primary care consultations from baseline to 2011. All participants gave written informed consent. Approval for the baseline study was obtained from Ealing, Hounslow and Spelthorne, Parkside, and University College London research ethics committees and at follow-up from St Mary's Hospital Local Research Ethics Committee (reference no. 07/ HO712/109).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Baseline Measurements</head><p>Participants underwent blood tests and blood pressure and anthropometric measurement and provided data on smoking, physical activity, and occupation using previously validated questionnaires <ref type="bibr" target="#b19">(21)</ref>. Fasting lipids, glucose, and HbA 1c were measured as previously described <ref type="bibr">(20,</ref><ref type="bibr" target="#b20">22)</ref>. HbA 1c was measured (at baseline and follow-up) using an immunoassay on a clinically automated analyzer (c311; Roche, Burgess Hill, U.K.); the high and low quality-control coefficients of variation were 2.9 and 3.3%, respectively. Those whose diabetes status was unknown underwent oral glucose tolerance testing (OGTT). We used three classification systems to define glycemic status for participants without existing diabetes. Firstly, World Health Organization 1999 criteria were used to define prediabetes (either IFG [fasting glucose $6.1 mmol/L and ,7.0 mmol/L] or IGT [2-h OGTT plasma glucose $7.8 mmol/L and ,11.1 mmol/L]) and new diabetes (fasting glucose $7.0 mmol/L or 2-h OGTT plasma glucose $11.1 mmol/L) <ref type="bibr" target="#b2">(2)</ref>. Secondly, glycemic categories according to the International Expert Committee (IEC) 2009 criteria (3) were based on the following HbA 1c cut points: prediabetes, HbA 1c $6.0% (42 mmol/mol) but ,6.5% (48 mmol/mol), and new diabetes, HbA 1c $6.5% (48 mmol/mol). We also studied glycemia according to the American Diabetes Association (ADA) 2014 recommendations (4), which advocate HbA 1c cut points of $5.7% (39 mmol/mol) but ,6.5% for prediabetes and $6.5% (as for IEC criteria) for new diabetes.</p><p>Smoking status was dichotomized as ever/never smoked. Weekly frequency of fruit and vegetable consumption was assessed by food-frequency questionnaire. Questions on physical activity provided a summary estimate of weekly energy expenditure in daily activities, walking, and sport <ref type="bibr" target="#b21">(23)</ref>. Height was measured barefoot with a stadiometer, weight with calibrated weighing scales, waist circumference halfway between the costal margin and the iliac crest, and hip circumference at the greater trochanter. Seated resting brachial blood pressure was measured using a random zero sphygmomanometer (Hawksley, London, U.K.); the mean of two measurements was used in analyses.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Follow-up Measurements</head><p>Between 2008 and 2011, survivors were invited for examination at St Mary's Hospital, London. Incident CHD was defined firstly from primary care record review adjudicated by two clinicians: diagnosis was based on symptoms, cardiac enzymes, electrocardiography findings, exercise test findings, and coronary revascularization procedures as per Anglo-Scandinavian Cardiac Outcomes Trial (ASCOT) criteria <ref type="bibr" target="#b22">(24)</ref>. Secondly, CHD was identified from Hospital Episode Statistics (HES) (ICD-9 410-415 and ICD-10 I200-I259) and data from the Office of Populations and Surveys classification of interventions and procedures (pertaining to coronary revascularization interventions or rehabilitation for ischemic heart disease, codes K401-469, K491-504, K751-759, and U541). For stroke, primary care data were reviewed in a similar manner to CHD, with diagnoses made again according to ASCOT criteria, based on symptoms, duration of symptoms, and MRI/computer tomographic imaging <ref type="bibr" target="#b22">(24)</ref>. Stroke was also ascertained from participant report of physician-diagnosed stroke with duration of symptoms $24 h and from HES (ICD-9 430-439 and ICD-10 I600-698). New cases of diabetes since baseline were identified from record review, questionnaire, and clinic blood resultsdusing 1) fasting and post-OGTT load glucose results according to World Health Organization 1999 criteria or 2) HbA 1c $6.5%dor death certificate data (ICD-9 2500-2509 and ICD-10 E100-149).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical Analysis</head><p>Baseline characteristics were compared by follow-up status and ethnicity. Logistic and linear regression methods determined age-and sex-adjusted differences. Using age-and sex-adjusted Cox models, we compared rates of incident CHD, stroke, and CVD (CHD plus stroke) by ethnicity and studied numbers of events by glycemic categories and ethnicity. Age-and sex-adjusted associations between prediabetes (defined in three ways, as above) or new/known diabetes and CHD, stroke, and CVD were examined in each ethnic group (model 1). We then further adjusted these models for potential a priorispecified confounders, comprising CVD risk factors (smoking, total-to-HDL cholesterol ratio, waist-to-hip ratio, systolic blood pressure, and antihypertensive treatment) (model 2) and sociodemographic and lifestyle risk factors (smoking, manual occupation, physical activity, and fruit and vegetable intake) (model 3). Interactions between prediabetes or diabetes and ethnicity were sought in all models. Informative censoring may have occurred owing to death from non-CVD causes; we addressed this by using competing risks regression (competing risk = death from non-CVD cause), based on Fine and Gray <ref type="bibr" target="#b23">(25)</ref> proportional subhazards methods. Additionally, we examined Nelson-Aalen cumulative hazard plots of CVD by glycemic categories to check for violations of the proportional hazards assumption; none were found.</p><p>Findings were further explored by comparing prevalence of CVD risk factors, medication use, and resultant risk factor control by glycemic status for each ethnic group at baseline and at follow-up to establish whether disparities in these factors may have contributed to ethnic differences in prediabetes/CVD associations. Since these comparisons suggested ethnic differences in lipid and blood pressure control by glycemic status, we sought interactions between lipids and prediabetes in models of CHD and blood pressure and prediabetes in models of stroke. We compared rates of conversion from prediabetes to overt diabetes by prediabetes criterion and ethnicity and sought to test whether greater conversion, and thus exposure to the hyperglycemia of diabetes, could account for ethnic differences observed in the association between prediabetes and CVD outcomes.</p><p>Sensitivity analyses were conducted by 1) adjusting models for subsequent diabetes development as a time-varying covariate <ref type="bibr" target="#b24">(26)</ref>, 2) excluding events within the first 5 years of follow-up and 3) including people with baseline CVD (adjusting for baseline CVD).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head><p>We report findings from a subset of 1,336 Europeans and 1,139 South Asians without prevalent CHD or stroke at baseline either with a full set of baseline HbA 1c plus fasting and postload glucose measurements or with known diabetes, and who had follow-up data for CHD and stroke (Fig. <ref type="figure" target="#fig_0">1</ref>). African Caribbeans were excluded due to small numbers. There were no consistent differences between participants for whom we did and did not have the full set of blood samples.</p><p>Overt diabetes was more prevalent and cardiometabolic risk factors were generally more adverse in South Asians than Europeans (Table <ref type="table" target="#tab_0">1</ref>). South Asians had a higher prevalence of HbA 1cdefined prediabetes than Europeans, though prevalence was similar when IFG/IGT criteria were used. For both ethnic groups, the prevalence of prediabetes was over twofold higher when defined by ADA HbA 1c thresholds as opposed to IEC HbA 1c thresholds or IFG/IGT.</p><p>Prediabetes was associated with an increased risk of CHD in Europeans but not South Asians (Table <ref type="table" target="#tab_1">2</ref>). Associations were strongest for IEC HbA 1c -defined prediabetes. This association persisted after adjustment for CVD risk factors and for sociodemographic and lifestyle factors (Table <ref type="table" target="#tab_2">3</ref>). Conversely, in South Asians, no measure of prediabetes was associated with CHD risk. This ethnic difference in association between prediabetes and CHD was significant as an interaction (P = 0.008 in the cardiovascular risk factor-adjusted model). Of note, diabetes was similarly related to CHD in each ethnic group regardless of diagnostic criteria.</p><p>In contrast, no prediabetes measure was associated with stroke risk in Europeans, whereas for South Asians, all three measures were associated in age-and sex-adjusted models (Table <ref type="table" target="#tab_2">3</ref>). After adjustment for CVD risk factors, only the IEC HbA 1c -defined prediabetes association retained significance, though associations for the other prediabetes measures remained of large magnitude. There was some evidence that this measure was more associated with stroke risk in South Asians than Europeans (ethnicity interaction P = 0.11 in the cardiovascular risk factor-adjusted model). Corresponding with ethnic differences in prediabetes associations, overt diabetes also appeared to be more strongly associated with stroke risk in South Asians than Europeans, though again this was not significant as an interaction (P = 0.18).</p><p>Findings for CVD reflected those for CHD, with strong associations for prediabetes observed in Europeans but not South Asians, particularly for the IEC HbA 1c criterion (P = 0.04 for ethnicity by prediabetes interaction). An important potential explanation for the ethnic differences observed in the association between prediabetes and CVD outcomes is control of key CVD risk factors. At follow-up, a lower percentage of Europeans than South Asians with baseline prediabetes on lipid-lowering medication had a total cholesterol ,5.0 mmol/L (55% vs. 92%, P = 0.004 for IEC-defined prediabetes) or an LDL cholesterol of ,3.0 mmol/L (66% vs. 91%, P = 0.03). Rates of lipid-lowering medication use were generally higher in South Asians than Europeans with baseline prediabetes (75% vs. 58%, 68% vs. 73%, and 69% vs. 57% for IFG/IGT, IEC-defined prediabetes, and ADA-defined prediabetes, respectively) (Table <ref type="table" target="#tab_1">2</ref> and Supplementary Data). Adjusting for baseline lipids alone did not explain ethnic differences, and there were no interactions between prediabetes and lipid measures on these outcomes.</p><p>Baseline diastolic, but not systolic, pressure was higher in South Asians than Europeans. But in addition, blood pressure control (defined as ,140/90 mmHg for those on antihypertensives) was generally worse in South Asians than Europeans with prediabetes, both at baseline and at follow-up (Tables <ref type="table" target="#tab_1">1  and 2</ref> and Supplementary Data). Further, both mean diastolic and mean systolic pressures were higher in South Asians than Europeans in those on treatment. No other baseline CVD risk factor appeared to be consistently worse in the prediabetic state in one ethnicity than the other (Table <ref type="table" target="#tab_0">1</ref> and Supplementary Data). Ethnic differences in associations between prediabetes and stroke remained when adjusted for baseline blood pressure and use of antihypertensive medication, and again there were no statistically significant prediabetes 3 blood pressure (systolic or diastolic) interactions in either ethnic group.</p><p>For participants with prediabetes at baseline, rates of conversion to overt diabetes were higher in South Asians than Europeans: 68% vs. 40%, P , 0.001, for IFG/IGT; 52% vs. 30%, P = 0.006, for IECdefined prediabetes; and 44% vs. 23%, P , 0.001, for ADA-defined prediabetes.</p><p>Sensitivity analyses adjusting for diabetes development as a time-varying covariate, excluding events within the first 5 years of follow-up and including people with baseline CVD (and adjusting for it), did not alter the main results (data not shown).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CONCLUSIONS</head><p>We show marked ethnic differences in associations between prediabetes and CVD. Prediabetes was related to both CHD and CVD risk in Europeans but not South Asians. Strongest associations were observed for IEC rather than for ADA and OGTT criteria. In contrast, only South Asians demonstrated an association between prediabetes and stroke. Associations persisted on multivariate adjustment and on accounting for differential rates of incident diabetes diagnosis. Ethnic differences in baseline and follow-up CVD risk factor control may account for our findings (lipids for CHD in Europeans and blood pressure for stroke in South Asians).</p><p>The greater prevalence of prediabetes when defined by HbA 1c as opposed to glucose-based criteria in South Asians, not observed in Europeans, corresponds with previous findings <ref type="bibr" target="#b16">(17)</ref>. However, we do not corroborate suggestions that classifying a higher number of South Asians as having prediabetes when HbA 1c criteria are used results in a less discriminative indicator of CVD risk <ref type="bibr" target="#b17">(18)</ref>, since for CHD, prediabetes by any criterion appeared unrelated in South Asians, and for stroke, prediabetes by all criteria was associated.</p><p>For Europeans, modest associations between prediabetes and CHD correspond with previous findings (6,7). Associations between prediabetes by IEC HbA 1c criteria and CHD were stronger than those for glucose, reflecting either greater reproducibility of HbA 1c <ref type="bibr" target="#b25">(27)</ref>, or better capture of fed-state glycemic status, which may more closely associate with CHD <ref type="bibr" target="#b9">(10)</ref>. There are no comparable prospective data for South Asians. The INTERHEART case-control study reported a greater risk of myocardial infarction in the highest versus lowest quintile of HbA 1c in Western Europeans but not South Asians <ref type="bibr" target="#b26">(28)</ref>, the latter corroborated by cross-sectional data <ref type="bibr" target="#b27">(29)</ref>.</p><p>Elevated lipids are key determinants of CHD risk <ref type="bibr" target="#b28">(30)</ref>. Total and LDL cholesterol in those on lipid-lowering medication at follow-up were higher in Europeans than South Asians with prediabetes in SABRE, reflecting findings in people with diabetes <ref type="bibr" target="#b29">(31)</ref>. Poor lipid control in Europeans with prediabetes may have contributed to excess CHD risks compared with normoglycemic individuals (and conversely, better control in South Asians may account for the lack of excess CHD in prediabetes). Conversion rates from prediabetes to overt diabetes were higher in South Asians than Europeans, occurring at an earlier age <ref type="bibr" target="#b24">(26)</ref>. This may have resulted in more aggressive and long-standing management. Another possibility is that South Asians respond better to lipid lowering though this appears unlikely <ref type="bibr" target="#b31">(33)</ref>.</p><p>No associations were found between prediabetes and stroke for Europeans, whereas strong associations were seen in South Asians for all three criteria. Previous studies of Europeans report weak associations between fasting glucose, postload glucose, HbA 1c , and stroke <ref type="bibr" target="#b5">(6,</ref><ref type="bibr" target="#b6">7)</ref>. Stroke numbers were modest in SABRE and may reflect better blood pressure control than historical cohorts.</p><p>However, blood pressure control in those with prediabetes on antihypertensives was worse in South Asians than Europeans at both baseline and follow-up, suggesting suboptimal management of this key stroke risk factor <ref type="bibr" target="#b33">(34)</ref>. This may account for the positive association between prediabetes and stroke in South Asians, again related to higher diabetes conversion rates, since blood pressure appears harder to control in South Asians than Europeans with diabetes <ref type="bibr" target="#b34">(35,</ref><ref type="bibr" target="#b35">36)</ref>.</p><p>In addition to its use indicating likely progression to overt diabetes, prediabetes incorporation into CVD risk scoring systems <ref type="bibr" target="#b13">(14)</ref>, or its use as a treatment target per se, has been proposed (3,4). However, the amalgamation of CHD and stroke risk may result in undertreatment of stroke risk in South Asians. Furthermore, our findings indicate that prediabetes is linked to overall CVD risk in Europeans only and only for HbA 1cdefined prediabetes, which suggests questioning the adoption of prediabetes as a trigger for population-level primary prevention.</p><p>Mechanistically, these findings suggest that glycemia may be more related to microvascular (stroke) than macrovascular (CHD) disease in South Asians than Europeans. We have described greater levels of retinal rarefaction <ref type="bibr" target="#b36">(37)</ref>, poorer microvascular responses to ischemia <ref type="bibr" target="#b37">(38)</ref>, and more adverse cerebral circulatory autoregulation <ref type="bibr" target="#b38">(39)</ref>, and others report greater cerebral microvascular disease <ref type="bibr" target="#b39">(40)</ref> in South Asians than Europeans, with evidence that the latter two findings were mediated by hyperglycemia. Furthermore, we have shown that the South Asian excess of stroke is largely explained by diabetes, commensurate with the current study's results regarding prediabetes <ref type="bibr" target="#b15">(16)</ref>. However, it is unclear why nondiabetic glycemia is not so obviously related to CHD in South Asians <ref type="bibr" target="#b26">(28,</ref><ref type="bibr" target="#b27">29)</ref>. This study is novel in comparing associations between prediabetes and CVD in South Asians and Europeans. Strengths include the use of three different diagnostic criteria for prediabetes. HbA 1c was not available on all participants at baseline and, as with any cohort study, loss to follow-up may have introduced bias. However, 88% of Europeans and 90% of South Asians were followed up, and analyses comparing 1) those with and without a full set of baseline bloods and 2) responders and nonresponders did not detect bias. Bias may have arisen from exposure misclassification, especially given the high variability of glucose measurements <ref type="bibr" target="#b25">(27)</ref>, though this is less likely for HbA 1c . While the study was well powered for CHD and CVD analyses, the relatively small number of strokes made interpretation of associations more difficult, though internal validity was demonstrated, since associations between all prediabetes measures and stroke were similar. Confounders such as use of and response to antihypertensive and lipidlowering medication will have varied over time. We attempted to address this by examination of follow-up clinic data. Finally, the South Asians in our study were of Indian origin and may not necessarily apply to other South Asian subgroups.</p><p>In summary, we show relations between prediabetes and CVD outcomes </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 -</head><label>1</label><figDesc>Figure 1-Follow-up of the SABRE cohort: 1988-2011. FPG, fasting plasma glucose; PLG, postload glucose.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 -</head><label>1</label><figDesc>Baseline characteristics of participants in the SABRE study by ethnicity</figDesc><table><row><cell>Europeans</cell><cell>South Asians</cell><cell>P*</cell></row></table><note>Data are median (interquartile range), n (%), or mean 6 SD. *Age-and sex-adjusted P for ethnic difference. †Includes preexisting and newly diagnosed diabetes by relevant criteria.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 -</head><label>2</label><figDesc>Distribution of incident CVD by glycemic status and ethnicity in the SABRE studyData are number of events/number of participants (%). *P for age-and sex-adjusted ethnic difference in prediabetes vs. normoglycemia. †P for ageand sex-adjusted ethnic difference in diabetes vs. normoglycemia.</figDesc><table><row><cell></cell><cell></cell><cell>Europeans</cell><cell></cell><cell></cell><cell cols="2">South Asians</cell><cell></cell><cell></cell></row><row><cell>Glycemia</cell><cell></cell><cell></cell><cell>New or known</cell><cell></cell><cell></cell><cell></cell><cell>New or known</cell><cell></cell></row><row><cell>measure</cell><cell>Normoglycemia</cell><cell>Prediabetes</cell><cell>diabetes</cell><cell>Normoglycemia</cell><cell>Prediabetes</cell><cell>P*</cell><cell>diabetes</cell><cell>P †</cell></row><row><cell>CHD</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>IFG/IGT</cell><cell>276/1,125 (25)</cell><cell>39/128 (30)</cell><cell>37/83 (45)</cell><cell>253/758 (33)</cell><cell>47/135 (35)</cell><cell>0.50</cell><cell>137/246 (56)</cell><cell>0.83</cell></row><row><cell>HbA 1c (IEC)</cell><cell>275/1,170 (24)</cell><cell>42/92 (46)</cell><cell>35/74 (47)</cell><cell>230/691 (33)</cell><cell>60/174 (34)</cell><cell>0.004</cell><cell>147/274 (54)</cell><cell>0.33</cell></row><row><cell>HbA 1c (ADA)</cell><cell>207/903 (23)</cell><cell>110/359 (31)</cell><cell>35/74 (47)</cell><cell>137/434 (32)</cell><cell>153/431 (35)</cell><cell>0.26</cell><cell>147/274(54)</cell><cell>0.38</cell></row><row><cell>Stroke</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>IFG/IGT</cell><cell>85/1,125 (8)</cell><cell>12/128 (9)</cell><cell>11/83 (13)</cell><cell>53/758 (7)</cell><cell>17/135 (13)</cell><cell>0.15</cell><cell>46/246 (19)</cell><cell>0.12</cell></row><row><cell>HbA 1c (IEC)</cell><cell>90/1,170 (8)</cell><cell>8/92 (9)</cell><cell>10/74 (14)</cell><cell>47/691 (7)</cell><cell>20/174 (11)</cell><cell>0.13</cell><cell>49/274 (18)</cell><cell>0.22</cell></row><row><cell>HbA 1c (ADA)</cell><cell>68/903 (8)</cell><cell>30/359 (8)</cell><cell>10/74 (14)</cell><cell>25/434 (6)</cell><cell>42/431 (10)</cell><cell>0.10</cell><cell>49/274 (18)</cell><cell>0.13</cell></row><row><cell>CVD</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>IFG/IGT</cell><cell>334/1,125 (30)</cell><cell>47/128 (37)</cell><cell>42/83 (51)</cell><cell>275/758 (36)</cell><cell>55/135 (41)</cell><cell>0.84</cell><cell>148/246 (60)</cell><cell>0.98</cell></row><row><cell>HbA 1c (IEC)</cell><cell>339/1,170 (29)</cell><cell>47/92 (51)</cell><cell>39/74 (53)</cell><cell>252/691 (36)</cell><cell>69/174 (40)</cell><cell>0.02</cell><cell>161/274 (59)</cell><cell>0.58</cell></row><row><cell>HbA 1c (ADA)</cell><cell>253/903 (28)</cell><cell>133/359 (37)</cell><cell>39/74 (53)</cell><cell>146/434 (34)</cell><cell>175/431 (41)</cell><cell>0.65</cell><cell>161/274 (59)</cell><cell>0.76</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3 -</head><label>3</label><figDesc>Competing risks regression models of incident CVD by glycemic status and ethnicity: the SABRE study Data are subhazard ratios (95% CI). Model 1: age, sex. Model 2: age, sex, smoking, total-to-HDL cholesterol ratio, waist-to-hip ratio, systolic blood pressure, antihypertensive treatment. Model 3: age, sex, smoking, manual occupation, physical activity, and fruit and vegetable intake. *P , 0.05, †P , 0.01, ‡P , 0.001. P for ethnic difference: §prediabetes vs. normoglycemia, |diabetes vs. normoglycemia.varied by prediabetes diagnostic criterion, type of CVD, and ethnicity. Despite calls for prediabetes to be proactively identified and treated (3,4), we found that only prediabetes by IEC criteria (HbA 1c 6.0-6.5% [42-48 mmol/mol]) in Europeans was linked with overall CVD risk. For South Asians, who experience greater prediabetes, greater rates of conversion to diabetes, and greater risks of CVD than Europeans, prediabetes was only clearly associated with stroke. These results need substantiating, with further exploration of contributory mechanisms and evaluation of screening and interventions in prediabetes, especially in South Asian groups.</figDesc><table><row><cell></cell><cell></cell><cell>Europeans</cell><cell></cell><cell></cell><cell cols="2">South Asians</cell><cell></cell><cell></cell></row><row><cell>Glycemia</cell><cell>Normo-</cell><cell></cell><cell>New or</cell><cell>Normo-</cell><cell></cell><cell></cell><cell>New or</cell><cell></cell></row><row><cell>measure</cell><cell>glycemia</cell><cell>Prediabetes</cell><cell>known diabetes</cell><cell>glycemia</cell><cell>Prediabetes</cell><cell>P §</cell><cell>known diabetes</cell><cell>P|</cell></row><row><cell>CHD</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>IFG/IGT</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Model 1</cell><cell>1</cell><cell>1.19 (0.85, 1.69)</cell><cell>1.82 (1.28, 2.59) †</cell><cell>1</cell><cell>1.06 (0.77, 1.44)</cell><cell>0.50</cell><cell>1.86 (1.50, 2.30) ‡</cell><cell>0.83</cell></row><row><cell>Model 2</cell><cell>1</cell><cell>1.03 (0.72, 1.47)</cell><cell>1.21 (0.81, 1.82)</cell><cell>1</cell><cell>0.97 (0.72, 1.32)</cell><cell>0.69</cell><cell>1.60 (1.26, 2.04) ‡</cell><cell>0.66</cell></row><row><cell>Model 3</cell><cell>1</cell><cell>1.22 (0.87, 1.72)</cell><cell>1.80 (1.26, 2.57) †</cell><cell>1</cell><cell>1.06 (0.77, 1.45)</cell><cell>0.50</cell><cell>1.94 (1.56, 2.41) ‡</cell><cell>0.84</cell></row><row><cell>HbA 1c (IEC)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Model 1</cell><cell>1</cell><cell>1.82 (1.30, 2.53) ‡</cell><cell>2.01 (1.39, 2.90) ‡</cell><cell>1</cell><cell>0.99 (0.75, 1.32)</cell><cell>0.004</cell><cell>1.73 (1.40, 2.14) ‡</cell><cell>0.33</cell></row><row><cell>Model 2</cell><cell>1</cell><cell>1.68 (1.19, 2.38) †</cell><cell>1.35 (0.89, 2.03)</cell><cell>1</cell><cell>1.00 (0.75, 1.33)</cell><cell>0.008</cell><cell>1.44 (1.13, 1.83) †</cell><cell>0.67</cell></row><row><cell>Model 3</cell><cell>1</cell><cell>1.80 (1.29, 2.52) †</cell><cell>2.00 (1.38, 2.88) ‡</cell><cell>1</cell><cell>0.99 (0.74, 1.32)</cell><cell>0.004</cell><cell>1.82 (1.46, 2.26) ‡</cell><cell>0.38</cell></row><row><cell>HbA 1c (ADA)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Model 1</cell><cell>1</cell><cell>1.22 (0.97, 1.54)</cell><cell>2.02 (1.39, 2.93) ‡</cell><cell>1</cell><cell>1.07 (0.85, 1.34)</cell><cell>0.26</cell><cell>1.80 (1.41, 2.28) ‡</cell><cell>0.38</cell></row><row><cell>Model 2</cell><cell>1</cell><cell>1.12 (0.88, 1.42)</cell><cell>1.31 (0.86, 1.99)</cell><cell>1</cell><cell>0.98 (0.78, 1.24)</cell><cell>0.25</cell><cell>1.42 (1.09, 1.87) †</cell><cell>0.66</cell></row><row><cell>Model 3</cell><cell>1</cell><cell>1.22 (0.96, 1.54)</cell><cell>1.98 (1.36, 2.89) ‡</cell><cell>1</cell><cell>1.03 (0.81, 1.30)</cell><cell>0.21</cell><cell>1.84 (1.44, 2.34) ‡</cell><cell>0.39</cell></row><row><cell>Stroke</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>IFG/ IGT</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Model 1</cell><cell>1</cell><cell>0.92 (0.51, 1.68)</cell><cell>1.44 (0.80, 2.56)</cell><cell>1</cell><cell>1.75 (1.03, 2.98)*</cell><cell>0.15</cell><cell>2.65 (1.84, 3.93) ‡</cell><cell>0.12</cell></row><row><cell>Model 2</cell><cell>1</cell><cell>0.83 (0.45, 1.56)</cell><cell>1.15 (0.59, 2.27)</cell><cell>1</cell><cell>1.51 (0.86, 2.64)</cell><cell>0.21</cell><cell>2.22 (1.45, 3.40) ‡</cell><cell></cell></row><row><cell>Model 3</cell><cell>1</cell><cell>0.97 (0.53, 1.77)</cell><cell>1.57 (0.88, 2.82)</cell><cell>1</cell><cell>1.60 (0.91, 2.83)</cell><cell></cell><cell>2.64 (1.79, 3.89 ‡</cell><cell>0.17</cell></row><row><cell>HbA 1c (IEC)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Model 1</cell><cell>1</cell><cell>0.91 (0.47, 1.75)</cell><cell>1.55 (0.87, 2.78)</cell><cell>1</cell><cell>1.80 (1.09, 2.97)*</cell><cell>0.13</cell><cell>2.59 (1.69, 3.72) ‡</cell><cell>0.22</cell></row><row><cell>Model 2</cell><cell>1</cell><cell>0.85 (0.44, 1.64)</cell><cell>1.30 (0.67, 2.54)</cell><cell>1</cell><cell>1.73 (1.03, 2.90)*</cell><cell>0.11</cell><cell>2.19 (1.37, 3.25) ‡</cell><cell>0.18</cell></row><row><cell>Model 3</cell><cell>1</cell><cell>0.92 (0.48, 1.76)</cell><cell>1.67 (0.94, 3.00)</cell><cell>1</cell><cell>1.66 (1.00, 2.79)*</cell><cell>0.20</cell><cell>2.50 (1.67, 3.73) ‡</cell><cell>0.33</cell></row><row><cell>HbA 1c (ADA)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Model 1</cell><cell>1</cell><cell>0.97 (0.65, 1.45)</cell><cell>1.56 (0.86, 2.84)</cell><cell>1</cell><cell>1.69 (1.05, 2.72)*</cell><cell>0.10</cell><cell>2.93 (1.83, 4.69) ‡</cell><cell>0.13</cell></row><row><cell>Model 2</cell><cell>1</cell><cell>0.95 (0.63, 1.43)</cell><cell>1.31 (0.66, 2.59)</cell><cell>1</cell><cell>1.60 (0.98, 2.62)</cell><cell>0.12</cell><cell>2.51 (1.52, 4.14) ‡</cell><cell>0.12</cell></row><row><cell>Model 3</cell><cell>1</cell><cell>0.95 (0.64, 1.42)</cell><cell>1.66 (0.92, 3.02)</cell><cell>1</cell><cell>1.64 (0.99, 2.70)</cell><cell>0.13</cell><cell>2.93 (1.81, 4.72) ‡</cell><cell>0.20</cell></row><row><cell>CVD</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>IFG/IGT</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Model 1</cell><cell>1</cell><cell>1.17 (0.86, 1.60)</cell><cell>1.73 (1.24, 2.41) †</cell><cell>1</cell><cell>1.16 (0.87, 1.54)</cell><cell>0.84</cell><cell>1.83 (1.49, 2.25) ‡</cell><cell>0.98</cell></row><row><cell>Model 2</cell><cell>1</cell><cell>1.03 (0.74, 1.42)</cell><cell>1.22 (0.83, 1.79)</cell><cell>1</cell><cell>1.05 (0.79, 1.40)</cell><cell>0.99</cell><cell>1.58 (1.25, 1.98) ‡</cell><cell>0.51</cell></row><row><cell>Model 3</cell><cell>1</cell><cell>1.20 (0.88, 1.64)</cell><cell>1.75 (1.25, 2.45) †</cell><cell>1</cell><cell>1.12 (0.83, 1.51)</cell><cell>0.68</cell><cell>1.91 (1.54, 2.36) ‡</cell><cell>0.94</cell></row><row><cell>HbA 1c (IEC)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Model 1</cell><cell>1</cell><cell>1.61 (1.18, 2.20) †</cell><cell>1.85 (1.30, 2.63) †</cell><cell>1</cell><cell>1.06 (0.81, 1.38)</cell><cell>0.02</cell><cell>1.77 (1.44, 2.17) ‡</cell><cell>0.58</cell></row><row><cell>Model 2</cell><cell>1</cell><cell>1.49 (1.08, 2.07)*</cell><cell>1.31 (0.88, 1.95)</cell><cell>1</cell><cell>1.03 (0.78, 1.36)</cell><cell>0.04</cell><cell>1.45 (1.15, 1.83) †</cell><cell>0.97</cell></row><row><cell>Model 3</cell><cell>1</cell><cell>1.61 (1.17, 2.21) †</cell><cell>1.88 (1.32, 2.67) ‡</cell><cell>1</cell><cell>1.03 (0.78, 1.36)</cell><cell>0.02</cell><cell>1.82 (1.48, 2.25) ‡</cell><cell>0.59</cell></row><row><cell>HbA 1c (ADA)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Model 1</cell><cell>1</cell><cell>1.21 (0.98, 1.49)</cell><cell>1.88 (1.31, 2.68) †</cell><cell>1</cell><cell>1.19 (0.96, 1.48)</cell><cell>0.65</cell><cell>1.90 (1.51, 2.40) ‡</cell><cell>0.76</cell></row><row><cell>Model 2</cell><cell>1</cell><cell>1.12 (0.90, 1.39)</cell><cell>1.30 (0.87, 1.94)</cell><cell>1</cell><cell>1.08 (0.87, 1.36)</cell><cell>0.63</cell><cell>1.51 (1.17, 1.96) †</cell><cell>0.87</cell></row><row><cell>Model 3</cell><cell>1</cell><cell>1.20 (0.97, 1.49)</cell><cell>1.89 (1.32, 2.70) ‡</cell><cell>1</cell><cell>1.12 (0.90, 1.41)</cell><cell>0.48</cell><cell>1.93 (1.52, 2.44) ‡</cell><cell>0.69</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2326">Prediabetes and CVD: Ethnic Differences Diabetes Care Volume 38, December 2015</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">care.diabetesjournals.orgEastwood and Associates 2327</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">Diabetes Care Volume 38, December 2015</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">care.diabetesjournals.orgEastwood and Associates 2329</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2330">Prediabetes and CVD: Ethnic Differences Diabetes Care Volume 38, December 2015</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2332">Prediabetes and CVD: Ethnic Differences Diabetes Care Volume 38, December 2015</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Acknowledgments. The authors thank all members of the SABRE group for contributions to study design, management, data collection, and analyses. Funding. The study was funded at baseline by the U.K. Medical Research Council, Diabetes UK, and the British Heart Foundation and at followup by the Wellcome Trust and British Heart Foundation. The authors also acknowledge the National Institute for Health Research Imperial Biomedical Research Centre for structural support regarding the data collection at Imperial Trust National Health Service Campus.</p><p>The funders played no role in the study design, conduct, or analysis or the decision to submit the manuscript for publication. The SABRE study group is entirely independent from the funding bodies.</p><p>Duality of Interest. No potential conflicts of interest relevant to this article were reported. Author Contributions. All authors contributed to study design and interpretation. S.V.E. performed statistical analyses and wrote the first draft of the manuscript. T.T. was involved in data collection and processing. T.T., N.S., N.G.F., A.D.H., and N.C. read, commented on, and approved the final manuscript. S.V.E. is the guarantor of this work and, as such, had full access to all the data in the study and takes responsibility for the integrity of the data and the accuracy of the data analysis.</p></div>
+			</div>
+
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Trends in prevalence and control of diabetes in the United States</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Selvin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Parrinello</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Sacks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Coresh</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1988">1988-1994 and 1999-2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">160</biblScope>
+			<biblScope unit="page" from="517" to="525" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">WHO/NCD/NCS/99.2) 3. International Expert Committee. International Expert Committee report on the role of the A1C assay in the diagnosis of diabetes</title>
+	</analytic>
+	<monogr>
+		<title level="m">World Health Organization. Definition, Diagnosis and Classification of Diabetes Mellitus and Its Complications</title>
+				<imprint>
+			<date type="published" when="1999">1999. 2009</date>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="1327" to="1334" />
+		</imprint>
+	</monogr>
+	<note type="report_type">Tech. Rep. Ser.</note>
+	<note>Care</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Diagnosis and classification of diabetes mellitus</title>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="S81" to="S90" />
+			<date type="published" when="2014">2014</date>
+			<publisher>American Diabetes Association</publisher>
+		</imprint>
+	</monogr>
+	<note>Suppl. 1</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">The epidemic of prediabetes: the medicine and the politics</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Yudkin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">M</forename><surname>Montori</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMJ</title>
+		<imprint>
+			<biblScope unit="volume">349</biblScope>
+			<biblScope unit="page">4485</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Glycated hemoglobin measurement and prediction of cardiovascular disease</title>
+		<author>
+			<persName><forename type="first">Di</forename><surname>Angelantonio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Gao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Khan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">311</biblScope>
+			<biblScope unit="page" from="1225" to="1233" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+	<note>Emerging Risk Factors Collaboration</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Glycated hemoglobin, diabetes, and cardiovascular risk in nondiabetic adults</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Selvin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">W</forename><surname>Steffes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Zhu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">362</biblScope>
+			<biblScope unit="page" from="800" to="811" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Emerging Risk Factors Collaboration. Diabetes mellitus, fasting blood glucose concentration, and risk of vascular disease: a collaborative meta-analysis of 102 prospective studies</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Sarwar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Gao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Seshasai</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">375</biblScope>
+			<biblScope unit="page" from="2215" to="2222" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Mendelian randomization analysis supports the causal role of dysglycaemia and diabetes in the risk of coronary artery disease</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ross</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Gerstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Eikelboom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Anand</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Yusuf</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Par É G</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur Heart J</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="1454" to="1462" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Hyperglycaemia is associated with all-cause and cardiovascular mortality in the Hoorn population: the Hoorn Study</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>De Vegt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Dekker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">G</forename><surname>Ruhé</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="926" to="931" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Cardiometabolic risk profiles and carotid atherosclerosis in individuals with prediabetes identified by fasting glucose, postchallenge glucose, and hemoglobin A1c criteria</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Marini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Succurro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Castaldo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="1144" to="1149" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">GHb is a better predictor of cardiovascular disease than fasting or postchallenge plasma glucose in women without diabetes. The Rancho Bernardo Study</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Barrett-Connor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Wingard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Shan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Edelstein</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="450" to="456" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Two prospective studies found that elevated 2-hr glucose predicted male mortality independent of fasting glucose and HbA1c</title>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Qiao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Dekker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>De Vegt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="page" from="590" to="596" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Fasting plasma glucose and HbA1c in cardiovascular risk prediction: a sex-specific comparison in individuals without diabetes mellitus</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Schöttker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Müller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Rothenbacher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Brenner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="page" from="92" to="100" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Insulin resistance and truncal obesity as important determinants of the greater incidence of diabetes in Indian Asians and African Caribbeans compared with Europeans: the Southall And Brent REvisited (SABRE) cohort</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Tillin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>Hughes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">F</forename><surname>Godsland</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="383" to="393" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">The relationship between metabolic risk factors and incident cardiovascular disease Europeans, South Asians, and African Caribbeans: SABRE (Southall and Brent Revisited) -a prospective population-based study</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Tillin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>Hughes</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Mayet</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Coll Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="page" from="1777" to="1786" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">The potential impact of using glycated haemoglobin as the preferred diagnostic tool for detecting type 2 diabetes mellitus</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Mostafa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Davies</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Webb</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabet Med</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="762" to="769" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Ethnic differences in glycated haemoglobin between white subjects and those of South Asian origin with normal glucose tolerance</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Likhari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Gama</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Pathol</title>
+		<imprint>
+			<biblScope unit="volume">63</biblScope>
+			<biblScope unit="page" from="278" to="280" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Southall And Brent REvisited: Cohort profile of SABRE, a UK population-based comparison of cardiovascular disease and diabetes in people of European, Indian Asian and African Caribbean origins</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Tillin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>March</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="33" to="42" />
+			<date type="published" when="2012">2014. 2012</date>
+		</imprint>
+	</monogr>
+	<note>Hyperglycemia has a greater impact on left ventricle function in South Asians than in Europeans. Diabetes Care</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">The impact of health behaviours on incident cardiovascular disease in Europeans and South Asians-a prospective analysis in the UK SABRE study</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Eriksen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Tillin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O'</forename><surname>Connor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS One</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">e0117364</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Thigh fat and muscle each contribute to excess cardiometabolic risk in South Asians, independent of visceral adipose tissue</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">V</forename><surname>Eastwood</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Tillin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Wright</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Obesity (Silver Spring)</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="2071" to="2079" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">A short questionnaire for the measurement of habitual physical activity in epidemiological studies</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Baecke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Burema</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Frijters</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Clin Nutr</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="936" to="942" />
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Rationale, design, methods and baseline demography of participants of the Anglo-Scandinavian Cardiac Outcomes Trial. ASCOT investigators</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">S</forename><surname>Sever</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Dahlöf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">R</forename><surname>Poulter</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Hypertens</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="1139" to="1147" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">A proportional hazards model for the subdistribution of a competing risk</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Fine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Gray</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Stat Assoc</title>
+		<imprint>
+			<biblScope unit="volume">94</biblScope>
+			<biblScope unit="page" from="496" to="509" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Ethnic disparities in the association of impaired fasting glucose with the 10-year cumulative incidence of type 2 diabetes</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">M</forename><surname>Admiraal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Holleman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Snijder</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Res Clin Pract</title>
+		<imprint>
+			<biblScope unit="volume">103</biblScope>
+			<biblScope unit="page" from="127" to="132" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Reproducibility of impaired glucose tolerance (IGT) and impaired fasting glucose (IFG) classification: a systematic review</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Balion</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">S</forename><surname>Raina</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Gerstein</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Chem Lab Med</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="1180" to="1185" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Dysglycaemia and the risk of acute myocardial infarction in multiple ethnic groups: an analysis of 15,780 patients from the INTERHEART study</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Gerstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Islam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Anand</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="2509" to="2517" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Association of A1C with cardiovascular disease and metabolic syndrome in Asian Indians with normal glucose tolerance</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Dilley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ganesan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Deepa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="1527" to="1532" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Re-assessing the contribution of serum total cholesterol, blood pressure and cigarette smoking to the aetiology of coronary heart disease: impact of regression dilution bias</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Emberson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">H</forename><surname>Whincup</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Morris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Walker</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur Heart J</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="1719" to="1726" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Ethnic disparities in diabetes management: a 10-year population-based repeated cross-sectional study in UK primary care</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Verma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Birger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Bhatt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Public Health (Oxf)</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="250" to="258" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Dyslipidemia in special ethnic populations</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Pu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Romanelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Zhao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cardiol Clin</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="325" to="333" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<title level="m" type="main">Ethnic variations in lipid-lowering in response to a statin (EVIREST): a substudy of the Anglo-Scandinavian Cardiac Outcomes Trial</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Chapman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Chang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Caulfield</surname></persName>
+		</author>
+		<imprint>
+			<publisher>ASCOT</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Ethn Dis</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="150" to="157" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Comparative Risk Assessment Collaborating Group. Estimates of global and regional potential health gains from reducing multiple major risk factors</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ezzati</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">V</forename><surname>Hoorn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rodgers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>Lopez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Mathers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Murray</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">362</biblScope>
+			<biblScope unit="page" from="271" to="280" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Ethnic disparities in diabetes management and pay-for-performance in the UK: the Wandsworth Prospective Diabetes Study</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Millett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Gray</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Saxena</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Netuveli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Khunti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Majeed</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS Med</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page">e191</biblScope>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Ethnic disparities in blood pressure management in patients with hypertension after the introduction of pay for performance</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Millett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Gray</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bottle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Majeed</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Fam Med</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="490" to="496" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Microcirculatory rarefaction in South Asians -a potential mechanism for increased cardiovascular risk and diabetes</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>Hughes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Bathula</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Park</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS One</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page">e76680</biblScope>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Impaired post-ischaemic microvascular hyperaemia in Indian Asians is unexplained by diabetes or other cardiovascular risk factors</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Bathula</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Shore</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Atherosclerosis</title>
+		<imprint>
+			<biblScope unit="volume">221</biblScope>
+			<biblScope unit="page" from="503" to="507" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">South Asians have adverse cerebrovascular haemodynamics, despite equivalent blood pressure, compared with Europeans. This is due to their greater hyperglycaemia</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Bathula</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>Hughes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Panerai</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="1490" to="1498" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Glycemic status underlies increased arterial stiffness and impaired endothelial function in migrant South Asian stroke survivors compared to European Caucasians: pathophysiological insights from the West Birmingham Stroke Project</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gunarathne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">V</forename><surname>Patel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kausar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Gammon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Hughes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">Y</forename><surname>Lip</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stroke</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="2298" to="2306" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

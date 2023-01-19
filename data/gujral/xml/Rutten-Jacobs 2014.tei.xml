@@ -1,0 +1,786 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">High Incidence of Diabetes after Stroke in Young Adults and Risk of Recurrent Vascular Events: The FUTURE Study</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2014-01-23">January 23, 2014</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Loes</surname></persName>
+						</author>
+						<author>
+							<persName><surname>Rutten-Jacobs</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Neurology</orgName>
+								<orgName type="department" key="dep2">Donders Institute for Brain</orgName>
+								<orgName type="institution" key="instit1">Radboud University Medical Center</orgName>
+								<orgName type="institution" key="instit2">Cognition and Behaviour</orgName>
+								<address>
+									<addrLine>The Netherlands</addrLine>
+									<settlement>Nijmegen</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>Pim</roleName><forename type="first">A</forename><forename type="middle">J</forename><surname>Keurlings</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Internal Medicine</orgName>
+								<orgName type="institution">Canisius Wilhelmina Hospital</orgName>
+								<address>
+									<addrLine>The Netherlands</addrLine>
+									<settlement>Nijmegen</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Renate</forename><forename type="middle">M</forename><surname>Arntz</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Neurology</orgName>
+								<orgName type="department" key="dep2">Donders Institute for Brain</orgName>
+								<orgName type="institution" key="instit1">Radboud University Medical Center</orgName>
+								<orgName type="institution" key="instit2">Cognition and Behaviour</orgName>
+								<address>
+									<addrLine>The Netherlands</addrLine>
+									<settlement>Nijmegen</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Noortje</forename><forename type="middle">A M</forename><surname>Maaijwee</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Neurology</orgName>
+								<orgName type="department" key="dep2">Donders Institute for Brain</orgName>
+								<orgName type="institution" key="instit1">Radboud University Medical Center</orgName>
+								<orgName type="institution" key="instit2">Cognition and Behaviour</orgName>
+								<address>
+									<addrLine>The Netherlands</addrLine>
+									<settlement>Nijmegen</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Henny</forename><forename type="middle">C</forename><surname>Schoonderwaldt</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Neurology</orgName>
+								<orgName type="department" key="dep2">Donders Institute for Brain</orgName>
+								<orgName type="institution" key="instit1">Radboud University Medical Center</orgName>
+								<orgName type="institution" key="instit2">Cognition and Behaviour</orgName>
+								<address>
+									<addrLine>The Netherlands</addrLine>
+									<settlement>Nijmegen</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Lucille</forename><forename type="middle">D</forename><surname>Dorresteijn</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Neurology</orgName>
+								<orgName type="institution">Medisch Spectrum Twente</orgName>
+								<address>
+									<settlement>Enschede</settlement>
+									<country key="NL">The Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Maureen</forename><forename type="middle">J</forename><surname>Van Der Vlugt</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Cardiology</orgName>
+								<orgName type="institution">Radboud University Medical Center</orgName>
+								<address>
+									<settlement>Nijmegen</settlement>
+									<country key="NL">The Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Ewoud</forename><forename type="middle">J</forename><surname>Van Dijk</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Neurology</orgName>
+								<orgName type="department" key="dep2">Donders Institute for Brain</orgName>
+								<orgName type="institution" key="instit1">Radboud University Medical Center</orgName>
+								<orgName type="institution" key="instit2">Cognition and Behaviour</orgName>
+								<address>
+									<addrLine>The Netherlands</addrLine>
+									<settlement>Nijmegen</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName><forename type="first">Frank-Erik</forename><surname>De Leeuw</surname></persName>
+							<email>frankerik.deleeuw@radboudumc.nl</email>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Neurology</orgName>
+								<orgName type="department" key="dep2">Donders Institute for Brain</orgName>
+								<orgName type="institution" key="instit1">Radboud University Medical Center</orgName>
+								<orgName type="institution" key="instit2">Cognition and Behaviour</orgName>
+								<address>
+									<addrLine>The Netherlands</addrLine>
+									<settlement>Nijmegen</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff4">
+								<orgName type="institution">Maastricht University Medical Center</orgName>
+								<address>
+									<country key="NL">Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">High Incidence of Diabetes after Stroke in Young Adults and Risk of Recurrent Vascular Events: The FUTURE Study</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2014-01-23">January 23, 2014</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">D5D4CF2D1F2571BF6600E6080EA78301</idno>
+					<idno type="DOI">10.1371/journal.pone.0087171</idno>
+					<note type="submission">Received October 14, 2013; Accepted December 18, 2013; Funding: The authors have no support or funding to report.</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.1" ident="GROBID" when="2022-07-19T22:45+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Background: Diabetes diagnosed prior to stroke in young adults is strongly associated with recurrent vascular events. The relevance of impaired fasting glucose (IFG) and incidence of diabetes after young stroke is unknown. We investigated the long-term incidence of diabetes after young stroke and evaluated the association of diabetes and impaired fasting glucose with recurrent vascular events.</p><p>Methods: This study was part of the FUTURE study. All consecutive patients between January 1, 1980, and November 1, 2010 with TIA or ischemic stroke, aged 18-50, were recruited. A follow-up assessment was performed in survivors between November 1, 2009 and January 1, 2012 and included an evaluation for diabetes, fasting venous plasma glucose and recurrent vascular events. The association of diabetes and IFG with recurrent vascular events was assessed by logistic regression analysis, adjusted for age, sex and follow-up duration.</p><p>Results: 427 survivors without a medical history of diabetes were included in the present analysis (mean follow-up of 10.1 (SD 8.4) years; age 40.3 (SD 7.9) years). The incidence rate of diabetes was 7.9 per 1000 person-years and the prevalence of IFG was 21.1%. Patients with diabetes and IFG were more likely to have experienced any vascular event than those with normal fasting glucose values ) for diabetes and OR 2.5 (95%CI 1.3-4.8) for IFG).</p><p>Conclusions: Diabetes or IFG in young stroke survivors is frequent and is associated with recurrent vascular events. Regular screening for IFG and diabetes in this population, yields potential for secondary prevention.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>Patients, who suffered a stroke at young age, are at high risk of recurrent vascular events and death <ref type="bibr" target="#b0">[1]</ref><ref type="bibr" target="#b1">[2]</ref><ref type="bibr" target="#b2">[3]</ref>. Because of the young age of these patients, the initial stroke as well as possible recurrent vascular events have a large impact on number of years lost to illhealth, disability and early death. Previous studies reported that vascular risk factors are common in these young adults <ref type="bibr" target="#b3">[4,</ref><ref type="bibr" target="#b4">5]</ref>. Secondary prevention measures targeting these vascular risk factors may diminish the risk of recurrent vascular events. However, risk factors that emerge after a young stroke often may go undetected in many patients as current protocols and guidelines only recommend screening of young stroke patients in the acute phase and only few months thereafter <ref type="bibr" target="#b5">[6]</ref>.</p><p>Risk of recurrent vascular events seems especially high in young stroke patients with a medical history of diabetes <ref type="bibr" target="#b6">[7]</ref>. In both the general population and in stroke patients over 65 years, also impaired fasting blood glucose (IFG) or impaired glucose tolerance, conditions that precede diabetes, have been associated with an increased risk of vascular events <ref type="bibr" target="#b7">[8,</ref><ref type="bibr" target="#b8">9]</ref>. Moreover, more than half of older stroke patients, who were not previously known to have diabetes, was diagnosed to have either impaired glucose tolerance or diabetes three months after stroke <ref type="bibr" target="#b9">[10]</ref>. Analogous to these older stroke patients, young stroke patients without a medical history of diabetes at the time of their index event may still develop IFG or incident diabetes after their young stroke as well. Particularly since regular monitoring of glucose levels after the acute phase of stroke in young adults without diabetes is seldom performed. Glucose control in patients with IFG or incident diabetes could be an important way to reduce risk of recurrent vascular events <ref type="bibr" target="#b10">[11]</ref>. However, the incidence of diabetes and IFG after stroke in young adults is currently unknown. Moreover, we are not aware of any study that investigates the association between impaired fasting blood glucose and recurrent vascular events in young stroke patients.</p><p>Therefore, we first investigated the incidence of diabetes after a mean follow-up of 10 years in survivors of a young TIA or ischemic stroke. Secondly, we investigated whether impaired fasting blood glucose and diabetes at follow-up were associated with the occurrence of vascular events during follow-up.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patients and study design</head><p>This study is a part of the ''Follow-Up of Transient ischemic attack and stroke patients and Unelucidated Risk factor Evaluation'' (FUTURE) study, a prospective cohort study of prognosis of stroke in young adults <ref type="bibr" target="#b1">[2,</ref><ref type="bibr" target="#b11">12]</ref>_ENREF_2.The Medical Review Ethics Committee region Arnhem-Nijmegen approved the study.</p><p>In short, the FUTURE study comprised all consecutive patients aged 18 through 50 years with a TIA, ischemic stroke or intracerebral hemorrhage admitted to the Radboud university medical center from January 1, 1980 until November 1, 2010. Only patients with TIA or ischemic stroke without a medical history of diabetes, who survived until the follow-up assessment, were included in the present study. Exclusion criteria were cerebral venous sinus thrombosis and retinal infarct.</p><p>To minimize bias resulting from changing diagnostic techniques, the World Health Organization definitions for TIA and stroke were used <ref type="bibr" target="#b12">[13,</ref><ref type="bibr" target="#b13">14]</ref>. The definition of TIA included a rapidly evolving focal neurologic deficit, without positive phenomena such as twitches, jerks or myoclonus, with vascular cause only and persisting for a period of less than 24 hours. Stroke was defined as focal neurologic deficit persisting for more than 24 hours. Stroke was subdivided into ischemic and hemorrhagic stroke, on the basis of radiological findings.</p><p>Patients were identified through a prospective registry of all patients with young stroke that has been maintained at our centre, beginning in 1978 <ref type="bibr" target="#b14">[15]</ref>, with a standardized data collection of baseline and clinical characteristics, including demographic data, stroke subtype and vascular risk factors <ref type="bibr" target="#b11">[12]</ref>. Assessment of both the etiology (Trial of Org 10172 in Acute Stroke Treatment [TOAST] classification) <ref type="bibr" target="#b15">[16]</ref> and severity (National Institutes of Health Stroke Scale [NIHSS]) <ref type="bibr" target="#b16">[17]</ref> was performed retrospectively in all cases on the basis of medical records, because these scales did not exist when a substantial number of our patients experienced their index event. In comparison to the original TOAST classification <ref type="bibr" target="#b17">[18]</ref>, the presently used classification has an additional category, ''likely large-artery atherosclerosis'' <ref type="bibr" target="#b15">[16]</ref>. Atherothrombotic stroke is defined as patients with (1) an ipsilateral internal carotid stenosis .50% (in NASCET criteria), or (2) an ipsilateral stenosis .50% of another intra/extracranial artery, or (3) mobile thrombus in the aortic arch. Likely atherothrombotic stroke is defined as patients with no evidence of atherothrombotic stroke with (1) an ipsilateral internal carotid stenosis ,50%, or (2) an ipsilateral stenosis ,50% of another intra/extracranial artery, or (3) aortic arch plaques .4 mm in thickness without a mobile component, or (4) a history of myocardial infarction or coronary revascularization, (5) a history of documented peripheral arterial disease, or (6) at least two risk factors for atherosclerotic disease: arterial hypertension (treated or known blood pressure before stroke .135/85 mm Hg or hypertensive retinopathy), diabetes mellitus (treated or known blood fasting glucose .7 mmol/dl), current smoking (or smoking stopped within the last 6 months), high cholesterol (treated or known low-density lipoprotein before the stroke .160 mg/dl).</p><p>Patients alive were invited for follow-up assessment between November 1, 2009 and January 1, 2012. Participants provided written informed consent.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Diabetes and impaired fasting glucose</head><p>To answer the first research question, the incidence of diabetes was the primary outcome measure, either diagnosed during followup or at the follow-up assessment.</p><p>The detection of incident diabetes during follow-up was done by a two step approach. First patients were asked whether diabetes was diagnosed during the follow-up period, by means of a standardized structured questionnaire. If so, patients' general practitioner was contacted to verify the diagnosis systematically, and to ascertain information about the plasma glucose level, type of diagnosed diabetes and initiated treatment.</p><p>Secondly, venous plasma samples were taken from all participants at the follow-up assessment after overnight fasting to measure plasma glucose. Whenever glucose was $5.6 mmol/L, the patient was sent to the general practitioner to obtain a second fasting venous plasma glucose.</p><p>Incident diabetes was defined as: 1) treatment with antidiabetic medication or a diagnosis of diabetes (confirmed by a physician) during the follow-up period or 2) two consecutive fasting venous plasma glucose levels of $7.0 mmol/L at the follow-up assessment.</p><p>Regarding the second research question, secondary outcomes were the prevalence of diabetes or IFG and the occurrence of vascular events in relation to fasting blood glucose levels at the follow-up assessment. IFG was only assessed at the follow-up assessment, defined as a fasting blood glucose of 5.6 mmol/L-6.9 mmol/L.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Vascular events</head><p>Patients were evaluated for recurrent vascular events by means of a standardized, structured questionnaire <ref type="bibr" target="#b2">[3]</ref>. Whenever a recurrent event was suspected, information retrieved was verified and adjudicated by physicians from the appropriate specialty (FEdL, EvD, MvdV).</p><p>A composite vascular event was defined as the combination of stroke (ischemic or hemorrhagic), myocardial infarction, and cardiovascular procedures (coronary artery bypass grafting, percutaneous transluminal coronary angioplasty, carotid endarterectomy or other peripheral arterial revascularization procedures), whichever occurred first. Separate analyses were done for stroke and other arterial events.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analysis</head><p>To answer the first research question, the incidence rate of diabetes was calculated for stroke subtypes. To answer the second research question, fasting blood glucose values at the follow-up assessment were categorized into normal fasting blood glucose (,5.6 mmol/L), impaired fasting blood glucose (5.6 mmol/L-6.9 mmol/L) and diabetes ($7.0 mmol/L or incident diabetes during follow-up). Baseline characteristics were compared between patients without diabetes or impaired fasting glucose and patients with diabetes or impaired fasting glucose using Student's t test, Mann-Whitney U test or chi-square-test whenever appropriate. Odds ratios were calculated for the association between fasting blood glucose categories at the follow-up assessment and the occurrence during follow-up of the composite vascular event, other arterial events and stroke separately, adjusted for age of the index stroke, sex, and follow-up duration.</p><p>Analyses were done using IBM SPSS Statistics version 20. Twosided P values of less than 0.05 were considered to indicate statistical significance.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>427 patients completed follow-up assessment (Figure <ref type="figure" target="#fig_0">1</ref>). Baseline characteristics are presented in table 1. There were no differences in baseline characteristics between participants and non-participants (patients lost to follow-up, patients with no venipuncture or patients who refused), except for history of TIA (3.5% in participants and 0.7% in nonparticipants).</p><p>After a mean follow-up of 10.1 years (SD 8.4), diabetes was diagnosed in 11 TIA patients (7.1%) and 23 ischemic stroke patients (8.5%), resulting in an incidence rate per 1000 person years of 7.9 and 7.8 respectively. Among those without diabetes at follow-up, 83 patients (21.1%) had an IFG (5.6-6.9 mmol/L) and 310 patients (78.9%) had normal blood glucose values.</p><p>Compared with patients without IFG or incident diabetes at the follow-up assessment, patients with incident diabetes were at baseline more often older, had a longer mean follow-up duration, had a likely atherothrombotic stroke, a medical history of hypertension, a medical history of smoking and a family history of diabetes (Table <ref type="table" target="#tab_1">2</ref>). Compared with patients without IFG or incident diabetes at the follow-up assessment, patients with IFG at the follow-up assessment were at baseline more frequently men, had a higher age, a longer mean follow-up duration, a likely atherothrombotic stroke and a medical history of hypertension.</p><p>At follow-up, 12 patients with incident diabetes (35.3%) had experienced any vascular event (composite event) and 7 patients (20.6%) of them experienced more than one event; 4 patients (11.8%) had at least one stroke and 10 patients (29.4%) had experienced at least one other arterial event. Among patients with IFG at follow-up, 21 patients (25.3%) had experienced any vascular event and 6 patients (7.2%) of them experienced more than one event; 10 patients (12.9%) had at least one stroke and 11 patients (13.3%) had experienced at least one other arterial event. Among patients with normal fasting blood glucose levels at followup, 30 patients (9.7%) had experienced any vascular event and 6 patients (1.9%) of them; patients (7.7%) had experienced at least one stroke and 8 patients (2.6%) had experienced at least one other arterial event. In all fasting blood glucose groups, the proportion of patients on antiplatelet medication at discharge did not differ between patients who experienced a recurrent vascular event compared with patients who did not experience a recurrent vascular event during follow-up. After adjusting for age of index stroke, sex and follow-up duration, patients with diabetes and IFG were more likely to have experienced any vascular event during follow-up than those with normal fasting blood glucose values (OR 3.5 (95%CI 1.5-8.4) for diabetes and OR 2.5 (95%CI 1.3-4.8) for IFG). Risk for the recurrence of stroke was not different for patients with incident diabetes and IFG compared with those with normal fasting blood glucose values (OR 1.2 (95%CI 0.4-4.0) for diabetes and OR 1.4 (95%CI 0.6-3.3) for IFG). Risk of other arterial events was increased in patients with diabetes and IFG compared with those with normal fasting blood glucose levels (OR 8.4 (95% CI 2.7-26.4) for diabetes and (OR 3.6 (95%CI 1.3-9.6) for IFG).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>We demonstrated that 8% of young stroke survivors developed diabetes during a mean follow-up of 10 years after stroke, which is more than two times higher than expected compared with persons from a Dutch general practitioner registry with similar age and sex <ref type="bibr" target="#b18">[19]</ref>. Moreover, we showed that among those patients without diabetes at the follow-up assessment, 21% had impaired fasting blood glucose values. In our study, both patients with diabetes and patients with IFG at the follow-up assessment were about three times more likely to experience any vascular event during followup than those with normal fasting blood glucose values.</p><p>To our knowledge, our study is the first to evaluate the incidence of diabetes after stroke in young adults and to study the association between fasting blood glucose values and recurrent vascular events. Moreover, our study has the longest follow-up period reported and one of the largest study populations in the field of young stroke. Collecting data all in one site allowed us to collect baseline and follow-up information according to identical procedures in all patients thereby reducing the risk of information bias.</p><p>Our study has some limitations. First, it may be that not all cases of young stroke in our catchment area were included in our cohort, because our cohort is a single-center, hospital-based study, rather than community-based. Only those patients who sustained a fatal stroke, who were not admitted to our hospital, would not have been included in our study. Patients who survive usually visit a university medical center during the course of their disease. In addition, there are no restrictions to be admitted to our hospital and we included all consecutive cases admitted. We therefore presume that our study population is a representative sample of Dutch patients with young stroke, although formal data are lacking to prove this generalizability.</p><p>Second, we investigated the association of IFG and diabetes with recurrent vascular events during follow-up in a cross-sectional analysis, on average 10 years after the index event in patients that survived until the follow-up assessment. Data are given as number (percentage) or otherwise stated *Scores range from 0 to 42 with higher scores on the scale indicating worse stroke severity. 0.5% of NIHSS was missing.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>{</head><p>Smoking was defined as smoking at least 1 cigarette a day in the year prior to the event. 1.9% of data on smoking was missing. `Excess alcohol consumption was defined as consuming more than 200 grams of pure alcohol per week</p><formula xml:id="formula_0">1</formula><p>First degree family member. 0.9% of data on family history of diabetes was missing. doi:10.1371/journal.pone.0087171.t001</p><p>Thus the measurement of blood glucose values is done after a recurrent event occurred. This may have induced survivor bias. IFG and diabetes may be associated with the severity of the recurrent event and as a consequence, patients with IFG and diabetes may be underrepresented in survivors with recurrent events, which may have attenuated the association between IFG/ diabetes and recurrent events.</p><p>Furthermore, IFG was only measured at the follow-up assessment, whereas for diabetes also a diagnosis established during the follow-up period was taken in account. Diabetes that developed during follow-up might otherwise have been missed at the follow-up assessment due to initiated treatment.</p><p>Third, some patients were lost to follow-up or refused to participate, which potentially could have resulted in selection bias. However, non-participants did not differ in baseline characteristic from participants, making selection bias in this group unlikely.</p><p>Fourth, our study has a long inclusion period, during which diagnostic equipment, acute treatment and secondary prevention have improved. However, this is an unavoidable feature of a longterm follow-up study. Furthermore, the long follow-up period might have resulted in recall bias with respect to vascular events. However, this probably would have underestimated the association between diabetes and recurrent vascular events, since the incidence of diabetes was strongly related to the number of followup years.</p><p>Fifth, secondary prevention might have influenced our results. In our study about 90% of all patients used secondary preventive medication at discharge. Consequently the shown risk of recurrent vascular events might be an underestimation attributable to the use of this preventive medication. Sixth, as is reflected by the wide CIs, estimates for some subgroups that contain only a few patients might be unstable and should therefore be interpreted with caution.</p><p>So far, the only studies reporting on epidemiology of diabetes in young stroke patients restricted their reports to diabetes diagnosed prior to stroke. The proportion of patients with a medical history of diabetes varied widely in these studies, ranging from 2-12% <ref type="bibr" target="#b6">[7,</ref><ref type="bibr" target="#b19">20,</ref><ref type="bibr" target="#b20">21]</ref>. Our observed prevalence of diabetes based on the medical history of 4.9% is in the middle of this range.</p><p>We showed in univariate analysis that incident diabetes after TIA or ischemic stroke was associated with age, likely atherothrombotic stroke and family history of diabetes, which are among well established risk factors for diabetes in the general population. In addition, we showed that both patients with diabetes and patients with IFG were far more likely to have experienced any arterial during follow-up than those with normal fasting blood glucose values. These results suggest an intimate relationship in young stroke patients between pre-existent vulnerability to atherosclerosis and incident diabetes, which is an atherogenic risk factor itself. However, it is also possible that diabetes was already present but not revealed during the index event. p values refer to a comparison between patients with IFG and patients with no IFG or diabetes `Scores range from 0 to 42 with higher scores on the scale indicating worse stroke severity. 0.4% of NIHSS was missing.</p><p>1</p><p>Smoking was defined as smoking at least 1 cigarette a day in the year prior to the event. 2.9% of data on smoking was missing.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>||</head><p>Excess alcohol consumption was defined as consuming more than 200 grams of pure alcohol per week " First degree family member. 1.0% of data on family history of diabetes was missing. doi:10.1371/journal.pone.0087171.t002</p><p>Incident diabetes or IFG was not associated with recurrent stroke. An explanation might be that diabetes needs to be present for many years to be a risk factor for recurrent stroke. This is in line with a previous study in young adults with ischemic stroke that showed that among patients with type 1 diabetes, duration of diabetes was on average 10 years longer in those with recurrent stroke versus those without recurrent stroke <ref type="bibr" target="#b6">[7]</ref>. Another explanation for the lack of association might be the possibility of index event bias <ref type="bibr" target="#b21">[22]</ref>. a study investigating recurrence, patients are included based on the occurrence of the first event that is similar to the recurrent event. This has an effect on the distribution of risk factors in this selected population and the association of these risk factors with the outcome of interest.</p><p>The high incidence of diabetes during our long follow-up period, but also the high proportion of patients with IFG, emphasizes that young stroke survivors remain vulnerable to the development of (risk factors for) vascular disease, even decades after their initial stroke. Active screening for IFG and diabetes after stroke in young adults may allow for early diagnoses of IFG and diabetes and thereby provide a therapeutic window to lower the risk of recurrent vascular events. Similar to the general population, young stroke patients with a higher age, having other vascular risk factors or a family history of diabetes, might benefit the most from active screening.</p><p>To conclude, IFG and diabetes after stroke in young patients may remain unnoticed in many patients. A regular screening for IFG and diabetes after young stroke, particularly in those with increasing age, having other vascular risk factors or a family history of diabetes, yields potential for secondary prevention.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Author Contributions</head></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. Flowchart of the study population. doi:10.1371/journal.pone.0087171.g001</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 .</head><label>1</label><figDesc>Baseline characteristics of patients.</figDesc><table><row><cell>Total</cell><cell>TIA</cell><cell>Ischemic stroke</cell></row></table><note>Abbreviations: TIA, transient ischemic attack; SD, standard deviation; NIHSS, National Institute of Health Stroke Scale; IQR, interquartile range; TOAST, Trial of Org 10172 in Acute Treatment.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 .</head><label>2</label><figDesc>Presence of baseline factors in patients with incident diabetes or impaired fasting glucose at follow-up.</figDesc><table><row><cell>No diabetes or IFG</cell><cell>Diabetes</cell><cell>p*</cell><cell>I F G</cell><cell>p {</cell></row></table><note>Abbreviations: IFG, impaired fasting glucose; TIA, transient ischemic attack; SD, standard deviation; NIHSS, National Institute of Health Stroke Scale; IQR, interquartile range; TOAST, Trial of Org 10172 in Acute Stroke Treatment. Data are given as number (percentage) or otherwise stated *p values refer to a comparison between patients with incident diabetes and patients with no IFG or diabetes {</note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">PLOS ONE | www.plosone.org</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">January 2014 | Volume 9 | Issue 1 | e87171</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0" />
+			</div>
+
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Recurrent ischemic events in young adults after first-ever ischemic stroke</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Putaala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Haapaniemi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Metso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">M</forename><surname>Metso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Artto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Neurol</title>
+		<imprint>
+			<biblScope unit="volume">68</biblScope>
+			<biblScope unit="page" from="661" to="671" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Long-term mortality after stroke among adults aged 18 to 50 years</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">C</forename><surname>Rutten-Jacobs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Arntz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">A</forename><surname>Maaijwee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Schoonderwaldt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">D</forename><surname>Dorresteijn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">309</biblScope>
+			<biblScope unit="page" from="1136" to="1144" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Long-term risk of recurrent vascular events after young stroke: The FUTURE study</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">C</forename><surname>Rutten-Jacobs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">A</forename><surname>Maaijwee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Arntz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Schoonderwaldt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">D</forename><surname>Dorresteijn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Neurol</title>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Demographic and geographic vascular risk factor differences in European young adults with ischemic stroke: the 15 cities young stroke study</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Putaala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Yesilot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Waje-Andreassen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Pitkaniemi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Vassilopoulou</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stroke</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page" from="2624" to="2630" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Lifestyle risk factors for ischemic stroke and transient ischemic attack in young adults in the Stroke in Young Fabry Patients study</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Von Sarnowski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Putaala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Grittner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Gaertner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Schminke</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stroke</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page" from="119" to="125" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Clinical practice. Secondary prevention after ischemic stroke or transient ischemic attack</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Davis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Donnan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">366</biblScope>
+			<biblScope unit="page" from="1914" to="1922" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Diabetes mellitus and ischemic stroke in the young: clinical features and longterm prognosis</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Putaala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Liebkind</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Gordin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Thorn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Haapaniemi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neurology</title>
+		<imprint>
+			<biblScope unit="volume">76</biblScope>
+			<biblScope unit="page" from="1831" to="1837" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Impaired glucose tolerance increases stroke risk in nondiabetic patients with transient ischemic attack or minor ischemic stroke</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Vermeer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Sandee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Algra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Koudstaal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">J</forename><surname>Kappelle</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stroke</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="1413" to="1417" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Pre-diabetes and the risk for cardiovascular disease: a systematic review of the evidence</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Ford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Li</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Coll Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="1310" to="1317" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Prevalence of abnormal glucose tolerance following a transient ischemic attack or ischemic stroke</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">N</forename><surname>Kernan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Viscoli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Inzucchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Brass</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Bravata</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">165</biblScope>
+			<biblScope unit="page" from="227" to="233" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">10-year follow-up of intensive glucose control in type 2 diabetes</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Holman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Paul</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Bethel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Matthews</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">A</forename><surname>Neil</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">359</biblScope>
+			<biblScope unit="page" from="1577" to="1589" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Risk factors and prognosis of young stroke. The FUTURE study: a prospective cohort study. Study rationale and protocol</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">C</forename><surname>Rutten-Jacobs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">A</forename><surname>Maaijwee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Arntz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Van Alebeek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Schaapsmeerders</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMC Neurol</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page">109</biblScope>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Cerebrovascular disease in the community: results of a WHO collaborative study</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Aho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Harmsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hatano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Marquardsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">E</forename><surname>Smirnov</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bull World Health Organ</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="page" from="113" to="130" />
+			<date type="published" when="1980">1980</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Experience from a multicentre stroke register: a preliminary report</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hatano</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bull World Health Organ</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page" from="541" to="553" />
+			<date type="published" when="1976">1976</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Heterozygosity for homocystinuria in premature peripheral and cerebral occlusive arterial disease</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">H</forename><surname>Boers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">G</forename><surname>Smals</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">J</forename><surname>Trijbels</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Fowler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Bakkeren</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">313</biblScope>
+			<biblScope unit="page" from="709" to="715" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Rationale and design of a randomized, double-blind, parallel-group study of terutroban 30 mg/day versus aspirin 100 mg/day in stroke patients: the prevention of cerebrovascular and cardiovascular events of ischemic origin with terutroban in patients with a history of ischemic stroke or transient ischemic attack (PERFORM) study</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Bousser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Amarenco</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Chamorro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Fisher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Ford</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cerebrovasc Dis</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="509" to="518" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Measurements of acute cerebral infarction: a clinical examination scale</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Brott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Adams</forename><surname>Hp</surname><genName>Jr</genName></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Olinger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Marler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">G</forename><surname>Barsan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stroke</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="864" to="870" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Classification of subtype of acute ischemic stroke. Definitions for use in a multicenter clinical trial. TOAST. Trial of Org 10172 in Acute Stroke Treatment</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">P</forename><surname>Adams</surname><genName>Jr</genName></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">H</forename><surname>Bendixen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">J</forename><surname>Kappelle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Biller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">B</forename><surname>Love</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stroke</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="35" to="41" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">Diabetes mellitus: prevalence, incidence and death according to age and gender. Volksgezondheid Toekomst Verkenning, Nationaal Kompas Volksgezondheid</title>
+		<author>
+			<persName><forename type="first">Mjjc</forename><surname>Poos</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<publisher>RIVM</publisher>
+			<pubPlace>Bilthoven</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Clinical outcome in 287 consecutive young adults (15 to 45 years) with ischemic stroke</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Leys</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Bandu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Henon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lucas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Mounier-Vehier</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neurology</title>
+		<imprint>
+			<biblScope unit="volume">59</biblScope>
+			<biblScope unit="page" from="26" to="33" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Arterial after ischemic stroke at a young age: a cross-sectional long-term follow-up of patients and controls in western Norway</title>
+		<author>
+			<persName><forename type="first">U</forename><surname>Waje-Andreassen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Naess</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Thomassen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Eide</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Vedeler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cerebrovasc Dis</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="277" to="282" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Index event bias as an explanation for the paradoxes of recurrence risk research</title>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">J</forename><surname>Dahabreh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Kent</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">305</biblScope>
+			<biblScope unit="page" from="822" to="823" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>
