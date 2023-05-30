@@ -3,8 +3,6 @@ import pandas as pd
 import numpy as np
 from sklearn.metrics import cohen_kappa_score
 
-# Root directory of project
-dirname = os.path.dirname(__file__).rsplit('/', 1)[0]
 
 header = ['gold_igt', 'gold_ifg_ada', 'gold_ifg_who', 'gold_hba1c_ada', 'gold_hba1c_iec']
 
@@ -31,17 +29,13 @@ def load_data(file_path, label_list, col2index = 'Study'):
     return labels
 
 ### Load in annotation data separately ###
-cai_in = os.path.join(dirname, 'cohen_kappa_score/cai_annotations.csv')
+cai_in = 'cai_annotations.csv'
 cai_lol = ['IGT', 'IFG-ADA', 'IFG-WHO', 'HbA1c-ADA', 'HbA1c-IEC']
 cai_labels = load_data(cai_in, cai_lol)
 
-gujral_in = os.path.join(dirname, 'cohen_kappa_score/gujral_annotations.csv')
+gujral_in = 'gujral_annotations.csv'
 gujral_lol = ['IGT', 'IFG (ADA)', 'IFG (WHO)', 'HbA1c (ADA)', 'HbA1c (IEC)']
 gujral_labels = load_data(gujral_in, gujral_lol)
-
-nick_in = os.path.join(dirname, 'cohen_kappa_score/nick_annotations.csv')
-nick_lol = ['IGT', 'IFG (ADA)', 'IFG (WHO)', 'HbA1c (ADA)', 'HbA1c (IEC)']
-nick_labels = load_data(nick_in, nick_lol)
 
 ### Cohen's Kappa calculations ###
 def print_cohen_kappa(labels_1, labels_2):
@@ -58,7 +52,3 @@ def print_cohen_kappa(labels_1, labels_2):
 
 print("Cai vs. Gujral")
 print_cohen_kappa(cai_labels, gujral_labels)
-print("Nick vs. Cai")
-print_cohen_kappa(nick_labels, cai_labels)
-print("Nick vs. Gujral")
-print_cohen_kappa(nick_labels, gujral_labels)
